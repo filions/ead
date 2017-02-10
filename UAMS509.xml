@@ -1,0 +1,1159 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal"
+		id="a0">
+		<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special
+			Collections//text(US::AzU:University of Arizona Business and Professional Women’s Club
+			Records)//en""UAMS509.xml"</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper> University of Arizona Business and Professional Women’s Club Records,
+						<date normal="1964/2013" era="ce" calendar="gregorian"
+						certainty="approximate">1964-2013</date>
+				</titleproper>
+				<author>Processed by Amy Erives.</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>University of Arizona Libraries, Special Collections</publisher>
+				<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address>
+				<date normal="2013" era="ce" calendar="gregorian">; 2013</date>
+				<p>Arizona Board of Regents. All Rights Reserved.</p>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Inventory encoded in Oxygen XML editor by Amy Erives. <date era="ce"
+					encodinganalog="date" normal="20131009">Oct. 9, 2013</date></creation>
+			<langusage>Finding aid is in<language> English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<frontmatter>
+		<titlepage>
+			<titleproper> University of Arizona Business and Professional Women’s Club Records,<date
+					era="ce" calendar="gregorian">1964-2013</date></titleproper>
+			<num>Collection Number: MS 509 </num>
+			<publisher>University of Arizona Libraries, Special Collections</publisher>
+			<list>
+				<defitem>
+					<label>Processed by:</label>
+					<item> Amy Erives </item>
+				</defitem>
+				<defitem>
+					<label>Date completed:</label>
+					<item>
+						<date>Oct. 9, 2013</date></item>
+				</defitem>
+				<defitem>
+					<label>Encoded by:</label>
+					<item> Amy Erives </item>
+				</defitem>
+			</list>
+			<p>&#x00A9; 2013. Arizona Board of Regents. All rights reserved.</p>
+		</titlepage>
+	</frontmatter>
+	<archdesc level="collection" type="inventory" relatedencoding="marc21">
+		<did id="a1">
+			<head>Collection Summary</head>
+			<unittitle encodinganalog="245" label="Collection Name:"> University of Arizona Business
+				and Professional Women’s <unitdate type="inclusive" label="Dates:"
+					normal="1964/2013">1964-2013</unitdate></unittitle>
+			<unitid label="Collection Number:" encodinganalog="099" repositorycode="AzU"
+				countrycode="us">MS 509</unitid>
+			<origination label="Creator:">
+				<corpname source="lcnaf" encodinganalog="110">University of Arizona Business and
+					Professional Women’s Club</corpname>
+			</origination>
+			<abstract label="Abstract:">The University of Arizona Business and Professional Women’s
+				Club (UA/BPW) records contains materials relating to the club’s presence at the
+				University of Arizona since its establishment in 1964. The collection is divided
+				into nine series: club history, publications, meeting minutes and agendas,
+				correspondence, scrapbook albums, program materials, awards, ephemera and political
+				material.</abstract>
+			<physdesc encodinganalog="300$a" label="Physical Description:"><extent>7.25 Linear
+					feet.</extent></physdesc>
+			<repository label="Repository:">
+				<corpname>University of Arizona Libraries, Special Collections</corpname>
+				<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository>
+			<langmaterial>Materials in <language encodinganalog="546" langcode="eng"
+					scriptcode="Latin">English</language></langmaterial>
+		</did>
+		<accessrestrict>
+			<head>Restrictions</head>
+			<p> None.</p>
+		</accessrestrict>
+		<userestrict>
+			<head>Copyright</head>
+			<p>It is the responsibility of the user to obtain permission to publish from the owner
+				of the copyright (the institution, the creator of the record, the author or his/her
+				transferees, heirs, legates, or literary executors). The user agrees to indemnify
+				and hold harmless the Arizona Board of Regents for the University of Arizona, its
+				officers, employees, and agents from and against all claims made by any person
+				asserting that he or she is an owner of copyright.</p>
+		</userestrict>
+		<prefercite>
+			<head>Credit Line</head>
+			<p>University of Arizona Business and Professional Women’s Club(MS 509). Special
+				Collections, University of Arizona Libraries.</p>
+		</prefercite>
+		<bioghist id="a2" encodinganalog="545">
+			<head>Historical Note</head>
+			<p>The University of Arizona Business and Professional Women’s Club (UA/BPW) was
+				organized in 1964 becoming a chapter of the Arizona Federation of Business and
+				Professional Women’s Clubs (BPW/AZ) and the National Federation of Business Women’s
+				Clubs (BPW/USA). At the club’s founding meeting at the University, President Richard
+				Harvill officially recognized UA/BPW at the University of Arizona campus. The
+				University of Arizona Business and Professional Women’s Club became the first BPW
+				club charted at a college campus by the BPW/USA.</p>
+			<p>UA/BPW members during the 1960’s and 1970’s were a mix of classified staff and
+				faculty but later were mainly women who worked on campus as classified staff
+				employees ranging from business managers, administrative assistants, etc.. The goals
+				of the organization was to provide networking and support for the women on campus,
+				address legislative and social issues affecting women, and provide scholarships for
+				women. In addition to the commitment of their activities on campus, many members
+				were also active members of other clubs and organizations that supported women
+				issues in society.</p>
+			<p>Over the years, the club brought many successful events, projects and programs to the
+				campus to help reach their goals. Some of their most notable achievements were
+				sponsoring the Bring Your Boss to Lunch fundraiser (1964-1986); sponsoring
+				approximately 6 annual Women in Management Conferences on campus (1960’s-1970’s);
+				sponsoring yearly film shows on women’s issues on campus for faculty, staff, and
+				students (1990); sponsoring a brown bag lunch series on career related topics
+				(1994-1997); lobbying for Senate Bills 1168 and 1291 (1998-1999); and co-sponsoring
+				pay equity events with NOW and Tucson’s Women’s Commission (1994-2004).</p>
+		</bioghist>
+		<arrangement id="a4" encodinganalog="351$a">
+			<head>Arrangement</head>
+			<p>This collection is organized into nine series </p>
+			<list>
+				<item>Series I: Club History <unitdate>1964-2013</unitdate></item>
+				<item>Series II: Publications <unitdate>1954-2012</unitdate></item>
+				<item>Series III: Meeting Minutes and Agendas <unitdate>1964-2011</unitdate></item>
+				<item>Series IV: Correspondence <unitdate>1964-2011</unitdate></item>
+				<item>Series V: Scrapbook Albums <unitdate>1964-2011</unitdate></item>
+				<item>Series VI: Program Material <unitdate>1964-2005</unitdate></item>
+				<item>Series VII: Awards <unitdate>1970-2012</unitdate></item>
+				<item>Series VIII: Ephemera <unitdate>1964-2009</unitdate></item>
+				<item>Series IX: Political Material <unitdate>1971-2003</unitdate></item>
+			</list>
+		</arrangement>
+		<scopecontent id="a3" encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>The collection (1964-2013), contains materials including meeting minutes and agendas,
+				club history, correspondence, publications, scrapbooks of newspaper clippings
+				related to the clubs members and activities they were involved in and photographs.
+			</p>
+		</scopecontent>
+		<relatedmaterial id="a6" encodinganalog="5441">
+			<p/>
+		</relatedmaterial>
+		<controlaccess id="a12">
+			<head>Access Terms</head>
+			<list>
+				<item>
+					<corpname encodinganalog="610" source="lcnaf" role="subject">University of Arizona. Business and Professional Women’s Club</corpname></item>
+			</list>
+			<list>
+				<item>
+					<corpname encodinganalog="610" source="lcnaf" role="subject">University of Arizona--History</corpname></item>
+			</list>
+			<list>
+				<item>
+					<subject encodinganalog="650" source="lcsh">Universities and colleges -- Employees -- Arizona</subject></item>
+			</list>
+			<list>
+				<item>
+					<subject encodinganalog="650" source="lcsh">Universities and colleges -- Arizona -- Faculty</subject></item>
+			</list>
+			<list>
+				<item>
+					<subject encodinganalog="650" source="lcsh">Clubs--Arizona--Tucson</subject></item>
+			</list>
+			<list>
+				<item>
+					<subject encodinganalog="650" source="lcsh">Women--Arizona</subject></item>
+			</list>
+			<list>
+				<item>
+					<subject encodinganalog="650" source="lcsh">Political Clubs--Societies and Clubs</subject>
+				</item>
+			</list>
+			<list>
+				<item>
+					<geogname encodinganalog="651" source="lcsh" role="subject">Tucson--Arizona--United States</geogname>
+				</item>
+			</list>
+		</controlaccess>
+		<dsc type="combined" id="a23">
+			<head>Container List</head>
+			<c01 level="series" id="ser1">
+				<did>
+					<unittitle> Series I: Club History <unitdate type="inclusive"
+							>1964-2013</unitdate></unittitle>
+				</did>
+				<scopecontent>
+					<p> Contains the club overview, bylaws, membership lists, financial records,
+						officer nominations and reports from past officers.</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container type="box"> 1 </container>
+						<container type="folder"> 1 </container>
+						<unittitle> Overview </unittitle>
+						<unitdate>1987-2013</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box"> 1 </container>
+						<container type="folder"> 2 </container>
+						<unittitle>Bylaws</unittitle>
+						<unitdate> 1964-1992</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">1</container>
+						<container type="folder">3</container>
+						<unittitle>Bylaws</unittitle>
+						<unitdate>1996-2010</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">1</container>
+						<container type="folder">4</container>
+						<unittitle>Membership List</unittitle>
+						<unitdate>1966-1980</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">1</container>
+						<container type="folder">5</container>
+						<unittitle>Membership List</unittitle>
+						<unitdate>1985-1993</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">1</container>
+						<container type="folder">6</container>
+						<unittitle>Membership List</unittitle>
+						<unitdate>1995-1999</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">1</container>
+						<container type="folder">7</container>
+						<unittitle>Membership List</unittitle>
+						<unitdate>1999-2007</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">1</container>
+						<container type="folder">8</container>
+						<unittitle>Membership List</unittitle>
+						<unitdate>2000-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">2</container>
+						<container type="folder">1</container>
+						<unittitle>Membership List</unittitle>
+						<unitdate>2004-2011</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">2</container>
+						<container type="folder">2</container>
+						<unittitle>Training Documents</unittitle>
+						<unitdate>1987-1991</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">2</container>
+						<container type="folder">3</container>
+						<unittitle>Financial Receipts</unittitle>
+						<unitdate>1964-1965</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">2</container>
+						<container type="folder">4</container>
+						<unittitle>Financial Reports</unittitle>
+						<unitdate>1976-1994</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">2</container>
+						<container type="folder">5</container>
+						<unittitle>Financial</unittitle>
+						<unitdate>1964-1998</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">2</container>
+						<container type="folder">6</container>
+						<unittitle>Fundraising</unittitle>
+						<unitdate>1999-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">2</container>
+						<container type="folder"> 7 </container>
+						<unittitle>Officer Nominations</unittitle>
+						<unitdate>1991-2002</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">2</container>
+						<container type="folder">8</container>
+						<unittitle>Officer Reports </unittitle>
+						<unitdate>1969-1992</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">2</container>
+						<container type="folder">9</container>
+						<unittitle>Notes of President Angie Toledo</unittitle>
+						<unitdate>2000-2003</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="ser2">
+				<did>
+					<unittitle> Series II: Publications <unitdate type="inclusive"> 1953-2013
+						</unitdate></unittitle>
+				</did>
+				<scopecontent>
+					<p> Contains the clubs newsletters, Around Old Main newsletters, The
+						Communicator Newsletter, Pep * Talk newsletter, Arizona Women Magazine, and
+						Arizona Business Woman Magazine. </p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container type="box">3</container>
+						<container type="folder">1</container>
+						<unittitle>Around Old Main Newsletter</unittitle>
+						<unitdate>1965-1978</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">3</container>
+						<container type="folder">2</container>
+						<unittitle>Newsletters</unittitle>
+						<unitdate>1968-1980</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">3</container>
+						<container type="folder">3</container>
+						<unittitle>Pep* Talk</unittitle>
+						<unitdate>1969-1976</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">3</container>
+						<container type="folder">4</container>
+						<unittitle>The Communicator Newsletter</unittitle>
+						<unitdate>1986-1990</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">3</container>
+						<container type="folder">5</container>
+						<unittitle>Club Newsletters</unittitle>
+						<unitdate>1991-1995</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">4</container>
+						<container type="folder">1</container>
+						<unittitle>Club Newsletters</unittitle>
+						<unitdate>1996-1999</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">4</container>
+						<container type="folder">2</container>
+						<unittitle>Club Newsletters</unittitle>
+						<unitdate>2004-2009</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">4</container>
+						<container type="folder">3</container>
+						<unittitle>Arizona Woman Magazines</unittitle>
+						<unitdate>1953-1967</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">4</container>
+						<container type="folder">4</container>
+						<unittitle>Arizona Woman Magazines</unittitle>
+						<unitdate> 1968-1971 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">4</container>
+						<container type="folder">5</container>
+						<unittitle>Arizona Woman Magazines</unittitle>
+						<unitdate>1972-1977</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">5</container>
+						<container type="folder">1</container>
+						<unittitle>Arizona Woman Magazines</unittitle>
+						<unitdate>1977-1979</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">5</container>
+						<container type="folder">2</container>
+						<unittitle>Arizona Woman Magazines</unittitle>
+						<unitdate>1980-1982</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">5</container>
+						<container type="folder">3</container>
+						<unittitle> Arizona Business Woman Magazines </unittitle>
+						<unitdate> 1983-1985 </unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">5</container>
+						<container type="folder">4</container>
+						<unittitle> Arizona Business Woman Magazines </unittitle>
+						<unitdate>1986-1990</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">5</container>
+						<container type="folder">5</container>
+						<unittitle>Arizona Business Woman Magazines</unittitle>
+						<unitdate>1991-1993</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">6</container>
+						<container type="folder">1</container>
+						<unittitle>Arizona Business Woman Magazines</unittitle>
+						<unitdate>1994-1996</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">6</container>
+						<container type="folder">2</container>
+						<unittitle>Arizona Business Woman Magazines</unittitle>
+						<unitdate>1997-2004</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">6</container>
+						<container type="folder">3</container>
+						<unittitle>Arizona Business Woman Magazines</unittitle>
+						<unitdate>2005-2008</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">6</container>
+						<container type="folder">4</container>
+						<unittitle>Arizona Business Woman Magazines</unittitle>
+						<unitdate>2009-2012</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="ser3">
+				<did>
+					<unittitle> Series III: Meeting Minutes and Agendas <unitdate type="inclusive">
+							1964-2011 </unitdate></unittitle>
+				</did>
+				<scopecontent>
+					<p> Contains the meeting minutes and agendas from 1964 to 2011.</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container type="box">7</container>
+						<container type="folder">1</container>
+						<unittitle>Minutes</unittitle>
+						<unitdate>1964-1966</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">7</container>
+						<container type="folder">2</container>
+						<unittitle>Minutes</unittitle>
+						<unitdate>1967-1970</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">7</container>
+						<container type="folder">3</container>
+						<unittitle>Minutes</unittitle>
+						<unitdate>1970-1972</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">7</container>
+						<container type="folder">4</container>
+						<unittitle>Minutes</unittitle>
+						<unitdate>1973-1980</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">7</container>
+						<container type="folder">5</container>
+						<unittitle>Minutes</unittitle>
+						<unitdate>1981-1985</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">7</container>
+						<container type="folder">6</container>
+						<unittitle>Minutes</unittitle>
+						<unitdate>1985-1990</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">7</container>
+						<container type="folder">7</container>
+						<unittitle>Minutes</unittitle>
+						<unitdate>1990-1993</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">8</container>
+						<container type="folder">1</container>
+						<unittitle>Minutes</unittitle>
+						<unitdate>1994-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">8</container>
+						<container type="folder">2</container>
+						<unittitle>Agenda’s and sign-in sheets</unittitle>
+						<unitdate>1998-2002</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">8</container>
+						<container type="folder">3</container>
+						<unittitle>Agenda’s and sign-in sheets</unittitle>
+						<unitdate>2002-2005</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">8</container>
+						<container type="folder">4</container>
+						<unittitle>Minutes</unittitle>
+						<unitdate>2004-2011</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="ser4">
+				<did>
+					<unittitle> Series IV: Correspondence <unitdate type="inclusive"> 1964-2011
+						</unitdate></unittitle>
+				</did>
+				<scopecontent>
+					<p> Contains various letters between the club officers, members, etc., in
+						regards to meetings, events, workshops, issues, etc.</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container type="box">8</container>
+						<container type="folder">5</container>
+						<unittitle>Correspondence</unittitle>
+						<unitdate>1964</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">8</container>
+						<container type="folder">6</container>
+						<unittitle>Correspondence</unittitle>
+						<unitdate>Jan.-May 1965</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">8</container>
+						<container type="folder">7</container>
+						<unittitle>Correspondence</unittitle>
+						<unitdate>June-Dec. 1965</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">8</container>
+						<container type="folder">8</container>
+						<unittitle>Correspondence</unittitle>
+						<unitdate>1966</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">8</container>
+						<container type="folder">9</container>
+						<unittitle>Correspondence</unittitle>
+						<unitdate>1967-1968</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">9</container>
+						<container type="folder">1</container>
+						<unittitle>Correspondence</unittitle>
+						<unitdate>1969</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">9</container>
+						<container type="folder">2</container>
+						<unittitle>Correspondence</unittitle>
+						<unitdate>1970</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">9</container>
+						<container type="folder">3</container>
+						<unittitle>Correspondence</unittitle>
+						<unitdate>1971-1973</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">9</container>
+						<container type="folder">4</container>
+						<unittitle>Correspondence</unittitle>
+						<unitdate>1974-1975</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">9</container>
+						<container type="folder">5</container>
+						<unittitle>Correspondence</unittitle>
+						<unitdate>1976-Aug. 1978</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">9</container>
+						<container type="folder">6</container>
+						<unittitle>Correspondence</unittitle>
+						<unitdate>Sept. 1978-1979</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">9</container>
+						<container type="folder">7</container>
+						<unittitle>Correspondence</unittitle>
+						<unitdate>1987-1989</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">9</container>
+						<container type="folder">8</container>
+						<unittitle>Correspondence</unittitle>
+						<unitdate>1981-1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">9</container>
+						<container type="folder">9</container>
+						<unittitle>Correspondence</unittitle>
+						<unitdate>1990-June 1992</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">10</container>
+						<container type="folder">1</container>
+						<unittitle>Correspondence</unittitle>
+						<unitdate>July 1992-Dec. 1992</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">10</container>
+						<container type="folder">2</container>
+						<unittitle>Correspondence</unittitle>
+						<unitdate>1993-1994</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">10</container>
+						<container type="folder">3</container>
+						<unittitle>Correspondence</unittitle>
+						<unitdate>1995-2007</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">10</container>
+						<container type="folder">4</container>
+						<unittitle>Correspondence</unittitle>
+						<unitdate>2008-2011</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="ser5">
+				<did>
+					<unittitle> Series V: Scrapbook Albums <unitdate type="inclusive">
+							1964-2011</unitdate></unittitle>
+				</did>
+				<scopecontent>
+					<p>Contains photographs and ephemera taken from disbound photo albums and
+						scrapbooks that were put together over the years by the club.</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container type="box">10</container>
+						<container type="folder">5</container>
+						<unittitle>Ephemera</unittitle>
+						<unitdate>1970-1975</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">10</container>
+						<container type="folder">6</container>
+						<unittitle>Ephemera</unittitle>
+						<unitdate>1970-1975</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">10</container>
+						<container type="folder">7</container>
+						<unittitle>Photos and Newspaper Clippings</unittitle>
+						<unitdate>1962-1999</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">10</container>
+						<container type="folder">8</container>
+						<unittitle>Newspaper Clippings</unittitle>
+						<unitdate>1964-1999</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">10</container>
+						<container type="folder">9</container>
+						<unittitle>Newspaper Clippings</unittitle>
+						<unitdate>1964-1999</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">10</container>
+						<container type="folder">10</container>
+						<unittitle>Newspaper Clippings</unittitle>
+						<unitdate>1964-1999</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">10</container>
+						<container type="folder">11</container>
+						<unittitle>Photographs</unittitle>
+						<unitdate>1964</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">10</container>
+						<container type="folder">12</container>
+						<unittitle>Photographs</unittitle>
+						<unitdate>1964-1984</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">10</container>
+						<container type="folder">13</container>
+						<unittitle>Photographs</unittitle>
+						<unitdate>1964-1995</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">10</container>
+						<container type="folder">14</container>
+						<unittitle>Photographs</unittitle>
+						<unitdate>1996-2007</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">11</container>
+						<container type="folder">1</container>
+						<unittitle>Photographs</unittitle>
+						<unitdate>1995</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">11</container>
+						<container type="folder">2</container>
+						<unittitle>Photographs</unittitle>
+						<unitdate>2000</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">11</container>
+						<container type="folder">3</container>
+						<unittitle>Photographs</unittitle>
+						<unitdate>2000-2011</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">11</container>
+						<container type="folder">4</container>
+						<unittitle>Ephemera, Newspaper clippings</unittitle>
+						<unitdate>1968-1970</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">11</container>
+						<container type="folder">5</container>
+						<unittitle>Scrapbook</unittitle>
+						<unitdate>1969-1970</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">11</container>
+						<container type="folder">6</container>
+						<unittitle>Scrapbook</unittitle>
+						<unitdate>1969-1970</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">11</container>
+						<container type="folder">7</container>
+						<unittitle>Scrapbook</unittitle>
+						<unitdate>1970-1980</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">11</container>
+						<container type="folder">8</container>
+						<unittitle>Scrapbook</unittitle>
+						<unitdate>1970-1980</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">11</container>
+						<container type="folder">9</container>
+						<unittitle>Scrapbook</unittitle>
+						<unitdate>1970-1980</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="ser6">
+				<did>
+					<unittitle>Series V: Program Materials <unitdate type="inclusive"
+							>1965-2005</unitdate></unittitle>
+				</did>
+				<scopecontent>
+					<p>Contains various documents affiliated with club sponsored events and
+						workshops such as the paperwork from the events/workshops, scripts, videos,
+						etc.</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container type="box">11</container>
+						<container type="folder">10</container>
+						<unittitle>Bring Your Boss to Lunch</unittitle>
+						<unitdate>1965-1981</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">11</container>
+						<container type="folder">11</container>
+						<unittitle>Bring Your Boss to Lunch</unittitle>
+						<unitdate>1982-1983</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">12</container>
+						<container type="folder">1</container>
+						<unittitle> Orientation </unittitle>
+						<unitdate>1997-2001</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">12</container>
+						<container type="folder">2</container>
+						<unittitle>Young Careerist</unittitle>
+						<unitdate>2002-2005</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">12</container>
+						<container type="folder">3</container>
+						<unittitle>Workshops</unittitle>
+						<unitdate>1984-2001</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">12</container>
+						<container type="folder">4</container>
+						<unittitle>Workshops</unittitle>
+						<unitdate>1990-1996</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">12</container>
+						<container type="folder">5</container>
+						<unittitle> Events </unittitle>
+						<unitdate>1983-2005</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">12</container>
+						<container type="folder">6</container>
+						<unittitle>Events</unittitle>
+						<unitdate>2000-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">12</container>
+						<container type="folder">7</container>
+						<unittitle>Workshops</unittitle>
+						<unitdate>2002-2005</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">13</container>
+						<unittitle>Wonder Woman Workshop VHS</unittitle>
+						<unitdate>1992</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="ser7">
+				<did>
+					<unittitle> Series VII: Awards <unitdate type="inclusive"> 1970-2003</unitdate></unittitle>
+				</did>
+				<scopecontent><p> Contains certificates awarded to members of the club, as well as entry forms
+						and reports for trophies.</p></scopecontent>
+				<c02 level="file">
+					<did>
+						<container type="box">14</container>
+						<container type="folder">1</container>
+						<unittitle>Club Reports/Entries</unittitle>
+						<unitdate>1970-1972</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">14</container>
+						<container type="folder">2</container>
+						<unittitle>Club Entries</unittitle>
+						<unitdate>1972-1987</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">14</container>
+						<container type="folder">3</container>
+						<unittitle>Entries and Newspaper Clippings</unittitle>
+						<unitdate>1997-1998</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">14</container>
+						<container type="folder">4</container>
+						<unittitle>Certificates and Newspaper Clippings</unittitle>
+						<unitdate>1970-1975</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">14</container>
+						<container type="folder">5</container>
+						<unittitle>Certificates and Entries</unittitle>
+						<unitdate>1970-2003</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">14</container>
+						<container type="folder">6</container>
+						<unittitle>Certificates</unittitle>
+						<unitdate>1984-2012</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">14</container>
+						<container type="folder">7</container>
+						<unittitle>Entries and Newspaper Clippings</unittitle>
+						<unitdate>1999-2000</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="ser8">
+				<did>
+					<unittitle> Series VIII: Ephemera <unitdate type="inclusive">1964-2009</unitdate></unittitle>
+				</did>
+				<scopecontent><p>Contains various flyers, brochures, cards, letters, etc.</p></scopecontent>
+				<c02 level="file">
+					<did>
+						<container type="box">14</container>
+						<container type="folder">8</container>
+						<unittitle>Ephemera</unittitle>
+						<unitdate>1964-1969</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">15</container>
+						<container type="folder">1</container>
+						<unittitle>Ephemera</unittitle>
+						<unitdate>1974-1999</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">15</container>
+						<container type="folder">2</container>
+						<unittitle>Ephemera</unittitle>
+						<unitdate>1999-2009</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">15</container>
+						<container type="folder">3</container>
+						<unittitle>Ephemera</unittitle>
+						<unitdate>1970- 1973</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="ser9">
+				<did>
+					<unittitle> Series IX: Political Materials <unitdate type="inclusive">
+							1971-2003</unitdate></unittitle>
+				</did>
+				<scopecontent>
+					<p>Contains documents dealing with the political forums the club attended as
+						well as legislative forums. Senate bills and women’s workplace issues are
+						also found in this series.</p>
+				</scopecontent>
+				<c02 level="file">
+					<did>
+						<container type="box">15</container>
+						<container type="folder">4</container>
+						<unittitle>Forums, Memo’s, Attendance</unittitle>
+						<unitdate>1971-1994</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">15</container>
+						<container type="folder">5</container>
+						<unittitle>State Reports and Letters</unittitle>
+						<unitdate>1979-2002</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">15</container>
+						<container type="folder">6</container>
+						<unittitle>Legislative Forum</unittitle>
+						<unitdate>1979-2002</unitdate>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">15</container>
+						<container type="folder">7</container>
+						<unittitle>Senate Bills, Negotiating</unittitle>
+						<unitdate>1997-2003</unitdate>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

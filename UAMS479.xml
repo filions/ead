@@ -1,0 +1,227 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+ audience="internal" id="a0"> 
+	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library SpecialCollections//text(US::AzU::Harry Partch Collection)//en""UAMS479.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper> Harry Partch Collection
+	 		<date normal="1956/1962" era="ce" calendar="gregorian">1956-1962</date></titleproper> 
+	 	<author>Processed by: Trent Purdy.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date normal= "2011" era= "ce" calendar = "gregorian">; 2011</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Trent Purdy. 
+  		<date era="ce" encodinganalog="date" normal="201109">September 2011</date></creation> 
+	 <langusage>Finding aid is in<language> English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+  	<titleproper>Harry Partch Collection,<date era= "ce" calendar= "gregorian">1956-1962</date></titleproper> 
+  	<num>Collection Number: MS 479</num> 
+  	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+			<item>Trent Purdy</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+		  	<date>September 2011</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Trent Purdy</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 20011. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name:"> Harry Partch Collection
+	 	<unitdate type="inclusive" label="Dates:" normal="1956/1962">1956-1962</unitdate></unittitle>	 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	 	repositorycode="AzU" countrycode="us">MS 479</unitid> 
+	 <origination label="Creator:"> 
+	 	<persname source="lcnaf" encodinganalog="100">Partch, Harry, 1901-1974</persname> </origination> 
+  	<abstract label="Abstract:">Photographs and Phonographs, 1956-1962. This collection consists primarily of black and white photographs of the instruments that Harry Partch built; photographs of rehearsals and performances of his operas.  The phonograph (LP) series is comprised of 8 separate titles released on Partch’s Gate 5 Records label.  </abstract> 
+  	<physdesc encodinganalog="300$a" label="Physical Description:"><extent>0.5 liner foot</extent></physdesc>	 
+	 <repository label="Repository:"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository> 
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+  	<p>There are no restrictions on this collection</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>Harry Partch Collection (MS 479). Special
+  		Collections, University of Arizona Libraries..</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+  	<p>Harry Partch was born on Jun 24, 1901 in Oakland, California. Partch is renowned as one of the 20th century’s most innovative American classical composers.  He was one of the first composers in that century to extensively work with microtonal scales, which he wrote exclusively for his custom-made instruments that he built himself.</p> 
+<p>Both of Partch’s parents were Presbyterian missionaries that lived in China and fled that region of the world after the Boxer Rebellion.  His family relocated to Oakland, California where Partch was born.  Partch’s parents continued to live as missionaries, which resulted in the family relocating numerous times throughout Partch’s childhood, often in small remote towns located in Arizona, California, and New Mexico. In these small, isolated parts of the country Partch was exposed to various cultures and their music.  Partch began to compose music at an early age using standard western tunings.  However, he became frustrated by the limited structure of these tunings and began to develop his own methods of tuning which he performed on instruments that he created himself. Partch composed numerous operas, concertos, and various other musical projects using his tunings and instruments exclusively. In the late 1950’s Partch started his own record label, Gate 5 Records, to release recordings of his works and to generate income.  Near the end of his life Columbia Records made recordings of his work which resulted in his music being exposed to a wider audience.  Partch died on September 3, 1974 in San Diego, California.</p> 
+</bioghist> 
+  <arrangement id="a4" encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+	 <p>This collection is organized into 2 Series</p>	 
+	 <list> 
+	 	<item>Series I: Photographs,
+		  <unitdate>undated</unitdate></item> 
+	 	<item>Series II: Phonographs (LP’s),
+	 	<unitdate>1957-1962</unitdate></item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>This collection is comprised of photographs of instruments and opera rehearsals and phonograph recordings. The bulk of the photographic materials detail the handmade instruments that Partch created. The phonograph recordings are comprised of recordings ranging between 1956-1962, self-released on Partch’s Gate 5 Records. The collection consists of black and white photographs of varying sizes as well as seven 12” phonographic LP’s and one 10” phonograph. May of the phonographs are autographed by Harry Partch, some with a personalized and dated inscription.</p> 
+</scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+			<persname encodinganalog="600" source="lcnaf" role="subject">Partch, Harry, 1901-1974</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+			<subject encodinganalog="650" source="lcsh">20th-century composers</subject> </item> 
+	 </list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Music--20th century</subject> </item> 
+  	</list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Microtonal music</subject> </item> 
+  	</list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Performing arts - United States</subject> </item> 
+  	</list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Beat generation</subject> </item> 
+  	</list>  
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+		  <unittitle> Series I: Photographs</unittitle> 
+			<unitdate type="inclusive">undated</unitdate>
+		</did> 
+	 	<arrangement><p>This series is comprised of black and white photographs which are arranged alphabetically.</p></arrangement>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <container type="folder">1</container> 
+			 <unittitle>Instruments</unittitle> 
+		  </did> 
+		</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">2</container> 
+	 			<unittitle>Rehersals/Performances</unittitle> 
+	 		</did> 
+	 	</c02> 
+	 </c01> 
+  	<c01 level="series" id="ser2"> 
+  		<did> 
+  			<unittitle>Series II: Phonographs (LP’s),</unittitle> 
+  			<unitdate type="inclusive">1957-1962</unitdate>
+  		</did> 
+  		<arrangement><p>This collection is comprised of 8 phonographs (LP’s), most autographed by Partch, which he released on his Gate 5 Records and is arranged chronologically.</p></arrangement>
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">3</container> 
+  				<unittitle><title render="italic">U.S. Highball</title>; 1956, Gate 5 Records, 6, Autographed 
+  				<unitdate>1956</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">4</container> 
+  				<unittitle><title render="italic">The Wayward</title>; 1956, Gate 5 Records, B, Autographed
+  				<unitdate>1956</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">5</container> 
+  				<unittitle><title render="italic">The Bewitched</title>; 1957, Gate 5 Records, Autographed 
+  				<unitdate>1957</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">6</container> 
+  				<unittitle> <title render="italic">Plectra and Percussion Dances</title>; 1957, Gate 5 Records, 4
+  				<unitdate>1957</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">7</container> 
+  				<unittitle><title render="italic">Oedipus</title>; 1957, Gate 5 Records, 5
+  				<unitdate>1957</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">8</container> 
+  				<unittitle><title render="italic">Revelation in the Courthouse Park</title>; 1960, Gate 5 Records, F, Autographed<unitdate>1960</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">9</container> 
+  				<unittitle><title render="italic">Water! Water! And Rotate the Body in all its Planes</title>; 1962, Gate 5 Records, G, Autographed
+  					<unitdate>1962</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">10</container> 
+  				<unittitle><title render="italic">30 Years of Lyrical and Dramatic Music</title>; 1962, Gate 5 Records, A, Autographed
+  					<unitdate>1962</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  	</c01>
+  	
+  </dsc> 
+</archdesc></ead>

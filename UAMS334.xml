@@ -1,0 +1,1460 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+ audience="internal" id="a0"> 
+	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special
+		Collections//text(US::AzU::Association for Women Faculty Records)//en""UAMS334.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper>University of Arizona Association for Women Faculty Records,
+	 		<date normal="1970-2008" era="ce" calendar="gregorian" certainty="approximate">1970-2008</date>
+	 		<date normal="1981-2008" type="bulk">(bulk 1981-2008)</date></titleproper> 
+	 	<titleproper altrender="nodisplay" type="filing">University of Arizona Association for Women Faculty Records</titleproper>
+	 	<author>Processed by Stephen R. Curley.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date normal= "2014" era= "ce" calendar = "gregorian">; 2014</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Stephen R. Curley
+  		<date era="ce" encodinganalog="date" normal="20140416">April 16, 2014</date></creation> 
+	 <langusage>Finding aid is in<language> English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+  	<titleproper>Association for Women Faculty Records,<date era= "ce" calendar= "gregorian">1970-2008</date></titleproper> 
+	 <num>Collection Number: MS 334</num> 
+  	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Stephen R. Curley</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>2014</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Stephen R. Curley</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 20014. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name:"> University of Arizona Association for Women Faculty Records
+		<unitdate type="inclusive" label="Dates:" normal="1970/2008">1970-2008</unitdate>
+	 	<unitdate type="bulk" label="Dates:" normal="1981/2008">1981-2008</unitdate>
+	 </unittitle>	 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	 repositorycode="AzU" countrycode="us">MS 334</unitid> 
+	 <origination label="Creator:"> 
+		<corpname source="lcnaf" encodinganalog="110"> Unviersity of Arizona. Association for Women Faculty</corpname> </origination> 
+  	<abstract label="Abstract:"> This collection contains materials relating to the University of Arizona Association for Women Faculty (AWF). Collection also consists of materials relating to the UA AWF’s predecessor, the Committee on the Status of University Women, and previous women’s advocacy organizers on campus. The bulk of the collection is administrative materials and correspondence pertaining to AWF committee coordination.</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent>7 linear feet</extent></physdesc>	 
+	 <repository label="Repository:"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository>
+  	<langmaterial>Materials in <language encodinganalog="546" langcode="eng"
+  		scriptcode="Latin">English</language></langmaterial>
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+	 <p>None</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>University of Arizona Association for Women Faculty Records(MS 334). Special
+  		Collections, University of Arizona Libraries.</p> 
+  </prefercite>
+	<accruals><p>Further accurals are anticipated</p></accruals>
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+  	<p>Association for Women Faculty (AWF) was founded in 1981 due to an identified need to advocate for women faculty and academic professionals at the University of Arizona. Prior to the AWF, women’s organizational groups on campus advocated for women faculty, administrators, staff, and students under the auspices of the Committee on the Status of University Women (CSUW). As the AWF’s predecessor this group helped usher in the establishment of a Women Studies program at the University of Arizona and was proactive in the elimination of sexist language on UA documents. However, due to the wide academic population that the CSUW served, women faculty and academic professionals reorganized into the Association for Women Faculty. From 1982-1984, the AWF spearheaded a campaign to rectify salary inequity at the university (which resulted in a total of $200,000 in salary adjustment). In subsequent years, the AWF prioritized monitoring salary equity and worked along with the administration to ensure that equitable and adequate policies are sponsored and implemented to improve the quality of life for all UA women.</p> 
+  </bioghist> 
+  <arrangement id="a4" encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+	 <p>This collection is organized into nine series</p>	 
+	 <list> 
+		<item>Series I: Administrative, 1970-1972, 1981-2008
+		  <unitdate>1970-1972, 1981-2008</unitdate></item> 
+	 	<item>Series II: Financial Records, 1986-2004
+	 		<unitdate>1986-2004</unitdate></item>
+	 	<item>Series III: Committees, 1971-2006
+	 		<unitdate>1971-2006</unitdate></item>
+	 	<item>Series IV: Membership, 1984-2006
+	 		<unitdate>1984-2006</unitdate></item>
+	 	<item>Series V: Correspondence, 1982-2007
+	 		<unitdate>1982-2007</unitdate></item>
+	 	<item>Series VI: Publications, 1973-2007
+	 		<unitdate>1973-2007</unitdate></item>
+	 	<item>Series VII: Reports, 1983-2003
+	 		<unitdate>1983-2003</unitdate></item>
+	 	<item>Series VIII: Ephemera</item>
+	 	<item>Series IX: Floppy Disks</item>
+	 </list> 
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>This collection spans from 1970-2008. The bulk of material relates to the Association for Women Faculty. However, some material prior to the establishment of the Association of Women Faculty in 1982 is included. These early materials are: the records of Dr. Shirley Fahey and her activities in advocating for women on campus at the University of Arizona and the subsequent establishment of the Committee on the Status of University Women thereafter.</p> 
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="600" source="lcnaf" role="subject">Fahey, Shirley</persname></item> 
+	 </list> 
+	 <list> 
+		<item> 
+			<corpname encodinganalog="610" source="lcsh" role="subject ">Arizona Board of Regents. Commission on the Status of Women</corpname></item> 
+	 </list> 
+  	<list> 
+  		<item> 
+  			<corpname encodinganalog="610" source="lcsh" role="subject ">University of Arizona- Faculty</corpname></item> 
+  	</list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Equal pay for equal work-Arizona-Tucson</subject></item> 
+  	</list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Pay equity- Arizona</subject></item> 
+  	</list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Sex discrimination against women- Arizona- Tucson</subject></item> 
+  	</list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Sex discrimination in employment- Arizona- Tucson</subject></item> 
+  	</list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Universities and colleges- Employees- Arizona</subject></item> 
+  	</list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Universities and colleges- Arizona- Faculty</subject></item> 
+  	</list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Wages- Women</subject></item> 
+  	</list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Women college teachers- Arizona</subject></item> 
+  	</list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Women- Arizona- Tucson- Societies and clubs</subject></item> 
+  	</list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Associations, institutions, etc.- Arizona- Tucson</subject></item> 
+  	</list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Women’s rights- Arizona</subject></item> 
+  	</list> 
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+		  <unittitle>Series I: Administrative, 1970-1972, 1981-2008</unittitle> 
+		</did> 
+	 	<scopecontent><p>Series is sorted by year. This series contains the constitution and bylaws of the AWF and subsequent revisions to it, committee minutes, agendas, handwritten notes, some correspondence that pertains to AWF executive committee and officer coordination, speech notes, and statistics. Some years have supplemental material attached regarding planning or other committee activity. Surveys are also included as administrative tools. Important to note that early activity pertaining to women’s advocacy, prior to the CSUW, are also included in this series. Series is sorted by year. This series contains the constitution and bylaws of the AWF and subsequent revisions to it, committee minutes, agendas, handwritten notes, some correspondence that pertains to AWF executive committee and officer coordination, speech notes, and statistics. Some years have supplemental material attached regarding planning or other committee activity. Surveys are also included as administrative tools. Important to note that early activity pertaining to women’s advocacy, prior to the CSUW, are also included in this series.</p></scopecontent>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <container type="folder">1</container> 
+			 <unittitle>Early Organizers for Women, Records of Dr. Shirley Fahey</unittitle>
+		  	<unitdate>1970-1972</unitdate>
+		  </did> 
+		</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">2</container> 
+	 			<unittitle>Consitution and Bylaws</unittitle>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">3</container> 
+	 			<unittitle>Surveys</unittitle>
+	 			<unitdate>1984-2006</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">4</container> 
+	 			<unittitle>1981</unittitle>
+	 			
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">5</container> 
+	 			<unittitle>1982</unittitle>
+	 			
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">6</container> 
+	 			<unittitle>1983</unittitle>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">7</container> 
+	 			<unittitle>Womens Advisory Council to the President</unittitle>
+	 			<unitdate>1983</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">8</container> 
+	 			<unittitle>1984</unittitle>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">9</container> 
+	 			<unittitle>1985</unittitle>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">10</container> 
+	 			<unittitle>1986</unittitle>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">11</container> 
+	 			<unittitle>1987</unittitle>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">12</container> 
+	 			<unittitle>1988</unittitle>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">13</container> 
+	 			<unittitle>1989</unittitle>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">14</container> 
+	 			<unittitle>Planning "Women and Minorities" with Cecilia Preciado Burciaga</unittitle>
+	 			<unitdate>1989</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">1</container> 
+	 			<unittitle>1990</unittitle>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">2</container> 
+	 			<unittitle>1991</unittitle>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">3</container> 
+	 			<unittitle>Planning "Sustaining Faculty Diversity in the Research University"</unittitle>
+	 			<unitdate>1991</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">4</container> 
+	 			<unittitle>1992</unittitle>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">5</container> 
+	 			<unittitle>AWF Search for Vice President of Affirmative Action</unittitle>
+	 			<unitdate>1992</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">6</container> 
+	 			<unittitle>1993</unittitle>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">7</container> 
+	 			<unittitle>1994</unittitle>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">8</container> 
+	 			<unittitle>1995</unittitle>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">3</container> 
+	 			<container type="folder">1</container> 
+	 			<unittitle>Survey of Professional Women at UA</unittitle>
+	 			<unitdate>1995</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">3</container> 
+	 			<container type="folder">2</container> 
+	 			<unittitle>Survey of Professional Women at UA</unittitle>
+	 			<unitdate>1995</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">3</container> 
+	 			<container type="folder">3</container> 
+	 			<unittitle>1996</unittitle>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">3</container> 
+	 			<container type="folder">4</container> 
+	 			<unittitle>1997</unittitle>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">3</container> 
+	 			<container type="folder">5</container> 
+	 			<unittitle>Planning "Life Without Affirmative Action" Event</unittitle>
+	 			<unitdate>1997</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">3</container> 
+	 			<container type="folder">6</container> 
+	 			<unittitle>AWF History Project</unittitle>
+	 			<unitdate>1997</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">3</container> 
+	 			<container type="folder">7</container> 
+	 			<unittitle>1998</unittitle>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">3</container> 
+	 			<container type="folder">8</container> 
+	 			<unittitle>1999</unittitle>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">3</container> 
+	 			<container type="folder">9</container> 
+	 			<unittitle>2000</unittitle>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">1</container> 
+	 			<unittitle>2001</unittitle>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">2</container> 
+	 			<unittitle>AWF Elections</unittitle>
+	 			<unitdate>2001</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">3</container> 
+	 			<unittitle>2002</unittitle>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">4</container> 
+	 			<unittitle>2003</unittitle>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">5</container> 
+	 			<unittitle>University of Arizona Conference on Subtle Discrimination</unittitle>
+	 			<unitdate>2003</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">6</container> 
+	 			<unittitle>Women to Women Reception</unittitle>
+	 			<unitdate>2003</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">7</container> 
+	 			<unittitle>2004</unittitle>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">8</container> 
+	 			<unittitle>AWF Graduate Research Symposium</unittitle>
+	 			<unitdate>2004</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">9</container> 
+	 			<unittitle>2005</unittitle>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">10</container> 
+	 			<unittitle>2006</unittitle>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">11</container> 
+	 			<unittitle>AWF Speech at University of ARizona Presidential Inaugural</unittitle>
+	 			<unitdate>2006</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">12</container> 
+	 			<unittitle>2008</unittitle>
+	 		</did> 
+	 </c02> 
+	 </c01>
+  	<c01 level="series" id="ser2"> 
+  		<did> 
+  			<unittitle> Series II: Financial Records, 1986-2004
+  				<unitdate type="inclusive">1986-2004</unitdate></unittitle> 
+  		</did> 
+  		<scopecontent><p>Series is broken up into two types: financial records and grants. Series is further sorted by year and alphabetized by subject. Materials include receipts pertaining to travel arrangements, AWF banking statements, rental agreements, and treasury reports. </p></scopecontent>
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">13</container> 
+  				<unittitle>1989-1992</unittitle>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">14</container> 
+  				<unittitle>1992-1993</unittitle>
+  			</did> 
+  		</c02> <c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>1993-1994</unittitle>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>1994-1995</unittitle>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>1995-1997</unittitle>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>1998-1999</unittitle>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>2001-2006</unittitle>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>Grants, AWF Travel Grant</unittitle>
+  				<unitdate>1992-1995</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Grants, AWF Travel Grant Genderal Guidelines</unittitle>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>Grants, Bryn Mawr Summer Institute for Women in Higher Education Fellowship</unittitle>
+  				<unitdate>1986-1998</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">9</container> 
+  				<unittitle>Grants, Commission on the Status of Women</unittitle>
+  				<unitdate>2004</unitdate>
+  			</did> 
+  		</c02> 
+  	</c01> 
+  	<c01 level="series" id="ser3"> 
+  		<did> 
+  			<unittitle> Series III: Committees, 1971-2006
+  				<unitdate type="inclusive">1971-2006</unitdate></unittitle> 
+  		</did> 
+  		<scopecontent><p>Series is sorted alphabetically by committee name, then by year. Committee files contain correspondence, meeting minutes, handwritten notes, and reference materials that these committees used. Series mainly contains AWF committees, but other external committees in which the AWF was involved are included such as the Arizona Board of Regents’ Commission on the Status of Women. The Committee on Status of University Women (CSUW) are also included; it is important to note that these CSUW files are pre-AWF. </p></scopecontent>
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">10</container> 
+  				<unittitle>Academic Professionals</unittitle>
+  				<unitdate>1984</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">11</container> 
+  				<unittitle>Academic Professional</unittitle>
+  				<unitdate>2000-2002</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">6</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Action</unittitle>
+  				<unitdate>1987-1994</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">6</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Action</unittitle>
+  				<unitdate>1996-1999</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">6</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Arizona Board of Regents Commission on the Status of Women</unittitle>
+  				<unitdate>1988-1990</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">6</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Arizona Board of Regents Commissionon the Status of Women</unittitle>
+  				<unitdate>1991-1994</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">6</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Arizona Board of Regents Commission on the Status of Women</unittitle>
+  				<unitdate>1997-2000</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">6</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>Family Care</unittitle>
+  				<unitdate>1993-1999</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">6</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Family Care, Child Care Program Examples</unittitle>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">6</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>Graduate and Professional Students, Graduate  Symposium Submissions</unittitle>
+  				<unitdate>2004</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Graduate and Professional Student, Graduate Symposium</unittitle>
+  				<unitdate>2005</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Graduate and Professional Students</unittitle>
+  				<unitdate>2006</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Liaison to ASU-NAU</unittitle>
+  				<unitdate>1988-1989</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Parental, Leave Policies</unittitle>
+  				<unitdate>1988</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Parental</unittitle>
+  				<unitdate>1989</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>Parental</unittitle>
+  				<unitdate>1990</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Parental Concerns</unittitle>
+  				<unitdate>1991-1992</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>Parental Concerns, Committee Reference Publications</unittitle>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container> 
+  				<container type="folder">9</container> 
+  				<unittitle>Planning</unittitle>
+  				<unitdate>1981-1984</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container> 
+  				<container type="folder">10</container> 
+  				<unittitle>Professional Development</unittitle>
+  				<unitdate>1983</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Professional Womens Concerns</unittitle>
+  				<unitdate>1986-1988</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Salary Equity Review</unittitle>
+  				<unitdate>1982-2006</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Salary Equity Review, Salary Evaluation Kit</unittitle>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Salary Equity Review, History of Salary Equity</unittitle>
+  				<unitdate>1982-1984</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Settling-in and Lifestyle</unittitle>
+  				<unitdate>1983</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>Status</unittitle>
+  				<unitdate>1982-1985, 1992-1993</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Status of University Women CSUW Records, Administrative</unittitle>
+  				<unitdate>1973</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>Status of University Women CSUW Records, Administrative, Original proposal for creating Women Studies Program at UA</unittitle>
+  				<unitdate>1973</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">9</container> 
+  				<unittitle>Status of University Women CSUW REcords, Administrative</unittitle>
+  				<unitdate>1974</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">10</container> 
+  				<unittitle>Status of University Women CSUW Records, Administrative</unittitle>
+  				<unitdate>1975</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">11</container> 
+  				<unittitle>Status of University Women CSUW Records, Administrative</unittitle>
+  				<unitdate>1976</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">12</container> 
+  				<unittitle>Status of University Women CSUW Records, Administrative</unittitle>
+  				<unitdate>1977</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">13</container> 
+  				<unittitle>Status of University Women CSUW Records, Correspondence</unittitle>
+  				<unitdate>1972-1981</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">14</container> 
+  				<unittitle>Status of University Women CSUW Records, Membership Mail</unittitle>
+  				<unitdate>1973-1974</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Status of University Women CSUW Records, Affirmative Action</unittitle>
+  				<unitdate>1973-1976</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Status of University Women CSUW Records, Task Forces</unittitle>
+  				<unitdate>1973-1976</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Status of University Women CSUW Records, Publications, Newsletters</unittitle>
+  				<unitdate>1974</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Status of University Women CSUW Records, Publications, Newspaper Clippings</unittitle>
+  				<unitdate>1973-1974</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Status of University Women CSUW Records, Statistics</unittitle>
+  				<unitdate>1971-1976</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>Status of University Women CSUW Records, Constitution and Bylaws</unittitle>
+  			</did> 
+  		</c02> 
+  	</c01> 
+  	<c01 level="series" id="ser4"> 
+  		<did> 
+  			<unittitle> Series IV: Membership, 1984-2006
+  				<unitdate type="inclusive">1984-2006</unitdate></unittitle> 
+  		</did> 
+  		<scopecontent><p>Series is sorted by type, then by year. Types are: List and Forms. Lists pertain to membership lists that were compiled to include contact information of each member, furthermore, lists is also divided to reflect an Arizona Board of Regents Luncheon coordination effort made by the treasurer. Forms pertain to membership submissions and membership fees. </p></scopecontent>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>List, AWF</unittitle>
+  				<unitdate>1983-1987</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>List, AWF</unittitle>
+  				<unitdate>1989</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">9</container> 
+  				<unittitle>List, AWF</unittitle>
+  				<unitdate>1990-2006</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">10</container> 
+  				<unittitle>List, Arizona Board of Regents Luncheon</unittitle>
+  				<unitdate>1992-2001</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">11</container> 
+  				<unittitle>Forms</unittitle>
+  				<unitdate>1990-1996</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Forms</unittitle>
+  				<unitdate>2000-2004</unitdate>
+  			</did> 
+  		</c02> 
+  	</c01> 
+  	<c01 level="series" id="ser5"> 
+  		<did> 
+  			<unittitle> Series V: Correspondence, 1982-2007
+  				<unitdate type="inclusive">1982-2007</unitdate></unittitle> 
+  		</did> 
+  		<scopecontent><p>Series is sorted by type, then by year. Correspondence types are: general correspondence, correspondence with the Office of the President, correspondence with the Office of the Provost and Vice Provost of Academic Affairs, correspondence with the Office of Vice President for Affirmative Action, and correspondence of Membership. Some photographs are included within series.</p></scopecontent>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>General Correspondence</unittitle>
+  				<unitdate>1982</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>General Correspondence</unittitle>
+  				<unitdate>1983</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>General Correspondence</unittitle>
+  				<unitdate>1984</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>General Correspondence</unittitle>
+  				<unitdate>1985</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>General Correspondence</unittitle>
+  				<unitdate>1986</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>General Correspondence</unittitle>
+  				<unitdate>1987</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>Holiday Reception Photographs</unittitle>
+  				<unitdate>1987</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">9</container> 
+  				<unittitle>General Correspondence</unittitle>
+  				<unitdate>1988</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">10</container> 
+  				<unittitle>General Correspondence</unittitle>
+  				<unitdate>1989</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">11</container> 
+  				<unittitle>General Correspondence</unittitle>
+  				<unitdate>1990</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">12</container> 
+  				<unittitle>General Correspondence</unittitle>
+  				<unitdate>1991</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>General Correspondence</unittitle>
+  				<unitdate>1992</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>General Correspondence</unittitle>
+  				<unitdate>1993</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>General Correspondence</unittitle>
+  				<unitdate>1994</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>General Correspondence</unittitle>
+  				<unitdate>1995</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>General Correspondence</unittitle>
+  				<unitdate>1996</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>General Correspondence</unittitle>
+  				<unitdate>1997</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>General Correspondence</unittitle>
+  				<unitdate>1998</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>General Correspondence</unittitle>
+  				<unitdate>1999</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<container type="folder">9</container> 
+  				<unittitle>General Correspondence</unittitle>
+  				<unitdate>2000</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<container type="folder">10</container> 
+  				<unittitle>General Correspondence</unittitle>
+  				<unitdate>2001</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<container type="folder">11</container> 
+  				<unittitle>General Correspondence</unittitle>
+  				<unitdate>2003</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<container type="folder">12</container> 
+  				<unittitle>General Correspondence</unittitle>
+  				<unitdate>2004</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<container type="folder">13</container> 
+  				<unittitle>General Correspondence</unittitle>
+  				<unitdate>2006</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<container type="folder">14</container> 
+  				<unittitle>Correspondence with Office of the President</unittitle>
+  				<unitdate>1983-1993</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<container type="folder">15</container> 
+  				<unittitle>Correspondence with Office of the President</unittitle>
+  				<unitdate>1998-2007</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<container type="folder">16</container> 
+  				<unittitle>Correspondence with Office of the Provost and Vice Provost of Academic Affairs</unittitle>
+  				<unitdate>1983-1985</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">12</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Correspondence with Office of the Provost and Vice Provost of Academic Affairs</unittitle>
+  				<unitdate>1986-1989</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">12</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Correspondence with Office of the Provost and Vice Provost of Academic Affairs</unittitle>
+  				<unitdate>1990-1993</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">12</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Correspondence with Office of the Provost and Vice Provost of Academic Affairs</unittitle>
+  				<unitdate>1994-2001</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">12</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Correspondence with Office of Assistant Vice President for Affirmative Action</unittitle>
+  				<unitdate>1983-1988</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">12</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Correspondence of Membership</unittitle>
+  				<unitdate>1983-2001</unitdate>
+  			</did> 
+  		</c02> 
+  	</c01> 
+  	<c01 level="series" id="ser6"> 
+  		<did> 
+  			<unittitle> Series VI: Publications, 1973-2007
+  				<unitdate type="inclusive">1973-2007</unitdate></unittitle> 
+  		</did> 
+  		<scopecontent><p>Series is sorted by type, then by year. Types are: AWF Publications, Reference Materials, Newspaper Clippings, and Oversize Publications. AWF Publications consist largely of the monthly newsletters this organizations had distributed in order to keep up to speed the members of the AWF on committee activities. Reference materials pertains to external publications that were implemented by the AWF. Newspaper Clippings consist mainly of the salary equity issues that were publicized by the local or campus press. Oversize publications materials consist publications are all inclusive of the before mentioned types.</p></scopecontent>
+  		<c02 level="file"> 
+  			<did> <container type="box">12</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>AWF Publications, Newsletters</unittitle>
+  				<unitdate>1983-1989</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">12</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>AWF Publications, Newsletters</unittitle>
+  				<unitdate>1990-1994</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">12</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>AWF Publications, Newsletters</unittitle>
+  				<unitdate>1995-1999</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>AWF Publications, Newsletters</unittitle>
+  				<unitdate>2000-2007</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>AWF Publications, Proceedings of the Graduate Symposium</unittitle>
+  				<unitdate>2004</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Reference Materials, University Resources, Arizona State University</unittitle>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Reference Materials, University Resources, UC Irvine, UC Berkeley, UC San Francisco</unittitle>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Reference Materials, University Resources, University of Nevada Reno, University of Michigan, University of Minnesota</unittitle>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>Reference Materials, Essays and Articles, Parental</unittitle>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Reference Materials, Essays and Articles, Retention</unittitle>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">14</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Reference Materials, Essays and Articles, Retention</unittitle>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">14</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Reference Materials, Essays and Articles, Salary Equity</unittitle>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">14</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Reference Materials, Essays and Articles, Sex Equity and Professionalism</unittitle>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">14</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Newspaper Clippings, Salary Equity</unittitle>
+  				<unitdate>1983</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">14</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Newspaper Clippings, Salary Equity</unittitle>
+  				<unitdate>1984</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">14</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>Newspaper Clippings</unittitle>
+  				<unitdate>1986-1998</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">17</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Oversize Publications</unittitle>
+  				<unitdate>1973-2003</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">17</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Oversize Publications, UA Salary Analysis by Gender</unittitle>
+  				<unitdate>1984</unitdate>
+  			</did> 
+  		</c02> 
+  	</c01> 
+  	<c01 level="series" id="ser7"> 
+  		<did> 
+  			<unittitle> Series VII: Reports, 1983-2003
+  				<unitdate type="inclusive">1983-2003</unitdate></unittitle> 
+  		</did> 
+  		<scopecontent><p>Series is sort by year and then alphabetized. Includes reports in which the AWF contributed to in some capacity.</p></scopecontent>
+  		<c02 level="file"> 
+  			<did> <container type="box">14</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Faculty Salaries by Gender Summary Report</unittitle>
+  				<unitdate>1983</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">14</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>AWF Report from the Working Party</unittitle>
+  				<unitdate>1984</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">14</container> 
+  				<container type="folder">9</container> 
+  				<unittitle>AFfirmative Action Plan</unittitle>
+  				<unitdate>1984-1987</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">15</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>"Hiring and Retaining Women Faculty" by Kathryn Moore</unittitle>
+  				<unitdate>1988</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">15</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Survey used by Kathryn Moore for AWF Survey</unittitle>
+  				<unitdate>1988</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">15</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Affirmative Action Plan</unittitle>
+  				<unitdate>1988-1989</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">15</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>The "Invisible Minority" by Karen Anderson</unittitle>
+  				<unitdate>1990</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">15</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Affirmative Action Plan</unittitle>
+  				<unitdate>1991</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">15</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>Plan of Implementation: Arizona Board of regents' Commission on the Status of Women; Reaching the Vision: Women in Arizona's Universities in the Year 2000</unittitle>
+  				<unitdate>1991; 1991</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">15</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Arizona Board of Regents Commission on the Status of Women Annual Report</unittitle>
+  				<unitdate>1992-1993</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">15</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>UA Consolidated Employee Diversity Progress Report</unittitle>
+  				<unitdate>1993</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">15</container> 
+  				<container type="folder">9</container> 
+  				<unittitle>Arizona Board of Regents Commissionon the Status of Women Annual Report</unittitle>
+  				<unitdate>1993-1994</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">15</container> 
+  				<container type="folder">10</container> 
+  				<unittitle>Arizona Board of Regents Commission on the Status of Women</unittitle>
+  				<unitdate>1998</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">15</container> 
+  				<container type="folder">11</container> 
+  				<unittitle>"Challenging the Bias" by Roberta Moore</unittitle>
+  				<unitdate>1998</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">16</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>The Millenium Project Summary Report</unittitle>
+  				<unitdate>2001</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">16</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>The Millennium Project Report in Detail</unittitle>
+  				<unitdate>2001</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">16</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>The Millennium Project Phase Two</unittitle>
+  				<unitdate>2001</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">16</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Student Campus Climate Assessment and Tracking Study; Graduate Study Dependent and Child Care Study</unittitle>
+  				<unitdate>2001;2003</unitdate>
+  			</did> 
+  		</c02> 
+  	</c01> 
+  	<c01 level="series" id="ser8"> 
+  		<did> 
+  			<unittitle> Series VIII: Ephemera
+  				</unittitle> 
+  		</did> 
+  		<scopecontent><p>Series consists mainly of AWF brochures that describe organization agendas by academic year.</p></scopecontent>
+  		<c02 level="file"> 
+  			<did> <container type="box">16</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>AWF Brochures</unittitle>
+  				<unitdate>1987-2004</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">16</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>AWF Letterhead</unittitle>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">16</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>AWF Membership Sign-up Sign</unittitle>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">16</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>Flyers</unittitle>
+  			</did> 
+  		</c02> 
+  	</c01> 
+  	<c01 level="series" id="ser9"> 
+  		<did> 
+  			<unittitle> Series IX: Floppy Disks
+  				</unittitle> 
+  		</did> 
+  		<note><p>Floppy disks have not been transferred to new media</p></note>
+  		<c02 level="file"> 
+  			<did> <container type="box">16</container> 
+  				<container type="folder">9</container> 
+  				<unittitle>Maureen Kelly’s AWF Disk (1) 3 ½” Floppy Diskette;
+  				</unittitle>
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">16</container> 
+  				<container type="folder">9</container> 
+  				<unittitle>Financial Records Disk, 1991-1992 (1) 5 ¼” Floppy Disk
+  				</unittitle>
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">16</container> 
+  				<container type="folder">9</container> 
+  				<unittitle>AWF Member, Ledger, Deposit Disk (1) 5 ¼” Floppy Disk
+  				</unittitle>
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">16</container> 
+  				<container type="folder">9</container> 
+  				<unittitle>AWF Brochure Disk (1) 5 ¼” Floppy Disk
+  				</unittitle>
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">16</container> 
+  				<container type="folder">9</container> 
+  				<unittitle>AWF Logo Disks, 1998 (3) 3 ½” Floppy Diskette
+  				</unittitle>
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">16</container> 
+  				<container type="folder">9</container> 
+  				<unittitle>AWF List- Hymel, 2001 (1) 3 ½” Floppy Diskette
+  				</unittitle>
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">16</container> 
+  				<container type="folder">9</container> 
+  				<unittitle> AWF 2001 (1) 3 ½” Floppy Diskette</unittitle>
+  			</did> 
+  		</c02>
+  	</c01> 
+  </dsc> 
+</archdesc></ead>

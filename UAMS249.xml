@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+ audience="internal" id="a0"> 
+	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special
+		Collections//text(US::AzU::Albuquerque, New Mexico Photograph Album//en""UAMS249.xml"</eadid> 
+	<filedesc>  
+	 <titlestmt> 
+	 	<titleproper>Albuquerque, New Mexico Photograph Album,
+	 		<date normal="1895/1905" era="ce" calendar="gregorian">circa 1895-1905</date></titleproper> 
+	 	<author>Processed by Kim Frontz.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://www.library.arizona.edu/speccoll/</addressline>
+		</address> 
+		<date normal= "2013" era= "ce" calendar = "gregorian">; 2013</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Trent Purdy. 
+		<date era="ce" encodinganalog="date" normal="yyyymmdd">20140428</date></creation> 
+	 <langusage>Finding aid is in<language> English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+  	<titleproper>Albuquerque, New Mexico Photograph Album,<date era= "ce" calendar= "gregorian">circa 1895-1905</date></titleproper> 
+  	<num>Collection Number: MS 249</num> 
+  	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+			<item>Kim Frontz.</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>2013</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Trent Purdy</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 2013. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name:">Albuquerque, New Mexico Photograph Album,  
+  		<unitdate type="inclusive" label="Dates:" normal="1895/1905">circa 1895-1905</unitdate></unittitle>	 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	 	repositorycode="AzU" countrycode="us">MS 249</unitid> 
+	 <origination label="Creator:"> 
+	 	<persname encodinganalog="100">Uknown</persname> </origination> 
+  	<abstract label="Abstract:">Photograph album containing 51 photographs of Albuquerque, New Mexico street scenes, buildings, homes, and families, ca. 1895-1905.</abstract> 
+  	<physdesc encodinganalog="300$a" label="Physical Description:"><extent>1 linear feet</extent></physdesc>	 
+	 <repository label="Repository:"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://www.library.arizona.edu/speccoll</addressline>		  
+		</address></repository> 
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+  	<p>There are no restrictions on this collection.</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>Albuquerque, N.M. Photograph Album (MS 249).  Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Historical Note</head> 
+  	<p>Transformed by the arrival of the railroad in 1880, Albuquerque had a population of 8,000 by 1900.  The Atchison, Topeka and Santa Fe Railway located a major maintenance and administrative facility in the town.  A new railroad station complex, including the Alvarado Hotel operated by Fred Harvey, was completed in 1902.  Also, in 1902, the Sisters of Charity built the town’s first tuberculosis hospital in response to the influx of increasing numbers of health seekers drawn by New Mexico’s climate.  The photographer appears to have resided in Albuquerque at least between 1899 and 1902, and may have been a Santa Fe Railroad employee.</p> 
+  </bioghist> 
+  <arrangement id="a4" encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+	 <p>This collection is organized into one series.</p>	 
+	 <list> 
+	 	<item>Series I: Photograph album, 
+	 		<unitdate>circa 1895-1905</unitdate></item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>Photograph album with 51 photographs, some fading, of Albuquerque, New Mexico people, places and buildings taken between 1895 and 1905.    There are images, formally staged, of families and groups picnicking or posed in front of their homes.  Places represented include North Walter Street, Copper Avenue, Bear Canon and Robinson Park.  There are images of St. Joseph’s Sanatorium, the Metropolitan Hotel, the Railroad depot and Alvarado Hotel, an interior of the Fred Harvey Museum, Wells Fargo and Company, Elk’s Opera House, and the Commercial Club.   One image shows the San Felipe Hotel fire, in 1899, and the spectators that gathered to watch the blaze. There are also interior views of the Santa Fe Railway Shop storehouse.</p> 
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="651" source="lcsh">Albuquerque (N.M.)—Pictorial works</subject></item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="651" source="lcsh">Albuquerque (N.M.)—Buildings, structures, etc.—Pictorial works</subject></item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="651" source="lcsh">Albuquerque (N.M.)—Fires, 1899—Pictorial works</subject></item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="610" source="lcsh">Alvarado Hotel (Albuquerque, N.M.)—Pictorial works</subject></item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Architecture, Domestic—New Mexico—Albuquerque—Pictorial works</subject></item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="610" source="lcsh">Atchison, Topeka, and Santa Fe Railway Company—Pictorial works</subject></item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Photograph albums</subject></item> 
+  	</list>
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+			<unittitle>Series I: Photograph album,  
+				<unitdate type="inclusive">circa 1895-1905</unitdate></unittitle>
+		</did>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+		  	<unittitle>Photograph album,</unittitle>
+		  	<unitdate>circa, 1895-1905</unitdate>
+		  </did> 
+		</c02> 
+	 </c01> 
+  </dsc> 
+</archdesc></ead>

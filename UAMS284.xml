@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?filetitle Clum, John Phillip Collections?>
+<ead relatedencoding="MARC21">
+<eadheader audience="internal" findaidstatus="edited-full-draft"
+ langencoding="iso639-2b">
+	<eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
+		Special Collections//text(US::AzU::John Philip Clum Collection)//en"
+	 "UAMS284.xml"</eadid>
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">John Philip Clum collection, 
+		  <date>1874-1917</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Roger Myers and Anne
+		  Pieszak. </author>
+	 </titlestmt>
+	 <publicationstmt>
+	 	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+		<address>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address>
+		<date>&#x00A9; 2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p>
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc>
+	 <creation encodinganalog="500">Inventory encoded by Jennie Stapp 
+		<date>July 1, 2002</date></creation> 
+	 <langusage>Inventory is in<language langcode="en"
+		encodinganalog="546">English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter>
+  <titlepage>
+	 <titleproper encodinganalog="245$a">John Philip Clum collection, 
+		<date>1874-1917</date></titleproper>
+	 <num>Collection Number: MS 284</num>
+  	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher>
+	 <list>
+		<defitem>
+		  <label>Processed by:</label>
+		  <item>Roger Myers and Anne Pieszak</item>
+		</defitem>
+		<defitem>
+		  <label>Date completed:</label>
+		  <item>
+			 <date>July 1989</date></item>
+		</defitem>
+		<defitem>
+		  <label>Encoded by:</label>
+		  <item>Jennie Stapp</item>
+		</defitem>
+	 </list>
+	 <p>&#x00A9; 2001. Arizona Board of Regents. All rights reserved.</p>
+  </titlepage>
+</frontmatter>
+<archdesc level="collection"> 
+  <did id="a1">
+	 <head>Collection Summary</head>
+	 <unittitle encodinganalog="245" label="Collection Name:">John Philip Clum
+		collection,  
+		<unitdate type="inclusive"
+		 normal="1874/1917">1874-1917</unitdate></unittitle>
+	 <unitid label="Collection Number:" encodinganalog="099"
+	  repositorycode="AzU" countrycode="us">MS 284</unitid> 
+	 <origination label="Creator:"> 
+		<persname encodinganalog="100">Clum, John Philip,
+		  1851-1932</persname></origination>
+	 <abstract label="Abstract:">The John P. Clum collection is divided into two subgroups:
+		records of Clum's tenure at the San Carlos Apache Indian Agency, 1874-1878, and
+		documents relating to his career, 1880-1917 chronological arrangement. This
+		collection includes, photocopies of San Carlos Indian Agency reports, abstracts
+		of disbursements, vouchers, accounts current, and auditor's reports pertaining
+		to Clum's work at the Agency from 1874-1878. Also information and
+		correspondence regarding his employment from 1880-1917 in the War Dept. and the
+		Post Office Dept., as well as his lecture tours for the Southern Pacific
+		Railroad.</abstract>
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+		encodinganalog="300">.8 linear feet</extent></physdesc>
+	 <repository label="Repository:">
+	 	<corpname encodinganalog="110">University of Arizona Libraries, Special Collections</corpname>
+		<address>
+		  <addressline>University of Arizona</addressline>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address></repository>
+  </did> 
+  <accessrestrict encodinganalog="506">
+	 <head>Restrictions</head>
+	 <p>None.</p>
+  </accessrestrict>
+  <userestrict encodinganalog="540">
+	 <head>Copyright</head>
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p>
+  </userestrict>
+  <prefercite encodinganalog="524">
+	 <head>Credit Line</head>
+	 <p>John Philip Clum collection(MS 284).Special Collections, University of Arizona Libraries.</p>
+  </prefercite>
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head>
+	 <p>Born on 1 September 1851 near Claverack in the Hudson Valley of New
+		York, John Philip Clum attended Rutgers University, but dropped out of college
+		for health reasons and came West. Arriving in Santa Fe in 1871, he soon became
+		a government astronomical observer with the Signal Corps. From 1874 until 1877,
+		Clum served as Apache agent on the San Carlos Indian Reservation in Arizona
+		Territory.</p>
+	 <p>He adeptly handled the Apache outbreaks from the reservation by asking
+		the military to withdraw to a distance of five miles from the reservation. To
+		limit confrontations between the Apaches and the nearby settlers, Clum helped
+		the Indians to implement agricultural pursuits which would make them
+		self-supporting. He also encouraged them to set up their own law enforcement
+		and judicial systems. As a result of these practices, Clum succeeded in
+		converting many of the Apaches to a more sedentary existence. It was his Apache
+		police force which tracked and captured Geronimo in 1877. Clum soon became a
+		victim of the political situation in Washington. The Indian Commissioner had
+		given the Army permission to once again come onto the San Carlos Reservation.
+		Discouraged by the government's indifferent and unfair treatment of his Indian
+		charges, Clum protested to Washington, and resigned from the Service when his
+		objections were ignored.</p>
+	 <p>In 1877, Clum became editor of the 
+	 <title render="italic">Tucson Citizen</title>. In 1886, after three years
+	 as editor of the Citizen, Clum founded and became the first editor of the 
+	 <title render="italic">Tombstone Epitaph</title>, having been attracted to
+	 that town by news of the rich silver strike there. Besides publishing the 
+	 <title render="italic">Tombstone Epitaph</title>, Clum was elected Mayor of
+	 Tombstone and was appointed Postmaster from 1884-1886.</p>
+	 <p>Clum went to work for the U.S. Postal Service in Washington, D.C. in the
+		late 1880s, but in the early 1890s, he was out west again, serving as Postal
+		Inspector in the western judicial district of Texas. On 5 March 1898, Clum was
+		appointed Post Office Inspector for the Territory of Alaska and charged with
+		the organization and extension of the postal service there. He retired from
+		this post in 1908.</p>
+	 <p>After his retirement, John P. Clum traveled a great deal. A fine
+		speaker, he was employed by the Southern Pacific Railroad as a lecturer. Also,
+		Clum began to write his memoirs, which, after his death, his son Woodworth
+		completed. The resulting book, 
+	 <title render="italic">Apache Agent</title>, was later made into the motion
+	 picture, 
+	 <title render="italic">Walk the Proud Land</title>, starring Audie Murphy.
+	 </p>
+	 <p>John P. Clum died of a heart attack 3 May 1932 at the age of 81.</p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into two subgroups:</p> 
+	 <list> 
+		<item>Subgroup I: Records of John P. Clum, San Carlos Apache Indian
+		  Agency, 1874-1878</item>
+		<item>Subgroup II: Career Documents of John P. Clum, 1880-1917</item> 
+	 </list> 
+  </arrangement>
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head>
+	 <p>Collection, 1874-1917, relating to the financial records and letters
+		kept by the Office of Indian Affairs, the Post Office Department, and the War
+		Department regarding John Philip Clum, and used by Wallace E. Clayton, co-owner
+		of the 
+	 <title render="italic">Tombstone Epitaph</title>, in researching the life
+	 of Clum, the founder and first editor of the Epitaph. </p>
+	 <p>The Records include photocopies of San Carlos Indian Agency reports,
+		abstracts of disbursements, vouchers, accounts current, and auditor's reports
+		pertaining to Clum's work at the Agency from 1874 to 1878.</p>
+	 <p>The Career Documents contain information regarding Clum's employment in
+		the War Department and the Post Office Department as well as with the Southern
+		Pacific Railroad. Of interest are photocopies of information documenting Clum's
+		desire to re-enter government service with the Office of Indian Affairs
+		beginning in 1912. Included is a letter in his behalf from Arizona Senator Mark
+		A. Smith. </p>
+	 <p>This material was collected by Wallace E. Clayton, co-owner of the
+		Tombstone Epitaph, in researching the life of Clum, founder and first editor of
+		the paper.</p>
+  </scopecontent> 
+  <controlaccess id="a12">
+	 <head>Access Terms</head>
+	 <list>
+		<item>
+		  <persname encodinganalog="100">Clum, John P., 1851-1932 --
+			 Archives</persname></item>
+		<item>
+		  <corpname encodinganalog="110">United States. Office of Indian Affairs
+			 -- History -- 19th century</corpname></item>
+		<item>
+		  <subject>Apache Indians -- Government relations</subject></item>
+		<item>
+		  <subject>Frontier and pioneer life -- Arizona</subject></item>
+		<item>
+		  <subject>Indian agents -- Arizona</subject></item>
+		<item>
+		  <geogname>Arizona -- History -- Sources</geogname></item>
+		<item>
+		  <geogname>San Carlos Indian Reservation (Ariz.) --
+			 History</geogname></item>
+		<item>
+		  <genreform>Correspondence</genreform></item>
+		<item>
+		  <genreform>Reports</genreform></item>
+	 </list>
+  </controlaccess> 
+  <relatedmaterial encodinganalog="544$1">
+	 <head>Related Material</head>
+	 <p>For related items, see the papers of John P. Clum (AZ 003).</p>
+  </relatedmaterial>
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head>
+	 <c01 level="subgrp" id="ser1">
+		<did>
+		  <unittitle>Subgroup I: Records of John P. Clum, San Carlos Apache
+			 Indian Agency, 
+			 <unitdate type="inclusive"
+			  normal="1874/1878">1874-1878</unitdate></unittitle> 
+		</did> 
+		<scopecontent>
+		  <p>Contains photocopied information, including abstracts of
+			 disbursements, vouchers, statements of current accounts, reports of employees,
+			 information on Clum's accounts examined and allowed by the Office of Indian
+			 Affairs, remarks made in the Office of the Commissioner of Indian Affairs
+			 regarding these accounts, and Clum's explanations of the accounts when so
+			 requested. There are several photocopies of interest, including a letter to
+			 Clum from Edward P. Smith, Commissioner, written on 27 March 1874 to notify
+			 Clum of his appointment as Special Indian agent for the Indians of the San
+			 Carlos Agency in Arizona Territory; a letter from the Secretary of the Treasury
+			 speaking of Agent James E. Roberts, the Camp Apache Indian Agent who was
+			 relieved by John P. Clum; and correspondence regarding the employment of George
+			 A. Clum, his brother, as a teacher. </p>
+		  <p>Also included are photocopied documents questioning Clum's use of
+			 funds as well as his justifications of the expenses. A final item of note is a
+			 photocopy of Clum's last report as Indian Agent, dated 18 September 1877. The
+			 span dates of some of the documents overlap because they are summary
+			 reports.</p>
+		</scopecontent>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">1</container>
+			 <unittitle>San Carlos Apache Indian Agency records, 3rd quarter. 
+				<unitdate type="inclusive"
+				 normal="1874">1874</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">2</container>
+			 <unittitle>San Carlos Apache Indian Agency records, 4th quarter. 
+				<unitdate type="inclusive"
+				 normal="1874">1874</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">3</container>
+			 <unittitle>San Carlos Apache Indian Agency records, 3rd and 4th
+				quarters. 
+				<unitdate type="inclusive"
+				 normal="1874">1874</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">3</container>
+			 <unittitle>San Carlos Apache Indian Agency records, 1st and 2nd
+				quarters. 
+				<unitdate type="inclusive"
+				 normal="1875">1875</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">4</container>
+			 <unittitle>San Carlos Apache Indian Agency records, 1st quarter. 
+				<unitdate type="inclusive"
+				 normal="1875">1875</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">5</container>
+			 <unittitle>San Carlos Apache Indian Agency records, 2nd quarter. 
+				<unitdate type="inclusive"
+				 normal="1875">1875</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">6</container>
+			 <unittitle>San Carlos Apache Indian Agency records, 3rd quarter. 
+				<unitdate type="inclusive"
+				 normal="1875">1875</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">7</container>
+			 <unittitle>San Carlos Apache Indian Agency records, 4th quarter. 
+				<unitdate type="inclusive"
+				 normal="1875">1875</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">8</container>
+			 <unittitle>San Carlos Apache Indian Agency records, 1st quarter. 
+				<unitdate type="inclusive"
+				 normal="1876">1876</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">9</container>
+			 <unittitle>San Carlos Apache Indian Agency records, 2nd quarter. 
+				<unitdate type="inclusive"
+				 normal="1876">1876</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">10</container>
+			 <unittitle>San Carlos Apache Indian Agency records, 3rd quarter. 
+				<unitdate type="inclusive"
+				 normal="1876">1876</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">11</container>
+			 <unittitle>San Carlos Apache Indian Agency records, 4th quarter. 
+				<unitdate type="inclusive"
+				 normal="1876">1876</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">1</container>
+			 <unittitle>San Carlos Apache Indian Agency records, 3rd quarter 1874
+				- 4th quarter 1876. 
+				<unitdate type="inclusive"
+				 normal="1874/1876">1874-1876</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">2</container>
+			 <unittitle>San Carlos Apache Indian Agency records, 1st and 2nd
+				quarters. 
+				<unitdate type="inclusive"
+				 normal="1877">1877</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">3</container>
+			 <unittitle>San Carlos Apache Indian Agency records, 3rd quarter. 
+				<unitdate type="inclusive"
+				 normal="1877">1877</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">4</container>
+			 <unittitle>San Carlos Apache Indian Agency records, 4th quarter. 
+				<unitdate type="inclusive"
+				 normal="1877">1877</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">5</container>
+			 <unittitle>San Carlos Apache Indian Agency records. 
+				<unitdate type="inclusive"
+				 normal="1874/1877">1874-1877</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">6</container>
+			 <unittitle>San Carlos Apache Indian Agency records. 
+				<unitdate type="inclusive"
+				 normal="1878">1878</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01> 
+	 <c01 level="subgrp">
+		<did>
+		  <unittitle>Subgroup II: Career Documents of John P. Clum, 
+			 <unitdate type="inclusive"
+			  normal="1880/1917">1880-1917</unitdate></unittitle>
+		</did>
+		<scopecontent>
+		  <p>Contains photocopied information pertaining to Clum's career. Of
+			 note are photocopies of a letter to the Postmaster General from Clum, seeking
+			 his first government job; letters from 1912-1915 in which Clum sought
+			 reappointment as an Indian agent; a letter of recommendation in Clum's behalf
+			 from Arizona senator Mark A. Smith; a schedule of a lecture tour and newspaper
+			 clippings about Clum's lectures; and evidence of Clum's work for the War
+			 Department before he gained a transfer to the Post Office Department.</p>
+		</scopecontent>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">7</container>
+			 <unittitle>Postmaster, Tombstone, Arizona. 
+				<unitdate type="inclusive"
+				 normal="1880/1882">1880-1882</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">8</container>
+			 <unittitle>Post Office Department, Washington, D.C.
+				<unitdate type="inclusive"
+				 normal="1882/1884">1882-1884</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">9</container>
+			 <unittitle>Service Record. 
+				<unitdate type="inclusive"
+				 normal="1882/1908">1882-1908</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">10</container>
+			 <unittitle>War Department. 
+				<unitdate type="inclusive"
+				 normal="1890/1891">1890-1891</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">11</container>
+			 <unittitle>Post Office Department. 
+				<unitdate type="inclusive"
+				 normal="1891/1911">1891-1911</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">12</container>
+			 <unittitle>Application for superintendency, Indian Service. 
+				<unitdate type="inclusive"
+				 normal="1912/1917">1912-1917</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">13</container>
+			 <unittitle>Southern Pacific Railroad - Harriman Lines, lecture
+				circuit. 
+				<unitdate type="inclusive"
+				 normal="1912/1917">1912-1917</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+  </dsc> 
+</archdesc></ead>

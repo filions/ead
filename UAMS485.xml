@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+    <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+        audience="internal" id="a0"> 
+        <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special
+            Collections//text(US::AzU::United States. Bureau of Reclamation Photograph Collection
+            //en"UAMS485.xml"</eadid> 
+        <filedesc> 
+            <titlestmt> 
+                <titleproper>United States. Bureau of Reclamation Photograph Collection
+                    <date normal="1901/1912"  era="ce"  calendar="gregorian">1901-1912</date></titleproper> 
+                <author>Inventory prepared by Kim Frontz.</author> 
+            </titlestmt> 
+            <publicationstmt> 
+                <publisher>University of Arizona Libraries, Special Collections</publisher> 
+                <address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+                <date normal="2012"  era="ce" calendar="gregorian">; 2012</date> 
+                <p>Arizona Board of Regents. All Rights Reserved.</p> 
+            </publicationstmt> 
+        </filedesc> 
+        <profiledesc> 
+            <creation>Inventory encoded in Oxygen XML editor by Anne Martinez. 
+                <date era="ce" encodinganalog="" normal="20120329">March 29, 2012</date></creation> 
+            <langusage>Inventory is in<language> English.</language></langusage> 
+        </profiledesc> 
+    </eadheader> 
+    <frontmatter> 
+        <titlepage> 
+            <titleproper>United States. Bureau of Reclamation Photograph Collection,
+                <date era="ce" calendar="gregorian">1901-1912</date></titleproper> 
+            <num>Collection Number: MS 485</num> 
+            <publisher>University of Arizona Libraries, Special Collections</publisher> 
+            <list> 
+                <defitem> 
+                    <label>Processed by:</label> 
+                    <item> Kim Frontz</item> 
+                </defitem> 
+                <defitem> 
+                    <label>Date completed:</label> 
+                    <item> 
+                        <date>October 2011</date></item> 
+                </defitem> 
+                <defitem> 
+                    <label>Encoded by:</label> 
+                    <item>Anne Martinez</item> 
+                </defitem> 
+            </list> 
+            <p>&#x00A9; 2008. Arizona Board of Regents. All rights reserved.</p> 
+        </titlepage> 
+    </frontmatter> 
+    <archdesc level="collection" type="inventory"> 
+        <did id="a1"> 
+            <head>Collection Summary</head> 
+            <unittitle encodinganalog="245" label="Collection Name:"> United States. Bureau of Reclamation Photograph Collection
+                <unitdate type="inclusive" label="Dates:" normal="1901/1912">1901-1912</unitdate></unittitle>	 
+            <unitid label="Collection Number:" encodinganalog="099"
+                repositorycode="AzU" countrycode="us">MS 485</unitid> 
+            <origination label="Creator:"> 
+                <corpname encodinganalog="110">United States. Bureau of Reclamation</corpname></origination> 
+            <abstract label="Abstract:">Photographs, 1901-1912, taken by U.S. Reclamation Service photographers, document irrigation projects and resulting agricultural activities in Yuma, Mesa and Phoenix, Arizona as well as at Roosevelt Dam and the Salt River Project.  There are also images of a few buildings and street scenes in Tucson, Phoenix, and Yuma.</abstract> 
+            <physdesc encodinganalog="300$a" label="Physical Description:"><extent>1 linear foot</extent></physdesc>	 
+            <repository label="Repository:"> 
+                <corpname>University of Arizona Libraries, Special Collections</corpname> 
+                <address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository> 
+        </did> 
+        <accessrestrict> 
+            <head>Restrictions</head> 
+            <p>There are no restrictions on this collection</p> 
+        </accessrestrict> 
+        <userestrict> 
+            <head>Copyright</head> 
+            <p>It is the responsibility of the user to obtain permission to publish
+                from the owner of the copyright (the institution, the creator of the record,
+                the author or his/her transferees, heirs, legates, or literary executors). The
+                user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+                University of Arizona, its officers, employees, and agents from and against all
+                claims made by any person asserting that he or she is an owner of
+                copyright.</p> 
+        </userestrict> 
+        <prefercite> 
+            <head>Credit Line</head> 
+            <p>United States Bureau of Reclamation Photograph Collection (MS 485). Special
+                Collections, University of Arizona Libraries.</p> 
+        </prefercite> 
+        <bioghist id="a2" encodinganalog="545"> 
+            <head>Historical Note</head> 
+            <p>Established in 1902, the U. S. Reclamation Service, later known as the United States Bureau of Reclamation, was created to manage, develop and protect water resources.  The department was responsible for construction of dams, primarily in the arid western United States, as well as hydroelectric plants, flood control, and water diversion and allocation.  The department continues to manage more than 180 projects in seventeen western states.</p> 
+        </bioghist> 
+        <arrangement id="a4" encodinganalog="351$a"> 
+            <head>Arrangement</head> 
+            <p>This Collection is organized into 1 series.</p>	 
+            <list> 
+                <item>Series I: Photographs
+                    <unitdate era="ce" calendar="gregorian" normal="1901/1912">1901-1912</unitdate></item> 
+            </list> 
+        </arrangement> 
+        <scopecontent id="a3" encodinganalog="520"> 
+            <head>Scope and Content Note</head> 
+            <p>31 photographs, 1901-1912. Includes photographs of irrigation projects and agricultural activities in Yuma, Mesa, and Phoenix, Arizona as well as at the Roosevelt Dam and Salt River Project. A small number of street scenes and buildings in Tucson, Phoenix, and Yuma are included as well.  Roosevelt Dam images include views of the completed dam and its dedication.  There are also images of San Xavier Mission, the University of Arizona’s Old Main building, Phoenix’s Adams Hotel, and Windsor Ranch and Madison Avenue in Yuma.  Highlights include Yuma’s celebration of the completion of the Siphon (an irrigation project), Heard Ranch cattle, workers threshing grain, and freight teams.</p> 
+        </scopecontent> 
+        <controlaccess id="a12"> 
+            <head>Access Terms</head> 
+            <list> 
+                <item> 
+                    <corpname encodinganalog="610" role="subject" source="lcnaf">United States. Bureau of Reclamation</corpname> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <subject encodinganalog="650" source="lcsh">Theodore Roosevelt Dam (Ariz.) – Photographs</subject> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <subject encodinganalog="650" source="lcsh">Salt River Project -- Photographs</subject> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <subject encodinganalog="650" source="lcsh">Irrigation – Arizona – Photographs</subject> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <subject encodinganalog="650" source="lcsh">Agriculture – Arizona – Photographs</subject> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <subject encodinganalog="650" source="lcsh">Agriculture – Arizona – Yuma - Photographs</subject> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <subject encodinganalog="650" source="lcsh">Freight and freightage – Arizona – Photographs</subject> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <geogname encodinganalog="651" source="lcsh">Yuma (Ariz.) – Photographs</geogname> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <corpname encodinganalog="610">Heard Ranch (Ariz.) -  Photographs</corpname> </item> 
+            </list> 
+        </controlaccess> 
+        <dsc type="combined" id="a23"> 
+            <head>Container List</head> 
+            <c01 level="series" id="ser1"> 
+                <did> 
+                    <unittitle>Series I: Photographs</unittitle>
+                    <unitdate era="ce" type="inclusive" calendar="gregorian">1901-1912</unitdate>
+                </did> 
+                <arrangement><p>This series is arranged alphabetically by topic.</p></arrangement>
+                <c02 level="file"> 
+                    <did> <container type="box">1</container> 
+                        <container type="folder">1</container> 
+                        <unittitle>Agricultural harvests – Yuma (includes Windsor Ranch)</unittitle> 
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">1</container> 
+                        <container type="folder">2</container> 
+                        <unittitle>Agricultural crops and laborers – Phoenix, Mesa</unittitle> 
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">1</container> 
+                        <container type="folder">3</container> 
+                        <unittitle>Freighting and ranching – Phoenix and Salt River Project</unittitle> 
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">1</container> 
+                        <container type="folder">4</container> 
+                        <unittitle>Roosevelt Dam and Salt River Project</unittitle> 
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">1</container> 
+                        <container type="folder">5</container> 
+                        <unittitle>Tucson and Phoenix scenes</unittitle> 
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">1</container> 
+                        <container type="folder">6</container> 
+                        <unittitle>Yuma scenes including the Siphon</unittitle> 
+                    </did> 
+                </c02> 
+            </c01> 
+        </dsc> 
+    </archdesc></ead>

@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+   <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0"> 
+      <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special Collections//text
+		(US::AzU::United States Army, Military Division of the Missouri correspondence)//en""UAMS041.xml"
+      </eadid> 
+      <filedesc> 
+         <titlestmt> 
+         	<titleproper encodinganalog="title">United States Army, Military Division of the Missouri correspondence
+	 	       <date normal="1878/1880" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">1878-1880</date>
+	 	       <!-- BE SURE TO POPULATE "date normal= "YYYY/YYYY" attribute. PLACE ATTRIBUTE DATES BETWEEN "   " -->
+	 	    </titleproper>
+         	<titleproper type="filing" altrender="nodisplay"> United States Army, Military Division of the Missouri correspondence
+	 	    <!-- [IF AN INDIVIDUAL IS ASSOCIATED LIST LAST NAME, (FIRST NAME MIDDLE INITIAL.) i.e. Flannery, (John S.) COLLECTION DESCRIPTION] OR 
+	 	    [IF NO SPECIFIC PERSON IS ASSOCIATED LIST THE COLLECTION NAME AND DESCRIPTION (i.e. International Student Council general files) -->
+            </titleproper>
+	        <author>Processed by Staff.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date normal= "2016" era= "ce" calendar = "gregorian">; 2016</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+            <date era="ce" encodinganalog="date" normal="20160412">April 12, 2016</date>
+  	     </creation><!-- BE SURE TO POPULATE "date normal= YYYYMMDD" attribute. PLACE ATTRIBUTE DATES BETWEEN "  " -->
+	     <langusage>Finding aid encoded in<language> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc>
+   </eadheader> 
+   <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+      <did id="a1"> 
+         <head>Collection Summary</head> 
+      	<unittitle encodinganalog="245" label="Collection Name:"> United States Army, Military Division of the Missouri correspondence
+            <unitdate type="inclusive" label="Dates:" normal="1878/1880">1878-1880</unitdate>
+  	     </unittitle><!-- BE SURE TO POPULATE "Dates normal= yyyy/yyyy" attribute.  PLACE ATTRIBUTE DATES BETWEEN "  " -->	 
+	     <unitid label="Collection Number:" encodinganalog="099" repositorycode="AzU" countrycode="us">MS 041</unitid>
+	     <origination label="Creator:"> 
+            <corpname source="lcnaf" encodinganalog="110">United States. Army. Department of the Missouri.</corpname> 
+	     </origination> <!-- CHANGE TAG TO CORPNAME, IF CREATOR IS A COROPORATION/ BUSINESS ETC.  CHANGE "100" ATTRIBUTE TO 110-->
+      	<abstract label="Abstract:">Photocopies of 118 documents, chiefly official correspondence and printed orders related to Captain Nicholas Nolan, 10th Cavalry, 
+      								from 1878 to 1880. Letters from the winter of 1879 concern the escort and protection of reservation Indians on a hunting expedition, 
+      								including Kiowas, Comanches and Pawnees. In the summer and fall of 1880, while stationed at Fort Quitman, Texas, Nolan cooperated 
+      								with Mexican forces along the Rio Grande River, in the pursuit of Indians with the Apache chief, Victorio. Correspondents 
+      								include Henry O. Flipper and P.B. Hunt.</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description:"><extent>.1 linear feet</extent></physdesc>	 
+	     <repository label="Repository:"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng" scriptcode="Latin">English.</language></langmaterial>
+   	        <!-- CHANGE OR ADD FIELD IF MATERIALS ARE IN OTHER LANGUAGES. BE SURE TO CHANGE langcode "" ATTRIBUTE-->
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+         <p>There are no restrictions on this collection.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+      	<p>United States Army, Military Division of the Missouri correspondence (MS 041). Special Collections, University of Arizona Libraries.</p>
+      </prefercite> 
+   	<acqinfo>
+   		<head>Acquisition Information</head>
+   		<p>Acquired as gift, 1966.</p>
+   	</acqinfo>
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Staff.</p>
+      </processinfo>
+      <bioghist id="a2" encodinganalog="545"> 
+         <head>Biographical Note</head> 
+      	<p>During the time these documents were written, the Military Division of the Missouri included Texas and the Indian Territory. The 10th Cavalry, better known as the Buffalo 
+      	Soldiers, was formed after the Civil War. One of the officers was Henry O. Flipper, the first African-American to graduate from West Point. The Irish-born captain, 
+      	Nicholas Nolan, served with the United States Cavalry from 1852 until his death in 1883. P.B. Hunt was an Indian agent at the Kiowa-Comanche-Wichita Agency, Fort Sill, Oklahoma.</p>
+      </bioghist> 
+      <arrangement id="a4" encodinganalog="351$a"> 
+         <head>Arrangement</head> 
+  	     <p>This collection is organized chronologically.</p>
+      </arrangement> 
+      <scopecontent id="a3" encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>Photocopies of 118 documents, chiefly official correspondence and printed orders related to Captain Nicholas Nolan, 10th Cavalry, from 1878 to 1880. Letters 
+      	from the winter of 1879 concern the escort and protection of reservation Indians on a hunting expedition, including Kiowas, Comanches and Pawnees. In the summer and fall of 
+      	1880, while stationed at Fort Quitman, Texas, Nolan cooperated with Mexican forces along the Rio Grande River, in the pursuit of Indians with the Apache chief, Victorio.
+      	Correspondents include Henry O. Flipper and P.B. Hunt.</p> 
+      </scopecontent> 
+      <relatedmaterial id="a6" encodinganalog="5441">
+      	<p>Original manuscripts are at Fort Huachuca Museum, Arizona. A 1963 photocopied letter from the donor, Retired Colonel Joseph M. Williams, explains how he acquired the documents
+      	after joining the 10th Cavalry.</p>
+      </relatedmaterial> <!-- DELETE TAGS IF COLLECTION DOES NOT HAVE ANY RELATED MATERIALS-->
+      <controlaccess>
+         <head>Access Terms</head>
+         <list type="simple"> <!-- USE SOURCE OR RULES ELEMENT Source=lcnaf or lcsh; Rules=aacr2 or dacs or local.  BE SURE TO CHANGE encodinganalog="  " ATTRIBUTE. ALSO, BE SURE TO DELETE ANY TAGS YOU DO NOT USE-->
+            <item>
+               <persname encodinganalog="600" source= "lcnaf">Flipper, Henry Ossian, 1856-1940 -- Correspondence.</persname><!-- 600 Creator; 700 Contributor -->
+  		    </item>
+         	<item>
+         		<persname encodinganalog="600" source= "lcnaf">Hunt, P. B. -- Correspondence.</persname><!-- 600 Creator; 700 Contributor -->
+         	</item>
+         	<item>
+         		<persname encodinganalog="600" source= "lcnaf">Nolan, Nicholas, -1883 -- Correspondence.</persname><!-- 600 Creator; 700 Contributor -->
+         	</item>
+         	<item>
+         		<persname encodinganalog="600" source= "lcnaf">Victorio, Apache Chief, -1881.</persname><!-- 600 Creator; 700 Contributor -->
+         	</item>
+  		    <item>
+  			   <corpname encodinganalog="610" source= "lcnaf">United States. Army. Cavalry, 10th.</corpname><!-- 610 regular; 611 conference; 710 contributor; 711 conference contributor -->
+  		    </item>
+         	<item>
+         		<corpname encodinganalog="610" source= "lcnaf">United States. Army -- History -- 19th century.</corpname><!-- 610 regular; 611 conference; 710 contributor; 711 conference contributor -->
+         	</item>
+  		    <item>
+  			   <subject encodinganalog="650" source= "lcsh">African American soldiers -- History -- 19th century.</subject>
+  		    </item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Apache Indians -- Wars.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Comanche Indians -- Wars.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Frontier and pioneer life -- Oklahoma.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Frontier and pioneer life -- Texas.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Indians of North America -- West (U.S.) -- Government relations -- 1869-1934.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Kiowa Indians -- Wars.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Pawnee Indians -- Wars.</subject>
+         	</item>
+  		    <item>
+  			   <geogname encodinganalog="651" source="lcsh">Fort Sill (Okla.) -- History, Military.</geogname>
+  		    </item>
+         	<item>
+         		<geogname encodinganalog="651" source="lcsh">Indian Territory -- History.</geogname>
+         	</item>
+         	<item>
+         		<geogname encodinganalog="651" source="lcsh">Oklahoma -- History -- 19th century.</geogname>
+         	</item>
+         	<item>
+         		<geogname encodinganalog="651" source="lcsh">Texas -- History -- 1846-1950.</geogname>
+         	</item>
+         </list>
+      </controlaccess>
+   </archdesc>
+</ead>

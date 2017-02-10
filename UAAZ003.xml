@@ -1,0 +1,2169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?filtitle Clum, John P. Papers?>
+<ead relatedencoding="MARC21"> 
+<eadheader audience="internal" findaidstatus="edited-full-draft"
+ langencoding="iso639-2b"> 
+  <eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
+	 Special Collections//text(US::AzU ::Papers of John P. Clum)//en"
+	 "UAAZ003.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">John P. Clum papers, 
+		  <date>1860-1970 (bulk, 1874-1932)</date></titleproper> 
+		<titleproper encodinganalog="245$a">Clum, (John P.)</titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Shan
+		  Sutton.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+		<publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		  Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline> 
+		</address> 
+		<date>&#x00A9; 2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation encodinganalog="500">Inventory encoded by Shan Sutton. 
+		<date>June 18, 2001</date></creation> 
+	 <langusage>Inventory is in<language langcode="en"
+		encodinganalog="546">English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper encodinganalog="245$a">John P. Clum papers, 
+		<date>1860-1970 (bulk, 1874-1932)</date></titleproper> 
+	 <num>Collection Number: AZ 003</num> 
+	 <publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Shan Sutton</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>2001</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Shan Sutton</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 2001. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name:">John P.
+		Clum papers, 
+		<unitdate type="inclusive" normal="">1860-1970 (bulk,
+		  1874-1932)</unitdate></unittitle> 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	  repositorycode="AzU" countrycode="us">AZ 003</unitid> 
+	 <origination label="Creator:"> 
+		<persname encodinganalog="100">Clum, John P.,
+		  1851-1932</persname></origination> 
+	 <abstract label="Abstract:">Collection consists of the papers of John P.
+		Clum and family. Correspondence, diaries, scrapbooks, photographs, typescripts,
+		newspaper and magazine articles are by or about John P. Clum; a smaller
+		quantity of typescripts, reprints, and biographical items concern John's son
+		Woodworth Clum. Much of the material consists of writings by the Clums and
+		others about the Apache Indians, Geronimo's capture, and events in Tombstone,
+		Arizona.</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+		encodinganalog="300">3 linear feet</extent></physdesc> 
+	 <repository label="Repository:"> 
+		<corpname encodinganalog="110">Univeristy of Arizona Libraries, Special
+		  Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline> 
+		</address></repository> 
+  </did> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Restrictions</head> 
+	 <p>None.</p> 
+  </accessrestrict> 
+  <userestrict encodinganalog="540"> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Credit Line</head> 
+	 <p>John P. Clum papers (AZ 003). Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p>John P. Clum was an Indian agent at the San Carlos Indian Reservation in
+		southeast Arizona from 1874 to 1877. He later served as founder and editor of
+		the 
+	 <title>Tombstone Epitaph</title> newspaper, postmaster, and mayor of
+	 Tombstone, Arizona, as well as postal inspector and lecturer in Alaska. His
+	 son, Woodworth Clum, was an editor of the 
+	 <title>Washington Star</title> newspaper, and the author of a book about
+	 his father entitled 
+	 <title>Apache Agent</title>.</p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into 10 series:</p> 
+	 <list> 
+		<item>I. Correspondence</item> 
+		<item>II. Diaries</item> 
+		<item>III. Manuscripts</item> 
+		<item>IV. Publications</item> 
+		<item>V. Clippings</item> 
+		<item>VI. Scrapbooks</item> 
+		<item>VII. Legal documents</item> 
+		<item>VIII. Miscellaneous materials</item> 
+		<item>IX. Materials concerning Woodward Clum</item> 
+		<item>X. Photographs</item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>Collection consists of the papers of John P. Clum and family.
+		Correspondence, diaries, scrapbooks, photographs, typescripts, newspaper and
+		magazine articles are by or about John P. Clum; a smaller quantity of
+		typescripts, reprints, and biographical items concern John's son Woodworth
+		Clum. Much of the material consists of writings by the Clums and others about
+		the Apache Indians, Geronimo's capture, and events in Tombstone, Arizona. The
+		bulk of the correspondence is between John and his wife Mary Clum, from 1876 to
+		1880. These letters, a diary from 1875, and some official documents contain
+		information on his tenure as an Indian agent in Arizona.</p> 
+	 <p>Photographs, some original but mostly reprints, depict John, Mary,
+		Woodworth, other Clum family members, and friends including Wyatt Earp.
+		Identified Apache individuals are represented in formal portraits taken in
+		Washington, D.C., where Clum took them in 1876. Group photos of Apaches show
+		them on the San Carlos Reservation and other locations, both before and after
+		Geronimo's capture. An 1898 diary, 1898 Alaskan newspapers, scrapbooks, and
+		photographs chronicle Clum's time in Alaska. Miscellaneous items include an
+		1860 history book, and an account of Clum family history. </p> 
+  </scopecontent> 
+  <relatedmaterial encodinganalog="544$1"> 
+	 <head>Related Material</head> 
+	 <p>Additional materials concerning John Clum are located in the John P.
+		Clum Collection (MS 284).</p> 
+  </relatedmaterial> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Clum, John P., 1851-1932 --
+			 Archives</persname></item> 
+		<item> 
+		  <persname encodinganalog="100">Clum, Woodworth</persname></item> 
+		<item> 
+		  <persname encodinganalog="100">Geronimo, 1829-1909</persname></item> 
+		<item> 
+		  <famname encodinganalog="100">Clum family -- Genealogy</famname></item>
+		
+		<item> 
+		  <subject>Frontier and pioneer life -- Arizona -- Cochise
+			 County</subject></item> 
+		<item> 
+		  <subject>Apache Indians -- Government relations --
+			 History</subject></item> 
+		<item> 
+		  <subject>Apache Indians -- Photographs</subject></item> 
+		<item> 
+		  <geogname>San Carlos Indian Reservation (Ariz.) --
+			 History</geogname></item> 
+		<item> 
+		  <geogname>Tombstone (Ariz.) -- History</geogname></item> 
+		<item> 
+		  <geogname>Alaska -- Description and travel -- History -- 19th
+			 century</geogname></item> 
+		<item> 
+		  <genreform>Correspondence</genreform></item> 
+		<item> 
+		  <genreform>Diaries</genreform></item> 
+		<item> 
+		  <genreform>Photographs</genreform></item> 
+		<item> 
+		  <genreform>Tintypes</genreform></item> 
+	 </list> 
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+		  <unittitle>Series I: Correspondence</unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Edw. P. Smith, Office of Indian Affairs, to John Clum. 
+				<unitdate type="inclusive" normal="1874">February 27,
+				  1874</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Wedding invitation for wedding of Mary D. Ware to John P.
+				Clum. Sent to S.B. Chapin from Mrs. T.C. Ware. 
+				<unitdate type="inclusive"
+				 normal="1876">1876</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">1</container> 
+			 <unittitle>J.Q. Smith, Office of Indian Affairs, to John Clum. 
+				<unitdate type="inclusive" normal="1876">March 20,
+				  1876</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Mary Clum to John Clum's mother. 
+				<unitdate type="inclusive" normal="1876">November 25,
+				  1876</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">1</container> 
+			 <unittitle>(No first name) Smith, War Dept., telegram to John Clum. 
+				<unitdate type="inclusive" normal="1877">March 20,
+				  1877</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Mary Clum to John Clum. 
+				<unitdate type="inclusive" normal="1877">April 13,
+				  1877</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">1</container> 
+			 <unittitle>John Clum to Mary Clum. 
+				<unitdate type="inclusive" normal="1877">April 16,
+				  1877</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Mary Clum to John Clum. 
+				<unitdate type="inclusive" normal="1877">April 20,
+				  1877</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">1</container> 
+			 <unittitle>John Clum to Major J.F. Wade, 9th Calvary. 
+				<unitdate type="inclusive" normal="1877">April 22,
+				  1877</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Mary Clum to John Clum. 
+				<unitdate type="inclusive" normal="1877">April 25,
+				  1877</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">1</container> 
+			 <unittitle>John Clum to Mary Clum. 
+				<unitdate type="inclusive" normal="1877">April 25,
+				  1877</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>John Clum to Mary Clum. 
+				<unitdate type="inclusive" normal="1877">April 27,
+				  1877</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>John Clum to Mary Clum. 
+				<unitdate type="inclusive" normal="1877">May 22,
+				  1877</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Mary Clum to (her cousin) G.N. Strong. 
+				<unitdate type="inclusive" normal="1878">February 13,
+				  1878</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>John Clum to (his grandmother) Jane Clum. 
+				<unitdate type="inclusive" normal="1878">October 22,
+				  1878</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>John Clum to Mary Clum (letter is incomplete). 
+				<unitdate type="inclusive" normal="1879">May 19,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Mary Clum to John Clum. 
+				<unitdate type="inclusive" normal="1879">May 20,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Mary Clum to John Clum. 
+				<unitdate type="inclusive" normal="1879">May 23,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Mary Clum to John Clum. 
+				<unitdate type="inclusive" normal="1879">May 27,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Mary Clum to John Clum. 
+				<unitdate type="inclusive" normal="1879">May 31,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Mary Clum to John Clum. 
+				<unitdate type="inclusive" normal="1879">June 5,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Mary Clum to John Clum. 
+				<unitdate type="inclusive" normal="1879">June 8,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>John Clum to Mary Clum (letter is incomplete). 
+				<unitdate type="inclusive" normal="1879">June 8,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Mary Clum to John Clum. 
+				<unitdate type="inclusive" normal="1879">June 9,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Mary Clum to John Clum. 
+				<unitdate type="inclusive" normal="1879">June 18,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle>John Clum to Mary Clum. 
+				<unitdate type="inclusive" normal="1879">June 18,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Mary Clum to John Clum. 
+				<unitdate type="inclusive" normal="1879">June 22,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Mary Clum to John Clum. 
+				<unitdate type="inclusive" normal="1879">June 24,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Mary Clum to John Clum. 
+				<unitdate type="inclusive" normal="1879">June 26,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Mary Clum to John Clum. 
+				<unitdate type="inclusive" normal="1879">June 27,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Mary Clum to John Clum. 
+				<unitdate type="inclusive" normal="1879">June 30,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Mary Clum to John Clum. 
+				<unitdate type="inclusive" normal="1879">July 1,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Mary Clum to John Clum. 
+				<unitdate type="inclusive" normal="NaN">No Date (circa. July,
+				  1879)</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle>John Clum to Mary Clum (letter is incomplete). 
+				<unitdate type="inclusive" normal="NaN">No Date (circa. July,
+				  1879)</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle>John Clum to Mary Clum (letter is incomplete). 
+				<unitdate type="inclusive" normal="NaN">No Date (circa. July,
+				  1879)</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Mary Clum to John Clum. 
+				<unitdate type="inclusive" normal="1879">July 2,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">4</container> 
+			 <unittitle>Mary Clum to John Clum. 
+				<unitdate type="inclusive" normal="1879">July 4,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">4</container> 
+			 <unittitle>Mary Clum to John Clum. 
+				<unitdate type="inclusive" normal="1879">July 5,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">4</container> 
+			 <unittitle>Mary Clum to John Clum. 
+				<unitdate type="inclusive" normal="1879">July 6,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">4</container> 
+			 <unittitle>Mary Clum to John Clum. 
+				<unitdate type="inclusive" normal="1879">July 7,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">4</container> 
+			 <unittitle>Mary Clum to John Clum. 
+				<unitdate type="inclusive" normal="1879">July 12,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">4</container> 
+			 <unittitle>Mary Clum to John Clum (enclosed with the letter are
+				letters to Mary from John's mother and sister). 
+				<unitdate type="inclusive" normal="1879">July 13,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">4</container> 
+			 <unittitle>Mary Clum to John Clum (letter is incomplete). 
+				<unitdate type="inclusive" normal="1879">July 14,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">4</container> 
+			 <unittitle>Mary Clum to John Clum. 
+				<unitdate type="inclusive" normal="1879">July 16,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">4</container> 
+			 <unittitle>John Clum to Mary Clum. 
+				<unitdate type="inclusive" normal="1879">July 16,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">4</container> 
+			 <unittitle>Mary Clum to John Clum. 
+				<unitdate type="inclusive" normal="1879">July 17,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">4</container> 
+			 <unittitle>John Clum to Mary Clum. 
+				<unitdate type="inclusive" normal="1879">July 17,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">4</container> 
+			 <unittitle>John Clum to Mary Clum. 
+				<unitdate type="inclusive" normal="1879">July 20,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">4</container> 
+			 <unittitle>Mary Clum to John Clum. 
+				<unitdate type="inclusive" normal="1879">July 14,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Mary Clum to John Clum (letter is incomplete). 
+				<unitdate type="inclusive" normal="NaN">No Date (circa. August,
+				  1879)</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Mary Clum to John Clum (letter is incomplete). 
+				<unitdate type="inclusive" normal="NaN">No Date (circa. August,
+				  1879)</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">5</container> 
+			 <unittitle>John Clum to Mary Clum. 
+				<unitdate type="inclusive" normal="1879">August 30,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Mary Clum to John Clum. 
+				<unitdate type="inclusive" normal="1879">September 14,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Mary Clum to John Clum. 
+				<unitdate type="inclusive" normal="1879">September 15,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Mary Clum to John Clum. 
+				<unitdate type="inclusive" normal="1879">September 16,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Mary Clum to John Clum. 
+				<unitdate type="inclusive" normal="1879">September 19,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Mary Clum to John Clum (letter is incomplete). 
+				<unitdate type="inclusive" normal="NaN">No Date (circa. May,
+				  1880)</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Mary Clum to John Clum. 
+				<unitdate type="inclusive" normal="1880">May 22,
+				  1880</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Mary Clum to John Clum. 
+				<unitdate type="inclusive" normal="1880">May 27,
+				  1880</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Mary Clum to John Clum (letter is incomplete). 
+				<unitdate type="inclusive" normal="1880">June 4,
+				  1880</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Mary Clum to John Clum's mother. 
+				<unitdate type="inclusive" normal="1880">December 5,
+				  1880</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">5</container> 
+			 <unittitle>John Clum to his mother. 
+				<unitdate type="inclusive" normal="1880">December 20,
+				  1880</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">5</container> 
+			 <unittitle>John Clum to Woodworth Clum. 
+				<unitdate type="inclusive" normal="1897">June 12,
+				  1897</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Woodworth Clum to John Clum (letter is incomplete). 
+				<unitdate type="inclusive" normal="1927">May 26,
+				  1927</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">5</container> 
+			 <unittitle>John Clum to Col. W.N. Monroe. 
+				<unitdate type="inclusive" normal="1930">May 18,
+				  1930</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">5</container> 
+			 <unittitle>John Clum to Walter H. Cole, editor of the 
+				<title>Tombstone Epitaph</title>. 
+				<unitdate type="inclusive" normal="1930">May 1,
+				  1930</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series II: Dairies</unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">6</container> 
+			 <unittitle>John Clum diary. Written in Arizona and on a trip to
+				Washington, D.C. 
+				<unitdate type="inclusive" normal="">March 1, 1875-December 23,
+				  1875</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">7</container> 
+			 <unittitle>John Clum diary. Written in Alaska. 
+				<unitdate type="inclusive" normal="">March 5, 1898-September 7,
+				  1898</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series III: Manuscripts</unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">8</container> 
+			 <unittitle>Autobiography by John Clum, chapters 15-22. Some portions
+				used by Woodworth Clum in his biography of John Clum, entitled 
+				<title>Apache Agent</title>. 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">9</container> 
+			 <unittitle>"Lo, the Poor Indian Agent" by John Clum. 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">10</container> 
+			 <unittitle>"On the Trail" by John Clum. 
+				<unitdate type="inclusive" normal="1875">October,
+				  1875</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">11</container> 
+			 <unittitle>Fragments of autobiographical manuscripts by John Clum. 
+				<unitdate type="inclusive"
+				normal="1898/1909">1898-1909</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series IV: Publications</unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">1</container> 
+			 <unittitle> 
+				<title>The Third Book of History</title> by Peter Parley (Boston:
+				Swan, Brewer and Tileston, 1860). Signed: John P. Clum, Santa Fe, N.M. 
+				<unitdate type="inclusive"
+				normal="1860">1860</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">2</container> 
+			 <unittitle> 
+				<title>Sunset Magazine</title>. Includes an article by John Clum
+				entitled "Fighting Geronimo: A Story of the Apache Indian Campaign of 1876." 
+				<unitdate type="inclusive" normal="1906">May,
+				  1906</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">3</container> 
+			 <unittitle>"Geronimo" by John Clum. Extract from the 
+				<title>New Mexico Historical Review</title>. 
+				<unitdate type="inclusive" normal="1928">January,
+				  1928</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">4</container> 
+			 <unittitle>"Victorio, Head Chief of the Warm Springs Apaches in 1877,
+				at Ojo Caliente, New Mexico" by John Clum. Reprint from the 
+				<title>New Mexico Historical Review</title>. 
+				<unitdate type="inclusive"
+				normal="1929">1929</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">5</container> 
+			 <unittitle>"The San Carlos Apache Police, Parts I and II" by John
+				Clum. Reprints from the 
+				<title>New Mexico Historical Review</title>. 
+				<unitdate type="inclusive"
+				normal="1929/1930">1929-1930</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">6</container> 
+			 <unittitle>"It All Happened in Tombstone" by John Clum. One extracted
+				version and one page proof version from the 
+				<title>Arizona Historical Review</title>. 
+				<unitdate type="inclusive" normal="1929">October,
+				  1929</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">7</container> 
+			 <unittitle> 
+				<title>The Truth about the Apaches Told in the Annual Reports by
+				  John P. Clum, United States Indian Agent for the Apache Indians at San Carlos,
+				  Arizona. Submitted to the Commissioner of Indian Affairs for 1874, 1875, 1876,
+				  1877</title> by John Clum (Los Angeles: Adcraft, 1931). One full version and
+				one partial version. 
+				<unitdate type="inclusive"
+				normal="1931">1931</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">8</container> 
+			 <unittitle>"Nellie Cashman" by John Clum. Extract from the 
+				<title>Arizona Historical Review</title>. 
+				<unitdate type="inclusive" normal="1931">January,
+				  1931</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">9</container> 
+			 <unittitle>"John P. Clum" by Leslie E. Gregory. Extract from the 
+				<title>Arizona Historical Review</title>. 
+				<unitdate type="inclusive" normal="1932">July,
+				  1932</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series V: Clippings</unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">10</container> 
+			 <unittitle>Handwritten transcripts of clippings from the 
+				<title>Arizona Citizen</title>. Most concern John Clum and Apaches.
+				
+				<unitdate type="inclusive"
+				normal="1875/1877">1875-1877</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">11</container> 
+			 <unittitle>Clippings, primarily from the 
+				<title>Tombstone Epitaph</title>. Most concern John Clum and
+				family. Includes clippings on Mary Clum's death (1880) and an assassination
+				attempt on John Clum (1881). Note: Oversize materials from this file are
+				located in Box #6. 
+				<unitdate type="inclusive"
+				 normal="1880/1881">1880-1881</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">12</container> 
+			 <unittitle>Clippings from various newspapers and publications. Most
+				concern John Clum and family. 
+				<unitdate type="inclusive"
+				 normal="1880/1975">1880-1975</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">13</container> 
+			 <unittitle>Clippings concerning the death of John Clum. Includes a
+				typescript of remarks made by Raymond C. Brooks at Clum's funeral. 
+				<unitdate type="inclusive"
+				normal="1932">1932</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series VI: Scrapbooks</unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">3A-3B</container> 
+			 <unittitle>Scrapbook. Most of the materials concern John Clum. 
+				<unitdate type="inclusive"
+				normal="1868/1930">1868-1930</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Scrapbook. Most of the materials concern John Clum. 
+				<unitdate type="inclusive"
+				normal="1890/1913">1890-1913</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series VII: Legal Documents</unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Lease of Gilded Age Mining Claim, Tombstone, by John Clum
+				from the Gilded Age Mining Co. 
+				<unitdate type="inclusive" normal="1880">June 24,
+				  1880</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Quit-claim deed for property in Tombstone from James
+				Clark, John Rouse, and John Anderson to John Clum. 
+				<unitdate type="inclusive" normal="1882">April 22,
+				  1882</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series VIII: Miscellaneous Materials</unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">4</container> 
+			 <unittitle>Booklet entitled: 
+				<title>Claverack</title> (John Clum was born in Claverack, New
+				York). 
+				<unitdate type="inclusive"
+				normal="1892">1892</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Photocopies of three letters from Harold D. Clum to
+				Cornelius W. Clum regarding Clum family history. Includes a Clum coat-of-arms.
+				(Relation of these individuals to John Clum is unknown.). 
+				<unitdate type="inclusive" normal="">August-September,
+				  1928</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">6</container> 
+			 <unittitle>Synopsis of the motion picture "Walk the Proud Land,"
+				based on John Clum's career as Apache Indian Agent. 
+				<unitdate type="inclusive" normal="1956">May 22,
+				  1956</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">7</container> 
+			 <unittitle>Program from Tau Beta Pi Arizona Alpha Initiation Banquet.
+				
+				<unitdate type="inclusive" normal="1958">December 4,
+				  1958</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">8</container> 
+			 <unittitle>Excerpt of letter from Marjorie Clum Parker, John Clum's
+				granddaughter, to Phyllis Ball, University of Arizona Special Collections
+				Librarian. 
+				<unitdate type="inclusive" normal="1960">May 17,
+				  1960</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series IX: Materials concerning Woodworth Clum</unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">9</container> 
+			 <unittitle>Autobiographical essays. 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">10</container> 
+			 <unittitle> 
+				<title>An Epilogue to Apache Agent</title> by Woodworth Clum.
+				Privately published. Inscribed to Dan Carter Beard. One typescript version and
+				one published version. 
+				<unitdate type="inclusive"
+				normal="1936">1936</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">11</container> 
+			 <unittitle>Scrapbook. Most of the materials concern Woodworth Clum. 
+				<unitdate type="inclusive"
+				normal="1904/1911">1904-1911</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">12</container> 
+			 <unittitle> 
+				<title>Clum Travel Talks</title> brochure. 
+				<unitdate type="inclusive"
+				normal="1905">1905</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">13</container> 
+			 <unittitle>Roster of the "Ends of the Earth" club. 
+				<unitdate type="inclusive"
+				normal="1907">1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series X: Photographs</unittitle> 
+		</did> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Subseries 1: John Clum and Family</unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">1</container> 
+				<unittitle>John Clum, age 19, freshman at Rutgers University. 
+				  <unitdate type="inclusive"
+				  normal="1870">1870</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">1</container> 
+				<unittitle>John Clum, Mary Clum, and Woodworth Clum, in front of
+				  their house in Tombstone, AZ. 
+				  <unitdate type="inclusive"
+				  normal="1880">1880</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">1</container> 
+				<unittitle>John Clum with Ed Engelstadt and Wyatt Earp, Nome, AK. 
+				  <unitdate type="inclusive"
+				  normal="1898">1898</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">1</container> 
+				<unittitle>John Clum in post office, Nome AK. 
+				  <unitdate type="inclusive" normal="1898">Circa.
+					 1898</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">1</container> 
+				<unittitle>John Clum. 
+				  <unitdate type="inclusive"
+				  normal="1916">1916</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">1</container> 
+				<unittitle>John Clum, Tucson. 
+				  <unitdate type="inclusive"
+				  normal="1930">1930</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">1</container> 
+				<unittitle>John Clum and Walter Cole (Editor of the 
+				  <title>Tombstone Epitaph</title> newspaper), Tombstone, AZ. 
+				  <unitdate type="inclusive"
+				  normal="1931">1931</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">1</container> 
+				<unittitle>John and Mary Clum. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">1</container> 
+				<unittitle>John and Mary Clum. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">1</container> 
+				<unittitle>John Clum with unidentified woman. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">1</container> 
+				<unittitle>John Clum with unidentified group of people. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">1</container> 
+				<unittitle>John Clum, Degleet Noor Date Garden, Imperial County,
+				  CA. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">1</container> 
+				<unittitle>John Clum, Degleet Noor Date Garden, Imperial County,
+				  CA. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">1</container> 
+				<unittitle>Florence Baker Clum, Degleet Noor Date Garden, Imperial
+				  County, CA. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">1</container> 
+				<unittitle>Florence Baker Clum, Degleet Noor Date Garden, Imperial
+				  County, CA. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">1</container> 
+				<unittitle>Landscape, Degleet Noor Date Garden, Imperial County,
+				  CA. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">1</container> 
+				<unittitle>Landscape, Degleet Noor Date Garden, Imperial County,
+				  CA. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">1</container> 
+				<unittitle>Mary Clum. 
+				  <unitdate type="inclusive" normal="1872">June 23,
+					 1872</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">1</container> 
+				<unittitle>Mary Clum (tintype and print). 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">2</container> 
+				<unittitle>Angelina Dennison Ware (mother of Mary Clum). 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">2</container> 
+				<unittitle>Angelina Dennison Ware (mother of Mary Clum). 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">2</container> 
+				<unittitle>Angelina Dennison Ware (mother of Mary Clum). 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">2</container> 
+				<unittitle>Thomas C. Ware (father of Mary Clum). 
+				  <unitdate type="inclusive" normal="1861">September,
+					 1861</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">2</container> 
+				<unittitle>Thomas C. Ware, Cynthiana, KY (grandfather of Mary
+				  Clum). 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">2</container> 
+				<unittitle>Woodworth Clum, football team photo. 
+				  <unitdate type="inclusive"
+				  normal="1895">1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">2</container> 
+				<unittitle>Woodworth Clum (two photos glued to paper with other
+				  unidentified photos). 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">2</container> 
+				<unittitle>Woodworth Clum. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">2</container> 
+				<unittitle>Woodworth Clum, Washington, DC. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">2</container> 
+				<unittitle>William Henry Clum (father of John Clum), Elizabeth Van
+				  Deusen Clum (mother of John Clum), Jane Clum (sister of John Clum), and
+				  Woodworth Clum, Washington, DC. 
+				  <unitdate type="inclusive" normal="1888">Circa.
+					 1888</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">2</container> 
+				<unittitle>Photograph of a Tucson Daily Citizen newspaper clipping
+				  re: assassination attempt on John Clum. 
+				  <unitdate type="inclusive" normal="1881">December 16,
+					 1881</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">2</container> 
+				<unittitle>Unidentified boy (tintype). 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Subseries 2: John Clum and Indians</unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">3</container> 
+				<unittitle>John Clum with a group of unidentified Apaches from San
+				  Carlos Indian Agency, and a Yaqui boy named Juan De Quilla, Tucson. 
+				  <unitdate type="inclusive" normal="1874">October,
+					 1874</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">3</container> 
+				<unittitle>John Clum with Apaches, San Carlos Indian Agency.
+				  (standing left: Ochecama; standing right: Cha-thle-pah; sitting left:
+				  Chim-au-hua-va Sal; sitting right: Mojave Charlie; boy in photo is
+				  unidentified). 
+				  <unitdate type="inclusive"
+				  normal="1876">1876</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">3</container> 
+				<unittitle>John Clum with Apaches, Arizona. (left: Chatto/Diablo;
+				  right: Eskiminzin). 
+				  <unitdate type="inclusive"
+				  normal="1876">1876</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">3</container> 
+				<unittitle>John Clum with Apache Indian Police, including
+				  Tau-el-cly-ee and Marijildo Grijalba, Tucson. 
+				  <unitdate type="inclusive" normal="1876">May,
+					 1876</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">3</container> 
+				<unittitle>John Clum with group of unidentified Apaches,
+				  Washington, DC. 
+				  <unitdate type="inclusive" normal="1876">September,
+					 1876</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">3</container> 
+				<unittitle>John Clum with group of unidentified Apaches, San
+				  Carlos, AZ. 
+				  <unitdate type="inclusive"
+				  normal="1931">1931</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">3</container> 
+				<unittitle>John Clum with an unidentified Apache, San Carlos, AZ. 
+				  <unitdate type="inclusive"
+				  normal="1931">1931</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">3</container> 
+				<unittitle>John Clum on visit to San Carlos, AZ. 
+				  <unitdate type="inclusive"
+				  normal="1931">1931</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Subseries 3: Friends of John Clum</unittitle> 
+		  </did> 
+		  <c03> 
+			 <did> <container type="box">5</container> <container
+				type="folder">4</container> 
+				<unittitle>Virgil Earp, Tombstone, AZ. 
+				  <unitdate type="inclusive"
+				  normal="1881">1881</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="box">5</container> <container
+				type="folder">4</container> 
+				<unittitle>Nellie Cashman in front of her store in Dawson, AK.
+				  Photograph by John Clum. 
+				  <unitdate type="inclusive" normal="1898">June 23,
+					 1898</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="box">5</container> <container
+				type="folder">4</container> 
+				<unittitle>Captain Clay Beauford. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="box">5</container> <container
+				type="folder">4</container> 
+				<unittitle>Dick Gird with unidentified group of people. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="box">5</container> <container
+				type="folder">4</container> 
+				<unittitle>Ed Schieffelin. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="box">5</container> <container
+				type="folder">4</container> 
+				<unittitle>Dick Gird, Al Schieffelin, and Ed Schieffelin. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Subseries 4: Geronimo</unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">5</container> 
+				<unittitle>Geronimo with Capt. Roberts, Nana, Lieutenant Maus,
+				  Captain Bourke, General Crook, and unidentified soldiers and Apaches. 
+				  <unitdate type="inclusive"
+				  normal="1886">1886</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">5</container> 
+				<unittitle>Geronimo with Naiche at Fort Bowie, AZ. 
+				  <unitdate type="inclusive"
+				  normal="1886">1886</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">5</container> 
+				<unittitle>Geronimo with Naiche at Fort Bowie, AZ. 
+				  <unitdate type="inclusive"
+				  normal="1886">1886</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">5</container> 
+				<unittitle>Geronimo with Chihuahua, Naiche, Loco, and Nana, Mount
+				  Vernon Barracks, AL. 
+				  <unitdate type="inclusive"
+				  normal="1893">1893</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">5</container> 
+				<unittitle>Photo of a painting of Geronimo created at Fort Sill,
+				  OK. 
+				  <unitdate type="inclusive"
+				  normal="1898">1898</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">5</container> 
+				<unittitle>Geronimo in overcoat. 
+				  <unitdate type="inclusive"
+				  normal="1904">1904</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">5</container> 
+				<unittitle>Geronimo with Naiche and group of Apaches in front of
+				  train. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">5</container> 
+				<unittitle>Geronimo with rifle. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">5</container> 
+				<unittitle>Geronimo with rifle. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">5</container> 
+				<unittitle>Geronimo in horned headpiece. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">6</container> 
+				<unittitle>Book: 
+				  <title>Geronimo: The Apache Chief</title>, photos by C.S. Fly,
+				  published by Mrs. M.E. Fly, Tombstone, AZ. 
+				  <unitdate type="inclusive"
+				  normal="1886">1886</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Subseries 5: Apache Indians</unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">7</container> 
+				<unittitle>Diablo, a Coyotero Apache, Washington, DC. Photo taken
+				  on trip with John Clum. 
+				  <unitdate type="inclusive"
+				  normal="1876">1876</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">7</container> 
+				<unittitle>Sneezer, Washington, DC. Photo taken on trip with John
+				  Clum. 
+				  <unitdate type="inclusive" normal="1876">October,
+					 1876</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">7</container> 
+				<unittitle>Eskiminzin. 
+				  <unitdate type="inclusive"
+				  normal="1876">1876</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">7</container> 
+				<unittitle>Casadora and wife, Washington, DC. 
+				  <unitdate type="inclusive"
+				  normal="1876">1876</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">7</container> 
+				<unittitle>Tah-Zay, son of Cochise, Chiricahua Apache, Washington,
+				  DC. Photo taken on trip with John Clum. Tah-Zay died of pneumonia in
+				  Washington, DC and is buried in Congressional Cemetery. 
+				  <unitdate type="inclusive"
+				  normal="1876">1876</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">7</container> 
+				<unittitle>Victorio, Warm Springs Apache, Ojo Caliente, NM. 
+				  <unitdate type="inclusive"
+				  normal="1877">1877</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">7</container> 
+				<unittitle>Eskiminzin and children. 
+				  <unitdate type="inclusive"
+				  normal="1880">1880</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">7</container> 
+				<unittitle>Granddaughter of Eskiminzin with baby, San Carlos, AZ. 
+				  <unitdate type="inclusive"
+				  normal="1930">1930</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">7</container> 
+				<unittitle>Sneezer and Goodah Goodah, San Carlos, AZ. 
+				  <unitdate type="inclusive"
+				  normal="1931">1931</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">7</container> 
+				<unittitle>Sneezer. 
+				  <unitdate type="inclusive"
+				  normal="1931">1931</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">8</container> 
+				<unittitle>Naiche on a horse. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">8</container> 
+				<unittitle>Naiche and wife. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">8</container> 
+				<unittitle>Tau-el-cly-ee, sergeant in Clum's Apache police force. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">8</container> 
+				<unittitle>Detachment of Indian scouts, Ft. Huachuca, AZ. Includes
+				  Juan Antonio, Silas Tenejeheh, Abjo Quintiro, William Major, Sinew Riley, Joe
+				  Adley, Jim Lane, Jess Billy, Kessay, Andrew Paxson, Benson Sisto, Deklay, Capt.
+				  Charles Bones, Sgt. Chow Big, Eskiplygojo, Cpl. Thomas Sye, Toney James. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">8</container> 
+				<unittitle>Deklay, Capt. Charles Bones, Sgt. Chow Big, Eskiplygojo,
+				  Cpl. Thomas Sye. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">8</container> 
+				<unittitle>Unidentified Apache women. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">8</container> 
+				<unittitle>Unidentified Apache women. (Three photos glued to sheet
+				  of scrapbook paper). 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">8</container> 
+				<unittitle>Unidentified Apaches. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">8</container> 
+				<unittitle>Apache homes. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Subseries 6: Tombstone, AZ</unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">9</container> 
+				<unittitle>View of town. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">9</container> 
+				<unittitle>View of town. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">9</container> 
+				<unittitle>View of town. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">9</container> 
+				<unittitle>Unidentified building. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">9</container> 
+				<unittitle>Unidentified building. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">9</container> 
+				<unittitle>Boot Hill Cemetery. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">9</container> 
+				<unittitle>Mining building. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">9</container> 
+				<unittitle>Tombstone Consolidated Mines building postcard. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Subseries 7: Alaska</unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">10</container> 
+				<unittitle>Packers ascending the summit of Chilcoot Pass, AK. 
+				  <unitdate type="inclusive"
+					normal="1898">1898</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">10</container> 
+				<unittitle>Packers ascending the summit of Chilcoot Pass, AK.
+				  Photograph by E.A. Hegg. 
+				  <unitdate type="inclusive"
+					normal="1898">1898</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">10</container> 
+				<unittitle>Packers ascending the summit of Chilcoot Pass, AK.
+				  Photograph by E.A. Hegg. 
+				  <unitdate type="inclusive"
+					normal="1898">1898</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">10</container> 
+				<unittitle>Packers at the summit of Chilcoot Pass, AK. Photograph
+				  by E.A. Hegg. 
+				  <unitdate type="inclusive"
+					normal="1898">1898</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">10</container> 
+				<unittitle>Jeff "Soapy" Smith, Skaguay, AK. 
+				  <unitdate type="inclusive" normal="1898">Circa.
+					 1898</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">10</container> 
+				<unittitle>Red Line Transportation Company's horse and cart team's
+				  last trip, Bennet, British Columbia. Photograph by M.C. Barley. 
+				  <unitdate type="inclusive" normal="1899">July 6,
+					 1899</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">10</container> 
+				<unittitle>Aerial view of Dawson, Alaska from across the Yukon
+				  River. Photograph by E.A. Hegg. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">10</container> 
+				<unittitle>White Horse, AK. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">10</container> 
+				<unittitle>Lewis Lake, AK. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">10</container> 
+				<unittitle>View east of Rocky Point, AK. Photograph by H.C. Barley.
+				  
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">10</container> 
+				<unittitle>Yukon Dock, AK. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">10</container> 
+				<unittitle>Broadway, Skagway, AK. Photograph taken in daylight at
+				  midnight. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">10</container> 
+				<unittitle>White Pass and Yukon Railroad shops at Skagaway, AK. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">10</container> 
+				<unittitle>Shops and coal bunkers, Skagaway, AK (?). 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">10</container> 
+				<unittitle>Aerial view, Skagaway, AK(?). 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">10</container> 
+				<unittitle>Aerial view, Skagaway, AK(?). 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">10</container> 
+				<unittitle>Group of unidentified people and train, Skagaway, AK(?).
+				  
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">10</container> 
+				<unittitle>Ships and dock, Skagaway, AK(?) 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">10</container> 
+				<unittitle>Ships and dock, Skagaway, AK(?) 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">11</container> 
+				<unittitle>Unidentified ship. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">11</container> 
+				<unittitle>Unidentified ship. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">11</container> 
+				<unittitle>Unidentified ships. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">11</container> 
+				<unittitle>Unidentified ship. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">11</container> 
+				<unittitle>Unidentified ship. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">11</container> 
+				<unittitle>Unidentified ship. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">11</container> 
+				<unittitle>Unidentified ship. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">11</container> 
+				<unittitle>Unidentified ship. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">11</container> 
+				<unittitle>Unidentified men in front of unidentified ship. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">11</container> 
+				<unittitle>White Pass and Yukon Railroad train. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">11</container> 
+				<unittitle>White Pass and Yukon Railroad train. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">11</container> 
+				<unittitle>White Pass and Yukon Railroad train track. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">11</container> 
+				<unittitle>Unidentified train. Photograph by H.C. Barley. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">11</container> 
+				<unittitle>Unidentified train. Photograph by H.C. Barley. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">11</container> 
+				<unittitle>Post office, unidentified location. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">11</container> 
+				<unittitle>Unidentified men and lumber. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">11</container> 
+				<unittitle>Unidentified landscape. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">11</container> 
+				<unittitle>Unidentified man with horse and dog. Photograph by H.C.
+				  Barley. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">11</container> 
+				<unittitle>Unidentified men with mining equipment. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Subseries 8: San Bernadino, CA</unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">12</container> 
+				<unittitle>San Bernadino County Citrus Fair in New York City. John
+				  P. Clum, Manager. 
+				  <unitdate type="inclusive"
+					normal="1890">1890</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">5</container> <container
+				type="folder">12</container> 
+				<unittitle>Office of Clum and O'Connor Real Estate, San Bernadino,
+				  CA. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+	 </c01> 
+  </dsc> 
+</archdesc></ead>

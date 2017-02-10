@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?filetitle Carpenter, Edwin Francis Papers?>
+<ead relatedencoding="MARC21">
+<eadheader audience="internal" findaidstatus="edited-full-draft"
+ langencoding="iso639-2b"> 
+  <eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
+	 Special Collections//text(US::AzU::Edwin Francis Carpenter papers) //en"
+	 "UAMS332.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Edwin Francis Carpenter papers, 
+		  <date>1917-1963 </date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Staff </author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+		<publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		  Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		  
+		</address> 
+		<date>© 2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation encodinganalog="500">Inventory encoded by Teri Clem. 
+		<date>October 18, 2001</date></creation> 
+	 <langusage>Inventory is in<language langcode="en"
+		encodinganalog="546">English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper encodinganalog="245$a">Edwin Francis Carpenter papers, 
+		<date>1917-1963</date></titleproper> 
+	 <num>Collection Number: MS 332</num> 
+	 <publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by: </label> 
+		  <item>Staff</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>No Date</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Teri Clem</item> 
+		</defitem> 
+	 </list> 
+	 <p>© 2001. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage>
+</frontmatter>
+<archdesc level="collection"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name:">Edwin Francis
+		Carpenter papers, 
+		<unitdate type="inclusive"
+		 normal="1917/1963">1917-1963</unitdate></unittitle> 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	  repositorycode="AzU" countrycode="us">MS 332</unitid> 
+	 <origination label="Creator:"> 
+		<persname encodinganalog="100">Carpenter, Edwin Francis,
+		  1898-1963</persname></origination> 
+	 <abstract label="Abstract:">Papers, 1917-1963 (bulk 1930-1960), of
+		astronomer Edwin F. Carpenter, 1898-1963. Includes biographical materials,
+		correspondence, publications and appearances, printed materials,
+		photographs, and glass slides. The bulk of the collection consists of correspondence documenting
+		his professional activities, and photographs documenting the building and
+		instrumentation of Steward Observatory at the University of Arizona, and Kitt
+		Peak National Observatory in the Quinan Mountains, west of Tucson, Arizona.
+		Selected correspondents include Bart Bok, Raymund Dugan, Stuve Holm, Knut
+		Lundmark, Otto Struve, Harlow Shapley, and Edwin Hubble.</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+		encodinganalog="300">2.5 linear feet</extent></physdesc> 
+	 <repository label="Repository:"> 
+		<corpname encodinganalog="110">University of Arizona Libraries, Special
+		  Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		  
+		</address></repository> 
+  </did> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Restrictions</head> 
+	 <p>None.</p> 
+  </accessrestrict> 
+  <userestrict encodinganalog="540"> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Credit Line</head> 
+	 <p>Edwin Francis Carpenter papers (MS 332). Special
+		Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p>Born on 1 November 1898 in Boston, Massachusetts, Edwin Carpenter
+		received the A.B. and A.M. degrees from Harvard and the Ph. D. from the
+		University of California at Berkeley (1925). He began his teaching duties at
+		the University of Arizona that year, and became head of the Astronomy
+		Department (1936), director of Steward Observatory (1938), a member at large of
+		the board of directors of the Association of Universities for Research in
+		Astronomy, Inc. (AURA).</p> 
+	 <p>His career brought considerable attention to The University of Arizona,
+		and raised the research and instructional levels of its astronomy and
+		observation programs. Mr. Carpenter’s research included investigations of
+		characteristics of galaxies, the death of stars through supernovae, and white
+		dwarf stars. He was active in campus affairs, and served as local president for
+		several organizations, including the American Association of University
+		Professors and Society of Sigma Xi. Nationally, he was vice-president and
+		chairman of the Astronomical Divisions of the American Association for the
+		Advancement of Science, and council member of the American Astronomical
+		Society. He published widely, and received support for his work from the
+		National Science Foundation, National Academy of Sciences, and the American
+		Philosophical Society of Philadelphia. He died on 11 February 1963 at Tucson.
+		He had nearly completed the two-year undertaking of relocating Steward
+		Observatory’s 36 inch reflector to the new site at Kitt Peak National
+		Observatory. He was survived by his wife, Ethel, and children Roger and
+		Emily.</p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into five series.</p> 
+	 <list> 
+		<item>Series I: Biographical Materials, 1920-1929</item> 
+		<item>Series II: Correspondence, 1917-1963</item> 
+		<item>Series III: Publications and Addresses, 1925-1959</item> 
+		<item>Series IV: Printed Materials, 1932-1963</item> 
+		<item>Series V: Photographs, 1932-1963</item> 
+	 	<item>Series VI: Glass Slides, 1938-1957</item>
+	 </list> 
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>Papers, 1917-1963 (bulk 1930-1960), of astronomer Edwin F. Carpenter,
+		1898-1963. Includes biographical materials, correspondence, publications and
+		appearances, printed materials, and photographs. The bulk of the collection
+		consists of correspondence documenting his professional activities, and
+		photographs documenting the building and instrumentation of Steward Observatory
+		at the University of Arizona, and Kitt Peak National Observatory in the Quinan
+		Mountains, west of Tucson, Arizona. Selected correspondents include Bart Bok,
+		Raymund Dugan, Stuve Holm, Knut Lundmark, Otto Struve, Harlow Shapley, and
+		Edwin Hubble. </p> 
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Bok, Bart Jan, 1906 --
+			 Correspondence</persname></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Dugan, Raymond Smith, 1878-1940 --
+			 Correspondence</persname></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Holm, Sture, 1936 --
+			 Correspondence</persname></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Lundmark, Knut Emil, 1889-1958 --
+			 Correspondence</persname></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Shapley, Harlow, 1885-1972 --
+			 Correspondence</persname></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Struve, Otto, 1897-1963 --
+			 Correspondence</persname></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <corpname encodinganalog="110">Steward Observatory</corpname></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <corpname encodinganalog="110">Kitt Peak National
+			 Observatory</corpname></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject>Astronomers -- Arizona -- Biography</subject></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject>Astronomical observatories -- Arizona</subject></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <genreform>Correspondence</genreform></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <genreform>Photographs</genreform></item> 
+	 </list> 
+  </controlaccess> 
+  <relatedmaterial encodinganalog="544$1"> 
+	 <head>Related Material</head> 
+	 <p>Materials in collection number AZ 330 relate to the Conference on the
+		Use of Solar Energy, Tucson, 1955.</p> 
+  </relatedmaterial> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series I: Biographical Materials, 
+			 <unitdate type="inclusive"
+			  normal="1920/1929">1920-1929</unitdate></unittitle> 
+		</did> 
+		<c02> 
+		  <did><container type="box">1</container><container
+			 type="folder">1</container> 
+			 <unittitle>Biographical materials. 
+				<unitdate type="inclusive"
+				 normal="1920/1963">1920-1963</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container type="box">1</container><container
+			 type="folder">2-3</container> 
+			 <unittitle>Biographical materials: notes compiled by Ethel Carpenter.
+				
+				<unitdate type="inclusive"
+				 normal="">1950s-1980s</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container type="box">1</container><container
+			 type="folder">4</container> 
+			 <unittitle>Biographical materials: student coursework given and taken
+				by EFC. 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series II: Correspondence, 
+			 <unitdate type="inclusive"
+			  normal="1917/1963">1917-1963</unitdate></unittitle> 
+		</did> 
+		<c02> 
+		  <did><container type="box">1</container><container
+			 type="folder">5-9</container> 
+			 <unittitle>Correspondence, general (mostly incoming, some outgoing
+				replies). 
+				<unitdate type="inclusive"
+				 normal="1917/1938">1917-1938</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container type="box">2</container><container
+			 type="folder">1-6</container> 
+			 <unittitle>Correspondence, general, 
+				<unitdate type="inclusive"
+				 normal="1939/1963">1939-1963</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container type="box">2</container><container
+			 type="folder">7</container> 
+			 <unittitle>American Association for the Advancement of Science,
+				Southwestern Division, 1936-39 about 19th meeting in Alpine Texas, and
+				dedication of the McDonald Observatory. 
+				<unitdate type="inclusive"
+				 normal="1936/1939">1936-1939</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container type="box">2</container><container
+			 type="folder">8</container> 
+			 <unittitle>American Astronomical Society, 1936-1949. Chiefly
+				concerning the planning for the 82nd meeting held in Tucson Dec. 28-31, 1949. 
+				<unitdate type="inclusive"
+				 normal="1936/1949">1936-1949</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container type="box">2</container><container
+			 type="folder">9</container> 
+			 <unittitle>Edwin Hubble. 
+				<unitdate type="inclusive"
+				 normal="1929/1939">1929-1939</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container type="box">3</container><container
+			 type="folder">1</container> 
+			 <unittitle>American Philosophical Society, 1937-1938, about funds for
+				purchase of a recording microdensitometer, type B, from P.J. Kipp &amp; Zonen,
+				Delft, Holland. 
+				<unitdate type="inclusive"
+				 normal="1937/1938">1937-1938</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container type="box">3</container><container
+			 type="folder">2</container> 
+			 <unittitle>Bailey Telescope. 
+				<unitdate type="inclusive"
+				 normal="1946/1950">1946-1950</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container type="box">3</container><container
+			 type="folder">3</container> 
+			 <unittitle>Colorimeter. 
+				<unitdate type="inclusive"
+				 normal="1950/1959">1950-1959</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container type="box">3</container><container
+			 type="folder">4</container> 
+			 <unittitle>Conference: on Applied Solar Energy, Tucson and Phoenix
+				1955.(EFC edited the proceedings, access number TJ810/A82). 
+				<unitdate type="inclusive"
+				 normal="1955">1955</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container type="box">3</container><container
+			 type="folder">5</container> 
+			 <unittitle>Conference: On Astronomical Research in Small Academic
+				Departments, 1954- 1958. Held at Swarthmore College, with follow up conference
+				1957. 
+				<unitdate type="inclusive"
+				 normal="1954/1958">1954-1958</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container type="box">3</container><container
+			 type="folder">6</container> 
+			 <unittitle>Shapley, Harlow. 
+				<unitdate type="inclusive"
+				 normal="1923/1942">1923-1942</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container type="box">3</container><container
+			 type="folder">7</container> 
+			 <unittitle>University of Arizona, 1938-1946. Chiefly with the Dean,
+				College of Liberal Arts. 
+				<unitdate type="inclusive"
+				 normal="1938/1946">1938-1946</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series III: Addresses, 
+			 <unitdate type="inclusive"
+			  normal="1925/1959">1925-1959</unitdate></unittitle> 
+		</did> 
+		<c02> 
+		  <did><container type="box">3</container><container
+			 type="folder">8</container> 
+			 <unittitle>Publications by EFC. 
+				<unitdate type="inclusive"
+				 normal="1925/1959">1925-1959</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container type="box">3</container><container
+			 type="folder">9</container> 
+			 <unittitle>Popular lectures, presentations, addresses, seminars. 
+				<unitdate type="inclusive"
+				 normal="1938/1941">1938-1941</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container type="box">4</container><container
+			 type="folder">1</container> 
+			 <unittitle>Speeches. 
+				<unitdate type="inclusive" normal="1947">1939,
+				  1947</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series IV: Printed Materials, 
+			 <unitdate type="inclusive"
+			  normal="1932/1963">1932-1963</unitdate></unittitle> 
+		</did> 
+		<c02> 
+		  <did><container type="box">4</container><container
+			 type="folder">2</container> 
+			 <unittitle>Printed materials: programs and listing from International
+				Astronomical Union, 1932-58. Includes materials from 10th meeting, Moscow,
+				1958. 
+				<unitdate type="inclusive"
+				 normal="1932/1958">1932-1958</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container type="box">4</container><container
+			 type="folder">3</container> 
+			 <unittitle>Printed materials: general astronomical meeting programs. 
+				<unitdate type="inclusive"
+				 normal="1929/1963">1929-1963</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container type="box">4</container><container
+			 type="folder">4</container> 
+			 <unittitle>Printed materials: poems and humorous materials regarding
+				astronomy; also includes "Monthly Astronomical News Letter," issued by B. Bok,
+				1942?-1944? numbers 4, 6, 7, 17, 18, 19. 
+				<unitdate type="inclusive"
+				 normal="">1942?-1944?</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container type="box">4</container><container
+			 type="folder">5-7</container> 
+			 <unittitle>Printed materials: clippings on Steward Observatory and
+				Kitt Peak National Observatory. 
+				<unitdate type="inclusive"
+				 normal="1955/1965">1955-1965</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series V: Photographs, 
+			 <unitdate type="inclusive"
+			  normal="1932/1963">1932-1963</unitdate></unittitle> 
+		</did> 
+		<c02> 
+		  <did><container type="box">5</container><container
+			 type="folder">1</container> 
+			 <unittitle>"Calver" telescope, 12 inch, brought to Tucson from
+				Cameron, Ariz.. 
+				<unitdate type="inclusive"
+				 normal="1948">1948</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container type="box">5</container><container
+			 type="folder">2</container> 
+			 <unittitle>"Bailey" telescope, designed by EFC, lens procured by Dana
+				F. Bailey. 
+				<unitdate type="inclusive"
+				 normal="1952">1952</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container type="box">5</container><container
+			 type="folder">3</container> 
+			 <unittitle>Kitt Peak National Observatory, 1957-62. Includes site
+				views, construction, buildings, instruments. 
+				<unitdate type="inclusive"
+				 normal="1957/1962">1957-1962</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container type="box">5</container><container
+			 type="folder">4</container> 
+			 <unittitle>Kitt Peak National Observatory, building at 950 N. Cherry,
+				Tucson. 
+				<unitdate type="inclusive"
+				 normal="1959/1961">1959-1961</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container type="box">5</container><container
+			 type="folder">5-6</container> 
+			 <unittitle>Steward Observatory reflector, and its move to Kitt Peak. 
+				<unitdate type="inclusive"
+				 normal="1959/1963">1959-1963</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container type="box">6</container><container
+			 type="folder">1</container> 
+			 <unittitle>Kitt Peak: Dedication of Robert R. McNath Solar Telescope. 
+				<unitdate type="inclusive"
+				 normal="1962">1962</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container type="box">6</container><container
+			 type="folder">2</container> 
+			 <unittitle>Steward Observatory, site searches. 
+				<unitdate type="inclusive"
+				 normal="NaN/1959">1930s-1959</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container type="box">6</container><container
+			 type="folder">3-4</container> 
+			 <unittitle>Steward Observatory, addition to campus building. 
+				<unitdate type="inclusive"
+				 normal="1960/1964">1960-1964</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container type="box">6</container><container
+			 type="folder">5</container> 
+			 <unittitle>Tucson Amateur Astronomers, and their "Moon watch" event. 
+				<unitdate type="inclusive"
+				 normal="1957">1957</unitdate></unittitle> 
+			 <physdesc/> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container type="box">6</container><container
+			 type="folder">6</container> 
+			 <unittitle>Conferences, 1949-1955. Chiefly of A.A.A.S. Tucson, 1949;
+				and Solar Energy Conferences in Tucson and Phoenix. 
+				<unitdate type="inclusive"
+				 normal="1955">1955</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container type="box">6</container><container
+			 type="folder">7</container> 
+			 <unittitle>Miscellaneous, 1932-1948. Includes unidentified
+				astronomical formations; "Eclipse Camp," in Maine, 1932; Mount Palomar
+				dedication. 
+				<unitdate type="inclusive"
+				 normal="1948">1948</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container type="box">6</container><container
+			 type="folder">8</container> 
+			 <unittitle>Observatories and equipment: includes postcards of
+				observatories from a 1932 trip to Europe, and various sites in the United
+				States, including Perkins (Delaware, Ohio) and Griffith (Los Angeles, Calif.). 
+				<unitdate type="inclusive"
+				 normal="1932">1932</unitdate></unittitle> 
+			 <physdesc><?xm-replace_text {quantity}?></physdesc> 
+		  </did> 
+		</c02> 
+	 </c01> 
+  	<c01 level="series"> 
+  		<did> 
+  			<unittitle>Series VI: Glass Slides, 
+  				<unitdate type="inclusive"
+  					normal="1938/1957">1938-1957</unitdate></unittitle> 
+  		</did> 
+  		<c02> 
+  			<did><container type="box">7</container><container
+  				type="folder">1</container> 
+  				<unittitle><emph render = "italic">Arizona</emph>Movie Set, 1939; Gila River, 1941; Salt River Canyon, 1941</unittitle>
+  					 
+  			</did> 
+  		</c02> 
+  		<c02> 
+  			<did><container type="box">7</container><container
+  				type="folder">2</container> 
+  				<unittitle>University of Arizona vs. New Mexico Military Institute Polo Game, 1940 February 10; University of Arizona Inauguration Day 1938, April 12; University of Arizona Campus Scenes; 1958</unittitle>
+  				 
+  			</did> 
+  		</c02> 
+  	</c01>
+  </dsc> 
+</archdesc></ead>

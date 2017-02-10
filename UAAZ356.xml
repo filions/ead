@@ -1,0 +1,4342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?filetitle Desert Botanical Laboratory of the Carnegie Institution records?>
+<ead relatedencoding="MARC21">
+<eadheader audience="internal" findaidstatus="edited-full-draft"
+ langencoding="iso639-2b"> 
+	<eadid encodinganalog="856$u"> PUBLIC "-//University of Arizona Library
+		Special Collections//text(US::AzU::Desert Botanical Laboratory of the Carnegie
+	 Institution papers)//en" "UAAZ356.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Desert Botanical Laboratory of the
+		  Carnegie Institution records, 
+		  <date>1903-1985</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Phyllis
+		  Ball.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date>&#x00A9; 2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation encodinganalog="500">Inventory encoded by Jennie Stapp. 
+		<date>September 5, 2002</date></creation> 
+	 <langusage>Inventory is in<language langcode="en"
+		encodinganalog="546">English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper encodinganalog="245$a">Desert Botanical Laboratory of the
+		Carnegie Institution records, 
+		<date>1903-1985</date></titleproper> 
+	 <num>Collection Number: AZ 356</num> 
+  	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Phyllis Ball</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>1976</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Jennie Stapp</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 2001. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name:">Desert Botanical
+		Laboratory of the Carnegie Institution records, 
+		<unitdate type="inclusive"
+		 normal="1903/1985">1903-1985</unitdate></unittitle> 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	  repositorycode="AzU" countrycode="us">AZ 356</unitid>
+  	<abstract>This collection contains chiefly correspondence, along with reports,
+  		minutes of meetings, and financial records related to the establishment,
+  		development, and operation of the Desert Laboratory and Coastal Laboratory
+  		under directors Daniel T. MacDougal and Forrest Shreve.</abstract>  	
+	 <origination label="Creator:"> 
+		<corpname encodinganalog="110">Desert Botanical Laboratory of the
+		  Carnegie Institution</corpname></origination> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+		encodinganalog="300">4 linear feet</extent></physdesc> 
+	 <repository label="Repository:"> 
+	 	<corpname encodinganalog="110">University of Arizona Libraries, Special Collections</corpname> 
+		<address>
+		  <addressline>University of Arizona </addressline>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address></repository> 
+  </did> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Restrictions</head> 
+	 <p>None.</p> 
+  </accessrestrict> 
+  <userestrict encodinganalog="540"> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Credit Line</head> 
+	 <p>Desert Botanical Laboratory of the Carnegie Institution records(AZ 356).
+		Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Historical Note</head> 
+	 <p>The Desert Botanical Laboratory of the Carnegie Institution was
+		established by Volney M. Spaulding and William A. Cannon at Tumamoc Hill,
+		Tucson, Arizona, in 1903. It was sold to the U.S. Forest Service in 1940, and
+		later to the University of Arizona in 1960. The purpose of the laboratory was
+		to research the of adaptation of desert plants to their environment. The
+		Laboratory was directed by D.T. MacDougal from 1906 to 1918, then by Forrest
+		Shreve from 1929 to 1938. </p> 
+	 <p>By 1920, a related institution, the Coastal Laboratory was established
+		in Carmel, California with MacDougal as director.</p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into seven series: </p> 
+	 <list> 
+		<item>Series I: Carnegie Institution Officials Records and
+		  Correspondence, 
+		  <date>1903-1938</date></item> 
+		<item>Series II: Desert Laboratory Records and Correspondence, 
+		  <date>1905-1937</date></item> 
+		<item>Series III: Coastal Laboratory Correspondence, 
+		  <date>1910-1938</date></item> 
+		<item>Series IV: General Records and Correspondence, 
+		  <date>1905-1938</date></item> 
+		<item>Series V: D. T. MacDougal Personal Papers, 
+		  <date>1908-1935</date></item> 
+		<item>Series VI: Forrest Shreve Personal Papers, 
+		  <date>1916-1937</date></item> 
+		<item>Series VII: Desert Botanical Laboratory Plot Records, 
+		  <date>1906-1985</date></item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>This collection contains chiefly correspondence, along with reports,
+		minutes of meetings, and financial records related to the establishment,
+		development, and operation of the Desert Laboratory and Coastal Laboratory
+		under directors Daniel T. MacDougal and Forrest Shreve. Correspondents include
+		Carnegie Institution officials, the Smithsonian Institution, laboratory staff
+		members Godfrey Sykes and Herman A. Spoehr, Frederick S. Dellenbaugh, William
+		Boyce Thompson, Andrew E. Douglass, and Mary Austin, as well as societies,
+		herbariums, and universities around the world. Additional correspondence
+		relates to equipment, scientific societies, plant exchanges and collecting, the
+		University of Arizona, and personal material of both Shreve and MacDougal. </p>
+	 
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <persname encodinganalog="100">Shreve, Forrest, 1878-1950</persname> 
+	 <persname encodinganalog="100">MacDougal, Daniel Trembly,
+		1865-1958</persname> 
+	 <persname encodinganalog="100">Sykes, Godfrey, 1861-1948 --
+		Correspondence</persname> 
+	 <persname encodinganalog="100">Spoehr, Herman Augustus, 1885-1954 --
+		Correspondence</persname> 
+	 <persname encodinganalog="100">Dellenbaugh, Frederick Samuel, 1853-1935 --
+		Correspondence</persname> 
+	 <persname encodinganalog="100">Thompson, William Boyce, 1869-1930 --
+		Correspondence</persname> 
+	 <persname encodinganalog="100">Austin, Mary Hunter, 1868-1934 --
+		Correspondence</persname> 
+	 <persname encodinganalog="100"> Douglass, A. E. (Andrew Ellicott),
+		1867-1962 -- Correspondence </persname> 
+	 <corpname encodinganalog="110">Desert Botanical Laboratory of the Carnegie
+		Institution -- Archives </corpname> 
+	 <corpname encodinganalog="110">Carnegie Institution of
+		Washington</corpname> 
+	 <corpname encodinganalog="110">Carnegie Institution of Washington. Coastal
+		Laboratory</corpname> 
+	 <corpname encodinganalog="110">University of Arizona -- History</corpname> 
+	 <subject>Desert plants -- Arizona</subject> 
+	 <subject>Desert plants -- Sonoran Desert</subject> 
+	 <subject>Desert ecology -- Arizona</subject> 
+	 <subject> Desert ecology -- Sonoran Desert </subject> 
+	 <subject>Plant ecology -- Arizona</subject> 
+	 <subject>Plant ecologists -- Correspondence</subject> 
+	 <subject>Botanists -- Correspondence</subject> 
+	 <subject>Botanical laboratories -- Arizona -- Tucson -- History --
+		Sources</subject> 
+	 <subject>Botanical laboratories -- California -- Carmel -- History --
+		Sources</subject> 
+	 <geogname>Sonoran Desert -- Research </geogname> 
+	 <geogname>Tumamoc Hill (Ariz.) </geogname> 
+	 <genreform>Correspondence</genreform> 
+  </controlaccess> 
+  <separatedmaterial> 
+	 <head>Separated Material</head> 
+	 <p>Slides received with the collection were removed and cataloged
+		separately. </p> 
+  </separatedmaterial> 
+  <relatedmaterial encodinganalog="544$1"> 
+	 <head>Related Material</head> 
+	 <p>A related collection of D. T. MacDougal Papers can be found at the
+		Arizona Historical Society, MS0452. </p> 
+  </relatedmaterial> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series I: Carnegie Institution Officials Records and
+			 Correspondence, 
+			 <unitdate type="inclusive"
+			  normal="1903/1938">1903-1938</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Reports. 
+				<unitdate type="inclusive" normal="">1905-1906,
+				  1909</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Minutes of Executive Meeting. 
+				<unitdate type="inclusive" normal="1910">January 18,
+				  1910</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2-9</container> 
+			 <unittitle>Correspondence: Woodward, R. S. (President). 
+				<unitdate type="inclusive"
+				 normal="1905/1913">1905-1913</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">1-2</container> 
+			 <unittitle>Correspondence: Woodward, R. S. (President). 
+				<unitdate type="inclusive" normal="">1914-1916,
+				  1920</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">3-8</container> 
+			 <unittitle>Correspondence: Merriam, John C. (President). 
+				<unitdate type="inclusive" normal="NaN/1937">ca. 1914,
+				  1920-1937</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">9-11</container> 
+			 <unittitle>Correspondence: MacDougal, D. T. and Shreve, Forrest. 
+				<unitdate type="inclusive"
+				 normal="1913/1937">1913-1937</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Correspondence: Baker, Marcus (Assistant Secretary). 
+				<unitdate type="inclusive" normal="">August 10, 1903-October 12,
+				  1903</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">2-10</container> 
+			 <unittitle>Correspondence: Gilbert, Walter M. (Assistant Secretary,
+				Administrative Secretary). 
+				<unitdate type="inclusive"
+				 normal="1905/1937">1905-1937</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">1-6</container> 
+			 <unittitle>Correspondence: Wirt, John L. (Bursar). 
+				<unitdate type="inclusive" normal="">1905-1917,
+				  1920-1924</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">7</container> 
+			 <unittitle>Correspondence: Wirt, John L. and Varela, E. A. (Bursar) 
+				<unitdate type="inclusive"
+				 normal="1925/1937">1925-1937</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">8-9</container> 
+			 <unittitle>Correspondence: Barnum, William (Chief Clerk, Editor,
+				Division of Publications). 
+				<unitdate type="inclusive"
+				 normal="1904/1916">1904-1916</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">10</container> 
+			 <unittitle>Correspondence: Barnum, William and Bunker, Frank F.
+				(Editors, Division of Publications). 
+				<unitdate type="inclusive"
+				 normal="1920/1928">1920-1928</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">11</container> 
+			 <unittitle>Correspondence: Bunker, Frank F. (Editor, Division of
+				Publications). 
+				<unitdate type="inclusive"
+				 normal="1929/1938">1929-1938</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">5</container> <container
+			 type="folder">1-3</container> 
+			 <unittitle>Alcohol Reports and Orders. 
+				<unitdate type="inclusive" normal="">1915-1916,
+				  1925-1937</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">5</container> <container
+			 type="folder">4</container> 
+			 <unittitle>Financial Statements, Notes, "Budget Items." 
+				<unitdate type="inclusive"
+				 normal="1907/1930">1907-1930</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">5</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Wage Accounts. 
+				<unitdate type="inclusive" normal="">March 1928-December
+				  1929</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">5</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Petty Cash Account. 
+				<unitdate type="inclusive"
+				 normal="1928/1929">1928-1929</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">5</container> <container
+			 type="folder">6</container> 
+			 <unittitle>Purchase Orders. 
+				<unitdate type="inclusive" normal="">October 1927-December
+				  1929</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">5</container> <container
+			 type="folder">7</container> 
+			 <unittitle>Correspondence and Records: Fifth Avenue Bank, New York. 
+				<unitdate type="inclusive"
+				 normal="1910/1928">1910-1928</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">5</container> <container
+			 type="folder">8</container> 
+			 <unittitle>Correspondence: Southern Arizona Bank and Trust Co. 
+				<unitdate type="inclusive"
+				 normal="1911/1936">1911-1936</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">5</container> <container
+			 type="folder">9</container> 
+			 <unittitle>Records: Southern Arizona Bank &amp; Trust Co. 
+				<unitdate type="inclusive"
+				 normal="1928/1936">1928-1936</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">6</container> <container
+			 type="folder">1-5</container> 
+			 <unittitle>Correspondence: Rose, J. N. (Smithsonian Institution,
+				Research Associate with the Carnegie Institution, 1912-1921, and Associate
+				Curator, Division of Plants, U. S. National Museum, 1922-1928). 
+				<unitdate type="inclusive"
+				 normal="1912/1928">1912-1928</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series II: Desert Laboratory Records and Correspondence, 
+			 <unitdate type="inclusive"
+			  normal="1905/1937">1905-1937</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Correspondence: Laboratory construction, telephone, etc. 
+				<unitdate type="inclusive"
+				 normal="1910/1931">1910-1931</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Correspondence: Arizona State Land Commission, Taxes,
+				Forest Service. 
+				<unitdate type="inclusive"
+				 normal="1913/1934">1913-1934</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Correspondence: Breitenbecher, J. K. (Staff). 
+				<unitdate type="inclusive" normal="NaN/1925">1910, 191520
+				  1920-1925</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Correspondence: Krieger, L. C. C. (Staff). 
+				<unitdate type="inclusive"
+				 normal="1915">1915</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Correspondence: Leamon, William G. (Staff). 
+				<unitdate type="inclusive"
+				 normal="1916">1916</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Correspondence: Waller, J. C. (Staff). 
+				<unitdate type="inclusive" normal="1925">1916,
+				  1925</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Correspondence: Minzey, J. H. (Staff). 
+				<unitdate type="inclusive"
+				 normal="1927/1928">1927-1928</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Correspondence: Kenny, Richard (Staff). 
+				<unitdate type="inclusive"
+				 normal="1933">1933</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Correspondence: Hinckley, Arthur (Staff). 
+				<unitdate type="inclusive"
+				 normal="1934">1934</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">4</container> 
+			 <unittitle>Correspondence: Bovee, B. R. (Staff). 
+				<unitdate type="inclusive" normal="NaN/1930">1914,
+				  1920-1930</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Correspondence: Cannon, W. A. (Staff). 
+				<unitdate type="inclusive" normal="NaN/1934">1905,
+				  1915-1934</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">6</container> 
+			 <unittitle>Correspondence: Fraps, Mason (Staff). 
+				<unitdate type="inclusive"
+				 normal="1926/1936">1926-1936</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">7</container> 
+			 <unittitle>Correspondence: Mallery, T. D. (Staff). 
+				<unitdate type="inclusive"
+				 normal="1929/1936">1929-1936</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">8</container> 
+			 <unittitle>Correspondence: Runyon, E. H. (Staff). 
+				<unitdate type="inclusive"
+				 normal="1928/1937">1928-1937</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">9</container> 
+			 <unittitle>Correspondence: Sinclair, J. G. (Staff). 
+				<unitdate type="inclusive"
+				 normal="1913/1915">1913-1915</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">10</container> 
+			 <unittitle>Correspondence: Spalding, V. M. and Spalding, Effie, S. 
+				<unitdate type="inclusive"
+				 normal="1913/1932">1913-1932</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">11</container> 
+			 <unittitle>Correspondence: Tower, W. L. (Staff). 
+				<unitdate type="inclusive"
+				 normal="1912/1924">1912-1924</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">12</container> 
+			 <unittitle>Correspondence: Turnage, William V. (Staff). 
+				<unitdate type="inclusive"
+				 normal="1935/1937">1935-1937</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">13</container> 
+			 <unittitle>Correspondence: Working, E. B. (Staff). 
+				<unitdate type="inclusive"
+				 normal="1920/1937">1920-1937</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">8</container> <container
+			 type="folder">1-7</container> 
+			 <unittitle>Correspondence: Sykes, Godfrey (Staff). 
+				<unitdate type="inclusive" normal="1903/1985"><?xm-replace_text {date}?></unitdate></unittitle>
+			 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">8</container> <container
+			 type="folder">8</container> 
+			 <unittitle>Correspondence: Sykes, Stanley, Gilbert and Glenton. 
+				<unitdate type="inclusive"
+				 normal="1920/1936">1920-1936</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">9</container> <container
+			 type="folder">1-3</container> 
+			 <unittitle>Correspondence: Strickland, J. C. (Office Secretary). 
+				<unitdate type="inclusive"
+				 normal="1911/1915">1911-1915</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">9</container> <container
+			 type="folder">4</container> 
+			 <unittitle>Correspondence: Strickland, J. C., Huber, Rena, and
+				Gillies, E. (Office Secretaries). 
+				<unitdate type="inclusive"
+				 normal="1916/1920">1916-1920</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">9</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Correspondence: Huber, Rena (Office Secretary). 
+				<unitdate type="inclusive"
+				 normal="1921">1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">9</container> <container
+			 type="folder">6</container> 
+			 <unittitle>Correspondence: Huber, Rena, Maguire, Mary, Mrs.
+				Strickland (Office Secretaries). 
+				<unitdate type="inclusive"
+				 normal="1922/1924">1922-1924</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">9</container> <container
+			 type="folder">7-8</container> 
+			 <unittitle>Correspondence: Bois, R. S. (Office Secretary). 
+				<unitdate type="inclusive"
+				 normal="1925/1926">1925-1926</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">9</container> <container
+			 type="folder">9</container> 
+			 <unittitle>Correspondence: Keddington, Mrs. Iva and others (Office
+				Secretaries). 
+				<unitdate type="inclusive"
+				 normal="1927/1937">1927-1937</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series III: Coastal Laboratory Correspondence, 
+			 <unitdate type="inclusive"
+			  normal="1910/1938">1910-1938</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">10</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Correspondence: Laboratory construction, land, etc. 
+				<unitdate type="inclusive"
+				 normal="1912/1925">1912-1925</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">10</container> <container
+			 type="folder">2-6</container> 
+			 <unittitle>Correspondence: Pestell, W. A. (Office). 
+				<unitdate type="inclusive"
+				 normal="1927/1937">1927-1937</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">10</container> <container
+			 type="folder">7</container> 
+			 <unittitle>Correspondence: Aucourt, Harry (Staff). 
+				<unitdate type="inclusive"
+				 normal="1920/1929">1920-1929</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">10</container> <container
+			 type="folder">8</container> 
+			 <unittitle>Correspondence: Ballou, Fremont O. (Staff). 
+				<unitdate type="inclusive"
+				 normal="1925/1933">1925-1933</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">10</container> <container
+			 type="folder">9</container> 
+			 <unittitle>Correspondence: Haasis, Ferdinand W. (Staff). 
+				<unitdate type="inclusive"
+				 normal="1930/1935">1930-1935</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">10</container> <container
+			 type="folder">10</container> 
+			 <unittitle>Correspondence: McGee, J. M. (Staff). 
+				<unitdate type="inclusive"
+				 normal="1916/1924">1916-1924</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">10</container> <container
+			 type="folder">11</container> 
+			 <unittitle>Correspondence: McLean, F. T. (Staff). 
+				<unitdate type="inclusive"
+				 normal="1920/1928">1920-1928</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">10</container> <container
+			 type="folder">12</container> 
+			 <unittitle>Correspondence: Tag, Tessie (Staff). 
+				<unitdate type="inclusive"
+				 normal="1914/1915">1914-1915</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">10</container> <container
+			 type="folder">12</container> 
+			 <unittitle>Correspondence: Dutra, J. (Staff). 
+				<unitdate type="inclusive"
+				 normal="1916">1916</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">10</container> <container
+			 type="folder">12</container> 
+			 <unittitle>Correspondence: Cherry, C. W. (Staff). 
+				<unitdate type="inclusive"
+				 normal="1920/1921">1920-1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">10</container> <container
+			 type="folder">12</container> 
+			 <unittitle>Correspondence: Goold, C. O. (Staff). 
+				<unitdate type="inclusive"
+				 normal="1920/1921">1920-1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">10</container> <container
+			 type="folder">12</container> 
+			 <unittitle>Correspondence: Ridgway, J. L. (Staff). 
+				<unitdate type="inclusive"
+				 normal="1921">1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">10</container> <container
+			 type="folder">12</container> 
+			 <unittitle>Correspondence: Newton, William (Staff). 
+				<unitdate type="inclusive"
+				 normal="1924/1926">1924-1926</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">10</container> <container
+			 type="folder">12</container> 
+			 <unittitle>Correspondence: Daugherty, L. (Staff). 
+				<unitdate type="inclusive"
+				 normal="1924">1924</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">10</container> <container
+			 type="folder">12</container> 
+			 <unittitle>Correspondence: Mawdsley, P. (Staff). 
+				<unitdate type="inclusive"
+				 normal="1925">1925</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">10</container> <container
+			 type="folder">12</container> 
+			 <unittitle>Correspondence: Wilbur, P. C. (Staff). 
+				<unitdate type="inclusive"
+				 normal="1925/1928">1925-1928</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">10</container> <container
+			 type="folder">12</container> 
+			 <unittitle>Correspondence: Young, W. G. (Staff). 
+				<unitdate type="inclusive"
+				 normal="1925/1928">1925-1928</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">10</container> <container
+			 type="folder">12</container> 
+			 <unittitle>Correspondence: Immink, D. H. 
+				<unitdate type="inclusive"
+				 normal="1927/1929">1927-1929</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">11</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Correspondence: G. Stieglitz and A. Smith (University of
+				Chicago) regarding H. A. Spoehr. 
+				<unitdate type="inclusive"
+				 normal="1910">1910</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">11</container> <container
+			 type="folder">2-9</container> 
+			 <unittitle>Correspondence: Spoehr, H. A. (Staff). 
+				<unitdate type="inclusive"
+				 normal="1913/1938">1913-1938</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series IV: General Records and Correspondence, 
+			 <unitdate type="inclusive"
+			  normal="1905/1938">1905-1938</unitdate></unittitle> 
+		</did> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Records and Correspondence of Other Institutions and
+				Research Divisions, 
+				<unitdate type="inclusive"
+				 normal="1905/1937">1905-1937</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container type="box">12</container> <container
+				type="folder">1</container> 
+				<unittitle>Correspondence: Clements, F. E., Alpine Laboratory,
+				  Manitou, Colorado. 
+				  <unitdate type="inclusive" normal="NaN/1927">1913,
+					 1920-1927</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">12</container> <container
+				type="folder">1</container> 
+				<unittitle>Correspondence: Lotfield, G., Alpine Laboratory,
+				  Manitou, Colorado. 
+				  <unitdate type="inclusive"
+					normal="1921/1922">1921-1922</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">12</container> <container
+				type="folder">2</container> 
+				<unittitle>Correspondence: Kidder, A. V., Division of Historical
+				  Research, Andover, Massachusetts. 
+				  <unitdate type="inclusive"
+					normal="1934/1935">1934-1935</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">12</container> <container
+				type="folder">2</container> 
+				<unittitle>Correspondence: Scott, Donald, Division of Historical
+				  Research, Andover, Massachusetts. 
+				  <unitdate type="inclusive"
+					normal="1935/1936">1935-1936</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">12</container> <container
+				type="folder">3</container> 
+				<unittitle>Correspondence: Hall, Harvey M., Division of Plant
+				  Biology, Stanford University, California. 
+				  <unitdate type="inclusive"
+					normal="1924/1931">1924-1931</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">12</container> <container
+				type="folder">4</container> 
+				<unittitle>Correspondence: Smith, James H.C., Division of Plant
+				  Biology, Stanford University, California. 
+				  <unitdate type="inclusive"
+					normal="1924/1937">1924-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">12</container> <container
+				type="folder">5</container> 
+				<unittitle>Correspondence: Harris, J. Arthur, Station for
+				  Experimental Evolution, Cold Spring Harbor, Long Island, New York. 
+				  <unitdate type="inclusive"
+					normal="1915/1923">1915-1923</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">12</container> <container
+				type="folder">5</container> 
+				<unittitle>Correspondence: Harris, J. Arthur, Department of Botany,
+				  University of Minnesota. 
+				  <unitdate type="inclusive"
+					normal="1925/1930">1925-1930</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">12</container> <container
+				type="folder">6</container> 
+				<unittitle>Correspondence: Blakeslee, A. F., Station for
+				  Experimental Evolution, Cold Spring Harbor, Long Island, New York. 
+				  <unitdate type="inclusive"
+					normal="1923/1937">1923-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">12</container> <container
+				type="folder">6</container> 
+				<unittitle>Correspondence: Davenport, Charles B., Station for
+				  Experimental Evolution, Cold Spring Harbor, Long Island, New York. 
+				  <unitdate type="inclusive"
+					normal="1920/1929">1920-1929</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">12</container> <container
+				type="folder">7</container> 
+				<unittitle>Correspondence: Chaney, Ralph W., Long, Frances and
+				  Keck, David D. </unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">13</container> <container
+				type="folder">1</container> 
+				<unittitle>Correspondence: U. S. Navy Department regarding Helium. 
+				  <unitdate type="inclusive"
+					normal="1919/1923">1919-1923</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">13</container> <container
+				type="folder">2-5</container> 
+				<unittitle>Correspondence: Free, Edward E. 
+				  <unitdate type="inclusive"
+					normal="1912/1934">1912-1934</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">13</container> <container
+				type="folder">6</container> 
+				<unittitle>Free, Edward E. Articles. </unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">13</container> <container
+				type="folder">7</container> 
+				<unittitle>Correspondence: Cattell, J. McKeen (Editor, 
+				  <title render="italic">Science</title>). 
+				  <unitdate type="inclusive"
+					normal="1905/1928">1905-1928</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">13</container> <container
+				type="folder">8</container> 
+				<unittitle>Correspondence: Science Service. 
+				  <unitdate type="inclusive"
+					normal="1920/1937">1920-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">13</container> <container
+				type="folder">9</container> 
+				<unittitle>Science Service, Minutes of Meetings. 
+				  <unitdate type="inclusive"
+					normal="1920/1930">1920-1930</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">13</container> <container
+				type="folder">10</container> 
+				<unittitle>Science Service, Financial Statements. 
+				  <unitdate type="inclusive"
+					normal="1922/1930">1922-1930</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>General Correspondence, 
+				<unitdate type="inclusive"
+				 normal="1907/1937">1907-1937</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container type="box">14</container> <container
+				type="folder">1</container> 
+				<unittitle>Correspondence: Ashby, Eric, England. 
+				  <unitdate type="inclusive"
+					normal="1930/1936">1930-1936</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">14</container> <container
+				type="folder">2</container> 
+				<unittitle>Correspondence: Ayer, Edward E. 
+				  <unitdate type="inclusive" normal="1923">1921,
+					 1923</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">14</container> <container
+				type="folder">3</container> 
+				<unittitle>Correspondence: Babcock, Ernest B., University of
+				  California Agricultural Experiment Station, Berkeley. 
+				  <unitdate type="inclusive"
+					normal="1921/1923">1921-1923</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">14</container> <container
+				type="folder">3</container> 
+				<unittitle>Correspondence: Lesley, J. W., California. 
+				  <unitdate type="inclusive"
+					normal="1921/1923">1921-1923</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">14</container> <container
+				type="folder">4</container> 
+				<unittitle>Correspondence: Bailey, L. H., Ithaca, New York. 
+				  <unitdate type="inclusive" normal="NaN/1937">1924,
+					 1936-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">14</container> <container
+				type="folder">5</container> 
+				<unittitle>Correspondence: Bakke, A. L., Department of Botany, Iowa
+				  State College. 
+				  <unitdate type="inclusive"
+					normal="1920/1937">1920-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">14</container> <container
+				type="folder">6</container> 
+				<unittitle>Correspondence: Becking, L. B., Department of Botany,
+				  Stanford University. 
+				  <unitdate type="inclusive"
+					normal="1920/1929">1920-1929</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">14</container> <container
+				type="folder">7</container> 
+				<unittitle>Correspondence: Bowman, Isiah, American Geographical
+				  Society. 
+				  <unitdate type="inclusive"
+					normal="1921/1934">1921-1934</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">14</container> <container
+				type="folder">8</container> 
+				<unittitle>Correspondence: Britton, N. L., New York Botanical
+				  Garden. 
+				  <unitdate type="inclusive"
+					normal="1910/1928">1910-1928</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">14</container> <container
+				type="folder">8</container> 
+				<unittitle>Correspondence: Howe, Marshall, New York Botanical
+				  Garden. 
+				  <unitdate type="inclusive"
+					normal="1910/1928">1910-1928</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">14</container> <container
+				type="folder">9</container> 
+				<unittitle>Correspondence: Buxton, P. A., England. 
+				  <unitdate type="inclusive"
+					normal="1921/1931">1921-1931</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">14</container> <container
+				type="folder">10</container> 
+				<unittitle>Correspondence: Cahalane, Victor H., Cranbrook Institute
+				  of Science. 
+				  <unitdate type="inclusive"
+					normal="1932/1934">1932-1934</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">14</container> <container
+				type="folder">11</container> 
+				<unittitle>Correspondence: Carrel, Alexis, Rockefeller Institute
+				  for Medical Research. 
+				  <unitdate type="inclusive"
+					normal="1927">1927</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">14</container> <container
+				type="folder">12</container> 
+				<unittitle>Correspondence: Castetter, E. F., Department of Botany,
+				  University of New Mexico. 
+				  <unitdate type="inclusive"
+					normal="1931/1937">1931-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">14</container> <container
+				type="folder">13</container> 
+				<unittitle>Correspondence: Clarke, Beverly L., Food Research
+				  Institute, Stanford University. 
+				  <unitdate type="inclusive"
+					normal="1924/1931">1924-1931</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">14</container> <container
+				type="folder">14</container> 
+				<unittitle>Correspondence: Clowes, G. H. A., Eli Lilly and Co. 
+				  <unitdate type="inclusive"
+					normal="1920/1928">1920-1928</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">14</container> <container
+				type="folder">15</container> 
+				<unittitle>Correspondence: Cole, A. C., Jr., U. S. D. A., Bureau of
+				  Entomology. 
+				  <unitdate type="inclusive"
+					normal="1932/1935">1932-1935</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">14</container> <container
+				type="folder">16</container> 
+				<unittitle>Correspondence: Compton, R. H., National Botanic
+				  Gardens, Union of South Africa. 
+				  <unitdate type="inclusive"
+					normal="1929/1932">1929-1932</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">14</container> <container
+				type="folder">17</container> 
+				<unittitle>Correspondence: Conkin, E. G., Department of Biology,
+				  Princeton, University. 
+				  <unitdate type="inclusive"
+					normal="1920/1925">1920-1925</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">14</container> <container
+				type="folder">18</container> 
+				<unittitle>Correspondence: Cooper, William S., Department of
+				  Botany, University of Minnesota. 
+				  <unitdate type="inclusive"
+					normal="1920/1936">1920-1936</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">14</container> <container
+				type="folder">19</container> 
+				<unittitle>Correspondence: Coulter, John M., Department of Botany,
+				  University of Chicago. 
+				  <unitdate type="inclusive" normal="">1907, 1920-1924,
+					 1928-1929</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">14</container> <container
+				type="folder">20</container> 
+				<unittitle>Correspondence: Coulter, Stanley, School of Science,
+				  Purdue University. 
+				  <unitdate type="inclusive"
+					normal="1921/1925">1921-1925</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">14</container> <container
+				type="folder">21</container> 
+				<unittitle>Correspondence: Coville, Frederick V., (U. S. D. A.,
+				  Bureau of Plant Industry. 
+				  <unitdate type="inclusive" normal="NaN/1936">1921,
+					 1931-1936</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">14</container> <container
+				type="folder">22</container> 
+				<unittitle>Correspondence: Czaja, A. T., Germany. 
+				  <unitdate type="inclusive"
+					normal="1923/1924">1923-1924</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">14</container> <container
+				type="folder">23</container> 
+				<unittitle>Correspondence: Dean, Eva (artist). 
+				  <unitdate type="inclusive"
+					normal="1924/1934">1924-1934</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">14</container> <container
+				type="folder">24</container> 
+				<unittitle>Correspondence: De Forest, H. W., New York Botanical
+				  Garden, Department of Botany, University of Southern California. 
+				  <unitdate type="inclusive"
+					normal="1928/1937">1928-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">14</container> <container
+				type="folder">25</container> 
+				<unittitle>Correspondence: Dellenbaugh, F. S. 
+				  <unitdate type="inclusive"
+					normal="1920/1930">1920-1930</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">14</container> <container
+				type="folder">26</container> 
+				<unittitle>Correspondence: Dice, Lee R., Museum of Zoology,
+				  University of Michigan. 
+				  <unitdate type="inclusive"
+					normal="1928/1937">1928-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">14</container> <container
+				type="folder">27</container> 
+				<unittitle>Correspondence: Duggar, B. M., Missouri Botanical
+				  Garden, Department of Botany, University of Wisconsin. 
+				  <unitdate type="inclusive"
+					normal="1928/1937">1928-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">14</container> <container
+				type="folder">28</container> 
+				<unittitle>Correspondence: Emerson, Fred W., New Mexico Normal
+				  University. 
+				  <unitdate type="inclusive"
+					normal="1931/1933">1931-1933</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">14</container> <container
+				type="folder">29</container> 
+				<unittitle>Correspondence: Farrand, Max, Huntington Library,
+				  regarding the cactus garden. 
+				  <unitdate type="inclusive"
+					normal="1929">1929</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">14</container> <container
+				type="folder">30</container> 
+				<unittitle>Correspondence: Fritsch, F. E., Department of Botany,
+				  University of London, England. 
+				  <unitdate type="inclusive"
+					normal="1929/1932">1929-1932</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">15</container> <container
+				type="folder">1</container> 
+				<unittitle>Correspondence: Gager, C. Stuart, Brooklyn Botanical
+				  Garden. 
+				  <unitdate type="inclusive"
+					normal="1915/1929">1915-1929</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">15</container> <container
+				type="folder">2</container> 
+				<unittitle>Correspondence: Gustafson, F. G., Department of Botany,
+				  University of Michigan. 
+				  <unitdate type="inclusive"
+					normal="1932/1937">1932-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">15</container> <container
+				type="folder">3</container> 
+				<unittitle>Correspondence: Harding, John W., American correspondent
+				  for the London 
+				  <title render="italic">Daily Chronicle</title>. 
+				  <unitdate type="inclusive"
+					normal="1920/1929">1920-1929</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">15</container> <container
+				type="folder">4</container> 
+				<unittitle>Correspondence: Harper, R. A., Department of Botany,
+				  Columbia University, University of Alabama. 
+				  <unitdate type="inclusive"
+					normal="1920/1930">1920-1930</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">15</container> <container
+				type="folder">5</container> 
+				<unittitle>Correspondence: Harshberger, John W., Botany Department,
+				  University of Pennsylvania. 
+				  <unitdate type="inclusive"
+					normal="1920/1925">1920-1925</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">15</container> <container
+				type="folder">6</container> 
+				<unittitle>Correspondence: Hellmich, Walter, Zoologische Sammlung,
+				  Munchen, Germany. 
+				  <unitdate type="inclusive"
+					normal="1932/1933">1932-1933</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">15</container> <container
+				type="folder">7</container> 
+				<unittitle>Correspondence: Herrera, Alphonse L., Direccion de
+				  Estudios Biologicos, Mexico. 
+				  <unitdate type="inclusive"
+					normal="1920/1928">1920-1928</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">15</container> <container
+				type="folder">8</container> 
+				<unittitle>Correspondence: Hobbs, William H., Department of
+				  Geology, University of Michigan. 
+				  <unitdate type="inclusive"
+					normal="1924/1925">1924-1925</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">15</container> <container
+				type="folder">9</container> 
+				<unittitle>Correspondence: Hornaday, William T, New York Zoological
+				  Society. 
+				  <unitdate type="inclusive"
+					normal="1915/1929">1915-1929</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">15</container> <container
+				type="folder">10</container> 
+				<unittitle>Correspondence: Humphrey, Robert R., Department of
+				  Botany, University of Minnesota. 
+				  <unitdate type="inclusive"
+					normal="1930/1936">1930-1936</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">15</container> <container
+				type="folder">11</container> 
+				<unittitle>Correspondence: Hunnington, Ellsworth, Yale University. 
+				  <unitdate type="inclusive"
+					normal="1912/1935">1912-1935</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">15</container> <container
+				type="folder">12</container> 
+				<unittitle>Correspondence: Johnson, Duncan S., Botanical Garden and
+				  Lab, Johns Hopkins University. 
+				  <unitdate type="inclusive"
+					normal="1915/1937">1915-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">15</container> <container
+				type="folder">13</container> 
+				<unittitle>Correspondence: Jones, J. S., College of Engineering,
+				  University of Nevada. 
+				  <unitdate type="inclusive"
+					normal="1914/1915">1914-1915</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">15</container> <container
+				type="folder">14</container> 
+				<unittitle>Correspondence: Killian, C., Lab de Botanique,
+				  University d'Alger, Algeria. 
+				  <unitdate type="inclusive"
+				  normal="1930/1933">1930-1933</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">15</container> <container
+				type="folder">15</container> 
+				<unittitle>Correspondence: Kinsey, Alfred C., Department of
+				  Zoology, Indiana University. 
+				  <unitdate type="inclusive" normal="1925">1920,
+					 1925</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">15</container> <container
+				type="folder">16</container> 
+				<unittitle>Correspondence: Lee, Frederic L., New York Botanical
+				  Garden. 
+				  <unitdate type="inclusive"
+				  normal="1923/1929">1923-1929</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">15</container> <container
+				type="folder">17-19</container> 
+				<unittitle>Correspondence: Livingston, Burton E., Lab of Plant
+				  Physiology, Johns Hopkins University. 
+				  <unitdate type="inclusive"
+				  normal="1910/1937">1910-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">15</container> <container
+				type="folder">20</container> 
+				<unittitle>Correspondence: Lloyd, Francis E., Department of Botany,
+				  McGill University, Montreal. 
+				  <unitdate type="inclusive"
+				  normal="1914/1932">1914-1932</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">15</container> <container
+				type="folder">21</container> 
+				<unittitle>Correspondence: Long, Esmond R., University of Chicago,
+				  Henry Phipps Institute. 
+				  <unitdate type="inclusive"
+				  normal="1920/1935">1920-1935</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">15</container> <container
+				type="folder">22</container> 
+				<unittitle>Correspondence: Lotsy, J. P., Holland. 
+				  <unitdate type="inclusive"
+				  normal="1922/1923">1922-1923</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">16</container> <container
+				type="folder">1</container> 
+				<unittitle>Correspondence: McKee, Edwin, National Park Service. 
+				  <unitdate type="inclusive"
+				  normal="1929/1934">1929-1934</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">16</container> <container
+				type="folder">2</container> 
+				<unittitle>Correspondence: Magnes, Judah L., Hebrew University,
+				  Palestine. 
+				  <unitdate type="inclusive"
+				  normal="1931/1933">1931-1933</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">16</container> <container
+				type="folder">3</container> 
+				<unittitle>Correspondence: Mead, Pauline, Department of Botany,
+				  University of Chicago, National Park Service. 
+				  <unitdate type="inclusive"
+				  normal="1929/1931">1929-1931</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">16</container> <container
+				type="folder">4</container> 
+				<unittitle>Correspondence: Menninger, C. F., Menninger Clinic,
+				  Kansas. 
+				  <unitdate type="inclusive"
+				  normal="1932/1934">1932-1934</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">16</container> <container
+				type="folder">5</container> 
+				<unittitle>Correspondence: Merrill, Elmer D., Bureau of Science,
+				  Philippine Islands; New York Botanical Garden. 
+				  <unitdate type="inclusive"
+				  normal="1914/1930">1914-1930</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">16</container> <container
+				type="folder">6</container> 
+				<unittitle>Correspondence: Meyer, Bernard S., Department of Botany,
+				  Ohio State University. 
+				  <unitdate type="inclusive"
+				  normal="1928/1932">1928-1932</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">16</container> <container
+				type="folder">7</container> 
+				<unittitle>Correspondence: Moore, George T., Missouri Botanical
+				  Garden. 
+				  <unitdate type="inclusive"
+				  normal="1913/1934">1913-1934</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">16</container> <container
+				type="folder">8</container> 
+				<unittitle>Correspondence: More, Louis T., University of
+				  Cincinnati. 
+				  <unitdate type="inclusive"
+				  normal="1924/1925">1924-1925</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">16</container> <container
+				type="folder">9</container> 
+				<unittitle>Correspondence: National Research Council. 
+				  <unitdate type="inclusive"
+				  normal="1921/1932">1921-1932</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">16</container> <container
+				type="folder">10-11</container> 
+				<unittitle>Correspondence: Overton, J. B., Department of Botany,
+				  University of Wisconsin. 
+				  <unitdate type="inclusive"
+				  normal="1925/1932">1925-1932</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">16</container> <container
+				type="folder">12</container> 
+				<unittitle>Correspondence: Parish, S. B., San Bernardino,
+				  California. 
+				  <unitdate type="inclusive"
+				  normal="1913/1916">1913-1916</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">16</container> <container
+				type="folder">13</container> 
+				<unittitle>Correspondence: Peirce, G. J., Department of Botany,
+				  Stanford University. 
+				  <unitdate type="inclusive"
+				  normal="1913/1932">1913-1932</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">16</container> <container
+				type="folder">14</container> 
+				<unittitle>Correspondence: Richards, Herbert M., Department of
+				  Botany, Barnard College, Columbia University. 
+				  <unitdate type="inclusive" normal="">1913-1929,
+					 1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">16</container> <container
+				type="folder">15</container> 
+				<unittitle>Correspondence: Schratz, E., Kaiser Wilhelm Institut fur
+				  Biologie, Berlin. 
+				  <unitdate type="inclusive"
+				  normal="1927/1934">1927-1934</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">16</container> <container
+				type="folder">16</container> 
+				<unittitle>Correspondence: Schroter, Carl, Zurich, Switzerland. 
+				  <unitdate type="inclusive"
+				  normal="1914/1926">1914-1926</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">16</container> <container
+				type="folder">17</container> 
+				<unittitle>Correspondence: Seifriz, William, Botanical Lab,
+				  University of Pennsylvania. 
+				  <unitdate type="inclusive"
+				  normal="1922/1937">1922-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">16</container> <container
+				type="folder">18</container> 
+				<unittitle>Correspondence: Setchell, William A., Department of
+				  Botany, University of California, Berkley. 
+				  <unitdate type="inclusive"
+				  normal="1913/1929">1913-1929</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">16</container> <container
+				type="folder">19</container> 
+				<unittitle>Correspondence: Shull, George H., Department of Biology,
+				  Princeton University. 
+				  <unitdate type="inclusive"
+				  normal="1913/1926">1913-1926</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">16</container> <container
+				type="folder">20</container> 
+				<unittitle>Correspondence: Skottsberg, Carl, University of Upsala,
+				  Sweden. 
+				  <unitdate type="inclusive" normal="NaN/1935">1913,
+					 1934-1935</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">16</container> <container
+				type="folder">21</container> 
+				<unittitle>Correspondence: Small, J. K., New York Botanical Garden.
+				  
+				  <unitdate type="inclusive"
+				  normal="1920/1936">1920-1936</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">16</container> <container
+				type="folder">22</container> 
+				<unittitle>Correspondence: Smith, Gilbert, Department of Botany,
+				  Stanford University. 
+				  <unitdate type="inclusive"
+				  normal="1926/1929">1926-1929</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">17</container> <container
+				type="folder">1</container> 
+				<unittitle>Correspondence: Snow, Laetitia M., Department of Botany,
+				  Wellesley College. 
+				  <unitdate type="inclusive"
+				  normal="1920/1934">1920-1934</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">17</container> <container
+				type="folder">2</container> 
+				<unittitle>Correspondence: Thompson, William Boyce, Superior,
+				  Arizona. 
+				  <unitdate type="inclusive"
+				  normal="1924/1925">1924-1925</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">17</container> <container
+				type="folder">3</container> 
+				<unittitle>Correspondence: Thompson, W. Gilman, New York. 
+				  <unitdate type="inclusive"
+				  normal="1921/1927">1921-1927</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">17</container> <container
+				type="folder">4</container> 
+				<unittitle>Correspondence: Ulehla, Vladimir and Moravek, Vladimir,
+				  Institute for Plant Physiology, Masaryk University, Czechoslovakia. 
+				  <unitdate type="inclusive"
+				  normal="1924/1928">1924-1928</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">17</container> <container
+				type="folder">5</container> 
+				<unittitle>Correspondence: Walter, Heinrich, Botanical Institute,
+				  Heidelberg and Stuttgart, Germany. 
+				  <unitdate type="inclusive"
+				  normal="1929/1936">1929-1936</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">17</container> <container
+				type="folder">6</container> 
+				<unittitle>Correspondence: Weaver, J. E., Department of Botany,
+				  University of Nebraska. 
+				  <unitdate type="inclusive"
+				  normal="1927/1935">1927-1935</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">17</container> <container
+				type="folder">7</container> 
+				<unittitle>Correspondence: Wilson, Edwin B., Department of Zoology,
+				  Columbia University, Department of Vital Statistics, Harvard University. 
+				  <unitdate type="inclusive"
+				  normal="1920/1926">1920-1926</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">17</container> <container
+				type="folder">8</container> 
+				<unittitle>Correspondence: Wright, John S., Eli Lilly and Co. 
+				  <unitdate type="inclusive"
+				  normal="1921/1928">1921-1928</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">17</container> <container
+				type="folder">9-11</container> 
+				<unittitle>Miscellaneous Correspondence. 
+				  <unitdate type="inclusive" normal="NaN/1937">1907,
+					 1912-1937</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes letters about a shipment of tortoises, May 6-10, 1924
+				  and a letter from George Sarton, December 22, 1929.</p> 
+			 </scopecontent> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">17</container> <container
+				type="folder">12</container> 
+				<unittitle>Correspondence regarding soil analysis, temperature,
+				  moisture content, rain gauges, etc. 
+				  <unitdate type="inclusive"
+				  normal="1929/1937">1929-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">17</container> <container
+				type="folder">13</container> 
+				<unittitle>Correspondence: Invitations. 
+				  <unitdate type="inclusive"
+				  normal="1921/1935">1921-1935</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">17</container> <container
+				type="folder">14</container> 
+				<unittitle>Correspondence: Carnegie Institution Exhibits. 
+				  <unitdate type="inclusive"
+				  normal="1923/1935">1923-1935</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">17</container> <container
+				type="folder">15</container> 
+				<unittitle>Correspondence from visitors. 
+				  <unitdate type="inclusive"
+				  normal="1909/1937">1909-1937</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes requests to visit the Laboratory, thank you notes, and
+				  information regarding the Desert Laboratory Tea, given by Dr. and Mrs. Shreve,
+				  April 3, 1929.</p> 
+			 </scopecontent> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Guayule and Dendrograph Correspondence, 
+				<unitdate type="inclusive"
+				normal="1912/1937">1912-1937</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container type="box">18</container> <container
+				type="folder">1</container> 
+				<unittitle>Miscellaneous correspondence on Guayule. 
+				  <unitdate type="inclusive"
+				  normal="1913/1932">1913-1932</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes letters to and from Cleveland Dodge, 1915 &amp; 1920,
+				  and Russian professor N. Maximov in Leningrad. </p> 
+			 </scopecontent> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">18</container> <container
+				type="folder">2</container> 
+				<unittitle>Correspondence: Requests for Information on Guayule and
+				  rubber. 
+				  <unitdate type="inclusive"
+				  normal="1915/1913">1915-1913</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">18</container> <container
+				type="folder">3</container> 
+				<unittitle>Correspondence: Dendograph patent and advertising. 
+				  <unitdate type="inclusive"
+				  normal="1921/1924">1921-1924</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">18</container> <container
+				type="folder">4</container> 
+				<unittitle>Miscellaneous correspondence on the Dendrograph. 
+				  <unitdate type="inclusive"
+				  normal="1919/1932">1919-1932</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">18</container> <container
+				type="folder">5</container> 
+				<unittitle>Correspondence: Antes, Ernest American Geographical
+				  Society. 
+				  <unitdate type="inclusive"
+				  normal="1923/1927">1923-1927</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">18</container> <container
+				type="folder">6</container> 
+				<unittitle>Correspondence: Bailey, I. W., Bussey Institution,
+				  Harvard University. 
+				  <unitdate type="inclusive"
+				  normal="1919/1931">1919-1931</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">18</container> <container
+				type="folder">7</container> 
+				<unittitle>Correspondence: Craighead, F. C., Department of
+				  Argiculture, Ottawa,; U. S. D. A, Bureau of Entomology. 
+				  <unitdate type="inclusive"
+				  normal="1922/1926">1922-1926</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">18</container> <container
+				type="folder">8</container> 
+				<unittitle>Correspondence: Dixon, Henry, H., School of Botany,
+				  Trinity College, Dublin. 
+				  <unitdate type="inclusive"
+				  normal="1924/1929">1924-1929</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">18</container> <container
+				type="folder">9</container> 
+				<unittitle>Correspondence: Korstian, C. F., U. S. D. A., Forest
+				  Service. 
+				  <unitdate type="inclusive"
+				  normal="1920/1936">1920-1936</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">18</container> <container
+				type="folder">10</container> 
+				<unittitle>Correspondence: McCallum, W. B., Rubber Exploration Co.,
+				  California. 
+				  <unitdate type="inclusive"
+				  normal="1912/1928">1912-1928</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">18</container> <container
+				type="folder">11</container> 
+				<unittitle>Correspondence: Pearson, G. A., U. S. D. A., Forest
+				  Service. 
+				  <unitdate type="inclusive"
+				  normal="1920/1936">1920-1936</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">18</container> <container
+				type="folder">12</container> 
+				<unittitle>Correspondence: Pole-Evans, T. B., Division of Botany,
+				  Union of South Africa. 
+				  <unitdate type="inclusive"
+				  normal="1920/1922">1920-1922</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes a letter from Prime Minister, Jan Smuts. </p> 
+			 </scopecontent> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">18</container> <container
+				type="folder">13</container> 
+				<unittitle>Correspondence: Reed, H. S., Citrus Experiment Station,
+				  University of California, Riverside. 
+				  <unitdate type="inclusive"
+				  normal="1919/1932">1919-1932</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">18</container> <container
+				type="folder">14</container> 
+				<unittitle>Correspondence: Streets, Mrs. R. B., Tucson, Arizona. 
+				  <unitdate type="inclusive"
+				  normal="1925/1927">1925-1927</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">18</container> <container
+				type="folder">15</container> 
+				<unittitle>Correspondence: Sumner, F. B., Scripps Institution,
+				  University of California, La Jolla. 
+				  <unitdate type="inclusive"
+				  normal="1920/1933">1920-1933</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">18</container> <container
+				type="folder">16</container> 
+				<unittitle>Correspondence: Von Schrenk, Herman, Consulting Timber
+				  Engineer, St. Louis. 
+				  <unitdate type="inclusive"
+				  normal="1913/1933">1913-1933</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">18</container> <container
+				type="folder">17</container> 
+				<unittitle>Miscellaneous correspondence regarding McDougal's
+				  articles on the Dendograph and tree growth. 
+				  <unitdate type="inclusive"
+					normal="1919/1930">1919-1930</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes letter from Gifford Pinchot, July 29, 1921.</p> 
+			 </scopecontent> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Correspondence Regarding Plant Exchanges and Collecting, 
+				<unitdate type="inclusive"
+				 normal="1912/1937">1912-1937</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container type="box">19</container> <container
+				type="folder">1-3</container> 
+				<unittitle>Correspondence: Plant exchanges and collecting. 
+				  <unitdate type="inclusive"
+					normal="1912/1937">1912-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">19</container> <container
+				type="folder">4</container> 
+				<unittitle>Correspondence: Abrams, L. R., Dudley Herbarium,
+				  Stanford University. 
+				  <unitdate type="inclusive"
+					normal="1925/1937">1925-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">19</container> <container
+				type="folder">5</container> 
+				<unittitle>Correspondence: Clayton, Alan B., San Diego &amp; El
+				  Centro, California. 
+				  <unitdate type="inclusive"
+					normal="1933/1935">1933-1935</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">19</container> <container
+				type="folder">6</container> 
+				<unittitle>Correspondence: Eig, A., Hebrew University, Palestine. 
+				  <unitdate type="inclusive"
+					normal="1931/1937">1931-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">19</container> <container
+				type="folder">6</container> 
+				<unittitle>Correspondence: Epling, Carl, University of California,
+				  Los Angeles. 
+				  <unitdate type="inclusive"
+					normal="1935/1937">1935-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">19</container> <container
+				type="folder">7</container> 
+				<unittitle>Correspondence: Ferris, Roxana S., Dudley Herbarium,
+				  Stanford University. 
+				  <unitdate type="inclusive"
+					normal="1934/1936">1934-1936</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">19</container> <container
+				type="folder">8</container> 
+				<unittitle>Correspondence: Gentry, Howard Scott, Sonora, Mexico and
+				  California. 
+				  <unitdate type="inclusive"
+					normal="1934/1937">1934-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">19</container> <container
+				type="folder">9</container> 
+				<unittitle>Correspondence: Graham, Edward H., Carnegie Museum,
+				  Pittsburgh. 
+				  <unitdate type="inclusive"
+					normal="1929/1936">1929-1936</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">19</container> <container
+				type="folder">10</container> 
+				<unittitle>Correspondence: Hester, J. P. 
+				  <unitdate type="inclusive"
+					normal="1930/1934">1930-1934</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">19</container> <container
+				type="folder">11</container> 
+				<unittitle>Correspondence: Hoffman, Ralph, Santa Barbara Museum of
+				  Natural History. 
+				  <unitdate type="inclusive"
+					normal="1928/1932">1928-1932</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">19</container> <container
+				type="folder">12</container> 
+				<unittitle>Correspondence: Johnston, Ivan M., Arnold Arboretum,
+				  Harvard University. 
+				  <unitdate type="inclusive"
+					normal="1934/1937">1934-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">19</container> <container
+				type="folder">13</container> 
+				<unittitle>Correspondence: Kerney, T. H., Peebles, R. H.,
+				  Tidestrom, I., U. S. D. A., Bureau of Plant Industry. 
+				  <unitdate type="inclusive"
+					normal="1928/1937">1928-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">19</container> <container
+				type="folder">14</container> 
+				<unittitle>Correspondence: Kraus, E. J., Department of Botany,
+				  University of Chicago. 
+				  <unitdate type="inclusive"
+					normal="1929/1934">1929-1934</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">19</container> <container
+				type="folder">15</container> 
+				<unittitle>Correspondence: Labordere, Marcel, Paris. 
+				  <unitdate type="inclusive"
+					normal="1931/1932">1931-1932</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">19</container> <container
+				type="folder">16</container> 
+				<unittitle>Correspondence: Manson, James W., Nogales, Arizona. 
+				  <unitdate type="inclusive"
+					normal="1932/1935">1932-1935</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">19</container> <container
+				type="folder">17</container> 
+				<unittitle>Correspondence: Miege, E., Rabat, Morocco. 
+				  <unitdate type="inclusive"
+					normal="1930/1937">1930-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">19</container> <container
+				type="folder">18</container> 
+				<unittitle>Correspondence: Rethaller, Marcel, Baja California. 
+				  <unitdate type="inclusive"
+					normal="1934/1937">1934-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">19</container> <container
+				type="folder">19</container> 
+				<unittitle>Correspondence: Standley, Paul C., Simms, S. C., Gregg,
+				  C. C., Field Museum of Natural History, Chicago. 
+				  <unitdate type="inclusive"
+					normal="1931/1937">1931-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">19</container> <container
+				type="folder">20</container> 
+				<unittitle>Correspondence: Swingle, Walter, T., U. S. D. A., Bureau
+				  of Plant Industry. 
+				  <unitdate type="inclusive"
+					normal="1925/1935">1925-1935</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">19</container> <container
+				type="folder">21</container> 
+				<unittitle>Correspondence: Whitehead, Jack, Boyce Thompson
+				  Southwestern Arboretum. 
+				  <unitdate type="inclusive"
+					normal="1933/1937">1933-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">19</container> <container
+				type="folder">22</container> 
+				<unittitle>Correspondence: Wiggins, Ira L., Dudley Herbarium,
+				  Stanford University. 
+				  <unitdate type="inclusive"
+					normal="1932/1937">1932-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">19</container> <container
+				type="folder">23</container> 
+				<unittitle>Correspondence: Wynd, F. Lyle, Washington University,
+				  St. Louis. 
+				  <unitdate type="inclusive"
+					normal="1936/1937">1936-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Correspondence With Scientific Societies, 
+				<unitdate type="inclusive"
+				 normal="1915/1937">1915-1937</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container type="box">20</container> <container
+				type="folder">1-6</container> 
+				<unittitle>Correspondence: American Association for the Advancement
+				  of Science. 
+				  <unitdate type="inclusive"
+					normal="1915/1937">1915-1937</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes material on the AAAS Population Symposium, 1930. </p> 
+			 </scopecontent> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">20</container> <container
+				type="folder">7</container> 
+				<unittitle>Correspondence: Prentiss, Elliott C., American
+				  Association for the Advancement of Science. 
+				  <unitdate type="inclusive"
+					normal="1920/1928">1920-1928</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">20</container> <container
+				type="folder">8</container> 
+				<unittitle>Correspondence: Botanical Society of America and
+				  American Society of Plant Physiologists. 
+				  <unitdate type="inclusive"
+					normal="1920/1931">1920-1931</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">20</container> <container
+				type="folder">9-10</container> 
+				<unittitle>Correspondence: Ecological Society of America. 
+				  <unitdate type="inclusive"
+					normal="1919/1937">1919-1937</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes correspondence about its publication, 
+				<title render="italic">Ecology</title>, and articles submitted by
+				MacDougal and others. Also correspondence with Barrington Moore, President.
+				</p> 
+			 </scopecontent> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">20</container> <container
+				type="folder">11</container> 
+				<unittitle>Correspondence: Cactus and Succulent Society of America.
+				  
+				  <unitdate type="inclusive"
+					normal="1930/1937">1930-1937</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes correspondence about its journal and Shreve articles.
+				  </p> 
+			 </scopecontent> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>University of Arizona Correspondence, 
+				<unitdate type="inclusive"
+				 normal="1909/1937">1909-1937</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container type="box">21</container> <container
+				type="folder">1</container> 
+				<unittitle>Correspondence: Anderson, Ernest, Department of
+				  Chemistry. 
+				  <unitdate type="inclusive"
+					normal="1925/1927">1925-1927</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">21</container> <container
+				type="folder">2</container> 
+				<unittitle>Correspondence: Brown, J. G., Department of Botany,
+				  Department of Plant Pathology. 
+				  <unitdate type="inclusive"
+					normal="1910/1935">1910-1935</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">21</container> <container
+				type="folder">3</container> 
+				<unittitle>Correspondence: Buehrer, T. F., Department of Chemistry,
+				  Agriculture Experiment Station. 
+				  <unitdate type="inclusive"
+					normal="1928/1933">1928-1933</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">21</container> <container
+				type="folder">4</container> 
+				<unittitle>Correspondence: Crider, F. J., Department of
+				  Horticulture, Boyce Thompson Southwestern Arboretum. 
+				  <unitdate type="inclusive"
+					normal="1922/1933">1922-1933</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">21</container> <container
+				type="folder">5</container> 
+				<unittitle>Correspondence: Doublass, Andrew, E., Steward
+				  Observatory. 
+				  <unitdate type="inclusive"
+					normal="1920/1929">1920-1929</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">21</container> <container
+				type="folder">6</container> 
+				<unittitle>Correspondence: Forbes, Robert H., Agriculture
+				  Experiment Station. 
+				  <unitdate type="inclusive" normal="NaN/1924">1909,
+					 1919-1924</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">21</container> <container
+				type="folder">7</container> 
+				<unittitle>Correspondence: Kleinsmid, Rufus B. von, President,
+				  University of Arizona, President, University of Southern California. 
+				  <unitdate type="inclusive"
+					normal="1916/1924">1916-1924</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">21</container> <container
+				type="folder">8</container> 
+				<unittitle>Correspondence: Lockwood, Franck, C., Acting President,
+				  University of Arizona, Dean, College of Letters, Arts &amp; Sciences. 
+				  <unitdate type="inclusive"
+					normal="1921/1930">1921-1930</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">21</container> <container
+				type="folder">9</container> 
+				<unittitle>Correspondence: Marvin, Cloyd H., President, University
+				  of Arizona. 
+				  <unitdate type="inclusive"
+					normal="1923/1926">1923-1926</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">21</container> <container
+				type="folder">10</container> 
+				<unittitle>Correspondence: Shantz, Homer L., Department of Botany,
+				  University of Illinois, President, University of Arizona. 
+				  <unitdate type="inclusive"
+					normal="1927/1933">1927-1933</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">21</container> <container
+				type="folder">11</container> 
+				<unittitle>Correspondence: Thornber, J. J., Agriculture Experiment
+				  Station. 
+				  <unitdate type="inclusive"
+					normal="1913/1934">1913-1934</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">21</container> <container
+				type="folder">12</container> 
+				<unittitle>Correspondence: Vinson, A. E., Agriculture Experiment
+				  Station. 
+				  <unitdate type="inclusive"
+					normal="1913/1926">1913-1926</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">21</container> <container
+				type="folder">13</container> 
+				<unittitle>Correspondence: Vorhies, Charles T., Agriculture
+				  Experiment Station. 
+				  <unitdate type="inclusive"
+					normal="1922/1935">1922-1935</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">21</container> <container
+				type="folder">14</container> 
+				<unittitle>Correspondence: Wilde, Arthur H., President, University
+				  of Arizona. 
+				  <unitdate type="inclusive"
+					normal="1913/1914">1913-1914</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">21</container> <container
+				type="folder">15</container> 
+				<unittitle>Miscellaneous correspondence regarding the University of
+				  Arizona Presidency. 
+				  <unitdate type="inclusive"
+					normal="1914/1927">1914-1927</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">21</container> <container
+				type="folder">16</container> 
+				<unittitle>Miscellaneous correspondence regarding various
+				  University of Arizona topics. 
+				  <unitdate type="inclusive"
+					normal="1912/1937">1912-1937</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes Tucson Chamber of Commerce letters regarding the Munk
+				  Library, departmental reorganization, a metal tower on the roof of the Mines
+				  Building, etc. </p> 
+			 </scopecontent> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Correspondence Regarding Equipment and Supplies, 
+				<unitdate type="inclusive"
+				 normal="1906/1938">1906-1938</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container type="box">22</container> <container
+				type="folder">1-2</container> 
+				<unittitle>Correspondence: Arthur H. Thomas Co., Philadelphia. 
+				  <unitdate type="inclusive"
+					normal="1910/1935">1910-1935</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">22</container> <container
+				type="folder">3</container> 
+				<unittitle>Correspondence: Braun Corporation, Los Angeles. 
+				  <unitdate type="inclusive"
+					normal="1910/1933">1910-1933</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">22</container> <container
+				type="folder">4</container> 
+				<unittitle>Correspondence: Braun-Knecht-Heimann Co., San Francisco.
+				  
+				  <unitdate type="inclusive"
+					normal="1920/1929">1920-1929</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">22</container> <container
+				type="folder">5</container> 
+				<unittitle>Correspondence: Central Scientific Co., Chicago. 
+				  <unitdate type="inclusive"
+					normal="1920/1937">1920-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">22</container> <container
+				type="folder">6</container> 
+				<unittitle>Correspondence: James W. Conway, Atlanta. 
+				  <unitdate type="inclusive"
+					normal="1928">1928</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">22</container> <container
+				type="folder">7</container> 
+				<unittitle>Correspondence: Fred S. Carver, New York City. 
+				  <unitdate type="inclusive"
+					normal="1929/1931">1929-1931</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">22</container> <container
+				type="folder">8</container> 
+				<unittitle>Correspondence: Harris Laboratories, Tuckahoe, New York.
+				  
+				  <unitdate type="inclusive"
+					normal="1921">1921</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">22</container> <container
+				type="folder">9</container> 
+				<unittitle>Correspondence: Fred C. Henson, Co., Pasadena,
+				  California. 
+				  <unitdate type="inclusive"
+					normal="1928/1936">1928-1936</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">22</container> <container
+				type="folder">10</container> 
+				<unittitle>Correspondence: Julien P. Friez &amp; Sons, Baltimore,
+				  Maryland. 
+				  <unitdate type="inclusive"
+					normal="1910/1938">1910-1938</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">22</container> <container
+				type="folder">11</container> 
+				<unittitle>Correspondence: Standard Oil Company of California. 
+				  <unitdate type="inclusive" normal="1932">1928,
+					 1932</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">22</container> <container
+				type="folder">12</container> 
+				<unittitle>Correspondence: Taylor Instrument Companies, Rochester,
+				  New York. 
+				  <unitdate type="inclusive"
+					normal="1910/1930">1910-1930</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">22</container> <container
+				type="folder">13</container> 
+				<unittitle>Correspondence: Linde Air Products Co., New York. 
+				  <unitdate type="inclusive"
+					normal="1919/1921">1919-1921</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">22</container> <container
+				type="folder">13</container> 
+				<unittitle>Correspondence: Arthur L. Day, Corning Glass Works. 
+				  <unitdate type="inclusive" normal="">May, 1920-August,
+					 1920</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">22</container> <container
+				type="folder">13</container> 
+				<unittitle>Correspondence: Bario Metal Corp., New York. 
+				  <unitdate type="inclusive"
+					normal="1920/1921">1920-1921</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">22</container> <container
+				type="folder">13</container> 
+				<unittitle>Correspondence: Special Chemicals Co., Highland Park,
+				  Illinois. 
+				  <unitdate type="inclusive"
+					normal="1920/1921">1920-1921</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">22</container> <container
+				type="folder">13</container> 
+				<unittitle>Correspondence: Standard Scientific Co., New York. 
+				  <unitdate type="inclusive"
+					normal="1920/1921">1920-1921</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">22</container> <container
+				type="folder">13</container> 
+				<unittitle>Correspondence: A. F. Wells Co., San Francisco. 
+				  <unitdate type="inclusive"
+					normal="1920/1925">1920-1925</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">22</container> <container
+				type="folder">13</container> 
+				<unittitle>Correspondence: Leeds &amp; Northrup Co., Philadelphia. 
+				  <unitdate type="inclusive" normal="">1920-1921, 1930,
+					 1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">22</container> <container
+				type="folder">14</container> 
+				<unittitle>Correspondence: Chicago Apparatus Co., Chicago. 
+				  <unitdate type="inclusive"
+					normal="1925/1927">1925-1927</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">22</container> <container
+				type="folder">14</container> 
+				<unittitle>Correspondence: Keuffel &amp; Esser Co., Hoboken, New
+				  Jersey. 
+				  <unitdate type="inclusive"
+					normal="1927/1936">1927-1936</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">22</container> <container
+				type="folder">14</container> 
+				<unittitle>Correspondence: Ohio Chemical &amp; manufacturing Co.,
+				  Cleveland. 
+				  <unitdate type="inclusive"
+					normal="1931/1932">1931-1932</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">22</container> <container
+				type="folder">14</container> 
+				<unittitle>Correspondence: Scott Paper Co., Chester, Pennsylvania. 
+				  <unitdate type="inclusive"
+					normal="1921/1936">1921-1936</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">23</container> <container
+				type="folder">1-6</container> 
+				<unittitle>Miscellaneous correspondence regarding equipment. 
+				  <unitdate type="inclusive"
+					normal="1906/1937">1906-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">23</container> <container
+				type="folder">7</container> 
+				<unittitle>Miscellaneous correspondence regarding office supplies. 
+				  <unitdate type="inclusive"
+					normal="1910/1935">1910-1935</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">23</container> <container
+				type="folder">8</container> 
+				<unittitle>Correspondence regarding slides and photographic
+				  materials. 
+				  <unitdate type="inclusive"
+					normal="1912/1936">1912-1936</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">23</container> <container
+				type="folder">9</container> 
+				<unittitle>Correspondence regarding a motorcycle. 
+				  <unitdate type="inclusive"
+					normal="1911">1911</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">23</container> <container
+				type="folder">10</container> 
+				<unittitle>Miscellaneous correspondence regarding automobiles. 
+				  <unitdate type="inclusive"
+					normal="1910/1934">1910-1934</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">23</container> <container
+				type="folder">11</container> 
+				<unittitle>Correspondence: Lord Motor Car Co., Los Angeles. 
+				  <unitdate type="inclusive"
+					normal="1909/1914">1909-1914</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">23</container> <container
+				type="folder">12</container> 
+				<unittitle>Miscellaneous correspondence regarding automobiles
+				  licenses and insurance. 
+				  <unitdate type="inclusive"
+					normal="1915/1929">1915-1929</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Requests, 
+				<unitdate type="inclusive"
+				 normal="1910/1937">1910-1937</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container type="box">24</container> <container
+				type="folder">1</container> 
+				<unittitle>Requests for plants. 
+				  <unitdate type="inclusive"
+					normal="1910/1937">1910-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">24</container> <container
+				type="folder">2</container> 
+				<unittitle>Requests for seeds. 
+				  <unitdate type="inclusive"
+					normal="1910/1937">1910-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">24</container> <container
+				type="folder">3</container> 
+				<unittitle>Requests for plant identification. 
+				  <unitdate type="inclusive"
+					normal="1921/1935">1921-1935</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">24</container> <container
+				type="folder">4</container> 
+				<unittitle>Requests for advice on plant selection. 
+				  <unitdate type="inclusive"
+					normal="1920/1934">1920-1934</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">24</container> <container
+				type="folder">5</container> 
+				<unittitle>Requests for information regarding the Desert
+				  Laboratory. 
+				  <unitdate type="inclusive"
+					normal="1913/1937">1913-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">24</container> <container
+				type="folder">6</container> 
+				<unittitle>Requests for information regarding cactus. 
+				  <unitdate type="inclusive"
+					normal="1913/1937">1913-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">24</container> <container
+				type="folder">7</container> 
+				<unittitle>Requests for information regarding desert flora. 
+				  <unitdate type="inclusive"
+					normal="1913/1937">1913-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">24</container> <container
+				type="folder">8</container> 
+				<unittitle>Requests for information regarding the yucca fiber
+				  industry. 
+				  <unitdate type="inclusive"
+					normal="1914/1937">1914-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">24</container> <container
+				type="folder">9</container> 
+				<unittitle>Requests for information regarding plants in general. 
+				  <unitdate type="inclusive"
+					normal="1913/1937">1913-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">24</container> <container
+				type="folder">10</container> 
+				<unittitle>Requests for information regarding trees. 
+				  <unitdate type="inclusive"
+					normal="1914/1937">1914-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">24</container> <container
+				type="folder">11</container> 
+				<unittitle>Requests for information regarding sap flow in trees. 
+				  <unitdate type="inclusive"
+					normal="1921/1929">1921-1929</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">24</container> <container
+				type="folder">12</container> 
+				<unittitle>Requests for information regarding artificial cell. 
+				  <unitdate type="inclusive"
+					normal="1922/1928">1922-1928</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">24</container> <container
+				type="folder">13</container> 
+				<unittitle>Requests for information regarding equipment. 
+				  <unitdate type="inclusive"
+					normal="1920/1937">1920-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">24</container> <container
+				type="folder">14</container> 
+				<unittitle>Requests for information regarding climatic conditions. 
+				  <unitdate type="inclusive"
+					normal="1922/1937">1922-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">24</container> <container
+				type="folder">14</container> 
+				<unittitle>Requests for information regarding health problems. 
+				  <unitdate type="inclusive"
+					normal="1921/1934">1921-1934</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">24</container> <container
+				type="folder">14</container> 
+				<unittitle>Requests for information regarding E. L. Larkin and Cell
+				  Life. 
+				  <unitdate type="inclusive"
+					normal="1922">1922</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">24</container> <container
+				type="folder">14</container> 
+				<unittitle>Requests for information regarding various people. 
+				  <unitdate type="inclusive"
+					normal="1916/1932">1916-1932</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">24</container> <container
+				type="folder">14</container> 
+				<unittitle>Requests for information regarding the Salton Sea. 
+				  <unitdate type="inclusive"
+					normal="1920/1927">1920-1927</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">24</container> <container
+				type="folder">14</container> 
+				<unittitle>Requests for information regarding solar radiation. 
+				  <unitdate type="inclusive"
+					normal="1920/1936">1920-1936</unitdate> </unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">24</container> <container
+				type="folder">15</container> 
+				<unittitle>Requests for miscellaneous information. 
+				  <unitdate type="inclusive"
+					normal="1913/1936">1913-1936</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">25</container> <container
+				type="folder">1</container> 
+				<unittitle>Requests for advice and opinions regarding projects,
+				  publications, theories, study, etc. 
+				  <unitdate type="inclusive"
+					normal="1913/1937">1913-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">25</container> <container
+				type="folder">2</container> 
+				<unittitle>Requests for travel advice. 
+				  <unitdate type="inclusive"
+					normal="1919/1937">1919-1937</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes correspondence with Comte de Nouy, November 1926 and
+				  Nicholas Roosevelt, February 1930. </p> 
+			 </scopecontent> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">25</container> <container
+				type="folder">3</container> 
+				<unittitle>Requests for photographs, films, slides, etc. 
+				  <unitdate type="inclusive"
+					normal="1910/1937">1910-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">25</container> <container
+				type="folder">4</container> 
+				<unittitle>Requests for personal recommendations, references, and
+				  endorsements. 
+				  <unitdate type="inclusive"
+					normal="1920/1932">1920-1932</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">25</container> <container
+				type="folder">5</container> 
+				<unittitle>Requests for information and recommendations concerning
+				  various publications. 
+				  <unitdate type="inclusive"
+					normal="1914/1937">1914-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">25</container> <container
+				type="folder">6</container> 
+				<unittitle>Miscellaneous requests. 
+				  <unitdate type="inclusive"
+					normal="1921/1934">1921-1934</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">25</container> <container
+				type="folder">7-9</container> 
+				<unittitle>Requests for jobs. 
+				  <unitdate type="inclusive"
+					normal="1913/1937">1913-1937</unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes a job request from Donald Culross Peattie, March 6,
+				  1925.</p> 
+			 </scopecontent> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">25</container> <container
+				type="folder">10</container> 
+				<unittitle>Requests for letters for introduction and
+				  recommendations. 
+				  <unitdate type="inclusive"
+					normal="1912/1936">1912-1936</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">25</container> <container
+				type="folder">11</container> 
+				<unittitle>Desert Laboratory requests to fill positions. 
+				  <unitdate type="inclusive"
+					normal="1928/1931">1928-1931</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Correspondence Regarding Publications, Books, etc., 
+				<unitdate type="inclusive"
+				 normal="1907/1938">1907-1938</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container type="box">26</container> <container
+				type="folder">1</container> 
+				<unittitle>Correspondence: Requests for various and miscellaneous
+				  Carnegie Publications. 
+				  <unitdate type="inclusive"
+					normal="1913/1937">1913-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">26</container> <container
+				type="folder">2</container> 
+				<unittitle>Correspondence: Acknowledgments for Carnegie
+				  Publications. 
+				  <unitdate type="inclusive"
+					normal="1920/1931">1920-1931</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">26</container> <container
+				type="folder">3</container> 
+				<unittitle>Correspondence: Publications requested by the Desert
+				  Laboratory. 
+				  <unitdate type="inclusive"
+					normal="1913/1937">1913-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">26</container> <container
+				type="folder">4</container> 
+				<unittitle>Correspondence: Publications 
+				  <unitdate type="inclusive" normal="1903/1985"><?xm-replace_text {date}?></unitdate></unittitle>
+				
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">26</container> <container
+				type="folder">5</container> 
+				<unittitle>Correspondence: Book orders. 
+				  <unitdate type="inclusive"
+					normal="1909/1938">1909-1938</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">26</container> <container
+				type="folder">6</container> 
+				<unittitle>Correspondence: Stechert, G. E. 
+				  <unitdate type="inclusive"
+					normal="1907/1937">1907-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">26</container> <container
+				type="folder">7</container> 
+				<unittitle>Correspondence: Subscriptions. 
+				  <unitdate type="inclusive"
+					normal="1909/1935">1909-1935</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">26</container> <container
+				type="folder">8</container> 
+				<unittitle>Correspondence: Book-binding. 
+				  <unitdate type="inclusive"
+					normal="1920/1938">1920-1938</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">26</container> <container
+				type="folder">9</container> 
+				<unittitle>Correspondence: John Crerar Library, Chicago. 
+				  <unitdate type="inclusive"
+					normal="1920/1937">1920-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">26</container> <container
+				type="folder">10</container> 
+				<unittitle>Miscellaneous correspondence regarding books,
+				  publications, etc. 
+				  <unitdate type="inclusive"
+					normal="1910/1937">1910-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">26</container> <container
+				type="folder">11</container> 
+				<unittitle>Correspondence: 
+				  <title render="italic">The Plant World</title>. 
+				  <unitdate type="inclusive"
+					normal="1923/1937">1923-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series V: D. T. MacDougal Personal Papers, 
+			 <unitdate type="inclusive"
+			  normal="1908/1935">1908-1935</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">27</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Biographical Information for publications. 
+				<unitdate type="inclusive"
+				 normal="1923/1929">1923-1929</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">27</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Personal Correspondence: Family. 
+				<unitdate type="inclusive"
+				 normal="1920/1924">1920-1924</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">27</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Personal Correspondence: Stearns, Harold (family). 
+				<unitdate type="inclusive"
+				 normal="1920/1922">1920-1922</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">27</container> <container
+			 type="folder">4</container> 
+			 <unittitle>Personal Correspondence: Austin, Mary. 
+				<unitdate type="inclusive"
+				 normal="1920/1924">1920-1924</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">27</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Personal Correspondence: Dutton, Louisa B., Carmel
+				Library. 
+				<unitdate type="inclusive"
+				 normal="1920/1926">1920-1926</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">27</container> <container
+			 type="folder">6</container> 
+			 <unittitle>Personal Correspondence: Fenner, Dr. H. W. 
+				<unitdate type="inclusive"
+				 normal="1916/1925">1916-1925</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">27</container> <container
+			 type="folder">7</container> 
+			 <unittitle>Personal Correspondence: Heard, Dwight B. 
+				<unitdate type="inclusive"
+				 normal="1925/1929">1925-1929</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">27</container> <container
+			 type="folder">8</container> 
+			 <unittitle>Personal Correspondence: Hoffmann, Bernhard. 
+				<unitdate type="inclusive"
+				 normal="1920/1923">1920-1923</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">27</container> <container
+			 type="folder">9</container> 
+			 <unittitle>Personal Correspondence: Taylor, Henry O. 
+				<unitdate type="inclusive"
+				 normal="1921/1930">1921-1930</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">27</container> <container
+			 type="folder">10</container> 
+			 <unittitle>Personal Correspondence: Livingston, Grace. 
+				<unitdate type="inclusive" normal="">June, 1920-November
+				  1920</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">27</container> <container
+			 type="folder">10</container> 
+			 <unittitle>Personal Correspondence: Gulick, Sidney L. 
+				<unitdate type="inclusive"
+				 normal="1920/1921">1920-1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">27</container> <container
+			 type="folder">10</container> 
+			 <unittitle>Personal Correspondence: Flanders, Grace &amp; Paul. 
+				<unitdate type="inclusive"
+				 normal="1921/1923">1921-1923</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">27</container> <container
+			 type="folder">10</container> 
+			 <unittitle>Personal Correspondence: Lowell, Amy. 
+				<unitdate type="inclusive" normal="">December 21, 1922-December 23,
+				  1922</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">27</container> <container
+			 type="folder">10</container> 
+			 <unittitle>Personal Correspondence: Bechdolt, F. R. 
+				<unitdate type="inclusive"
+				 normal="1922/1928">1922-1928</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">27</container> <container
+			 type="folder">10</container> 
+			 <unittitle>Personal Correspondence: Martin, Anne. 
+				<unitdate type="inclusive"
+				 normal="1923/1924">1923-1924</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">27</container> <container
+			 type="folder">10</container> 
+			 <unittitle>Personal Correspondence: James, D. L. 
+				<unitdate type="inclusive"
+				 normal="1925/1930">1925-1930</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">27</container> <container
+			 type="folder">10</container> 
+			 <unittitle>Personal Correspondence: Hunter, Mrs. Robert. 
+				<unitdate type="inclusive" normal="">October 1926-November
+				  1926</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">27</container> <container
+			 type="folder">10</container> 
+			 <unittitle>Personal Correspondence: Kahofer, Jules. 
+				<unitdate type="inclusive"
+				 normal="1926/1929">1926-1929</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">27</container> <container
+			 type="folder">10</container> 
+			 <unittitle>Personal Correspondence: Vail, Anna Murray. 
+				<unitdate type="inclusive"
+				 normal="1925/1927">1925-1927</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">27</container> <container
+			 type="folder">10</container> 
+			 <unittitle>Personal Correspondence: Abbott, Lawrence F. 
+				<unitdate type="inclusive" normal="">February 1928-July
+				  1928</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">27</container> <container
+			 type="folder">11</container> 
+			 <unittitle>Personal Correspondence: DePauw University. 
+				<unitdate type="inclusive"
+				 normal="1920/1927">1920-1927</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">27</container> <container
+			 type="folder">12</container> 
+			 <unittitle>Personal Correspondence: Art and pageants. 
+				<unitdate type="inclusive"
+				 normal="1920/1928">1920-1928</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Includes correspondence relating to the Arizona Pageantry
+				Association, 1927-1928, with a letter from James McClintock. </p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">27</container> <container
+			 type="folder">13</container> 
+			 <unittitle>Personal Correspondence: Books and subscriptions. 
+				<unitdate type="inclusive"
+				 normal="1920/1924">1920-1924</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">27</container> <container
+			 type="folder">14</container> 
+			 <unittitle>Personal Correspondence: Miscellaneous. 
+				<unitdate type="inclusive"
+				 normal="1908/1959">1908-1959</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">27</container> <container
+			 type="folder">15</container> 
+			 <unittitle>Property: Carmel, California. 
+				<unitdate type="inclusive"
+				 normal="1920/1925">1920-1925</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">27</container> <container
+			 type="folder">16</container> 
+			 <unittitle>Property: Tucson, Arizona. 
+				<unitdate type="inclusive"
+				 normal="1920/1933">1920-1933</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">27</container> <container
+			 type="folder">17</container> 
+			 <unittitle>Contributions. 
+				<unitdate type="inclusive"
+				 normal="1921/1930">1921-1930</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Includes correspondence regarding a 1923 Tokyo earthquake and the
+				Arizona Hut, Inc.</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">28</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Personal Correspondence: Articles in 
+				<title render="italic">The Garden Magazine</title>. 
+				<unitdate type="inclusive"
+				 normal="1921/1927">1921-1927</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">28</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Personal Correspondence: Alexander, Jerome regarding
+				MacDougal's contribution to a book on colloid chemistry. 
+				<unitdate type="inclusive"
+				normal="1920/1928">1920-1928</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">28</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Personal Correspondence: Ingalls, Albert G., Associate
+				Editor of 
+				<title render="italic">Scientific American</title> regarding
+				articles. 
+				<unitdate type="inclusive"
+				normal="1925/1931">1925-1931</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">28</container> <container
+			 type="folder">4</container> 
+			 <unittitle>Personal Correspondence: Various publications by MacDougal
+				including requests for copies and reprints. 
+				<unitdate type="inclusive"
+				normal="1913/1935">1913-1935</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">28</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Requests for MacDougal to write articles. 
+				<unitdate type="inclusive"
+				normal="1915/1928">1915-1928</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">28</container> <container
+			 type="folder">6</container> 
+			 <unittitle>Proposed publications. 
+				<unitdate type="inclusive"
+				normal="1920/1929">1920-1929</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Includes correspondence with Frederick L. Allen of Harper &amp;
+				Brothers, 1924-1925, and John Farrar of George H. Doran Company, 1926-1929.</p>
+			 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">28</container> <container
+			 type="folder">7</container> 
+			 <unittitle>Memberships: American Philosophical Society. 
+				<unitdate type="inclusive"
+				normal="1919/1930">1919-1930</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Includes correspondence regarding MacDougal's articles published
+				in its 
+			 <title render="italic">Proceedings</title>. </p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">28</container> <container
+			 type="folder">8</container> 
+			 <unittitle>Memberships: California Academy of Sciences. 
+				<unitdate type="inclusive"
+				 normal="1916/1926">1916-1926</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Includes correspondence with Director, B. W. Evermann. </p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">28</container> <container
+			 type="folder">9</container> 
+			 <unittitle>Memberships: Century Club, N. Y. 
+				<unitdate type="inclusive"
+				 normal="1920/1930">1920-1930</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">28</container> <container
+			 type="folder">10</container> 
+			 <unittitle>Various memberships. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">28</container> <container
+			 type="folder">11</container> 
+			 <unittitle>Memberships declined. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">28</container> <container
+			 type="folder">12</container> 
+			 <unittitle>Personal Correspondence: Speeches. 
+				<unitdate type="inclusive"
+				 normal="1909/1931">1909-1931</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">28</container> <container
+			 type="folder">13</container> 
+			 <unittitle>Speech: "Living Things and Physical Forces in Soils," New
+				York Farmers. 
+				<unitdate type="inclusive" normal="1924">December
+				  1924</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Includes correspondence with Secretary, Samuel Thorne. </p> 
+		  </scopecontent> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series VI: Forrest Shreve Personal Papers, 
+			 <unitdate type="inclusive"
+			  normal="1916/1937">1916-1937</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">29</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Personal Correspondence: Various publications by Shreve
+				including requests for copies and reprints. 
+				<unitdate type="inclusive"
+				 normal="1916/1937">1916-1937</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">29</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Personal Correspondence: 
+				<title render="italic">The Cactus and Its Home</title>. 
+				<unitdate type="inclusive"
+				 normal="1929/1937">1929-1937</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">29</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Personal Correspondence: Hannig, E. regarding Shreve's
+				contributions to the publication 
+				<title render="italic">Pflanzenareale</title>. 
+				<unitdate type="inclusive"
+				normal="1929/1930">1929-1930</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">29</container> <container
+			 type="folder">4</container> 
+			 <unittitle>Personal Correspondence: "Rainfall, Runoff, and Soil
+				Moisture Under Desert Conditions," 
+				<title render="italic">Annals of The Association of American
+				  Geographers</title>, v. 24. 
+				<unitdate type="inclusive" normal="1934">September
+				  1934</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">29</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Requests for Shreve to write articles. 
+				<unitdate type="inclusive"
+				normal="1930/1937">1930-1937</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">29</container> <container
+			 type="folder">6</container> 
+			 <unittitle>Requests for Shreve to critique articles by others. 
+				<unitdate type="inclusive"
+				normal="1930/1932">1930-1932</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">29</container> <container
+			 type="folder">7</container> 
+			 <unittitle>Personal Correspondence: Proposed publications. 
+				<unitdate type="inclusive"
+				normal="1929/1935">1929-1935</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Includes Shreve's "little handbook," 
+			 <title render="italic">The Desert</title>, and a book to commemorate
+			 the Desert Laboratory's first 30 years. </p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">29</container> <container
+			 type="folder">8</container> 
+			 <unittitle>Personal Correspondence: Speeches. 
+				<unitdate type="inclusive"
+				normal="1931/1934">1931-1934</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">29</container> <container
+			 type="folder">9</container> 
+			 <unittitle>Personal Correspondence: Family. 
+				<unitdate type="inclusive"
+				normal="1928/1937">1928-1937</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">29</container> <container
+			 type="folder">10</container> 
+			 <unittitle>Personal Correspondence: "The Education of Margaret,"
+				regarding his daughter's schooling, etc. 
+				<unitdate type="inclusive"
+				 normal="1928/1933">1928-1933</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">29</container> <container
+			 type="folder">11</container> 
+			 <unittitle>Personal Correspondence: Miscellaneous. 
+				<unitdate type="inclusive"
+				 normal="1928/1937">1928-1937</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">29</container> <container
+			 type="folder">12</container> 
+			 <unittitle>Memberships. 
+				<unitdate type="inclusive"
+				 normal="1929/1936">1929-1936</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">29</container> <container
+			 type="folder">13</container> 
+			 <unittitle>Property: Tucson and Carmel. 
+				<unitdate type="inclusive"
+				 normal="1928/1933">1928-1933</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series VII: Desert Botanical Laboratory Plot Records, 
+			 <unitdate type="inclusive"
+			  normal="1906/1985">1906-1985</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Plot 4. 
+				<unitdate type="inclusive" normal="1906">February 16,
+				  1906</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Plot 4. 
+				<unitdate type="inclusive" normal="1968">March 6,
+				  1968</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Plot 4. 
+				<unitdate type="inclusive" normal="1978">January 30, 1978, February
+				  15, 1978</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Plot 4. 
+				<unitdate type="inclusive" normal="1985">March 21,
+				  1985</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">6</container> 
+			 <unittitle>Plot 7. 
+				<unitdate type="inclusive" normal="1906">February 21,
+				  1906</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">6</container> 
+			 <unittitle>Plot 7. 
+				<unitdate type="inclusive" normal="1968">December 13,
+				  1968</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">6</container> 
+			 <unittitle>Plot 7. 
+				<unitdate type="inclusive" normal="">March 31, 1978-April 4,
+				  1978</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">6</container> 
+			 <unittitle>Plot 7. 
+				<unitdate type="inclusive" normal="1985">March 26,
+				  1985</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">7</container> 
+			 <unittitle>Plot 9. 
+				<unitdate type="inclusive" normal="1906">February 21,
+				  1906</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">7</container> 
+			 <unittitle>Plot 9. 
+				<unitdate type="inclusive" normal="NaN">March 12, 1968,
+				  </unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">7</container> 
+			 <unittitle>Plot 9. 
+				<unitdate type="inclusive" normal="">January 5-7, 1978, January 25,
+				  1978</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">7</container> 
+			 <unittitle>Plot 9. 
+				<unitdate type="inclusive" normal="1985">April 8,
+				  1985</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">8</container> 
+			 <unittitle>Plot 10. 
+				<unitdate type="inclusive" normal="1906">February 21,
+				  1906</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">8</container> 
+			 <unittitle>Plot 10. 
+				<unitdate type="inclusive" normal="1968">April 8,
+				  1968</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">8</container> 
+			 <unittitle>Plot 10. 
+				<unitdate type="inclusive" normal="1968">April 7, 1968, April 10,
+				  1968</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">9</container> 
+			 <unittitle>Plot 11. 
+				<unitdate type="inclusive" normal="1906">February
+				  1906</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">9</container> 
+			 <unittitle>Plot 11. 
+				<unitdate type="inclusive" normal="1910">April
+				  1910</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">9</container> 
+			 <unittitle>Plot 11. 
+				<unitdate type="inclusive" normal="1928">November 2,
+				  1928</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">9</container> 
+			 <unittitle>Plot 11. 
+				<unitdate type="inclusive" normal="1936">April 8,
+				  1936</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">9</container> 
+			 <unittitle>Plot 11. 
+				<unitdate type="inclusive" normal="1960">February 9, 1960, February
+				  18, 1960</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">9</container> 
+			 <unittitle>Plot 11. 
+				<unitdate type="inclusive" normal="1968">January 22,
+				  1968</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">9</container> 
+			 <unittitle>Plot 11. 
+				<unitdate type="inclusive" normal="">June 15-19, 1975, June 29,
+				  1975</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">9</container> 
+			 <unittitle>Plot 11. 
+				<unitdate type="inclusive" normal="">Spril 13-19,
+				  1978</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">9</container> 
+			 <unittitle>Plot 11. 
+				<unitdate type="inclusive" normal="">December 10-12,
+				  1984</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">10</container> 
+			 <unittitle>Plot 12. 
+				<unitdate type="inclusive" normal="1906">February 24,
+				  1906</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">10</container> 
+			 <unittitle>Plot 12. 
+				<unitdate type="inclusive" normal="1929">February 27,
+				  1929</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">10</container> 
+			 <unittitle>Plot 12. 
+				<unitdate type="inclusive" normal="1936">April 1,
+				  1936</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">10</container> 
+			 <unittitle>Plot 12. 
+				<unitdate type="inclusive" normal="1960">March 1,
+				  1960</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">10</container> 
+			 <unittitle>Plot 12. 
+				<unitdate type="inclusive" normal="1968">January 31,
+				  1968</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">10</container> 
+			 <unittitle>Plot 12. 
+				<unitdate type="inclusive" normal="1975">June
+				  1975</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">10</container> 
+			 <unittitle>Plot 12. 
+				<unitdate type="inclusive" normal="">September 9-20,
+				  1975</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">10</container> 
+			 <unittitle>Plot 12. 
+				<unitdate type="inclusive" normal="1978">April 19,
+				  1978</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">10</container> 
+			 <unittitle>Plot 12. 
+				<unitdate type="inclusive" normal="1982">December 3,
+				  1982</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">10</container> 
+			 <unittitle>Plot 12. 
+				<unitdate type="inclusive" normal="">December 12-17,
+				  1984</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">11</container> 
+			 <unittitle>Plot 14. 
+				<unitdate type="inclusive" normal="1906">February 26,
+				  1906</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">11</container> 
+			 <unittitle>Plot 14. 
+				<unitdate type="inclusive" normal="1969">Aprill 2,
+				  1969</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">11</container> 
+			 <unittitle>Plot 14. 
+				<unitdate type="inclusive" normal="">April 11-13,
+				  1978</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">11</container> 
+			 <unittitle>Plot 14. 
+				<unitdate type="inclusive" normal="1978">April 11,
+				  1978</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">11</container> 
+			 <unittitle>Plot 14. 
+				<unitdate type="inclusive" normal="1985">April 9,
+				  1985</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">12</container> 
+			 <unittitle>Plot 15. 
+				<unitdate type="inclusive" normal="1910">May
+				  1910</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">12</container> 
+			 <unittitle>Plot 15. 
+				<unitdate type="inclusive" normal="1928">November 3,
+				  1928</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">12</container> 
+			 <unittitle>Plot 15. 
+				<unitdate type="inclusive" normal="1936">February 17,
+				  1936</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">12</container> 
+			 <unittitle>Plot 15. 
+				<unitdate type="inclusive" normal="1936">July
+				  1936</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">12</container> 
+			 <unittitle>Plot 15. 
+				<unitdate type="inclusive" normal="1959">November
+				  1959</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">12</container> 
+			 <unittitle>Plot 15. 
+				<unitdate type="inclusive" normal="1968">January 8,
+				  1968</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">12</container> 
+			 <unittitle>Plot 15. 
+				<unitdate type="inclusive" normal="1975">June
+				  1975</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">12</container> 
+			 <unittitle>Plot 15. 
+				<unitdate type="inclusive" normal="1978">April 21,
+				  1978</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">12</container> 
+			 <unittitle>Plot 15. 
+				<unitdate type="inclusive" normal="1984">December 18,
+				  1984</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">13</container> 
+			 <unittitle>Plot 16. 
+				<unitdate type="inclusive" normal="1906">November 1,
+				  1906</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">13</container> 
+			 <unittitle>Plot 16. 
+				<unitdate type="inclusive" normal="1928">November 25,
+				  1928</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">13</container> 
+			 <unittitle>Plot 16. 
+				<unitdate type="inclusive" normal="1957">June 10,
+				  1957</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">13</container> 
+			 <unittitle>Plot 16. 
+				<unitdate type="inclusive" normal="">October 13-17,
+				  1959</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">13</container> 
+			 <unittitle>Plot 16. 
+				<unitdate type="inclusive" normal="1968">April 19,
+				  1968</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">13</container> 
+			 <unittitle>Plot 16. 
+				<unitdate type="inclusive" normal="1967">December 12,
+				  1967</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">13</container> 
+			 <unittitle>Plot 16. 
+				<unitdate type="inclusive" normal="1978">April 20,
+				  1978</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">13</container> 
+			 <unittitle>Plot 16. 
+				<unitdate type="inclusive" normal="1984">December 12,
+				  1984</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">14</container> 
+			 <unittitle>Plot 17. 
+				<unitdate type="inclusive" normal="1906">April 2,
+				  1906</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">14</container> 
+			 <unittitle>Plot 17. 
+				<unitdate type="inclusive" normal="1928">December 2,
+				  1928</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">14</container> 
+			 <unittitle>Plot 17. 
+				<unitdate type="inclusive" normal="1936">February 24,
+				  1936</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">14</container> 
+			 <unittitle>Plot 17. 
+				<unitdate type="inclusive"
+				 normal="1948">1948</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">15</container> 
+			 <unittitle>Area B General: Legend, small sketches. 
+				<unitdate type="inclusive"
+				 normal="1928/1978">1928-1978</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">16</container> 
+			 <unittitle>Area B-1. 
+				<unitdate type="inclusive"
+				 normal="1928">1928</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">16</container> 
+			 <unittitle>Area B-1. 
+				<unitdate type="inclusive" normal="1936">March 16,
+				  1936</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">16</container> 
+			 <unittitle>Area B-1. 
+				<unitdate type="inclusive"
+				 normal="1948">1948</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">16</container> 
+			 <unittitle>Area B-1. 
+				<unitdate type="inclusive" normal="1957">March 26,
+				  1957</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">16</container> 
+			 <unittitle>Area B-1. 
+				<unitdate type="inclusive" normal="1968">January 12,
+				  1968</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">16</container> 
+			 <unittitle>Area B-1. 
+				<unitdate type="inclusive" normal="1978">February 15,
+				  1978</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">16</container> 
+			 <unittitle>Area B-1. 
+				<unitdate type="inclusive" normal="1984">June 1,
+				  1984</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">17</container> 
+			 <unittitle>Area B-2. 
+				<unitdate type="inclusive"
+				 normal="1928">1928</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">17</container> 
+			 <unittitle>Area B-2. 
+				<unitdate type="inclusive" normal="1936">March 17,
+				  1936</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">17</container> 
+			 <unittitle>Area B-2. 
+				<unitdate type="inclusive" normal="1948">February 13,
+				  1948</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">17</container> 
+			 <unittitle>Area B-2. 
+				<unitdate type="inclusive" normal="1957">April 8,
+				  1957</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">17</container> 
+			 <unittitle>Area B-2. 
+				<unitdate type="inclusive" normal="1968">January 12,
+				  1968</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">17</container> 
+			 <unittitle>Area B-2. 
+				<unitdate type="inclusive" normal="1978">February 22,
+				  1978</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">17</container> 
+			 <unittitle>Area B-2. 
+				<unitdate type="inclusive" normal="1984">June 14,
+				  1984</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">18</container> 
+			 <unittitle>Area B-3. 
+				<unitdate type="inclusive"
+				 normal="1928">1928</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">18</container> 
+			 <unittitle>Area B-3. 
+				<unitdate type="inclusive" normal="1936">March 16,
+				  1936</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">18</container> 
+			 <unittitle>Area B-3. 
+				<unitdate type="inclusive"
+				 normal="1948">1948</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">18</container> 
+			 <unittitle>Area B-3. 
+				<unitdate type="inclusive" normal="1957">April 22,
+				  1957</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">18</container> 
+			 <unittitle>Area B-3. 
+				<unitdate type="inclusive" normal="1968">January 12,
+				  1968</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">18</container> 
+			 <unittitle>Area B-3. 
+				<unitdate type="inclusive" normal="1978">February 22,
+				  1978</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">18</container> 
+			 <unittitle>Area B-3. 
+				<unitdate type="inclusive" normal="1984">June 14,
+				  1984</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">19</container> 
+			 <unittitle>Area B-4. 
+				<unitdate type="inclusive"
+				 normal="1928">1928</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">19</container> 
+			 <unittitle>Area B-4. 
+				<unitdate type="inclusive" normal="1936">March 17,
+				  1936</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">19</container> 
+			 <unittitle>Area B-4. 
+				<unitdate type="inclusive" normal="1948">March 4,
+				  1948</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">19</container> 
+			 <unittitle>Area B-4. 
+				<unitdate type="inclusive" normal="1957">April 12,
+				  1957</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">19</container> 
+			 <unittitle>Area B-4. 
+				<unitdate type="inclusive" normal="1968">January 12,
+				  1968</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">19</container> 
+			 <unittitle>Area B-4. 
+				<unitdate type="inclusive" normal="1978">March 23,
+				  1978</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">19</container> 
+			 <unittitle>Area B-4. 
+				<unitdate type="inclusive" normal="1984">June 14,
+				  1984</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">20</container> 
+			 <unittitle>Area B-5. 
+				<unitdate type="inclusive"
+				 normal="1928">1928</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">20</container> 
+			 <unittitle>Area B-5. 
+				<unitdate type="inclusive" normal="1936">March 4,
+				  1936</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">20</container> 
+			 <unittitle>Area B-5. 
+				<unitdate type="inclusive" normal="1948">February 14,
+				  1948</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">20</container> 
+			 <unittitle>Area B-5. 
+				<unitdate type="inclusive" normal="1957">April 25,
+				  1957</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">20</container> 
+			 <unittitle>Area B-5. 
+				<unitdate type="inclusive" normal="1968">January 15,
+				  1968</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">20</container> 
+			 <unittitle>Area B-5. 
+				<unitdate type="inclusive" normal="1978">March 28,
+				  1978</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">20</container> 
+			 <unittitle>Area B-5. 
+				<unitdate type="inclusive" normal="1984">June 15,
+				  1984</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">21</container> 
+			 <unittitle>Area B-6. 
+				<unitdate type="inclusive"
+				 normal="1928">1928</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">21</container> 
+			 <unittitle>Area B-6. 
+				<unitdate type="inclusive" normal="1936">March 10,
+				  1936</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">21</container> 
+			 <unittitle>Area B-6. 
+				<unitdate type="inclusive"
+				 normal="1948">1948</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">21</container> 
+			 <unittitle>Area B-6. 
+				<unitdate type="inclusive" normal="1957">May 16,
+				  1957</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">21</container> 
+			 <unittitle>Area B-6. 
+				<unitdate type="inclusive" normal="1968">January 15,
+				  1968</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">21</container> 
+			 <unittitle>Area B-6. 
+				<unitdate type="inclusive" normal="1978">March 29,
+				  1978</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">21</container> 
+			 <unittitle>Area B-6. 
+				<unitdate type="inclusive" normal="1984">June 15,
+				  1984</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">22</container> 
+			 <unittitle>Area B-7. 
+				<unitdate type="inclusive"
+				 normal="1928">1928</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">22</container> 
+			 <unittitle>Area B-7. 
+				<unitdate type="inclusive" normal="1936">March 4,
+				  1936</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">22</container> 
+			 <unittitle>Area B-7. 
+				<unitdate type="inclusive"
+				 normal="1948">1948</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">22</container> 
+			 <unittitle>Area B-7. 
+				<unitdate type="inclusive" normal="1957">April 27,
+				  1957</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">22</container> 
+			 <unittitle>Area B-7. 
+				<unitdate type="inclusive" normal="1968">January 15,
+				  1968</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">22</container> 
+			 <unittitle>Area B-7. 
+				<unitdate type="inclusive" normal="1978">March 28,
+				  1978</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">22</container> 
+			 <unittitle>Area B-7. 
+				<unitdate type="inclusive" normal="1984">June 14,
+				  1984</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">23</container> 
+			 <unittitle>Area B-8. 
+				<unitdate type="inclusive"
+				 normal="1928">1928</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">23</container> 
+			 <unittitle>Area B-8. 
+				<unitdate type="inclusive" normal="1936">March 10,
+				  1936</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">23</container> 
+			 <unittitle>Area B-8. 
+				<unitdate type="inclusive" normal="1948">February 28,
+				  1948</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">23</container> 
+			 <unittitle>Area B-8. 
+				<unitdate type="inclusive" normal="1957">June 3,
+				  1957</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">23</container> 
+			 <unittitle>Area B-8. 
+				<unitdate type="inclusive" normal="1968">January 15,
+				  1968</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">23</container> 
+			 <unittitle>Area B-8. 
+				<unitdate type="inclusive" normal="1978">March 29,
+				  1978</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> <container
+			 type="folder">23</container> 
+			 <unittitle>Area B-8. 
+				<unitdate type="inclusive" normal="1984">June 15,
+				  1984</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+  </dsc> 
+</archdesc></ead>

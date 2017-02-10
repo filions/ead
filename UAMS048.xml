@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+   <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0"> 
+      <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special Collections//text
+		(US::AzU::Fort Vancouver (Washington) records)//en""UAMS048.xml"
+      </eadid> 
+      <filedesc> 
+         <titlestmt> 
+         	<titleproper encodinganalog="title">Fort Vancouver (Washington) records
+	 	       <date normal="1854/1866" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">1854-1866</date>
+	 	       <!-- BE SURE TO POPULATE "date normal= "YYYY/YYYY" attribute. PLACE ATTRIBUTE DATES BETWEEN "   " -->
+	 	    </titleproper>
+         	<titleproper type="filing" altrender="nodisplay"> Fort Vancouver (Washington) records
+	 	    <!-- [IF AN INDIVIDUAL IS ASSOCIATED LIST LAST NAME, (FIRST NAME MIDDLE INITIAL.) i.e. Flannery, (John S.) COLLECTION DESCRIPTION] OR 
+	 	    [IF NO SPECIFIC PERSON IS ASSOCIATED LIST THE COLLECTION NAME AND DESCRIPTION (i.e. International Student Council general files) -->
+            </titleproper>
+	        <author>Processed by Staff.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date normal= "2016" era= "ce" calendar = "gregorian">; 2016</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+            <date era="ce" encodinganalog="date" normal="20160413">April 13, 2016</date>
+  	     </creation><!-- BE SURE TO POPULATE "date normal= YYYYMMDD" attribute. PLACE ATTRIBUTE DATES BETWEEN "  " -->
+	     <langusage>Finding aid encoded in<language> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc>
+   </eadheader> 
+   <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+      <did id="a1"> 
+         <head>Collection Summary</head> 
+      	<unittitle encodinganalog="245" label="Collection Name:"> Fort Vancouver (Washington) records
+            <unitdate type="inclusive" label="Dates:" normal="1854/1866">1854-1866</unitdate>
+  	     </unittitle><!-- BE SURE TO POPULATE "Dates normal= yyyy/yyyy" attribute.  PLACE ATTRIBUTE DATES BETWEEN "  " -->	 
+	     <unitid label="Collection Number:" encodinganalog="099" repositorycode="AzU" countrycode="us">MS 048</unitid>
+	     <origination label="Creator:"> 
+            <corpname source="lcnaf" encodinganalog="110">Fort Vancouver (Wash.)</corpname> 
+	     </origination> <!-- CHANGE TAG TO CORPNAME, IF CREATOR IS A COROPORATION/ BUSINESS ETC.  CHANGE "100" ATTRIBUTE TO 110-->
+      	<abstract label="Abstract:">Located at the border of Washington and Oregon, it was a Hudson Bay Company trading post from 1829-1846. One portfolio containing printed 
+      								and holographic items related primarily to the 4th Infantry, based at Fort Vancouver. The earliest material consists of nine monthly post 
+      								returns from 1854, signed by the commanding officer, Lt. Col. Benjamin Louis Eulalie de Bonneville. These post returns list officers by name; 
+      								enlisted men by count; civil employees, their duties, and rate of pay; official communications received; also the names of anyone sick, or in 
+      								confinement for desertion. A food survey report from 1856 is concerned with rotten pork, hard bread, and moldy coffee. Later correspondence, 
+      								special orders, and general orders date from 1860 to 1866.</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description:"><extent>.1 linear feet</extent></physdesc>	 
+	     <repository label="Repository:"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng" scriptcode="Latin">English.</language></langmaterial>
+   	        <!-- CHANGE OR ADD FIELD IF MATERIALS ARE IN OTHER LANGUAGES. BE SURE TO CHANGE langcode "" ATTRIBUTE-->
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+         <p>There are no restrictions on this collection.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+      	<p>Fort Vancouver (Washington) records (MS 048). Special Collections, University of Arizona Libraries.</p>
+      </prefercite> 
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Staff.</p>
+      </processinfo>
+      <bioghist id="a2" encodinganalog="545"> 
+         <head>Biographical Note</head> 
+      	<p>Located at the border of Washington and Oregon, it was a Hudson Bay Company trading post from 1829-1846. Established by the U.S. Army as Columbia Barracks in 1849,
+      	it was renamed Fort Vancouver in 1853, and officially designated Vancouver Barracks in 1879. In the 1860&apos;s, it served as headquarters for the District of Oregon, re-
+      	designated the Department of the Columbia in 1865.</p> 
+      </bioghist> 
+      <arrangement id="a4" encodinganalog="351$a"> 
+         <head>Arrangement</head> 
+  	     <p>This collection is organized chronologically and by infantry unit.</p>
+      </arrangement> 
+      <scopecontent id="a3" encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>One portfolio containing printed and holographic items related primarily to the 4th Infantry, based at Fort Vancouver. The earliest material consists of nine monthly
+      	post returns from 1854, signed by the commanding officer, Lt. Col. Benjamin Louis Eulalie de Bonneville. These post returns list officers by name; enlisted men by count; 
+      	civil employees, their duties, and rate of pay; official communications received; also the names of anyone sick, or in confinement for desertion. A food survey report from 
+      	1856 is concerned with rotten pork, hard bread, and moldy coffee. Later correspondence, special orders, and general orders date from 1860 to 1866. Most are directed from 
+      	Vancouver Barracks to Fort Yamhill, Oregon; some of these concern the Blockhouse on the Siletz Reservation. Unrelated Civil War material from 1862 consists of official 
+      	correspondence, telegrams, and orders pertaining to the 14th U.S. Infantry, Army of the Potomac, stationed at Fort Trumbull, Conn., and in the field in Virginia.  
+      	The majority are signed by Lorenzo Thomas, Adjutant General, Washington, D.C.</p> 
+      </scopecontent>
+      <controlaccess>
+         <head>Access Terms</head>
+         <list type="simple"> <!-- USE SOURCE OR RULES ELEMENT Source=lcnaf or lcsh; Rules=aacr2 or dacs or local.  BE SURE TO CHANGE encodinganalog="  " ATTRIBUTE. ALSO, BE SURE TO DELETE ANY TAGS YOU DO NOT USE-->
+            <item>
+               <persname encodinganalog="600" source= "lcnaf">Bonneville, Benjamin Louis Eulalie de, 1796-1878.</persname><!-- 600 Creator; 700 Contributor -->
+  		    </item>
+         	<item>
+         		<persname encodinganalog="600" source= "lcnaf">Thomas, Lorenzo, 1804-1875.</persname><!-- 600 Creator; 700 Contributor -->
+         	</item>
+         	<item>
+         		<corpname encodinganalog="610" source= "lcnaf">Fort Trumbull (Conn.)</corpname><!-- 610 regular; 611 conference; 710 contributor; 711 conference contributor -->
+         	</item>
+  		    <item>
+  			   <corpname encodinganalog="610" source= "lcnaf">United States. Army -- History -- 19th century -- Sources.</corpname><!-- 610 regular; 611 conference; 710 contributor; 711 conference contributor -->
+  		    </item>
+         	<item>
+         		<corpname encodinganalog="610" source= "lcnaf">United States. Army. Infantry, 4th.</corpname><!-- 610 regular; 611 conference; 710 contributor; 711 conference contributor -->
+         	</item>
+         	<item>
+         		<corpname encodinganalog="610" source= "lcnaf">United States. Army. Infantry, 14th.</corpname><!-- 610 regular; 611 conference; 710 contributor; 711 conference contributor -->
+         	</item>
+  		    <item>
+  			   <subject encodinganalog="650" source= "lcsh">Fortification -- Washington (State) -- History -- 19th century -- Sources.</subject>
+  		    </item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Frontier and pioneer life -- Oregon -- History.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Frontier and pioneer life -- Washington (State) -- Sources.</subject>
+         	</item>
+  		    <item>
+  			   <geogname encodinganalog="651" source="lcsh">Fort Yamhill (Or.)</geogname>
+  		    </item>
+         	<item>
+         		<geogname encodinganalog="651" source="lcsh">Siletz Indian Reservation (Or.) -- History -- 19th century.</geogname>
+         	</item>
+         	<item>
+         		<geogname encodinganalog="651" source="lcsh">United States -- History -- Civil War, 1861-1865 -- Sources.</geogname>
+         	</item>
+         </list>
+      </controlaccess> 
+   </archdesc>
+</ead>

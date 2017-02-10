@@ -1,0 +1,2099 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0"> 
+  <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special Collections//text(US::AzU::Henry "Hank" Oyama Papers)//en" "MS448.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper>Henry “Hank” Oyama Papers, 
+		  <date normal="1945/2003">1945-2003(Bulk 1973-1980; 1991-2002)</date></titleproper> 
+	 <author>Inventory prepared by Lena Grijalva.</author>
+	 </titlestmt> 
+	 <publicationstmt> 
+		<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		  		</address> 
+		<date normal="2011">&#x00A9; 2011</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation>Inventory encoded in Oxygen XML editor by Lena Grijalva <date>August 18, 2011</date></creation> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+  	<titleproper>Henry “Hank” Oyama Papers, 
+		<date normal="1943/2003">1943-2003</date></titleproper> 
+	 <num>Collection Number: MS448</num> 
+	 <publisher>University of Arizona Library Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Lena Grijalva</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+		  	 <date>August 18, 2011</date></item>			 	
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Lena Grijalva</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 2011. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name:"> Henry “Hank” Oyama Papers
+		<unitdate type="inclusive" label="Dates:" normal=" 1943/2003">1943-2003</unitdate>
+  	    <unitdate type="bulk" label="Dates:" normal=" 1973/1980; 1991/2002">bulk 1973-1980; 1991-2002</unitdate></unittitle>
+	 <unitid label="Collection Number:" encodinganalog="099" repositorycode="AzU" countrycode="us">MS 448</unitid> 
+	 <origination label="Creator:"><persname encodinganalog="100">Oyama, Henry</persname>
+		 </origination>   	  
+    	<abstract label="Abstract:">This collection contains the papers of Henry “Hank” Oyama that relates to his pioneering work in bilingual education in the Tucson area.  Of particular interest are documents that discuss his work in bilingual education at Pima Community College.  Included in the collection are newspaper clippings, correspondence, bilingual education research, and conference papers.  There are also several publications related to Pima Community College and bilingual institutions in the greater Tucson area.
+    	</abstract>
+          <physdesc encodinganalog="300$a" label="Physical Description:"><extent>7.5 linear feet</extent></physdesc>
+  	<langmaterial>Material in <language encodinganalog="546" langcode="eng"
+  		scriptcode="Latn">English</language> and <language encodinganalog="546" langcode="spa">Spanish</language></langmaterial>
+	 <repository label="Repository:">
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		  
+		</address></repository> 
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+	 <p>None</p>
+  	</accessrestrict>
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>Henry “Hank” Oyama Papers(448). University of Arizona Library Special
+		Collections.</p> 
+  </prefercite>
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+  	<p>Henry “Hank” Oyama was born in 1926 and grew up in Mexico.  He is of Japanese descent, and his first language is Spanish.  His father died before he was born, and he was raised by his mother and maternal grandfather in Nogales.  When his grandfather passed away, he and his mother moved to Tucson where they lived until the Japanese bombed Pearl Harbor in 1941.  Oyama was fifteen years old at this time, and he and his mother were interned in concentration camps along with thousands of other Japanese and Japanese Americans.  After the release of the internees, Oyama and his mother moved to Excelsior Springs, MO.  Upon graduation from high school, he enlisted in the U.S. Army, and he was assigned to the Panama Canal Zone because his first language was Spanish.</p><p>In 1947, Oyama left the army and returned to civilian life where he earned a BA and MA in Education from the University of Arizona.  Throughout college he worked for Tucson Newspapers, Inc.  In 1952, he began his teaching career at Safford Junior High School in Tucson.  Three years later, Oyama began his efforts in bilingual education when he was selected as a faculty member at the brand new Pueblo High School.  At Pueblo, Oyama designed and executed a plan to teach both Spanish and English to native Spanish speakers. Through this program, he became involved with two U.S. senators who introduced national legislation to provide funding for bilingual education.  At the age of 33, Oyama fell in love with Mary Ann Jordan.  However, there was still a law in effect that banned marriage between Asians and Caucasians.  After taking their battle to court, the two were married in 1959.  Their first child died of leukemia, and they went on to adopt four children. They were married until Mary Ann’s death from heart failure in 1987 at the age of 55.</p>
+ <p>In 1970, he left Pueblo High School and began working for the Bilingual and International Studies at Pima Community College, becoming the dean of that program in 1978.  He retired after 22 years at Pima Community College.</p>
+  	</bioghist>
+  	<arrangement id="a4" encodinganalog="351$a"> 
+	 	 <p>This collection is organized into 6 series. </p>
+	 	 <list> 
+	 	    <item>Series I: Correspondence<unitdate certainty="approximate" normal="1945/2000">1945-2000s</unitdate></item>
+	 	    <item>Series II: Reports and Forms<unitdate certainty="approximate" normal="1960/2000">1960s-2001</unitdate></item>
+	 	    <item>Series III: Conferences, Meetings, and Events<unitdate normal="1966/2000">1966-2000</unitdate></item>
+	 	    <item>Series IV: Articles<unitdate normal="1967/2003">1967-2003</unitdate></item>
+	 	    <item>Series V: Newsletters<unitdate>1947, 1972-2000</unitdate></item>	
+	 	    <item>Series VI: Publications<unitdate>1943, 1945, 1947, 1968-2003</unitdate></item>
+	 </list> 
+  </arrangement> 
+  <scopecontent encodinganalog="520"> 
+  	<head>Scope and Content Note</head>
+	  	<p>This collection contains correspondence; reports; files related to conferences and events; journal and newspaper articles; and publications.  The time period represented in the collection is 1945-2003, but the bulk of the items are from 1973-1980 and 1991-2002.  Most materials relate to Henry “Hank” Oyama’s involvement in the bilingual education movement in the Tucson area as well as his work for general Mexican-American rights.  Reports and research for the reports make up the largest series in the collection.  The reports are from all over the United States and relate to bilingual education and Hispanic issues.  Of note in this series are Oyama’s handwritten notes referring to some of these reports.  There is also a large amount of material dedicated to the English Only/English Plus More debates of the 1990s in Arizona.</p> 
+  </scopecontent>
+  <controlaccess id="a12">
+  	 <head>Access Terms</head>
+  	<list>
+  		<item><subject encodinganalog="600" source="lcsh">Oyama, Henry,1926-</subject></item>
+  		<item><subject encodinganalog="650" source="lcsh">Education, Bilingual</subject></item>
+  		<item><subject encodinganalog="650" source="lcsh">Education, Bilingual – Arizona</subject></item> 
+  		<item><subject encodinganalog="650" source="lcsh">Bilingualism</subject></item>	 
+  		<item><subject encodinganalog="650" source="lcsh">English-only movement</subject></item>  
+	 	    <item><subject encodinganalog="650" source="lcsh">Mexican Americans – Arizona – Tucson</subject>
+	 	    	<subject encodinganalog="650" source="lcsh">Education – Arizona – Tucson</subject></item></list>
+         </controlaccess>
+         	<dsc type="combined" id="a23" encodinganalog="">
+	 	       <c01 level="series">
+	    	<did><unittitle>Series I: Correspondence</unittitle><unitdate type="inclusive" normal="1945/2000s
+			" certainty="approximate">1945-2000s</unitdate></did>
+	    	<arrangement><p>This series is arranged alphabetically by subject and then chronologically by date.  It contains letters to and from Henry Oyama during the war and throughout his career as an educator.</p></arrangement> 	
+			<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <container type="folder">1</container> 
+		  	<unittitle>Confidential Info for Retirees</unittitle>
+			
+		  </did> 
+			</c02> 
+	 	       	<c02 level="file">
+	 	  <did> <container type="box">1</container>  
+	 	  	  <container type="folder">2</container>
+	 	  	<unittitle>Congreso, Jorge, Pepe, Alfredo</unittitle>
+	 	  </did>
+	 	       	</c02>
+	 	       	    <c02 level="file">
+	 	   <did> <container type="box">1</container>
+	 	   	    <container type="folder">3</container>
+	 	   <unittitle>Correspondence</unittitle><unitdate normal="194508/197709">Aug. 1945-Sept.1977</unitdate>
+	 	   </did>
+	 	       	    </c02>
+	 	       	<c02 level="file">
+	 	   	<did> <container type="box">1</container>
+	 	   	      <container type="folder">4</container>	
+	 	   		<unittitle>Correspondence</unittitle><unitdate normal="197902/199206">Feb. 1979-June 1992</unitdate>
+	 	   		</did>
+	 	       	    </c02>
+	 	       <c02 level="file">
+	 	       	<did> <container type="box">1</container>
+	 	       		  <container type="folder">5</container>
+	 	       		<unittitle>Correspondence</unittitle><unitdate normal="199207/199901">July 1992-Jan. 1999</unitdate>
+	 	       	</did>
+	 	       </c02>
+	 	       	<c02 level="file">
+	 	      <did> <container type="box">1</container>
+	 	            <container type="folder">6</container>	
+	 	      	<unittitle>Correspondence</unittitle><unitdate normal="199901/2000" certainty="approximate">Jan. 1999-2000s</unitdate>	
+	 	      </did>
+	 	    		 	      
+	 	       	</c02>
+	 	       	<c02 level="file">
+	 	       		<did> <container type="box">1</container>
+	 	       		     <container type="file">7</container>
+	 	       			<unittitle>Correspondence</unittitle><unitdate>undated</unitdate>	
+	 	       		</did>
+	 	       	</c02>
+	 	       	<c02 level="file">
+	 	       		<did> <container type="box">1</container>
+	 	       			<container type="folder">8</container>	
+	 	       			<unittitle>Folklorico Meeting/Funding Req.</unittitle><unitdate normal="1973">1973</unitdate>
+	 	       		</did>
+	 	       	</c02>
+	 	       	<c02 level="file">
+	 	       		<did> <container type="box">1</container>
+	 	       			<container type="folder">9</container>	
+	 	       			<unittitle>Garcia, George</unittitle>
+	 	       		</did>
+	 	       	</c02>
+	 	       	<c02 level="file">
+	 	       		<did> <container type="box">1</container>
+	 	       			<container type="folder">10</container>	
+	 	       			<unittitle>Letters of Acceptance B. B. Summer Institute "73 </unittitle>
+	 	       		</did>
+	 	       	</c02>
+	 	       	<c02 level="file">
+	 	       		<did> <container type="box">1</container>
+	 	       			<container type="folder">11</container>	
+	 	       			<unittitle>Letters of Support for Bilingual Program </unittitle><unitdate normal="1974">(1974)</unitdate>
+	 	       		</did>
+	 	       	</c02>
+	 	       	<c02 level="file">
+	 	       		<did> <container type="box">1</container>
+	 	       			<container type="folder">12</container>	
+	 	       			<unittitle>National Law Center for Inter-American Free Trade</unittitle>
+	 	       		</did>
+	 	       	</c02>
+	 	       	<c02 level="file">
+	 	       		<did> <container type="box">1</container>
+	 	       			<container type="folder">13</container>	
+	 	       			<unittitle>Need for Bilingual Secretaries</unittitle>
+	 	       		</did>
+	 	       	</c02>
+	 	       	<c02 level="file">
+	 	       		<did> <container type="box">1</container>
+	 	       			<container type="folder">14</container>	
+	 	       			<unittitle>Pima Community College Foundation, Hispanic Student Endowment Fund</unittitle>
+	 	       	 </did>			
+	 	       	</c02>
+	 	       	<c02 level="file">
+	 	       		<did> <container type="box">1</container>
+	 	       			<container type="folder">15</container>	
+	 	       			<unittitle>Sweetland, Monroe</unittitle>
+	 	       		</did>
+	 	       	</c02>
+	 	       	<c02 level="file">
+	 	       		<did> <container type="box">1</container>
+	 	       			<container type="folder">16</container>	
+	 	       			<unittitle>A Tapestry of Tucson</unittitle>
+	 	       		</did>
+	 	       	</c02>
+	 	       	<c02 level="file">
+	 	       		<did> <container type="box">1</container>
+	 	       			<container type="folder">17</container>	
+	 	       			<unittitle>The White House</unittitle><unitdate normal="19750519">May 19, 1975</unitdate>
+	 	       		</did>
+	 	       		</c02>
+	 	       </c01>
+         		<c01 level="series">
+         			<did><unittitle>Series II: Reports and Forms</unittitle><unitdate type="inclusive" normal="1960/2001" certainty="approximate">1960s-2001</unitdate></did>
+         			<arrangement><p>This series contains final reports, draft reports, and notes regarding research for reports on bilingual education and Hispanic issues.  Some of the reports are written by Henry Oyama, but the majority is reports from various organizations involved in bilingual education and Mexican-American rights.</p></arrangement>
+         			<c02 level="file">
+         				<did> <container type="box">2</container>
+         					<container type="folder">1</container>	
+         					<unittitle>“1-C” Program</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">2</container>
+         					<container type="folder">2</container>	
+         					<unittitle>Ad Hoc Committee on Diversity</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">2</container>
+         					<container type="folder">3</container>	
+         					<unittitle>Agreement for Corrective Action</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">2</container>
+         					<container type="folder">4</container>	
+         					<unittitle>Amphitheater Folklorico Board of Directors</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">2</container>
+         					<container type="folder">5</container>	
+         					<unittitle>Application for Employment Institutional Support Personnel at PCC – Urquides, Maria L</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">2</container>
+         					<container type="folder">6</container>	
+         					<unittitle>Arizona APS Economic Development Department</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">2</container>
+         					<container type="folder">7</container>	
+         					<unittitle>Ariz. Association of Mexican Amer. Educators (AAMAE)</unittitle><unitdate normal="1972">1972</unitdate>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">2</container>
+         					<container type="folder">8</container>	
+         					<unittitle>Ariz. Assoc. of Mexican Amer. Educators (AAMAE</unittitle><unitdate normal="1975">1975</unitdate>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">2</container>
+         					<container type="folder">9</container>	
+         					<unittitle>Bank of America Arizona 1994 Corporate Giving</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">2</container>
+         					<container type="folder">10</container>	
+         					<unittitle>The Biling and Int’l Prog. At PCC: A Successful Hybrid</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">2</container>
+         					<container type="folder">11</container>	
+         					<unittitle>Biling. Courses</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">2</container>
+         					<container type="folder">12</container>	
+         					<unittitle>Biling. Progs. and ESL</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">2</container>
+         					<container type="folder">13</container>	
+         					<unittitle>Bilingual Training Program</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">2</container>
+         					<container type="folder">14</container>	
+         					<unittitle>Bill to Amend Bilingual Education Act</unittitle><unitdate normal="1965">1965</unitdate>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">2</container>
+         					<container type="folder">15</container>	
+         					<unittitle>Diane V. Bissell/Raytheon; Sally Fernandez/Hughes</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">2</container>
+         					<container type="folder">16</container>	
+         					<unittitle>Budget Draft</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">2</container>
+         					<container type="folder">17</container>	
+         					<unittitle>C. E. Rose, Robison/TUSD Biling. Educ</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">2</container>
+         					<container type="folder">18</container>	
+         					<unittitle>Centro NAFIN para el Desarrollo de la Micro y Pequeña Empresa</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">2</container>
+         					<container type="folder">19</container>	
+         					<unittitle>Coalition for Language Educ</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">2</container>
+         					<container type="folder">20</container>	
+         					<unittitle>Combined Surveys, Conditions of Work for Quality Teaching, TEA</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">2</container>
+         					<container type="folder">21</container>	
+         					<unittitle>Community as Resource for Minority Language Learning</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">2</container>
+         					<container type="folder">22</container>	
+         					<unittitle>CONALEP Automotive Prog</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">2</container>
+         					<container type="folder">23</container>	
+         					<unittitle>El Concilio para la Unidad Mexico Americana</unittitle></did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">2</container>
+         					<container type="folder">24</container>	
+         					<unittitle>Congreso – General Info</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">2</container>
+         					<container type="folder">25</container>	
+         					<unittitle>Dir., Biling. Educ. (Interview Questions)</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">2</container>
+         					<container type="folder">26</container>	
+         					<unittitle>Educ. Center South – MDES</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">2</container>
+         					<container type="folder">27</container>	
+         					<unittitle>Employee Evaluation – Oyama, Hank</unittitle><unitdate normal="1977">1977</unitdate>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">2</container>
+         					<container type="folder">28</container>	
+         					<unittitle>Eng. For the Children</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">2</container>
+         					<container type="folder">29</container>	
+         					<unittitle>Eng. Plus More</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">3</container>
+         					<container type="folder">1</container>	
+         					<unittitle>English Plus More Mission Statement</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">3</container>
+         					<container type="folder">2</container>	
+         					<unittitle>Fellowship Program</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">3</container>
+         					<container type="folder">3</container>	
+         					<unittitle>Fimbres, Richard</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">3</container>
+         					<container type="folder">4</container>	
+         					<unittitle>Fiscal Year 1971 EPDA Projects in support of bilingual education</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">3</container>
+         					<container type="folder">5</container>	
+         					<unittitle>Folklorico Infantil</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">3</container>
+         					<container type="folder">6</container>	
+         					<unittitle>Frederic Burk Foundation for Education at San Francisco State University</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">3</container>
+         					<container type="folder">7</container>	
+         					<unittitle>Goals</unittitle><unitdate normal="1980/1981">1980-1981</unitdate>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">3</container>
+         					<container type="folder">8</container>	
+         					<unittitle>Goal Synthesis Process for Bilingual-Bicultural Education Using a Modified Delphi Technique</unittitle><unitdate normal="1972">1972</unitdate>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">3</container>
+         					<container type="folder">9</container>	
+         					<unittitle>Graduate and Undergraduate International Studies Program Development</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">3</container>
+         					<container type="folder">10</container>	
+         					<unittitle>Grupo Folklorico de Pima College, performances, list of members</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">3</container>
+         					<container type="folder">11</container>	
+         					<unittitle>Hernandez, Angel</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">3</container>
+         					<container type="folder">12</container>	
+         					<unittitle>Higher Education Leadership Program</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">3</container>
+         					<container type="folder">13</container>	
+         					<unittitle>Hispanic Businessmen PCC OBIS Biling. Admin. Prog</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">3</container>
+         					<container type="folder">14</container>	
+         					<unittitle>Hispanic Professional Action Committee</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">3</container>
+         					<container type="folder">15</container>	
+         					<unittitle>Hispanic Student Endowment Fund Select Committee</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">3</container>
+         					<container type="folder">16</container>	
+         					<unittitle>Hispanic Studies</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">3</container>
+         					<container type="folder">17</container>	
+         					<unittitle>Hispanic Studies Grades K-12</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">3</container>
+         					<container type="folder">18</container>	
+         					<unittitle>ICEED, New Summit Info, memo from Miguel to Carol</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">3</container>
+         					<container type="folder">19</container>	
+         					<unittitle>Implementation of Prop 203</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">3</container>
+         					<container type="folder">20</container>	
+         					<unittitle>Individual Member Form</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">3</container>
+         					<container type="folder">21</container>	
+         					<unittitle>The Initiative</unittitle>
+         				</did>
+         			</c02>
+           			<c02 level="file">
+         				<did> <container type="box">4</container>
+         					<container type="folder">1</container>	
+         					<unittitle>Instituto de Folklore Mexicano</unittitle>
+         				</did>
+           			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">4</container>
+         					<container type="folder">2</container>	
+         					<unittitle>Interim Report</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">4</container>
+         					<container type="folder">3</container>	
+         					<unittitle>Interim Report Revised Grant</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">4</container>
+         					<container type="folder">4</container>	
+         					<unittitle>International Center for Higher Education and Philanthropy</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">4</container>
+         					<container type="folder">5</container>	
+         					<unittitle>International Consortium for Educational and Economic Development, Annual 
+         						Report of Activities of the Executive Directory
+         					</unittitle><unitdate normal="19930123">Jan. 23, 1993</unitdate>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">4</container>
+         					<container type="folder">6</container>	
+         					<unittitle>Introducing the Sunnyside Unified School District Foundation</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">4</container>
+         					<container type="folder">7</container>	
+         					<unittitle>The Invisible Minority</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">4</container>
+         					<container type="folder">8</container>	
+         					<unittitle>Latino Adv. Comm.</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">4</container>
+         					<container type="folder">9</container>	
+         					<unittitle>Law and Poverty Class Project – Biling. Educ. In Tucson</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">4</container>
+         					<container type="folder">10</container>	
+         					<unittitle>Lemos, Alfonso</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">4</container>
+         					<container type="folder">11</container>	
+         					<unittitle>Lopez Plan</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">4</container>
+         					<container type="folder">12</container>	
+         					<unittitle>LULAC</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">4</container>
+         					<container type="folder">13</container>	
+         					<unittitle>LULAC</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">4</container>
+         					<container type="folder">14</container>	
+         					<unittitle>MACCA</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">4</container>
+         					<container type="folder">15</container>	
+         					<unittitle>MALDEF</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">4</container>
+         					<container type="folder">16</container>	
+         					<unittitle>MDES Decentralization Plan</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">4</container>
+         					<container type="folder">17</container>	
+         					<unittitle>MDES – Developmental Education</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">4</container>
+         					<container type="folder">18</container>	
+         					<unittitle>Mickolajak, Gary</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">4</container>
+         					<container type="folder">19</container>	
+         					<unittitle>Minera San Jorge S.A. de C.V.</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">4</container>
+         					<container type="folder">20</container>	
+         					<unittitle>Misconceptions – Biling. Educ</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">4</container>
+         					<container type="folder">21</container>	
+         					<unittitle>ML, BB TC Institute Schedules, 1973 Biling. Inst.</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">4</container>
+         					<container type="folder">22</container>	
+         					<unittitle>Molina, Marie Christina</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">4</container>
+         					<container type="folder">23</container>	
+         					<unittitle>MONTAL Educational Associates</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">4</container>
+         					<container type="folder">24</container>	
+         					<unittitle>National Ed. Task Force de la Raza</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">4</container>
+         					<container type="folder">25</container>	
+         					<unittitle>National Hispanic Scholarship Fund</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">4</container>
+         					<container type="folder">26</container>	
+         					<unittitle>National Law Center for Inter-American Free Trade</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">4</container>
+         					<container type="folder">27</container>	
+         					<unittitle>NEA – Tucson Survey on the Teaching of Spanish to the Spanish Speaking</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">5</container>
+         					<container type="folder">1</container>	
+         					<unittitle>New Mexico State University Program for the Department of Mexican-American 
+         						Community College Admins.
+         					</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">5</container>
+         					<container type="folder">2</container>	
+         					<unittitle>OBIS Survey</unittitle><unitdate normal="1984">1984</unitdate>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">5</container>
+         					<container type="folder">3</container>	
+         					<unittitle>OME Ad Hoc Panel Reports</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">5</container>
+         					<container type="folder">4</container>	
+         					<unittitle>Oyama, Henry’s Notes</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">5</container>
+         					<container type="folder">5</container>	
+         					<unittitle>PCC Biling. Educ. Development Prog., </unittitle><unitdate normal="1975/1976">1975-1976</unitdate>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">5</container>
+         					<container type="folder">6</container>	
+         					<unittitle>PCC Danforth Proposal (including El Paso and Cochise proposals)</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">5</container>
+         					<container type="folder">7</container>	
+         					<unittitle>PCC EPDA (Part D) Proposals, Guadalajara Institutes Phases II, III, and IV</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">5</container>
+         					<container type="folder">8</container>	
+         					<unittitle>PCC Hispanic Enrollment</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">5</container>
+         					<container type="folder">9</container>	
+         					<unittitle>PCCF Planned Giving Committee Report</unittitle><unitdate normal="19991215">Dec.15, 1999</unitdate>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">5</container>
+         					<container type="folder">10</container>	
+         					<unittitle>Peralta, Mike</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">5</container>
+         					<container type="folder">11</container>	
+         					<unittitle>A Personal Position Paper on Leadership</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">5</container>
+         					<container type="folder">12</container>	
+         					<unittitle>Las Posadas</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">5</container>
+         					<container type="folder">13</container>	
+         					<unittitle>Position paper</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">5</container>
+         					<container type="folder">14</container>	
+         					<unittitle>Prog. Eff.</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">5</container>
+         					<container type="folder">15</container>	
+         					<unittitle>Program Proposal to Assist in the Development of Mexican-American College Administrators</unittitle><unitdate normal="1972">1972</unitdate>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">5</container>
+         					<container type="folder">16</container>	
+         					<unittitle>Program META</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">5</container>
+         					<container type="folder">17</container>	
+         					<unittitle>Prop 227 The Initiative</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">5</container>
+         					<container type="folder">18</container>	
+         					<unittitle>Proposal for Biling. Educ. Prog. at Pima College</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">5</container>
+         					<container type="folder">19</container>	
+         					<unittitle>Proposal Outline for Biling. Educ. at Pima College</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">5</container>
+         					<container type="folder">20</container>	
+         					<unittitle>Recommendations for Bilingual Program by Pauline Kelzer, Dec. 6, 1973 mtg. and other Info.</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">5</container>
+         					<container type="folder">21</container>	
+         					<unittitle>Recommendations Regarding Biling. Courses at PCC</unittitle><unitdate normal="1999">1999</unitdate>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">6</container>
+         					<container type="folder">1</container>	
+         					<unittitle>A Relook at Tucson ’66 and Beyond, Albuquerque</unittitle><unitdate normal="19731128/197312">Nov.28-Dec. 1973</unitdate>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">6</container>
+         					<container type="folder">2</container>	
+         					<unittitle>Reports and Forms, Misc.</unittitle><unitdate normal="1963/199811">1963-Nov. 1998</unitdate>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">6</container>
+         					<container type="folder">3</container>	
+         					<unittitle>Reports and Forms, Misc. Nov. 1998-2000</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">6</container>
+         					<container type="folder">4</container>	
+         					<unittitle>Report on Failure/Success Rates of Bilingual Students in Higher Education</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">6</container>
+         					<container type="folder">5</container>	
+         					<unittitle>Revision: Bilingual Training and Curriculum Development</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">6</container>
+         					<container type="folder">6</container>	
+         					<unittitle>Rosas, Gilbert A</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">6</container>
+         					<container type="folder">7</container>	
+         					<unittitle>Rose Elem. Questionnaire</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">6</container>
+         					<container type="folder">8</container>	
+         					<unittitle>School Reports</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">6</container>
+         					<container type="folder">9</container>	
+         					<unittitle>John C. Scott/H.O.’s Bio, Ben Buehler Garcia fax #624-0955</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">6</container>
+         					<container type="folder">10</container>	
+         					<unittitle>Self-Identity: Minority Affairs Subcommittee</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">6</container>
+         					<container type="folder">11</container>	
+         					<unittitle>Southside Partnership Steering Committee</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">6</container>
+         					<container type="folder">12</container>	
+         					<unittitle>Summary of Recommendations for Change in the Biling. Educ. Program Pima College</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">6</container>
+         					<container type="folder">13</container>	
+         					<unittitle>A Tapestry of Tucson</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">6</container>
+         					<container type="folder">14</container>	
+         					<unittitle>Tapestry of Tucson African-American Contributions</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">6</container>
+         					<container type="folder">15</container>	
+         					<unittitle>Thomas, Wayne P. and Virginia P. Collier, George Mason Univ.</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">6</container>
+         					<container type="folder">16</container>	
+         					<unittitle>Title VI Int’l Proposal</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">6</container>
+         					<container type="folder">17</container>	
+         					<unittitle>Tohono O’Odham Resolution Navajo Nation Proposed Resolution</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">6</container>
+         					<container type="folder">18</container>	
+         					<unittitle>Training Program in Bilingual-Bicultural Education Final Report</unittitle><unitdate normal="19760630">June 30, 1976</unitdate>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">6</container>
+         					<container type="folder">19</container>	
+         					<unittitle>TUSD</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">6</container>
+         					<container type="folder">20</container>	
+         					<unittitle>TUSD Biling. Ed.</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">7</container>
+         					<container type="folder">1</container>	
+         					<unittitle>TUSD Dropout Rates</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">7</container>
+         					<container type="folder">2</container>	
+         					<unittitle>TUSD Hispanic Studies.</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">7</container>
+         					<container type="folder">3</container>	
+         					<unittitle>TUSD Parental Waivers Request, Effect of Prop 203 on Biling. Educ. and Teacher Training</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">7</container>
+         					<container type="folder">4</container>	
+         					<unittitle>Tucson Convention Center Commission</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">7</container>
+         					<container type="folder">5</container>	
+         					<unittitle>Tucson Metropolitan Chamber of Commerce</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">7</container>
+         					<container type="folder">6</container>	
+         					<unittitle>Tucson Rotary Club</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">7</container>
+         					<container type="folder">7</container>	
+         					<unittitle>TRS Prog.</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">7</container>
+         					<container type="folder">8</container>	
+         					<unittitle>TUSD Sch. Admin. Questionnaire</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">7</container>
+         					<container type="folder">9</container>	
+         					<unittitle>The University of Arizona Building the Future Class of 2007</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">7</container>
+         					<container type="folder">10</container>	
+         					<unittitle>University of California, Los Angeles: The Training of Mexican Americans for Leadership Roles in Community Colleges</unittitle>
+         				</did>
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">7</container>
+         					<container type="folder">11</container>	
+         					<unittitle>Useful Reports</unittitle>
+         				</did>
+         				
+         			</c02>
+         			<c02 level="file">
+         				<did> <container type="box">7</container>
+         					<container type="folder">12</container>	
+         					<unittitle>Viva Arizona</unittitle>
+         				</did>
+         			</c02>
+         			</c01>       		        	
+         		<c01 level="series">
+         			<did><unittitle>Series III: Conferences, Meetings, and Events</unittitle><unitdate type="inclusive" normal="1966/2000">1966-2000</unitdate></did>
+         				<scopecontent><p>This series includes minutes, programs, presentation notes, and invitations for various conferences, meetings, and events that Hank Oyama attended or participated in from the 1970s to the 2000s.  Most events are related to his work in bilingual education, but a small number are of a personal nature.</p></scopecontent>
+         			<c02 level="file">
+         				<did> <container type="box">7</container>
+         					<container type="folder">13</container>	
+         					<unittitle>1C</unittitle>
+         				</did></c02>
+         				
+         				<c02 level="file">
+         					<did> <container type="box">7</container>
+         						<container type="folder">14</container>	
+         						<unittitle>1st Nat’l Comm. and Jr. Col. Colloquium on Biling.-Bicultural Ed.</unittitle>
+         					</did></c02>
+         					
+         				<c02 level="file">
+         					<did> <container type="box">7</container>
+         							<container type="folder">15</container>	
+         							<unittitle>3rd Anniversary Recognition Day Program for the Dr. Martin Luther King, Jr. Student Center</unittitle>
+         					</did></c02>
+         						
+         				<c02 level="file">
+         					<did> <container type="box">7</container>
+         						<container type="folder">16</container>	
+         						<unittitle>12th Annual Serra Scramble and Priest Appreciation Dinner</unittitle>
+         					</did></c02>       						
+         				<c02 level="file">
+         					<did> <container type="box">7</container>
+         						<container type="folder">17</container>	
+         						<unittitle>15th Annual Bishop’s Scholarship Dinner,</unittitle><unitdate normal="19990924">September 24, 1999</unitdate>
+         					</did></c02>
+         								
+         				<c02 level="file">
+         					<did> <container type="box">7</container>
+         						<container type="folder">18</container>	
+         						<unittitle>25th Anniversary Dinner</unittitle>
+         					</did></c02>			
+         				<c02 level="file">
+         					<did> <container type="box">7</container>
+         						<container type="folder">19</container>	
+         						<unittitle>AACHE</unittitle>
+         					</did></c02>			
+         				<c02 level="file">
+         					<did> <container type="box">7</container>
+         						<container type="folder">20</container>	
+         						<unittitle>AACHE Celebration to Honor Eva Cota and Raquel Goldsmith</unittitle>
+         					</did></c02>
+         												
+         				<c02 level="file">
+         					<did> <container type="box">7</container>
+         						<container type="folder">21</container>	
+         						<unittitle>AACJC Convention Feb. 24-27, 1974, LTI Biling. Educators Wkshp. Feb. 28- Mar 1, 2, 1974</unittitle>
+         					</did></c02>							
+         			<c02 level="file">
+         				<did> <container type="box">7</container>
+         					<container type="folder">22</container>	
+         					<unittitle>AACJC Convention 1976, Wash., D.C., Mar 15-21, 1976 and CONAC Reception</unittitle>
+         				</did></c02>										
+         			<c02 level="file">
+         				<did> <container type="box">7</container>
+         					<container type="folder">23</container>	
+         					<unittitle>Acción ‘80s</unittitle>
+         				</did></c02>											
+         			<c02 level="file">
+         				<did> <container type="box">7</container>
+         				<container type="folder">24</container>	
+         					<unittitle>American Airlines Tickets</unittitle>
+         				</did></c02>										
+         			<c02 level="file">
+         				<did> <container type="box">8</container>
+         					<container type="folder">1</container>	
+         					<unittitle>Ariz. 1st Bilingual Institute</unittitle>
+         				</did></c02>												
+         			<c02 level="file">
+         				<did> <container type="box">8</container>
+         				<container type="folder">2</container>	
+         					<unittitle>Ariz. Association of Mexican American Educators (AAMAE)</unittitle>
+         				</did></c02>
+         																		
+         			<c02 level="file">
+         				<did> <container type="box">8</container>
+         					<container type="folder">3</container>	
+         					<unittitle>Arizona Education Association, Special Committee on Biling. Educ.</unittitle>
+         				</did></c02>
+         																			
+         			<c02 level="file">
+         			<did> <container type="box">8</container>
+         				<container type="folder">4</container>	
+         				<unittitle>Arizona Language Education Council (ALEC) Presentation to HPAC,</unittitle><unitdate normal="20000705">Wednesday July 5, 2000</unitdate>
+         			</did></c02>
+     	      	<c02 level="file">
+         					<did> <container type="box">8</container>
+         						<container type="folder">5</container>	
+         						<unittitle>Ariz. Parents</unittitle></did></c02>
+         		<c02 level="file">
+         						<did> <container type="box">8</container>
+         							<container type="folder">6</container>	
+         							<unittitle>Arizona Parents’ Right to Sch. Choice vs. Arizona’s English Only Initiative</unittitle></did></c02>
+         	<c02 level="file">
+         				<did> <container type="box">8</container>
+         				<container type="folder">7</container>	
+         			<unittitle>Asian Community</unittitle>
+         					</did></c02>
+         		<c02 level="file">
+         			<did> <container type="box">8</container>
+         					<container type="folder">8</container>	
+         				<unittitle>Asociacion de Charros de Tucson, 1977</unittitle></did></c02>
+         		<c02 level="file">
+         				<did> <container type="box">8</container>
+         					<container type="folder">9</container>	
+         					<unittitle>Bilingual Education 25 Year Anniversary Committee Meeting</unittitle></did></c02>
+         		<c02 level="file">
+         				<did> <container type="box">8</container>
+         					<container type="folder">10</container>	
+         					<unittitle>Biling. Educ. and School Choice Remarks by James Crawford</unittitle></did></c02>
+         		<c02 level="file">
+         				<did> <container type="box">8</container>
+         					<container type="folder">11</container>	
+         					<unittitle>Biling. Educ./Hispanic Studies and Second Language Acquisition Review Committee</unittitle></did></c02>
+         		<c02 level="file">
+         				<did> <container type="box">8</container>
+         					<container type="folder">12</container>	
+         					<unittitle>Bilingual/ESL Multi-Campus Meeting, Aug. 21, 1980</unittitle></did></c02>
+         		<c02 level="file">
+         				<did> <container type="box">8</container>
+         					<container type="folder">13</container>	
+         					<unittitle>Bilingual Pay Program</unittitle></did></c02>
+         	<c02 level="file">
+         				<did> <container type="box">8</container>
+         					<container type="folder">14</container>	
+         					<unittitle>BOG CONALEP Presentation</unittitle></did></c02>
+         	<c02 level="file">
+         			<did> <container type="box">8</container>
+         				<container type="folder">15</container>	
+         				<unittitle>Business Administration Dinner,</unittitle><unitdate normal="19820507">May 7, 1982</unitdate></did></c02>
+         	<c02 level="file">
+         			<did> <container type="box">8</container>
+         				<container type="folder">16</container>	
+         				<unittitle>The Celebration of the Marriage of Elizabeth Murfee and Dino DeConcini,</unittitle><unitdate normal="19981011">October 11, 1998</unitdate></did></c02>
+         	<c02 level="file">
+         			<did> <container type="box">8</container>
+         				<container type="folder">17</container>	
+         				<unittitle>El Centro Cultural Annual Meeting, April 11, 1998</unittitle></did></c02>
+         	<c02 level="file">
+         			<did> <container type="box">8</container>
+         				<container type="folder">18</container>	
+         				<unittitle>Ciudad Obregon Visit</unittitle></did></c02>
+         	<c02 level="file">
+         			<did> <container type="box">8</container>
+         				<container type="folder">19</container>	
+         				<unittitle>CONAC Curric Planning Conf. (Follow-up and Concluding Conf. of series of 
+         					conferences that included Queretoro and El Paso conferences)</unittitle></did></c02>
+         	<c02 level="file">
+         			<did> <container type="box">8</container>
+         				<container type="folder">20</container>	
+         				<unittitle>CONAC Meeting – Aug. 1974, Ajijic, Jalisco</unittitle></did></c02>
+         	<c02 level="file">
+         			<did> <container type="box">8</container>
+         				<container type="folder">21</container>	
+         				<unittitle>CONALEP Trip to Mex. City, June 20-24, 1992</unittitle></did></c02>
+         	<c02 level="file">
+         			<did> <container type="box">8</container>
+         				<container type="folder">22</container>	
+         				<unittitle>CONALEP Visit April 1992</unittitle></did></c02>
+         	<c02 level="file">
+         				<did> <container type="box">8</container>
+         					<container type="folder">23</container>	
+         					<unittitle>CONALEP Visit to PCC</unittitle></did></c02>
+         		<c02 level="file">
+         			<did> <container type="box">8</container>
+         				<container type="folder">24</container>	
+         				<unittitle>Congreso Board Mtg. May 28, 1974 Goleta, California</unittitle></did></c02>
+         			
+         	<c02 level="file">
+         				<did> <container type="box">8</container>
+         					<container type="folder">25</container>	
+         					<unittitle>Congreso Mtg. – Seattle Apr. 12, 1975</unittitle></did></c02>
+         	<c02 level="file">
+         					<did> <container type="box">8</container>
+         						<container type="folder">26</container>	
+         						<unittitle>El Congreso Nacional de Asuntos Colegiales: Parents – An Education Institute, Mar. 24-28, 1980</unittitle></did></c02>
+         	<c02 level="file">
+         			<did> <container type="box">8</container>
+         				<container type="folder">27</container>	
+         				<unittitle>Day of Dialog, SMCC</unittitle></did></c02>
+       		<c02 level="file">
+         			<did> <container type="box">8</container>
+         				<container type="folder">28</container>	
+         				<unittitle>De Concini, Dennis meeting</unittitle></did></c02>
+       		<c02 level="file">
+       				<did> <container type="box">8</container>
+       					<container type="folder">29</container>	
+       					<unittitle>Desert Vista Campus, 2nd Bilingual Festival</unittitle></did></c02>
+       		<c02 level="file">
+       				<did> <container type="box">8</container>
+       					<container type="folder">30</container>	
+       					<unittitle>Educational Services Staff Meeting, Sept. 8, 1980</unittitle></did></c02>
+       		<c02 level="file">
+       				<did> <container type="box">8</container>
+       					<container type="folder">31</container>	
+       					<unittitle>“English as a Second Language” Workshop</unittitle></did></c02>
+       		<c02 level="file">
+       				<did> <container type="box">9</container>
+       					<container type="folder">1</container>	
+       					<unittitle>Eng. Plus More Presentation</unittitle></did></c02>
+       			<c02 level="file">
+       				<did> <container type="box">9</container>
+       					<container type="folder">2</container>	
+       					<unittitle>EPDA Institute, 1973-74</unittitle></did></c02>
+       		<c02 level="file">
+       					<did> <container type="box">9</container>
+       						<container type="folder">3</container>	
+       						<unittitle>Fiesta de la Placita</unittitle></did></c02>
+     		<c02 level="file">
+       						<did> <container type="box">9</container>
+       							<container type="folder">4</container>	
+       							<unittitle>First Annual Ray Davies Luncheon, Educational Enrichment Foundation, October 20, 1999</unittitle></did></c02>
+       		<c02 level="file">
+       					<did> <container type="box">9</container>
+       						<container type="folder">5</container>	
+       						<unittitle>Golf for Education</unittitle></did></c02>
+       		<c02 level="file">
+       			<did> <container type="box">9</container>
+       				<container type="folder">6</container>	
+       				<unittitle>Guidelines for Local Conference Chair</unittitle></did></c02>
+       	<c02 level="file">
+       				<did> <container type="box">9</container>
+       				<container type="folder">7</container>	
+       					<unittitle>Handouts</unittitle></did></c02>
+       	<c02 level="file">
+       				<did> <container type="box">9</container>
+       				<container type="folder">8</container>	
+       					<unittitle>Hispanic Studies Symposium, May 11, 1996</unittitle></did></c02>
+       	<c02 level="file">
+       				<did> <container type="box">9</container>
+       				<container type="folder">9</container>	
+       					<unittitle>Hispanic Year 2000</unittitle></did></c02>
+       	<c02 level="file">
+       			<did> <container type="box">9</container>
+       				<container type="folder">10</container>	
+       				<unittitle>ICEED/CONALEP</unittitle></did></c02>
+       	<c02 level="file">
+       		<did> <container type="box">9</container>
+       			<container type="folder">11</container>	
+       			<unittitle>International Consortium for Educational and Economic Development (ICEED) Annual Meeting, January 21-23, 1993</unittitle></did></c02>
+       	<c02 level="file">
+       		<did> <container type="box">9</container>
+       			<container type="folder">12</container>	
+       			<unittitle>Israel 50th Anniversary</unittitle></did></c02>
+       	<c02 level="file">
+       		<did> <container type="box">9</container>
+       		<container type="folder">13</container>	
+       			<unittitle>The Jefferson Awards, 1998</unittitle></did></c02>
+       	<c02 level="file">
+       		<did> <container type="box">9</container>
+       			<container type="folder">14</container>	
+       			<unittitle>Kiser, Jim Meeting</unittitle></did></c02>
+       		<c02 level="file">
+       	<did> <container type="box">9</container>
+       		<container type="folder">15</container>	
+       		<unittitle>Kolbe-HPAC Conference</unittitle></did></c02>
+       <c02 level="file">
+       		<did> <container type="box">9</container>
+       			<container type="folder">16</container>	
+       			<unittitle>KUAT Public Advisory Board Annual Meeting, May 19, 1999</unittitle></did></c02>
+       	<c02 level="file">
+       		<did> <container type="box">9</container>
+       		<container type="folder">17</container>	
+       			<unittitle>Latino Adv. Comm.</unittitle></did></c02>
+       	<c02 level="file">
+       			<did> <container type="box">9</container>
+       				<container type="folder">18</container>	
+       				<unittitle>Leadership Colloquium, January 11-14, 1981</unittitle></did></c02>
+       	<c02 level="file">
+       		<did> <container type="box">9</container>
+       			<container type="folder">19</container>	
+       			<unittitle>LULAC Annual Awards Luncheon, October 29, 1999</unittitle></did></c02>
+       	<c02 level="file">
+       		<did> <container type="box">9</container>
+       			<container type="folder">20</container>	
+       			<unittitle>LULAC Biling. Forum and Border Dispute</unittitle></did></c02>
+       	<c02 level="file">
+       		<did> <container type="box">9</container>
+       		<container type="folder">21</container>	
+       			<unittitle>LULAC Council</unittitle></did></c02>
+       	<c02 level="file">
+       		<did> <container type="box">9</container>
+       		<container type="folder">22</container>	
+       			<unittitle>LULAC Resolution and Fimbres/Oyama Presentation</unittitle></did></c02>
+       	<c02 level="file">
+       		<did> <container type="box">9</container>
+       		<container type="folder">23</container>	
+       			<unittitle>LULAC State Meeting, April 5, 1998</unittitle></did></c02>
+ <c02 level="file">
+       	<did> <container type="box">9</container>
+       		<container type="folder">24</container>	
+       		<unittitle>LULAC State Meeting, January 30, 2000</unittitle></did></c02>
+ <c02 level="file">
+       <did> <container type="box">9</container>
+       <container type="folder">25</container>	
+       	<unittitle>LULAC Superintendents Recep. July 7th Inn Suites, Copper Room</unittitle></did></c02>
+ <c02 level="file">
+       <did> <container type="box">9</container>
+       <container type="folder">26</container>	
+       	<unittitle>Luz Academy Spain Trip</unittitle></did></c02>
+ <c02 level="file">
+      <did> <container type="box">9</container>
+     <container type="folder">27</container>	
+      	<unittitle>Los Mariachios de P.C.C.</unittitle></did></c02>
+ <c02 level="file">
+      <did> <container type="box">9</container>
+      <container type="folder">28</container>	
+      	<unittitle>Meetings, Misc.</unittitle></did></c02>
+ <c02 level="file">
+      <did> <container type="box">9</container>
+      <container type="folder">29</container>	
+      	<unittitle>Meeting with Carol Gorsuch 5-21-92 (Thursday)</unittitle></did></c02>
+ <c02 level="file">
+      <did> <container type="box">9</container>
+      <container type="folder">30</container>	
+      	<unittitle>National Secretaries Week Recognition Dinner, April 26, 1997</unittitle></did></c02>
+ 	<c02 level="file">
+ 		<did> <container type="box">9</container>
+ 			<container type="folder">31</container>	
+ 			<unittitle>National Strategy Meeting on Defeating Arizona’s State Ballot Initiative Against Biling. Educ.</unittitle></did></c02>
+ <c02 level="file">
+ 	<did> <container type="box">9</container>
+ 		<container type="folder">32</container>	
+ 		<unittitle>Una Noche Plateada</unittitle></did></c02>
+ <c02 level="file">
+ 	<did> <container type="box">9</container>
+ 	<container type="folder">33</container>	
+ 		<unittitle>Opportunities for Improved International Understanding, 1979</unittitle></did></c02>
+ <c02 level="file">
+ 	<did> <container type="box">9</container>
+ 		<container type="folder">34</container>	
+ 		<unittitle>Oyama, Henry: L.A. Symposium 5/24/77</unittitle></did></c02>
+ <c02 level="file">
+ 	<did> <container type="box">10</container>
+ 		<container type="folder">1</container>	
+ 		<unittitle>PCC Amigos de Pima Reunion Dinner 2003</unittitle></did></c02>
+ <c02 level="file">
+ 	<did> <container type="box">10</container>
+ 		<container type="folder">2</container>	
+ 		<unittitle>PCC/CONALEP Dinner</unittitle></did></c02>
+ <c02 level="file">
+ 	<did> <container type="box">10</container>
+ 		<container type="folder">3</container>	
+ 		<unittitle>Peruvian Ministry of Education</unittitle></did></c02>
+ <c02 level="file">
+ 	<did> <container type="box">10</container>
+ 		<container type="folder">4</container>	
+ 		<unittitle>Photographs of Hank Oyama (photocopies) at events</unittitle></did></c02>
+ <c02 level="file">
+ <did> <container type="box">10</container>
+ 	<container type="folder">5</container>	
+ 	<unittitle>Pima Community College Fifth Annual Hispanic Celebration, May 15, 1999</unittitle></did></c02>
+ <c02 level="file">
+ 	<did> <container type="box">10</container>
+ 		<container type="folder">6</container>	
+ 		<unittitle>Pima Community College Foundation Fifteenth Annual Recognition Dinner, October 27, 1999</unittitle></did></c02>
+ <c02 level="file">
+ 	<did> <container type="box">10</container>
+ 		<container type="folder">7</container>	
+ 		<unittitle>Pima Community College’s 25th Anniversary</unittitle></did></c02>
+ <c02 level="file">
+ 	<did> <container type="box">10</container>
+ 		<container type="folder">8</container>	
+ 		<unittitle>Poesias, Cantos y Bailes del Pueblo</unittitle></did></c02>
+ <c02 level="file">
+ 	<did> <container type="box">10</container>
+ 		<container type="folder">9</container>	
+ 		<unittitle>Presentation Information</unittitle></did></c02>
+ <c02 level="file">
+ 	<did> <container type="box">10</container>
+ <container type="folder">10</container>	
+ 		<unittitle>Presentation on U.S.-Mexico Relations</unittitle></did></c02>
+ <c02 level="file">
+ 	<did> <container type="box">10</container>
+ 		<container type="folder">11</container>	
+ 		<unittitle>Prop 203/Biling. Educ. Issue</unittitle></did></c02>
+ <c02 level="file">
+ 	<did> <container type="box">10</container>
+ 	<container type="folder">12</container>	
+ 		<unittitle>Public Advisory Board Minutes, March 31, 1999</unittitle></did></c02>
+<c02 level="file">
+<did> <container type="box">10</container>
+ 	<container type="folder">13</container>	
+	<unittitle>Pueblo High School Class of 1962, 35th Year Reunion</unittitle></did></c02>
+<c02 level="file">
+ 		<did> <container type="box">10</container>
+ 			<container type="folder">14</container>	
+ 			<unittitle>Refund – Aeromexico and America West</unittitle></did></c02>
+<c02 level="file">
+ 	<did> <container type="box">10</container>
+ 		<container type="folder">15</container>	
+ 		<unittitle>Runnin’ at Midnite, December 4, 1999</unittitle></did></c02>
+<c02 level="file">
+ <did> <container type="box">10</container>
+ 	<container type="folder">16</container>	
+ 	<unittitle>Self-Identity and the Use of “Minority” Terminology for the 21st Century</unittitle></did></c02>
+<c02 level="file">
+ 	<did> <container type="box">10</container>
+ 		<container type="folder">17</container>	
+ 		<unittitle>“Semana Cultural”</unittitle></did></c02>
+<c02 level="file">
+ 	<did> <container type="box">10</container>
+ 		<container type="folder">18</container>	
+ 		<unittitle>Sister City Trip Oct. 22-26, 1975</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">10</container>
+		<container type="folder">19</container>	
+		<unittitle>Sixth Annual Festival Folklorico de Ballet Folklorico San Juan, July 15-16, 1995</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">10</container>
+		<container type="folder">20</container>	
+		<unittitle>Sponsors</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">10</container>
+	<container type="folder">21</container>	
+		<unittitle>Staff Meetings</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">10</container>
+	<container type="folder">22</container>	
+		<unittitle>Symposium of the Mexican-American Student, Apr. 1968</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">10</container>
+	<container type="folder">23</container>	
+		<unittitle>Symposium of the Spanish-Speaking Child in the Schools of the Southwest</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">10</container>
+		<container type="folder">24</container>	
+		<unittitle>Symposium for Bilingual/Bicultural Manpower Development, Mar. 14-16, 1974</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">10</container>
+		<container type="folder">25</container>	
+		<unittitle>A Tapestry of Tucson Committee</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">10</container>
+	<container type="folder">26</container>	
+		<unittitle>Tapestry of Tucson Committee Meeting, May 28, 1999</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">10</container>
+		<container type="folder">27</container>	
+		<unittitle>Tapestry Meeting, October 14, 1998</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">10</container>
+		<container type="folder">28</container>	
+		<unittitle>Tickets Anniversary Dinner</unittitle></did></c02>
+<c02  level="file">
+<did> <container type="box">10</container>
+	<container type="folder">29</container>	
+	<unittitle>Video Presentation</unittitle></did></c02>	
+<c02 level="file">
+		<did> <container type="box">10</container>
+			<container type="folder">30</container>	
+			<unittitle>Vote No! 203 English Plus More</unittitle></did></c02></c01>
+   <c01 level="series">
+        <did><unittitle>Series IV: Articles,</unittitle><unitdate type="inclusive" normal="1967-2003">1967-20003</unitdate></did>
+    	<scopecontent><p>This series includes scholarly journal articles, newspaper clippings, and Internet articles related to bilingual education.  There is a heavy emphasis on the English Only/English Plus More debate of the 1990s.</p></scopecontent>	
+<c02 level="file">
+    <did> <container type="box">10</container>
+    	<container type="folder">31</container>	
+    	<unittitle>25th Anniversary of Hank Oyama’s wedding</unittitle></did></c02>
+<c02 level="file">
+    <did> <container type="box">10</container>
+    	<container type="folder">32</container>	
+    	<unittitle>Ariz. Daily Star articles on biling. Educ.; English Only articles</unittitle></did></c02>
+<c02 level="file">
+    <did> <container type="box">10</container>
+    	<container type="folder">33</container>	
+    	<unittitle>Articles, Misc. 1967-2000</unittitle></did></c02>
+<c02 level="file">
+    <did> <container type="box">11</container>
+    	<container type="folder">1</container>	
+    	<unittitle>Articles on Bilingual Education</unittitle></did></c02>
+<c02 level="file">
+    <did> <container type="box">11</container>
+    	<container type="folder">2</container>	
+    	<unittitle>Asociación de Charros and Corazón de Oro</unittitle></did></c02>
+<c02 level="file">
+    <did> <container type="box">11</container>
+    	<container type="folder">3</container>	
+    	<unittitle>Begaye, Kelsey A., Pres., Navajo Nation, Guest Editorial</unittitle></did></c02>
+<c02 level="file">
+    		<did> <container type="box">11</container>
+    		<container type="folder">4</container>	
+    			<unittitle>Biling. Educ. Articles</unittitle></did></c02>
+<c02 level="file">
+    <did> <container type="box">11</container>
+    	<container type="folder">5</container>	
+    	<unittitle>Biling. Educ./H. Oyama</unittitle></did></c02>
+<c02 level="file">
+    <did> <container type="box">11</container>
+    	<container type="folder">6</container>	
+    	<unittitle>Citizen Editorial June 9, 2000; Star Editorial April 24, 2000 and June 28, 2000</unittitle></did></c02>
+<c02 level="file">
+    <did> <container type="box">11</container>
+    	<container type="folder">7</container>	
+    	<unittitle>Combs, Mary Carol – Official Eng.</unittitle></did></c02>
+<c02 level="file">
+    <did> <container type="box">11</container>
+    	<container type="folder">8</container>	
+    	<unittitle>Current Biling. Articles</unittitle></did></c02>
+<c02 level="file">
+    <did> <container type="box">11</container>
+    	<container type="folder">9</container>	
+    	<unittitle>Los Descendientes del Presidio de Tucson, January-June, 2003</unittitle></did></c02>
+<c02 level="file">
+    <did> <container type="box">11</container>
+    	<container type="folder">10</container>	
+    	<unittitle>Drafts of Hughes Missile Systems Ad</unittitle></did></c02>
+<c02 level="file">
+    <did> <container type="box">11</container>
+    	<container type="folder">11</container>	
+    	<unittitle>Eng. Only/Eng. Plus</unittitle></did></c02>
+<c02 level="file">
+   <did> <container type="box">11</container>
+    	<container type="folder">12</container>	
+   	<unittitle>Eng. Plus</unittitle></did></c02>
+<c02 level="file">
+    <did> <container type="box">11</container>
+   <container type="folder">13</container>	
+    	<unittitle>The Evolution of the Mariachi: A Brief Historical Sketch</unittitle></did></c02>
+<c02 level="file">
+    <did> <container type="box">11</container>
+    	<container type="folder">14</container>	
+    	<unittitle>Hispanics Making a Difference</unittitle></did></c02>
+<c02 level="file">
+    <did> <container type="box">11</container>
+    <container type="folder">15</container>	
+    	<unittitle>Hispanophobia</unittitle></did></c02>
+<c02 level="file">
+    <did> <container type="box">11</container>
+    	<container type="folder">16</container>	
+    	<unittitle>IDRA</unittitle></did></c02>
+<c02 level="file">
+    <did> <container type="box">11</container>
+    	<container type="folder">17</container>	
+    	<unittitle>Initiatives are too easy</unittitle></did></c02>
+<c02 level="file">
+    <did> <container type="box">11</container>
+    	<container type="folder">18</container>	
+    	<unittitle>Krashen, S.</unittitle></did></c02>
+<c02 level="file">
+    <did> <container type="box">11</container>
+    	<container type="folder">19</container>	
+    	<unittitle>Krashen, Stephen</unittitle></did></c02>
+<c02 level="file">
+    <did> <container type="box">11</container>
+    	<container type="folder">20</container>	
+    	<unittitle>A Language Deficit Theory for the 80s; CALP, BICS, and Semilingualism</unittitle></did></c02>
+<c02 level="file">
+    <did> <container type="box">11</container>
+    	<container type="folder">21</container>	
+    	<unittitle>Latino Adv. Comm.</unittitle></did></c02>
+<c02 level="file">
+    <did> <container type="box">11</container>
+    	<container type="folder">22</container>	
+    	<unittitle>Mama’s Santos: An Arizona Life</unittitle></did></c02>
+<c02 level="file">
+    <did> <container type="box">12</container>
+    	<container type="folder">1</container>	
+    	<unittitle>MDES Decentralization Plan</unittitle></did></c02>
+<c02 level="file">
+    <did> <container type="box">12</container>
+    	<container type="folder">2</container>	
+    	<unittitle>Meta</unittitle></did></c02>
+<c02 level="file">
+    <did> <container type="box">12</container>
+    	<container type="folder">3</container>	
+    	<unittitle>A Nation at Risk</unittitle></did></c02>
+
+<c02 level="file">
+	<did> <container type="box">12</container>
+		<container type="folder">4</container>	
+		<unittitle>National Law Center for Inter-American Free Trade</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">12</container>
+		<container type="folder">5</container>	
+		<unittitle>Navajo Nation – Pres. Begaye</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">12</container>
+		<container type="folder">6</container>	
+		<unittitle>Newspaper articles remembering WWII</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">12</container>
+		<container type="folder">7</container>	
+		<unittitle>Noda, Dr. Phyliss (Radio Prog.)</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">12</container>
+		<container type="folder">8</container>	
+		<unittitle>Not Child’s Play</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">12</container>
+	<container type="folder">9</container>	
+		<unittitle>The Odd Couple</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">12</container>
+		<container type="folder">10</container>	
+		<unittitle>The Pariah</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">12</container>
+		<container type="folder">11</container>	
+		<unittitle>PCC Biling. Educ.</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">12</container>
+	<container type="folder">12</container>	
+		<unittitle>Post Election (Prop 203) Issues</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">12</container>
+	<container type="folder">13</container>	
+		<unittitle>Read 1972, 1981, 1989-1992, 1996</unittitle></did></c02>
+	<c02 level="file">
+	<did> <container type="box">12</container>
+		<container type="folder">14</container>	
+		<unittitle>Relocation Camp Articles</unittitle></did></c02>
+<c02 level="file">
+<did> <container type="box">12</container>
+	<container type="folder">15</container>	
+	<unittitle>The Rising Star, Winter 2002</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">12</container>
+		<container type="folder">16</container>	
+		<unittitle>Rothstein, R. – Sink or Swim</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">12</container>
+		<container type="folder">17</container>	
+		<unittitle>A Systematic Approach to Total Quality Management</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">12</container>
+          <container type="folder">18</container>	
+		<unittitle>TUSD/Biling. Educ. Articles</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">12</container>
+		<container type="folder">19</container>	
+		<unittitle>Vote No! 203 English Plus More</unittitle></did></c02>
+	<c02 level="file">
+		<did> <container type="box">12</container>
+		<container type="folder">20</container>	
+			<unittitle>Why the Bilingual Education Amendments Deserve Support</unittitle></did></c02>
+<c02 level="file">
+     <did> <container type="box">12</container>
+		<container type="folder">21</container>	
+     	<unittitle>Yazguirre, R.</unittitle></did></c02>
+   	</c01>
+
+	<c01 level="series">
+		<did><unittitle>Series V: Newsletters, 1947, 1972-2000</unittitle></did>
+		<scopecontent><p>This series contains the newsletters of various organizations that Hank Oyama was a member of or that were of interest to him as a bilingual educator.
+		</p></scopecontent>
+<c02 level="file">
+	<did> <container type="box">12</container>
+		<container type="folder">22</container>	
+		<unittitle>AACHE Newsletter</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">12</container>
+	<container type="folder">23</container>	
+		<unittitle>The Arizona Report</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">12</container>
+		<container type="folder">24</container>	
+		<unittitle>Brainwaves</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">12</container>
+		<container type="folder">25</container>	
+		<unittitle>La Cadena de Teatro Carmen</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">12</container>
+		<container type="folder">26</container>	
+		<unittitle>El Centro Cultural Noticias</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">12</container>
+	<container type="folder">27</container>	
+		<unittitle>El Congreso Nacional de Asuntos Colegiales, 1972</unittitle></did></c02>
+<c02 level="file">			
+<did> <container type="box">12</container>
+	<container type="folder">28</container>	
+	<unittitle>Discover</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">12</container>
+	      <container type="folder">29</container>	
+		<unittitle>EPIC Events</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">12</container>
+		<container type="folder">30</container>	
+		<unittitle>ERIC Information Bulletin</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">12</container>
+          <container type="folder">31</container>	
+		<unittitle>La Fiesta Santificada</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">12</container>
+		<container type="folder">32</container>	
+		<unittitle>Innovation Abstracts</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">12</container>
+		<container type="folder">33</container>	
+		<unittitle>The Link</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">12</container>
+		<container type="folder">34</container>	
+		<unittitle>La Lona, El Centro Cultural Artists’ Newsletter</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">12</container>
+		<container type="folder">35</container>	
+		<unittitle>The Mission Bell</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">12</container>
+		<container type="folder">36</container>	
+		<unittitle>Music Matters</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">12</container>
+		<container type="folder">37</container>	
+		<unittitle>NABE News</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">12</container>
+		<container type="folder">38</container>	
+		<unittitle>News from the Borderlands</unittitle></did></c02>
+<c02 level="file">
+		<did> <container type="box">12</container>
+		<container type="folder">39</container>	
+			<unittitle>Pima Community College Alumni Association Newsletter</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">12</container>
+		<container type="folder">40</container>	
+		<unittitle>Pima Community College District Bulletin</unittitle></did></c02>
+<c02 level="file">
+<did> <container type="box">12</container>
+	<container type="folder">41</container>	
+	<unittitle>Rotary Club of Tucson Newsletter</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">12</container>
+		<container type="folder">42</container>	
+		<unittitle>Sister Cities</unittitle></did></c02>
+<c02 level="file">
+		<did> <container type="box">12</container>
+			<container type="folder">43</container>	
+			<unittitle>TABE</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">12</container>
+		<container type="folder">44</container>	
+		<unittitle>TuSerran</unittitle></did></c02>
+<c02 level="file">
+		<did> <container type="box">12</container>
+			<container type="folder">45</container>	
+			<unittitle>UA Hispanic Alumni Newsletter</unittitle></did></c02>
+<c02 level="file">
+		<did> <container type="box">12</container>
+			<container type="folder">46</container>	
+			<unittitle>La Voz de Aztlan, 1972</unittitle></did></c02>
+		</c01>
+	<c01 level="series">
+		<did><unittitle>Series VI: Publications, 1943, 1945, 1947, 1968-2003</unittitle></did>
+		<scopecontent><p>The publications in this series are books, catalogs, and informational pamphlets published by organizations and individuals interested in the bilingual education movement.  
+		</p></scopecontent>
+<c02 level="file">
+	<did> <container type="box">13</container>
+		<container type="folder">1</container>	
+		<unittitle>Ballet Folklorico</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">13</container>
+		<container type="folder">2</container>	
+		<unittitle>The Bilingual Journal, Winter, 1978</unittitle></did></c02>
+<c02 level="file">
+		<did> <container type="box">13</container>
+		<container type="folder">3</container>	
+			<unittitle>Centros de Asistencia y Servicios Tecnológicos</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">13</container>
+		<container type="folder">4</container>	
+		<unittitle>The Chicano Movement: Some Not Too Objective Observations by Abelardo B. 
+			Delgado</unittitle></did></c02>
+<c02 level="file">
+		<did> <container type="box">13</container>
+			<container type="folder">5</container>	
+			<unittitle>Color and Learn: The Book of the Sun Tonatiuh = Colorea y Aprende: El Libro del Sol Orozco</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">13</container>
+			<container type="folder">6</container>	
+		<unittitle>Community, Technical, and Junior College Journal, June/July 1989</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">13</container>
+		<container type="folder">7</container>	
+		<unittitle>Earl Carroll Theatre Restaurant Hollywood</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">13</container>
+		<container type="folder">8</container>	
+		<unittitle>Easy Tricks with Numbers</unittitle></did></c02>
+<c02 level="file">
+		<did> <container type="box">13</container>
+		<container type="folder">9</container>	
+			<unittitle>Edificios Antiguos de Guadalajara</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">13</container>
+		<container type="folder">10</container>	
+		<unittitle>Gates Millennium Scholars</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">13</container>
+		<container type="folder">11</container>	
+		<unittitle>Guide of the Regional Museum of Guadalajara by José G. Zuno</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">13</container>
+		<container type="folder">12</container>	
+		<unittitle>The Heliograph</unittitle></did></c02>
+
+<c02 level="file">
+	<did> <container type="box">13</container>
+		<container type="folder">13</container>	
+		<unittitle>“Los Hombres de la Reforma”…y dieron su vida!</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">13</container>
+		<container type="folder">14</container>	
+		<unittitle>I Am a Doughboy</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">13</container>
+		<container type="folder">15</container>	
+		<unittitle>Industrial Park, Obregon City, Sonora, Mexico</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">13</container>
+		<container type="folder">16</container>	
+		<unittitle>Joel D. Valdez Main Library Dedication Ceremony</unittitle></did></c02>
+<c02 level="file">
+		<did> <container type="box">13</container>
+			<container type="folder">17</container>	
+			<unittitle>The Mexican-American and the United States by Charles J. and Patricia L. Bustamante</unittitle></did></c02>
+<c02 level="file">
+		<did> <container type="box">13</container>
+		<container type="folder">18</container>	
+			<unittitle>The Multilingual Educator</unittitle></did></c02>
+<c02 level="file">
+		<did> <container type="box">13</container>
+			<container type="folder">19</container>	
+			<unittitle>National Law Center for Inter-American Free Trade</unittitle></did></c02>
+<c02 level="file">
+			<did> <container type="box">13</container>
+			<container type="folder">20</container>	
+				<unittitle>NEA Research Bulletin, Vol. 46: 2, May 1968</unittitle></did></c02>
+<c02 level="file">
+			<did> <container type="box">13</container>
+			<container type="folder">21</container>	
+				<unittitle>Report of a National Bilingual Bicultural Institute: A Relook at Tucson ’66 and Beyond</unittitle></did></c02>
+<c02 level="file">
+			<did> <container type="box">13</container>
+				<container type="folder">22</container>	
+				<unittitle>Report of the Chicano Ad Hoc Special Interest Group, Stanford University</unittitle></did></c02>
+<c02 level="file">
+			<did> <container type="box">14</container>
+			<container type="folder">1</container>	
+				<unittitle>Saint Cyril Parish</unittitle></did></c02>
+<c02 level="file">
+			<did> <container type="box">14</container>
+				<container type="folder">2</container>	
+				<unittitle>San Francisco Tours of Discovery</unittitle></did></c02>
+<c02 level="file">
+		<did> <container type="box">14</container>
+		<container type="folder">3</container>	
+			<unittitle>Search for Opportunity</unittitle></did></c02>
+<c02 level="file">
+		<did> <container type="box">14</container>
+			<container type="folder">4</container>	
+			<unittitle>Souvenir du Restaurant Antoine</unittitle></did></c02>
+<c02 level="file">
+			<did> <container type="box">14</container>
+			<container type="folder">5</container>	
+				<unittitle>Tres Cosas Lindas Hay en la Vida</unittitle></did></c02>
+<c02 level="file">
+	<did> <container type="box">14</container>
+		<container type="folder">6</container>	
+		<unittitle>Tucson Unified School District Compliance Procedures Manual for Bilingual Education, January 1994</unittitle></did></c02>
+<c02 level="file"> 
+		<did> <container type="box">14</container> 
+			<container type="folder">7</container> 
+			<unittitle>The University of Arizona Foundation Report, Fall 2001</unittitle></did></c02>
+</c01>
+         		<c01 level="series">
+         			<did><unittitle>Series VII: Addition of Papers</unittitle><unitdate> 1986-2005</unitdate></did>
+         			<scopecontent><p>Addition to papers documenting Henry Oyama’s leading role in fundraising for scholarships for bilingual students through various organizations.  The papers consist of scholarship requirements, meeting minutes, consultancy and financial reports, donor lists, scholarship backgrounds and event planning. 
+         				
+         			</p></scopecontent>
+         			<c02 level="file">
+         				<did> <container type="box">15</container>
+         					<container type="folder">1</container>	
+         					<unittitle>Amigos,</unittitle>
+         				<unitdate>2001</unitdate></did></c02>
+         			<c02 level="file">
+         				<did> <container type="box">15</container>
+         					<container type="folder">2</container>	
+         					<unittitle>Amigos,</unittitle>
+         					<unitdate>2001</unitdate></did></c02>
+         			<c02 level="file">
+         				<did> <container type="box">15</container>
+         					<container type="folder">3</container>	
+         					<unittitle>Amigos II,</unittitle>
+         					<unitdate>2001-2002</unitdate></did></c02>
+         			<c02 level="file">
+         				<did> <container type="box">15</container>
+         					<container type="folder">4</container>	
+         					<unittitle>Amigos III,</unittitle>
+         					<unitdate>2002</unitdate></did></c02>
+         			<c02 level="file">
+         				<did> <container type="box">15</container>
+         					<container type="folder">5</container>	
+         					<unittitle>Amigos IV,</unittitle>
+         					<unitdate>2003</unitdate></did></c02>
+         			<c02 level="file">
+         				<did> <container type="box">15</container>
+         					<container type="folder">6</container>	
+         					<unittitle>Amigos IV,</unittitle>
+         					<unitdate>2003</unitdate></did></c02>
+         			<c02 level="file">
+         				<did> <container type="box">15</container>
+         					<container type="folder">7</container>	
+         					<unittitle>Amigos V</unittitle>
+         					</did></c02>
+         			<c02 level="file">
+         				<did> <container type="box">16</container>
+         					<container type="folder">1</container>	
+         					<unittitle>Gilbert Acosta</unittitle>
+         				</did></c02>
+         			<c02 level="file">
+         				<did> <container type="box">16</container>
+         					<container type="folder">2</container>	
+         					<unittitle>Gilbert Acosta</unittitle>
+         				</did></c02>
+         			<c02 level="file">
+         				<did> <container type="box">16</container>
+         					<container type="folder">3</container>	
+         					<unittitle>Gilbert Acosta</unittitle>
+         				</did></c02>
+         			<c02 level="file">
+         				<did> <container type="box">16</container>
+         					<container type="folder">4</container>	
+         					<unittitle>Gilbert Acosta</unittitle>
+         				</did></c02>
+         			<c02 level="file">
+         					<did> <container type="box">16</container>
+         						<container type="folder">5</container>	
+         						<unittitle>Jacinto Orozco</unittitle>
+         					</did></c02>
+         			<c02 level="file">
+         				<did> <container type="box">16</container>
+         					<container type="folder">6</container>	
+         					<unittitle>Jacinto Orozco</unittitle>
+         				</did></c02>
+         			<c02 level="file">
+         				<did> <container type="box">16</container>
+         					<container type="folder">7</container>	
+         					<unittitle>Jacinto Orozco</unittitle>
+         				</did></c02>
+         			<c02 level="file">
+         				<did> <container type="box">17</container>
+         					<container type="folder">1</container>	
+         					<unittitle>Dave Kennon &amp; Manuel Bedoya Scholarships 
+         					</unittitle>
+         				</did></c02>
+         			<c02 level="file">
+         				<did> <container type="box">17</container>
+         					<container type="folder">2</container>	
+         					<unittitle>University of Phoenix</unittitle>
+         				</did></c02>
+         			<c02 level="file">
+         				<did> <container type="box">17</container>
+         					<container type="folder">3</container>	
+         					<unittitle>PCC/DC Bilingual Program &amp; Tucson Hispanic Coalition</unittitle>
+         				</did></c02>
+         			<c02 level="file">
+         				<did> <container type="box">17</container>
+         					<container type="folder">4</container>	
+         					<unittitle>PCC Foundation Registers</unittitle>
+         				</did></c02>
+         			<c02 level="file">
+         				<did> <container type="box">17</container>
+         					<container type="folder">5</container>	
+         					<unittitle>Tucson &amp; PCC Bilingual Legacy</unittitle>
+         				</did></c02>
+         			<c02 level="file">
+         				<did> <container type="box">17</container>
+         					<container type="folder">6</container>	
+         					<unittitle>Angel Hernandez</unittitle>
+         				</did></c02>
+         			<c02 level="file">
+         				<did> <container type="box">17</container>
+         					<container type="folder">7</container>	
+         					<unittitle>Scrapbook</unittitle>
+         				</did></c02>
+         			<c02 level="file">
+         				<did> <container type="box">17</container>
+         					<container type="folder">8</container>	
+         					<unittitle>Briefcase</unittitle>
+         				</did></c02>
+         			<c02 level="file">
+         				<did> <container type="box">18</container>
+         					<container type="folder">1</container>	
+         					<unittitle>Tardeada</unittitle><unitdate>1994</unitdate>
+         				</did></c02>
+         			<c02 level="file">
+         				<did> <container type="box">18</container>
+         					<container type="folder">2</container>	
+         					<unittitle>Tardeada</unittitle><unitdate>1998-2001</unitdate>
+         				</did></c02>
+         			<c02 level="file">
+         				<did> <container type="box">18</container>
+         					<container type="folder">3</container>	
+         					<unittitle>Tardeada</unittitle><unitdate>1998-2001</unitdate>
+         				</did></c02>
+         			<c02 level="file">
+         				<did> <container type="box">18</container>
+         					<container type="folder">4</container>	
+         					<unittitle>Tardeada</unittitle><unitdate>2002</unitdate>
+         				</did></c02>
+         			<c02 level="file">
+         				<did> <container type="box">18</container>
+         					<container type="folder">5</container>	
+         					<unittitle>Tardeada</unittitle><unitdate>2004-2005</unitdate>
+         				</did></c02>
+         			<c02 level="file">
+         				<did> <container type="box">18</container>
+         					<container type="folder">6</container>	
+         					<unittitle>Consultancy Report</unittitle>
+         				</did></c02>
+         			<c02 level="file">
+         				<did> <container type="box">18</container>
+         					<container type="folder">7</container>	
+         					<unittitle>Consultancy Report</unittitle><unitdate>1993-1997</unitdate>
+         				</did></c02>
+         			<c02 level="file">
+         				<did> <container type="box">18</container>
+         					<container type="folder">8</container>	
+         					<unittitle>Consultancy Report</unittitle><unitdate>1997-2005</unitdate>
+         				</did></c02>
+         			<c02 level="file">
+         				<did> <container type="box">19</container>
+         					<container type="folder">1</container>	
+         					<unittitle>Hispanic Student Endowment Fund</unittitle>
+         				</did></c02>
+         			<c02 level="file">
+         				<did> <container type="box">19</container>
+         					<container type="folder">2</container>	
+         					<unittitle>Hispanic Student Endowment Fund</unittitle>
+         				</did></c02>
+         			<c02 level="file">
+         				<did> <container type="box">19</container>
+         					<container type="folder">3</container>	
+         					<unittitle>Hispanic Student Endowment Fund, </unittitle><unitdate>1986-2001</unitdate>
+         				</did></c02>
+         			<c02 level="file">
+         				<did> <container type="box">19</container>
+         					<container type="folder">4</container>	
+         					<unittitle>Hispanic Student Endowment Fund, </unittitle><unitdate>1986-2001</unitdate>
+         				</did></c02>
+         			<c02 level="file">
+         				<did> <container type="box">19</container>
+         					<container type="folder">5</container>	
+         					<unittitle>Hispanic Student Endowment Fund</unittitle>
+         				</did></c02>
+         			<c02 level="file">
+         				<did> <container type="box">19</container>
+         					<container type="folder">6</container>	
+         					<unittitle>Hispanic Student Endowment Fund</unittitle>
+         				</did></c02>
+         			<c02 level="file">
+         				<did> <container type="box">19</container>
+         					<container type="folder">7</container>	
+         					<unittitle>Amigos/HSEF/Tardeada, </unittitle><unitdate>2004-2005</unitdate>
+         				</did></c02>
+         		</c01>
+</dsc> 
+</archdesc></ead>
+
+         		
+
+

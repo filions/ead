@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+   <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0"> 
+      <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special Collections//text
+		(US::AzU::Political Cartoons scrapbook)//en""UAMS101.xml"
+      </eadid> 
+      <filedesc> 
+         <titlestmt> 
+         	<titleproper encodinganalog="title">Political Cartoons scrapbook
+	 	       <date normal="1902/1941" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">1902-1941</date>
+	 	       <!-- BE SURE TO POPULATE "date normal= "YYYY/YYYY" attribute. PLACE ATTRIBUTE DATES BETWEEN "   " -->
+	 	       <date normal="1922/1941" type="bulk">(bulk 1922-1941)</date><!-- BE SURE TO POPULATE "date normal= YYYY/YYYY" attribute --><!-- BE SURE TO DELETE BULK DATE TAGS IF NOT NEEDED -->
+	 	    </titleproper>
+         	<titleproper type="filing" altrender="nodisplay"> Political Cartoons scrapbook
+	 	    <!-- [IF AN INDIVIDUAL IS ASSOCIATED LIST LAST NAME, (FIRST NAME MIDDLE INITIAL.) i.e. Flannery, (John S.) COLLECTION DESCRIPTION] OR 
+	 	    [IF NO SPECIFIC PERSON IS ASSOCIATED LIST THE COLLECTION NAME AND DESCRIPTION (i.e. International Student Council general files) -->
+            </titleproper>
+	        <author>Processed by Staff.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date normal= "2016" era= "ce" calendar = "gregorian">; 2016</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+            <date era="ce" encodinganalog="date" normal="20160420">April 20, 2016</date>
+  	     </creation><!-- BE SURE TO POPULATE "date normal= YYYYMMDD" attribute. PLACE ATTRIBUTE DATES BETWEEN "  " -->
+	     <langusage>Finding aid encoded in<language> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc>
+   </eadheader> 
+   <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+      <did id="a1"> 
+         <head>Collection Summary</head> 
+      	<unittitle encodinganalog="245" label="Collection Name:"> Political Cartoons scrapbook
+            <unitdate type="inclusive" label="Dates:" normal="1902/1941">1902-1941</unitdate>
+            <unitdate type="bulk" label="Dates:" normal="1922/1941">(bulk 1922-1941)</unitdate> <!-- DELETE BULK DATE TAGS IF NOT NEEDED -->
+  	     </unittitle><!-- BE SURE TO POPULATE "Dates normal= yyyy/yyyy" attribute.  PLACE ATTRIBUTE DATES BETWEEN "  " -->	 
+	     <unitid label="Collection Number:" encodinganalog="099" repositorycode="AzU" countrycode="us">MS 101</unitid>
+	     <origination label="Creator:"> 
+            <persname source="lcnaf" encodinganalog="100"><!-- PERSNAME--></persname> </origination> <!-- CHANGE TAG TO CORPNAME, IF CREATOR IS A COROPORATION/ BUSINESS ETC.  CHANGE "100" ATTRIBUTE TO 110-->
+      	
+      	<!-- Trent: No Creator on MARC/library record **Steven -->
+      	
+      	<abstract label="Abstract:">Scrapbook contains syndicated political and editorial cartoons from various newspapers and magazines, concentrating on U.S. presidential campaigns 
+      								and politics of the 1920s and 1930s. Calvin Coolidge, Herbert Hoover, and Alfred &quot;Al&quot; Smith are all caricatured. Also includes some 
+      								material on World War I, World War II, and international political figures such as Hitler, Stalin and Mussolini.</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description:"><extent>.1 linear feet</extent></physdesc>	 
+	     <repository label="Repository:"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng" scriptcode="Latin">English.</language></langmaterial>
+   	        <!-- CHANGE OR ADD FIELD IF MATERIALS ARE IN OTHER LANGUAGES. BE SURE TO CHANGE langcode "" ATTRIBUTE-->
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+         <p>There are no restrictions on this collection.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+      	<p>Political Cartoons scrapbook (MS 101). Special Collections, University of Arizona Libraries.</p>
+      </prefercite> 
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Staff.</p>
+      </processinfo>
+      <bioghist id="a2" encodinganalog="545"> 
+         <head>Historical Note</head> 
+      	<p>Unknown compiler, but possibly organized by a women&apos;s group in the Kansas City area. Some of the cartoons have hand-written names and dates at the bottom: Mary O&apos;Neal, 
+      	&quot;Mary&apos;s neighbor, Mrs. Barnett&quot;, Isabel H., Rose Ehrenfeld, Linda Harvey, Catherine, Opal, and Miss Auerbach. Occasional local cartoons and news items suggest 
+      	the area, and a few newspaper banners identify the Kansas City Times, Kansas City Journal-Post, and Lawrence [Kan.] Daily Journal-World.</p>
+      	<p>Jay Norwood, &quot;Ding&quot; Darling, was a syndicated American cartoonist affiliated with the New York Tribune, and the Des Moines Register-Tribune. Albert T. Reid was a 
+      	freelance cartoonist from Kansas; John T. McCutcheon was affiliated with the Chicago Tribune; Silvey Jackson Ray with the Kansas City Star; Daniel Robert Fitzpatrick with 
+      	the St. Louis Post-Dispatch; Vaughn Shoemaker syndicated with the Herald-Tribune; and Robert Brown was a freelance cartoonist.</p>
+      </bioghist> 
+      <arrangement id="a4" encodinganalog="351$a"> 
+         <head>Arrangement</head> 
+  	     <p>This collection is organized chronologically.</p>
+      </arrangement> 
+      <scopecontent id="a3" encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>Scrapbook contains syndicated political and editorial cartoons from various newspapers and magazines, concentrating on U.S. presidential campaigns and politics 
+      	of the 1920s and 1930s. Calvin Coolidge, Herbert Hoover, and Alfred &quot;Al&quot; Smith are all caricatured. Also includes some material on World War I, World War II, and 
+      	international political figures such as Hitler, Stalin and Mussolini. Over 30 cartoonists have work represented, but the bulk of the cartoons are the work of Jay Norwood 
+      	&quot;Ding&quot; Darling. Those with multiple examples are Reid, McCutcheon, Ray, Fitzpatrick, Shoemaker, and Brown.</p> 
+      </scopecontent>
+      <controlaccess>
+         <head>Access Terms</head>
+         <list type="simple"> <!-- USE SOURCE OR RULES ELEMENT Source=lcnaf or lcsh; Rules=aacr2 or dacs or local.  BE SURE TO CHANGE encodinganalog="  " ATTRIBUTE. ALSO, BE SURE TO DELETE ANY TAGS YOU DO NOT USE-->
+            <item>
+               <persname encodinganalog="600" source= "lcnaf">Coolidge, Calvin, 1872-1933 -- Caricatures and cartoons.</persname><!-- 600 Creator; 700 Contributor -->
+  		    </item>
+         	<item>
+         		<persname encodinganalog="600" source= "lcnaf">Hoover, Herbert, 1874-1964 -- Caricatures and cartoons.</persname><!-- 600 Creator; 700 Contributor -->
+         	</item>
+         	<item>
+         		<persname encodinganalog="600" source= "lcnaf">Smith, A. H. (Albert Hugh), 1903-1967 -- Caricatures and cartoons.</persname><!-- 600 Creator; 700 Contributor -->
+         	</item>
+  		    <item>
+  			   <subject encodinganalog="650" source= "lcsh">American wit and humor, Pictorial -- Sources.</subject>
+  		    </item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Editorial cartoons -- Political aspects -- United States.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">World politics -- 1900-1945 -- Caricatures and cartoons.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">World War, 1939-1945 -- Caricatures and cartoons.</subject>
+         	</item>
+  		    <item>
+  			   <geogname encodinganalog="651" source="lcsh">United States -- Politics and government -- 1901-1953 -- Caricatures and cartoons.</geogname>
+  		    </item>
+         	<item>
+         		<persname encodinganalog="700" source= "lcnaf">Darling, Jay N. (Jay Norwood), 1876-1962.</persname><!-- 600 Creator; 700 Contributor -->
+         	</item>
+         </list>
+      </controlaccess> 
+   </archdesc>
+</ead>

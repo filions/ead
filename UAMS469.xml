@@ -1,0 +1,912 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0"> 
+  <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special
+	 Collections//text(US::AzU::Theatre Progams collection)//en"
+	 "UAMS469.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper>Theatre Programs collection, 
+		  <date normal="1881/1968" type="inclusive">1881-1968</date>
+			<date type="bulk" normal="1920/1940">(bulk 1920-1940)</date></titleproper> 
+	 			<author>Inventory prepared by Lena Grijalva.</author>
+		
+	 </titlestmt> 
+	 <publicationstmt> 
+		<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		  		</address> 
+		<date normal="2011">&#x00A9; 2011</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation>Inventory encoded in Oxygen XML editor by Lena Grijalva. 
+		<date>July 11, 2011 </date></creation> 
+	 <langusage>Inventory is in<language> English.</language></langusage>
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper>Theatre Programs collection, 
+	 	<date normal="1881/1968" type="inclusive">1881-1968,</date>
+	 	<date type="bulk" normal="1920/1940">(bulk 1920-1940)</date></titleproper> 
+	 <num>Collection Number: MS 469</num> 
+	 <publisher>University of Arizona Library Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Lena Grijalva</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>July 11, 2011</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Lena Grijalva</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 2011. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection" type="inventory"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name:"> Theatre Progams collection
+		<unitdate type="inclusive" label="Dates:" normal="1881/1968">1881-1968</unitdate>
+	 	<unitdate type="bulk" label="Dates:" normal="1920/1940">(bulk 1920-1940)</unitdate></unittitle>
+	 
+	 <unitid label="Collection Number:" encodinganalog="099" repositorycode="AzU" countrycode="us">MS 469</unitid> 
+	 <origination label="Creator:"> 
+	 	<corpname encodinganalog="110">University of Arizona. Library. Special Collections</corpname> </origination> 
+  	<unittitle encodinganalog="245$a">Theatre Programs collection</unittitle>
+  	<abstract label="Abstract:">This collection entails programs of plays at various theatres. Plays are compiled by alphabetical order.  Some programs have ticket stubs attached.
+  		
+  	</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent>6 linear feet</extent></physdesc>
+	 
+	 <repository label="Repository:"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		  
+		</address></repository> 
+  </did> 
+	<accessrestrict> 
+	<head>Restrictions</head> 
+	<p>None</p> 
+	</accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p> Theatre Programs collection (MS 469). Special Collections, University of Arizona Libraries</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Historical Note</head> 
+  	<p>The Theatre Programs collection was compiled by Special Collections over the years in order to provide access to miscellaneous theatre programs and related ephemera located with Special Collections holdings.</p> 
+  </bioghist> 
+  <arrangement id="a4" encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+  	<p>This collection is organized into one series. 	</p>	 
+	 <list> 
+	 	<item>Series I: Theatre programs, 1881-1968</item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>This collection consists of programs of plays at various theatres starting as far back in 1881.  All plays are in alphabetical order showing title of play, cast of characters, the director/s, date of opening show, with number of scenes.  Some programs have actual ticket stubs attached to the programs.There are also playbills that were shown in England, France, and other foreign countries.  There’s also plays from the Carolina Playmakers.  Programs from the circus, . German language theater, some from individual performers, motion pictures, also one-act plays, the Pasadena community playhouse, U.S misc., various ballet companies. Included are playbills from Arizona, Arizona civic Theatre in Tucson, some from Arizona theatre company, Arizona Corral theatre, Chautauqua, motion pictures, the Play box, Rialto theatre, the Tucson Little theatre, Tucson Opera House, and there are misc. and various playbill from Tucson, Arizona.</p> 
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+	 	<item> 
+	 		<subject encodinganalog="650" source="lcsh">Theaters -- United States</subject> </item>
+	 	<item> 
+	 		<subject encodinganalog="650" source="lcsh">Actors -- United States</subject> </item> 	
+	 	<item> 
+	 		<subject encodinganalog="650" source="lcsh">Comedy -- Theatre</subject> </item> 	 
+	 	<item> 
+	 		<subject encodinganalog="650" source="lcsh">Musical Comedy</subject> </item> 
+	 	<item> 
+	 		<subject encodinganalog="650" source="lcsh">Operetta -- United States</subject> </item> 
+	 	<item> 
+	 		<subject encodinganalog="650" source="lcsh">Playbills</subject> </item> 
+	 	<item> 
+	 		<subject encodinganalog="650" source="lcsh">Theatre Programs</subject> </item> 
+	 </list> 
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+			<unittitle> Series I: Theatre programs,
+			</unittitle> 
+			<unitdate type="inclusive" normal="1881/1968">1881-1968</unitdate>
+		</did> 
+	 	<arrangement><p>This series is arranged alphabetically by play title</p></arrangement>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">1</container> 
+	 			<unittitle>A-AE</unittitle> 
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 	<did> <container type="box">1</container> 
+	 		<container type="folder">2</container> 
+	 		<unittitle>AF-AM</unittitle> 
+	 	</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 	<did> <container type="box">1</container> 
+	 		<container type="folder">3</container> 
+	 		<unittitle>AN-AO</unittitle> 
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">4></container> 
+	 			<unittitle>AP-AR</unittitle> 
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">5</container> 
+	 			<unittitle>AS-AZ</unittitle> 
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">6</container> 
+	 			<unittitle>BA-BAS</unittitle> 
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">7</container> 
+	 			<unittitle>BAT-BEG</unittitle> 
+	 	</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">8</container> 
+	 			<unittitle>BEH-BIK</unittitle> 
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">9</container> 
+	 			<unittitle>BIL-BLIS</unittitle> 
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">10</container> 
+	 			<unittitle>BLIT-BRIC</unittitle> 
+	 	</did> 
+	 	</c02><c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">11</container> 
+	 			<unittitle>BRID-BUM</unittitle> 
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">12</container> 
+	 			<unittitle>BUN-BZ</unittitle> 
+	 	</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">13</container> 
+	 			<unittitle>BALIEFF'S CHAUVE-SOURIS</unittitle> 
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">14</container> 
+	 			<unittitle>IRVING BERLIN'S MUSIC BOX REVUE</unittitle> 
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">15</container> 
+	 			<unittitle>CA-CAM</unittitle> 
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">16</container> 
+	 			<unittitle>CAN-CAS</unittitle> 
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">17</container> 
+	 			<unittitle>CAT-CHIB</unittitle> 
+	 	</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">18</container> 
+	 			<unittitle>CHIC-CIS</unittitle> 
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">19</container> 
+	 			<unittitle>CIT-COM</unittitle> 
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">20</container> 
+	 			<unittitle>CON-COT</unittitle> 
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">21</container> 
+	 			<unittitle>COU-CZ</unittitle> 
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">22</container> 
+	 			<unittitle>CYRANO DE BERGERAC</unittitle> 
+	 	</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">1</container> 
+	 			<unittitle>DA-DEB</unittitle> 
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">2</container> 
+	 			<unittitle>DEC-DIB</unittitle> 
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">3</container> 
+	 			<unittitle>DIC-DOC</unittitle> 
+	 	 </did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">4</container> 
+	 			<unittitle>DOD-DZ</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">5</container> 
+	 			<unittitle>EA-ER</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">6</container> 
+	 			<unittitle>ES-EZ</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">7</container> 
+	 			<unittitle>EARL CARROLL VANITIES, ETC.</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">8</container> 
+	 			<unittitle>FA-FEC</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">9</container> 
+	 			<unittitle>FED-FIU</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">10</container> 
+	 			<unittitle>FIV-FORS</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">11</container> 
+	 			<unittitle>FORT-FZ</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">12</container> 
+	 			<unittitle>GA-GH</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">13</container> 
+	 			<unittitle>GI-GON</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">14</container> 
+	 			<unittitle>GOO-GRAM</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">15</container> 
+	 			<unittitle>GRAN-GREEN G</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">16</container> 
+	 			<unittitle>GREEN H-GZ</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">17</container> 
+	 			<unittitle>GEORGE WHITE'S FOLLIES</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">18</container> 
+	 			<unittitle>GREENWICH VILLAGE FOLLIES</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">19</container> 
+	 			<unittitle>HA-HAT</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">20</container> 
+	 			<unittitle>HAU-HEK</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">21</container> 
+	 			<unittitle>HEL-HEQ</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">22</container> 
+	 			<unittitle>HER-HIGH R</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">23</container> 
+	 			<unittitle>HIGH S-HOM</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">24</container> 
+	 			<unittitle>HON-HZ</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">25</container> 
+	 	 	    <unittitle>HAMLET</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">26</container> 
+	 			<unittitle>HARRIET</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">3</container> 
+	 			<container type="folder">1</container> 
+	 			<unittitle>I-INR</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">3</container> 
+	 			<container type="folder">2</container> 
+	 			<unittitle>INS-IZ</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">3</container> 
+	 			<container type="folder">3</container> 
+	 			<unittitle>JA-JIL</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">3</container> 
+	 			<container type="folder">4</container> 
+	 			<unittitle>JIM-JZ</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">3</container> 
+	 			<container type="folder">5</container> 
+	 			<unittitle>JULIUS CAESAR</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">3</container> 
+	 			<container type="folder">6</container> 
+	 			<unittitle>KA-KIN</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">3</container> 
+	 			<container type="folder">7</container> 
+	 			<unittitle>KIO-KZ</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">3</container> 
+	 			<container type="folder">8</container> 
+	 			<unittitle>LA-LAE</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">3</container> 
+	 			<container type="folder">9</container> 
+	 			<unittitle>LAF-LEO</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">3</container> 
+	 			<container type="folder">10</container> 
+	 			<unittitle>LEP-LIK</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">3</container> 
+	 			<container type="folder">11</container> 
+	 			<unittitle>LIL-LOR</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">3</container> 
+	 			<container type="folder">12</container> 
+	 			<unittitle>LOS-LZ</unittitle>
+	 	</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">3</container> 
+	 			<container type="folder">13</container> 
+	 			<unittitle>LYSISTRATA</unittitle>
+	 	</did>		
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">3</container> 
+	 			<container type="folder">14</container> 
+	 			<unittitle>MA-MAM</unittitle>
+	 	</did>		
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">3</container> 
+	 			<container type="folder">15</container> 
+	 			<unittitle>MAN-MAQ</unittitle></did>
+	
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">3</container> 
+	 			<container type="folder">16</container> 
+	 			<unittitle>MAR-MASS</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">3</container> 
+	 			<container type="folder">17</container> 
+	 			<unittitle>MAST-MEQ</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">3</container> 
+	 			<container type="folder">18</container> 
+	 			<unittitle>MER-MES</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">3</container> 
+	 			<container type="folder">19</container> 
+	 			<unittitle>MET-MIR</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">3</container> 
+	 			<container type="folder">20</container> 
+	 			<unittitle>MIS-MOC</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">3</container> 
+	 			<container type="folder">21</container> 
+	 			<unittitle>MOD-MOT</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">3</container> 
+	 			<container type="folder">22</container> 
+	 			<unittitle>MOU-MUR</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">1</container> 
+	 			<unittitle>MUS-MZ</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">2</container> 
+	 			<unittitle>THE MERCHANT OF VENICE</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">3</container> 
+	 			<unittitle>NA-NIB</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">4</container> 
+	 			<unittitle>NIC-NZ</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">5</container> 
+	 			<unittitle>O-OK</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">6</container> 
+	 			<unittitle>OL-OM</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">7</container> 
+	 			<unittitle>ON-OR</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">8</container> 
+	 			<unittitle>OS-OZ</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">9</container> 
+	 			<unittitle>PA-PAR</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">10</container> 
+	 			<unittitle>PAS-PEL</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">11</container> 
+	 			<unittitle>PEM-PH</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">12</container> 
+	 			<unittitle>PI-PL</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">13</container> 
+	 			<unittitle>PM-PREC</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">14</container> 
+	 			<unittitle>PRED-PRIR</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">15</container> 
+	 			<unittitle>PRIS-PZ</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">16</container> 
+	 			<unittitle>PYGMALION</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">17</container> 
+	 			<unittitle>Q</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">18</container> 
+	 			<unittitle>RA-REC</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">19</container> 
+	 			<unittitle>RED-RIF</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">20</container> 
+	 			<unittitle>RIG-ROL</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">21</container> 
+	 			<unittitle>ROM-ROX</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">22</container> 
+	 			<unittitle>ROPY-RZ</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">23</container> 
+	 			<unittitle>THE RIVALS</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">24</container> 
+	 			<unittitle>ROMEO AND JULIET</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">25</container> 
+	 			<unittitle>SA-SB</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">26</container> 
+	 			<unittitle>SC-SED</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">27</container> 
+	 			<unittitle>SEE-SHAL</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">4</container> 
+	 			<container type="folder">28</container> 
+	 			<unittitle>SHAM-SHOW R</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">5</container> 
+	 			<container type="folder">1</container> 
+	 			<unittitle>SHOW S-SIS</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">5</container> 
+	 			<container type="folder">2</container> 
+	 			<unittitle>SIT-SN</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">5</container> 
+	 			<container type="folder">3</container> 
+	 			<unittitle>SO-SON</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">5</container> 
+	 			<container type="folder">4</container> 
+	 			<unittitle>SOO-STAG</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">5</container> 
+	 			<container type="folder">5</container> 
+	 			<unittitle>STAH-STRAW</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">5</container> 
+	 			<container type="folder">6</container> 
+	 			<unittitle>STRAX-SUM</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">5</container> 
+	 			<container type="folder">7</container> 
+	 			<unittitle>SUN-SZ</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">5</container> 
+	 			<container type="folder">8</container> 
+	 			<unittitle>SHERLOCK HOLMES</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">5</container> 
+	 			<container type="folder">9</container> 
+	 			<unittitle>SHOW BOAT</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">5</container> 
+	 			<container type="folder">10</container> 
+	 			<unittitle>STREET SCENE</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">5</container> 
+	 			<container type="folder">11</container> 
+	 			<unittitle>SUMURUN</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">5</container> 
+	 			<container type="folder">12</container> 
+	 			<unittitle>TA-TEX</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">5</container> 
+	 			<container type="folder">13</container> 
+	 			<unittitle>TEY-THIS T</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">6</container> 
+	 			<container type="folder">1</container> 
+	 			<unittitle>THIS U - THREE S</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">6</container> 
+	 			<container type="folder">2</container> 
+	 			<unittitle>THREE T - TOM</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">6</container> 
+	 			<container type="folder">3</container> 
+	 			<unittitle>TON-TRIAL LT</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">6</container> 
+	 			<container type="folder">4</container> 
+	 			<unittitle>TRIAL M – TZ</unittitle></did></c02> 	
+	 	<c02 level="file"> 
+	 		<did> <container type="box">6</container> 
+	 			<container type="folder">5</container> 
+	 			<unittitle>“TAMING OF THE SHREW”</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">6</container> 
+	 			<container type="folder">6</container> 
+	 			<unittitle>“TRELAWNY OF THE ‘WELLS’”</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">6</container> 
+	 			<container type="folder">7</container> 
+	 			<unittitle>U’s</unittitle></did></c02>
+	  	<c02 level="file"> 
+	 		<did> <container type="box">6</container> 
+	 			<container type="folder">8</container> 
+	 			<unittitle>V’s</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">6</container> 
+	 			<container type="folder">9</container> 
+	 			<unittitle>VAUDEVILLE 1890-1899</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">6</container> 
+	 			<container type="folder">10</container> 
+	 			<unittitle>VAUDEVILLE 1900-1935</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">6</container> 
+	 			<container type="folder">11</container> 
+	 			<unittitle>WA – WHAS</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">6</container> 
+	 			<container type="folder">12</container> 
+	 			<unittitle>WHAT – WHOL</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">6</container> 
+	 			<container type="folder">13</container> 
+	 			<unittitle>WHOM – WIR</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">6</container> 
+	 			<container type="folder">14</container> 
+	 			<unittitle>WIS – WZ</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">6</container> 
+	 			<container type="folder">15</container> 
+	 			<unittitle>Y’S</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">6</container> 
+	 			<container type="folder">16</container> 
+	 			<unittitle>“THE YELLOW JACKET”</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">6</container> 
+	 			<container type="folder">17</container> 
+	 			<unittitle>Z”s</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">6</container> 
+	 			<container type="folder">18</container> 
+	 			<unittitle>ENGLAND (VARIOUS GROUPS)</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">6</container> 
+	 			<container type="folder">19</container> 
+	 			<unittitle>FRANCE I</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">6</container> 
+	 			<container type="folder">20</container> 
+	 			<unittitle>FRANCE II</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">6</container> 
+	 			<container type="folder">21</container> 
+	 			<unittitle>GERMANY</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">6</container> 
+	 			<container type="folder">22</container> 
+	 			<unittitle>FOREIGN COUNTRIES (Misc.)</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">6</container> 
+	 			<container type="folder">23</container> 
+	 			<unittitle>CAROLINA PLAYMAKERS</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">6</container> 
+	 			<container type="folder">24</container> 
+	 			<unittitle>CIRCUS</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">7</container> 
+	 			<container type="folder">1</container> 
+	 			<unittitle>“FAMOUS FOOTLIGHT FAVORITES”</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">7</container> 
+	 			<container type="folder">2</container> 
+	 			<unittitle>GERMAN LANGUAGE THEATER (N.Y)</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">7</container> 
+	 			<container type="folder">3</container> 
+	 			<unittitle>INDIVIDUAL PERFORMERS</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">7</container> 
+	 			<container type="folder">4</container> 
+	 			<unittitle>MOTION PICTURES</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">7</container> 
+	 			<container type="folder">5</container> 
+	 			<unittitle>ONE-ACT PLAYS</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">7</container> 
+	 			<container type="folder">6</container> 
+	 			<unittitle>PASADENA COMMUNITY PLAYHOUSE</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">7</container> 
+	 			<container type="folder">7</container> 
+	 			<unittitle>U.S. (MISC.)</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">7</container> 
+	 			<container type="folder">8</container> 
+	 			<unittitle>VARIOUS BALLET COMPANIES</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">7</container> 
+	 			<container type="folder">9</container> 
+	 			<unittitle>ARIZONA (ALL EXCEPT TUCSON)</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">7</container> 
+	 			<container type="folder">10</container> 
+	 			<unittitle>TUCSON: ARIZONA CIVIC THEATRE</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">8</container> 
+	 			<container type="folder">1</container> 
+	 			<unittitle>TUCSON: ARIZONA THEATRE COMPANY</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">8</container> 
+	 			<container type="folder">2</container> 
+	 			<unittitle>TUCSON: ARIZONA CORRAL THEATRE</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">8</container> 
+	 			<container type="folder">3</container> 
+	 			<unittitle>TUCSON: CHAUTAUQUA</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">8</container> 
+	 			<container type="folder">4</container> 
+	 			<unittitle>TUCSON: MOTION PICTURES</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">8</container> 
+	 			<container type="folder">5</container> 
+	 			<unittitle>TUCSON: PLAY BOX</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">8</container> 
+	 			<container type="folder">6</container> 
+	 			<unittitle>TUCSON: RIALTO THEATRE</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">8</container> 
+	 			<container type="folder">7</container> 
+	 			<unittitle>TUCSON: TUCSON LITTLE THEATRE (A-D)</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">8</container> 
+	 			<container type="folder">8</container> 
+	 			<unittitle>TUCSON: TUCSON LITTLE THEATRE (E-J)</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">8</container> 
+	 			<container type="folder">9</container> 
+	 			<unittitle>TUCSON: TUCSON LITTLE THEATRE (K-O)</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">8</container> 
+	 			<container type="folder">10</container> 
+	 			<unittitle>TUCSON: TUCSON LITTLE THEATRE (P-Z)</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">8</container> 
+	 			<container type="folder">11</container> 
+	 			<unittitle>TUCSON: TUCSON OPERA HOUSE</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">8</container> 
+	 			<container type="folder">12</container> 
+	 			<unittitle>TUCSON: BALLET PROGRAMS</unittitle></did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">8</container> 
+	 			<container type="folder">13</container> 
+	 			<unittitle>TUCSON: MISC. AND VARIOUS I</unittitle></did></c02> 	
+	 	<c02 level="file"> 
+	 		<did> <container type="box">8</container> 
+	 			<container type="folder">14</container> 
+	 			<unittitle>TUCSON: MISC. AND VARIOUS II</unittitle></did></c02>	
+		 </c01>
+  </dsc> 
+</archdesc></ead>

@@ -1,0 +1,297 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+    <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+        audience="internal" id="a0"> 
+        <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library SpecialCollections//text(US::AzU::Documents relating to Southwest history)//en""AZ207.xml"</eadid> 
+        <filedesc> 
+            <titlestmt> 
+                <titleproper>Documents relating to Southwest history
+                    <date normal="1736/1795" era="ce" calendar="gregorian">1736-1795</date><date normal="1736/1740" era="ce" calendar="gregorian">(bulk 1736-1740)</date></titleproper> 
+                <author>Processed by Name of Marìa Araujo.</author> 
+            </titlestmt> 
+            <publicationstmt> 
+                <publisher>University of Arizona Libraries, Special Collections</publisher> 
+                <address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+                <date normal= "2011" era= "ce" calendar = "gregorian">; 2012</date> 
+                <p>Arizona Board of Regents. All Rights Reserved.</p> 
+            </publicationstmt> 
+        </filedesc> 
+        <profiledesc> 
+            <creation>Inventory encoded in Oxygen XML editor by Anne Martinez. 
+                <date era="ce" encodinganalog="date" normal="20120924">September 24, 2012</date></creation> 
+            <langusage>Finding aid is in<language> English.</language></langusage> 
+        </profiledesc> 
+    </eadheader> 
+    <frontmatter> 
+        <titlepage> 
+            <titleproper>Documents relating to Southwest history,<date era= "ce" calendar= "gregorian">1736-1795 (bulk 1736-1740)</date></titleproper> 
+            <num>Collection Number: AZ 207</num> 
+            <publisher>University of Arizona Libraries, Special Collections</publisher> 
+            <list> 
+                <defitem> 
+                    <label>Processed by:</label> 
+                    <item>Marìa Araujo</item> 
+                </defitem> 
+                <defitem> 
+                    <label>Date completed:</label> 
+                    <item> 
+                        <date>May 1977</date></item> 
+                </defitem> 
+                <defitem> 
+                    <label>Encoded by:</label> 
+                    <item>Anne Martinez</item> 
+                </defitem> 
+            </list> 
+            <p>&#x00A9; 20012. Arizona Board of Regents. All rights reserved.</p> 
+        </titlepage> 
+    </frontmatter> 
+    <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+        <did id="a1"> 
+            <head>Collection Summary</head> 
+            <unittitle encodinganalog="245" label="Collection Name:">Documents relating to Southwest history
+                <unitdate type="inclusive" label="Dates:" normal="1736/1795">1736-1795</unitdate>
+                <unitdate normal="1736/1740" era="ce" calendar="gregorian" type="bulk">(bulk 1736-1740)</unitdate></unittitle>	 
+            <unitid label="Collection Number:" encodinganalog="099"
+                repositorycode="AzU" countrycode="us">AZ 207 </unitid> 
+            <origination label="Creator:"> 
+                <persname source="lcnaf" encodinganalog="100">Spain. Archivo General de Indias, Seville.</persname></origination>       
+            <abstract label="Abstract:">Documents highlight the discovery of Silver at Arizonac in 1736 in the jurisdiction of Don Juan Bautista de Anza, the Chief Justice for His Majesty in the Province of Sonora, the career of his son, also named Don Juan Bautista de Anza (1736-1788), who was the Governor of New Mexico, and the military career of Don Josè de Zùñiga (1755 – 1794).</abstract> 
+            <physdesc encodinganalog="300$a" label="Physical Description:"><extent>.6 linear feet</extent></physdesc>
+            <langmaterial>Collection is in <language>Spanish.</language></langmaterial>
+            <repository label="Repository:"> 
+                <corpname>University of Arizona Libraries, Special Collections</corpname> 
+                <address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+                </address></repository>
+        </did> 
+        <originalsloc><head>Location of Originals</head>
+            <p>Originals located in the Archivo General de Indias, Seville, Spain. Reproductions were made possible by Charles Morgan Wood.</p>
+        </originalsloc>
+        <accessrestrict> 
+            <head>Restrictions</head> 
+            <p>None</p> 
+        </accessrestrict> 
+        <userestrict> 
+            <head>Copyright</head> 
+            <p>It is the responsibility of the user to obtain permission to publish
+                from the owner of the copyright (the institution, the creator of the record,
+                the author or his/her transferees, heirs, legates, or literary executors). The
+                user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+                University of Arizona, its officers, employees, and agents from and against all
+                claims made by any person asserting that he or she is an owner of
+                copyright.</p> 
+        </userestrict> 
+        <prefercite> 
+            <head>Credit Line</head> 
+            <p>Documents relating to Southwest history (AZ 207). Special
+                Collections, University of Arizona Libraries.</p> 
+        </prefercite> 
+        <bioghist id="a2" encodinganalog="545"> 
+            <head>Biographical Note</head> 
+            <p>The Archivo General de Indias, located in Seville, Spain holds documents relating to the history of the Spanish Empire in the Americas and the Philippines. In 1785 Charles III decreed that the archives of the Council of the Indies were to be housed here, to bring together all the documents regarding the overseas empire.</p>
+            <p>Juan Bautista de Anza, (1693-1740), was born in Basque country before leaving for New Spain when he was nineteen years old. He quickly became involved in several silver mines throughout Sonora. On August 2, 1721, he joined the regular cavalry as an alférez, or second lieutenant, at the Janos Presidio under Captain Antonio Bezerra Nieto. In November of 1726, he was promoted to captain and assigned to Fronteras, where he established several livestock ranches. At the time of the discovery of silver Arizonac in 1736, he was Captain of the Presidio de Santa Rosa de Corodeguachi and Chief Justice for His Majesty in the Province of Sonora. Thus, it fell to him to decide the question of whether the find was a mine or hidden treasure, the answer of which affected ownership rights of His Majesty. Anza continued as a soldier and statesman for the next few years, until May 9, 1740 when he was ambushed and killed by a group of Apaches when coming home from a routine supply trip.</p>
+            <p>Juan Bautista de Anza’s son, also Juan Bautista de Anza (1735-1788), was Governor of New Mexico from 1777 to 1787. He began his career when he enlisted in the army at the Presidio of Fronteras. His military duties mainly consisted of forays against hostile Native Americans, during the course of which he explored much of what is now Arizona. After the Spanish began colonizing Alta California in 1769, a land route was needed to avoid the long, arduous see voyage. On January 8, 1774 de Anza and a team set out to find the land route. They returned in late May of the same year. In addition, de Anza also found the first overland route to San Francisco Bay, although he did not establish settlement, and a route from Santa Fe to Sonora. On August 24, 1777, the Viceroy of New Spain appointed de Anza as the Governor of the Province of Nuevo Mexico, present day New Mexico. During his tenure as governor, he completed several local military expeditions against tribes defending their homelands. In 1887 he returned to Sonora.  He was appointed commander of the Presidio of Tucson in 1788 but died before he could take office.</p>
+            <p>José de Zúñiga was born in 1755 in Cuautitlán, near Mexico City. He began his military career on October 18, 1781 when he enlisted in the frontier army. On September 8, 1781, he became Commandant of the Presidio of San Diego. In 1792 he was promoted to captain and assigned to the Presidio of Tucson, where he did not arrive until 1794. Zúñiga blazed a trail between Tucson and the Zuni pueblos in 1795, but Apache hostilities prevented that route from becoming well-traveled. During 1804–1806 Zúñiga was the commander at Tucson. He later served at Arizpe, and retired as lieutenant colonel and Adjutant Inspector of Presidios.</p>
+        </bioghist> 
+        <arrangement id="a4" encodinganalog="351$a"> 
+            <head>Arrangement</head> 
+            <p>This collection is organized into three series</p>	 
+            <list> 
+                <item>Arizonac silver discovery documents
+                    <unitdate era="ce" calendar="gregorian">1736-1740</unitdate></item> 
+            </list> 
+            <list> 
+                <item>Don Juan Bautista De Anza documents
+                    <unitdate era="ce" calendar="gregorian">1775-1782</unitdate></item> 
+            </list> 
+            <list> 
+                <item>Don José de Zúñiga documents 
+                    <unitdate era="ce" calendar="gregorian">1778-1795</unitdate></item> 
+            </list> 
+        </arrangement> 
+        <scopecontent id="a3" encodinganalog="520"> 
+            <head>Scope and Content Note</head> 
+            <p>Letters and other documents; consists of 7 volumes of typewritten transcripts created in 1925 from the original manuscripts. Volumes 1-5, 1736-1740, cover discovery of silver at Arizonac in the jurisdiction of Juan Bautista de Anza. Volume 6 and the first half of volume 7 deal with the governorship of Juan Bautista de Anza (son of above mentioned) in New Mexico and his policies toward the Moquis, 1775-1782. The second half of volume 7, 1778-1795, concerns the military career of Don José de Zúñiga. English translations of of almost all documents pertaining to Governor Don Juan Bautista de Anza can be found in Alfred Barbaby Thomas, <title render="underline">Forgotten Frontiers: A Study of the Spanish Indian Policy of Don Juan Bautista de Anza</title>, Bovernor of New Mixico, 1777-1787, University of Oklahoma Press, 1932, with valuable notes and bibliography. Additional information on Don José de Zúñiga can be found in George P. Hammond, "The Zúñiga Journal, Tucson to Santa Fe: The Opening of a Spanish Trade Route, 1788-1795" in <title render="underline">New Mexico Historical Review</title>, v. VI, January 1931.</p> 
+        </scopecontent> 
+        <relatedmaterial id="a6" encodinganalog="5441"><p></p>
+            <title render="underline">Forgotten Frontiers: A Study of the Spanish Indian Policy of Don Juan Bautista de Anza (1693-1740), Governor of New Mexico, 1777-1787</title>
+            <title render="underline">The Zúñiga Journal, Tucson to Santa Fe: The Opening of a Spanish Trade Route, 1788-1795 in New Mexico Historical Review.</title>
+        </relatedmaterial>
+        <controlaccess id="a12"> 
+            <head>Access Terms</head> 
+            <list> 
+                <item> 
+                    <persname encodinganalog="600" source="lcnaf" role="subject">Croix, Teodoro de, 1730-1791.</persname> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <persname encodinganalog="600" source="lcnaf" role="subject">Gálvez, José de, 1720-1787.</persname> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <persname encodinganalog="600" source="lcnaf" role="subject">Vélez de Escalante, Silvestre, d. 1792.</persname> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <persname encodinganalog="600" source="lcnaf" role="subject">Zúñiga, José de, fl. 1782-1795.</persname> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <persname encodinganalog="600" source="lcnaf" role="subject">Hammond, George Peter, 1896-1993.</persname> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <persname encodinganalog="600" source="lcnaf" role="subject">Vizarrón y Eguiarreta, d. 1747.</persname> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <persname encodinganalog="600" source="lcnaf" role="subject">Crespo y Monroy, Benito, 1673-1737.</persname> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <persname encodinganalog="600" source="lcnaf" role="subject">Cañas, Cristóbal de.</persname> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <persname encodinganalog="600" source="lcnaf" role="subject">Toral, José.</persname> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <persname encodinganalog="600" source="lcnaf" role="subject">Echagoyan, Juan de.</persname> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <persname encodinganalog="600" source="lcnaf" role="subject">Melgarejo, Ambrosio,</persname> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <persname encodinganalog="600" source="lcnaf" role="subject">Anza, Juan Bautista de, d. 1739?.</persname> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <persname encodinganalog="600" source="lcnaf" role="subject">Anza, Juan Bautista de, 1735-1788.</persname> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <corpname encodinganalog="610" source="lcnaf" role="subject">Franciscans -- New Mexico.</corpname> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <subject encodinganalog="650" source="lcsh">Silver mines and mining -- Arizona -- History -- 18th century -- Sources.</subject> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <subject encodinganalog="650" source="lcsh">Silver mines and mining -- Mexico -- Sonora (State) -- History -- 18th century -- Sources.</subject> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <subject encodinganalog="650" source="lcsh">Treasure troves -- Mexico.</subject> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <subject encodinganalog="650" source="lcsh">Indians of North America -- Southwest, New -- History -- 18th century -- Sources.</subject> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <subject encodinganalog="650" source="lcsh">Hopi Indians -- History -- 18th century -- Sources.</subject> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <geogname encodinganalog="651" source="lcsh" role="subject">Tucson (Ariz.) -- History -- Sources.</geogname> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <geogname encodinganalog="651" source="lcsh" role="subject">Southwest, New -- History -- To 1848 -- Sources.</geogname> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <geogname encodinganalog="651" source="lcsh" role="subject">Spain -- Colonies -- Administration.</geogname> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <geogname encodinganalog="651" source="lcsh" role="subject">Arizona -- History -- To 1912 -- Sources.</geogname> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <geogname encodinganalog="651" source="lcsh" role="subject">Sonora (Mexico : State) -- History -- Sources.</geogname> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <geogname encodinganalog="651" source="lcsh" role="subject">New Mexico -- History -- To 1848 -- Sources.</geogname> </item> 
+            </list> 
+        </controlaccess> 
+        <dsc type="combined" id="a23"> 
+            <head>Container List</head> 
+            <c01 level="series" id="ser1"> 
+                <did> 
+                    <unittitle>Series I: Arizonac silver discovery documents</unittitle><unitdate type="inclusive">1737-1740</unitdate>
+                </did><scopecontent><p>Documentation debating the question of whether what has been discovered is a mine or a hidden treasure, since the rights of His Majesty are very different in each case. Letters, declarations, depositions, testimonies, acts, decrees, and other materials, present a lively picture of the time and a good cross section of the colorful population of Nueva España. Among those represented are The Bishop of Puebla de los Angeles, Don Benito Crespo, to whom the Captain communicates the news of the discovery; Jesuit missionaries, P. Cristóbol de Canas, P. José Toral, and P. Juan de Echagoyan, who, conuslted by Anza, inclined to the opinion that the discovery is that of a treasure, which, as such, belongs to the King, and advise Anza to report to the Virrey. The Virrey de Nuevo España and the Archbishop of Mexico, Don Juan Antonio de Vizarrón y Eguiarreta, after ordering some samples of the newly discovered silver and the site of the discovery to be thoroughly inspected, submits the matter to the Real Acuerdo, who reach the the conlusion that what has been discovered is a mine. Anza then re-distributes to the first owners the silver he had provisionally requisitioned, while a piece of silver is sent to the King to, so that he may be able to ascertain for himself the accurateness of the Virrey's resolution. The Fiscal de la Audiencia de Mexico, Don Ambrosio Melgarejo, sends and address to the King protesting against the Virrey's decision and states that His Majesty has been defrauded of a treasure.</p></scopecontent>
+                <c02 level="file"> 
+                    <did><container type="volume">1</container>
+                        <unittitle>The discovery of silver at Arizonac in 1736</unittitle>
+                        <unitdate>April 10, 1737-July 13, 1737</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did><container type="volume">2</container>
+                        <unittitle>The discovery of silver at Arizonac in 1736</unittitle>
+                        <unitdate>July 10, 1737</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did><container type="volume">3</container>
+                        <unittitle>The discovery of silver at Arizonac in 1736</unittitle>
+                        <unitdate>September 8, 1737-July 10, 1738</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did><container type="volume">4</container>
+                        <unittitle>The discovery of silver at Arizonac in 1736</unittitle>
+                        <unitdate>July 10, 1738</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did><container type="volume">5</container>
+                        <unittitle>The discovery of silver at Arizonac in 1736</unittitle>
+                        <unitdate>July 19, 1738-July 9, 1740</unitdate>
+                    </did> 
+                </c02> 
+                </c01>
+            <c01 level="series" id="ser2"> 
+                <did> 
+                    <unittitle>Series II: Don Juan Bautista De Anza documents</unittitle><unitdate type="inclusive">1779-1782</unitdate>
+                </did><scopecontent><p>The signers here are, besides Governor Anza, two famous high officials in the government ot Nueva España: el Caballero de Croix, who bears here the titles of Brigadier, or Comandante General de las Provincias, Internas de Nueva España, or Mariscal de Campo (he became later Virrey del Perú); and Don José de Gálvez, Visitador General, made Marqués de Sonora in 1785. Fray Silvestre Vèlez de Escalante signs two very important letters, addressed respectively to the previous governor of New Mexico, Don Pedro Fermín de Mindinueta, and to his Maestro Privincial, P. Isidro Murillo.</p></scopecontent>
+                <c02 level="file"> 
+                    <did><container type="volume">6</container>
+                        <unittitle>Don Juan Bustista de Anza, Governor of New Mexico, and the Moqui</unittitle>
+                        <unitdate>1779-1780</unitdate>
+                    </did> 
+                </c02> 
+            </c01>
+            <c01 level="series" id="ser3"> 
+                <did> 
+                    <unittitle>Series III: Don José de Zúñiga documents</unittitle><unitdate type="inclusive">1778-1795</unitdate>
+                </did><scopecontent><p>These documents relate exclusively to the military career of Don José de Zúñiga, and comprise the following: his appointment as "Alférez del Presidio del Norte"; his appointment as "Teniente de las Compañía del Presidio de San Diego en las Provincias de Californias"; his appointment as "Captain de lad Compañía del PResidio de Tucson" (the first two by Carlos III: the last by Carlos IV); his record of services, previous to his appointment to Tucson; and the journal of his expedition from Tucson to Zuñi.</p></scopecontent>
+                <c02 level="file"> 
+                    <did><container type="volume">7</container>
+                        <unittitle>Don Juan Bustista de Anza, Governor of New Mexico, and the Moqui</unittitle>
+                        <unitdate>April 23, 1782-July 29, 1782</unitdate>
+                        <unittitle>Don José de Zúñiga, Captain of the Presidio of Tucson</unittitle>
+                        <unitdate>August 26, 1778-May 29, 1795</unitdate>
+                    </did> 
+                </c02> 
+            </c01>
+        </dsc> 
+    </archdesc></ead>

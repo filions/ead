@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+   <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0"> 
+      <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special Collections//text
+      	(US::AzU::Documents Relating to Missions in Pimería Alta)//en""UAAZ439.xml"
+      </eadid> 
+      <filedesc> 
+         <titlestmt> 
+         	<titleproper encodinganalog="title">Documents Relating to Missions in Pimería Alta
+	 	       <date normal="1733/1734" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">1733-1734</date>
+	 	       <!-- BE SURE TO POPULATE "date normal= "YYYY/YYYY" attribute. PLACE ATTRIBUTE DATES BETWEEN "   " -->
+	 	    </titleproper>
+         	<titleproper type="filing" altrender="nodisplay"> Documents Relating to Missions in Pimería Alta
+	 	    <!-- [IF AN INDIVIDUAL IS ASSOCIATED LIST LAST NAME, (FIRST NAME MIDDLE INITIAL.) i.e. Flannery, (John S.) COLLECTION DESCRIPTION] OR 
+	 	    [IF NO SPECIFIC PERSON IS ASSOCIATED LIST THE COLLECTION NAME AND DESCRIPTION (i.e. International Student Council general files) -->
+            </titleproper>
+	        <author>Processed by Staff.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date normal= "2016" era= "ce" calendar = "gregorian">; 2016</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+            <date era="ce" encodinganalog="date" normal="20160407">April 07, 2016</date>
+  	     </creation><!-- BE SURE TO POPULATE "date normal= YYYYMMDD" attribute. PLACE ATTRIBUTE DATES BETWEEN "  " -->
+	     <langusage>Finding aid encoded in<language> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc>
+   </eadheader> 
+   <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+      <did id="a1"> 
+         <head>Collection Summary</head> 
+      	<unittitle encodinganalog="245" label="Collection Name:"> Documents Relating to Missions in Pimería Alta
+            <unitdate type="inclusive" label="Dates:" normal="1733/1734">1733-1734</unitdate>
+  	     </unittitle><!-- BE SURE TO POPULATE "Dates normal= yyyy/yyyy" attribute.  PLACE ATTRIBUTE DATES BETWEEN "  " -->	 
+	     <unitid label="Collection Number:" encodinganalog="099" repositorycode="AzU" countrycode="us">AZ 439</unitid>
+	     <origination label="Creator:"> 
+            <persname source="lcnaf" encodinganalog="100">Keller, Ignacio Xavier, 1702-1759.</persname> 
+	     </origination> <!-- CHANGE TAG TO CORPNAME, IF CREATOR IS A COROPORATION/ BUSINESS ETC.  CHANGE "100" ATTRIBUTE TO 110-->
+      	<abstract label="Abstract:">Two holograph documents concerning supplies for either Mission Guevavi or San Xavier del Bac; 
+      								a 1733 letter of transmittal for a supply request from Keller, and a 1734 list of supplies needed from Felipe Segesser.</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description:"><extent>.1 linear feet</extent></physdesc>	 
+	     <repository label="Repository:"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="spa" scriptcode="Latin">Spanish.</language></langmaterial>
+   	        <!-- CHANGE OR ADD FIELD IF MATERIALS ARE IN OTHER LANGUAGES. BE SURE TO CHANGE langcode "" ATTRIBUTE-->
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+         <p>Collection located in Vault. Contact an archivist for further information.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+      	<p>Documents Relating to Missions in Pimería Alta (AZ 439). Special Collections, University of Arizona Libraries.</p>
+      </prefercite> 
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Staff.</p>
+      </processinfo>
+      <bioghist id="a2" encodinganalog="545"> 
+         <head>Biographical Note</head> 
+      	<p>Jesuit missionaries, Sonora, Mexico.</p> 
+      </bioghist> 
+      <arrangement id="a4" encodinganalog="351$a"> 
+         <head>Arrangement</head> 
+  	     <p>This collection is organized chronologically.</p>
+      </arrangement> 
+      <scopecontent id="a3" encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>Two holograph documents concerning supplies for either Mission Guevavi or San Xavier del Bac; a 1733 letter of transmittal for a supply request from Keller, and a 1734 
+      	list of supplies needed from Felipe Segesser.</p> 
+      </scopecontent> 
+      <relatedmaterial id="a6" encodinganalog="5441">
+      	<p>Related materials may be found at: AZ 438.</p>
+      </relatedmaterial> <!-- DELETE TAGS IF COLLECTION DOES NOT HAVE ANY RELATED MATERIALS-->
+      <controlaccess>
+         <head>Access Terms</head>
+         <list type="simple"> <!-- USE SOURCE OR RULES ELEMENT Source=lcnaf or lcsh; Rules=aacr2 or dacs or local.  BE SURE TO CHANGE encodinganalog="  " ATTRIBUTE. ALSO, BE SURE TO DELETE ANY TAGS YOU DO NOT USE-->
+  		    <item>
+  		    	<corpname encodinganalog="610" source= "lcnaf">Jesuits -- Pimería Alta (Mexico and Ariz.) -- History -- 18th century.</corpname><!-- 610 regular; 611 conference; 710 contributor; 711 conference contributor -->
+  		    </item>
+  		    <item>
+  		    	<subject encodinganalog="650" source= "lcsh">Missions -- Pimería Alta (Mexico and Ariz.) -- History -- 18th century.</subject>
+  		    </item>
+  		    <item>
+  		    	<geogname encodinganalog="651" source="lcsh">Pimería Alta (Mexico and Ariz.) -- Church history -- Sources.</geogname>
+  		    </item>
+         	<item>
+         		<persname encodinganalog="700" source= "lcnaf">Segesser, Philipp, 1689-1761.</persname><!-- 600 Creator; 700 Contributor -->
+         	</item>
+         </list>
+      </controlaccess>
+   </archdesc>
+</ead>

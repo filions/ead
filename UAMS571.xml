@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+   <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0"> 
+      <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special Collections//text
+		(US::AzU::Bill Bowers Scrapbook and Interview)//en""UAMS571.xml"
+      </eadid> 
+      <filedesc> 
+         <titlestmt> 
+         	<titleproper encodinganalog="title">Bill Bowers Scrapbook and Interview
+	 	       <date normal="1920/2000" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">circa 1920s-2000s</date>
+	 	       
+	 	    </titleproper>
+	 	    <titleproper type="filing" altrender="nodisplay"> Bowers, (Bill) Scrapbook and Interview
+	 	    
+            </titleproper>
+	        <author>Processed by Steven Burg.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date normal= "2016" era= "ce" calendar = "gregorian">; 2016</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+            <date era="ce" encodinganalog="date" normal="20160628">June 28, 2016</date>
+  	     </creation>
+	     <langusage>Finding aid encoded in<language> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc> 
+   </eadheader>
+   	<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+      <did id="a1"> 
+         <head>Collection Summary</head> 
+      	<unittitle encodinganalog="245" label="Collection Name:"> Bill Bowers Scrapbook and Interview
+            <unitdate type="inclusive" label="Dates:" normal="1920/2000">circa 1920s-2000s</unitdate>
+  	     </unittitle>	 
+	     <unitid label="Collection Number:" encodinganalog="099" repositorycode="AzU" countrycode="us">MS 571</unitid>
+	     <origination label="Creator:"> 
+            <persname source="lcnaf" encodinganalog="100">Bowers, Bill.</persname> 
+	     </origination> 
+      	<abstract label="Abstract:">This collection contains one box of materials relating to Bill Bowers, who is credited with saving one of the bells from the battleship
+      								U.S.S. Arizona and donating it to The University of Arizona.</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description:"><extent>.5 linear feet</extent></physdesc>	 
+	     <repository label="Repository:"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng" scriptcode="Latin">English.</language></langmaterial>
+   	        
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+         <p>There are no restrictions on this collection.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+      	<p>Bill Bowers Scrapbook and Interview (MS 571). Special Collections, University of Arizona Libraries.</p>
+      </prefercite> 
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Steven Burg.</p>
+      </processinfo>
+      <bioghist id="a2" encodinganalog="545"> 
+         <head>Biographical Note</head> 
+      	<p>This collection pertains to materials donated by Bill Bowers, who helped to save one of two bells from the battleship U.S.S. <title render="italic">Arizona</title> from being destroyed.</p>
+      	<p>In 1944, while serving as an Army captain at the Puget Sound Naval Yard in Bremerton, Washington, Bowers came across the bell in a wooden crate while looking for something 
+      	to signal gunmen with. Bowers learned that the bell was going to be melted down at the yard. He called to then University of Arizona President Alfred Atkinson requesting he call 
+      	Arizona&apos;s then Governor Sidney P. Osborn save the bell, made from silver and copper mined in Arizona, from being destroyed.</p>
+      	<p>The bell was delivered to The University of Arizona in 1946. Surprised by the large scale of the bell, a committee placed the bell in the Arizona State Museum until a suitable, 
+      	safe home could be secured. In 1951, the bell was placed in the clock tower of the new Student Union. Although it could be heard ringing after sports victories against out-of-state 
+      	teams, it was enclosed and could not be seen in the old Union&apos;s tower. In its new home, the bell is visible to all and rings monthly to honor outstanding achievement among 
+      	students, faculty and staff at The University of Arizona.</p>
+      </bioghist> 
+      <arrangement id="a4" encodinganalog="351$a"> 
+         <head>Arrangement</head> 
+  	     <p>This collection is organized alphabetically.</p>
+      </arrangement> 
+      <scopecontent id="a3" encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>Materials circa 1920s-2000s: Collection consists of 4 VHS tapes, a DVD, a photographic scrapbook created by Bowers documenting his years as a University of Arizona student, 
+      	as well as some background information about the materials. The scrapbook is considerably fragile due to deteriorated binding.</p>
+      </scopecontent> 
+      <relatedmaterial id="a6" encodinganalog="5441">
+      	<p>More information on the U.S.S. <title render="italic">Arizona</title> may be found in the USS Arizona Collection (AZ 517).</p>
+      </relatedmaterial> 
+      <controlaccess>
+         <head>Access Terms</head>
+         <list type="simple"> 
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Arizona (Battleship) -- History.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Scrapbooks.</subject>
+         	</item>
+         </list>
+      </controlaccess>
+      <dsc type="combined" id="a23"> 
+         <head>Container List</head> 
+         		
+      			<c01 level="file"> 
+           		<did> 
+           		<container type="box">1</container> 
+           		<container type="folder">1</container> 
+           		<unittitle>&quot;A Century Remembered by Bill Bowers", VHS tape,</unittitle>
+           		<unitdate>undated</unitdate>
+		   		</did>
+	     		</c01>
+      	
+      			<c01 level="file"> 
+      			<did> 
+      			<container type="box">1</container> 
+      			<container type="folder">2</container> 
+      			<unittitle>Background information,</unittitle>
+      			<unitdate>1944-1946, 2003</unitdate>
+      			</did>
+      			</c01>
+      	
+     		 	<c01 level="file"> 
+      			<did> 
+      			<container type="box">1</container> 
+      			<container type="folder">3</container> 
+      			<unittitle>Bill Bowers interview, DVD,</unittitle>
+      			<unitdate>May 30, 2003</unitdate>
+      			</did>
+      			</c01>
+      		
+      			<c01 level="file"> 
+      			<did> 
+      			<container type="box">1</container> 
+      			<container type="folder">4</container> 
+      			<unittitle>Bill Bowers interview, VHS tape,</unittitle>
+      			<unitdate>May 30, 2003</unitdate>
+     	 		</did>
+     		 	</c01>
+      	
+    		  	<c01 level="file"> 
+      			<did> 
+      			<container type="box">1</container> 
+      			<container type="folder">5</container> 
+      			<unittitle>Personal photograph album,</unittitle>
+      			<unitdate>circa 1920s</unitdate>
+      			</did>
+     		 	</c01>
+      	
+    		  	<c01 level="file"> 
+      			<did> 
+      			<container type="box">1</container> 
+      			<container type="folder">6</container> 
+      			<unittitle>University of Arizona Alumni Association master tape (1 of 2), VHS tape,</unittitle>
+      			<unitdate>circa 2000</unitdate>
+     	 		</did>
+     		 	</c01>
+      	
+      			<c01 level="file"> 
+      			<did> 
+      			<container type="box">1</container> 
+      			<container type="folder">7</container> 
+      			<unittitle>University of Arizona Alumni Association master tape (2 of 2), VHS tape,</unittitle>
+      			<unitdate>circa 2000</unitdate>
+   		   		</did>
+    		  	</c01>
+      	
+      </dsc> 
+   </archdesc>
+</ead>

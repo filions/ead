@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?filetitle Ernenwein, Leslie papers?>
+<ead relatedencoding="MARC21">
+<eadheader audience="internal" findaidstatus="edited-full-draft"
+ langencoding="iso639-2b"> 
+	<eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
+		Special Collections//text(US::AzU::Leslie Ernenwein papers)//en"
+	 "UAAZ295.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Leslie Ernenwein papers, 
+		  <date>1937-1962</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Phyllis
+		  Ball</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date>&#x00A9; 2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation encodinganalog="500">Inventory encoded by Jennie Stapp 
+		<date>July 30, 2002</date></creation> 
+	 <langusage>Inventory is in<language langcode="en"
+		encodinganalog="546">English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper encodinganalog="245$a">Leslie Ernenwein papers, 
+		<date>1937-1962</date></titleproper> 
+	 <num>Collection Number: AZ 295</num> 
+  	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Phyllis Ball</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>1972</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Jennie Stapp</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 2001. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name:">Papers of Leslie
+		Ernenwein, 
+		<unitdate type="inclusive"
+		 normal="1937/1962">1937-1962</unitdate></unittitle> 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	  repositorycode="AzU" countrycode="us">AZ 295</unitid> 
+	 <origination label="Creator:"> 
+		<persname encodinganalog="100">Ernenwein, Leslie</persname></origination>
+	 <abstract label="Abstract:">This collection includes correspondence,
+		clippings, photographs, background material, notes, typescripts, published
+		articles, and galleys concerning cowboys and the West. Correspondents are
+		publishers and agents. It includes background material for stories about Death
+		Valley, Imperial Valley, and Yuma Prison; and photographs of Yuma Prison and
+		cattle branding.</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+		encodinganalog="300">1.7 linear feet</extent></physdesc> 
+	 <repository label="Repository:"> 
+	 	<corpname encodinganalog="110">University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address></repository> 
+  </did> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Restrictions</head> 
+	 <p>None.</p> 
+  </accessrestrict> 
+  <userestrict encodinganalog="540"> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Credit Line</head> 
+	 <p>Leslie Ernenwein papers(AZ 295). Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p>Leslie Ernenwein was an author of Western stories and a feature writer
+		of the 
+	 <title render="italic">Tucson Daily Citizen</title>.</p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into three series:</p> 
+	 <list> 
+		<item>Series I: Correspondence, 1937-1962</item> 
+		<item>Series II: Writings, ca. 1937-1957</item> 
+		<item>Series III: Background Material, Notes Galleys and Clippings</item>
+	 </list> 
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>This collection includes correspondence, clippings, photographs,
+		background material, notes, typescripts, published articles, and galleys
+		concerning cowboys and the West. Correspondents are publishers and agents. It
+		includes background material for stories about Death Valley, Imperial Valley,
+		and Yuma Prison; and photographs of Yuma Prison and cattle branding.</p> 
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+		  <subject>Journalists -- Arizona</subject></item> 
+		<item> 
+		  <subject>Western stories</subject></item> 
+		<item> 
+		  <genreform>Correspondence</genreform></item> 
+		<item> 
+		  <genreform>Manuscripts</genreform></item> 
+		<item> 
+		  <genreform>Photographs</genreform></item> 
+	 </list> 
+  </controlaccess> 
+  <separatedmaterial encodinganalog="544$2"> 
+	 <head>Separated Material</head> 
+	 <p>Books received with the collection were removed and cataloged
+		separately.</p> 
+  </separatedmaterial> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+		  <unittitle>Series I: Correspondence, 
+			 <unitdate type="inclusive"
+			  normal="1937/1962">1937-1962</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Correspondence: Publishers, popular publications. 
+				<unitdate type="inclusive"
+				 normal="1937/1949">1937-1949</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Correspondence: Publishers, Street &amp; Smith. 
+				<unitdate type="inclusive"
+				 normal="1939/1944">1939-1944</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Correspondence: Publishers, Phoenix Press. 
+				<unitdate type="inclusive"
+				 normal="1941/1946">1941-1946</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">4</container> 
+			 <unittitle>Correspondence: Publishers, Dutton. 
+				<unitdate type="inclusive"
+				 normal="1944/1950">1944-1950</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Correspondence: Publishers, Standard Magazines, Inc. 
+				<unitdate type="inclusive"
+				 normal="1944/1954">1944-1954</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">6</container> 
+			 <unittitle>Correspondence: Publishers, Best Publications, Popular
+				Library. 
+				<unitdate type="inclusive"
+				 normal="1950/1954">1950-1954</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">7</container> 
+			 <unittitle>Correspondence: Publishers, Alan Swallow and Sage Books. 
+				<unitdate type="inclusive"
+				 normal="1947/1950">1947-1950</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">7</container> 
+			 <unittitle>Correspondence: Publishers, Argosy. 
+				<unitdate type="inclusive"
+				 normal="1943/1948">1943-1948</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">7</container> 
+			 <unittitle>Correspondence: Publishers, Curtis Brown, Ltd. 
+				<unitdate type="inclusive"
+				 normal="1943/1946">1943-1946</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">7</container> 
+			 <unittitle>Correspondence: Publishers, Ranch Romances. 
+				<unitdate type="inclusive"
+				 normal="1942/1950">1942-1950</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">7</container> 
+			 <unittitle>Correspondence: Publishers, Robert McBride &amp; Co. 
+				<unitdate type="inclusive"
+				 normal="1946/1947">1946-1947</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">8</container> 
+			 <unittitle>Correspondence: Publishers and miscellaneous. 
+				<unitdate type="inclusive"
+				 normal="1938/1962">1938-1962</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">9</container> 
+			 <unittitle>Correspondence: Agents, Lurton Blassingame. 
+				<unitdate type="inclusive"
+				 normal="1940/1945">1940-1945</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">10</container> 
+			 <unittitle>Correspondence: Agents, Joseph Shaw of S. A. Sanders. 
+				<unitdate type="inclusive"
+				 normal="1946/1947">1946-1947</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">11</container> 
+			 <unittitle>Correspondence: Fan Mail. 
+				<unitdate type="inclusive"
+				 normal="1940/1957">1940-1957</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series II: Writings, 
+			 <unitdate type="inclusive" normal="NaN/1957">ca.
+				1937-1957</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">12</container> 
+			 <unittitle>Articles and Stories (typescripts). </unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Includes:</p> 
+			 <list> 
+				<item>"The Battle Custer Won"</item> 
+				<item>"Nick the Meek"</item> 
+				<item>"Shiftless Slow"</item> 
+				<item>"Trail Boss"</item> 
+				<item>"Weaving a Better Blanket"</item> 
+				<item>"Cow Country Quiz" (a series)</item> 
+			 </list> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">13</container> 
+			 <unittitle>List of Articles and Stories in Publications. </unittitle>
+			 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series III: Background Material, Notes Galleys and
+			 Clippings</unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Background material and notes on Death Valley and 20-Mule
+				Team. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Background material and notes on Imperial Valley.
+				</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Background material and notes on Yuma Prison. </unittitle>
+			 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">4</container> 
+			 <unittitle>Cattle Branding Photographs. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">5</container> 
+			 <unittitle>"Bunkhouse Material." </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">6</container> 
+			 <unittitle>Outline, notes drafts for 
+				<title render="italic">Hell Bent</title>, published as 
+				<title render="italic">Bullet Barricade</title>. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> 
+			 <unittitle>Two notebooks of "references." </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Published stories, articles and book reviews. </unittitle>
+			 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">2</container> 
+			 <unittitle>"Leads" for stories and articles. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">3-7</container> 
+			 <unittitle>Clippings. 
+				<unitdate type="inclusive"
+				 normal="1957/1962">1957-1962</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">8</container> 
+			 <unittitle>Galley: 
+				<title render="italic">Bullet Barricade</title>. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">9</container> 
+			 <unittitle>Galley: 
+				<title render="italic">Give a Man a Gun</title>. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">10</container> 
+			 <unittitle>Galley: 
+				<title render="italic">Gun Hawk</title>. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">11</container> 
+			 <unittitle>Galley: 
+				<title render="italic">High Gun</title>. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">12</container> 
+			 <unittitle>Galley: 
+				<title render="italic">The Texas Gun</title>. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="volume">4</container> 
+			 <unittitle>Scrapbook of clippings. </unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+  </dsc> 
+</archdesc></ead>

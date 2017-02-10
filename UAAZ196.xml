@@ -1,0 +1,2785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?filetitle Jacobs Family Papers?> 
+<ead relatedencoding="MARC21">
+<eadheader audience="internal" findaidstatus="edited-full-draft"
+ langencoding="iso639-2b"> 
+  <eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
+	 Special Collections//text(US::AzU::Jacobs family papers)//en"
+	 "UAAZ196.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Jacobs family papers, 
+		  <date>1861-1909 (bulk 1878-1890)</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Phyllis
+		  Ball.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		  
+		</address> 
+		<date>&#x00A9; 2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation encodinganalog="500">Inventory encoded by Shan Sutton. 
+		<date>February 13, 2001</date></creation> 
+	 <langusage>Inventory is in<language langcode="en"
+		encodinganalog="546">English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper encodinganalog="245$a">Jacobs family papers, 
+		<date>1861-1909 (bulk 1878-1890)</date></titleproper> 
+	 <num>Collection Number: AZ 196</num> 
+  	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Phyllis Ball</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>1963</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Shan Sutton</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 2001. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage>
+</frontmatter>
+<archdesc level="collection"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name:">Jacobs family
+		papers, 
+		<unitdate type="inclusive" normal="">1861-1909 (bulk
+		  1878-1890)</unitdate></unittitle> 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	  repositorycode="AzU" countrycode="us">AZ 196</unitid> 
+	 <origination label="Creator:"> 
+		<famname encodinganalog="100">Jacobs Family</famname></origination> 
+	 <abstract>The collection consists of correspondence, letter books,
+		invoices, financial statements, ledgers, journals, receipts, cancelled checks,
+		debit and credit memos, certificate of deposit stubs, draft registers,
+		collection registers, and remittance registers produced by the daily mercantile
+		and banking business of Lionel and Barron Jacobs.</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+		encodinganalog="300">32 linear feet</extent></physdesc> 
+	 <repository label="Repository:"> 
+	 	<corpname encodinganalog="110">University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		  
+		</address></repository> 
+  </did> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Restrictions</head> 
+	 <p>None.</p> 
+  </accessrestrict> 
+  <userestrict encodinganalog="540"> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Credit Line</head> 
+	 <p>Jacobs family papers(AZ 196). Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p>Lionel (1840-1922) and Barron (1846-1936) Jacobs arrived in Tucson in
+		1867 to open a general store. Their father, Mark I. Jacobs (1816-1894), was an
+		established merchant in San Francisco. The mercantile business operated as M.I.
+		Jacobs and Company until 1875 when Mark Jacobs' active involvement ceased and
+		it then became known as L.M. Jacobs and Company.</p> 
+	 <p>It was a family business serving the mining camps and military
+		establishments in Arizona during the 1870s. Mark Jacobs' sons-in-law, Marcus
+		Katz, Jacob Cohn, Martin Calisher, Wolff Cohn, and their sons were involved in
+		the merchant and money exchange business. Abraham Franklin, the son of Maurice
+		and Victoria Jacobs Franklin, established a branch store in Safford in 1878;
+		and Maurice Calisher, son of Martin and Fanny Jacobs Calisher, operated a store
+		in Florence.</p> 
+	 <p>Their money exchange business grew significantly by 1871; gold coin from
+		San Francisco was exchanged for paper money in Tucson. In 1879, they
+		established the Pima County Bank in Tucson with Barron Jacobs as cashier. A
+		branch agency, Pima County Bank, was also established in Tombstone under the
+		management of Lionel Jacobs. Phillip W. Smith, Heyman Solomon, and Allen
+		Springer were cashiers at various times. The brothers gave up the mercantile
+		part of the business in 1880 to concentrate on banking.</p> 
+	 <p>The banks went through several changes over the years. Pima County Bank
+		became, successively, First National Bank of Tucson in 1882, Bank of Tucson in
+		1886, and Consolidated Bank of Tucson in 1887. Merrill P. Freeman was cashier
+		for Consolidated Bank of Tucson. He resigned in 1887 and established the Santa
+		Cruz Valley Bank. In 1890, the Jacobs brothers sold their ownership of
+		Consolidated Bank of Tucson, purchased the Santa Cruz Valley Bank, and changed
+		its name to the Arizona National Bank. The Agency Pima County Bank in Tombstone
+		changed its name to Cochise County Bank in 1882, and finally closed early in
+		1890 because of Tombstone's depressed economy following the mine closures.</p> 
+	 <p>Lionel and Barron were active in Tucson social life and resided for a
+		time at the Owl's Club, a bachelor's residence for prominent businessmen. They
+		were active in forming the Tucson Literary Society in 1873. Lionel was
+		appointed to the Pima County Board of Supervisors in 1871, was Treasurer of the
+		Territorial Legislature in 1873, and also served on the Tucson City Council. He
+		married Bertha Frank (1865-1955) of San Francisco. He died February 7, 1922 in
+		San Francisco. Barron served as Treasurer of the Territorial Legislature for
+		the two months prior to Lionel. He married Henrietta (Yetta) and they had one
+		daughter, Hilda. Barron died on November 15, 1936 in Washington, D.C., where
+		his daughter resided.</p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into two series:</p> 
+	 <list> 
+		<item>I. Unbound Papers, 
+		  <unitdate type="inclusive"
+		  normal="1861/1896">1861-1896</unitdate></item> 
+		<item>II. Bound Volumes, 
+		  <unitdate type="inclusive"
+		  normal="1867/1909">1867-1909</unitdate></item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>The collection consists of correspondence, letter books, invoices,
+		financial statements, ledgers, journals, receipts, cancelled checks, debit and
+		credit memos, certificate of deposit stubs, draft registers, collection
+		registers, and remittance registers produced by the daily mercantile and
+		banking business of Lionel and Barron Jacobs.</p> 
+	 <p>Correspondence includes letters between Mark Jacobs and his sons, Lionel
+		and Barron, concerning business conditions, needs and decisions. Until 1872,
+		Mark managed the firm through his regular letters to his sons in Tucson. From
+		1872 to 1875, Lionel is residing mostly in San Francisco and directing the
+		business for his father. For this period, the business correspondence is mainly
+		between Lionel in San Francisco and Barron in Tucson. Barron's replies are
+		found in the bound letter books. There is also correspondence from family and
+		friends to Lionel and Barron, 1871 to 1876, including a few letters from their
+		nephew, Selim M. Franklin, who later became a prominent Tucson citizen.</p> 
+	 <p>The rest of the correspondence relates to business matters although some
+		correspondents such as Abraham Franklin, J.B. Collins, and Joe Goldwater
+		include information on local conditions in their letters. From 1878 to 1880,
+		Abraham Franklin writes detailed letters while establishing a branch store in
+		Safford, Arizona. J.B. Collins writes of an 1880 incident when Isaac Clanton,
+		Joe Hill, and Johnny Ringo went on a shooting spree at Jacob's mill and Abraham
+		Franklin's store in Safford. Joe Goldwater owns stores in Bisbee, Contention,
+		and Fairbanks, Arizona, and comments on daily events.</p> 
+	 <p>Materials documenting the purchase of goods from New York, San
+		Francisco, and Mexico and the shipment of goods to Tucson and other locations
+		in southern Arizona, 1861 to 1879, include invoices, correspondence, receipts,
+		and financial statements. The Jacobs brothers contracted with private
+		freighters such as Joseph Pierson, Juan Fernandez, Pedro Aguirre, and the
+		Hooper and Whiting Company to transport their goods. David Neahr was their
+		primary forwarding agent; he transferred goods from steamers at Yuma to freight
+		wagons bound for Tucson. The Jacobs Company also served as forwarding agent for
+		the Terrenate Flour Mill in Jerante, Sonora. Owner Joseph Pierson sent flour to
+		L.M. Jacobs and Company which sold it mainly to nearby military forts.</p> 
+	 <p>Goods were purchased in New York and San Francisco and shipped by
+		steamer up the Colorado River to Yuma, then by freight wagons easterly across
+		the desert to Tucson. Goods were also purchased in Mexico and shipped north to
+		Tucson from Guaymas, Mexico. The goods sold were then delivered to locations
+		throughout Southern Arizona including Oatman, Mission Camp, Gila Bend, Desert
+		Station, Sacaton, Altar, Picacho, Apache Camp, Tombstone, Safford, Florence,
+		Camp Grant, Camp Thomas, Fort Yuma and others.</p> 
+	 <p>Mercantile records representing the sale of goods to individuals,
+		companies, and the military include journals, ledgers, invoices, daily sales
+		blotters, inventories, and registers of distilled spirits received and sold,
+		1867 to 1880. The content of these records is described in the Inventory and
+		Series Description section of this finding aid. Many of these records provide
+		an itemized record of items purchased and prices paid. Their customers include
+		early residents of Tucson, Tombstone, and southern Arizona. Selected names are
+		noted in the inventory but many others exist in the records.</p> 
+	 <p>Banking records consist of journals, ledgers, daily exchange records,
+		certificate of deposit stubs, money order stubs, checks, debit and credit
+		memos, notes and bills receivable, collection registers, remittance registers,
+		draft registers, records of payments for government and other agencies and
+		trial balance sheets. Explanations of information provided in the records is
+		included in the Inventory and Series Description section of this finding aid.
+		The majority of records relate to the Cochise County Bank, but Pima County Bank
+		and Arizona National Bank are also well represented. While most of the loose
+		papers of banking correspondence and cancelled checks relate to the Cochise
+		County Bank, the bound volumes are more evenly divided between banks.</p> 
+	 <p>This collection provides detailed evidence of mercantile and banking
+		practices at the end of the 19th century. Additional highlights include 1875
+		bankruptcy papers for the mercantile company of Philip Drachman and Isaac
+		Goldberg; agreements to supply goods to military camps; daily sales blotters
+		from as early as 1867 showing customer name, items purchased and price paid for
+		each item; an 1870 Citizens Subscription of Indian Campaign giving names and
+		amount contributed; receipt books that show customer name, items shipped, and
+		where shipped, including many for Camp Grant; Distilled Spirits Received and
+		Sold records which give customer name, place, and number of gallons of whiskey
+		delivered; lists of bank depositors showing names of Tombstone and Tucson
+		citizens with amounts they have on deposit; and other bank transactions for
+		individuals showing what they deposited, borrowed, and paid out.</p> 
+	 <p>Some materials in this collection are in Spanish.</p> 
+  </scopecontent> 
+  <relatedmaterial encodinganalog="544$1"> 
+	 <head>Related Material</head> 
+	 <p>Materials concerning the Jacobs family are also located at the Arizona
+		Historical Society, Tucson in collection number MS 380.</p> 
+  </relatedmaterial> 
+  <bibliography> 
+	 <head>Bibliography</head> 
+	 <list> 
+		<item>Moore, Dawn. "Pioneer Banking in Tucson: Lionel and Barron Jacobs
+		  and the Founding of the Pima County Bank," 
+		  <title render="italic">Arizona and the West</title>, 24(4), Winter
+		  1982, p. 305-318.</item> 
+		<item>Schweikart, Larry. "You Can Count On It: The birth of banking in
+		  Arizona," 
+		  <title render="italic">Journal of Arizona History</title>, 22(3),
+		  Autumn 1981, pp. 349-368.</item> 
+	 </list> 
+  </bibliography> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Jacobs, Lionel, 1841-1922 --
+			 Archives</persname></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Jacobs, Barron M., 1847-1936 --
+			 Archives</persname></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Jacobs, Mark I. --
+			 Archives</persname></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <corpname encodinganalog="110">L.M. Jacobs and Company -- Records and
+			 correspondence</corpname></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <corpname encodinganalog="110">Cochise County Bank (Ariz.) -- Records
+			 and correspondence</corpname></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <corpname encodinganalog="110">Arizona National Bank -- Records and
+			 correspondence</corpname></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <corpname encodinganalog="110">Pima County Bank -- Records and
+			 correspondence</corpname></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject>Merchants -- Arizona -- History -- Sources</subject></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject>Bankers -- Arizona -- History -- Sources</subject></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject>Jews -- Arizona -- History -- Sources</subject></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject>Frontier and pioneer life -- Arizona -- History --
+			 Sources</subject></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject>Banks and banking -- Arizona -- History --
+			 Sources</subject></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject>Retail trade -- Arizona -- History -- Sources</subject></item>
+		
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject>Freight and freightage -- West (U.S.) </subject></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject>Military bases -- Arizona -- History -- Sources
+			 </subject></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject>Pioneers -- Arizona </subject></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <geogname>Tucson (Ariz.) -- History -- Sources</geogname></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <geogname>West (U.S.) -- Economic conditions -- 19th century
+			 </geogname></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <geogname>Tombstone (Ariz.) -- History -- To 1912 -- Sources
+			 </geogname></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <genreform>Ledgers</genreform></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <genreform>Correspondence</genreform></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <genreform>Account Books</genreform></item> 
+	 </list> 
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+		  <unittitle>Series I: Unbound Papers, 
+			 <unitdate type="inclusive"
+			  normal="1861/1896">1861-1896</unitdate></unittitle> 
+		</did> 
+		<scopecontent> 
+		  <p>Series I consists of three subseries: General Unbound Papers,
+			 1861-1878; Unbound Records of the Agency Pima County Bank of Tombstone, Cochise
+			 County Bank, and Santa Cruz Valley Bank, 1879-1891; and Unbound Records of
+			 Arizona National Bank, 1889-1896. Within the subseries are correspondence,
+			 invoices, financial statements, accounts, cancelled checks, debit and credit
+			 memos, certificate of deposit stubs, and other materials which are arranged
+			 chronologically within record type in each subseries. General papers include
+			 personal and family correspondence and records relating to L.M. Jacobs and
+			 Company. Agency Pima County Bank and Arizona National Bank records document
+			 bank transactions.</p> 
+		</scopecontent> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>General Unbound Papers, 
+				<unitdate type="inclusive"
+				 normal="1861/1878">1861-1878</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did><container type="box">1</container><container
+				type="folder">1</container> 
+				<unittitle>Correspondence re: shipping, freighting, and merchandise
+				  between San Diego, San Francisco and Tucson. Chief correspondent is David Neahr
+				  of Yuma. 
+				  <unitdate type="inclusive"
+					normal="1861/1875">1861-1875</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">1</container><container
+				type="folder">2</container> 
+				<unittitle>Cash reports, invoices, income statements, and account
+				  summaries for store business. 
+				  <unitdate type="inclusive"
+					normal="1871/1872">1871-1872</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">1</container><container
+				type="folder">3</container> 
+				<unittitle>Receipts, invoices, account statements; includes
+				  agreement to furnish beef to U.S. military camps. 
+				  <unitdate type="inclusive"
+					normal="1873/1874">1873-1874</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">1</container><container
+				type="folder">4</container> 
+				<unittitle>Receipts, invoices, orders. 
+				  <unitdate type="inclusive" normal="">January-August,
+					 1875</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">1</container><container
+				type="folder">5</container> 
+				<unittitle>Receipts, invoices; includes bankruptcy papers for
+				  company of Philip Drachman and Isaac Goldberg. 
+				  <unitdate type="inclusive" normal="">September-December,
+					 1875</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">1</container><container
+				type="folder">6</container> 
+				<unittitle>Correspondence from M.I. Jacobs in San Francisco to his
+				  sons, Lionel and Barron in Tucson; includes business matters and personal
+				  philosophy. 
+				  <unitdate type="inclusive"
+					normal="1868/1871">1868-1871</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">1</container><container
+				type="folder">7</container> 
+				<unittitle>Correspondence from M.I. Jacobs to Barron and Lionel,
+				  1872, and from Lionel in San Francisco to Barron in Tucson, 1873-1875, chiefly
+				  concerning store business. 
+				  <unitdate type="inclusive" normal="">1872-May,
+					 1875</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">1</container><container
+				type="folder">8</container> 
+				<unittitle>Correspondence from Lionel in San Francisco to Barron in
+				  Tucson concerning merchandise selection and suppliers. 
+				  <unitdate type="inclusive" normal="">June-November,
+					 1875</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">2</container><container
+				type="folder">1</container> 
+				<unittitle>Correspondence to Lionel from family members; includes
+				  letters from Lionel in New York and Paris to Barron in Tucson and letters from
+				  Selim M. Franklin, nephew, from Berkeley. 
+				  <unitdate type="inclusive"
+					normal="1871/1876">1871-1876</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">2</container><container
+				type="folder">2</container> 
+				<unittitle>Correspondence to Lionel from family and friends. 
+				  <unitdate type="inclusive"
+					normal="1871/1875">1871-1875</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">2</container><container
+				type="folder">3</container> 
+				<unittitle>Correspondence, business and invoices for purchases in
+				  New York. Correspondents include David Neahr. 
+				  <unitdate type="inclusive" normal="">January-February,
+					 1876</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">2</container><container
+				type="folder">4-8</container> 
+				<unittitle>Correspondence, business, customer orders, suppliers
+				  invoices. 
+				  <unitdate type="inclusive" normal="">March, 1876-December,
+					 1877</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">3</container><container
+				type="folder">1</container> 
+				<unittitle>Correspondence from M.I. Jacobs to Barron and Lionel
+				  concerning money matters. 
+				  <unitdate type="inclusive"
+					normal="1876/1877">1876-1877</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">3</container><container
+				type="folder">2</container> 
+				<unittitle>Banking and customer orders; Pima County Bank and
+				  Arizona National Bank of Tucson, Arizona. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">3</container><container
+				type="folder">3-7</container> 
+				<unittitle>Business correspondence, New York purchase invoices,
+				  financial accounts; includes petty ledger balances listing many Tucsonans names
+				  and dollar amounts. Also includes letters from Abraham Franklin while
+				  establishing new store in Safford, Arizona. 
+				  <unitdate type="inclusive" normal="">January-October,
+					 1878</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">4</container><container
+				type="folder">1</container> 
+				<unittitle>Financial accounts, loan accounts, San Francisco
+				  purchase invoices, and orders; includes supply order from Isaac Clanton. 
+				  <unitdate type="inclusive" normal="">November-December,
+					 1878</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">4</container><container
+				type="folder">2</container> 
+				<unittitle>Cancelled checks. 
+				  <unitdate type="inclusive" normal="">July-August,
+					 1878</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">4</container><container
+				type="folder">3-6</container> 
+				<unittitle>Accounts, invoices, purchase invoices; includes
+				  correspondence from Abraham Franklin at store in Safford, Arizona. 
+				  <unitdate type="inclusive" normal="">January-June,
+					 1879</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">4</container><container
+				type="folder">7</container> 
+				<unittitle>Accounts, invoices, purchase invoices, and Pima County
+				  Bank weekly statements. 
+				  <unitdate type="inclusive" normal="">July-September,
+					 1879</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Unbound Records: Agency Pima County Bank of Tombstone,
+				Cochise County Bank, First National Bank of Tucson, and Santa Cruz Valley Bank,
+				
+				<unitdate type="inclusive"
+				 normal="1877/1891">1877-1891</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did><container type="box">5</container><container
+				type="folder">1-2</container> 
+				<unittitle>Agency Pima County Bank of Tombstone: Correspondence,
+				  business, invoices, weekly statements. 
+				  <unitdate type="inclusive" normal="">October-December,
+					 1879</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">5</container><container
+				type="folder">3</container> 
+				<unittitle>Agency Pima County Bank of Tombstone: Correspondence
+				  from M.I. Jacobs in San Francisco to Barron in Tucson, chiefly business. 
+				  <unitdate type="inclusive" normal="">June-November,
+					 1879</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">5</container><container
+				type="folder">4</container> 
+				<unittitle>Agency Pima County Bank of Tombstone: Correspondence
+				  from Lionel in San Francisco to Barron, chiefly business. 
+				  <unitdate type="inclusive" normal="">August-November,
+					 1879</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">5</container><container
+				type="folder">5</container> 
+				<unittitle>Agency Pima County Bank of Tombstone: Cancelled checks,
+				  check register, deposit slips. 
+				  <unitdate type="inclusive"
+					normal="1879">1879</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">5</container><container
+				type="folder">6-7</container> 
+				<unittitle>Agency Pima County Bank of Tombstone: Correspondence,
+				  business, invoices; includes letter to Barron from J.B. Collins at Maxey, Ariz.
+				  near Fort Thomas. He details a shooting spree by Isaac Clanton and others at
+				  the Jacobs' mill in Safford. 
+				  <unitdate type="inclusive" normal="">January-July,
+					 1880</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">5</container><container
+				type="folder">8</container> 
+				<unittitle>Agency Pima County Bank of Tombstone: Lists of checks
+				  drawn on Tombstone branch, orders to pay. 
+				  <unitdate type="inclusive" normal="1880">August,
+					 1880</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">6</container><container
+				type="folder">1</container> 
+				<unittitle>Agency Pima County Bank of Tombstone: Lists of checks
+				  drawn on Tombstone branch. 
+				  <unitdate type="inclusive" normal="">September-December,
+					 1880</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">6</container><container
+				type="folder">2</container> 
+				<unittitle>Agency Pima County Bank of Tombstone: Correspondence
+				  from M.I. Jacobs to Barron and Lionel; chiefly business. 
+				  <unitdate type="inclusive" normal="">July-November,
+					 1880</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">6</container><container
+				type="folder">3-4</container> 
+				<unittitle>Agency Pima County Bank of Tombstone: Cancelled checks,
+				  deposit slips. 
+				  <unitdate type="inclusive"
+				  normal="1880">1880</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">6</container><container
+				type="folder">5-8</container> 
+				<unittitle>Agency Pima County Bank of Tombstone: Correspondence
+				  concerning banking, monthly lists of balances consisting of Tombstone residents
+				  names and amounts including V.W. Earp, J.H. Behan, J.H. Slaughter and others. 
+				  <unitdate type="inclusive" normal="">January-August,
+					 1881</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">7</container><container
+				type="folder">1-2</container> 
+				<unittitle>Agency Pima County Bank of Tombstone: Banking
+				  transactions and correspondence. 
+				  <unitdate type="inclusive" normal="">September-December,
+					 1881</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">7</container><container
+				type="folder">3-4</container> 
+				<unittitle>Agency Pima County Bank of Tombstone: Cancelled checks,
+				  deposit slips. 
+				  <unitdate type="inclusive"
+				  normal="1881">1881</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">7</container><container
+				type="folder">5-7</container> 
+				<unittitle>Agency Pima County Bank of Tombstone: Banking
+				  transactions, lists of checks drawn on bank. (name changes to Cochise County
+				  Bank). 
+				  <unitdate type="inclusive" normal="">January-May,
+					 1882</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">8</container><container
+				type="folder">1</container> 
+				<unittitle>Cochise County Bank: Banking correspondence and lists of
+				  checks drawn. 
+				  <unitdate type="inclusive" normal="">June-December,
+					 1882</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">8</container><container
+				type="folder">2</container> 
+				<unittitle>Cochise County Bank: Cancelled checks, debit/credit
+				  memos, deposit slips. 
+				  <unitdate type="inclusive"
+				  normal="1882">1882</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">8</container><container
+				type="folder">4</container> 
+				<unittitle>Cochise County Bank: Certificates of deposit. 
+				  <unitdate type="inclusive"
+				  normal="1882">1882</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">8</container><container
+				type="folder">5-6</container> 
+				<unittitle>Cochise County Bank: Banking correspondence and
+				  transactions. 
+				  <unitdate type="inclusive" normal="">January-April,
+					 1883</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">9</container><container
+				type="folder">1-3</container> 
+				<unittitle>Cochise County Bank: Banking correspondence and
+				  transactions. 
+				  <unitdate type="inclusive" normal="">May-December,
+					 1883</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">9</container><container
+				type="folder">4-5</container> 
+				<unittitle>Cochise County Bank: Cancelled checks, deposit slips. 
+				  <unitdate type="inclusive"
+				  normal="1883">1883</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">9</container><container
+				type="folder">6</container> 
+				<unittitle>Cochise County Bank: Certificates of deposit. 
+				  <unitdate type="inclusive"
+				  normal="1883">1883</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">10</container><container
+				type="folder">1-3</container> 
+				<unittitle>Cochise County Bank: Various transactions. 
+				  <unitdate type="inclusive" normal="">January-December,
+					 1884</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">10</container><container
+				type="folder">4</container> 
+				<unittitle>Cochise County Bank: transactions with A.A. Castenada
+				  and Company. Correspondence from Joe Goldwater of this company; contains brief
+				  mentions of Bisbee occurrences. 
+				  <unitdate type="inclusive" normal="">March-September,
+					 1884</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">10</container><container
+				type="folder">5</container> 
+				<unittitle>Cochise County Bank: Transactions with Chemical National
+				  Bank, N.Y. including monthly statements. 
+				  <unitdate type="inclusive"
+				  normal="1884">1884</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">10</container><container
+				type="folder">6</container> 
+				<unittitle>Cochise County Bank: Transactions with First National
+				  Bank of Tucson including monthly statements of account. 
+				  <unitdate type="inclusive"
+				  normal="1884">1884</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">10</container><container
+				type="folder">7</container> 
+				<unittitle>Cochise County Bank: Transactions with First National
+				  Bank of San Francisco. 
+				  <unitdate type="inclusive"
+				  normal="1884">1884</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">10</container><container
+				type="folder">8</container> 
+				<unittitle>First National Bank of Tucson: Transactions with
+				  National Park Bank, N.Y. 
+				  <unitdate type="inclusive"
+				  normal="1884">1884</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container
+				type="folder">1</container> 
+				<unittitle>Cochise County Bank: Deposit slips, credit memos. 
+				  <unitdate type="inclusive"
+				  normal="1884">1884</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container
+				type="folder">2</container> 
+				<unittitle>Cochise County Bank: Cancelled checks, debit memos. 
+				  <unitdate type="inclusive"
+				  normal="1884">1884</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container
+				type="folder">3-6</container> 
+				<unittitle>Cochise County Bank: Transactions, statements of
+				  accounts with other banks. 
+				  <unitdate type="inclusive" normal="">January-May,
+					 1885</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container
+				type="folder">1-7</container> 
+				<unittitle>Cochise County Bank: Transactions; folder 7 includes
+				  lists of payees of Cochise County warrants. 
+				  <unitdate type="inclusive" normal="">June-December,
+					 1885</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container
+				type="folder">8</container> 
+				<unittitle>Cochise County Bank: Cancelled checks, debit memos,
+				  deposit slips. 
+				  <unitdate type="inclusive"
+				  normal="1885">1885</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">13</container><container
+				type="folder">1</container> 
+				<unittitle>Cochise County Bank: Transactions; Bank of California,
+				  San Francisco account transactions with Cochise County Bank. 
+				  <unitdate type="inclusive"
+				  normal="1885">1885</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">13</container><container
+				type="folder">2-3</container> 
+				<unittitle>Cochise County Bank: Transactions; The Bank of Tucson
+				  account transactions with Cochise County Bank. 
+				  <unitdate type="inclusive" normal="">February-December,
+					 1885</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">13</container><container
+				type="folder">4</container> 
+				<unittitle>Cochise County Bank: Transactions with A.A. Castenada
+				  and Company; includes correspondence from Joe Goldwater. 
+				  <unitdate type="inclusive"
+				  normal="1885">1885</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">13</container><container
+				type="folder">5-6</container> 
+				<unittitle>Cochise County Bank: Transactions with Chemical National
+				  Bank. 
+				  <unitdate type="inclusive"
+				  normal="1885">1885</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">13</container><container
+				type="folder">7</container> 
+				<unittitle>Cochise County Bank: Correspondence and transactions
+				  from Copper Queen Mining Company; Ben Williams, Superintendent. 
+				  <unitdate type="inclusive"
+				  normal="1885">1885</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">13</container><container
+				type="folder">8</container> 
+				<unittitle>Cochise County Bank: Correspondence and transactions
+				  with J. Goldwater and Company; includes comments on Bisbee. 
+				  <unitdate type="inclusive" normal="">February-June,
+					 1885</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container
+				type="folder">1</container> 
+				<unittitle>Cochise County Bank: Correspondence and transactions
+				  with J. Goldwater and Company ; includes comments on Bisbee. 
+				  <unitdate type="inclusive" normal="">July-December,
+					 1885</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container
+				type="folder">2</container> 
+				<unittitle>Cochise County Bank: Correspondence concerning
+				  transactions with Zeckendorf and Company, Tucson. 
+				  <unitdate type="inclusive"
+				  normal="1885">1885</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container
+				type="folder">3-6</container> 
+				<unittitle>Cochise County Bank: Correspondence and transactions
+				  with various banks and customers. 
+				  <unitdate type="inclusive" normal="">January-October,
+					 1886</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">15</container><container
+				type="folder">1</container> 
+				<unittitle>Cochise County Bank: Correspondence and transactions
+				  with various banks and customers. 
+				  <unitdate type="inclusive" normal="">November-December,
+					 1886</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">15</container><container
+				type="folder">2</container> 
+				<unittitle>Cochise County Bank: Transactions with Bank of Tucson. 
+				  <unitdate type="inclusive"
+				  normal="1886">1886</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">15</container><container
+				type="folder">3</container> 
+				<unittitle>Cochise County Bank: Transactions with Bank of
+				  California, San Francisco. 
+				  <unitdate type="inclusive"
+				  normal="1886">1886</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">15</container><container
+				type="folder">4</container> 
+				<unittitle>Cochise County Bank: Transactions with Copper Queen
+				  Mining Company. 
+				  <unitdate type="inclusive"
+				  normal="1886">1886</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">15</container><container
+				type="folder">5</container> 
+				<unittitle>Cochise County Bank: Transactions with Chemical National
+				  Bank. 
+				  <unitdate type="inclusive"
+				  normal="1886">1886</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">15</container><container
+				type="folder">6</container> 
+				<unittitle>Cochise County Bank: Transactions with First National
+				  Bank, Deming, N.M. 
+				  <unitdate type="inclusive"
+				  normal="1886">1886</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">15</container><container
+				type="folder">7</container> 
+				<unittitle>Cochise County Bank: Transactions with J. Goldwater and
+				  Company, Bisbee, Fairbanks, and Contention. 
+				  <unitdate type="inclusive"
+				  normal="1886">1886</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">15</container><container
+				type="folder">8</container> 
+				<unittitle>Cochise County Bank: Transactions with Zeckendorf and
+				  Company. 
+				  <unitdate type="inclusive"
+				  normal="1886">1886</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container
+				type="folder">1-2</container> 
+				<unittitle>Cochise County Bank: Cancelled checks, debit memos. 
+				  <unitdate type="inclusive"
+				  normal="1886">1886</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container
+				type="folder">3-7</container> 
+				<unittitle>Cochise County Bank: Correspondence and transactions;
+				  includes Chemical National Bank, Consolidated Bank of Tucson. 
+				  <unitdate type="inclusive"
+				  normal="1887">1887</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">17</container><container
+				type="folder">1-2</container> 
+				<unittitle>Cochise County Bank: Cancelled checks, debit memos. 
+				  <unitdate type="inclusive"
+				  normal="1887">1887</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">17</container><container
+				type="folder">3-8</container> 
+				<unittitle>Cochise County Bank: Correspondence and transactions. 
+				  <unitdate type="inclusive"
+				  normal="1887">1887</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">18</container><container
+				type="folder">1</container> 
+				<unittitle>Cochise County Bank: Transactions with Bank of
+				  California, San Francisco. 
+				  <unitdate type="inclusive"
+				  normal="1888">1888</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">18</container><container
+				type="folder">2</container> 
+				<unittitle>Cochise County Bank: Transactions with Consolidated Bank
+				  of Tucson. 
+				  <unitdate type="inclusive"
+				  normal="1888">1888</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">18</container><container
+				type="folder">3-5</container> 
+				<unittitle>Cochise County Bank: Transactions with J. Goldwater and
+				  Company. 
+				  <unitdate type="inclusive"
+				  normal="1888">1888</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">18</container><container
+				type="folder">6</container> 
+				<unittitle>Cochise County Bank: Cancelled checks, debit memos. 
+				  <unitdate type="inclusive"
+				  normal="1888">1888</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">18</container><container
+				type="folder">7</container> 
+				<unittitle>Santa Cruz Valley Bank: Miscellaneous transactions
+				  customers include Colin Cameron, J.H. Slaughter, and J. Goldwater and Company. 
+				  <unitdate type="inclusive"
+				  normal="1889">1889</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">18</container><container
+				type="folder">8</container> 
+				<unittitle>Santa Cruz Valley Bank: Cancelled checks, debit memos,
+				  credit memos. 
+				  <unitdate type="inclusive"
+				  normal="1889">1889</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">19</container><container
+				type="folder">1</container> 
+				<unittitle>Santa Cruz Valley Bank: Transactions; includes Colin
+				  Cameron and San Rafael Cattle Company banking. 
+				  <unitdate type="inclusive" normal="">January-February,
+					 1889</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">19</container><container
+				type="folder">2-4</container> 
+				<unittitle>Santa Cruz Valley Bank: Transactions. 
+				  <unitdate type="inclusive" normal="">March-December,
+					 1890</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">19</container><container
+				type="folder">5</container> 
+				<unittitle>Santa Cruz Valley Bank: Transactions with Chemical
+				  National Bank. 
+				  <unitdate type="inclusive"
+				  normal="1890">1890</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">19</container><container
+				type="folder">6</container> 
+				<unittitle>Santa Cruz Valley Bank: Transactions with London, Paris
+				  and American Bank. 
+				  <unitdate type="inclusive"
+				  normal="1890">1890</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">19</container><container
+				type="folder">7</container> 
+				<unittitle>Santa Cruz Valley Bank: State National Bank, El Paso. 
+				  <unitdate type="inclusive"
+				  normal="1890">1890</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">19</container><container
+				type="folder">8</container> 
+				<unittitle>Santa Cruz Valley Bank: Checks. 
+				  <unitdate type="inclusive"
+				  normal="1890">1890</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">19</container><container
+				type="folder">9</container> 
+				<unittitle>Santa Cruz Valley Bank: Transactions, general. 
+				  <unitdate type="inclusive"
+				  normal="1891">1891</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container
+				type="folder">1</container> 
+				<unittitle>Arizona National Bank (known earlier as the Santa Cruz
+				  Valley Bank): Transactions, general. 
+				  <unitdate type="inclusive"
+				  normal="1891">1891</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container
+				type="folder">2</container> 
+				<unittitle>Arizona National Bank: Transactions with Chemical
+				  National Bank. 
+				  <unitdate type="inclusive"
+				  normal="1891">1891</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container
+				type="folder">3</container> 
+				<unittitle>Arizona National Bank: Transactions with London, Paris
+				  and American Bank. 
+				  <unitdate type="inclusive"
+				  normal="1891">1891</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container
+				type="folder">4</container> 
+				<unittitle>Arizona National Bank: Transactions with State National
+				  Bank, El Paso. 
+				  <unitdate type="inclusive"
+				  normal="1891">1891</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container
+				type="folder">5</container> 
+				<unittitle>Arizona National Bank: Transactions, general. 
+				  <unitdate type="inclusive"
+				  normal="1892">1892</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container
+				type="folder">6</container> 
+				<unittitle>Arizona National Bank: Transactions with Bank of
+				  Tombstone. 
+				  <unitdate type="inclusive"
+				  normal="1892">1892</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container
+				type="folder">7</container> 
+				<unittitle>Arizona National Bank: Transactions with London, Paris
+				  and American Bank. 
+				  <unitdate type="inclusive"
+				  normal="1892">1892</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container
+				type="folder">1-2</container> 
+				<unittitle>Arizona National Bank: Transactions with State National
+				  Bank, El Paso. 
+				  <unitdate type="inclusive"
+				  normal="1892">1892</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container
+				type="folder">3</container> 
+				<unittitle>Arizona National Bank: Transactions with Valley Bank of
+				  Phoenix. 
+				  <unitdate type="inclusive"
+				  normal="1892">1892</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container
+				type="folder">4</container> 
+				<unittitle>Arizona National Bank: Transactions, general; chiefly
+				  National Bank of Commerce, Saint Louis and First National Bank of Chicago. 
+				  <unitdate type="inclusive"
+				  normal="1893">1893</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container
+				type="folder">5</container> 
+				<unittitle>Arizona National Bank: Transactions with Bank of
+				  Tombstone. 
+				  <unitdate type="inclusive"
+				  normal="1893">1893</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container
+				type="folder">6</container> 
+				<unittitle>Arizona National Bank: Transactions with State National
+				  Bank, El Paso. 
+				  <unitdate type="inclusive"
+				  normal="1893">1893</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container
+				type="folder">7</container> 
+				<unittitle>Arizona National Bank: Transactions with Valley Bank of
+				  Phoenix. 
+				  <unitdate type="inclusive"
+				  normal="1893">1893</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container
+				type="folder">8</container> 
+				<unittitle>Arizona National Bank: Transactions, general. 
+				  <unitdate type="inclusive" normal="">January-July,
+					 1894</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">22</container><container
+				type="folder">1-2</container> 
+				<unittitle>Arizona National Bank: Transactions, general. 
+				  <unitdate type="inclusive" normal="">August-December,
+					 1894</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">22</container><container
+				type="folder">3</container> 
+				<unittitle>Arizona National Bank: Transactions, general. 
+				  <unitdate type="inclusive"
+				  normal="1895">1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">22</container><container
+				type="folder">4</container> 
+				<unittitle>Arizona National Bank: Transactions with Chemical
+				  National Bank. 
+				  <unitdate type="inclusive"
+				  normal="1895">1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">22</container><container
+				type="folder">5</container> 
+				<unittitle>Arizona National Bank: Transactions with Farmers and
+				  Merchants Bank, Los Angeles. 
+				  <unitdate type="inclusive"
+				  normal="1895">1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">22</container><container
+				type="folder">6</container> 
+				<unittitle>Arizona National Bank: Transactions with Phoenix
+				  National Bank. 
+				  <unitdate type="inclusive"
+				  normal="1895">1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">22</container><container
+				type="folder">7</container> 
+				<unittitle>Arizona National Bank: Transactions with State National
+				  Bank, El Paso. 
+				  <unitdate type="inclusive"
+				  normal="1895">1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">23</container><container
+				type="folder">1-4</container> 
+				<unittitle>Arizona National Bank: Transactions with London, Paris
+				  and American Bank. 
+				  <unitdate type="inclusive"
+				  normal="1895">1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">23</container><container
+				type="folder">5</container> 
+				<unittitle>Arizona National Bank: Cancelled checks from The
+				  Exchange Bank, N.M. and Old Abe Company in White Oaks, N.M. No apparent
+				  connection to the Arizona banks. 
+				  <unitdate type="inclusive"
+				  normal="1898/1900">1898-1900</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">23</container><container
+				type="folder">6</container> 
+				<unittitle>Arizona National Bank: Transactions, general. 
+				  <unitdate type="inclusive"
+				  normal="1896">1896</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">23</container><container
+				type="folder">7</container> 
+				<unittitle>Arizona National Bank: Transactions with Farmers and
+				  Merchants' Bank. 
+				  <unitdate type="inclusive"
+					normal="1896">1896</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">23</container><container
+				type="folder">8</container> 
+				<unittitle>Arizona National Bank: Transactions with Phoenix
+				  National Bank. 
+				  <unitdate type="inclusive"
+					normal="1896">1896</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">24</container><container
+				type="folder">1</container> 
+				<unittitle>Arizona National Bank: Transactions with London, Paris
+				  and American Bank. 
+				  <unitdate type="inclusive"
+					normal="1896">1896</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">24</container><container
+				type="folder">2</container> 
+				<unittitle>Arizona National Bank: Transactions with State National
+				  Bank, El Paso. 
+				  <unitdate type="inclusive"
+					normal="1896">1896</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series II: Bound Volumes, 
+			 <unitdate type="inclusive"
+			  normal="1867/1909">1867-1909</unitdate></unittitle> 
+		</did> 
+		<scopecontent> 
+		  <p>Series II consists of five subseries: Bound volumes of L.M. Jacobs
+			 and Co., 1867-1880; Bound volumes of Pima County Bank, First National Bank of
+			 Tucson, Bank of Tucson, and Consolidated Bank of Tucson, 1879-1809; Bound
+			 volumes of Agency Pima County Bank, and Cochise County Bank, 1880-1889; Bound
+			 volumes of Arizona National Bank, 1889-1909; and Miscellaneous bound volume,
+			 circa. 1896. The volumes consist of journals and ledgers which include invoice
+			 records, daily sales blotters, daily office blotters, daily cash sales, and
+			 other records.</p> 
+		</scopecontent> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Bound volumes of L.M. Jacobs and Co., 
+				<unitdate type="inclusive"
+				 normal="1867/1880">1867-1880</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did><container type="volume">1</container> 
+				<unittitle>Journal, daily accounts of sales and returns. 
+				  <unitdate type="inclusive" normal="">July10, 1869-February 28,
+					 1870</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">1A</container> 
+				<unittitle>Journal. 
+				  <unitdate type="inclusive" normal="">May 1, 1872-April 30,
+					 1873</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">2</container> 
+				<unittitle>Journal. 
+				  <unitdate type="inclusive" normal="">May 1, 1873-May 31,
+					 1875</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">3</container> 
+				<unittitle>Journal. 
+				  <unitdate type="inclusive" normal="">June 1, 1875-September 30,
+					 1878</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">4</container> 
+				<unittitle>Ledger, summary accounts by customer, itemized
+				  merchandise. 
+				  <unitdate type="inclusive" normal="">March, 1868-March,
+					 1870</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">5</container> 
+				<unittitle>Ledger, merchandise not itemzied. 
+				  <unitdate type="inclusive" normal="">March, 1870-April,
+					 1873</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">6</container> 
+				<unittitle>Ledger, itemized merchandise. 
+				  <unitdate type="inclusive" normal="">January-May,
+					 1873</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">7</container> 
+				<unittitle>Ledger, merchandise not itemized. 
+				  <unitdate type="inclusive" normal="">July, 1875-March,
+					 1878</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">8</container> 
+				<unittitle>Invoice record, itemized lists of goods by supplier,
+				  gives method of transportation including ships, U.S. mail, stage, etc. 
+				  <unitdate type="inclusive" normal="">January, 1869-August,
+					 1872</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">9</container> 
+				<unittitle>Invoice record. 
+				  <unitdate type="inclusive" normal="">September, 1872-October,
+					 1876</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">10</container> 
+				<unittitle>Invoice record. 
+				  <unitdate type="inclusive" normal="">October, 1876-August,
+					 1879</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">11</container> 
+				<unittitle>Daily sales blotter; earliest daily record of sales,
+				  gives customer name, items purchased and price. 
+				  <unitdate type="inclusive" normal="">July 7, 1867-December 30,
+					 1868</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">12</container> 
+				<unittitle>Daily sales blotter. 
+				  <unitdate type="inclusive" normal="">October 17, 1870-October 15,
+					 1871</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">13</container> 
+				<unittitle>Daily sales blotter. 
+				  <unitdate type="inclusive" normal="">October 16, 1871-April 30,
+					 1872</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">14</container> 
+				<unittitle>Daily sales blotter. 
+				  <unitdate type="inclusive" normal="">May 1, 1872-March 1,
+					 1873</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">15</container> 
+				<unittitle>Daily sales blotter. 
+				  <unitdate type="inclusive" normal="">December 3, 1873-September
+					 30, 1874</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">16</container> 
+				<unittitle>Daily sales blotter. 
+				  <unitdate type="inclusive" normal="">May 1-September 30,
+					 1875</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">17</container> 
+				<unittitle>Daily sales blotter. 
+				  <unitdate type="inclusive" normal="">October 1, 1875-January 31,
+					 1876</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">18</container> 
+				<unittitle>Daily sales blotter. 
+				  <unitdate type="inclusive" normal="">February 1-October 14,
+					 1876</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">19</container> 
+				<unittitle>Daily sales blotter. 
+				  <unitdate type="inclusive" normal="">October 16, 1876-April 7,
+					 1877</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">20</container> 
+				<unittitle>Daily sales blotter. 
+				  <unitdate type="inclusive" normal="">April 9, 1877-March 30,
+					 1878</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">21</container> 
+				<unittitle>Daily sales blotter. 
+				  <unitdate type="inclusive" normal="">April 1-October 31,
+					 1878</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">22</container> 
+				<unittitle>Daily sales blotter. 
+				  <unitdate type="inclusive" normal="">November 1, 1878-June 30,
+					 1879</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">23</container> 
+				<unittitle>Daily sales blotter. 
+				  <unitdate type="inclusive" normal="">July1, 1879-May 27,
+					 1880</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">24</container> 
+				<unittitle>Office blotter, daily financial entries consist of
+				  debits to cash or bills receivable and credits to merchandise. 
+				  <unitdate type="inclusive" normal="">November 1, 1875-November
+					 30, 1876</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">25</container> 
+				<unittitle>Office blotter. 
+				  <unitdate type="inclusive" normal="">December 4, 1876-April 30,
+					 1878</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">26</container> 
+				<unittitle>Office blotter. 
+				  <unitdate type="inclusive" normal="">May 1-October 5,
+					 1878</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">27</container> 
+				<unittitle>Office blotter. 
+				  <unitdate type="inclusive" normal="">October 8, 1878-April 17,
+					 1879</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">28</container> 
+				<unittitle>Office blotter. 
+				  <unitdate type="inclusive" normal="">April 18, 1879-December,
+					 1880</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">29</container> 
+				<unittitle>Office blotter, summary records. 
+				  <unitdate type="inclusive"
+					normal="1870/1884">1870-1884</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">30</container> 
+				<unittitle>Branch store accounts. 
+				  <unitdate type="inclusive"
+					normal="1873/1875">1873-1875</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">31</container> 
+				<unittitle>Daily cash sales, Branch 2 stock book, statement of
+				  account of L. Carrillo. 
+				  <unitdate type="inclusive" normal="">May 1, 1875-July 31,
+					 1876</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">32</container> 
+				<unittitle>Daily cash sales. 
+				  <unitdate type="inclusive" normal="">August1, 1876-August 4,
+					 1877</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">33</container> 
+				<unittitle>Daily cash sales, agreement among Tucson merchants on
+				  the price of flour and other goods, accounts of merchandise shipments received
+				  in Tucson. 
+				  <unitdate type="inclusive" normal="">August 6,1877-January 16,
+					 1878</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">34</container> 
+				<unittitle>Daily cash sales. 
+				  <unitdate type="inclusive" normal="">January 17, 1878-June 21,
+					 1879</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">35</container> 
+				<unittitle>Daily cash sales, inventories. 
+				  <unitdate type="inclusive" normal="">June 23, 1879-June 11,
+					 1880</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">36</container> 
+				<unittitle>Santa Rita store accounts and ledger (in Spanish). 
+				  <unitdate type="inclusive" normal="">February, 1872-February,
+					 1879</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">37</container> 
+				<unittitle>Miscellaneous store records (includes Santa Rita store
+				  accounts). 
+				  <unitdate type="inclusive"
+					normal="1868/1880">1868-1880</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">38</container> 
+				<unittitle>Receipt books (stubs); lists customer, date, place
+				  delivered, and items delivered. Places shipped to include Camp Grant, Florence,
+				  Santa Rita Mines; customers include J.B. Allen and others. 
+				  <unitdate type="inclusive" normal="">August 17, 1875-January 18,
+					 1879</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">39</container> 
+				<unittitle>Letter book (carbons); includes letters from Barron
+				  Jacobs to M.I. Jacobs, Lionel Jacobs, and freighters. Some give detailed
+				  information about shipping, freighting, travel conditions, business conditions,
+				  and contracting as supplier to government camps. The letters from Barron to
+				  M.I. and Lionel respond to letters which are filed in Box 1 of this collection.
+				  
+				  <unitdate type="inclusive" normal="">August 4, 1871-August 13,
+					 1872</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">40</container> 
+				<unittitle>Letter book (carbons); includes letters to Lionel and
+				  M.I. Jacobs, David Neahr, Camp Thomas and others. 
+				  <unitdate type="inclusive" normal="">June 22, 1877-November 30,
+					 1878</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">41</container> 
+				<unittitle>Distilled Spirits Received and Sold; printed forms give
+				  who and where sent, how many gallons, and who inspected by. Customers include
+				  Camp Grant, Abraham Franklin in Safford, and others. 
+				  <unitdate type="inclusive"
+					normal="1876/1880">1876-1880</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">42</container> 
+				<unittitle>Florence Steam Mill Accounts (flour); also contains an
+				  inventory (chiefly in Spanish). 
+				  <unitdate type="inclusive" normal="">August, 1880-May,
+					 1881</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">43</container> 
+				<unittitle>Inventory records. 
+				  <unitdate type="inclusive"
+					normal="1871/1883">1871-1883</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Bound volumes of Pima County Bank, First National Bank of
+				Tucson, Bank of Tucson, and Consolidated Bank of Tucson, 
+				<unitdate type="inclusive"
+				 normal="1879/1809">1879-1809</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did><container type="volume">44</container> 
+				<unittitle>Journal A, daily financial transactions. 
+				  <unitdate type="inclusive"
+					normal="1879">1879</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">45</container> 
+				<unittitle>Journal B. 
+				  <unitdate type="inclusive" normal="">January, 1880-April 20,
+					 1881</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">46</container> 
+				<unittitle>Journal C, monthly records. 
+				  <unitdate type="inclusive" normal="">April 21, 1881-April 17,
+					 1882</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">47</container> 
+				<unittitle>Ledger A, financial transactions by account. 
+				  <unitdate type="inclusive"
+					normal="1879">1879</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">48</container> 
+				<unittitle>Ledger B. 
+				  <unitdate type="inclusive"
+					normal="1880/1882">1880-1882</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">49</container> 
+				<unittitle>Ledger C. 
+				  <unitdate type="inclusive"
+					normal="1881/1882">1881-1882</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">50</container> 
+				<unittitle>General journal. 
+				  <unitdate type="inclusive" normal="">August 18, 1884-January,
+					 1887</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">51</container> 
+				<unittitle>General ledger. 
+				  <unitdate type="inclusive"
+					normal="1882/1885">1882-1885</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">52</container> 
+				<unittitle>Cash journal. 
+				  <unitdate type="inclusive" normal="">October 21, 1879-February
+					 24, 1882</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">53</container> 
+				<unittitle>Mexican silver journal. 
+				  <unitdate type="inclusive" normal="">April, 1882-January 24,
+					 1885</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">54</container> 
+				<unittitle>Cash book. 
+				  <unitdate type="inclusive" normal="">November 1, 1882-May 16,
+					 1883</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">55</container> 
+				<unittitle>Cash book. 
+				  <unitdate type="inclusive" normal="">May 17-November 26,
+					 1883</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">56</container> 
+				<unittitle>Cash book. 
+				  <unitdate type="inclusive" normal="">November 27, 1883-June 11,
+					 1884</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">57</container> 
+				<unittitle>Cash book. 
+				  <unitdate type="inclusive" normal="">June 12-December 23,
+					 1884</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">58</container> 
+				<unittitle>Cash book. 
+				  <unitdate type="inclusive" normal="">February 21-August 13,
+					 1885</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">59</container> 
+				<unittitle>Cash book. 
+				  <unitdate type="inclusive" normal="">August 15, 1885-February,
+					 1886</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">60</container> 
+				<unittitle>Cash book. 
+				  <unitdate type="inclusive" normal="">February 4-June 4,
+					 1886</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">61</container> 
+				<unittitle>Trial balance sheets, currency and Mexican silver,
+				  depositors daily balances: includes S.M. Franklin, Samuel Hughes, H.S. Stevens,
+				  W.L. Vail, J.H. Behan, J.C. Hardy, Sabino Otero, C. Cameron, W. Barnes, M.
+				  Samaniego, J.O. Dunbar, Wm. Oury, others. 
+				  <unitdate type="inclusive"
+					normal="1881/1887">1881-1887</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">62</container> 
+				<unittitle>General balances. 
+				  <unitdate type="inclusive" normal="">July, 1882-August,
+					 1884</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">63</container> 
+				<unittitle>General balances. 
+				  <unitdate type="inclusive" normal="">August, 1884-February,
+					 1885</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">64</container> 
+				<unittitle>Discount register, gives promissor, endorser, where
+				  payable, discounted for, date, amount of note, when due, and when paid.
+				  Customers include Juan Elias, Peter Kitchen, Oscar Buckalew, Bernabe Robles,
+				  Leopoldo Carrillo, L.C. Hughes, H.C. Hooker, and others. 
+				  <unitdate type="inclusive"
+					normal="1882/1887">1882-1887</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">65</container> 
+				<unittitle>Index diary, calendar of matters requiring attention of
+				  a special date. 
+				  <unitdate type="inclusive"
+					normal="1882">1882</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">66</container> 
+				<unittitle>Certificates of deposit (stubs). 
+				  <unitdate type="inclusive" normal="">March 13, 1883-August 15,
+					 1884</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">67</container> 
+				<unittitle>Drafts, money order stubs on Pacific Bank, San
+				  Francisco. 
+				  <unitdate type="inclusive" normal="">April 17, 1882-April 2,
+					 1883</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">68</container> 
+				<unittitle>Drafts, money order stubs on Chemical National Bank, New
+				  York. 
+				  <unitdate type="inclusive" normal="">April 17, 1882-March 3,
+					 1883</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">69</container> 
+				<unittitle>Records of payments for Governmental and Other Agencies,
+				  stubs, includes Internal Revenue, surveys of public lands, military, etc. 
+				  <unitdate type="inclusive" normal="">July 19, 1882-April 28,
+					 1883</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">70</container> 
+				<unittitle>Records of Payments for Government and Other Agencies,
+				  stubs. 
+				  <unitdate type="inclusive" normal="">May 1-November 30,
+					 1883</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">71</container> 
+				<unittitle>Record of Payments for Government and Other Agencies,
+				  stubs. 
+				  <unitdate type="inclusive" normal="">December 1, 1883-July 24,
+					 1884</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">72</container> 
+				<unittitle>Draft Register for Correspondent Banks, doing business
+				  with the Agency Bank: Chemical National Bank; Farmers and Merchants' Bank; and
+				  Pacific National Bank. 
+				  <unitdate type="inclusive" normal="">April-July,
+					 1882</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">73</container> 
+				<unittitle>Draft Register for Correspondent Banks, doing business
+				  with the First National Bank of Tucson: Bank of California, San Francisco;
+				  Chemical National Bank, N.Y.; Farmers and Merchants' Bank, L.A.; National Park
+				  Bank, N.Y.; and Pacific Bank, San Francisco. 
+				  <unitdate type="inclusive"
+					normal="1882/1883">1882-1883</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">74</container> 
+				<unittitle>Draft Register for Correspondent Banks, doing business
+				  with the First National Bank of Tucson and the Bank of Tucson: Bank of
+				  California, San Francisco; Chemical National Bank, N.Y.; Farmers and Merchants'
+				  Bank, L.A.; First National Bank, Chicago; Fourth National Bank, St. Louis;
+				  Massachusetts National Bank; National Park Bank, N.Y.; and Second National Bank
+				  of New Mexico, Santa Fe. 
+				  <unitdate type="inclusive"
+				  normal="1883/1887">1883-1887</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">75</container> 
+				<unittitle>Collection registers. 
+				  <unitdate type="inclusive" normal="">March, 1880-October,
+					 1886</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">76</container> 
+				<unittitle>Remittance register; also contains Register of
+				  Certificates of deposit. Certificates of deposit give date, number, name,
+				  currency or Mexican silver, and date paid. Names include Peter Kitchen, Wong
+				  Cong You, C.A. Shibbell, Charlie, Abraham Franklin, Bernabe Robles, Wah Sing,
+				  and others. Remittance register includes name of drawer, where drawn, endorser,
+				  drawee, where payable, and amount; involves transactions between local
+				  companies and companies in other states. 
+				  <unitdate type="inclusive" normal="">July, 1880-September,
+					 1882</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">77</container> 
+				<unittitle>Miscellaneous items, includes stub record of original
+				  shareholders of First National Bank of Tucson, letters of credit for travelers
+				  in Europe, and accounts of U.S. Army Paymaster. 
+				  <unitdate type="inclusive"
+				  normal="1879/1889">1879-1889</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">78</container> 
+				<unittitle>Letter book (carbons); consist of brief one half page
+				  bank business letters signed by William A. Scott, Jr., Manager, L.M. Jacobs, or
+				  B.M. Jacobs. 
+				  <unitdate type="inclusive" normal="">February 8, 1879-January 15,
+					 1880</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">79</container> 
+				<unittitle>Letter book (carbons). 
+				  <unitdate type="inclusive" normal="">January 16-July 17,
+					 1880</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">80</container> 
+				<unittitle>Letter book (carbons). 
+				  <unitdate type="inclusive" normal="">July 19-December 21,
+					 1880</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">81</container> 
+				<unittitle>Letter book (carbons). 
+				  <unitdate type="inclusive" normal="">December 22, 1880-May 18,
+					 1881</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">82</container> 
+				<unittitle>Letter book (carbons). 
+				  <unitdate type="inclusive" normal="">May 18-November 14,
+					 1881</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">83</container> 
+				<unittitle>Letter book (carbons). 
+				  <unitdate type="inclusive" normal="">November 14, 1881-February
+					 23, 1882</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">84</container> 
+				<unittitle>Letter book (carbons). 
+				  <unitdate type="inclusive" normal="">February 23-July 22,
+					 1882</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">85</container> 
+				<unittitle>Letter book (carbons). 
+				  <unitdate type="inclusive" normal="">April 17-July 24,
+					 1882</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">86</container> 
+				<unittitle>Letter book (carbons). 
+				  <unitdate type="inclusive" normal="">July 25-November 8,
+					 1882</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">87</container> 
+				<unittitle>Letter book (carbons). 
+				  <unitdate type="inclusive" normal="">November 9, 1882-February
+					 28, 1883</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">88</container> 
+				<unittitle>Letter book (carbons). 
+				  <unitdate type="inclusive" normal="">March 1-June 25,
+					 1883</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">89</container> 
+				<unittitle>Letter book (carbons). 
+				  <unitdate type="inclusive" normal="">June 16-October 30,
+					 1883</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">90</container> 
+				<unittitle>Letter book (carbons). 
+				  <unitdate type="inclusive" normal="">July-October 8,
+					 1884</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">91</container> 
+				<unittitle>Letter book (carbons). 
+				  <unitdate type="inclusive" normal="">October 8, 1884-January 22,
+					 1885</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">92</container> 
+				<unittitle>Letter book (carbons). 
+				  <unitdate type="inclusive" normal="">January 23-June 12,
+					 1886</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">93</container> 
+				<unittitle>Letter book (carbons). 
+				  <unitdate type="inclusive" normal="">June 12-November 26,
+					 1886</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">94</container> 
+				<unittitle>Telegrams (carbons). 
+				  <unitdate type="inclusive" normal="">April 18, 1882-February 28,
+					 1883</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">95</container> 
+				<unittitle>Telegrams (carbons). 
+				  <unitdate type="inclusive" normal="">March 15, 1884-February 7,
+					 1885</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">96</container> 
+				<unittitle>Postals (carbons). 
+				  <unitdate type="inclusive" normal="">July 5, 1882-February,
+					 1885</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">97</container> 
+				<unittitle>Postals (carbons). 
+				  <unitdate type="inclusive" normal="">February, 1885-April,
+					 1887</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Bound volumes of Agency Pima County Bank, and Cochise
+				County Bank, 
+				<unitdate type="inclusive"
+				normal="1880/1889">1880-1889</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did><container type="volume">98</container> 
+				<unittitle>Journal, daily transactions giving names and amounts. 
+				  <unitdate type="inclusive" normal="">November 15-December 31,
+					 1880</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">99</container> 
+				<unittitle>Journal C. 
+				  <unitdate type="inclusive" normal="">September 19, 1881-April 29,
+					 1882</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">100</container> 
+				<unittitle>Journal Number 1. 
+				  <unitdate type="inclusive" normal="">May 1, 1882-August 14,
+					 1883</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">101</container> 
+				<unittitle>Journal Number 2. 
+				  <unitdate type="inclusive" normal="">August 15, 1883-November 29,
+					 1884</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">102</container> 
+				<unittitle>Cash Journal Number 4. 
+				  <unitdate type="inclusive" normal="">March 20, 1886-September 24,
+					 1887</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">103</container> 
+				<unittitle>Cash Journal Number 5. 
+				  <unitdate type="inclusive" normal="">September 27, 1887-July 24,
+					 1889</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">104</container> 
+				<unittitle>Ledger C. 
+				  <unitdate type="inclusive" normal="">January-April,
+					 1882</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">105</container> 
+				<unittitle>Ledger. 
+				  <unitdate type="inclusive" normal="">May, 1882-December,
+					 1886</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">106</container> 
+				<unittitle>Index to Ledger (volume 105). 
+				  <unitdate type="inclusive" normal="">May, 1882-December,
+					 1886</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">107</container> 
+				<unittitle>Ledger. 
+				  <unitdate type="inclusive"
+				  normal="1887/1888">1887-1888</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">108</container> 
+				<unittitle>Index to unidentified ledger. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">109</container> 
+				<unittitle>Minutes of meetings of stockholders and Board of
+				  Directors of Cochise County Bank. 
+				  <unitdate type="inclusive" normal="">March 18-April 21,
+					 1882</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">110</container> 
+				<unittitle>Transfer of Agency Pima County Bank to Cochise County
+				  Bank; consists of summary of accounts transferred including names and amounts.
+				  Names include J.O. Dunbar, John P. Clum, J.H. Behan, and others. 
+				  <unitdate type="inclusive" normal="1882">April 29,
+					 1882</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">111</container> 
+				<unittitle>Daily cash blotter. 
+				  <unitdate type="inclusive" normal="">December 6, 1881-April 15,
+					 1882</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">112</container> 
+				<unittitle>Daily cash blotter. 
+				  <unitdate type="inclusive" normal="">April 17-July 27,
+					 1882</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">113</container> 
+				<unittitle>Daily cash blotter. 
+				  <unitdate type="inclusive" normal="">August, 1882-October 19,
+					 1883</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">114</container> 
+				<unittitle>Daily cash blotter. 
+				  <unitdate type="inclusive" normal="">October 20, 1883-March 31,
+					 1884</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">115</container> 
+				<unittitle>Daily cash blotter. 
+				  <unitdate type="inclusive" normal="">November 11, 1884-November
+					 25, 1885</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">115A</container> 
+				<unittitle>Daily cash blotter. 
+				  <unitdate type="inclusive" normal="">November 27, 1885-July 14,
+					 1886</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">116</container> 
+				<unittitle>Daily cash blotter. 
+				  <unitdate type="inclusive" normal="">July 15, 1886-July 10,
+					 1887</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">117</container> 
+				<unittitle>Daily cash blotter. 
+				  <unitdate type="inclusive" normal="">May 27-July 18,
+					 1889</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">118</container> 
+				<unittitle>Certificates of deposit stubs. 
+				  <unitdate type="inclusive" normal="">June 1-July 24,
+					 1880</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">119</container> 
+				<unittitle>Certificates of deposit stubs. 
+				  <unitdate type="inclusive" normal="">July 26, 1880-May 30,
+					 1881</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">120</container> 
+				<unittitle>Certificates of deposit stubs. 
+				  <unitdate type="inclusive" normal="">May 31-November 14,
+					 1881</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">121</container> 
+				<unittitle>Certificates of deposit stubs. 
+				  <unitdate type="inclusive" normal="">May 1, 1882-October 15,
+					 1883</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">122</container> 
+				<unittitle>Notes and bills payable and receivable; gives drawer,
+				  drawee, amount, date, and date paid. Customers include J.O. Dunbar, J.H. Behan,
+				  Isaac Clanton, Nellie Cashman, V.W. Earp, T.A. Sorin, John P. Clum, and others.
+				  
+				  <unitdate type="inclusive" normal="">June, 1880-April,
+					 1882</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">123</container> 
+				<unittitle>Notes and bills receivable; see vol. 122. Customers
+				  include William Herring, J.H. Slaughter, G.E. Goodfellow, Godfrey Tribolet, and
+				  others. 
+				  <unitdate type="inclusive" normal="">May, 1882-February,
+					 1889</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">124</container> 
+				<unittitle>Collection register; gives drawer, drawee, due date,
+				  date paid, and amount. Customers include various companies, J.H. Behan, E.T.
+				  Hardy, Nellie Cashman, P.W. Smith, J.H. Slaughter, and others. 
+				  <unitdate type="inclusive" normal="">August, 1881-March,
+					 1884</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">125</container> 
+				<unittitle>Collection register. 
+				  <unitdate type="inclusive" normal="">March, 1888-June,
+					 1889</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">126</container> 
+				<unittitle>Accounts, L.M. Jacobs, Assignee. Itemized accounts of
+				  supplies purchased by various mining and milling companies; contains index. 
+				  <unitdate type="inclusive" normal="">October, 1882-January,
+					 1883</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">127</container> 
+				<unittitle>Financial records, Assignee. Includes rents collected,
+				  accounts and notes collected, disbursements, counsel fees and legal expenses,
+				  lists of creditors paid, and more. 
+				  <unitdate type="inclusive" normal="">October, 1882-January,
+					 1883</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">128</container> 
+				<unittitle>Financial records, Assignee. 
+				  <unitdate type="inclusive" normal="">November, 1882-January,
+					 1883</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">129</container> 
+				<unittitle>Statement with Correspondent Bank, Pima County Bank. 
+				  <unitdate type="inclusive" normal="">June, 1880-November,
+					 1881</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">130</container> 
+				<unittitle>Statement with Correspondent Bank, Pima County Bank. 
+				  <unitdate type="inclusive" normal="">December, 1881-April,
+					 1882</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">131</container> 
+				<unittitle>Statement with Correspondent Banks: Continental Bank,
+				  St. Louis; National Bank, Tucson; Pacific Bank; Union Trust Co., Chicago. 
+				  <unitdate type="inclusive"
+				  normal="1883/1885">1883-1885</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">132</container> 
+				<unittitle>Statement with Correspondent Banks: First National Gold
+				  Bank, San Francisco; First National Bank, San Francisco; and Second National
+				  Bank, Santa Fe. 
+				  <unitdate type="inclusive"
+				  normal="1883/1885">1883-1885</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">133</container> 
+				<unittitle>Statement with Correspondent Banks: Chemical National
+				  Bank, N.Y.; Farmers and Merchants' Bank, L.A.; First National Bank, El Paso;
+				  and Girard National Bank, Philadelphia. 
+				  <unitdate type="inclusive"
+					normal="1882/1889">1882-1889</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">134</container> 
+				<unittitle>Statement with Correspondent Banks: Bank of California,
+				  San Francisco; Bank of Tucson; Chemical National Bank, N.Y.; Continental Bank,
+				  St. Louis; First National Bank, Deming, N.M.; First National Bank, San
+				  Francisco; Second National Bank, Santa Fe; and Union Trust Co., Chicago. 
+				  <unitdate type="inclusive"
+					normal="1884/1886">1884-1886</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">135</container> 
+				<unittitle>Statement with Correspondent Banks: Bank of California,
+				  San Francisco; and Chemical National Bank, N.Y. 
+				  <unitdate type="inclusive"
+					normal="1886/1887">1886-1887</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">136</container> 
+				<unittitle>Statement with Correspondent Banks: Bank of California,
+				  San Francisco; and Continental Bank, St. Louis. 
+				  <unitdate type="inclusive"
+					normal="1886/1889">1886-1889</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">137</container> 
+				<unittitle>Statement with Correspondent Bank: Chemical National
+				  Bank, N.Y. 
+				  <unitdate type="inclusive" normal="">February, 1884-March,
+					 1885</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">138</container> 
+				<unittitle>Unidentified ledger; also includes minutes of one
+				  meeting of unidentified Jewish organization. Ledger, organized by customer, has
+				  name index; names include Bisbee Store, Alta Soap Co., Crystal Palace, Cora
+				  Davis, Geo. Cobb, E.T. Hardy, Dr. Goodfellow, several saloons and restaurants,
+				  and others. Meeting attended by several Cohen's, Summerfield's and Gotthelf's. 
+				  <unitdate type="inclusive" normal="">May-July,
+					 1882</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">139</container> 
+				<unittitle>Carbon records of stock transactions handled by Agency
+				  Pima County Bank, and carbon lists of creditors. 
+				  <unitdate type="inclusive"
+				  normal="1882/1887">1882-1887</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">140</container> 
+				<unittitle>Statements (carbons) consist of record of amounts of
+				  checks paid by customers, chiefly mining companies. 
+				  <unitdate type="inclusive" normal="">October 1, 1880-November 18,
+					 1881</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">141</container> 
+				<unittitle>Telegrams (carbons); sent to correspondent banks
+				  regarding transactions. 
+				  <unitdate type="inclusive" normal="">March 7, 1881-April 27,
+					 1882</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">142</container> 
+				<unittitle>Letter book (carbons), contains partial index. Consists
+				  of one half page letters from P.W. Smith, Cashier to various correspondent
+				  banks and customers. 
+				  <unitdate type="inclusive" normal="">June, 1880-November,
+					 1881</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">143</container> 
+				<unittitle>Letter book (carbons). 
+				  <unitdate type="inclusive" normal="">November, 1881-May,
+					 1882</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">144</container> 
+				<unittitle>Letter book (carbons), letters to Pima County Bank. 
+				  <unitdate type="inclusive" normal="">June 5, 1880-March 22,
+					 1881</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">145</container> 
+				<unittitle>Letter book (carbons), letters to Pima County Bank. 
+				  <unitdate type="inclusive" normal="">March 22, 1881-March 13,
+					 1882</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">146</container> 
+				<unittitle>Letter book (carbons), letters to Pima County Bank. 
+				  <unitdate type="inclusive" normal="">March 15-April 29,
+					 1882</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">147</container> 
+				<unittitle>Letter book (carbons). 
+				  <unitdate type="inclusive" normal="">April-July,
+					 1885</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">148</container> 
+				<unittitle>Letter book (carbons). 
+				  <unitdate type="inclusive" normal="">December, 1885-June,
+					 1886</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">149</container> 
+				<unittitle>Letter book (carbons). 
+				  <unitdate type="inclusive" normal="">December, 1886-December,
+					 1887</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">150</container> 
+				<unittitle>Letter book (carbons). 
+				  <unitdate type="inclusive" normal="">December, 1887-February,
+					 1889</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">151</container> 
+				<unittitle>Letter book (carbons). 
+				  <unitdate type="inclusive" normal="">March-July,
+					 1889</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">152</container> 
+				<unittitle>Letter book (carbons). 
+				  <unitdate type="inclusive" normal="">February, 1888-January,
+					 1889</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle> Bound volumes of Arizona National Bank, 
+				<unitdate type="inclusive"
+				normal="1889/1909">1889-1909</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did><container type="volume">153</container> 
+				<unittitle>Journal; daily transactions with customers including
+				  Tucsonans such as S.H. Drachman, Merrill P. Freeman, Samuel Hughes, J.K.
+				  Corbett, M. Samaniego, Colin Cameron, and Selim M. Franklin. 
+				  <unitdate type="inclusive" normal="">July, 1889-June,
+					 1890</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">154</container> 
+				<unittitle>Ledger; contains name index. Gives dates and amounts of
+				  transactions by customer. Customers include W.H. Barnes, Rosario Brena, J.B.
+				  Collins, A.V. Grossetta, Sabino Otero, Walter L. Vail, and others. 
+				  <unitdate type="inclusive" normal="">July, 1889-June,
+					 1890</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">155</container> 
+				<unittitle>Daily cash blotter. 
+				  <unitdate type="inclusive" normal="">August 1, 1889-March 4,
+					 1890</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">156</container> 
+				<unittitle>Daily cash blotter. 
+				  <unitdate type="inclusive" normal="">August 12, 1891-March 25,
+					 1892</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">157</container> 
+				<unittitle>Daily cash blotter. 
+				  <unitdate type="inclusive" normal="">March 26-November 7,
+					 1892</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">158</container> 
+				<unittitle>Daily cash blotter. 
+				  <unitdate type="inclusive" normal="">November 10, 1892-May 4,
+					 1893</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">159</container> 
+				<unittitle>Daily cash blotter. 
+				  <unitdate type="inclusive" normal="">July 11, 1894-May 8,
+					 1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">160</container> 
+				<unittitle>Daily cash blotter. 
+				  <unitdate type="inclusive" normal="">May 9, 1895-January 7,
+					 1896</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">161</container> 
+				<unittitle>Daily cash blotter. 
+				  <unitdate type="inclusive" normal="">March 7-May 2,
+					 1896</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">162</container> 
+				<unittitle>Daily cash blotter. 
+				  <unitdate type="inclusive" normal="">July 1-October 22,
+					 1896</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">163</container> 
+				<unittitle>Daily cash blotter. 
+				  <unitdate type="inclusive" normal="">February 12-June 9,
+					 1898</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">164</container> 
+				<unittitle>Daily cash blotter. 
+				  <unitdate type="inclusive" normal="">June 10-October 5,
+					 1898</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">165</container> 
+				<unittitle>Daily cash blotter. 
+				  <unitdate type="inclusive" normal="">October 5, 1898-May 13,
+					 1899</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">166</container> 
+				<unittitle>Daily cash blotter. 
+				  <unitdate type="inclusive" normal="">May 15-December 18,
+					 1899</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">167</container> 
+				<unittitle>Daily exchange records with correspondent banks. 
+				  <unitdate type="inclusive" normal="">September 15, 1891-May 20,
+					 1892</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">168</container> 
+				<unittitle>Daily exchange records with correspondent banks. 
+				  <unitdate type="inclusive" normal="">December 16, 1892-September
+					 11, 1893</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">169</container> 
+				<unittitle>Daily exchange records with correspondent banks. 
+				  <unitdate type="inclusive" normal="">June 2, 1897-February 15,
+					 1898</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">170</container> 
+				<unittitle>Daily exchange records with correspondent banks. 
+				  <unitdate type="inclusive" normal="">February 16-November 21,
+					 1898</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">171</container> 
+				<unittitle>Draft register. 
+				  <unitdate type="inclusive"
+				  normal="1893/1895">1893-1895</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">172</container> 
+				<unittitle>Remittance register. 
+				  <unitdate type="inclusive" normal="">September 23, 1890-January
+					 18, 1892</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">173</container> 
+				<unittitle>Remittance register. 
+				  <unitdate type="inclusive" normal="">November 11, 1896-September
+					 10, 1897</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">174</container> 
+				<unittitle>Money orders (stubs); drawings on Hong Kong banks which
+				  give amounts, and names of payee and purchaser. Many are payable to Kwong Chong
+				  Wing Co.; purchasers include Wee Kee, Lee Aht, Hop Lee, Kam Wo and others. 
+				  <unitdate type="inclusive" normal="">February 18, 1907-January
+					 12, 1909</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">175</container> 
+				<unittitle>Seven deposit books for the Santa Cruz Valley Bank;
+				  customers were Wm. Reid, Pat F. Quinn, S.A. Waldon, Alexander Rossi, J.M. Dews,
+				  J. Warren, and S.A. Allis. 
+				  <unitdate type="inclusive"
+				  normal="1889/1890">1889-1890</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="volume">176</container> 
+				<unittitle>Letter book (carbons); consists of letters from Merrill
+				  P. Freeman, Cashier, to various banks and customers. 
+				  <unitdate type="inclusive" normal="">January-March,
+					 1890</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Miscellaneous bound volume, 
+				<unitdate type="inclusive" normal="1891/1901">circa.
+				  1896</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did><container type="volume">177</container> 
+				<unittitle>Gas Meter Accounts for Tucson customers; accounts are by
+				  person, residence or business and give dates and amounts of charges. 
+				  <unitdate type="inclusive" normal="1891/1901">circa.
+					 1896</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+	 </c01> 
+  </dsc> 
+</archdesc></ead>

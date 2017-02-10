@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?xml-stylesheet type="text/xsl" href="displaytemplate.xsl"?>
+<?filetitle Hemlock Society of Southern Arizona Records ?>
+<ead relatedencoding="MARC21">
+<eadheader audience="internal" findaidstatus="edited-full-draft"
+ langencoding="iso639-2b"> 
+  <eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
+	 Special Collections//text(US::AzU::Hemlock Society of Southern Arizona
+	 records)//en" "UAMS301.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Hemlock Society of Southern Arizona
+		  records, 
+		  <date>1983-1991 (bulk, 1988-1991)</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Mark Elliott Lewis
+		  and Roger Myers.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date>&#x00A9; 2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation encodinganalog="500">Inventory encoded by Shan Sutton. 
+		<date>June 15, 2001</date></creation> 
+	 <langusage>Inventory is in<language langcode="en"
+		encodinganalog="546">English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper encodinganalog="245$a">Hemlock Society of Southern Arizona
+		records, 
+		<date>1983-1991 (bulk, 1988-1991)</date></titleproper> 
+	 <num>Collection Number: MS 301</num> 
+  	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Mark Elliott Lewis and Roger Myers.</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>1992</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Shan Sutton</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 2001. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage>
+</frontmatter>
+<archdesc level="collection"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name:">Hemlock Society of
+		Southern Arizona records, 
+		<unitdate type="inclusive" normal="">1983-1991 (bulk,
+		  1988-1991)</unitdate></unittitle> 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	  repositorycode="AzU" countrycode="us">MS 301</unitid> 
+	 <origination label="Creator:"> 
+		<corpname encodinganalog="110">Hemlock Society of Southern
+		  Arizona</corpname></origination> 
+	 <abstract label="Abstract:">This collection is comprised of six series:
+		Organizational Materials, 1983-1990. Correspondence, 1987-1990. Legal
+		Materials. Talks, 1984-1991. Conferences, 1984-1991. Printed Materials,
+		1981-1991. Correspondence, minutes, bylaws, leaflets, clippings, and books
+		pertaining to their activities. The correspondence pertains to the proposed
+		Death with Dignity Act; some is with the organization Americans Against Human
+		Suffering. Legal materials involve both the Society and general euthanasia
+		issues. The transcripts are of talks delivered in Tucson and Phoenix. Some
+		records pertain to the 1988 Supreme Court case of Cruzan vs. Harmon.
+		Newsletters from the National Hemlock Society and regional societies are
+		included.</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+		encodinganalog="300">1.25 linear feet</extent></physdesc> 
+	 <repository label="Repository:"> 
+	 	<corpname encodinganalog="110">University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		  
+		</address></repository> 
+  </did> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Restrictions</head> 
+	 <p>None.</p> 
+  </accessrestrict> 
+  <userestrict encodinganalog="540"> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Credit Line</head> 
+	 <p>Hemlock Society of Southern Arizona records(MS 301). Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p>The Hemlock Society of Southern Arizona was formed around 1983 and
+		incorporated in 1988 as a nonprofit corporation. It is one of many state and
+		regional Hemlock societies in the United States. The expressed purpose of the
+		Society is to educate the general public regarding right-to-die issues. The
+		Society seeks to promote its goals by such means as newsletters and other
+		printed materials, conferences, and court cases.</p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into six series:</p> 
+	 <list> 
+		<item> I. Organizational Materials</item> 
+		<item>II. Correspondence</item> 
+		<item>III. Legal Materials</item> 
+		<item>IV. Talks</item> 
+		<item>V. Conferences</item> 
+		<item>VI. Printed Materials</item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>The Organizational Materials, 1983-1990, are subdivided into Minutes,
+		Bylaws, and Forms/Leaflets. The Minutes include not only records of topics
+		discussed at meetings, but also treasurer's reports on the Society's financial
+		status. The Bylaws include a general guide for the formation and structure of
+		local Hemlock societies. The Forms and Leaflets consist of questions and
+		answers about the Hemlock Society, membership applications, and a catalog of
+		Hemlock Society videos.</p> 
+	 <p>The Correspondence, 1987-1990, consists of letters and miscellaneous
+		items pertaining to the proposed "Death With Dignity" Act, and correspondence
+		from the organization "Americans Against Human Suffering."</p> 
+	 <p>The Legal Materials include forms and brochures concerning both the
+		Hemlock Society of Southern Arizona and euthanasia issues in general.</p> 
+	 <p>The Talks are transcripts of euthanasia-related speeches sponsored by
+		the Society and delivered in Tucson and Phoenix from 1984-1991.</p> 
+	 <p>The Conferences, 1984-1991, consist of a collection of articles,
+		correspondence, and reports dealing primarily with meetings sponsored by the
+		Society, along with a set of brochures, papers, and correspondence pertaining
+		to various other euthanasia-related conferences.</p> 
+	 <p>The Printed Materials, 1981-1991, are subdivided into Definitions,
+		Clippings, Legal Cases, Newsletters, and Books. The Definitions are of key
+		terms encountered in discussions of the right-to-die issue. The Clippings
+		consist of newspaper and magazine articles about hemlock societies and
+		euthanasia. The Legal Cases are court records, and summaries of court records,
+		from cases involving the question of euthanasia. Most of these records pertain
+		to the 1988 Supreme Court case of Cruzan vs. Harmon. The Newsletters include
+		newsletters from not only the Hemlock Society of Southern Arizona, but also
+		from the National Hemlock Society and several other state and regional hemlock
+		societies. Finally, there are four books, one booklet, and six issues of the
+		journal The Euthanasia Review.</p> 
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+		  <corpname encodinganalog="110">Hemlock Society of Southern
+			 Arizona</corpname></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <corpname encodinganalog="110">Americans Against Human
+			 Suffering</corpname></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <corpname encodinganalog="110">Hemlock (Society)</corpname></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject>Euthanasia</subject></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject>Right to Die</subject></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <genreform>Correspondence</genreform></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <genreform>Bylaws</genreform></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <genreform>Minutes</genreform></item> 
+	 </list> 
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+		  <unittitle>Organizational Materials, 
+			 <unitdate type="inclusive"
+			  normal="1983/1990">1983-1990</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did><container type="box">1</container><container
+			 type="folder">1-5</container> 
+			 <unittitle>Minutes of meetings, treasurer's reports, bylaws, guide to
+				formation of Hemlock societies, question-and-answer leaflets, video catalog,
+				and membership applications. 
+				<unitdate type="inclusive"
+				normal="1983/1990">1983-1990</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Correspondence, 
+			 <unitdate type="inclusive"
+			 normal="1987/1990">1987-1990</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did><container type="box">1</container><container
+			 type="folder">6-7</container> 
+			 <unittitle>Letters and miscellaneous materials regarding the proposed
+				"Death With Dignity" Act, and correspondence from the "Americans Against Human
+				Suffering" organization. 
+				<unitdate type="inclusive"
+				normal="1987/1990">1987-1990</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Legal materials, 
+			 <unitdate type="inclusive" normal="NaN">No
+				Date</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did><container type="box">1</container><container
+			 type="folder">8</container> 
+			 <unittitle>Legal forms and brochures pertaining both to the Hemlock
+				Society of Southern Arizona and to euthanasia issues in general. 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Talks, 
+			 <unitdate type="inclusive"
+			 normal="1984/1990">1984-1990</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did><container type="box">1</container><container
+			 type="folder">9</container> 
+			 <unittitle>Texts of talks given in Tucson and Phoenix concerning the
+				right-to-die issue. 
+				<unitdate type="inclusive"
+				normal="1984/1990">1984-1990</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Conferences, 
+			 <unitdate type="inclusive"
+			 normal="1984/1990">1984-1990</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did><container type="box">1</container><container
+			 type="folder">10-11</container> 
+			 <unittitle>Brochures, reports, correspondence, and articles regarding
+				various euthanasia-related conferences. 
+				<unitdate type="inclusive"
+				normal="1984/1990">1984-1990</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Printed materials, 
+			 <unitdate type="inclusive"
+			 normal="1981/1991">1981-1991</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did><container type="box">1</container><container
+			 type="folder">12-19</container> 
+			 <unittitle>Clippings, court records, newsletters, books, and
+				journals. 
+				<unitdate type="inclusive"
+				normal="1981/1991">1981-1991</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+  </dsc> 
+</archdesc></ead>

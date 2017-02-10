@@ -1,0 +1,954 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?xml-stylesheet type="text/xsl" href="displaytemplate.xsl"?>
+<?filetitle Humphrey, Robert R. Photograph Collection?>
+<ead relatedencoding="MARC21">
+   <eadheader audience="internal" findaidstatus="edited-full-draft" langencoding="ISO_639-2b"
+      repositoryencoding="iso15511" scriptencoding="iso15924" dateencoding="iso8601"
+      countryencoding="iso3166-1">
+      <eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
+         Special Collections//text(US::AzU::Robert r. Humphrey Photograph Collection)//en""UAMS431.xml"</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper encodinganalog="245">Robert R. Humphrey Photograph Collection, <date encodinganalog="245$f">1949-1963</date>
+                <num>MS 431</num>
+            </titleproper>
+            <author audience="internal">Processed by Lynne Carmody and James Uhrig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>University of Arizona Libraries, Special Collections</publisher>
+            <date era="ce" calendar="gregorian">2010</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Machine-readable finding guide and skeletal markup derived via template; markup checked and completed by James Uhrig, 
+            <date era="ce" calendar="gregorian">May 25, 2010</date>
+         </creation>
+         <langusage>Finding guide is in <language langcode="eng">English</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Robert R. Humphrey Photograph Collection
+            <unitdate type="inclusive" normal="1949/1963">1949-1963</unitdate></unittitle>
+         <unitid encodinganalog="099"> Collection number: MS 431</unitid>
+         <origination  label="Creator"><persname encodinganalog="100">Humphrey, Robert R.</persname></origination>
+         <abstract encodinganalog="520"> This collection is comprised of negatives and prints of vegetation types and landscape scenes taken by Robert R. Humphrey between 1949 and 1963. The collection also contains some reproduction photographs from “Views of the Monuments and Characteristic Scenes along the Boundary between the United States and Mexico. West of the Rio Grande. 1892-95”, published by the International Boundary Commission, United States and Mexico.</abstract>
+         <physdesc><extent encodinganalog="300">3 linear feet</extent></physdesc>
+         <langmaterial>
+            <language langcode="eng" encodinganalog="546">English</language>
+         </langmaterial>
+         <repository label="Repository:"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+               <addressline>PO Box 210055</addressline> 
+               <addressline>Tucson, AZ 85721-0055</addressline> 
+               <addressline>Phone: 520-621-6423</addressline> 
+               <addressline>Fax: 520-621-9733</addressline> 
+               <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+            </address></repository> 
+      </did>
+      <descgrp type="admininfo">
+         <accessrestrict encodinganalog="506">
+            <p>None</p></accessrestrict>
+         <userestrict encodinganalog="540">
+            <p>It is the responsibility of the user to obtain permission to publish
+               from the owner of the copyright (the institution, the creator of the record,
+               the author or his/her transferees, heirs, legates, or literary executors). The
+               user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+               University of Arizona, its officers, employees, and agents from and against all
+               claims made by any person asserting that he or she is an owner of
+               copyright.</p>
+         </userestrict>
+         <prefercite encodinganalog="524">
+            <p>Robert R. Humphrey Photograph Collection (MS 431). Special Collections, University of Arizona Libraries.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist encodinganalog="545"><head>Biographical Note</head>
+         <p>Robert Register Humphrey was born in 1904 in Palo Alto, Calif. He earned his bachelor's, master's and doctorate degrees in botany and geology from the University of Minnesota, graduating in 1933.</p>
+         <p>He worked as a range ecologist with the U.S. Forest Service for 15 years, then as a range conservationist with the U.S. Soil Conservation Service before working for the University.</p>
+         <p>Humphrey joined the UA faculty as an associate professor in botany in 1948. He was involved in ecology, range management and was published extensively. His most notable book was "The Boojum and Its Home."</p>
+         <p>He retired from the UA in 1966. After he retired, he and his wife traveled extensively in Mexico, Baja and California studying the boojum tree and ecology along the United States-Mexico border.</p>
+         <p>A professor emeritus of range ecology at the University of Arizona, Humphrey died March 13, 2002, at 97.</p>
+      </bioghist>
+      <arrangement encodinganalog="351$a">
+         <head>Organization</head>
+         <p>This Collection is arranged into 4 series.</p>
+         <list>
+            <item>Series 1: Arizona, <unitdate>1949-1963</unitdate></item>
+            <item>Series 2: New Mexico, <unitdate>1956</unitdate></item>
+            <item>Series 3: Other Locales, <unitdate>1952-1961</unitdate></item>
+            <item>Series 4: Miscellaneous, <unitdate>1950-1962</unitdate></item>
+         </list>
+      </arrangement>
+      <scopecontent encodinganalog="520">
+         <p>The collection is comprised of negatives and prints of vegetation types and landscape scenes taken by Robert R. Humphrey between 1949 and 1963. The collection also includes some reproduction photographs from “Views of the Monuments and Characteristic Scenes along the Boundary between the United States and Mexico. West of the Rio Grande. 1892-95”, published by the International Boundary Commission, United States and Mexico.</p>
+         <p>The collection contains primarily photographs of grasses and other vegetation native to Arizona, New Mexico and Northern Mexico. It also includes photographs of boundary markers along the border between the United States and Mexico and some photographs of groups and individuals involved with Robert Humphrey in grasslands research. The negatives and photographs are housed in envelopes that are numbered, dated and include detailed descriptions of the contents. Several of the numbered envelopes are missing from the collection: numbers 9-28, 50, 254-255, 257, 387, 391, 629, 802, 928, 933-934, 961, 1081, 1022, 1046A, 1217 and 1283.</p>
+         <p>Each series is arranged alphabetically by county and then by locale within each county.</p>
+      </scopecontent>
+      <controlaccess>
+         <persname encodinganalog="600" source="lcnaf">Everson, A. C.</persname>
+         <corpname encodinganalog="710" source="lcnaf">University of Arizona. Agricultural Experiment Station</corpname>
+         <corpname encodinganalog="710" source="lcnaf">United States. Bureau of Land Management</corpname>
+         <corpname encodinganalog="610" source="lcnaf">University of Arizona. College of Agriculture</corpname>
+         <corpname encodinganalog="610" source="lcnaf">University of Arizona. Cooperative Extension Service</corpname>
+         <subject encodinganalog="650" source="lcsh">Botany—Southwest, New</subject>
+         <subject encodinganalog="650" source="lcsh">Forage plants—Arizona</subject>
+         <subject encodinganalog="650" source="lcsh">Grasses—Arizona</subject>
+         <subject encodinganalog="650" source="lcsh">Grasslands</subject>
+         <subject encodinganalog="650" source="lcsh">Phytogeography—Arizona</subject>
+         <subject encodinganalog="650" source="lcsh">Phytogeography—Mexican-American Border Region</subject>
+         <subject encodinganalog="650" source="lcsh">Plant ecology</subject>
+         <subject encodinganalog="650" source="lcsh">Plant ecology—Mexican-American Border Region</subject>
+         <subject encodinganalog="650" source="lcsh">Prairies</subject>
+         <subject encodinganalog="650" source="lcsh">Range management—Arizona</subject>
+         <subject encodinganalog="650" source="lcsh">Rangelands—Arizona</subject>
+         <subject encodinganalog="650" source="lcsh">Vegetation boundaries—Arizona</subject>
+         <subject encodinganalog="650" source="lcsh">Vegetation dynamics—Mexican-American Border Region</subject>
+         <geogname encodinganalog="651" source="lcsh">Mexican-American Border Region</geogname>
+         <title encodinganalog="730" source="lcnaf">Bulletin (University of Arizona. Agricultural Experiment Station)</title>
+      </controlaccess>
+      <dsc type="combined">
+         <c01 level="series">
+            <did><unittitle>Series 1: Arizona,</unittitle>
+               <unitdate type="inclusive" normal="1949/1963" >1949-1963</unitdate></did>
+            <arrangement><p>This series is arranged alphabetically by county and then locale within each county.</p></arrangement>
+      <c02 level="file">
+         <did><unittitle>Apache County, Alpine Area,</unittitle>
+            <unitdate normal="1954">1954</unitdate>
+         <container type="Box">1</container>
+         <container type="Folder">1</container></did>
+      </c02>
+      <c02 level="file">
+         <did><unittitle>Apache County, Ft. Apache Reservation,</unittitle>
+            <unitdate normal="1959/1962">1959-1962</unitdate>
+         <container type="Box">1</container>
+         <container type="Folder">2</container></did>
+      </c02>
+            <c02 level="file">
+               <did><unittitle>Apache County, Navajo Reservation,</unittitle>
+                  <unitdate normal="1954"> 1954</unitdate>
+               <container type="Box">1</container>
+               <container type="Folder">3</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Apache County, Rest of County,</unittitle>
+                  <unitdate label="1953/1954">1953-1954</unitdate>
+               <container type="Box">1</container>
+               <container type="Folder">4</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Cochise County, Babocamari Ranch,</unittitle>
+                  <unitdate normal="1951">1951</unitdate>
+               <container type="Box">1</container>
+                  <container type="Folder">5</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Cochise County, Blackwater Draw, </unittitle>
+                  <unitdate normal="1957">1957</unitdate>
+               <container type="Box">1</container>
+               <container type="Folder">6</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Cochise County, Boundary Monuments,</unittitle>
+                  <unitdate normal="1956">1956</unitdate>
+                  <unitdate normal="1950/1959" certainty="aproximate">undated</unitdate>
+               <container type="Box">1</container>
+               <container type="Folder">7</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Cochise County, Turkey Creek Ridge,</unittitle>
+                  <unitdate  normal="1961"> 1961</unitdate>
+               <container type="Box">1</container>
+               <container type="Folder">8</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Cochise County, Rest of County,</unittitle>
+                  <unitdate normal="1954/1963">1954-1963</unitdate>
+               <container type="Box">1</container>
+               <container type="Folder">9</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Coconino County, Cameron,</unittitle>
+                  <unitdate normal="1953/1954">1953-1954</unitdate>
+               <container type="Box">1</container>
+               <container type="Folder">10</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Coconino County, Fredonia,</unittitle>
+                  <unitdate normal="1953/1962">1953-1962</unitdate>
+               <container type="Box">1</container>
+               <container type="Folder">11</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Coconino County, Grand Canyon,</unittitle>
+                  <unitdate  normal="1953/1954">1953-1954</unitdate>
+               <container type="Box">1</container>
+               <container type="Folder">12</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Coconino County, Houserock Valley,</unittitle>
+                  <unitdate normal="1953">1953</unitdate>
+               <container type="Box">1</container>
+               <container type="Folder">13</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Coconino County, Kaibab,</unittitle>
+                  <unitdate normal="1953">1953</unitdate>
+                  <unitdate normal="1950/1959" certainty="aproximate">undated</unitdate>
+               <container type="Box">1</container>
+               <container type="Folder">14</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Coconino County, Kaibito,</unittitle>
+                  <unitdate  normal="1953">1953</unitdate>
+               <container type="Box">1</container>
+               <container type="Folder">15</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Coconino County, Mogollon Rim,</unittitle>
+                  <unitdate  normal="1953">1953</unitdate>
+               <container type="Box">1</container>
+               <container type="Folder">16</container></did>
+            </c02>
+           <c02 level="file">
+              <did><unittitle>Coconino County, Navajo Bridge,</unittitle>
+                 <unitdate normal="1953">1953</unitdate>
+              <container type="Box">1</container>
+              <container type="Folder">17</container></did>
+           </c02>
+    <c02 level="file">
+       <did><unittitle>Coconino County, No Location,</unittitle>
+          <unitdate normal="1953">1953</unitdate>
+       <container type="Box">1</container>
+       <container type="Folder">18</container></did>
+    </c02>
+            <c02 level="file">
+               <did><unittitle>Coconino County, Rose Well,</unittitle>
+                  <unitdate  normal="1953">1953</unitdate>
+               <container type="Box">1</container>
+               <container type="Folder">19</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Coconino County, San Francisco Mountains,</unittitle>
+                  <unitdate normal="1953">1953</unitdate>
+                  <unitdate normal="1962">1962</unitdate>
+               <container type="Box">1</container>
+               <container type="Folder">20</container></did>
+            </c02>
+          <c02 level="file">
+             <did><unittitle>Coconino County, Seligman,</unittitle>
+                <unitdate  normal="1953">1953</unitdate>
+             <container type="Box">1</container>
+             <container type="Folder">21</container></did>
+          </c02>
+     <c02 level="file">
+        <did><unittitle>Coconino County, Rest of County,</unittitle>
+           <unitdate  normal="1953/1955">1953-1955</unitdate>
+        <container type="Box">1</container>
+        <container type="Folder">22</container></did>
+     </c02>
+        <c02 level="file">
+           <did><unittitle>Gila County, Joe Cosner Ranch,</unittitle>
+              <unitdate  normal="1958">1958</unitdate>
+           <container type="Box">1</container>
+           <container type="Folder">23</container></did>
+        </c02>
+     <c02 level="file">
+        <did><unittitle>Gila County, Pinal Mountains,</unittitle>
+           <unitdate  normal="1953">1953</unitdate>
+        <container type="Box">1</container>
+        <container type="Folder">24</container></did>
+     </c02>
+    <c02 level="file">
+       <did><unittitle>Gila County, Pioneer Pass,</unittitle>
+          <unitdate  normal="1953">1953</unitdate>
+       <container type="Box">1</container>
+       <container type="Folder">25</container></did>
+    </c02>
+    <c02 level="file">
+       <did><unittitle>Gila County, Rest of County,</unittitle>
+          <unitdate  normal="1953">1953</unitdate>
+          <unitdate normal="1958">1958</unitdate>
+       <container type="Box">1</container>
+       <container type="Folder">26</container></did>
+    </c02>
+    <c02 level="file">
+       <did><unittitle>Graham County,</unittitle>
+          <unitdate  normal="1950">1950</unitdate>
+       <container type="Box">1</container>
+       <container type="Folder">27</container></did>
+    </c02>
+     <c02 level="file">
+        <did><unittitle>Maricopa County,</unittitle>
+           <unitdate  normal="1955">1955</unitdate>
+           <unitdate normal="1962">1962</unitdate>
+        <container type="Box">1</container>
+        <container type="Folder">28</container></did>
+     </c02>
+   <c02 level="file">
+      <did><unittitle>Mojave County, Alamo Crossing,</unittitle>
+         <unitdate  normal="1951">1951</unitdate>
+      <container type="Box">1</container>
+      <container type="Folder">29</container></did>
+   </c02>
+    <c02 level="file">
+       <did><unittitle>Mojave County, Big Sandy,</unittitle>
+          <unitdate  normal="1950">1950</unitdate>
+       <container type="Box">1</container>
+       <container type="Folder">30</container></did>
+    </c02>
+  <c02 level="file">
+     <did><unittitle>Mojave County, Black Mountains,</unittitle>
+        <unitdate  normal="1950">1950</unitdate>
+        <unitdate normal="1963">1963</unitdate>
+     <container type="Box">1</container>
+     <container type="Folder">31</container></did>
+  </c02>
+  <c02 level="file">
+     <did><unittitle>Mojave County, Fredonia Area,</unittitle>
+        <unitdate  normal="1951"> 1951</unitdate>
+     <container type="Box">1</container>
+     <container type="Folder">32</container></did>
+  </c02>
+  <c02 level="file">
+     <did><unittitle>Mojave County, Hualpai Indian Reservation; New Water Tank,</unittitle>
+        <unitdate normal="1951/1952">1951-1952</unitdate>
+        <unitdate normal="1962">1962</unitdate>
+     <container type="Box">1</container>
+     <container type="Folder">33</container></did>
+  </c02>
+   <c02 level="file">
+      <did><unittitle>Mojave County, Hualpai Mountains,</unittitle>
+         <unitdate normal="1950/1951">1950-1951</unitdate>
+      <container type="Box">1</container>
+      <container type="Folder">34</container></did>
+   </c02>
+       <c02 level="file">
+          <did><unittitle>Mojave County, Kingman Area,</unittitle>
+             <unitdate normal="1950/1952"> 1950-1952</unitdate>
+             <unitdate normal="1963">1963</unitdate>
+          <container type="Box">1</container>
+          <container type="Folder">35</container></did>
+       </c02>
+   <c02 level="file">
+      <did><unittitle>Mojave County, Mt. Trumbull,</unittitle>
+         <unitdate normal="1951">1951</unitdate>
+      <container type="Box">1</container>
+      <container type="Folder">36</container></did>
+   </c02>
+     <c02 level="file">
+        <did><unittitle>Mojave County, Peach Springs,</unittitle>
+           <unitdate normal="1951">1951</unitdate>
+        <container type="Box">1</container>
+        <container type="Folder">37</container></did>
+     </c02>
+   <c02 level="file">
+      <did><unittitle>Mojave County, Pierce’s Ferry,</unittitle>
+         <unitdate normal="1950">1950</unitdate>
+         <unitdate normal="1952">1952</unitdate>
+      <container type="Box">1</container>
+      <container type="Folder">38</container></did>
+   </c02>
+     <c02 level="file">
+        <did><unittitle>Mojave County, Tuweep Canyon,</unittitle>
+           <unitdate normal="1951">1951</unitdate>
+        <container type="Box">1</container>
+        <container type="Folder">39</container></did>
+     </c02>
+    <c02 level="file">
+       <did><unittitle>Mojave County, Yucca,</unittitle>
+          <unitdate normal="1950/1952">1950-1952</unitdate>
+       <container type="Box">1</container>
+       <container type="Folder">40</container></did>
+    </c02>
+     <c02 level="file">
+        <did><unittitle>Mojave County, Rest of County,</unittitle>
+           <unitdate normal="1950/1951">1950-1951</unitdate>
+           <unitdate normal="1962/1963">1962-1963</unitdate>
+        <container type="Box">1</container>
+        <container type="Folder">41</container></did>
+     </c02>
+   <c02 level="file">
+      <did><unittitle>Navajo County, Navajo, Hopi, Ft. Apache Reservations,</unittitle>
+         <unitdate normal="1954">1954</unitdate>
+         <unitdate normal="1962">1962</unitdate>
+      <container type="Box">1</container>
+      <container type="Folder">42</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Navajo County, Whiteriver Reservation,</unittitle>
+         <unitdate normal="1950">1950</unitdate>
+      <container type="Box">1</container>
+      <container type="Folder">43</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Navajo County, Winslow Area,</unittitle>
+         <unitdate normal="1954">1954</unitdate>
+      <container type="Box">1</container>
+      <container type="Folder">44</container></did>
+   </c02>         
+   <c02 level="file">
+      <did><unittitle>Pima County, Arivaca,</unittitle>
+         <unitdate normal="1959/1963">1959-1963</unitdate>
+      <container type="Box">2</container>
+      <container type="Folder">1</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Pima County, Aros Ranch,</unittitle>
+         <unitdate normal="1962">1962</unitdate>
+      <container type="Box">2</container>
+      <container type="Folder">2</container></did>
+   </c02>
+  <c02 level="file">
+     <did><unittitle>Pima County, Avra Valley,</unittitle>
+        <unitdate normal="1951">1951</unitdate>
+     <container type="Box">2</container>
+     <container type="Folder">3</container></did>
+  </c02>
+  <c02 level="file">
+     <did><unittitle>Pima County, Boundary Monuments (1 of 2),</unittitle>
+        <unitdate normal="1892/1895">1892-1895</unitdate>
+     <container type="Box">2</container>
+     <container type="Folder">4</container></did>
+  </c02>
+   <c02 level="file">
+      <did><unittitle>Pima County, Boundary Monuments (2 of 2),</unittitle>
+         <unitdate normal="1892/1895">1892-1895</unitdate>
+         <unitdate normal="1958">1958</unitdate>
+         <unitdate normal="1961/1962">1961-1962</unitdate>
+      <container type="Box">2</container>
+      <container type="Folder">5</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Pima County, Catalina Mountains,</unittitle>
+         <unitdate normal="1959">1959</unitdate>
+         <unitdate normal="1962">1962</unitdate>
+      <container type="Box">2</container>
+      <container type="Folder">6</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Pima County, Desert Laboratory,</unittitle>
+         <unitdate normal="1949">1949</unitdate>
+         <unitdate normal="1952">1952</unitdate>
+         <unitdate normal="1957/1958">1957-1958</unitdate>
+      <container type="Box">2</container>
+      <container type="Folder">7</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Pima County, Gardiner Canyon,</unittitle>
+         <unitdate normal="1959">1959</unitdate>
+      <container type="Box">2</container>
+      <container type="Folder">8</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Pima County, Hickiwan,</unittitle>
+         <unitdate normal="1958">1958</unitdate>
+      <container type="Box">2</container>
+      <container type="Folder">9</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Pima County, Kaka,</unittitle>
+         <unitdate normal="1958">1958</unitdate>
+      <container type="Box">2</container>
+      <container type="Folder">10</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Pima County, Mexico Boundary,</unittitle>
+         <unitdate normal="1959">1959</unitdate>
+      <container type="Box">2</container>
+      <container type="Folder">11</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Pima County, Mt. View,</unittitle>
+         <unitdate normal="1953">1953</unitdate>
+         <unitdate normal="1959">1959</unitdate>
+      <container type="Box">2</container>
+      <container type="Folder">12</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Pima County, Organ Pipe National Monument,</unittitle>
+         <unitdate normal="1958">1958</unitdate>
+      <container type="Box">2</container>
+      <container type="Folder">13</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Pima County, Papago Reservation,</unittitle>
+         <unitdate normal="1958">1958</unitdate>
+         <unitdate normal="1962">1962</unitdate>
+      <container type="Box">2</container>
+      <container type="Folder">14</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Pima County, Quitobaquito Pond,</unittitle>
+         <unitdate normal="1958">1958</unitdate>
+      <container type="Box">2</container>
+      <container type="Folder">15</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Pima County, Reddington Pass,</unittitle>
+         <unitdate normal="1953">1953</unitdate>
+      <container type="Box">2</container>
+      <container type="Folder">16</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Pima County, Sabino Canyon,</unittitle>
+         <unitdate normal="1957">1957</unitdate>
+      <container type="Box">2</container>
+      <container type="Folder">17</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Pima County, Sahuaro National Monument,</unittitle>
+         <unitdate normal="1952">1952</unitdate>
+         <unitdate normal="1954">1954</unitdate>
+      <container type="Box">2</container>
+      <container type="Folder">18</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Pima County, San Xavier Indian Reservation,</unittitle>
+         <unitdate normal="1958">1958</unitdate>
+      <container type="Box">2</container>
+      <container type="Folder">19</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Pima County, Santa Rita Experimental Range,</unittitle>
+         <unitdate normal="1949/1951">1949-1951</unitdate>
+         <unitdate normal="1958-1959">1958-1959</unitdate>
+      <container type="Box">2</container>
+      <container type="Folder">20</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Pima County, Sierrita Mountains,</unittitle>
+         <unitdate normal="1949">1949</unitdate>
+         <unitdate normal="1953">1953</unitdate>
+      <container type="Box">2</container>
+      <container type="Folder">21</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Pima County, Thurber Ranch,</unittitle>
+         <unitdate normal="1954">1954</unitdate>
+         <unitdate normal="1958">1958</unitdate>
+      <container type="Box">2</container>
+      <container type="Folder">22</container></did>
+   </c02>
+  <c02 level="file">
+     <did><unittitle>Pima County, Tortolita Mountains,</unittitle>
+        <unitdate normal="1959">1959</unitdate>
+     <container type="Box">2</container>
+     <container type="Folder">23</container></did>
+  </c02>
+   <c02 level="file">
+      <did><unittitle>Pima County, Tucson Mountains,</unittitle>
+         <unitdate normal="1958">1958</unitdate>
+      <container type="Box">2</container>
+      <container type="Folder">24</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Pima County, University of Arizona Campus,</unittitle>
+         <unitdate normal="1958">1958</unitdate>
+      <container type="Box">2</container>
+      <container type="Folder">25</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Pima County, Vaya-Chin,</unittitle>
+         <unitdate normal="1958">1958</unitdate>
+      <container type="Box">2</container>
+      <container type="Folder">26</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Pima County, White House Bajada,</unittitle>
+         <unitdate normal="1951">1951</unitdate>
+      <container type="Box">2</container>
+      <container type="Folder">27</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Pima County, Rest of County,</unittitle>
+         <unitdate normal="1951">1951</unitdate>
+         <unitdate normal="1953">1953</unitdate>
+         <unitdate normal="1958/1959">1958-1959</unitdate>
+         <unitdate normal="1963">1963</unitdate>
+      <container type="Box">2</container>
+      <container type="Folder">28</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Pinal County, Control Road,</unittitle>
+         <unitdate normal="1959">1959</unitdate>
+      <container type="Box">2</container>
+      <container type="Folder">29</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Pinal County, Oracle Junction,</unittitle>
+         <unitdate normal="1949">1949</unitdate>
+      <container type="Box">2</container>
+      <container type="Folder">30</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Pinal County, Page Ranch-Lehmann’s Lovegrass,</unittitle>
+         <unitdate normal="1949">1949</unitdate>
+      <container type="Box">2</container>
+      <container type="Folder">31</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Pinal County, Page Ranch Burn #2,</unittitle>
+         <unitdate normal="1950">1950</unitdate>
+      <container type="Box">2</container>
+      <container type="Folder">32</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Pinal County, Page Ranch 1952 Burns,</unittitle>
+         <unitdate normal="1952">1952</unitdate>
+      <container type="Box">2</container>
+      <container type="Folder">33</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Pinal County, Page Ranch-Miscellaneous,</unittitle>
+         <unitdate normal="1950/1952">1950-1952</unitdate>
+         <unitdate normal="1955">1955</unitdate>
+      <container type="Box">2</container>
+      <container type="Folder">34</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Pinal County, Page Ranch-Plots,</unittitle>
+         <unitdate normal="1950">1950</unitdate>
+      <container type="Box">2</container>
+      <container type="Folder">35</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Pinal County, Page Ranch-Runoff Area,</unittitle>
+         <unitdate normal="1951/1952">1951-1952</unitdate>
+         <unitdate normal="1955">1955</unitdate>
+      <container type="Box">2</container>
+      <container type="Folder">36</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Pinal County, Pinal Mountains-Russell Gulch Burn,</unittitle>
+         <unitdate normal="1956">1956</unitdate>
+      <container type="Box">2</container>
+      <container type="Folder">37</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Pinal County, Pinal Mountains-South Slope,</unittitle>
+         <unitdate normal="1957">1957</unitdate>
+      <container type="Box">2</container>
+      <container type="Folder">38</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Pinal County, Truck-mounted Spray Rig,</unittitle>
+         <unitdate normal="1950">1950</unitdate>
+      <container type="Box">2</container>
+      <container type="Folder">39</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Pinal County, Rest of County,</unittitle>
+         <unitdate normal="1953">1953</unitdate>
+         <unitdate normal="1958">1958</unitdate>
+      <container type="Box">2</container>
+      <container type="Folder">40</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Santa Cruz County, Arivaca,</unittitle>
+         <unitdate normal="1959"></unitdate>
+      <container type="Box">3</container>
+      <container type="Folder">1</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Santa Cruz County, Atoscosa Peak,</unittitle>
+         <unitdate normal="1959">1959</unitdate>
+      <container type="Box">3</container>
+      <container type="Folder">2</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Santa Cruz County, Boundary Monuments,</unittitle>
+         <unitdate normal="1892/1895">1892-1895</unitdate>
+         <unitdate normal="1956/1957">1956-1957</unitdate>
+      <container type="Box">3</container>
+      <container type="Folder">3</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Santa Cruz County, Canelo Hills,</unittitle>
+         <unitdate normal="1959">1959</unitdate>
+      <container type="Box">3</container>
+      <container type="Folder">4</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Santa Cruz County, Canelo Pass,</unittitle>
+         <unitdate normal="1960">1960</unitdate>
+      <container type="Box">3</container>
+      <container type="Folder">5</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Santa Cruz County, Cumming Ranch,</unittitle>
+         <unitdate normal="1950">1950</unitdate>
+      <container type="Box">3</container>
+      <container type="Folder">6</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Santa Cruz County, Josephine Canyon,</unittitle>
+         <unitdate normal="1959">1959</unitdate>
+      <container type="Box">3</container>
+      <container type="Folder">7</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Santa Cruz County, Pajaritos Mountains,</unittitle>
+         <unitdate normal="1957">1957</unitdate>
+      <container type="Box">3</container>
+      <container type="Folder">8</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Santa Cruz County, Santa Rita Mountains,</unittitle>
+         <unitdate normal="1959">1959</unitdate>
+      <container type="Box">3</container>
+      <container type="Folder">9</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Santa Cruz County, Sycamore Canyon,</unittitle>
+         <unitdate normal="1959">1959</unitdate>
+      <container type="Box">3</container>
+      <container type="Folder">10</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Santa Cruz County, Rest of County,</unittitle>
+         <unitdate normal="1954">1954</unitdate>
+         <unitdate normal="1956/1959">1956-1959</unitdate>
+         <unitdate normal="1963">1963</unitdate>
+      <container type="Box">3</container>
+      <container type="Folder">11</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Yavapai County, Aguila,</unittitle>
+         <unitdate normal="1950">1950</unitdate>
+      <container type="Box">3</container>
+      <container type="Folder">12</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Yavapai County, Ashfork,</unittitle>
+         <unitdate normal="1949">1949</unitdate>
+      <container type="Box">3</container>
+      <container type="Folder">13</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Yavapai County, Chino,</unittitle>
+         <unitdate normal="1949">1949</unitdate>
+      <container type="Box">3</container>
+      <container type="Folder">14</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Yavapai County, Date Creek,</unittitle>
+         <unitdate normal="1950">1950</unitdate>
+      <container type="Box">3</container>
+      <container type="Folder">15</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Yavapai County, Drake,</unittitle>
+         <unitdate normal="1949">1949</unitdate>
+      <container type="Box">3</container>
+      <container type="Folder">16</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Yavapai County, Lonesome Valley,</unittitle>
+         <unitdate normal="1949">1949</unitdate>
+         <unitdate normal="1959">1959</unitdate>
+      <container type="Box">3</container>
+      <container type="Folder">17</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Yavapai County, Octave,</unittitle>
+         <unitdate normal="1950">1950</unitdate>
+      <container type="Box">3</container>
+      <container type="Folder">18</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Yavapai County, No Location,</unittitle>
+         <unitdate normal="1950">1950</unitdate>
+         <unitdate normal="1963">1963</unitdate>
+      <container type="Box">3</container>
+      <container type="Folder">19</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Yavapai County, Perry Henderson Ranch,</unittitle>
+         <unitdate normal="1953/1956">1953-1956</unitdate>
+      <container type="Box">3</container>
+      <container type="Folder">20</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Yavapai County, Perry Henderson Ranch,</unittitle>
+         <unitdate normal="1957">1957</unitdate>
+         <unitdate normal="1959">1959</unitdate>
+      <container type="Box">3</container>
+      <container type="Folder">21</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Yavapai County, Skull Valley,</unittitle>
+         <unitdate normal="1949">1949</unitdate>
+      <container type="Box">3</container>
+      <container type="Folder">22</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Yavapai County, Rest of County,</unittitle>
+         <unitdate normal="1949/1950">1949-1950</unitdate>
+         <unitdate normal="1953">1953</unitdate>
+         <unitdate normal="1955">1955</unitdate>
+         <unitdate normal="1959">1959</unitdate>
+         <unitdate normal="1963">1963</unitdate>
+      <container type="Box">3</container>
+      <container type="Folder">23</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Yuma County, Ehrenberg,</unittitle>
+         <unitdate normal="1962">1962</unitdate>
+      <container type="Box">3</container>
+      <container type="Folder">24</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Yuma County, Gila Mountains,</unittitle>
+         <unitdate normal="1962">1962</unitdate>
+      <container type="Box">3</container>
+      <container type="Folder">25</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Yuma County, Imperial Wildlife Refuge,</unittitle>
+         <unitdate normal="1962">1962</unitdate>
+      <container type="Box">3</container>
+      <container type="Folder">26</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Yuma County, Papago Wells,</unittitle>
+         <unitdate normal="1962">1962</unitdate>
+      <container type="Box">3</container>
+      <container type="Folder">27</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Yuma County, Rest of County,</unittitle>
+         <unitdate normal="1962">1962</unitdate>
+      <container type="Box">3</container>
+      <container type="Folder">28</container></did>
+   </c02>
+   </c01>
+   <c01 level="series">
+      <did><unittitle>Series 2: New Mexico, </unittitle>
+      <unitdate type="inclusive" normal="1956" >1956</unitdate></did>
+      <arrangement><p>This series is arranged alphabetically by county and then locale within each county.</p></arrangement> 
+      <c02 level="file">
+         <did><unittitle>Dona Ana County, Boundary Monuments,</unittitle>
+            <unitdate normal="1956">1956</unitdate>
+         <container type="Box">3</container>
+         <container type="Folder">29</container></did>
+      </c02>
+      <c02 level="file">
+         <did><unittitle>Hidalgo County, Boundary Monuments,</unittitle>
+            <unitdate normal="1956">1956</unitdate>
+         <container type="Box">3</container>
+         <container type="Folder">30</container></did>
+      </c02>
+      <c02 level="file">
+         <did><unittitle>Hidalgo County, Near Boundary Monuments,</unittitle>
+            <unitdate normal="1956">1956</unitdate>
+         <container type="Box">3</container>
+         <container type="Folder">31</container></did>
+      </c02>
+      <c02 level="file">
+         <did><unittitle>Luna County, Boundary Monuments,</unittitle>
+            <unitdate normal="1956">1956</unitdate>
+         <container type="Box">3</container>
+         <container type="Folder">32</container></did>
+      </c02>
+      <c02 level="file">
+         <did><unittitle>Luna County,</unittitle>
+            <unitdate normal="1956">1956</unitdate>
+         <container type="Box">3</container>
+         <container type="Folder">33</container></did>
+      </c02>
+   </c01>
+   <c01 level="series">
+      <did><unittitle>Series 3: Other Locales,</unittitle>
+         <unitdate type="inclusive" normal="1952/1961" >1952-1961</unitdate></did>
+      <arrangement><p>This series is arranged alphabetically by state (U.S.) and country then state.</p></arrangement>
+      <c02 level="file">
+         <did><unittitle>California,</unittitle>
+            <unitdate normal="1960/1961">1960-1961</unitdate>
+         <container type="Box">3</container>
+         <container type="Folder">34</container></did>
+      </c02>
+      <c02 level="file">
+         <did><unittitle>North Dakota,</unittitle>
+            <unitdate normal="1952">1952</unitdate>
+            <unitdate normal="1961">1961</unitdate>
+         <container type="Box">3</container>
+         <container type="Folder">35</container></did>
+      </c02>
+      <c02 level="file">
+         <did><unittitle>Mexico, Baja California, Laguna Chapala,</unittitle>
+            <unitdate normal="1960">1960</unitdate>
+         <container type="Box">3</container>
+         <container type="Folder">36</container></did>
+      </c02>
+      <c02 level="file">
+         <did><unittitle>Mexico, Baja California, Mexicali,</unittitle>
+            <unitdate normal="1960">1960</unitdate>
+         <container type="Box">3</container>
+         <container type="Folder">37</container></did>
+      </c02>
+      <c02 level="file">
+         <did><unittitle>Mexico, Baja California, San Filipe,</unittitle>
+            <unitdate normal="1960">1960</unitdate>
+         <container type="Box">3</container>
+         <container type="Folder">38</container></did>
+      </c02>
+      <c02 level="file">
+         <did><unittitle>Mexico, Baja California, Miscellaneous,</unittitle>
+            <unitdate normal="1960">1960</unitdate>
+         <container type="Box">3</container>
+         <container type="Folder">39</container></did>
+      </c02>
+      <c02 level="file">
+         <did><unittitle>Mexico, Sonora, Puerto Libertad,</unittitle>
+            <unitdate normal="1959">1959</unitdate>
+         <container type="Box">3</container>
+         <container type="Folder">40</container></did>
+      </c02>
+      <c02 level="file">
+         <did><unittitle>Mexico, Sonora, Other,</unittitle>
+            <unitdate normal="1959">1959</unitdate>
+         <container type="Box">3</container>
+         <container type="Folder">41</container></did>
+      </c02>
+ </c01>
+  <c01 level="series">
+     <did><unittitle>Series 4: Miscellaneous, </unittitle>
+        <unitdate type="inclusive" normal="1950/1962">1950-1962</unitdate></did>
+  <c02 level="file">
+     <did><unittitle>Maps,</unittitle>
+        <unitdate normal="1956/1957">1956-1957</unitdate>
+     <container type="Box">3</container>
+     <container type="Folder">42</container></did>
+  </c02>
+   <c02 level="file">
+      <did><unittitle>People,</unittitle>
+         <unitdate normal="1950">1950</unitdate>
+         <unitdate normal="1952">1952</unitdate>
+         <unitdate normal="1954/1958">1954-1958</unitdate>
+         <unitdate normal="1962">1962</unitdate>
+      <container type="Box">3</container>
+      <container type="Folder">43</container></did>
+   </c02>
+   <c02 level="file">
+      <did><unittitle>Unlabelled</unittitle>
+      <container type="Box">3</container>
+      <container type="Folder">44</container></did>
+   </c02>
+    <c02 level="file">
+       <did><unittitle>Empty envelopes</unittitle>
+       <container type="Box">3</container>
+       <container type="Folder">45</container></did>
+    </c02>
+    <c02 level="file">
+       <did><unittitle>Inventory of Photographs</unittitle>
+       <container type="Box">3</container>
+       <container type="Folder">46</container></did>
+    </c02>  
+  </c01>
+ </dsc>
+</archdesc>
+</ead>

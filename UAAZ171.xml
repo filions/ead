@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+   <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0"> 
+      <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special Collections//text
+		(US::AzU::Papers of William Burnham Alexander)//en""UAAZ171.xml"
+      </eadid> 
+      <filedesc> 
+         <titlestmt> 
+         	<titleproper encodinganalog="title">Papers of William Burnham Alexander,
+	 	       <date normal="1907/1929" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">1907-1929</date>
+	 	    </titleproper>
+	 	    <titleproper type="filing" altrender="nodisplay"> Alexander, (William B.) Papers of,
+            </titleproper>
+	        <author>Processed by Staff.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date normal= "2016" era= "ce" calendar = "gregorian">; 2016</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+            <date era="ce" encodinganalog="date" normal="20160107">January 07, 2016</date>
+  	     </creation>
+	     <langusage>Finding aid encoded in<language> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc> 
+   </eadheader>
+   <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+      <did id="a1"> 
+         <head>Collection Summary</head> 
+      	<unittitle encodinganalog="245" label="Collection Name:"> Papers of William Burnham Alexander,
+            <unitdate type="inclusive" label="Dates:" normal="1907/1929">1907-1929</unitdate>
+  	     </unittitle>	 
+	     <unitid label="Collection Number:" encodinganalog="099" repositorycode="AzU" countrycode="us">AZ 171</unitid>
+	     <origination label="Creator:"> 
+            <persname source="lcnaf" encodinganalog="100">Alexander, William Burnham, 1877-1957.</persname> </origination>
+      	<abstract label="Abstract:">William Burnham Alexander, 1877-1957, was an engineer. 
+      								The collection includes correspondence, agreements, description of agricultural lands of 
+      								the Rillito and Santa Cruz Rivers in Pima County, articles of incorporation of the Federal 
+      								Power and Water Co., and various related documents pertaining to water power projects in 
+      								the Coronado National Forest area in Arizona as proposed by the Great Western Power Co., 
+      								the Sabino Canyon Power and Irrigation Project of Pima County, and the Federal Power and Water Co.</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description:"><extent>17 items (44 leaves)</extent></physdesc>	 
+	     <repository label="Repository:"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng" scriptcode="Latin">English.</language></langmaterial>
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+         <p>There are no restrictions on this collection.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+      	<p>Papers of William Burnham Alexander (AZ 171). Special Collections, University of Arizona Libraries.</p>
+      </prefercite>
+   	<acqinfo>
+   		<head>Acquisition Information</head>
+   		<p>Acquired as gift, 1958.</p>
+   	</acqinfo>
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Staff.</p>
+      </processinfo>
+      <bioghist id="a2" encodinganalog="545"> 
+         <head>Biographical Note</head> 
+      	<p>Engineer.</p> 
+      </bioghist> 
+      <arrangement id="a4" encodinganalog="351$a"> 
+         <head>Arrangement</head> 
+  	     <p>This collection is organized chronologically.</p>
+      </arrangement> 
+      <scopecontent id="a3" encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>Correspondence, agreements, description of agricultural 
+      	lands of the Rillito and Santa Cruz Rivers in Pima County,
+      	articles of incorporation of the Federal Power and Water 
+     	Co., and various related documents pertaining to water 
+      	power projects in the Coronado National Forest area in 
+      	Arizona as proposed by the Great Western Power Co., the 
+      	Sabino Canyon Power and Irrigation Project of Pima County,
+      	and the Federal Power and Water Co.</p> 
+      </scopecontent>
+      <controlaccess>
+         <head>Access Terms</head>
+         <list type="simple"> 
+         	<item>
+         		<corpname encodinganalog="610" source= "lcnaf">Federal Power and Water Company.</corpname>
+         	</item>
+         	<item>
+         		<corpname encodinganalog="610" source= "lcnaf">Great Western Power Company.</corpname>
+         	</item>
+  		    <item>
+  			   <corpname encodinganalog="610" source= "lcnaf">Sabino Canyon Power and Irrigation Project of Pima County.</corpname>
+  		    </item>
+  		    <item>
+  			   <subject encodinganalog="650" source= "lcsh">Water-power -- Arizona.</subject>
+  		    </item>
+  		    <item>
+  			   <geogname encodinganalog="651" source="lcsh">Coronado National Forest (Ariz. and N.M.)</geogname>
+  		    </item>
+         	<item>
+         		<geogname encodinganalog="651" source="lcsh">Tucson (Ariz.) -- Water-supply.</geogname>
+         	</item>
+         </list>
+      </controlaccess>
+   </archdesc>
+</ead>

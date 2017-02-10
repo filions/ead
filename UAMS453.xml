@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0"> 
+  <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special
+	 Collections//text(US::AzU::)Helen Stuart Whitehead Collection//en""MS453.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper>Helen Stuart Whitehead collection,<date normal="1914/1919" certainty="approximate"> circa 1914-1919</date>
+	 		<date normal="1917/1918" type="bulk">(bulk 1917-1918</date></titleproper> 
+	 	<author>Inventory prepared by Lena Grijalva.</author>
+	 </titlestmt> 
+	 <publicationstmt> 
+		<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		  		</address> 
+		<date normal="2011">&#x00A9; 2011</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation>Inventory encoded in Oxygen XML editor by Lena Grijalva 
+		<date normal="20111004">Oct. 4, 2011</date></creation> 
+	 <langusage>Inventory is in<language> English.</language></langusage>
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper>Helen Stuart Whitehead collection, 
+	 	<date certainty="approximate " normal="1914/1919">circa 1914-1919 (bulk 1917-1919)</date></titleproper> 
+	 <num>Collection Number: MS 453</num> 
+	 <publisher>University of Arizona Library Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Lena Grijalva</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date> Oct. 4, 2011</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Lena Grijalva</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 2011. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name:"> Helen Stuart Whitehead collection
+		<unitdate type="inclusive" label="Dates:" normal=" 1914/1919" certainty="approximate">1914-1919</unitdate> 
+	 	<unitdate type="bulk" label="Dates:" normal=" 1917/1919" certainty="approximate">(bulk 1917-1919)</unitdate></unittitle>
+	 <unitid label="Collection Number:" encodinganalog="099" repositorycode="AzU" countrycode="us">MS 453</unitid> 
+	 <origination label="Creator:"> 
+	 	<persname encodinganalog="100">Whitehead, Helen Stuart</persname> </origination>
+  	<abstract label="Abstract:">The Helen Stuart Whitehead collection consists of photographs and pamphlets relating to the University of Arizona compiled during Ms. Whitehead’s tenure as a student 1914-1919.</abstract> 
+  	<physdesc encodinganalog="300$a" label="Physical Description:"><extent>1 linear feet</extent></physdesc>
+	 <repository label="Repository:"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address></repository> 
+  	<langmaterial>Material in <language encodinganalog="546" langcode="eng"
+  		scriptcode="Latin">English</language></langmaterial></did>
+  	<accessrestrict>	
+	 <head>Restrictions</head> 
+	 <p>None</p>
+  	</accessrestrict>
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+	 <p>Helen Stuart Whitehead collection(453). Speccial Collections, University of Arizona Libraries.</p> 
+  </prefercite>
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+  	<p>Helen Stuart Whitehead was born on Sept.5, 1897 in Indianapolis, Indiana to the parents of Mr. and Mrs. Herbert L. Whitehead, she had two brothers and two sisters.  In the years of 1916-17 Miss Helen S. Whitehead  attended  Butler College (Indianapolis, Indiana). While attending college at the University of Arizona Helen S. Whitehead was the Hiking Captain in 1918-1819, s, she was Chairman for West College (1918-20). She also was Secretary and Treasurer of her Senior Class.  Helen S. Whitehead also was part of PI Beta Phi Sorority.  She also took 3units of a correspondence class while here in Tucson, Arizona.  Helen S.Whitehead graduated with a B.S in Home Economics in the year 1920.  
+  	  	</p> 
+  </bioghist> 
+  <arrangement id="a4" encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+	 <p>This collection is organized into 2 series.</p> 
+	 <list> 
+	 	<item>Series I: Pamphlets,<unitdate>1917-1918</unitdate></item>
+	 	<item>Series II: Photographic Material,<unitdate>circa 1914-1919</unitdate></item>	
+		  	 </list> 
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>Collection consists of pamphlets and photographic materials.  Collection includes 3 pamphlets from University of Arizona in 1917-1918.  The photographs include various photographs of Arizona, campus views, events, and people.</p> 
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="600" source="lcnaf" rules="aacr2">Whitehead, Helen Stuart, 1897-</persname> </item> 
+	  	  		<item> 
+		  <subject encodinganalog="650">University of Arizona--History--Photographs</subject> </item>  
+		<item> 
+		  <subject encodinganalog="650">Education Building--(Tucson, AZ)--Photographs</subject> </item> 
+	 		<item> 
+	 	  <subject encodinganalog="650">West Cottage (Tucson, AZ)—Photographs</subject> </item> 
+	 	<item><genreform>Photographs</genreform></item>
+	 </list> 
+  </controlaccess> 
+  <dsc type="combined" id="a23" encodinganalog=""> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+			<unittitle>Series I: Pamphlets, 1917-1918,</unittitle> 
+		</did> 
+	 	<arrangement><p>This series contains 3 various University of Arizona pamphlets</p></arrangement>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <container type="folder">1</container> 
+			 <unittitle>University of Arizona pamphlets</unittitle>
+		  	</did> 
+		</c02>
+	 	</c01>
+	<c01 level="series" id="series"> 
+	<did> 
+		<unittitle>Series II: Photographic Materials,</unittitle> 
+		<unitdate type="inclusive" normal=">1914/1919">1914-1919</unitdate> 
+	</did> 
+		<arrangement><p>This series contains various photographs in no particular order</p></arrangement>		
+	<c02 level="file"> 
+	<did> <container type="box">1</container> 
+		  <container type="folder">2</container> 
+		  <unittitle>Arizona Views,</unittitle>
+		<unitdate normal="1914/1919" certainty="approximate">circa 1914-1919</unitdate></did></c02>  
+	<c02 level="file"> 
+	<did> <container type="box">1</container> 
+		  <container type="folder">3</container> 
+		  <unittitle>Education building,</unittitle>
+		<unitdate>undated</unitdate></did></c02>
+	<c02 level="file"> 
+	<did> <container type="box">1</container> 
+		  <container type="folder">4</container> 
+		<unittitle>Campus Views,</unittitle>
+		<unitdate normal="1914/1919" certainty="approximate"> circa 1914-1919</unitdate></did></c02> 
+	<c02 level="file"> 
+	<did> <container type="box">1</container> 
+		  <container type="folder">5</container> 
+		<unittitle>Groups and friends,</unittitle>
+		<unitdate normal="1914/1919" certainty="approximate">circa 1914-1919</unitdate></did></c02>  
+	<c02 level="file"> 
+	<did> <container type="box">1</container> 
+		  <container type="folder">6</container> 
+		<unittitle>Groups and friends,</unittitle>
+		<unitdate certainty="approximate" normal="1914/1919">circa 1914-1919</unitdate></did></c02>  
+	<c02 level="file"> 
+	<did> <container type="box">1</container> 
+		  <container type="folder">7</container> 
+		<unittitle>Photographs of Helen S. Whitehead,</unittitle>
+		<unitdate>undated</unitdate></did></c02>  
+    <c02 level="file"> 
+	<did> <container type="box">1</container> 
+		  <container type="folder">8</container> 
+		<unittitle>West Cottage group photos,</unittitle>
+		<unitdate certainty="approximate" normal="1914/1919"> circa 1914-1919</unitdate></did></c02> 
+	
+	 </c01> 
+  </dsc> 
+</archdesc></ead>

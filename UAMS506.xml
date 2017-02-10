@@ -1,0 +1,244 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+ audience="internal" id="a0"> 
+	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special
+		Collections//text(US::AzU::Harry Heffner Empire Ranch photograph collection)//en""UAMS506.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper> Harry Heffner Empire Ranch photograph collection
+	 		<date normal="1875/1954" era="ce" calendar="gregorian" certainty="approximate">circa 1875-1954</date></titleproper>
+	 		<titleproper type="filing" altrender="nodisplay">Heffner, Harry Empire Ranch photograph collection</titleproper>
+	 	<author>Processed by Kim Frontz.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date normal= "2014" era= "ce" calendar = "gregorian">; 2014</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Erika B. Castaño. 
+  		<date era="ce" encodinganalog="date" normal="20140428">April 28, 2014</date></creation> 
+	 <langusage>Finding aid is in<language> English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+  	<titleproper>Harry Heffner Empire Ranch photograph collection,<date era= "ce" calendar= "gregorian">circa 1875-1954</date></titleproper> 
+	 <num>Collection Number: MS 506</num> 
+  	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Kim Frontz</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+		  	<date>March 2013</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+			<item>Erika B. Castaño</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 20014. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name:"> Harry Heffner Empire Ranch photograph collection
+  		<unitdate type="inclusive" label="Dates:" normal="1875/1954" certainty="approximate">circa 1875-1954</unitdate></unittitle>	 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	 repositorycode="AzU" countrycode="us">MS 506</unitid> 
+	 <origination label="Creator:"> 
+		<persname source="lcnaf" encodinganalog="100">Heffner, Harry 1874-1965</persname> </origination> 
+  	<abstract label="Abstract:">Reminiscences, photographs, and photograph albums relating to the Empire Ranch between 1893 and 1905 including cattle and ranching activities.  There are also typescript copies of letters written to Edward L. Vail, between 1875 and 1877, from Walter Vail and others.</abstract> 
+  	<physdesc encodinganalog="300$a" label="Physical Description:"><extent>2.25  linear feet</extent></physdesc>	 
+	 <repository label="Repository:"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository>
+  	<langmaterial>Materials in <language encodinganalog="546" langcode="eng"
+  		scriptcode="Latin">English</language></langmaterial>
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+  	<p>There are no restrictions on this collection.</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>Harry Heffner Empire Ranch photograph collection (MS 506). Special
+  		Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+  	<p>Harry Heffner was employed by Walter Vail of Vail and Gates at the Empire Ranch, Pantano, Arizona from June 1893 to 1905.  He started as a ranch hand, and later was manager of the ranch from 1902 to 1905.  Heffner moved to California in 1905 where he owned various ranches, managed the Gates estate, and was director of various water districts.  From 1939 to 1944, he was Vice President of the Cortaro Farms Company in Marana.</p> 
+  </bioghist> 
+  <arrangement id="a4" encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+  	<p>This collection is organized into two series</p>	 
+  	<list>
+  		<item>Series I: Biographical, histories, and reminiscences,
+  			<unitdate>ca. 1875-1954</unitdate></item>
+  		<item>Series II: Photographs and photograph albums
+  			<unitdate>ca. 1893-1905</unitdate></item>
+  	</list>
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>Primarily photographs but also a small amount of reminiscences, typescripts of letters, and notes concerning Harry Heffner’s involvement with the Empire Ranch from 1893 to 1905.  There are typescript copies of letters written to Edward L. Vail, 1875 to 1877, mostly by Walter Vail, and there are original ranch and water documents from Heffner’s California activities, 1905-1937</p> 
+  	<p>There are photographs of ranch life, cattle and horses, and the McFadden family.  Two large photograph albums, one with 102 photographs, the other with 101 photographs relating to Harry Heffner and the Empire Ranch operations, ca. 1893-1905.   Images depict cattle and ranching activities including branding, ranch houses, wagons and automobiles (including an 8-team wagon and the “first Oldsmobile in Arizona, 1904”).   There are images of Harry Heffner, H. V. McFadden, Bert Alvord, the Herbert Drachman family, the Vail family, and Jim Seaver.  Also present are images of Crittenden ruins, Tucson buildings, and Gardner Ranch (Colossal Cave)</p>
+</scopecontent> 
+	<relatedmaterial id="a6" encodinganalog="5441"><p>The photographs in the albums and other items have been digitized as part of the University of Arizona Institutional Repository and can be found under the <extref href="http://uair.arizona.edu/item/292233" role="text/html" actuate="onrequest" show="new">Empire Ranch Collection</extref>;and an oral history interview with Harry Heffner by Charles U. Pickrell is located at AZ 21.</p></relatedmaterial> 
+  	<controlaccess>
+  		<head>Access Terms</head>
+  		<list type="simple"> 
+  			<item>
+  				<persname encodinganalog="600" source="lcnaf" rules="aacr2" role="subject">Heffner, Harry, 1874-1965</persname>
+  			</item>
+  			<item>
+  				<persname encodinganalog="600" source="lcsh " rules="aacr2" role="subject">Vail, Walter L., 1852-1906--Correspondence.</persname>
+  			</item>
+  			<item>
+  				<famname encodinganalog="600" rules="DACS">McFadden family.</famname>
+  			</item>
+  			<item>
+  				<subject encodinganalog="650">Ranch life—Arizona—Pictorial works.</subject>
+  			</item>
+  				<item>
+  					<subject encodinganalog="650">Cattle—Arizona—Pictorial works</subject>
+  				</item>
+  			<item>
+  				<geogname encodinganalog="651" source="lcsh">Empire Ranch (Ariz.)—Pictorial works.</geogname>
+  			</item>
+  		</list>
+  	</controlaccess>
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+			<unittitle>Series I: Biographical, histories and reminiscences
+			 <unitdate type="inclusive">1875-1954</unitdate></unittitle> 
+		</did> 
+	 	<arrangement><p>This series is arranged topically</p></arrangement>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <container type="folder">1</container> 
+		  	<unittitle>Biographical materials,</unittitle>
+		  	<unitdate>undated</unitdate>
+		  </did> 
+		</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">2</container> 
+	 			<unittitle>Heffner’s letters and reminiscences,</unittitle>
+	 			<unitdate>1936-1954</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">3</container> 
+	 			<unittitle>Ranch and water documents, California,</unittitle>
+	 			<unitdate>1905-1937</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">4</container> 
+	 			<unittitle>Typescript letters to Edward L. Vail,</unittitle>
+	 			<unitdate>1875-1877</unitdate>
+	 		</did> 
+	 	</c02> 
+	 </c01>
+  	<c01 level="series" id="ser2"> 
+  		<did> 
+  			<unittitle>Series II: Photographs and photograph albums
+  				<unitdate type="inclusive">1893-1905,</unitdate></unittitle> 
+  		</did> 
+  		<arrangement><p>This series is arranged topically,</p></arrangement>
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Harry Heffner,</unittitle>
+  				<unitdate>1893-1905</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>People,</unittitle>
+  				<unitdate>1893-1905</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Hadden McFadden family,</unittitle>
+  				<unitdate>1896-1902</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>Empire Ranch – Views,</unittitle>
+  				<unitdate>1893-1905</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">9</container> 
+  				<unittitle>Empire Ranch buildings,</unittitle>
+  				<unitdate>1893-1905</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">10</container> 
+  				<unittitle>Empire Ranch cattle and ranching,</unittitle>
+  				<unitdate>1893-1905</unitdate>
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">11</container> 
+  				<unittitle>Empire Ranch horses, wagons, roads,</unittitle>
+  				<unitdate>1893-1905</unitdate>
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">12</container> 
+  				<unittitle>Miscellaneous photographs,</unittitle>
+  				<unitdate>undated</unitdate>
+  			</did> 
+  		</c02>
+  	</c01>
+  </dsc> 
+</archdesc></ead>

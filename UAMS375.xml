@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?filetitle Davis, William Papers?>
+<ead relatedencoding="MARC21"> 
+<eadheader audience="internal" findaidstatus="edited-full-draft"
+ langencoding="iso639-2b"> 
+  <eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
+	 Special Collections//text(US::AzU::William Davis Papers)//en"
+	 "UAMS375.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">William Davis papers, 
+		  <date>1969-1994</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Jean Marie
+		  Smart.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+		<publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		  Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		  
+		</address> 
+		<date>&#x00A9; 2005</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation encodinganalog="500">Inventory encoded by C. Wommack. 
+		<date>November 2005</date></creation> 
+	 <langusage>Inventory is in<language langcode="en" encodinganalog="546">
+		English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper encodinganalog="245$a">William Davis papers, 
+		<date>1969-1994</date></titleproper> 
+	 <num>Collection Number: MS 375</num> 
+	 <publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Jean Marie Smart</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>June 2002</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>C. Wommack</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 2005. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name:">William Davis papers, 
+		<unitdate type="inclusive"
+		 normal="1969/1994">1969-1994</unitdate></unittitle> 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	  repositorycode="AzU" countrycode="us">MS 375</unitid> 
+	 <origination label="Creator:"> 
+		<persname encodinganalog="100">Davis, William A</persname> </origination>
+	 <abstract label="Abstract:">The papers of Dr. William Davis include
+		extensive documentation of his life and work from 1969-1994. The collection
+		emphasizes the detailed ornithological studies pursued in Arizona, but includes
+		materials reflecting his travels, personal associations and committed
+		relationship with the Tucson Audubon Society. </abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+		encodinganalog="300">2 linear feet</extent></physdesc> 
+	 <repository label="Repository:"> 
+		<corpname encodinganalog="110">University of Arizona Libraries, Special
+		  Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline></address></repository> 
+  </did> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Restrictions</head> 
+	 <p>None.</p> 
+  </accessrestrict> 
+  <userestrict encodinganalog="540"> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Credit Line</head> 
+	 <p>William Davis papers (MS 375). Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p>Dr. William A. Davis (1908-1999) was an accomplished physician and avid
+		birdwatcher. During World War II, he was awarded the Order of the British
+		Empire for his service and was one of the first outside doctors to witness the
+		conditions in the German concentration camps. After the war, he worked in the
+		Veterans Administration Hospital in Grand Junction, Colorado. In 1972 Dr. Davis
+		was transferred to Tucson, Arizona to set up a drug and alcohol rehabilitation
+		program at the local VA hospital. This life member of the American
+		Ornithologists' Union retired from medicine in 1975 and began his studies of
+		bird distribution. His interest in the interrelationships between birds and
+		their habitats and migration patterns is vividly apparent in his collection of
+		papers.</p> 
+	 <p>Dr. Davis was a very active member of the Tucson Audubon Society. In
+		addition to serving as president from 1976-1979, He served as a field trip
+		leader, speaker, committee chairman, newsletter columnist and vice president.
+		He worked with Dr. Stephen Russell, another committed member of the society, on
+		several projects including 
+	 <title>"Checklist of Birds of Southeastern Arizona"</title> and the first
+	 (1979), second (1984) and third (1990) editions of 
+	 <title>Birds of Southeastern Arizona.</title> Profits from this endeavor
+	 have gone exclusively to the Tucson Audubon Society. He died in Tucson at the
+	 age of 91. </p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into five series:</p> 
+	 <list> 
+		<item>Series I: Journals, 
+		  <unitdate type="inclusive"
+		  normal="1975/1994">1975-1994</unitdate></item> 
+		<item>Series II: Birding, 
+		  <unitdate type="inclusive"
+		  normal="1971/1994">1971-1994</unitdate></item> 
+		<item>Series III: Research, 
+		  <unitdate type="inclusive"
+		  normal="1971/1994">1971-1994</unitdate></item> 
+		<item>Series IV: Publications, 
+		  <unitdate type="inclusive"
+		  normal="1969/1994">1969-1994</unitdate></item> 
+		<item>Series V: Tucson Audubon Society, 
+		  <unitdate type="inclusive"
+		  normal="1983/1985">1983-1985</unitdate></item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>Series I, Journals (1975-1994), contains the accumulated personal notes,
+		correspondence, photographs and newspaper and magazine clippings from 1975 -
+		1994. Included are annual rainfall charts, bird lists, travel information, and
+		general impressions and ideas developed in the course of these two decades.</p>
+	 
+	 <p>Series II, Birding (1971-1994), contains bird lists and general notes,
+		clippings and references that reflect his personal interests.</p> 
+	 <p>Series III, Research (1971-1994), contains notes, clippings and
+		photographs of birds of the United States. The series includes information
+		about the behavior and habitat of both Passeriformes and Non-Passeriformes.</p>
+	 
+	 <p>Series IV, Publications (1969-1994), contains extensive notes and
+		records on Arizona birds. Much of this information is derived from personal
+		research was shared with the Tucson Audubon Society. Field notes, published in
+		the society's newsletter, The Vermillion Flycatcher is one source cited. Birds
+		in Western Colorado by Dr. Davis, published in 1969 is included, as is the
+		first (1979), second (1984) and third (1990) editions of Birds of Southeastern
+		Arizona, coauthored by Stephen M. Russell and published by the Tucson Audubon
+		Society.</p> 
+	 <p>Series V, Tucson Audubon Society, contains the agendas, committee
+		reports and minutes of the Board of Directors meetings of the society
+		(1983-1985). September 1983 and August 1984 include reference to the
+		publication and sales of Birds of Southeastern Arizona.</p> 
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Davis, William A.</persname> </item> 
+		<item> 
+		  <corpname encodinganalog="110">Tucson Audubon
+			 Society.</corpname></item> 
+		<item> 
+		  <subject encodinganalog="650">Passeriformes.</subject> </item> 
+		<item> 
+		  <subject encodinganalog="650">Ornithology.</subject> </item> 
+		<item> 
+		  <subject encodinganalog="650">Bird watching.</subject> </item> 
+		<item> 
+		  <subject encodinganalog="650">Birds -- Habitat.</subject> </item> 
+	 </list> 
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+		  <unittitle>Series I: Journals, 
+			 <unitdate type="inclusive"
+			  normal="1975/1994">1975-1994</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Journals, 
+				<unitdate type="inclusive"
+				 normal="1975/1976">1975-1976</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Journals, 
+				<unitdate type="inclusive"
+				 normal="1977/1978">1977-1978</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Journals, 
+				<unitdate type="inclusive"
+				 normal="1979/1980">1979-1980</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">4</container> 
+			 <unittitle>Journals, 
+				<unitdate type="inclusive"
+				 normal="1981/1982">1981-1982</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Journals, 
+				<unitdate type="inclusive"
+				 normal="1983">1983</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">6</container> 
+			 <unittitle>Journals, 
+				<unitdate type="inclusive"
+				 normal="1984">1984</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">7</container> 
+			 <unittitle>Journals, 
+				<unitdate type="inclusive"
+				 normal="1985/1986">1985-1986</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">8</container> 
+			 <unittitle>Journals, 
+				<unitdate type="inclusive"
+				 normal="1987/1988">1987-1988</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">9</container> 
+			 <unittitle>Journals, 
+				<unitdate type="inclusive"
+				 normal="1989/1990">1989-1990</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">10</container> 
+			 <unittitle>Journals, 
+				<unitdate type="inclusive"
+				 normal="1991/1992">1991-1992</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">11</container> 
+			 <unittitle>Journals, 
+				<unitdate type="inclusive"
+				 normal="1993/1994">1993-1994</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series II: Birding, 
+			 <unitdate type="inclusive"
+			  normal="1971/1994">1971-1994</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">12</container> 
+			 <unittitle>Birding-- Arizona, 
+				<unitdate type="inclusive"
+				 normal="1982/1994">1982-1994</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">13</container> 
+			 <unittitle>Birding-- Checklists-- Arizona, 
+				<unitdate type="inclusive"
+				 normal="1973/1982">1973-1982</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">14</container> 
+			 <unittitle>Birding-- Checklists-- Arizona-- Consolidated Sightings, 
+				<unitdate type="inclusive"
+				 normal="1972/1990">1972-1990</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">15</container> 
+			 <unittitle>Birding-- Checklists-- United States and Canada, 
+				<unitdate type="inclusive"
+				 normal="1986/1990">1986-1990</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">16</container> 
+			 <unittitle>Birding-- Life List-- Arizona, 
+				<unitdate type="inclusive"
+				 normal="1972/1990">1972-1990</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">17</container> 
+			 <unittitle>Birding-- Research-- Field Identification, 
+				<unitdate type="inclusive"
+				 normal="1980">1980</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Birding-- Research-- National, 
+				<unitdate type="inclusive"
+				 normal="1982/1992">1982-1992</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Birding-- Research-- References, 
+				<unitdate type="inclusive"
+				 normal="1971/1994">1971-1994</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Birding-- Research-- Regional, 
+				<unitdate type="inclusive" normal="1971/1994">1971
+				  -1994</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series III: Research, 
+			 <unitdate type="inclusive"
+			  normal="1976/1985">1976-1985</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">4</container> 
+			 <unittitle>Research-- Non-Passeriformes, 
+				<unitdate type="inclusive"
+				 normal="1976/1986">1976-1986</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Research-- Non-Passeriformes, 
+				<unitdate type="inclusive"
+				 normal="1976/1986">1976-1986</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">6</container> 
+			 <unittitle>Research-- Passeriformes, 
+				<unitdate type="inclusive"
+				 normal="1976/1985">1976-1985</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">7</container> 
+			 <unittitle>Research-- Passeriformes, 
+				<unitdate type="inclusive"
+				 normal="1976/1985">1976-1985</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series IV: Publications, 
+			 <unitdate type="inclusive"
+			  normal="1971/1994">1971-1994</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">8</container> 
+			 <unittitle>Publications-- Research-- Arizona Birds, 
+				<unitdate type="inclusive"
+				 normal="1971/1994">1971-1994</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">9</container> 
+			 <unittitle>Publications-- Research-- Arizona Birds, 
+				<unitdate type="inclusive"
+				 normal="1971/1994">1971-1994</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">10</container> 
+			 <unittitle>Publications-- Research-- Arizona Birds, 
+				<unitdate type="inclusive"
+				 normal="1971/1994">1971-1994</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">11</container> 
+			 <unittitle>Publications-- Research-- Arizona Birds, 
+				<unitdate type="inclusive"
+				 normal="1971/1994">1971-1994</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Publications-- Research-- Arizona Birds, 
+				<unitdate type="inclusive"
+				 normal="1971/1994">1971-1994</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Publications-- Research-- Arizona Birds, 
+				<unitdate type="inclusive"
+				 normal="1971/1994">1971-1994</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Publications 
+				<title>Birds in Western Colorado, </title> 
+				<unitdate type="inclusive"
+				 normal="1969">1969</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">4</container> 
+			 <unittitle>Publications 
+				<title>Birds of Southeastern Arizona-- second edition, </title> 
+				<unitdate type="inclusive"
+				 normal="1979">1979</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Publications 
+				<title>Birds of Southeastern Arizona-- second edition, </title> 
+				<unitdate type="inclusive"
+				 normal="1984">1984</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">6</container> 
+			 <unittitle>Publications 
+				<title>Birds of Southeastern Arizona-- third edition, </title> 
+				<unitdate type="inclusive"
+				 normal="1990">1990</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series V: Tucson Audubon Society, 
+			 <unitdate type="inclusive"
+			  normal="1983/1985">1983-1985</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">7</container> 
+			 <unittitle>Tucson Audubon Society-- Board of Directors meetings, 
+				<unitdate type="inclusive"
+				 normal="1983">1983</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">8</container> 
+			 <unittitle>Tucson Audubon Society-- Board of Directors meetings, 
+				<unitdate type="inclusive"
+				 normal="1984">1984</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">9</container> 
+			 <unittitle>Tucson Audubon Society-- Board of Directors meetings, 
+				<unitdate type="inclusive"
+				 normal="1985">1985</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01>
+  </dsc> 
+</archdesc></ead>

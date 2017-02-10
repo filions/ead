@@ -1,0 +1,1514 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+ audience="internal" id="a0"> 
+	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special
+		Collections//text(US::AzU::Paul M. Roca Papers and Photographs)//en""UAMS531.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper encodinganalog="title"> Paul M. Roca Papers and Photographs,
+	 		<date normal="1887/1979" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">1887-1979</date>
+	 		<date normal="1955/1977" type="bulk">(bulk 1955-1977)</date></titleproper>
+	 	<titleproper type="filing" altrender="nodisplay"> Roca, Paul M.  Papers and Photographs,
+	 		</titleproper>
+	 	<author>Processed by Ofelia Zepeda.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date normal= "2015" era= "ce" calendar = "gregorian">; 2015</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Ofelia Zepeda. 
+  		<date era="ce" encodinganalog="date" normal="20150405">April 05, 2015</date></creation>
+	 <langusage>Finding aid is in<language> English.</language></langusage>
+  	<descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+  </profiledesc> 
+
+</eadheader> 
+
+	<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name:"> Paul M. Roca Papers and Photographs,
+  		<unitdate type="inclusive" label="Dates:" normal="1887/1979">1887-1979 </unitdate>
+  		<unitdate type="bulk" label="Dates:" normal="1955/1977">(bulk 1955-1977) </unitdate></unittitle>
+	 <unitid label="Collection Number:" encodinganalog="099"
+	 	repositorycode="AzU" countrycode="us">MS 531</unitid>
+	 <origination label="Creator:"> 
+	 	<persname source="lcnaf" encodinganalog="100">Roca, Paul M.</persname> </origination> 
+  	<abstract label="Abstract:">The Paul M. Roca Papers and Photographs contains materials which document Jesuit churches throughout the Northern Mexico states of Sonora and Chihuahua. The collection consists of two series, Photographs and Papers. The first series, Photographs (1887-1965, bulk 1955-1965) consists of 156 photographs featured in <title render="italic">Paths of the Padres through Sonora: An Illustrated History &amp; Guide to Its Spanish Churches </title> published by the Arizona Pioneers’ Historical Society in 1967 with accompanying maps. The second series, Papers (1977), contains 4 manuscript versions of <title render="italic"> Spanish Jesuit Churches in Mexico’s Tarahumara </title> published by the University of Arizona Press in 1979. A selection of Roca’s images have been posted on History Pin: Paul Roca Photographs of Missions in Sonora, Mexico.</abstract> 
+  	<physdesc encodinganalog="300$a" label="Physical Description:"><extent>2.0 linear feet</extent></physdesc>	 
+	 <repository label="Repository:"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository>
+  	<langmaterial>Materials are in <language encodinganalog="546" langcode="eng"
+  		scriptcode="Latin">English.</language></langmaterial>
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+  	<p>None.</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>Paul M. Roca Papers and Photographs (MS 531). Special
+  		Collections, University of Arizona Libraries.</p>
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+  	<p>Paul McClennan Roca (1912-1979) had a strong bond to the areas of the American Southwest and Northern States of Mexico. His Chilean grandfather, Miguel G. Roca, settled in Mexico where he married Josefa Samaniego y Bustamante de Haro who was from a long-standing family linked to the Mexican states of Sonora and Chihuahua. Their son, Lautaro Roca, met and married Stella McClennan in Mexico. Lautaro was a silver-mine operator and Stella was an art teacher who worked with the children of a hacienda owner in Durango. They were eventually forced to move due to the political unrest of the Mexican Revolution and physical limitations resulting from uncooperative weather. The Rocas re-located to Nebraska, Stella’s home state, where Paul M. Roca was born. The Rocas eventually returned to the Southwest and settled in Tucson, Arizona where Paul M. Roca grew up and attended public school. Roca was a 1933 Honors graduate of the University of Arizona and in 1941 graduated with distinction from the George Washington Law School.  Roca, a prominent lawyer, co-founded the firm of Lewis Roca Rothgerber in 1950 and practiced law in Arizona until the time of his death in 1979. </p> <p>Roca spent a great deal of his lifetime collecting books and manuscripts related to the Arizona, Southwestern history, and the history of the Jesuit years in Sonora and Chihuahua. During most of the 1930s and 1940s, Roca was the chief administrative assistant to U.S. Senator Carl Hayden who had a significant influence on Roca’s interest in the Southwestern United States and Northern Mexico. For over 20 years, Roca traveled back and forth between the United States and various locations in Northern Mexico to document Jesuit churches and church ruins. He wrote two books related to this subject. The first was <title render="italic">Paths of the Padres through Sonora: An Illustrated History &amp; Guide to Its Spanish Churches</title> published by the Arizona Pioneers’ Historical Society in 1967 and the second was <title render="italic">Spanish Jesuit Churches in Mexico’s Tarahumara</title> published by the University of Arizona Press in 1979.</p><p>At the time of his death, Paul M. Roca had been working on a third manuscript relating to Jesuit churches in the Chínipas Mountains in Chihuahua. The photo negatives related to the unfinished manuscript were donated to the Arizona State Museum. </p>
+  </bioghist> 
+  <arrangement id="a4" encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+  	<p>This collection is organized into 2 series.</p>	 
+  	<list>
+  		<item>Series I:Photographs
+  			<unitdate>1887-1965</unitdate>
+  			<unitdate normal="1955/1965" type="bulk">(bulk 1955-1965)</unitdate></item>
+  		
+  		<item>Series II:Papers
+  			<unitdate>1977</unitdate>
+  			
+  		</item>
+  		
+  	</list>
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>The collection (1888-1977) contains 156 photographs featured in the book, <title render="italic">Paths of the Padres through Sonora: An Illustrated History &amp; Guide to Its Spanish Churches</title>, and four copies of a single manuscript, <title render="italic">Spanish Jesuit Churches in Mexico’s Tarahumara</title>. The Photograph Series (1887-1965, bulk 1955-1965) contains 156 photographs and corresponding maps denoting the approximate location of the churches. Most photos are by Roca, but in the case of other photographers they have been attributed in the folder title. The Papers series (1977) is comprised of four drafts of <title render="italic">Spanish Jesuit Churches in Mexico’s Tarahumara</title>: one typed draft with paste-ups, one unedited photocopy, one photocopy edited by both Karen Shure, an editor at the University of Arizona Press, and Roca himself, and one final photocopy sent to the University of Arizona Press.</p> 
+  </scopecontent> 
+		<relatedmaterial id="a6" encodinganalog="5441"><p> A History Pin featuring 30 of the collection photographs was created<extref linktype="simple" href="https://www.historypin.org/channels/view/58056/#!collections/view/id/5310/title/Paul%20Roca%20Photographs%20of%20Missions%20in%20Sonora,%20Mexico" actuate="onload" show="new" title="Paul Roca Photographs of Missions in Sonora, Mexico"></extref> 
+			
+		</p><p>Additional manuscripts and negatives by Paul M. Roca are located at the Arizona State Museum: Paul M. Roca Northern Mexico Mission Research Files.</p></relatedmaterial> 
+  	<controlaccess>
+  		<head>Access Terms</head>
+  		<list type="simple">
+  			<item>
+  				<persname encodinganalog="600">Roca, Paul M.</persname>
+  			</item>
+  			<item>
+  				<subject encodinganalog="650">Architecture, Colonial -- Mexico -- Chihuahua (State)</subject>
+  			</item>
+  			<item>
+  				<subject encodinganalog="650">Church architecture -- Mexico -- Chihuahua (State)</subject>
+  			</item><item>
+  				<subject encodinganalog="650">Jesuit architecture -- Mexico -- Chihuahua (State)</subject>
+  			</item><item>
+  				<subject encodinganalog="650">Missionaries -- Mexico – Biography</subject>
+  			</item><item>
+  				<subject encodinganalog="650">Missions -- Mexico-- Sonora (State)</subject>
+  			</item><item>
+  				<subject encodinganalog="650">Missions, Spanish -- Mexico -- Sonora (State) </subject>
+  			</item><item>
+  				<subject encodinganalog="650">Tarahumara architecture </subject>
+  			</item>
+  			<item>
+  				<geogname encodinganalog="651" source="lcsh">Chihuahua (Mexico : State)</geogname>
+  			</item>
+  			<item>
+  				<geogname encodinganalog="651" source="lcsh">Sonora (Mexico : State)</geogname>
+  			</item>
+  			<item>
+  				<geogname encodinganalog="651" source="lcsh">United States --Arizona</geogname>
+  			</item>
+  			
+  			<item>
+  				<genreform encodinganalog="650" source="aat">Maps</genreform> 
+  			</item>
+  			<item>
+  				<genreform encodinganalog="650" source="aat">Photography</genreform>
+  			</item>
+  			
+  		</list>
+  	</controlaccess>
+  
+<dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+			<unittitle>Series 1: Photographs,</unittitle> 
+			<unitdate type="inclusive">1887-1965</unitdate> <unitdate type="bulk">(bulk 1955-1965)</unitdate>
+		</did>
+	 	<scopecontent><p>This series is arranged alphabetically by mission name. It contains photographs of churches and maps denoting the location of the churches featured in <title render="italic">Paths of the Padres through Sonora: An Illustrated History &amp; Guide to Its Spanish Churches</title>.</p></scopecontent>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">1</container> 
+				<unittitle>A Home,</unittitle>
+				<unitdate>undated</unitdate>
+			</did>
+		</c02>
+		<c02>
+			<did>
+				<container type="box">1</container> 
+				<container type="folder">2</container> 
+				<unittitle>La Asunción de Nuestra Señora de Rahun,</unittitle>
+				<unitdate>1963 October</unitdate> 
+	 	</did> 
+	 	</c02>
+	 	<c02>
+	 		<did>
+	 			<container type="box">1</container>
+				<container type="folder">3</container> 
+				<unittitle>Bamoa,</unittitle>
+				<unitdate>undated</unitdate>
+	 		</did>
+	 	</c02>
+	 				<c02>
+	 				<did>
+	 				<container type="box">1</container> 
+	 				<container type="folder">4</container> 
+				<unittitle>La Capilla de Nuestra Señora de los Dolores de Batuc,</unittitle>
+				<unitdate>1959 October</unitdate>
+	 				</did>
+	 				</c02>
+	 				<c02>
+	 				<did>
+	 					<container type="box">1</container> 
+				<container type="folder">5</container> 
+				<unittitle>La Capilla de Nuestra Señora de Zapopán del Real de los Alamos,</unittitle>
+				<unitdate>1963 October</unitdate>
+	 		</did>
+	 	</c02>
+	 			
+	 	<c02>
+	 		<did>
+	 			<container type="box">1</container> 
+				<container type="folder">6</container> 
+				<unittitle>La Capilla de Oposura,</unittitle>
+				<unitdate>1962 April</unitdate>
+	 		</did>
+	 	</c02>
+	 		<c02>
+	 			<did>
+	 				<container type="box">1</container> 
+				<container type="folder">7</container> 
+				<unittitle>La Capilla de San Juan Evangelista de Huachinera by Alfred Cohn,</unittitle>
+				<unitdate>1957</unitdate>
+	 			</did>
+	 		</c02>
+	 			<c02>
+	 				<did>
+	 					<container type="box">1</container> 
+				<container type="folder">8</container> 
+				<unittitle>Carrizal,</unittitle>
+				<unitdate>1965 October</unitdate>
+	 				</did>
+	 			</c02>
+	 				<c02>
+	 					<did>
+	 						<container type="box">1</container>
+	 						<container type="folder">9</container> 
+				<unittitle>Chinipas,</unittitle>
+				<unitdate>undated</unitdate> 
+				</did>
+	 				</c02>
+	 			<c02>
+	 				<did>
+	 					<container type="box">1</container>
+	 					<container type="folder">10</container> 
+				<unittitle>Choix,</unittitle>
+				<unitdate>undated</unitdate> 
+				</did>
+	 				</c02>
+	 			<c02>
+	 				<did>
+	 					<container type="box">1</container>
+	 					<container type="folder">11</container> 
+				<unittitle>La Colorada,</unittitle>
+				<unitdate>1960 April</unitdate> 
+	 				</did>
+	 			</c02>
+	 				<c02>
+	 					<did>
+	 						<container type="box">1</container> 
+	 						<container type="folder">12</container> 
+				<unittitle>Los Dulces Nombres del Valle de Tacupeto,</unittitle>
+				<unitdate>1961 May</unitdate>
+	 					</did>
+	 				</c02>
+	 					<c02>
+	 						<did>
+	 							<container type="box">1</container> 
+	 							<container type="folder">13</container> 
+	 							<unittitle>El Espíritu Santo de Cocorit,</unittitle>
+				<unitdate>1963 October</unitdate>
+	 						</did>
+	 					</c02>
+	 						<c02>
+	 							<did>
+	 								<container type="box">1</container> 
+	 								<container type="folder">14</container> 
+	 								<unittitle>Espíritu Santo de Etchojoa,</unittitle>
+				<unitdate>1962 October</unitdate>
+	 							</did>
+	 						</c02>
+	 						<c02>
+	 							<did>
+	 								<container type="box">1</container>
+	 								<container type="folder">15</container> 
+				<unittitle>El Fuerte,</unittitle>
+				<unitdate>undated</unitdate>
+	 							</did>
+	 						</c02>
+				<c02>
+					<did>
+						<container type="box">1</container>
+						<container type="folder">16</container> 
+				<unittitle>Guazápares,</unittitle>
+				<unitdate>undated</unitdate> 
+				</did>
+					</c02>
+	 			<c02>
+	 			<did>
+	 				<container type="box">1</container> 
+	 				<container type="folder">17</container> 
+				<unittitle>Motepore,</unittitle>
+				<unitdate>undated</unitdate>
+	 			</did>
+	 			</c02>
+	 				<c02>
+	 					<did>
+	 						<container type="box">1</container>
+	 						<container type="folder">18</container> 
+				<unittitle>Nío,</unittitle>
+				<unitdate>undated</unitdate> 
+	 					</did>
+	 				</c02>
+	 				<c02>
+	 					<did>
+	 						<container type="box">1</container>
+	 						<container type="folder">19</container> 
+				<unittitle>Nuestra Señora de Balbanera de la Aduana,</unittitle>
+				<unitdate>undated</unitdate>
+	 					</did>
+	 				</c02>
+	 				<c02>
+	 					<did>
+	 						<container type="box">1</container>
+	 						<container type="folder">20</container> 
+				<unittitle>Nuestra Señora de Guadalupe de Mazatán,</unittitle>
+				<unitdate>1965 October</unitdate>
+	 					</did>
+	 				</c02>
+				<c02>
+					<did>
+						<container type="box">1</container> 
+						<container type="folder">21</container> 
+				<unittitle>Nuestra Señora de Guadalupe de Tayopa,</unittitle>
+				<unitdate>1964 September</unitdate>
+					</did>
+				</c02>
+	 					<c02>
+	 						<did>
+	 							<container type="box">1</container>
+	 							<container type="folder">22</container> 
+				<unittitle>Nuestra Señora de Guadalupe de Teuricachi,</unittitle>
+				<unitdate>1960 October</unitdate>
+	 						</did>
+	 					</c02>
+				<c02>
+					<did>
+						<container type="box">1</container> 
+						<container type="folder">23</container> 
+				<unittitle>Nuestra Señora de Guadalupe la Reina de Los Ángeles,</unittitle>
+				<unitdate>1962 April</unitdate>
+					</did>
+				</c02>
+					<c02>
+						<did>
+							<container type="box">1</container>
+							<container type="folder">24</container> 
+				<unittitle>Nuestra Señora de la Asunción de Álamos,</unittitle>
+				<unitdate>1959 October</unitdate> 
+						</did>
+					</c02>
+						<c02>
+							<did>
+								<container type="box">1</container>
+								<container type="folder">25</container> 
+				<unittitle>Nuestra Señora de la Asunción de Arizpe by Robert Creighton,</unittitle>
+				<unitdate>1958 April</unitdate>
+							</did>
+						</c02>
+				<c02>
+					<did>
+						<container type="box">1</container>
+						<container type="folder">26</container> 
+				<unittitle>Nuestra Señora de la Asunción de Arizpe,</unittitle>
+				<unitdate>1960 April</unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container type="box">1</container>
+						<container type="folder">27</container> 
+				<unittitle>Nuestra Señora de la Asunción de Bacerac,</unittitle>
+				<unitdate>1959 April</unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container type="box">1</container>
+						<container type="folder">28</container> 
+				<unittitle>Nuestra Señora de la Asunción de Opodepe,</unittitle>
+				<unitdate>1959 April</unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container type="box">1</container>
+						<container type="folder">29</container> 
+				<unittitle>Nuestra Señora de Loreto de Nátora,</unittitle>
+				<unitdate>1963 October</unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container type="box">1</container>
+						<container type="folder">30</container> 
+				<unittitle>Nuestra Señora de Loreto de Sátachi,</unittitle>
+				<unitdate>1962 April</unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container type="box">1</container>
+						<container type="folder">31</container> 
+				<unittitle>Nuestra Señora de Loreto del Real de Baroyeca,</unittitle>
+				<unitdate>1963 October</unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container type="box">1</container>
+						<container type="folder">32</container> 
+				<unittitle>Nuestra Señora de los Dolores de Cósari,</unittitle>
+				<unitdate>1961 December</unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container type="box">1</container>
+						<container type="folder">33</container> 
+				<unittitle>Nuestra Señora de los Remedios Banámichi,</unittitle>
+				<unitdate>1960 April</unitdate>
+					</did>
+				</c02>
+	 			<c02>
+	 				<did>
+	 					<container type="box">1</container>
+	 					<container type="folder">34</container> 
+				<unittitle>Nuestra Señora de los Remedios de Doágibubig,</unittitle>
+				<unitdate>1961 December</unitdate>
+	 				</did>
+	 			</c02>
+				<c02>
+					<did>
+						<container type="box">1</container>
+						<container type="folder">35</container> 
+				<unittitle>Nuestra Señora del Pópulo,</unittitle>
+				<unitdate>1962 April</unitdate>
+					</did>
+				</c02>
+	 			<c02>
+	 				<did>
+	 					<container type="box">1</container>
+	 					<container type="folder">36</container> 
+				<unittitle>Nuestra Señora del Rosario de Bámori,</unittitle>
+				<unitdate>1961 May</unitdate>
+	 				</did>
+	 			</c02>
+				<c02>
+					<did>
+						<container type="box">1</container>
+						<container type="folder">37</container> 
+				<unittitle>Nuestra Señora del Rosario de Nocozari,</unittitle>
+				<unitdate>1963 October</unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container type="box">1</container>
+						<container type="folder">38</container> 
+				<unittitle>Nuestro Padre San Ignacio de Bacanora,</unittitle>
+				<unitdate>1959 April</unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container type="box">1</container>
+						<container type="folder">39</container> 
+				<unittitle>Nuestro Padre San Ignacio de Cáborica,</unittitle>
+				<unitdate>1964 September</unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container type="box">1</container>
+						<container type="folder">40</container> 
+				<unittitle>Nuestro Padre San Ignacio de Cuquiárachi,</unittitle>
+				<unitdate>1959 April</unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container type="box">1</container>
+						<container type="folder">41</container> 
+				<unittitle>Nuestro Padre San Ignacio de Móchapa,</unittitle>
+				<unitdate>1962 April</unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container type="box">1</container>
+						<container type="folder">42</container> 
+				<unittitle>Nuestro Padre San Ignacio de Sinoquipe,</unittitle>
+				<unitdate>1960 April</unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container type="box">1</container>
+						<container type="folder">43</container> 
+				<unittitle>Nuestro Padre San Ignacio de Suaqui Grande,</unittitle>
+				<unitdate>1960 April</unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container type="box">1</container>
+						<container type="folder">44</container> 
+				<unittitle>La Purísma Concepción de Baviácora,</unittitle>
+				<unitdate>1960 April</unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container type="box">1</container>
+						<container type="folder">45</container> 
+				<unittitle>San Ambrosio de Búsanic by Harry J. Karnes,</unittitle>
+				<unitdate>1933-1943</unitdate>
+					</did>
+				</c02>
+	 					<c02>
+	 						<did>
+	 							<container type="box">1</container>
+	 							<container type="folder">46</container> 
+				<unittitle>San Ambrosio de Búsanic,</unittitle>
+				<unitdate>1961 December</unitdate>
+	 						</did>
+	 					</c02>
+	 					<c02>
+	 						<did>
+	 							<container type="box">1</container>
+	 							<container type="folder">47</container> 
+				<unittitle>San Antonio de Hermosillo,</unittitle>
+				<unitdate>1960 April</unitdate>
+	 						</did>
+	 					</c02>
+				<c02>
+					<did>
+						<container type="box">1</container>
+						<container type="folder">48</container> 
+				<unittitle>San Antonio de la Arizona,</unittitle>
+				<unitdate>1965 October </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container type="box">1</container>
+						<container type="folder">49</container> 
+				<unittitle>San Bartolo de Batacosa,</unittitle>
+				<unitdate>1963 October</unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container type="box">1</container>
+						<container type="folder">50</container> 
+				<unittitle>San Bernadino de Awátobi by Peabody Museum,</unittitle>
+				<unitdate>1949</unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container type="box">1</container>
+						<container type="folder">51</container> 
+				<unittitle>San Bernardo de Aquimuri,</unittitle>
+				<unitdate>1961 December</unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container type="box">1</container>
+						<container type="folder">52</container> 
+				<unittitle>San Clemente de Térarpa,</unittitle>
+				<unitdate>1962 April</unitdate>
+					</did>
+				</c02>
+	 					<c02>
+	 						<did>
+	 							<container type="box">1</container>
+	 							<container type="folder">53</container> 
+				<unittitle>San Diego del Pitiquito by A.E. Lippincott,</unittitle>
+				<unitdate>1954</unitdate>
+	 						</did>
+	 					</c02>
+				<c02>
+					<did>
+						<container type="box">1</container>
+						<container type="folder">54</container> 
+				<unittitle>San Estanislao del Ootcam,</unittitle>
+				<unitdate>1965 October </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container type="box">1</container>
+						<container type="folder">55</container> 
+				<unittitle>San Felipe Gracia Real de Terrenate,</unittitle>
+				<unitdate>1964 September</unitdate>
+					</did>
+				</c02>
+	 					<c02>
+	 						<did>
+	 							<container type="box">1</container>
+	 							<container type="folder">56</container> 
+				<unittitle>San Francisco de Asís del Río Chico,</unittitle>
+				<unitdate>1960 April </unitdate>
+	 						</did>
+	 					</c02>
+				<c02>
+					<did>
+						<container type="box">1</container>
+						<container type="folder">57</container> 
+				<unittitle>San Francisco de Borja de Tecoripa,</unittitle>
+				<unitdate>1959 October</unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container type="box">1</container>
+						<container type="folder">58</container> 
+				<unittitle>San Francisco de Regis del Presidio Real de San Carlos Buenavista,</unittitle>
+				<unitdate>1963 October </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>	
+				<container type="box">1</container>			
+				<container type="folder">59</container> 
+				<unittitle>San Francisco de Regis del Presidio Real de San Carlos Buenavista by Tad Nichols,</unittitle>
+				<unitdate>1942</unitdate>
+							</did>
+						</c02>
+				<c02>
+					<did> 
+						<container type="box">1</container>
+						<container type="folder">60></container> 
+				<unittitle>San Francisco del Átil by Prent Duell,</unittitle>
+				<unitdate>1921</unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container type="box">1</container>
+						<container type="folder">61</container> 
+				<unittitle>San Francisco del Átil,</unittitle>
+				<unitdate>1958 April</unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container type="box">1</container>
+						<container type="folder">62</container> 
+				<unittitle>San Francisco Javier de Arivechi,</unittitle>
+				<unitdate>1959 April</unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container type="box">1</container>
+						<container type="folder">63</container> 
+				<unittitle>San Francisco Javier de Cuchuta,</unittitle>
+				<unitdate>1963 October</unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container type="box">1</container>
+				<container type="folder">64</container> 
+				<unittitle>San Francisco Javier de Huásabas by Byron Ivancovich,</unittitle>
+				<unitdate>1955</unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container type="box">1</container>
+						<container type="folder">65</container> 
+				<unittitle>San Francisco Javier de Maicoba,</unittitle>
+				<unitdate>1961 May</unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container type="box">1</container> 
+				<container type="folder">66</container> 
+				<unittitle>San Francisco Javier de Maicoba,</unittitle>
+				<unitdate>1961 May</unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container type="box">2</container> 
+				<container type="folder">1</container> 
+				<unittitle>San Ignacio de Cuirimpo,</unittitle>
+				<unitdate>1962 October</unitdate>
+					</did>
+				</c02>
+				<c02> 
+					<did>
+						<container type="box">2</container> 
+				<container type="folder">2</container> 
+				<unittitle>San Ignacio de Suaqui (de Batuc),</unittitle>
+				<unitdate>1959 April</unitdate>
+					</did>
+				</c02>
+					<c02>
+						<did>
+					<container type="box">2</container> 
+				<container type="folder">3</container> 
+				<unittitle>San Ignacio de Tesia,</unittitle>
+				<unitdate>1963 October</unitdate>
+						</did>
+						</c02>
+						<c02>
+							<did>
+								<container type="box">2</container> 
+				<container type="folder">4</container> 
+				<unittitle>San Ildefonso de Ostímuri,</unittitle>
+				<unitdate>1965 October</unitdate>
+						</did>
+							</c02>
+						<c02>
+							<did>
+								<container type="box">2</container> 
+				<container type="folder">5</container> 
+				<unittitle>San Joaquín y Santa Ana de Nuri,</unittitle>
+				<unitdate>1960 April</unitdate>
+						</did>
+							</c02>
+							<c02>
+								<did>				
+						<container type="box">2</container> 
+				<container type="folder">6</container> 
+				<unittitle>San Joaquín y Santa Ana de Tepache,</unittitle>
+				<unitdate>1959 April</unitdate>
+							</did>
+							</c02>					
+						<c02>
+							<did>
+								<container type="box">2</container> 
+				<container type="folder">7</container> 
+				<unittitle>San Joaquín y Santa Ana de Tepache,</unittitle>
+				<unitdate>1959 April</unitdate>
+							</did>
+						</c02>
+						<c02>
+							<did>
+								<container type="box">2</container> 
+				<container type="folder">8</container> 
+				<unittitle>San José de Batepito,</unittitle>
+				<unitdate>1962 April</unitdate>
+							</did>
+						</c02>
+							<c02>
+								<did>
+									<container type="box">2</container> 
+				<container type="folder">9</container> 
+				<unittitle>San José de Gracia,</unittitle>
+				<unitdate>1963 October </unitdate>
+						</did>
+								</c02>
+						<c02>
+							<did>
+								<container type="box">2</container> 
+				<container type="folder">10</container> 
+				<unittitle>San José de los Pimas,</unittitle>
+				<unitdate>1960 April</unitdate>
+						</did>
+							</c02>
+						<c02>
+							<did>
+								<container type="box">2</container> 
+				<container type="folder">11</container> 
+				<unittitle>San José de Soyopa,</unittitle>
+				<unitdate>1959 October</unitdate>
+						</did>
+							</c02>
+						<c02>
+							<did>
+								<container type="box">2</container> 
+				<container type="folder">12</container> 
+				<unittitle>San Juan Bautista de Saracachi,</unittitle>
+				<unitdate>1965 October</unitdate>
+						</did>
+							</c02>
+						<c02>
+							<did>
+								<container type="box">2</container> 
+				<container type="folder">13</container> 
+				<unittitle>San Juan Bautista de Sonora,</unittitle>
+				<unitdate>1964 September</unitdate>
+							</did>
+						</c02>
+							<c02>
+								<did>
+									<container type="box">2</container> 
+				<container type="folder">14</container> 
+				<unittitle>San Juan Evangelista de Huachinera,</unittitle>
+				<unitdate>1959 October</unitdate>
+						</did>
+							</c02>	
+								<c02>
+									<did>
+										<container type="box">2</container> 
+				<container type="folder">15</container> 
+				<unittitle>San Iázaro,</unittitle>
+				<unitdate>1961 December</unitdate>
+									</did>
+								</c02>
+									<c02>
+										<did>
+											<container type="box">2</container> 
+				<container type="folder">16</container> 
+				<unittitle>San Iorenzo de Huépac by Pbro. Ernesto López,</unittitle>
+				<unitdate>circa 1950</unitdate>
+										</did>
+									</c02>
+										<c02>
+											<did>
+												<container type="box">2</container> 
+				<container type="folder">17</container> 
+				<unittitle>San Iorenzo de Huépac,</unittitle>
+				<unitdate>1960 April</unitdate>
+											</did>
+										</c02>
+						<c02>
+							<did>
+								<container type="box">2</container> 
+				<container type="folder">18</container> 
+				<unittitle>San Lucas Nuevo de Agiobampo by Harry J. Karns,</unittitle>
+				<unitdate>1965 October</unitdate>
+							</did>
+						</c02>
+							<c02> 
+								<did>
+									<container type="box">2</container> 
+				<container type="folder">19</container> 
+				<unittitle>San Luís de Bacoancos,</unittitle>
+				<unitdate>1933-1943</unitdate>
+								</did>
+							</c02>
+								<c02>
+									<did>
+										<container type="box">2</container> 
+				<container type="folder">20</container> 
+				<unittitle>San Luís de Bacoancos,</unittitle>
+				<unitdate>1961 December</unitdate>
+									</did>
+								</c02>
+									<c02>
+										<did>
+											<container type="box">2</container> 
+				<container type="folder">21</container> 
+				<unittitle>San Marcelo de Sonoýta,</unittitle>
+				<unitdate>1961 December</unitdate>
+										</did>
+									</c02>
+										<c02>
+											<did>
+												<container type="box">2</container> 
+				<container type="folder">22</container> 
+				<unittitle>San Marco Picháchic,</unittitle>
+				<unitdate>undated</unitdate>
+											</did>
+										</c02>
+											<c02>
+												<did>
+													<container type="box">2</container> 
+				<container type="folder">23</container> 
+				<unittitle>San Mateo de Malzura,</unittitle>
+				<unitdate>1962 October</unitdate>
+												</did>
+											</c02>
+												<c02>
+													<did>
+														<container type="box">2</container> 
+				<container type="folder">24</container> 
+				<unittitle>San Miguel Arcángel de Horcasitas,</unittitle>
+				<unitdate>1960 April</unitdate>
+										</did>
+										</c02>
+						<c02>
+							<did>
+								<container type="box">2</container> 
+				<container type="folder">25</container> 
+				<unittitle>San Miguel Arcángel de los Ures,</unittitle>
+				<unitdate>1960 April</unitdate>
+						</did>
+							</c02>
+						<c02>
+							<did>
+								<container type="box">2</container> 
+				<container type="folder">26</container> 
+				<unittitle>San Miguel Arcángel de Oposura,</unittitle>
+				<unitdate>1959 April</unitdate>
+							</did>
+						</c02>
+								<c02>
+									<did>
+										<container type="box">2</container> 
+				<container type="folder">27</container> 
+				<unittitle>San Miguel de Bacoachi,</unittitle>
+				<unitdate>1959 April</unitdate>
+									</did>
+								</c02>
+								<c02>
+									<did>
+										<container type="box">2</container> 
+				<container type="folder">28</container> 
+				<unittitle>San Miguel de Bavispe,</unittitle>
+				<unitdate>circa 1887</unitdate>
+									</did>
+								</c02>
+								<c02>
+									<did>
+										<container type="box">2</container> 
+				<container type="folder">29</container> 
+				<unittitle>San Miguel de Bavispe,</unittitle>
+				<unitdate>1959 October </unitdate>
+						</did>
+						</c02>
+						<c02>
+							<did>
+								<container type="box">2</container> 
+				<container type="folder">30</container> 
+				<unittitle>San Miguel de Belén,</unittitle>
+				<unitdate>1962 October</unitdate>
+							</did>
+						</c02>
+							<c02>
+								<did>
+									<container type="box">2</container> 
+				<container type="folder">31</container> 
+				<unittitle>San Miguel de Belén,</unittitle>
+				<unitdate>1965 October</unitdate>
+						</did>
+						</c02>
+						<c02>
+							<did>
+								<container type="box">2</container> 
+				<container type="folder">32</container> 
+				<unittitle>San Miguel de Macoyahui,</unittitle>
+				<unitdate>1963 October</unitdate>
+						</did>
+						</c02>
+						<c02>
+							<did>
+								<container type="box">2</container> 
+				<container type="folder">33</container> 
+				<unittitle>San Miguel de Tuape,</unittitle>
+				<unitdate>1959 April</unitdate>
+						</did>
+						</c02>
+						<c02>
+						<did>	
+						<container type="box">2</container> 
+				<container type="folder">34</container> 
+				<unittitle>San Miguel del Tupo,</unittitle>
+				<unitdate>1965 October</unitdate>
+						</did>
+						</c02>
+						<c02>
+						<did>
+							<container type="box">2</container> 
+				<container type="folder">35</container> 
+				<unittitle>San Miguelito,</unittitle>
+				<unitdate>1962 April</unitdate>
+						</did>
+						</c02>
+						<c02>
+						<did>
+							<container type="box">2</container> 
+				<container type="folder">36</container> 
+				<unittitle>San Pablo de Quíburi,</unittitle>
+				<unitdate>1963 October</unitdate>
+					</did>
+					</c02>
+						<c02>
+						<did>
+							<container type="box">2</container> 
+				<container type="folder">37</container> 
+				<unittitle>San Pablo Pescadero,</unittitle>
+				<unitdate>1964 September</unitdate>
+					</did>
+					</c02>
+						<c02>
+						<did>
+							<container type="box">2</container> 
+				<container type="folder">38</container> 
+				<unittitle>San Pedro de Aconchi,</unittitle>
+				<unitdate>1960 April</unitdate>
+						</did>
+						</c02>
+						<c02>
+						<did>	
+						<container type="box">2</container> 
+				<container type="folder">39</container> 
+				<unittitle>San Pedro de Cumuripa,</unittitle>
+				<unitdate>1963 October</unitdate>
+						</did>
+						</c02>
+							<c02>
+							<did>
+							<container type="box">2</container> 
+				<container type="folder">40</container> 
+				<unittitle>San Pedro de Tonibavi,</unittitle>
+				<unitdate>1964 September</unitdate>
+							</did>
+							</c02>
+					<c02>
+						<did>
+						<container type="box">2</container> 
+				<container type="folder">41</container> 
+				<unittitle>San Simon y San Judas Tadeo del Síboda,</unittitle>
+				<unitdate>1961 May</unitdate>
+								</did>
+							</c02>
+								<c02>
+									<did>
+										<container type="box">2</container> 
+				<container type="folder">42</container> 
+				<unittitle>San Valentín de Bísani,</unittitle>
+				<unitdate>1933-1943</unitdate>
+						</did>
+						</c02>
+						<c02>
+						<did>
+							<container type="box">2</container> 
+				<container type="folder">43</container> 
+				<unittitle>San Valentín de Bísani,</unittitle>
+				<unitdate>1961 December</unitdate>
+						</did>
+						</c02>
+						<c02>
+							<did>
+								<container type="box">2</container> 
+				<container type="folder">44</container> 
+				<unittitle>Santa Ana (Vieja),</unittitle>
+				<unitdate>1965 October</unitdate>
+							</did>
+						</c02>
+							<c02>
+							<did>
+								<container type="box">2</container> 
+				<container type="folder">45</container> 
+				<unittitle>Santa Ana,</unittitle>
+				<unitdate>1961 May</unitdate>
+						</did>
+						</c02>
+						<c02> 
+							<did>
+								<container type="box">2</container> 
+				<container type="folder">46</container> 
+				<unittitle>Santa Ana,</unittitle>
+				<unitdate>1964 September</unitdate>
+						</did>
+						</c02>
+						<c02>
+							<did>
+								<container type="box">2</container> 
+				<container type="folder">47</container> 
+				<unittitle>Santa Cruz (Suamea),</unittitle>
+				<unitdate>1961 December</unitdate>
+						</did>
+						</c02>
+					<c02>
+						<did>
+							<container type="box">2</container> 
+				<container type="folder">48</container> 
+				<unittitle>Santa Cruz de Bácum,</unittitle>
+				<unitdate>1959 October</unitdate>
+						</did>
+						</c02>
+						<c02>
+						<did>
+							<container type="box">2</container> 
+				<container type="folder">49</container> 
+				<unittitle>Santa Cruz de Mayo,</unittitle>
+				<unitdate>1965 October</unitdate>
+						</did>
+						</c02>
+						<c02>
+						<did>
+							<container type="box">2</container> 
+				<container type="folder">50</container> 
+				<unittitle>Santa Cruz de Nácori,</unittitle>
+				<unitdate>1962 October</unitdate>
+					</did>
+					</c02>
+					<c02>
+					<did>
+						<container type="box">2</container> 
+				<container type="folder">51</container> 
+				<unittitle>Santa Gertrudis del Altar,</unittitle>
+				<unitdate>1965 October</unitdate>
+				</did>
+				</c02>
+						<c02>				
+						<did>
+					<container type="box">2</container> 
+				<container type="folder">52></container> 
+				<unittitle>Santa Gertrudis del Sáric,</unittitle>
+				<unitdate>1961 December</unitdate>
+				</did>
+					</c02>
+					<c02>
+						<did>
+							<container type="box">2</container> 
+				<container type="folder">53</container> 
+				<unittitle>Santa Gertudis de Tepodéhuachi,</unittitle>
+				<unitdate>1964 September</unitdate>
+					</did>
+						</c02>
+					<c02>
+					<did>
+						<container type="box">2</container> 
+				<container type="folder">54</container> 
+				<unittitle>Santa Magdalena de los Tepocas,</unittitle>
+				<unitdate>1965 October</unitdate>
+				</did>
+						</c02>
+						<c02>
+						<did>
+							<container type="box">2</container> 
+				<container type="folder">55</container> 
+				<unittitle>Santa María de Movas,</unittitle>
+				<unitdate>1960 April</unitdate>
+						</did>
+						</c02>
+						<c02>
+							<did>
+								<container type="box">2</container> 
+				<container type="folder">56</container> 
+				<unittitle>Santa María de Movas,</unittitle>
+				<unitdate>1964 September</unitdate>
+							</did>
+						</c02>
+							<c02>
+							<did>
+								<container type="box">2</container> 
+				<container type="folder">57</container> 
+				<unittitle>Santa María de Nacámeri (now Rayón),</unittitle>
+				<unitdate>1959 April</unitdate>
+						</did>
+						</c02>
+						<c02>
+						<did>
+							<container type="box">2</container> 
+				<container type="folder">58</container> 
+				<unittitle>Santa María de Nácori Chico,</unittitle>
+				<unitdate>1962 April</unitdate>
+						</did>
+						</c02>
+				<c02> 
+					<did>
+						<container type="box">3</container> 
+				<container type="folder">1</container> 
+				<unittitle>Santa Maríía de Tepupa,</unittitle>
+				<unitdate>1959 April</unitdate>
+					</did>
+				</c02>
+					<c02> 
+					<did>
+						<container type="box">3</container> 
+				<container type="folder">2</container> 
+				<unittitle>Santa María del Pópulo de Tónichi,</unittitle>
+				<unitdate>1959 April</unitdate>
+						</did>
+						</c02>
+						<c02>
+						<did>
+							<container type="box">3</container> 
+				<container type="folder">3</container> 
+				<unittitle>Santa María Nuestra Señora de Navojoa,</unittitle>
+				<unitdate>1963 October</unitdate>
+						</did>
+						</c02>
+						<c02>
+						<did>
+							<container type="box">3</container> 
+				<container type="folder">4</container> 
+				<unittitle>Santa María Purísima de Pónida,</unittitle>
+				<unitdate>1959 April</unitdate>
+						</did>
+						</c02>
+						<c02>
+						<did>
+							<container type="box">3</container> 
+				<container type="folder">5</container> 
+				<unittitle>Santa Rosa de Corodéhuachi,</unittitle>
+				<unitdate>1960 October</unitdate>
+						</did>
+						</c02>
+						<c02>
+						<did>
+							<container type="box">3</container> 
+				<container type="folder">6</container> 
+				<unittitle>Santa Rosa de los Pimas,</unittitle>
+				<unitdate>1964 September</unitdate>
+						</did>
+						</c02>
+						<c02>
+						<did>
+							<container type="box">3</container> 
+				<container type="folder">7</container> 
+				<unittitle>Santa Rosa de Tevidéhuachi,</unittitle>
+				<unitdate>1964 September</unitdate>
+					</did>
+					</c02>
+					<c02>
+					<did>
+						<container type="box">3</container> 
+				<container type="folder">8</container> 
+				<unittitle>Santa Rosalía,</unittitle>
+				<unitdate>1962 April</unitdate>
+					</did>
+					</c02>
+					<c02>
+					<did>
+						<container type="box">3</container> 
+				<container type="folder">9</container> 
+				<unittitle>Santa Rosalía de Onapa,</unittitle>
+				<unitdate>1961 May</unitdate>
+					</did>
+					</c02>
+					<c02>
+					<did>
+					<container type="box">3</container> 
+				<container type="folder">10</container> 
+				<unittitle>Santa Teresa del Adid,</unittitle>
+				<unitdate>1961 December</unitdate>
+					</did>
+					</c02>
+					<c02>
+					<did>
+						<container type="box">3</container> 
+				<container type="folder">11</container> 
+				<unittitle>La Santísima Trinidad, Sonora,</unittitle>
+				<unitdate>1965 October</unitdate>
+						</did>
+						</c02>
+						<c02>
+						<did>
+					<container type="box">3</container> 
+				<container type="folder">12</container> 
+				<unittitle>Santísima Trinidad de Huatabampo,</unittitle>
+				<unitdate>1962 October</unitdate>
+					</did>
+					</c02>
+					<c02>
+					<did>
+						<container type="box">3</container> 
+				<container type="folder">13</container> 
+				<unittitle>Santísima Trinidad de Júpari,</unittitle>
+				<unitdate>1962 October</unitdate>
+						</did>
+						</c02>
+					<c02>
+					<did>
+						<container type="box">3</container> 
+				<container type="folder">14</container> 
+				<unittitle>La Santísima Trinidad de Vícam,</unittitle>
+				<unitdate>1959 October</unitdate>
+					</did>
+					</c02>
+					<c02>
+						<did>
+						<container type="box">3</container> 
+				<container type="folder">15</container> 
+				<unittitle>La Santísima Trinidad del Pitic,</unittitle>
+				<unitdate>1961 May</unitdate>
+					</did>
+					</c02>
+						<c02>
+						<did>
+							<container type="box">3</container> 
+				<container type="folder">16</container> 
+				<unittitle>Santo Tomás,</unittitle>
+				<unitdate>1959 April</unitdate>
+						</did>
+						</c02>
+						<c02>
+						<did>
+						<container type="box">3</container> 
+				<container type="folder">17</container> 
+				<unittitle>Santo Tomás Apóstol de Serva,</unittitle>
+				<unitdate>1962 April</unitdate>
+						</did>
+						</c02>
+						<c02>
+						<did>
+						<container type="box">3</container> 
+				<container type="folder">18</container> 
+				<unittitle>Los Santos Ángeles de Guévavi by George S. Roskruge,</unittitle>
+				<unitdate>1889 July</unitdate>
+					</did>
+					</c02>
+					<c02>
+					<did>
+						<container type="box">3</container> 
+				<container type="folder">19</container> 
+				<unittitle>Los Santos Ángeles de Guévavi by William O’Brien,</unittitle>
+				<unitdate>1960 May</unitdate>
+					</did>
+					</c02>
+					<c02>
+					<did>
+						<container type="box">3</container> 
+				<container type="folder">20</container> 
+				<unittitle>Los Santos Reyes de Cucurpe,</unittitle>
+				<unitdate>1959 April</unitdate>
+						</did>
+						</c02>
+					<c02> 
+						<did>
+							<container type="box">3</container> 
+				<container type="folder">21</container> 
+				<unittitle>Señor San José de Chinapa,</unittitle>
+				<unitdate>1960 April</unitdate>
+						</did>
+						</c02>
+					<c02>
+					<did>
+						<container type="box">3</container> 
+				<container type="folder">22</container> 
+				<unittitle>Señor San José de Guaymas,</unittitle>
+				<unitdate>1959 October</unitdate>
+						</did>
+						</c02>
+					<c02>
+					<did>
+						<container type="box">3</container> 
+				<container type="folder">23</container> 
+				<unittitle>Señor San José de Mátape,</unittitle>
+				<unitdate>1962 October</unitdate>
+					</did>
+					</c02>
+					<c02>
+					<did>
+						<container type="box">3</container> 
+				<container type="folder">24</container> 
+				<unittitle>El Señor San José de Minas Nuevas,</unittitle>
+				<unitdate>1963 October</unitdate>
+						</did>
+						</c02>
+						<c02>
+						<did>
+							<container type="box">3</container> 
+				<container type="folder">25</container> 
+				<unittitle>Senor San José de Teópare,</unittitle>
+				<unitdate>1962 October</unitdate>
+					</did>
+					</c02>
+					<c02>
+					<did>
+						<container type="box">3</container> 
+				<container type="folder">26</container> 
+				<unittitle>Sinaloa,</unittitle>
+				<unitdate>undated</unitdate>
+						</did>
+						</c02>
+					<c02>
+					<did>
+						<container type="box">3</container> 
+				<container type="folder">27</container> 
+				<unittitle>Sisoguíchic,</unittitle>
+				<unitdate>undated</unitdate>
+						</did>
+						</c02>
+					<c02>
+					<did>
+						<container type="box">3</container> 
+				<container type="folder">28</container> 
+				<unittitle>Tayopa (Mulatos),</unittitle>
+				<unitdate>1965 October </unitdate>
+						</did>
+						</c02>
+					<c02>
+					<did>
+						<container type="box">3</container> 
+				<container type="folder">29</container> 
+				<unittitle>Vaca,</unittitle>
+				<unitdate>undated</unitdate>
+						</did>
+						</c02>
+					<c02>
+					<did>
+						<container type="box">3</container> 
+				<container type="folder">30</container> 
+				<unittitle>La Virgen de Guadalupe de Yécora,</unittitle>
+				<unitdate>1960 April</unitdate>
+		  </did> 
+		</c02> 
+	 </c01> 
+	<c01 level="series" id="ser2">
+		<did> 
+			<unittitle>Series 2: Papers,</unittitle> 
+			<unitdate type="inclusive">1977</unitdate>
+		</did>
+		<scopecontent><p>Contains four separate drafts of <title render="italic">Spanish Jesuit Churches in Mexico’s Tarahumara</title>. Each draft has been broken into smaller sections. </p></scopecontent>
+		
+			
+		<c02 level="file"> 
+			<did> 
+				<container type="box">4</container> 
+				<container type="folder">1</container> 
+				<unittitle>Typed-Draft with Paste-Ups: Introduction-page 124,</unittitle>
+				<unitdate>1977</unitdate>
+			</did>
+		</c02>
+		<c02>
+			<did>
+				<container type="box">4</container> 
+				<container type="folder">2</container> 
+				<unittitle>Typed-Draft with Paste-Ups: Pages 125-237,</unittitle>
+				<unitdate>1977</unitdate>
+			</did>
+		</c02>
+		<c02>
+			<did>
+				<container type="box">4</container> 
+				<container type="folder">3</container> 
+				<unittitle>Typed-Draft with Paste-Ups: Pages 238-316,</unittitle>
+				<unitdate>1977</unitdate>
+			</did>
+		</c02>
+		<c02>
+			<did>
+			<container type="box">4</container> 
+				<container type="folder">4</container> 
+				<unittitle>Typed-Draft with Paste-Ups: Pages 317-423,</unittitle>
+				<unitdate>1977</unitdate>
+			</did>
+		</c02>
+				<c02>
+					<did>
+				<container type="box">4</container> 
+				<container type="folder">5</container> 
+				<unittitle>Unedited Copy: Introduction-Page 111,</unittitle>
+				<unitdate>1977</unitdate>
+					</did>
+				</c02>
+			<c02>
+				<did>
+					<container type="box">4</container> 
+				<container type="folder">6</container> 
+				<unittitle>Unedited Copy: Pages 112-242,</unittitle>
+				<unitdate>1977</unitdate>
+				</did>
+			</c02>
+				<c02>
+					<did>
+						<container type="box">4</container> 
+				<container type="folder">7</container> 
+				<unittitle>Unedited Copy: Pages 210-404,</unittitle>
+				<unitdate>1977</unitdate>
+					</did>
+				</c02>
+		<c02>
+		<did>	<container type="box">4</container> 
+				<container type="folder">8</container> 
+				<unittitle>Edited Copy with Comments by Karen Shure and Roca: Introduction-Page 99,</unittitle>
+				<unitdate>1977</unitdate>
+		</did>
+		</c02>
+				<c02>
+					<did>
+						<container type="box">4</container> 
+				<container type="folder">9</container> 
+				<unittitle>Edited Copy with Comments by Karen Shure and Roca: Pages 100-209,</unittitle>
+				<unitdate>1977</unitdate>
+					</did>
+				</c02>
+		<c02>
+			<did>
+				<container type="box">4</container> 
+				<container type="folder">10</container> 
+				<unittitle>Edited Copy with Comments by Karen Shure and Roca: Pages 210-404,</unittitle>
+				<unitdate>1977</unitdate>
+			</did>
+		</c02>
+			<c02>
+				<did>
+					<container type="box">4</container> 
+				<container type="folder">11</container> 
+				<unittitle>Final Copy Sent to Press: Introduction- Page 125, 1977,</unittitle>
+				<unitdate>1977</unitdate>
+				</did>
+			</c02>
+				<c02>
+					<did>
+						<container type="box">4</container> 
+				<container type="folder">12</container> 
+				<unittitle>Final Copy Sent to Press: Pages 129-247,</unittitle>
+				<unitdate>1977</unitdate>
+					</did>
+				</c02>
+		<c02>
+			<did>
+				<container type="box">4</container> 
+				<container type="folder">13</container> 
+				<unittitle>Final Copy Sent to Press: Pages 248-336,</unittitle>
+				<unitdate>1977</unitdate>
+			</did>
+		</c02>
+			<c02>
+				<did>
+					<container type="box">4</container> 
+				<container type="folder">14</container> 
+				<unittitle>Final Copy Sent to Press: Reference Material,</unittitle>
+				<unitdate>1977</unitdate>
+		</did> 
+		</c02>
+	</c01> 
+  </dsc> 
+</archdesc></ead>

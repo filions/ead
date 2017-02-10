@@ -1,0 +1,1461 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+   <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0"> 
+      <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special Collections//text
+		(US::AzU::Overson Family Photograph Collection)//en""UAMS549.xml"
+      </eadid> 
+      <filedesc> 
+         <titlestmt> 
+         	<titleproper encodinganalog="title">Overson Family Photograph Collection,
+	 	       <date normal="1840/1950" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">1840-1950s</date>
+	 	       <date normal="1920/1940" type="bulk">(bulk 1920s-1940s)</date>
+	 	    </titleproper>
+         	<titleproper type="filing" altrender="nodisplay"> Overson Family Photograph Collection,
+            </titleproper>
+	        <author>Processed by Kim Frontz.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date normal= "2015" era= "ce" calendar = "gregorian">; 2015</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+            <date era="ce" encodinganalog="date" normal="20160112">January 12, 2016</date>
+  	     </creation>
+	     <langusage>Finding aid encoded in<language> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc> 
+   </eadheader> 
+   <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+      <did id="a1"> 
+         <head>Collection Summary</head> 
+      	<unittitle encodinganalog="245" label="Collection Name:"> Overson Family Photograph Collection,
+            <unitdate type="inclusive" label="Dates:" normal="1840/1950">1840-1950s</unitdate>
+            <unitdate type="bulk" label="Dates:" normal="1920/1940">(bulk 1920s-1940s)</unitdate>
+  	     </unittitle>	 
+	     <unitid label="Collection Number:" encodinganalog="099" repositorycode="AzU" countrycode="us">MS 549</unitid>
+	     <origination label="Creator:"> 
+	     	<persname source="lcnaf" encodinganalog="100">Overson, Margaret Jarvis, 1878-1968.</persname> 
+	     </origination>
+      	<abstract label="Abstract:">Photographs and negatives, primarily prints, glass plate, nitrate, and acetate negatives, 
+      								but also a few travel stereographs, cabinet cards, cartes-de-visite, and daguerreotypes, 
+      								mostly relating to the Overson family of St. Johns, Arizona, along with some of townspeople, 
+      								buildings, and special occasions. There are a few portraits of people taken by Charles Jarvis, 
+      								circa 1890 to 1910. More were taken by his daughter, Margaret Jarvis Overson, circa 1920 to 1960. 
+      								A small amount were taken by other photographers and by her adult children, especially Eva M. Overson Tanner. 
+      								The images include mostly unidentified people, family, student class groups, school athletic teams, 
+      								and a few celebrations and street scenes. Photographs also include Mormon schools, school groups, 
+      								church groups and church leaders.</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description:"><extent>14 linear feet</extent></physdesc>	 
+	     <repository label="Repository:"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng" scriptcode="Latin">English.</language></langmaterial>
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+         <p>There are no restrictions on this collection.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+      	<p>Overson Family Photograph Collection (MS 549). Special Collections, University of Arizona Libraries.</p>
+      </prefercite> 
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Kim Frontz.</p>
+      </processinfo>
+      <bioghist id="a2" encodinganalog="545"> 
+         <head>Biographical Note</head> 
+      	<p>Charles Godfrey (DeFriez) Jarvis (1855-1919) settled in St. Johns, Arizona in the 1880s and operated 
+      	a drug store where he also was a dentist, photographer, postmaster, notary public, and U.S. Land Commissioner, 
+      	and had the first telephone office. He was born to the DeFriez family but was taken in by the Jarvis family 
+      	and took their name. He married Margaret Jarvis (1857-1934) and they had eight children including Margaret 
+      	Godfrey Jarvis (1878-1968).</p>
+      	<p>Margaret Godfrey Jarvis assisted her father with photography beginning in her teens. 
+      	She married Henry C. Overson (1968-1947) in 1896 and they had nine children: Eva M., Henry Victor, Albert N., 
+      	Edgar P., Harry J., Evan, Ivan, Ross W., and Marion Peter. Henry Overson&apos;s construction company built and 
+      	repaired houses and other buildings in St. Johns.  Margaret continued her father&apos;s photography work from 
+      	their home and on location.</p>
+      	<p>The Jarvis and Overson families were members of the Church of Latter Day Saints 
+      	accompanying many other settlers to St. Johns, Arizona in the early 1880s.</p>
+      </bioghist> 
+      <arrangement id="a4" encodinganalog="351$a"> 
+         <head>Arrangement</head> 
+  	     <p>This collection is organized into 2 series by type of material.</p>	 
+         <list>
+            <item>Series I: Photographs,
+  			   <unitdate>1840-1950s</unitdate>
+               <unitdate type="bulk" label="Dates:" normal="1920/1940">bulk 1920s-1940s</unitdate></item>
+  		    <item>Series II: Negatives,
+  			   <unitdate>circa 1890s-1940s</unitdate></item>
+         			<item>Subseries 1: Glass plate negatives, 5&quot;x7&quot;,
+         				<unitdate>circa 1890-1930</unitdate></item>
+         			<item>Subseries 2: Glass plate negatives, 3&quot;x4&quot;,
+         				<unitdate>circa 1890-1930</unitdate></item>
+         			<item>Subseries 3: Negatives, 4&quot;x5&quot;,
+         				<unitdate>circa 1920s-1940s</unitdate></item>
+         			<item>Subseries 4: Negatives, 5&quot;x7&quot;,
+         				<unitdate>circa 1920s-1940s</unitdate></item>
+         </list>
+      </arrangement> 
+      <scopecontent id="a3" encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>Photographs and negatives relating mostly to the Overson family of St. Johns, Arizona but also from Charles 
+      	Jarvis and later Margaret Overson&apos;s photography business in St. Johns. The images include Overson and related 
+      	family members, Mormon groups, student class groups, high school sports teams, and a few St. Johns celebrations 
+      	and street scenes.</p>
+      	<p>Photographs known to be taken by Charles Jarvis consist of a small number of cabinet cards with his studio imprint. 
+      	These are all studio portraits of individuals, children, and families, taken circa 1890 to 1910, and most appear 
+      	to be family members although they are unidentified. There are a few school group and church group images probably 
+      	taken during the late 1890s and forward.</p>
+      	<p>Except for family photographs of Overson children and their activities, most of the collection represents the 
+      	1920s to 1940s, a time when Margaret&apos;s children were in high school and then marrying and starting their own families. 
+      	Most of these images are of unidentified family members, and a smaller amount are unidentified portraits of others.</p>
+      	<p>There are also some images of school buildings and students including high school sports teams, bands, drama productions, 
+      	and graduating classes, mostly from the late 1910s to the late 1930s. Also present are a few images of Mormon church leaders 
+      	and church groups, women&apos;s groups, and a boy scout camping trip (ca. 1930s).</p>
+      	<p>Other highlights include a few images of parades and parade floats, celebrations, cart races at the 1937 Golden Jubilee Parade, 
+      	and Henry Victor Overson dressed as &quot;Uncle Sam&quot; for a holiday. Other views of rural life include hay harvests, picnics and excursions, 
+      	building construction, women&apos;s gatherings, and home interiors. One image shows a large meterorite on a flat-bed railroad car.</p>
+      	<p>The images are mostly unidentified but some information can be taken from the content, from published histories of St. Johns, 
+      	and from Margaret J. Overson&apos;s published family history which reproduced some of the images. All the images were scanned and are 
+      	available in digital format. There is a good amount of duplication in the digital scans because images were sometimes scanned as 
+      	negatives and then as prints, and each print was scanned even if it was a duplicate.</p>
+      	<p>See the spreadsheet for the Overson Family Photographs for more specific information. Please contact an archivist to view spreadsheet.</p>
+      </scopecontent> 
+      <controlaccess>
+         <head>Access Terms</head>
+         <list type="simple">
+            <item>
+               <persname encodinganalog="600" source= "lcnaf">Overson, Margaret Jarvis, Photographer.</persname>
+  		    </item>
+         	<item>
+         		<persname encodinganalog="600" source= "lcnaf">Jarvis, Charles Godfrey, Photographer.</persname>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Automobiles -- Arizona -- Pictorial works.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Boy Scouts -- Arizona -- Pictorial works.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Building sites -– Arizona -- Saint Johns -- Pictorial works.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Camping -- Arizona -- Pictorial works.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Cartes-de-visite.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Children -- Pictorial works.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Daguerreotypes.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Dams -- Arizona -- Design and construction -- Pictorial works.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Domestic life -- Pictorial works.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Infants -- Pictorial works.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Jarvis family.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Meteorites -– Arizona -- Pictorial works.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Mormons -- Arizona -- Saint Johns -- Pictorial works.</subject>
+         	</item>
+  		    <item>
+  		    	<subject encodinganalog="650" source= "lcsh">Overson family.</subject>
+  		    </item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Parades –- Arizona -- Saint Johns -- Pictorial works.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Photographers -- Arizona.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Photoprints.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Rural women -- Arizona -- Saint Johns -- Pictorial works.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">School children -– Arizona -- Saint Johns -- Pictorial works.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Schools –- Arizona –- Saint Johns -- Pictorial works.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Sports teams -- Pictorial works.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Stereographs.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Tanner family.</subject>
+         	</item>
+         	<item>
+  		    	<geogname encodinganalog="651" source="lcsh">Saint Johns, Ariz. -- Pictorial works.</geogname>
+  		    </item>
+         </list>
+      </controlaccess>
+      <dsc type="combined" id="a23"> 
+         <head>Container List</head> 
+         <c01 level="series" id="ser1"> 
+         <did> 
+         <unittitle>Series I: Photographs,</unittitle> 
+		 <unitdate type="inclusive">1840-1950s</unitdate>
+         <unitdate type="bulk" label="Dates:" normal="1920/1940">bulk 1920s-1940s</unitdate>
+		 </did>
+	 	 <scopecontent>
+	 	 <p>This series is arranged topically.</p>
+	 	 </scopecontent>
+         	
+		 		<c02 level="file"> 
+              	<did> 
+			    <container type="box">1</container> 
+			    <container type="folder">1</container> 
+              	<unittitle>Overson, Eva Margaret, studio portraits,</unittitle>
+              	<unitdate>1897-1920s</unitdate>
+		        </did> 
+		    	</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">1</container> 
+         		<container type="folder">2</container> 
+         		<unittitle>Overson, Eva, family and activities,</unittitle>
+         		<unitdate>1910s-1930s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">1</container> 
+         		<container type="folder">3</container> 
+         		<unittitle>Overson, Eva - LeRoy Tanner (husband),</unittitle>
+         		<unitdate>1910s-1920s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">1</container> 
+         		<container type="folder">4</container> 
+         		<unittitle>Overson, Evan and Ivan,</unittitle>
+         		<unitdate>1910s-1930s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">1</container> 
+         		<container type="folder">5</container> 
+         		<unittitle>Overson, Harry James,</unittitle>
+         		<unitdate>1920s-1940s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">1</container> 
+         		<container type="folder">6</container> 
+         		<unittitle>Overson, Henry Christian,</unittitle>
+         		<unitdate>1880s-1910s, 1940s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">1</container> 
+         		<container type="folder">7</container> 
+         		<unittitle>Overson, Margaret Godfrey Jarvis,</unittitle>
+         		<unitdate>1890s-1940s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">1</container> 
+         		<container type="folder">8</container> 
+         		<unittitle>Overson, Henry C. and Margaret J.,</unittitle>
+         		<unitdate>1920s, 1940s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">1</container> 
+         		<container type="folder">9</container> 
+         		<unittitle>Overson, Henry Victor, studio portraits,</unittitle>
+         		<unitdate>1900s-1920s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">1</container> 
+         		<container type="folder">10</container> 
+         		<unittitle>Overson, Henry V., family and activities,</unittitle>
+         		<unitdate>1920s-1930s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">1</container> 
+         		<container type="folder">11</container> 
+         		<unittitle>Overson, Marion Peter,</unittitle>
+         		<unitdate>1920s-1940s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">1</container> 
+         		<container type="folder">12</container> 
+         		<unittitle>Overson, Ross Wallace,</unittitle>
+         		<unitdate>1930s-1940s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">1</container> 
+         		<container type="folder">13</container> 
+         		<unittitle>Overson children (groups), including Victor as Uncle Sam,</unittitle>
+         		<unitdate>1900s-1930s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">2</container> 
+         		<container type="folder">1</container> 
+         		<unittitle>Overson children (unidentified),</unittitle>
+         		<unitdate>1900s-1930s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">2</container> 
+         		<container type="folder">2</container> 
+         		<unittitle>Tanner, Wallace Ove and Lee Henry,</unittitle>
+         		<unitdate>1920s-1940s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">2</container> 
+         		<container type="folder">3</container> 
+         		<unittitle>Overson family groups,</unittitle>
+         		<unitdate>1920s-1940s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">2</container> 
+         		<container type="folder">4</container> 
+         		<unittitle>Overson family homes,</unittitle>
+         		<unitdate>1900s-1940s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">2</container> 
+         		<container type="folder">5</container> 
+         		<unittitle>Oveson family, Lars, Peter and Ove (correct spelling for earlier generation),</unittitle>
+         		<unitdate>1880s-1920s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+       			<container type="box">2</container> 
+       			<container type="folder">6</container> 
+         		<unittitle>Oveson, Ove Christian and Mary K. Christiansen and children (correct spelling for earlier generation),</unittitle>
+         		<unitdate>1888-1920</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">2</container> 
+         		<container type="folder">7</container> 
+         		<unittitle>Overson, David and Annie (Jarvis) and children,</unittitle>
+         		<unitdate>1890-1910s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">2</container> 
+         		<container type="folder">8</container> 
+         		<unittitle>Overson, George Conrad,</unittitle>
+         		<unitdate>1902</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">2</container> 
+         		<container type="folder">9</container> 
+         		<unittitle>Overson, Ove Ephraim,</unittitle>
+         		<unitdate>1902</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">2</container> 
+         		<container type="folder">10</container> 
+         		<unittitle>Overson -- Miscellaneous identified -- (Carol, Merrill Lyman),</unittitle>
+         		<unitdate>1900-1940s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">2</container> 
+         		<container type="folder">11</container> 
+         		<unittitle>Godfrey-Jarvis family,</unittitle>
+         		<unitdate>1860s-1880s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">2</container> 
+         		<container type="folder">12</container> 
+         		<unittitle>Jarvis, George and Ann Prior,</unittitle>
+         		<unitdate>1860s-1911</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">2</container> 
+         		<container type="folder">13</container> 
+         		<unittitle>Jarvis, Charles and Margaret and children,</unittitle>
+         		<unitdate>1880s-1920s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">2</container> 
+         		<container type="folder">14</container> 
+         		<unittitle>Portraits –- Identified, A-E (Anderson, Burk, Bigelow, Davis, Christiansen),</unittitle>
+         		<unitdate>1880s-1940s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">2</container> 
+         		<container type="folder">15</container> 
+         		<unittitle>Portraits –- Identified,  F-L (Greer, Hamblin, Knowles, Heap, Farr, Gibbons),</unittitle>
+         		<unitdate>1890s-1940s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">2</container> 
+         		<container type="folder">16</container> 
+         		<unittitle>Portrait –- Hunt, George W.P. (FILED IN BOX 8),</unittitle>
+         		<unitdate>1914</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">2</container> 
+         		<container type="folder">17</container> 
+         		<unittitle>Portraits –- Identified, M-R (Rogers, Mineer, Pace, Rencher, Pena, Noakes, Milne, McFate, Morgan, Pulsipher, Pershing),</unittitle>
+         		<unitdate>1890s-1940s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">2</container> 
+         		<container type="folder">18</container> 
+         		<unittitle>Portraits –- Webb, William, Jr. and family,</unittitle>
+         		<unitdate>1890s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">2</container> 
+         		<container type="folder">19</container> 
+         		<unittitle>Portraits –- Identified, S-Z (Shumway, White, Whiting, Sherwood, Tenney, Wilkins, Richey, Dora Sherwood Udall),</unittitle>
+         		<unitdate>1890s-1940s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">2</container> 
+         		<container type="folder">20</container> 
+         		<unittitle>Cartes-de-visite, Men, women, children, families, including Paul Paulson (Photographers: C.R. Savage, Dagmar N. Jonstrup, G.F. Anderson, Crocwell and Ottinger),</unittitle>
+         		<unitdate>1870s-1880s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">3</container> 
+         		<container type="folder">1</container> 
+         		<unittitle>Portraits –- Children, unidentified,</unittitle>
+         		<unitdate>circa 1860s-1890s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">3</container> 
+         		<container type="folder">2</container> 
+         		<unittitle>Portraits –- Children, unidentified,</unittitle>
+         		<unitdate>1900s-1920s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">3</container> 
+         		<container type="folder">3</container> 
+         		<unittitle>Portraits –- Children, unidentified,</unittitle>
+         		<unitdate>1930s-1940s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">3</container> 
+         		<container type="folder">4</container> 
+         		<unittitle>Portraits –- Children, First communion/confirmation,</unittitle>
+         		<unitdate>1930s-1940s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">3</container> 
+         		<container type="folder">5</container> 
+         		<unittitle>Portraits –- Couples, unidentified,</unittitle>
+         		<unitdate>circa 1860s-1890s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">3</container> 
+         		<container type="folder">6</container> 
+         		<unittitle>Portraits –- Couples, unidentified,</unittitle>
+         		<unitdate>1900s-1920s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">3</container> 
+         		<container type="folder">7</container> 
+         		<unittitle>Portraits –- Couples, unidentified,</unittitle>
+         		<unitdate>1930s-1940s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">3</container> 
+         		<container type="folder">8</container> 
+         		<unittitle>Portraits –- Wedding couples, unidentified,</unittitle>
+         		<unitdate>1890s-1920s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">3</container> 
+         		<container type="folder">9</container> 
+         		<unittitle>Portraits –- Wedding couples, unidentified,</unittitle>
+         		<unitdate>1930s-1940s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">3</container> 
+         		<container type="folder">10</container> 
+         		<unittitle>Portraits –- Wedding groups, unidentified,</unittitle>
+         		<unitdate>1920s-1940s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">3</container> 
+         		<container type="folder">11</container> 
+         		<unittitle>Portraits –- Families –- reprints, unidentified,</unittitle>
+         		<unitdate>circa 1860s-1890s</unitdate>
+         		</did> 
+         		</c02> 
+         			
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">3</container> 
+         		<container type="folder">12</container> 
+         		<unittitle>Portraits –- Families –- cabinet cards, unidentified,</unittitle>
+         		<unitdate>circa 1860s-1890s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">3</container> 
+         		<container type="folder">13</container> 
+         		<unittitle>Portraits –- Families –- studio portraits, unidentified,</unittitle>
+         		<unitdate>1900s-1920s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">3</container> 
+         		<container type="folder">14</container> 
+         		<unittitle>Portraits –- Families –- outdoors, unidentified,</unittitle>
+         		<unitdate>1900s-1920s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">4</container> 
+         		<container type="folder">1</container> 
+         		<unittitle>Portraits –- Families, unidentified (1 of 2),</unittitle>
+         		<unitdate>1930s-1940s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">4</container> 
+         		<container type="folder">2</container> 
+         		<unittitle>Portraits –- Families, unidentified (2 of 2),</unittitle>
+         		<unitdate>1930s-1940s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">4</container> 
+         		<container type="folder">3</container> 
+         		<unittitle>Portraits –- Families, fireplace background, unidentified,</unittitle>
+         		<unitdate>1930s-1940s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">4</container> 
+         		<container type="folder">4</container> 
+         		<unittitle>Portraits –- Men, unidentified,</unittitle>
+         		<unitdate>circa 1860s-1890s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">4</container> 
+         		<container type="folder">5</container> 
+         		<unittitle>Portraits –- Men, studio portraits, unidentified (1 of 2),</unittitle>
+         		<unitdate>1900s-1920s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">4</container> 
+         		<container type="folder">6</container> 
+         		<unittitle>Portraits –- Men, studio portraits, unidentified (2 of 2),</unittitle>
+         		<unitdate>1900s-1920s</unitdate>
+         		</did> 
+         		</c02> 
+         		
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">4</container> 
+         		<container type="folder">7</container> 
+         		<unittitle>Portraits –- Men, outdoors and small prints, unidentified,</unittitle>
+         		<unitdate>1900s-1920s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">4</container> 
+         		<container type="folder">8</container> 
+         		<unittitle>Portraits –- Men, older men, unidentified,</unittitle>
+         		<unitdate>1930s-1940s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">4</container> 
+         		<container type="folder">9</container> 
+         		<unittitle>Portraits –- Men, younger men, unidentified,</unittitle>
+         		<unitdate>1930s-1940s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">4</container> 
+         		<container type="folder">10</container> 
+         		<unittitle>Portraits –- Men, portraits in folders, unidentified,</unittitle>
+         		<unitdate>1930s-1940s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">4</container> 
+         		<container type="folder">11</container> 
+         		<unittitle>Portraits -– Men, in uniform, unidentified,</unittitle>
+         		<unitdate>1910s-1940s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">4</container> 
+         		<container type="folder">12</container> 
+         		<unittitle>Portraits –- Women, unidentified,</unittitle>
+         		<unitdate>circa 1860s-1890s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">4</container> 
+         		<container type="folder">13</container> 
+         		<unittitle>Portraits -– Women, unidentified (1 of 2),</unittitle>
+         		<unitdate>1900s-1910s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">4</container> 
+         		<container type="folder">14</container> 
+         		<unittitle>Portraits -– Women, unidentified (2 of 2),</unittitle>
+         		<unitdate>1900s-1910s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">5</container> 
+         		<container type="folder">1</container> 
+         		<unittitle>Portraits –- Women, portraits in folders (1 of 2),</unittitle>
+         		<unitdate>1900s-1920s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">5</container> 
+         		<container type="folder">2</container> 
+         		<unittitle>Portraits –- Women, portraits in folders (2 of 2),</unittitle>
+         		<unitdate>1900s-1920s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">5</container> 
+         		<container type="folder">3</container> 
+         		<unittitle>Portraits –- Women, unidentified (1 of 2),</unittitle>
+         		<unitdate>1920s-1930s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">5</container> 
+         		<container type="folder">4</container> 
+         		<unittitle>Portraits –- Women, unidentified (2 of 2),</unittitle>
+         		<unitdate>1920s-1930s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">5</container> 
+         		<container type="folder">5</container> 
+         		<unittitle>Portraits -– Women, portraits in folders,</unittitle>
+         		<unitdate>1930s-1940s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">5</container> 
+         		<container type="folder">6</container> 
+         		<unittitle>Portraits –- Women, studio portraits (1 of 2),</unittitle>
+         		<unitdate>1940s-1950s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">5</container> 
+         		<container type="folder">7</container> 
+         		<unittitle>Portraits –- Women, studio portraits (2 of 2),</unittitle>
+         		<unitdate>1940s-1950s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">5</container> 
+         		<container type="folder">8</container> 
+         		<unittitle>Portraits -– Women, small images and outdoors,</unittitle>
+         		<unitdate>1940s-1950s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">5</container> 
+         		<container type="folder">9</container> 
+         		<unittitle>Portraits –- Women, copy prints,</unittitle>
+         		<unitdate>1920s-1940s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">6</container> 
+         		<container type="folder">1</container> 
+         		<unittitle>Portraits, group, unidentified,</unittitle>
+         		<unitdate>circa 1860s-1890s</unitdate>
+         		</did> 
+         		</c02> 
+         		
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">6</container> 
+         		<container type="folder">2</container> 
+         		<unittitle>Portraits, group, unidentified,</unittitle>
+         		<unitdate>1900s-1920s</unitdate>
+         		</did> 
+         		</c02> 
+         		
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">6</container> 
+         		<container type="folder">3</container> 
+         		<unittitle>Portraits, group, unidentified,</unittitle>
+         		<unitdate>1930s-1940s</unitdate>
+         		</did> 
+         		</c02> 
+         		
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">6</container> 
+         		<container type="folder">4</container> 
+         		<unittitle>Portraits, group –- Mormon church groups,</unittitle>
+         		<unitdate>1910s, 1940s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">6</container> 
+         		<container type="folder">5</container> 
+         		<unittitle>Portraits, group –- Students-Band, orchestra and theater,</unittitle>
+         		<unitdate>1900s-1940s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">6</container> 
+         		<container type="folder">6</container> 
+         		<unittitle>Portraits, group –- Students,</unittitle>
+         		<unitdate>1900s-1920s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">6</container> 
+         		<container type="folder">7</container> 
+         		<unittitle>Portraits, group –- Students,</unittitle>
+         		<unitdate>1930s-1940s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">6</container> 
+         		<container type="folder">8</container> 
+         		<unittitle>Portraits, group –- Students, sports teams,</unittitle>
+         		<unitdate>1910s-1930s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">6</container> 
+         		<container type="folder">9</container> 
+         		<unittitle>Portraits, group –- Students, sports, mounted,</unittitle>
+         		<unitdate>1910-1930s</unitdate>
+         		</did> 
+         		</c02> 
+         		
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">6</container> 
+         		<container type="folder">10</container> 
+         		<unittitle>Portraits, multiple images/copy prints,</unittitle>
+         		<unitdate>undated</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">6</container> 
+         		<container type="folder">11</container> 
+         		<unittitle>Subjects –- Adults and children with animals,</unittitle>
+         		<unitdate>undated</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">6</container> 
+         		<container type="folder">12</container> 
+         		<unittitle>Subjects –- Scouts and camping,</unittitle>
+         		<unitdate>1920s-1940s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">6</container> 
+         		<container type="folder">13</container> 
+         		<unittitle>Subjects –- Firearms, hunting and fishing,</unittitle>
+         		<unitdate>1910s-1930s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">6</container> 
+         		<container type="folder">14</container> 
+         		<unittitle>Subjects –- Picnics, etc.,</unittitle>
+         		<unitdate>1900s-1930s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">6</container> 
+         		<container type="folder">15</container> 
+         		<unittitle>Subjects -– Transportation,</unittitle>
+         		<unitdate>1910s-1930s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">6</container> 
+         		<container type="folder">16</container> 
+         		<unittitle>Subjects -– Work,</unittitle>
+         		<unitdate>1910s-1940s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">6</container> 
+         		<container type="folder">17</container> 
+         		<unittitle>Subjects –- Meteorite &quot;Navajo&quot;,</unittitle>
+         		<unitdate>June 16, 1922</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">6</container> 
+         		<container type="folder">18</container> 
+         		<unittitle>Places –- St. Johns,</unittitle>
+         		<unitdate>1910s-1930s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">6</container> 
+         		<container type="folder">19</container> 
+         		<unittitle>Places –- St. Johns -– Celebrations,</unittitle>
+         		<unitdate>1910s-1930s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">6</container> 
+         		<container type="folder">20</container> 
+         		<unittitle>Places –- St. Johns –- Celebrations -– World War I soldiers &quot;welcome home&quot; parade,</unittitle>
+         		<unitdate>1918-1919</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">7</container> 
+         		<container type="folder">1</container> 
+         		<unittitle>Places –- St. Johns and unidentified -– Businesses,</unittitle>
+         		<unitdate>1910s-1930s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">7</container> 
+         		<container type="folder">2</container> 
+         		<unittitle>Places -– St. Johns and unidentified -– Homes,</unittitle>
+         		<unitdate>1890s-1930s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">7</container> 
+         		<container type="folder">3</container> 
+         		<unittitle>Places -– St. Johns and unidentified –- Buildings,</unittitle>
+         		<unitdate>1900s-1930s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">7</container> 
+         		<container type="folder">4</container> 
+         		<unittitle>Places –- Dams, lakes, rivers and bridges,</unittitle>
+         		<unitdate>1890s-1930s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">7</container> 
+         		<container type="folder">5</container> 
+         		<unittitle>Places –- Scenic views,</unittitle>
+         		<unitdate>1910s-1930s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">7</container> 
+         		<container type="folder">6</container> 
+         		<unittitle>Places -– Scenic postcards,</unittitle>
+         		<unitdate>1930s-1950s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">7</container> 
+         		<container type="folder">7</container> 
+         		<unittitle>Places –- Travel,</unittitle>
+         		<unitdate>1910s-1940s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">7</container> 
+         		<container type="folder">8</container> 
+         		<unittitle>Stereographs -– Travel, etc.,</unittitle>
+         		<unitdate>1898-1904</unitdate>
+         		</did> 
+         		</c02>
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">7</container> 
+         		<container type="folder">9</container> 
+         		<unittitle>Album pages, small,</unittitle>
+         		<unitdate>1915-1920s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">7</container> 
+         		<container type="folder">10</container> 
+         		<unittitle>Album pages, loose photos (1 of 2),</unittitle>
+         		<unitdate>1915-1920s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">7</container> 
+         		<container type="folder">11</container> 
+         		<unittitle>Album pages, loose photos (2 of 2),</unittitle>
+         		<unitdate>1915-1920s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">7</container> 
+         		<container type="folder">12</container> 
+         		<unittitle>Album pages, loose photos, girls excursion,</unittitle>
+         		<unitdate>1915-1920s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">7</container> 
+         		<container type="folder">13</container> 
+         		<unittitle>Large album pages,</unittitle>
+         		<unitdate>1920s-1930s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">7</container> 
+         		<container type="folder">14</container> 
+         		<unittitle>Miscellaneous snapshots,</unittitle>
+         		<unitdate>1910s-1940s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">7</container> 
+         		<container type="folder">15</container> 
+         		<unittitle>Miscellaneous photographs (Mother and casket, the Pledgers, cemetery, garden, cakes),</unittitle>
+         		<unitdate>1910s-1930s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">7</container> 
+         		<container type="folder">16</container> 
+         		<unittitle>Documents, photos of,</unittitle>
+         		<unitdate>1842 and undated</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">7</container> 
+         		<container type="folder">17</container> 
+         		<unittitle>Envelopes and notes,</unittitle>
+         		<unitdate>1920s-1940s</unitdate>
+         		</did> 
+         		</c02> 
+         	
+         		<c02 level="file"> 
+         		<did> 
+         		<container type="box">8</container>
+         		<unittitle>Wooden box with glass (photographic equipment),</unittitle>
+         		<unitdate>undated</unitdate>
+         		</did> 
+         		</c02> 
+         
+	     </c01> 
+         <c01 level="series" id="ser2">
+         <did> 
+		 <unittitle>Series II: Negatives,</unittitle> 
+		 <unitdate type="inclusive">circa 1890s-1940s</unitdate>
+		 </did>
+		    
+         		<c02 level="subseries" id="subser1">
+		       	<did> 
+			    <unittitle>Subseries 1: Glass plate negatives, 5&quot;x7&quot;,</unittitle> 
+			    <unitdate type="inclusive">circa 1890-1930</unitdate>
+			   	</did> 
+			    <scopecontent>
+			    <p>This series is arranged by the date of scanning and assigned number.</p>
+			    <p>For example: 2012 0311-169 was scanned on 03-11-2012 and numbered 169 during scanning. See an archivist regarding access to the digitized versions.</p>
+			    </scopecontent>
+         			
+         				<c03 level="file"> 
+         				<did> 
+         				<container type="box">9</container> 
+         				<unittitle>2012	0311_169 to 0311_194,</unittitle>
+         				<unitdate>2012</unitdate>
+         				</did> 
+         				</c03>
+         			
+         				<c03 level="file"> 
+         				<did> 
+         				<container type="box">10</container>
+         				<unittitle>2012	0311_195 to 0311_220,</unittitle>
+         				<unitdate>2012</unitdate>
+         				</did> 
+         				</c03> 
+         			
+         				<c03 level="file"> 
+         				<did> 
+         				<container type="box">11</container>
+         				<unittitle>2012	0311_221 to 0311_223; 2012 0427_0001 to 0427_0023,</unittitle>
+         				<unitdate>2012</unitdate>
+         				</did> 
+         				</c03> 
+         			
+         				<c03 level="file"> 
+         				<did> 
+         				<container type="box">12</container>
+         				<unittitle>2012	0427_0024 to 0427_0034; 2012 0505_0360 to 0505_0373,</unittitle>
+         				<unitdate>2012</unitdate>
+         				</did> 
+         				</c03> 
+         			
+         				<c03 level="file"> 
+         				<did> 
+         				<container type="box">13</container>
+         				<unittitle>2012	0505_0374 to 0505_0399,</unittitle>
+         				<unitdate>2012</unitdate>
+         				</did> 
+         				</c03> 
+         			
+         				<c03 level="file"> 
+         				<did> 
+         				<container type="box">14</container>
+         				<unittitle>2012	0701_0955 to 0701_0979,</unittitle>
+         				<unitdate>2012</unitdate>
+         				</did> 
+         				</c03> 
+         			
+         				<c03 level="file"> 
+         				<did> 
+         				<container type="box">15</container>
+         				<unittitle>2012	0701_0980 to 0701_1004,</unittitle>
+         				<unitdate>2012</unitdate>
+         				</did> 
+         				</c03> 
+         			
+         				<c03 level="file"> 
+         				<did> 
+         				<container type="box">16</container>
+         				<unittitle>2012	0701_1005 to 0701_1030,</unittitle>
+         				<unitdate>2012</unitdate>
+         				</did> 
+         				</c03> 
+         			
+         				<c03 level="file"> 
+         				<did> 
+         				<container type="box">17</container>
+         				<unittitle>2012	0701_1031 to 0701_1048; 2012 1007_1 to 1007_15,</unittitle>
+         				<unitdate>2012</unitdate>
+         				</did> 
+         				</c03> 
+         			
+         				<c03 level="file"> 
+         				<did> 
+         				<container type="box">18</container>
+         				<unittitle>2012	1007_17 to 1007_63,</unittitle>
+         				<unitdate>2012</unitdate>
+         				</did> 
+         				</c03> 
+         			
+         				<c03 level="file"> 
+         				<did> 
+         				<container type="box">19</container>
+         				<unittitle>2012	1021_1807 to 1021_1831,</unittitle>
+         				<unitdate>2012</unitdate>
+         				</did> 
+         				</c03> 
+         			
+         				<c03 level="file"> 
+         				<did> 
+         				<container type="box">20</container>
+         				<unittitle>2012	1021_1832 to 1021_1856,</unittitle>
+         				<unitdate>2012</unitdate>
+         				</did> 
+         				</c03> 
+         			
+         				<c03 level="file"> 
+         				<did> 
+         				<container type="box">21</container>
+         				<unittitle>2012	1021_1857 to 1021_1866, with 5 oversize plates: 2013 0120_30, 2013 0120_62, 2012 0427_0017, 2012 0701_1029 plat map, Plat map 1888 no ID number,</unittitle>
+         				<unitdate>2012-2013</unitdate>
+         				</did> 
+         				</c03> 
+         			
+         		</c02>
+         		<c02 level="subseries" id="subser2">
+         		<did> 
+         		<unittitle>Subseries 2: Glass plate negatives, 3&quot;x4&quot;,</unittitle> 
+         		<unitdate type="inclusive">circa 1890-1930</unitdate>
+         		</did> 
+         		<scopecontent>
+         		<p>This series is arranged by the date of scanning and assigned number.</p>
+         		<p>For example: 2012 0311-169 was scanned on 03-11-2012 and numbered 169 during scanning.</p>
+         		</scopecontent>
+         			
+         				<c03 level="file"> 
+         				<did> 
+         				<container type="box">22</container>
+         				<unittitle>2012	0318_0224P to 0408_0225,</unittitle>
+         				<unitdate>2012</unitdate>
+         				</did> 
+         				</c03>
+         			
+         				<c03 level="file"> 
+         				<did> 
+         				<container type="box">23</container>
+         				<unittitle>2012	0408_0256 to 0408_0285,</unittitle>
+         				<unitdate>2012</unitdate>
+         				</did> 
+         				</c03>
+         			
+         				<c03 level="file"> 
+         				<did> 
+         				<container type="box">24</container>
+         				<unittitle>2012	0408_0286 to 0415_0320,</unittitle>
+         				<unitdate>2012</unitdate>
+         				</did> 
+         				</c03>
+         			
+         				<c03 level="file"> 
+         				<did> 
+         				<container type="box">25</container>
+         				<unittitle>2012	0415_0321 to 0415_0355,</unittitle>
+         				<unitdate>2012</unitdate>
+         				</did> 
+         				</c03>
+         			
+         				<c03 level="file"> 
+         				<did> 
+         				<container type="box">26</container>
+         				<unittitle>2012	0415_0356 to 0415_0359 (also 2 very broken plates, 2 not scanned),</unittitle>
+         				<unitdate>2012</unitdate>
+         				</did> 
+         				</c03>
+         			
+         		</c02>
+         		<c02 level="subseries" id="subser3">
+         		<did> 
+         		<unittitle>Subseries 3: Negatives, 4&quot;x5&quot;,</unittitle> 
+         		<unitdate type="inclusive">circa 1920s-1940s</unitdate>
+         		</did> 
+         		<scopecontent>
+         		<p>This series is arranged by the date of scanning and assigned number.</p>
+         		<p>For example: 2012 0311-169 was scanned on 03-11-2012 and numbered 169 during scanning.</p>
+         		</scopecontent>
+         			
+         				<c03 level="file"> 
+         				<did> 
+         				<container type="box">27</container>
+         				<unittitle>2012	0506_0035 to 0617_0806,</unittitle>
+         				<unitdate>2012</unitdate>
+         				</did> 
+         				</c03>
+         			
+         				<c03 level="file"> 
+         				<did> 
+         				<container type="box">28</container>
+         				<unittitle>2012	0617_0811 to 1021_1618,</unittitle>
+         				<unitdate>2012</unitdate>
+         				</did> 
+         				</c03>
+         			
+         				<c03 level="file"> 
+         				<did> 
+         				<container type="box">29</container>
+         				<unittitle>2012	1021_1621 to 2013 0101_068,</unittitle>
+         				<unitdate>2012</unitdate>
+         				</did> 
+         				</c03>
+         			
+         				<c03 level="file"> 
+         				<did> 
+         				<container type="box">30</container>
+         				<unittitle>2013	0101_069 to 0127_101,</unittitle>
+         				<unitdate>2013</unitdate>
+         				</did> 
+         				</c03>
+         			
+         		</c02>
+         		<c02 level="subseries" id="subser4">
+         		<did> 
+         		<unittitle>Subseries 4: Negatives, 5&quot;x7&quot;,</unittitle> 
+         		<unitdate type="inclusive">circa 1920s-1940s</unitdate>
+         		</did> 
+         		<scopecontent>
+         		<p>This series is arranged by the date of scanning and assigned number.</p>
+         		<p>For example: 2012 0311-169 was scanned on 03-11-2012 and numbered 169 during scanning.</p>
+         		</scopecontent>
+         			
+		       			<c03 level="file"> 
+			     		<did> 
+			       		<container type="box">31</container>
+			     		<unittitle>2012	0512_various numbers; 0152-0154, 0158, 0519-0523, 0740, 790-0792, 0795-1730; 2012 12-02_1tb; 2013 01-27_083,</unittitle>
+				    	<unitdate>2012-2013</unitdate>
+           				</did> 
+		       			</c03>
+         			
+		    	</c02>
+	     </c01> 
+      </dsc> 
+   </archdesc>
+</ead>

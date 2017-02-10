@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+   <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0"> 
+      <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special Collections//text
+		(US::AzU::Delano and Dwyer Ranch records)//en""UAMS075.xml"
+      </eadid> 
+      <filedesc> 
+         <titlestmt> 
+         	<titleproper encodinganalog="title">Delano and Dwyer Ranch records
+	 	       <date normal="1877/1891" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">1877-1891</date>
+	 	       <!-- BE SURE TO POPULATE "date normal= "YYYY/YYYY" attribute. PLACE ATTRIBUTE DATES BETWEEN "   " -->
+	 	    </titleproper>
+         	<titleproper type="filing" altrender="nodisplay"> Delano and Dwyer Ranch records
+	 	    <!-- [IF AN INDIVIDUAL IS ASSOCIATED LIST LAST NAME, (FIRST NAME MIDDLE INITIAL.) i.e. Flannery, (John S.) COLLECTION DESCRIPTION] OR 
+	 	    [IF NO SPECIFIC PERSON IS ASSOCIATED LIST THE COLLECTION NAME AND DESCRIPTION (i.e. International Student Council general files) -->
+            </titleproper>
+	        <author>Processed by Staff.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date normal= "2016" era= "ce" calendar = "gregorian">; 2016</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+            <date era="ce" encodinganalog="date" normal="20160419">April 19, 2016</date>
+  	     </creation><!-- BE SURE TO POPULATE "date normal= YYYYMMDD" attribute. PLACE ATTRIBUTE DATES BETWEEN "  " -->
+	     <langusage>Finding aid encoded in<language> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc>
+   </eadheader> 
+   <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+      <did id="a1"> 
+         <head>Collection Summary</head> 
+      	<unittitle encodinganalog="245" label="Collection Name:"> Delano and Dwyer Ranch records
+            <unitdate type="inclusive" label="Dates:" normal="1877/1891">1877-1891</unitdate>
+  	     </unittitle><!-- BE SURE TO POPULATE "Dates normal= yyyy/yyyy" attribute.  PLACE ATTRIBUTE DATES BETWEEN "  " -->	 
+	     <unitid label="Collection Number:" encodinganalog="099" repositorycode="AzU" countrycode="us">MS 075</unitid>
+	     <origination label="Creator:"> 
+            <corpname source="lcnaf" encodinganalog="110">Delano and Dwyer Ranch (N.M.)</corpname> 
+	     </origination> <!-- CHANGE TAG TO CORPNAME, IF CREATOR IS A COROPORATION/ BUSINESS ETC.  CHANGE "100" ATTRIBUTE TO 110-->
+      	<abstract label="Abstract:">John S. Delano and Joseph Workman Dwyer were owners of the D. &amp; D. Ranch. Dwyer, a Washington D.C. official, moved to New Mexico in 1876, 
+      		and began raising sheep at Uña de Gato Creek. He and Delano then became partners in a large-scale cattle enterprise, also known as the D. &amp; D. 
+      								Ranch Co., at Johnson&apos;s Mesa. Dwyer sold out to become involved in real estate, in 1892. Three recording books containing livestock branding 
+      								records and accounts of the operation and maintenance of the ranch in Otero, Colfax County, New Mexico. Some may also apply to Dwyer&apos;s 
+      								Uña de Gato Ranch.</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description:"><extent>.2 linear feet</extent></physdesc>	 
+	     <repository label="Repository:"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng" scriptcode="Latin">English.</language></langmaterial>
+   	        <!-- CHANGE OR ADD FIELD IF MATERIALS ARE IN OTHER LANGUAGES. BE SURE TO CHANGE langcode "" ATTRIBUTE-->
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+         <p>There are no restrictions on this collection.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+      	<p>Delano and Dwyer Ranch records (MS 075). Special Collections, University of Arizona Libraries.</p>
+      </prefercite> 
+   	<acqinfo>
+   		<head>Acquisition Information</head>
+   		<p>Acquired as purchase, 1966.</p>
+   	</acqinfo>
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Staff.</p>
+      </processinfo>
+      <bioghist id="a2" encodinganalog="545"> 
+         <head>Biographical Note</head> 
+      	<p>John S. Delano and Joseph Workman Dwyer were owners of the D. &amp; D. Ranch. Dwyer, a Washington D.C. official, moved to New Mexico in 1876, and began raising sheep 
+      		at Uña de Gato Creek. He and Delano then became partners in a large-scale cattle enterprise, also known as the D. &amp; D. Ranch Co., at Johnson&apos;s Mesa. Dwyer sold 
+      	out to become involved in real estate, in 1892.</p> 
+      </bioghist> 
+      <arrangement id="a4" encodinganalog="351$a"> 
+         <head>Arrangement</head> 
+  	     <p>This collection is organized chronologically.</p>
+      </arrangement> 
+      <scopecontent id="a3" encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>Three recording books containing livestock branding records and accounts of the operation and maintenance of the ranch in Otero, Colfax County, New Mexico. Some may 
+      		also apply to Dwyer&apos;s Uña de Gato Ranch. Volume one, 1877-1883, contains stock accounts of cattle, horses and sheep, with records of brands, ages, gender, deaths, purchases 
+      		and sales. Also includes cash ledgers for Delano and Dwyer, and itemized accounts by name and duties of individual employees. Volume two, inscribed &quot;Uña de Gato 
+      	Book&quot; on the cover, records totals of cattle on hand, branded and sold for the beginning of each year from January 1, 1886 - January 1, 1891. Volume three is a tally book of 
+      	brands noted by location or outfit, for May through July, 1887. Front endpaper says &quot;Delano &amp; Dwyer Round up Outfit.&quot;</p> 
+      </scopecontent>
+      <controlaccess>
+         <head>Access Terms</head>
+         <list type="simple"> <!-- USE SOURCE OR RULES ELEMENT Source=lcnaf or lcsh; Rules=aacr2 or dacs or local.  BE SURE TO CHANGE encodinganalog="  " ATTRIBUTE. ALSO, BE SURE TO DELETE ANY TAGS YOU DO NOT USE-->
+  		    <item>
+  			   <subject encodinganalog="650" source= "lcsh">Cattle brands -- New Mexico -- History -- 19th century -- Sources.</subject>
+  		    </item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Cattle trade -- New Mexico -- History -- 19th century -- Sources.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Horse industry -- New Mexico -- History -- 19th century -- Sources.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Ranches -- New Mexico -- History -- 19th century -- Sources.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Sheep industry -- New Mexico -- History -- 19th century -- Sources.</subject>
+         	</item>
+  		    <item>
+  			   <geogname encodinganalog="651" source="lcsh">Delano and Dwyer Ranch (N.M.)</geogname>
+  		    </item>
+         	<item>
+         		<geogname encodinganalog="651" source="lcsh">Otero County (N.M.)</geogname>
+         	</item>
+         	<item>
+         		<persname encodinganalog="700" source= "lcnaf">Delano, John S.</persname><!-- 600 Creator; 700 Contributor -->
+         	</item>
+         	<item>
+         		<persname encodinganalog="700" source= "lcnaf">Dwyer, Joseph Workman, 1832-1904.</persname><!-- 600 Creator; 700 Contributor -->
+         	</item>
+         	<item>
+         		<corpname encodinganalog="710" source= "lcnaf">Uña de Gato Ranch (N.M.)</corpname><!-- 610 regular; 611 conference; 710 contributor; 711 conference contributor -->
+         	</item>
+         </list>
+      </controlaccess>
+   </archdesc>
+</ead>

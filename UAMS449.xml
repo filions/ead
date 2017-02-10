@@ -1,0 +1,1240 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+ audience="internal" id="a0"> 
+  <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special
+  	Collections//text(US::AzU::Kenneth Roby Mexican Documents Collection//en""UAMS449.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper> Kenneth Roby Mexican Documents Collection
+	 		<date> 1788-1917(bulk 1824-1857)</date></titleproper> 
+	 	<author> Inventory prepared by Nancy Godoy.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date>&#x00A9; 2011</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation>Inventory encoded by Nancy Godoy>. 
+		<date>February 2011></date></creation> 
+	 <langusage>Inventory is in<language> English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+  	<titleproper> Kenneth Roby Mexican Documents Collection, 
+  		<date>1788-1917 (bulk 1824-1857)</date></titleproper> 
+	 <num>Collection Number: MS 449 </num> 
+  	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Nancy Godoy</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+		  	<date>February 2011</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+			<item>Nancy Godoy</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 2011. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection" type="inventory"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name:"> Kenneth Roby Mexican Documents Collection
+  		<unitdate type="inclusive" normal="1788/1917">1788-1917</unitdate>
+  	<unitdate type="bulk" normal="1824/1857">bulk 1824-1857</unitdate></unittitle>	 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	 repositorycode="AzU" countrycode="us">MS 449</unitid> 
+	 <origination label="Creator:"> 
+	 	<persname>Roby, Kenneth</persname> </origination> 
+  	<abstract label="Abstract:">Kenneth Roby Mexican Documents Collection, 1788-1917 (Bulk 1824-1857),contains seven series of documents that were written and distributed by various federal, state, and local government officials in Mexico between late 18th Century and early 20th Century. This collection also contains a small series of documents that were written and distributed by Spanish and English government officials in their colonies between late 19th Century and early 20th Century. Overall, this decree and orders collection includes military correspondence, constitutions and laws, appointments and promotions in the government. The collection also includes a chronological list of political leaders, important events, financial issues such as taxes and budgets, and overall customs in Mexico. </abstract> 
+  	<physdesc encodinganalog="300$a" label="Physical Description:"><extent>13 Linear Feet</extent></physdesc>  	
+  	<langmaterial>Materials in <language langcode="spa">Spanish</language></langmaterial>
+	 <repository label="Repository:"> 
+	 	<corpname encodinganalog="110">University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository> 
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+  	<p>None.</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish 
+	 	from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>Kenneth Roby Mexican Documents Collection (MS 449). Special Collections, University of Arizona.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+  	<head>Historical Note</head> 
+  	<p> Significant eras mentioned in this collection include Spanish and English colonial periods in Mexico, Cuba, and Dominica; Mexican war of Independence; first Mexican Empire under Agustin de Iturbide; early Mexican Republic; political domination of Antonio Lopez De Santa Anna; Mexican- American War; second Mexican Empire under Maximilian I; French intervention in Mexico; political domination of Porfirio Diaz; and Mexican Revolution. Individuals mentioned include Agustin De Iturbide, Anastasio Bustamante, Antonio Lopez De Santa Anna, Ramon Gutierrez Del Mazo, Luis Quintanar, Manuel De la Sota Riva, Manuel Gomez Pedraza, Jose Antonio De Andrade, Francisco Molinos Del Campo, Melchor Muzquiz, Estevan De Munuera, Jose Maria Calderon, Juan Gonzalez Cabofranco, Joaquin De Haro Y Tamariz, Patricio Furlong, Guadalupe Victoria, Jose Ignacio Esteva, Jose Maria Tornel, Antonio De Zamacona, Felix Neccechea, Jose Maria De Guadalupe Pavon, Felipe Codallos, Isidro Reyes, Juan Mugica y Osorio, Cosme Furlong, Francisco Perez. Locations mentioned include Pueblo, Mexico City, Districto Federal, Sonora, Sinaloa, Tlaxcala and Tlapa Territories, Cuba, and Dominica. </p> 
+  </bioghist> 
+  <arrangement id="a4" encodinganalog="351$a"> 
+  	<head>Organization</head> 
+  	<p>This collection is organized into 7 series. </p>	 
+	 <list> 
+	 	<item>Series I: Late Colonial Period in Mexico,
+	 		<unitdate>1788-1820</unitdate></item>
+	 	<item>Series II: Independence - First Mexican Empire, 
+	 		<unitdate>1821-1824</unitdate></item>
+	 	<item>Series III: Early Mexican Republic,  
+	 		<unitdate>1824-1835</unitdate></item>
+	 	<item>Series IV: Santa Anna Era - Mexican American War,   
+	 		<unitdate>1836-1857</unitdate></item>
+	 	<item>Series V: Emperor Maximilian I - French Intervention, 
+	 		<unitdate>1863-1864</unitdate></item>
+	 	<item>Series VI: Porfiriato - Mexican Revolution, 
+	 		<unitdate>1907-1917</unitdate></item>
+	 	<item>Series VII: Islands under Spanish - English Control,  
+	 		<unitdate>1884-1917</unitdate></item>
+	 </list> 
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>The first and second series in this collection contain various decrees, public announcements, and orders written between 1788 and 1824. These documents summarize certain events that occurred at the end of Spanish control in Mexico, the Mexican War of Independence and the beginning of the First Mexican Empire. The decrees and orders in this collection are written by important Viceroys of New Spain, Captain Generals, Intendants, Political Chiefs of Puebla and México, and officials from the Ministry of Finance and Relations. The third and fourth series contain the bulk of the material in this collection. These documents, written between 1824 and 1857, summarize certain events that occurred during the early phase of the Mexican Republic, Santa Anna’s political domination and Mexican- American War. The decrees and orders in this collection are written by Presidents, Governors, Advisers, Prefects, Superior Court Officials, and secretaries from Puebla and Mexico. There are also decrees and orders written by officials from the Ministry of War and Navy, Finance, Foreign Relations, Interior, and Justice, and by Captain Generals and Political Chiefs from Tlaxcala and Tlapa territories in Mexico. The fifth series in this collection contain various decrees, public announcements, and orders written between 1863 and 1864.These documents summarize certain events that occurred in Mexico during the political intervention of Emperor Maximilian I and the French. The decrees and orders in this collection are written by Advisers, Secretaries, and Prefects in Puebla; as well as, some French Military Officers. The sixth series in this collection contains various decrees, public announcements, and orders written between 1907 and 1917. These documents summarize certain events that occurred in Mexico before and after the Mexican Revolution. This series contains the Constitution of 1917, Mexican State laws, and decrees in State Newspapers from Sinaloa and Sonora.  Lastly, the seventh series in this collection contains various decrees, laws, public announcements, and orders written between 1884 and 1917.  These documents follow Spanish and English colonial periods in Mexico, Cuba, and Dominica. </p> 
+  </scopecontent> 
+	<relatedmaterial><p>Puebla, Mexico records (MS 004), 1655-1898 (Bulk 1840-1898);Collection related to Maximilian, Emperor of Mexico (MS 108), 1847-1967 (Bulk 1853-1867); Broadsides from Mexico Collection (MS 339), 1676-1927 (Bulk 1820-1927)</p></relatedmaterial>	
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+			<subject encodinganalog="650" source="lcsh">Administrative Law -- Mexico.</subject> </item> 	 
+	 	<item> 
+	 		<subject encodinganalog="650" source="lcsh">Elections -- Mexico -- History.</subject> </item> 	
+	 	<item> 
+	 		<subject encodinganalog="650" source="lcsh">Generals -- Mexico.</subject> </item> 	
+	 	<item> 
+	 		<subject encodinganalog="650" source="lcsh">Governors -- Mexico.</subject> </item> 	
+	 	<item> 
+	 		<subject encodinganalog="650" source="lcsh">Mexico -- History -- Spanish Colony, 1540-1810.</subject> </item> 	
+	 	<item> 
+	 		<subject encodinganalog="650" source="lcnsh">Mexico -- History -- Wars of Independence, 1810-1821.</subject> </item> 	
+	 	<item> 
+	 		<subject encodinganalog="650" source="lcsh">Mexico -- History -- 1821-1861.</subject> </item> 	
+	 	<item> 
+	 		<subject encodinganalog="650" source="lcsh">Mexican War, 1846-1848.</subject> </item> 	
+	 	<item> 
+	 		<subject encodinganalog="650" source="lcsh">Mexico--History--European Intervention, 1861-1867.</subject> </item> 	
+	 	<item> 
+	 		<subject encodinganalog="650" source="lcsh">Mexico -- Politics and Government -- 1867-1910.</subject> </item> 	
+	 	<item> 
+	 		<subject encodinganalog="650" source="lcsh">Mexico -- History -- Revolution, 1910-1920.</subject> </item> 	
+	 	<item> 
+	 		<geogname encodinganalog="651" source="lcsh">Puebla (Mexico: State) -- Politics and Government.</geogname> </item> 	
+	 	<item> 
+	 		<geogname encodinganalog="651" source="lcsh">Sonora (Mexico: State) -- Politics and Government.</geogname> </item> 	
+	 	<item> 
+	 		<geogname encodinganalog="651" source="lcsh">Sinaloa (Mexico: State) -- Politics and Government.</geogname> </item> 	
+	 	<item> 
+	 		<geogname encodinganalog="651" source="lcsh" >Cuba--Politics and government.</geogname> </item> 
+	 	<item> 
+	 		<geogname encodinganalog="651" source="lcsh">Dominica--Politics and government.</geogname> </item>
+	 </list> 
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+			<unittitle>Series I: Late Colonial Period in Mexico, 
+				<unitdate type="inclusive" normal="1788/1820">1788-1820</unitdate></unittitle> 
+		</did> 
+	 	<arrangement>
+	 		<p>This series is divided into three subseries. The subseries are arranged chronically by political figures (Viceroys and Intendants) and the years they served. There are also various orders and public announcements arranged chronologically by year.</p></arrangement>
+	 	
+		<c02 level="subseries"> 
+			<did>
+				<unittitle>Subseries 1: Viceroys of New Spain</unittitle>
+			</did>
+			<c03 level="file">			
+		    <did> <container type="box">1</container> 
+			 <container type="folder">1</container> 
+		    	<unittitle >Miguel Joseph De Azanza</unittitle>
+		    	<unitdate type="inclusive" normal="1799/1800">1799-1800</unitdate>
+		    </did>
+			</c03>
+			<c03 level="file">
+				<did> <container type="box">1</container>
+					<container type="folder">2</container>
+					<unittitle>Felix Berenguer De Marquina,					
+					<unitdate type="inclusive" normal="1800/1802">1800-1802</unitdate></unittitle></did>
+			</c03>
+			<c03 level="file">
+				<did> <container type="box">1</container>
+					<container type="folder">3</container>
+					<unittitle>Joseph De Yturrigaray,  				
+						<unitdate type="inclusive" normal="1803/1807">1803-1807</unitdate></unittitle></did>	
+			</c03>
+			<c03 level="file">
+				<did> <container type="box">1</container>
+					<container type="folder">4</container>
+					<unittitle>Pedro Garibay,  				
+						<unitdate type="inclusive" normal="1808/1809">1808-1809</unitdate></unittitle></did>	
+			</c03>
+			<c03 level="file">
+				<did> <container type="box">1</container>
+					<container type="folder">4</container>
+					<unittitle>Francisco Xavier De Lizana,  				
+						<unitdate type="inclusive" normal="1810">1810</unitdate></unittitle></did>		
+			</c03>
+			<c03 level="file">
+				<did> <container type="box">1</container>
+					<container type="folder">4</container>
+					<unittitle>Pedro Catani, 				
+						<unitdate type="inclusive" normal="1810">1810</unitdate></unittitle></did>		
+			</c03>
+			<c03 level="file">
+				<did> <container type="box">1</container>
+					<container type="folder">5</container>
+					<unittitle>Francisco Xavier Venegas,  				
+						<unitdate type="inclusive" normal="1810/1812">1810-1812</unitdate></unittitle></did>		
+			</c03>
+			<c03 level="file">
+				<did> <container type="box">1</container>
+					<container type="folder">5</container>
+					<unittitle>Juan Ruiz De Apodaca,  				
+						<unitdate type="inclusive" normal="1819-1820">1819-1820</unitdate></unittitle></did>	
+			</c03>
+		</c02>	
+	 	<c02 level="subseries">
+	 		<did>
+	 			<unittitle>Subseries 2: Intendants of Puebla Province</unittitle>
+	 		</did>			
+			<c03 level="file">
+				<did> <container type="box">1</container>
+					<container type="folder">6</container>
+					<unittitle>Manuel De Flon,</unittitle>
+					<unitdate type="inclusive" normal="1800">1800</unitdate>
+					<unitdate type="inclusive" normal="1808">1808</unitdate>
+				</did>		
+			</c03>
+			<c03 level="file">
+				<did> <container type="box">1</container>
+					<container type="folder">6</container>
+					<unittitle>Ciriaco Del Llano,  				
+						<unitdate type="inclusive" normal="1820">1820</unitdate></unittitle></did>		
+			</c03>
+	 	</c02>	
+	 	<c02 level="subseries">
+	 		<did>
+	 			<unittitle>Subseries 3: Various Orders - Public Announcements</unittitle>
+	 		</did>	 		
+			<c03 level="file">
+				<did> <container type="box">1</container>
+					<container type="folder">6</container>
+					<unittitle> 1788, 1790, 1819-1820</unittitle></did>	
+			</c03> 
+	 	</c02>
+	 </c01>
+  	<c01 level="series" id="ser2"> 
+  		<did> 
+  			<unittitle>Series II: Independence - First Mexican Empire,
+  				<unitdate type="inclusive" normal="1821/1824">1821-1824</unitdate></unittitle> 
+  		</did>
+  		<arrangement>
+  			<p>This series is divided into four subseries. The subseries are arranged chronically by political figures (Captain Generals, Political Chiefs, and Ministers) and the years they served. There are also various public announcements and news arranged chronologically by year.</p></arrangement>
+  		
+  		<c02 level="subseries">
+  			<did>
+  				<unittitle>Subseries 1: Captain Generals - Political Chiefs of Puebla</unittitle>
+  			</did> 
+  			<c03 level="file">
+  				<did> <container type="box">2</container>
+  					<container type="folder">1-2</container>
+  					<unittitle>Carlos Garcia,   				
+  						<unitdate type="inclusive" normal="1821/1822" >1821-1822</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">2</container>
+  					<container type="folder">3</container>
+  					<unittitle>Jose Maria Moran,   				
+  						<unitdate type="inclusive" normal="1822/1823">1822-1823</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">2</container>
+  					<container type="folder">3</container>
+  					<unittitle>Jose Maria Calderon,  				
+  						<unitdate type="inclusive" normal="1823">1823</unitdate></unittitle></did>	
+  			</c03>   			 
+  		</c02>
+  		<c02 level="subseries">
+  			<did>
+  				<unittitle>Subseries 2: Various Orders - Public Announcements</unittitle>
+  			</did>   			
+  			<c03 level="file">
+  				<did> <container type="box">2</container>
+  					<container type="folder">3</container>
+  					<unittitle>Congressional Diaries</unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">2</container>
+  					<container type="folder">3</container>
+  					<unittitle>Bulletins - Puebla</unittitle></did>	
+  			</c03> 
+  		</c02>
+  		<c02 level="subseries">
+  			<did>
+  				<unittitle>Subseries 3: Captain Generals - Political Chiefs of Mexico</unittitle>
+  			</did>	
+  			<c03 level="file">
+  				<did> <container type="box">2</container>
+  					<container type="folder">4</container>
+  					<unittitle>Agustin De Iturbide,   				
+  						<unitdate type="inclusive" normal="1821" >1821</unitdate></unittitle></did>	
+  			</c03>  			
+  			<c03 level="file">
+  				<did> <container type="box">2</container>
+  					<container type="folder">4</container>
+  					<unittitle>Anastasio Bustamante,   				
+  						<unitdate type="inclusive" normal="1822">1822</unitdate></unittitle></did>	
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">2</container>
+  					<container type="folder">4</container>
+  					<unittitle>Ramon Gutierrez Del Mazo,   				
+  						<unitdate type="inclusive" normal="1821/1822">1821-1822</unitdate></unittitle></did>	
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">2</container>
+  					<container type="folder">5</container>
+  					<unittitle>Luis Quintanar,   				
+  						<unitdate type="inclusive" normal="1822">1822</unitdate></unittitle></did>	
+  			</c03> 			
+  			<c03 level="file">
+  				<did> <container type="box">2</container>
+  					<container type="folder">5</container>
+  					<unittitle>Manuel De La Sota Riva,   				
+  						<unitdate type="inclusive" normal="1822" >1822</unitdate></unittitle></did>	
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">2</container>
+  					<container type="folder">5</container>
+  					<unittitle>Manuel Gomez Pedraza,   				
+  						<unitdate type="inclusive" normal="1823">1823</unitdate></unittitle></did>	
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">2</container>
+  					<container type="folder">6-7</container>
+  					<unittitle>Jose Antonio De Andrade,   				
+  						<unitdate type="inclusive" normal="1822/1823">1822-1823</unitdate></unittitle></did>	
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">2</container>
+  					<container type="folder">8</container>
+  					<unittitle>Francisco Molinos Del Campo,   				
+  						<unitdate type="inclusive" normal="1823">1823</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">2</container>
+  					<container type="folder">8</container>
+  					<unittitle>Melchor Muzquiz,   				
+  						<unitdate type="inclusive" normal="1823/1824">1823-1824</unitdate></unittitle></did>	
+  			</c03> 
+  		</c02>
+  		<c02 level="subseries">
+  			<did>
+  				<unittitle>Subseries 4: Ministry of Finance - Relations</unittitle>
+  			</did>	  			
+  			<c03 level="file">
+  				<did> <container type="box">2</container>
+  					<container type="folder">8</container>
+  					<unittitle>Antonio De Medina,   				
+  						<unitdate type="inclusive" normal="1823">1823</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">2</container>
+  					<container type="folder">8</container>
+  					<unittitle>Lucas Alaman,   				
+  						<unitdate type="inclusive" normal="1823">1823</unitdate></unittitle></did>	
+  			</c03> 
+  		</c02>
+  	</c01>
+  	<c01 level="series" id="ser3"> 
+  		<did> 
+  			<unittitle>Series III: Early Mexican Republic, 
+  				<unitdate type="inclusive" normal="1824/1835">1824-1835</unitdate></unittitle> 
+  		</did>
+  		<arrangement>
+  			<p>This series is divided into six subseries. The subseries are arranged chronically by political figures (Governors, Secretaries, Prefects, and Ministers) and the years they served. There are also various News Bulletins, Manifestos, and Laws arranged chronologically by year.</p>
+  		</arrangement>
+  		<c02 level="subseries">
+  			<did>
+  				<unittitle>Subseries 1: Governors of Puebla</unittitle>
+  			</did>   			
+  			<c03 level="file">
+  				<did> <container type="box">3</container>
+  					<container type="folder">1</container>
+  					<unittitle>Estevan De Munuera,   				
+  						<unitdate type="inclusive" normal="1824">1824</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">3</container>
+  					<container type="folder">1</container>
+  					<unittitle>Jose Maria Calderon,   				
+  						<unitdate type="inclusive" normal="1825/1827">1825-1827</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">3</container>
+  					<container type="folder">1</container>
+  					<unittitle>Juan Gonzalez Cabofranco,   				
+  						<unitdate type="inclusive" normal="1828">1828</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">3</container>
+  					<container type="folder">1</container>
+  					<unittitle>Joaquin De Haro Y Tamariz,  				
+  						<unitdate type="inclusive" normal="1828">1828</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">3</container>
+  					<container type="folder">2</container>
+  					<unittitle>Patricio Furlong,   				
+  						<unitdate type="inclusive" normal="1829">1829</unitdate><unitdate type="inclusive" normal="1833">1833</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">3</container>
+  					<container type="folder">3-4</container>
+  					<unittitle>Juan Jose Andrade,   				
+  						<unitdate type="inclusive" normal="1830/1832">1830-1832</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">3</container>
+  					<container type="folder">5</container>
+  					<unittitle>Guadalupe Victoria,   				
+  						<unitdate type="inclusive" normal="1834">1834</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">3</container>
+  					<container type="folder">5</container>
+  					<unittitle>Manuel Rincon,   				
+  						<unitdate type="inclusive" normal="1835">1835</unitdate></unittitle></did>	
+  			</c03> 
+  		</c02>
+  		<c02 level="subseries">
+  			<did>
+  				<unittitle>Subseries 2: Governors of Mexico - Federal District</unittitle>
+  			</did>   			
+  			<c03 level="file">
+  				<did> <container type="box">4</container>
+  					<container type="folder">1</container>
+  					<unittitle>Melchor Muzquiz,   				
+  						<unitdate type="inclusive" normal="1824/1826">1824-1826</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">4</container>
+  					<container type="folder">2</container>
+  					<unittitle>Francisco Molinos Del Campo,   				
+  						<unitdate type="inclusive" normal="1826">1826</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">4</container>
+  					<container type="folder">2</container>
+  					<unittitle>Juan Manuel De Elizalde,   				
+  						<unitdate type="inclusive" normal="1826/1827">1826-1827</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">4</container>
+  					<container type="folder">2</container>
+  					<unittitle>Jose Ignacio Esteva,   				
+  						<unitdate type="inclusive" normal="1827">1827</unitdate><unitdate type="inclusive" normal="1830">1830</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">4</container>
+  					<container type="folder">3</container>
+  					<unittitle>Jose Maria Tornel,   				
+  						<unitdate type="inclusive" normal="1828/1829">1828-1829</unitdate></unittitle></did>	
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">4</container>
+  					<container type="folder">4</container>
+  					<unittitle>Miguel Cervantes,   				
+  						<unitdate type="inclusive" normal="1830">1830</unitdate><unitdate type="inclusive" normal="1832">1832</unitdate></unittitle></did>	
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">4</container>
+  					<container type="folder">4</container>
+  					<unittitle>Ignacio Martinez,   				
+  						<unitdate type="inclusive" normal="1832/1833">1832-1833</unitdate></unittitle></did>	
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">4</container>
+  					<container type="folder">4</container>
+  					<unittitle>Jose Joaquin De Herrera,   				
+  						<unitdate type="inclusive" normal="1833">1833</unitdate></unittitle></did>	
+  			</c03>
+  		</c02>
+  		<c02 level="subseries">
+  			<did>
+  				<unittitle>Subseries 3: Secretaries - Prefects in Puebla</unittitle>
+  			</did>   			
+  			<c03 level="file">
+  				<did> <container type="box">4</container>
+  					<container type="folder">5</container>
+  					<unittitle>Antonio De Zamacona,   				
+  						<unitdate type="inclusive" normal="1830">1830</unitdate></unittitle></did>	
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">4</container>
+  					<container type="folder">5</container>
+  					<unittitle>Felix Neccechea,   				
+  						<unitdate type="inclusive" normal="1830">1830</unitdate></unittitle></did>	
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">4</container>
+  					<container type="folder">5</container>
+  					<unittitle>Francisco Maria Tamayo,   				
+  						<unitdate type="inclusive" normal="1830">1830</unitdate></unittitle></did>	
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">4</container>
+  					<container type="folder">5</container>
+  					<unittitle>Jose Maria De Guadalupe Pavon,   				
+  						<unitdate type="inclusive" normal="1832/1833">1832-1833</unitdate></unittitle></did>	
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">4</container>
+  					<container type="folder">5</container>
+  					<unittitle>Jose Maria Fernandez,   				
+  						<unitdate type="inclusive" normal="1830">1830</unitdate><unitdate type="inclusive" normal="1835" >1835</unitdate></unittitle></did>	
+  			</c03>
+  		</c02>
+  		<c02 level="subseries">
+  			<did>
+  				<unittitle>Subseries 4: National News Bulletins - Manifestos</unittitle>
+  			</did>   			
+  			<c03 level="file">
+  				<did> <container type="box">4</container>
+  					<container type="folder">6</container>
+  					<unittitle>Circulated in Puebla,   				
+  						<unitdate type="inclusive" normal="1827/1828">1827-1828</unitdate><unitdate type="inclusive" normal="1830">1830</unitdate></unittitle></did>	
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">4</container>
+  					<container type="folder">6</container>
+  					<unittitle>Circulated in Mexico,   				
+  						<unitdate type="inclusive" normal="1826">1826</unitdate></unittitle></did>	
+  			</c03>
+  		</c02>
+  		<c02 level="subseries">
+  			<did>
+  				<unittitle>Subseries 5: National/State Laws - Government Proceedings</unittitle>
+  			</did> 
+  			<c03 level="file">
+  				<did> <container type="box">4</container>
+  					<container type="folder">6</container>
+  					<unittitle>Circulated in Puebla,   				
+  						<unitdate type="inclusive" normal="1826">1826</unitdate><unitdate type="inclusive" normal="1830">1830</unitdate></unittitle></did>	
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">4</container>
+  					<container type="folder">6</container>
+  					<unittitle>Circulated in Mexico,   				
+  						<unitdate type="inclusive" normal="1826">1826</unitdate></unittitle></did>	
+  			</c03>
+  		</c02>
+  		<c02 level="subseries">
+  			<did>
+  				<unittitle>Subseries 6: Ministry of Finance - Foreign Relations</unittitle>
+  			</did> 			
+  			<c03 level="file">
+  				<did> <container type="box">4</container>
+  					<container type="folder">6</container>
+  					<unittitle>Jose Ignacio Esteva,   				
+  						<unitdate type="inclusive" normal="1825">1825</unitdate></unittitle></did>	
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">4</container>
+  					<container type="folder">6</container>
+  					<unittitle>Jose Ignacio Pavon,   				
+  						<unitdate type="inclusive" normal="1827">1827</unitdate></unittitle></did>	
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">4</container>
+  					<container type="folder">6</container>
+  					<unittitle>Jose Maria Ortiz Monsaterio,   				
+  						<unitdate type="inclusive" normal="1832">1832</unitdate></unittitle></did>	
+  			</c03>
+  		</c02>
+  	</c01>
+  	<c01 level="series" id="ser4"> 
+  		<did> 
+  			<unittitle>Series IV: Santa Anna Era – Mexican American War,
+  				<unitdate type="inclusive" normal="1836/1857">1836-1857</unitdate></unittitle> 
+  		</did>
+  		<arrangement>
+  			<p>This series is divided into thirteen subseries. The subseries are arranged chronically by political figures (Generals-Presidents, Governors, Advisers, Prefects, Superior Court Officials, Secretaries, Captain Generals, Political Chiefs and Ministers) and the years they served. There are also various News Bulletins, Manifestos, and Laws arranged chronologically by year.</p></arrangement>
+  		<c02 level="subseries">
+  			<did>
+  				<unittitle>Subseries 1: Generals-Presidents of Mexico</unittitle>
+  			</did>   			
+  			<c03 level="file">
+  				<did> <container type="box">5</container>
+  					<container type="folder">1</container>
+  					<unittitle>Anastasio Bustamante,   				
+  						<unitdate type="inclusive" normal="1841">1841</unitdate></unittitle></did>	
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">5</container>
+  					<container type="folder">1</container>
+  					<unittitle>Antonio Lopez De Santa Anna,   				
+  						<unitdate type="inclusive" normal="1842">1842</unitdate><unitdate type="inclusive" normal="1846">1846</unitdate><unitdate type="inclusive" normal="1853">1853</unitdate></unittitle></did>	
+  			</c03>
+  		</c02>
+  		<c02 level="subseries">
+  			<did>
+  				<unittitle>Subseries 2: Governors of Puebla</unittitle>
+  			</did> 	
+  			<c03 level="file">
+  				<did> <container type="box">5</container>
+  					<container type="folder">1</container>
+  					<unittitle>Jose Antonio Mozo,   				
+  						<unitdate type="inclusive" normal="1836">1836</unitdate></unittitle></did>	
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">5</container>
+  					<container type="folder">2</container>
+  					<unittitle>Felipe Codallos,   				
+  						<unitdate type="inclusive" normal="1837/1839">1837-1839</unitdate><unitdate type="inclusive" normal="1841">1841</unitdate></unittitle></did>	
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">5</container>
+  					<container type="folder">3</container>
+  					<unittitle>Joaquin De Haro Y Tamariz,   				
+  						<unitdate type="inclusive" normal="1841">1841</unitdate></unittitle></did>	
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">5</container>
+  					<container type="folder">4-5</container>
+  					<unittitle>Juan Gonzalez Cabofranco,   				
+  						<unitdate type="inclusive" normal="1837/1839">1837-1839</unitdate><unitdate type="inclusive" normal="1844/1845">1844-1845</unitdate></unittitle></did>	
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">6</container>
+  					<container type="folder">1</container>
+  					<unittitle>Valentin Canalizo,   				
+  						<unitdate type="inclusive" normal="1842">1842</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">6</container>
+  					<container type="folder">2</container>
+  					<unittitle>Jose Joaquin Reyes,   				
+  						<unitdate type="inclusive" normal="1843">1843</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">6</container>
+  					<container type="folder">3-4</container>
+  					<unittitle>Isidro Reyes,   				
+  						<unitdate type="inclusive" normal="1842/1844">1842-1844</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">6</container>
+  					<container type="folder">5</container>
+  					<unittitle>Domingo Ibarra,   				
+  						<unitdate type="inclusive" normal="1846/1847">1846-1847</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">7</container>
+  					<container type="folder">1-2</container>
+  					<unittitle>Juan Mugica y Osorio,   				
+  						<unitdate type="inclusive" normal="1848/1853">1848-1853</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">7</container>
+  					<container type="folder">3</container>
+  					<unittitle>Cosme Furlong,   				
+  						<unitdate type="inclusive" normal="1853">1853</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">7</container>
+  					<container type="folder">4</container>
+  					<unittitle>Jose Maria Gonzalez Mendoza,   				
+  						<unitdate type="inclusive" normal="1853">1853</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">7</container>
+  					<container type="folder">4</container>
+  					<unittitle>Francisco Ibarra,   				
+  						<unitdate type="inclusive" normal="1855">1855</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">7</container>
+  					<container type="folder">4</container>
+  					<unittitle>Juan Traconis,   				
+  						<unitdate type="inclusive" normal="1856">1856</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file"> 
+  				<did> <container type="box">7</container>
+  					<container type="folder">4</container>
+  					<unittitle>Jose Garcia Conde,   				
+  						<unitdate type="inclusive" normal="1857">1857</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">8-9</container>
+  					<container type="folder"> </container>
+  					<unittitle>Francisco Perez,   				
+  						<unitdate type="inclusive" normal="1853/1855">1853-1855</unitdate></unittitle></did>	
+  			</c03> 
+  		</c02>
+  		<c02 level="subseries">
+  			<did>
+  				<unittitle>Subseries 3: Advisers - Prefects in Puebla</unittitle>
+  			</did> 	
+  			<c03 level="file">
+  				<did> <container type="box">10</container>
+  					<container type="folder">1</container>
+  					<unittitle>Rafael Espinosa,   				
+  						<unitdate type="inclusive" normal="1839">1839</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">10</container>
+  					<container type="folder">1</container>
+  					<unittitle>Jose Mariano Castillero,    				
+  						<unitdate type="inclusive" normal="1841">1841</unitdate></unittitle></did>	
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">10</container>
+  					<container type="folder">1</container>
+  					<unittitle>Jose Juan Llufriu,    				
+  						<unitdate type="inclusive" normal="1843/1844">1843-1844</unitdate></unittitle></did>	
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">10</container>
+  					<container type="folder">1</container>
+  					<unittitle>Francisco Calderon,    				
+  						<unitdate type="inclusive" normal="1844">1844</unitdate></unittitle></did>	
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">10</container>
+  					<container type="folder">1</container>
+  					<unittitle>Miguel Tagle,     				
+  						<unitdate type="inclusive" normal="1845">1845</unitdate></unittitle></did>	
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">10</container>
+  					<container type="folder">1</container>
+  					<unittitle>Gabriel Rodriguez,     				
+  						<unitdate type="inclusive" normal="1846">1846</unitdate></unittitle></did>	
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">10</container>
+  					<container type="folder">1</container>
+  					<unittitle>Manuel Joaquin Perez Salazar,     				
+  						<unitdate type="inclusive" normal="1848">1848</unitdate></unittitle></did>	
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">10</container>
+  					<container type="folder">1</container>
+  					<unittitle>Jose Ildefonso Amable,     				
+  						<unitdate type="inclusive" normal="1848">1848</unitdate></unittitle></did>	
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">10</container>
+  					<container type="folder">2</container>
+  					<unittitle>Jose Maria De Guadalupe Pavon,   				
+  						<unitdate type="inclusive" normal="1848/1849">1848-1849</unitdate><unitdate type="inclusive" normal="1853">1853</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">10</container>
+  					<container type="folder">2</container>
+  					<unittitle>Jose Maria Marin,   				
+  						<unitdate type="inclusive" normal="1849">1849</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">10</container>
+  					<container type="folder">2</container>
+  					<unittitle>Miguel Maria De La Rosa,   				
+  						<unitdate type="inclusive" normal="1851">1851</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">10</container>
+  					<container type="folder">2</container>
+  					<unittitle>Manuel Ignacio Loaiza,   				
+  						<unitdate type="inclusive" normal="1853">1853</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">10</container>
+  					<container type="folder">2</container>
+  					<unittitle>Jose Rafael Isunza,   				
+  						<unitdate type="inclusive" normal="1853" >1853</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">10</container>
+  					<container type="folder">3</container>
+  					<unittitle>Jose Maria Gonzalez Mendoza,   				
+  						<unitdate type="inclusive" normal="1853/1855" >1853-1855</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">10</container>
+  					<container type="folder">3</container>
+  					<unittitle>Luis De La Vega,   				
+  						<unitdate type="inclusive" normal="1854/1855">1854-1855</unitdate></unittitle></did>	
+  			</c03> 
+  		</c02>
+  		<c02 level="subseries">
+  			<did>
+  				<unittitle>Subseries 4: Superior Court Officials in Puebla</unittitle>
+  			</did> 
+  			<c03 level="file">
+  				<did> <container type="box">10</container>
+  					<container type="folder">4</container>
+  					<unittitle>Juan Ybarra,   				
+  						<unitdate type="inclusive" normal="1841">1841</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">10</container>
+  					<container type="folder">4</container>
+  					<unittitle>Juan Pedro Necoechea,   				
+  						<unitdate type="inclusive" normal="1849/1851">1849-1851</unitdate><unitdate type="inclusive" normal="1855">1855</unitdate></unittitle></did>	
+  			</c03> 
+  		</c02>
+  		<c02 level="subseries">
+  			<did>
+  				<unittitle>Subseries 5: Secretaries of Puebla</unittitle>
+  			</did>	
+  			<c03 level="file">
+  				<did> <container type="box">10</container>
+  					<container type="folder">5</container>
+  					<unittitle>Jose Maria Fernandez,   				
+  						<unitdate type="inclusive" normal="1837">1837</unitdate><unitdate type="inclusive" normal="1841">1841</unitdate><unitdate type="inclusive" normal="1849">1849</unitdate><unitdate type="inclusive" normal="1853">1853</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">10</container>
+  					<container type="folder">5</container>
+  					<unittitle>Pedro De Azuce Y Zalvide,   				
+  						<unitdate type="inclusive" normal="1839">1839</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">10</container>
+  					<container type="folder">5</container>
+  					<unittitle>Pedro Jose De Aguirre,   				
+  						<unitdate type="inclusive" normal="1841">1841</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">10</container>
+  					<container type="folder">5</container>
+  					<unittitle>Manuel Zetina Abad,   				
+  						<unitdate type="inclusive" normal="1846">1846</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">10</container>
+  					<container type="folder">5</container>
+  					<unittitle>Jose Octaviano De La Rosa,   				
+  						<unitdate type="inclusive" normal="1853">1853</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">10</container>
+  					<container type="folder">5</container>
+  					<unittitle>Sebastian Lesina,   				
+  						<unitdate type="inclusive" normal="1853">1853</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">10</container>
+  					<container type="folder">6</container>
+  					<unittitle>Joaquin Maria De Uriarte,  				
+  						<unitdate type="inclusive" normal="1853/1855">1853-1855</unitdate></unittitle></did>	
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">10</container>
+  					<container type="folder">6</container>
+  					<unittitle>Pedro Torres Y Larrainzar,   				
+  						<unitdate type="inclusive" normal="1853/1855">1853-1855</unitdate></unittitle></did>	
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">10</container>
+  					<container type="folder">6</container>
+  					<unittitle>Jose Antonio Perez Marin,   				
+  						<unitdate type="inclusive" normal="1854/1855">1854-1855</unitdate></unittitle></did>	
+  			</c03>
+  		</c02>
+  		<c02 level="subseries">
+  			<did>
+  				<unittitle>Subseries 6: National News Bulletins - Manifestos</unittitle>
+  			</did>	
+  			<c03 level="file">
+  				<did> <container type="box">10</container>
+  					<container type="folder">7</container>
+  					<unittitle>Circulated in Puebla,   				
+  						<unitdate type="inclusive" normal="1841">1841</unitdate><unitdate type="inclusive" normal="1843">1843</unitdate><unitdate type="inclusive" normal="1846">1846</unitdate><unitdate type="inclusive" normal="1849">1849</unitdate><unitdate type="inclusive" normal="1851">1851</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">10</container>
+  					<container type="folder">7</container>
+  					<unittitle>Circulated in Mexico,   				
+  						<unitdate type="inclusive" normal="1835">1835</unitdate><unitdate type="inclusive" normal="1838/1839">1838-1839</unitdate><unitdate type="inclusive" normal="1841/1842">1841-1842</unitdate></unittitle></did>	
+  			</c03> 
+  		</c02>
+  		<c02 level="subseries">
+  			<did>
+  				<unittitle>Subseries 7: National/State Laws - Government Proceedings</unittitle>
+  			</did>
+  			<c03 level="file">
+  				<did> <container type="box">10</container>
+  					<container type="folder">8</container>
+  					<unittitle>Circulated in Puebla,   				
+  						<unitdate type="inclusive" normal="1837">1837</unitdate><unitdate type="inclusive" normal="1841">1841</unitdate><unitdate type="inclusive" normal="1846">1846</unitdate><unitdate type="inclusive" normal="1851">1851</unitdate><unitdate type="inclusive" normal="1853">1853</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">10</container>
+  					<container type="folder">8</container>
+  					<unittitle>Circulated in Mexico,   				
+  						<unitdate type="inclusive" normal="1838" >1838</unitdate><unitdate type="inclusive" normal="1841">1841</unitdate></unittitle></did>	
+  			</c03> 
+  		</c02>
+  		<c02 level="subseries">
+  			<did>
+  				<unittitle>Subseries 8: Ministry of War - Navy</unittitle>
+  			</did>
+  			<c03 level="file">
+  				<did> <container type="box">11</container>
+  					<container type="folder">1</container>
+  					<unittitle>Jose Moran,   				
+  						<unitdate type="inclusive" normal="1838" >1838</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">11</container>
+  					<container type="folder">1</container>
+  					<unittitle>Jose Maria Tornel,   				
+  						<unitdate type="inclusive" normal="1838/1839">1838-1839</unitdate><unitdate type="inclusive" normal="1841">1841</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">11</container>
+  					<container type="folder">1</container>
+  					<unittitle>Juan Nepomuceno Almonte,   				
+  						<unitdate type="inclusive" normal="1841">1841</unitdate></unittitle></did>	
+  			</c03> 
+  		</c02>
+  		<c02 level="subseries">
+  			<did>
+  				<unittitle>Subseries 9: Ministry of Finance</unittitle>
+  			</did>
+  			<c03 level="file">
+  				<did> <container type="box">11</container>
+  					<container type="folder">2</container>
+  					<unittitle>Jose Maria De Bocanegra,   				
+  						<unitdate type="inclusive" normal="1838">1838</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">11</container>
+  					<container type="folder">2</container>
+  					<unittitle>Manuel Eduardo De Gorostiza,   				
+  						<unitdate type="inclusive" normal="1838">1838</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">11</container>
+  					<container type="folder">2</container>
+  					<unittitle>Pedro Jose De Echeverría,   				
+  						<unitdate type="inclusive" normal="1838">1838</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">11</container>
+  					<container type="folder">2</container>
+  					<unittitle>Jose Gomez De La Cortina,   				
+  						<unitdate type="inclusive" normal="1839">1839</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">11</container>
+  					<container type="folder">3</container>
+  					<unittitle>Santiago Sartorio,   				
+  						<unitdate type="inclusive" normal="1841">1841</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">11</container>
+  					<container type="folder">3</container>
+  					<unittitle>Manuel Maria Canseco,   				
+  						<unitdate type="inclusive" normal="1841">1841</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">11</container>
+  					<container type="folder">3</container>
+  					<unittitle>Domingo Dufoo,   				
+  						<unitdate type="inclusive" normal="1841">1841</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">11</container>
+  					<container type="folder">3</container>
+  					<unittitle>Ignacio Trigueros,   				
+  						<unitdate type="inclusive" normal="1841/1843">1841-1843</unitdate></unittitle></did>	
+  			</c03> 
+  		</c02>
+  		<c02 level="subseries">
+  			<did>
+  				<unittitle>Subseries 10: Ministry of Interior</unittitle>
+  			</did>
+  			<c03 level="file">
+  				<did> <container type="box">11</container>
+  					<container type="folder">4</container>
+  					<unittitle>Jose Antonio Romero,   				
+  						<unitdate type="inclusive" normal="1838">1838</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">11</container>
+  					<container type="folder">4</container>
+  					<unittitle>Jose Joaquin Pesado,   				
+  						<unitdate type="inclusive" normal="1838">1838</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">11</container>
+  					<container type="folder">4</container>
+  					<unittitle>J. De Iturbide,   				
+  						<unitdate type="inclusive" normal="1838">1838</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">11</container>
+  					<container type="folder">4</container>
+  					<unittitle>Manuel Eduardo De Gorostiza,   				
+  						<unitdate type="inclusive" normal="1838">1838</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">11</container>
+  					<container type="folder">4</container>
+  					<unittitle>Jose Maria Jimenez,   				
+  						<unitdate type="inclusive" normal="1841" >1841</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">11</container>
+  					<container type="folder">4</container>
+  					<unittitle>Teodosio Lares,   				
+  						<unitdate type="inclusive" normal="1853">1853</unitdate></unittitle></did>	
+  			</c03> 
+  		</c02>
+  		<c02 level="subseries">
+  			<did>
+  				<unittitle>Subseries 11: Ministry of Justice</unittitle>
+  			</did>
+  			<c03 level="file">
+  				<did> <container type="box">11</container>
+  					<container type="folder">5</container>
+  					<unittitle>Crispiniano Del Castillo,  				
+  						<unitdate type="inclusive" normal="1841">1841</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">11</container>
+  					<container type="folder">5</container>
+  					<unittitle>Manuel Baranda,   				
+  						<unitdate type="inclusive" normal="1843">1843</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">11</container>
+  					<container type="folder">5</container>
+  					<unittitle>Teodosio Lares,   				
+  						<unitdate type="inclusive" normal="1853/1855">1853-1855</unitdate></unittitle></did>	
+  			</c03> 
+  		</c02>
+  		<c02 level="subseries">
+  			<did>
+  				<unittitle>Subseries 12: Captain Generals - Political Chiefs of Tlaxcala/Tlapa Territories</unittitle>
+  			</did>
+  			<c03 level="file">
+  				<did> <container type="box">11</container>
+  					<container type="folder">6</container>
+  					<unittitle>Jose Ignacio De Ormaechea,   				
+  						<unitdate type="inclusive" normal="1849">1849</unitdate><unitdate type="inclusive" normal="1851">1851</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">11</container>
+  					<container type="folder">6</container>
+  					<unittitle>Jose Miguel Sanchez De La Vega,   				
+  						<unitdate type="inclusive" normal="1854">1854</unitdate></unittitle></did>	
+  			</c03> 
+  		</c02>
+  		<c02 level="subseries">
+  			<did>
+  				<unittitle>Subseries 13: Clergy Manifestos</unittitle>
+  			</did>
+  			<c03 level="file">
+  				<did> <container type="box">11</container>
+  					<container type="folder">6</container>
+  					<unittitle>Clemente De Jesus Munguia- Bishop of Michoacan,   				
+  						<unitdate type="inclusive" normal="1855">1855</unitdate></unittitle></did>	
+  			</c03> 
+  		</c02>
+  	</c01>
+  	<c01 level="series" id="ser5"> 
+  		<did> 
+  			<unittitle>Series V: Emperor Maximilian I - French Intervention, 
+  				<unitdate type="inclusive" normal="1863/1864">1863-1864</unitdate></unittitle> 
+  		</did>
+  		<arrangement>
+  			<p>This series is divided into three subseries. The subseries are arranged chronically by political figures (Advisers, Prefects, Secretaries, and French Military Officers) and the years they served.</p>
+  			</arrangement>
+  		<c02 level="subseries">
+  			<did>
+  				<unittitle>Subseries 1: Advisers - Prefects in Puebla</unittitle>
+  			</did>   			
+  			<c03 level="file">
+  				<did> <container type="box">12</container>
+  					<container type="folder">1</container>
+  					<unittitle>Fernando Pardo,   				
+  						<unitdate type="inclusive" normal="1863/1864">1863-1864</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">12</container>
+  					<container type="folder">1</container>
+  					<unittitle>Juan De Uriarte,   				
+  						<unitdate type="inclusive" normal="1863/1864">1863-1864</unitdate></unittitle></did>	
+  			</c03> 
+  		</c02>
+  		<c02 level="subseries">
+  			<did>
+  				<unittitle>Subseries 2: Secretaries of Puebla</unittitle>
+  			</did> 		
+  			<c03 level="file">
+  				<did> <container type="box">12</container>
+  					<container type="folder">2</container>
+  					<unittitle>Manuel Marchena,   				
+  						<unitdate type="inclusive" normal="1863/1864">1863-1864</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">12</container>
+  					<container type="folder">2</container>
+  					<unittitle>Francisco Daza,  				
+  						<unitdate type="inclusive" normal="1863/1864">1863-1864</unitdate></unittitle></did>	
+  			</c03> 
+  		</c02>
+  		<c02 level="subseries">
+  			<did>
+  				<unittitle>Subseries 3: French Military Officers</unittitle>
+  			</did> 
+  			<c03 level="file">
+  				<did> <container type="box">12</container>
+  					<container type="folder">2</container>
+  					<unittitle>Colonel Brincourt,   				
+  						<unitdate type="inclusive" normal="1863">1863</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">12</container>
+  					<container type="folder">2</container>
+  					<unittitle>General Forey,   				
+  						<unitdate type="inclusive" normal="1863">1863</unitdate></unittitle></did>	
+  			</c03> 
+  		</c02>
+  	</c01>
+  	<c01 level="series" id="ser6"> 
+  		<did> 
+  			<unittitle>Series VI: Porfiriato - Mexican Revolution,  
+  				<unitdate type="inclusive" normal="1907/1917">1907-1917</unitdate></unittitle> 
+  		</did>
+  		<arrangement>
+  			<p>This series is divided into two subseries. These subseries contain Newspapers, Laws and a Constitution that are arranged chronologically by year.</p>
+  		</arrangement>
+  		<c02 level="subseries">
+  			<did>
+  				<unittitle>Subseries 1: Constitution - State Laws</unittitle>
+  			</did>  
+  			<c03 level="file">
+  				<did> <container type="box">12</container>
+  					<container type="folder">2</container>
+  					<unittitle>Constitution of 1917- Venustiano Carranza</unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">12</container>
+  					<container type="folder">2</container>
+  					<unittitle>Sonora,   				
+  						<unitdate type="inclusive" normal="1907">1907</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">12</container>
+  					<container type="folder">2</container>
+  					<unittitle>Sinaloa,   				
+  						<unitdate type="inclusive" normal="1909">1909</unitdate></unittitle></did>	
+  			</c03> 
+  		</c02>
+  		<c02 level="subseries">
+  			<did>
+  				<unittitle>Subseries 2: Decrees in State Newspapers</unittitle>
+  			</did> 	
+  			<c03 level="file">
+  				<did> <container type="box">12</container>
+  					<container type="folder">3-4</container>
+  					<unittitle>Sonora,   				
+  						<unitdate type="inclusive" normal="July/Dec 1912">July- Dec 1912</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">13</container>
+  					<container type="folder">1-2</container>
+  					<unittitle>Sonora,    				
+  						<unitdate type="inclusive" normal="Jan/Oct 1915" >Jan- Oct 1915</unitdate></unittitle></did>	
+  			</c03> 
+  		</c02>
+  	</c01>
+  	<c01 level="series" id="ser7"> 
+  		<did> 
+  			<unittitle>Series VII: Islands under Spanish - English Control, 
+  				<unitdate type="inclusive" normal="1884/1917">1884-1917</unitdate></unittitle> 
+  		</did>
+  		<arrangement>
+  			<p>This series is divided into two subseries and arranged chronologically by year.</p></arrangement>
+  		
+  		<c02 level="subseries">
+  			<did>
+  				<unittitle>Subseries 1: Cuba- Laws</unittitle>
+  			</did>    		
+  			<c03 level="file">
+  				<did> <container type="box">13</container>
+  					<container type="folder">3</container>
+  					<unittitle>Mining Legislation,   				
+  						<unitdate type="inclusive" normal="1884">1884</unitdate></unittitle></did>	
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">13</container>
+  					<container type="folder">3</container>
+  					<unittitle>Licensing Regulations,   				
+  						<unitdate type="inclusive" normal="1886">1886</unitdate></unittitle></did>	
+  			</c03>   		
+  		</c02>
+  		<c02 level="subseries">
+  			<did>
+  				<unittitle>Subseries 2: Dominica-Governors - Legislative Council</unittitle>
+  			</did> 		
+  			<c03 level="file">
+  				<did> <container type="box">13</container>
+  					<container type="folder">3</container>
+  					<unittitle>H. Hesketh Bell,   				
+  						<unitdate type="inclusive" normal="1914/1915">1914-1915</unitdate></unittitle></did>	
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">13</container>
+  					<container type="folder">3</container>
+  					<unittitle>Arthur Mahaffy,   				
+  						<unitdate type="inclusive" normal="1916">1916</unitdate></unittitle></did>	
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">13</container>
+  					<container type="folder">3</container>
+  					<unittitle>T.A.V. Best,   				
+  						<unitdate type="inclusive" normal="1915/1917">1915-1917</unitdate></unittitle></did>	
+  			</c03>  			
+	 	</c02>
+	 </c01>  		
+  </dsc> 
+</archdesc></ead>

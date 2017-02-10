@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead>
+   <eadheader langencoding="ISO_639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+      <eadid countrycode="us" mainagencycode="AzU" encodinganalog="identifier" publicid="-//University of Arizona::University
+         Libraries::Department of Archives and Special Collections//text(us::AzU:://EN">UAMS544Spanish.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper encodinganalog="title">Registros de La Familia Lizárraga,
+               <date encodinganalog="date" era="ce" calendar="gregorian" normal="1849/1944">1849-1944</date>
+            </titleproper>
+            <titleproper type="filing" altrender="nodisplay">Registros de La Familia Lizárraga,
+            </titleproper>
+            <author encodinganalog="creator" audience="internal">Processed by Hannivett Nabahe.</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher encodinganalog="publisher">University of Arizona Libraries, Special Collections</publisher>
+            <address>
+               <addressline>PO Box 210055</addressline>
+               <addressline>Tucson, AZ 85721-0055</addressline>
+               <addressline>Phone: 520-621-6423</addressline>
+               <addressline>Fax: 520-621-9733</addressline>
+               <addressline>URL:http://speccoll.library.arizona.edu</addressline>
+               <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+            <date encodinganalog="date" era="ce" calendar="gregorian" normal="2015">2015</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <langusage>Finding guide encoded in <language encodinganalog="language" langcode="spa" scriptcode="latn">Spanish.</language></langusage>
+         <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc>
+   </eadheader>
+   <frontmatter>
+      <titlepage>
+         <titleproper encodinganalog="245$a">Registros de La Familia Lizárraga
+            <date normal="1849/1944" calendar="gregorian" era="ce">1849-1944</date>
+         </titleproper>
+         <num>MS 544</num>
+         <publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections.</publisher>
+         <p>© 2015 Arizona Board of Regents.  All rights reserved.</p>
+      </titlepage>
+   </frontmatter>
+   <archdesc level="collection" relatedencoding="marc21">
+      <did>
+         <head>Visi&#243;n General de la Colecci&#243;n</head>
+         <unitid encodinganalog="99" countrycode="us" repositorycode="AzU" label="C&#243;digo de Referencia:">MS 544</unitid>
+         <origination label="Creator"><corpname encodinganalog="110" rules="aacr2" role="creator">Familia Lizárraga</corpname></origination>
+         <unittitle encodinganalog="245$a" label="T&#237;tulo:">Registros de La Familia Lizárraga
+            <unitdate type="inclusive" normal="1849/1949" encodinganalog="245$f" label="Fecha:">1849-1944</unitdate></unittitle>
+         <physdesc label="Volumen y Soporte:">
+            <extent encodinganalog="300$a">1 Cajas</extent>
+            <extent encodinganalog="300$a">0.5 (Pies Lineales)</extent>
+         </physdesc>
+         <abstract encodinganalog="520" label="Res&#250;men:">Esta colección de documentos legales perteneció a la familia Lizárraga de Pitiquito, Sonora (México).An <extref linktype="simple" href="http://www.azarchivesonline.org/xtf/view?docId=ead/uoa/UAMS544.xml" actuate="onload" show="new" title="English Language"></extref> version of thie finding aid is available.</abstract>
+         <langmaterial label="Lengua:">Español</langmaterial>
+         <repository label="Dep&#243;sito:">
+            <corpname encodinganalog="852$a">University of Arizona Libraries, Special Collections</corpname>
+            <address>
+               <addressline>University of Arizona Libraries, Special Collections</addressline>
+               <addressline>PO Box 210055</addressline>
+               <addressline>Tucson, AZ 85721-0055</addressline>
+               <addressline>Phone: 520-621-6423</addressline>
+               <addressline>Fax: 520-621-9733</addressline>
+               <addressline>URL:http://speccoll.library.arizona.edu</addressline>
+               <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+      </did>
+         <accessrestrict encodinganalog="506">
+            <head>Restricciones de Acceso</head>
+            <p>No hay restricciones de accesso.</p>
+         </accessrestrict>
+         <userestrict encodinganalog="540">
+            <head>Derechos de Autor</head>
+            <p>El Arizona Board of Regents (el Consejo de Administraci&#243;n de la Educaci&#243;n Superior del Estado de Arizona) reserva los derechos sobre esta colecci&#243;n en nombre del Departamento de Colecciones Especiales de la Universidad de Arizona. La publicaci&#243;n, la exposici&#243;n o la distribuci&#243;n de cualquier informaci&#243;n proveniente de esta colecci&#243;n requiere el permiso por escrito del supervisor del Departmento de Archivos y Colecciones Especiales.</p>
+         </userestrict>
+         <prefercite encodinganalog="524">
+            <head>Cita Bibliogr&#225;fica</head>
+            <p>Registros de La Familia Lizárraga, MS 544. University of Arizona Libraries, Special Collections.</p>
+         </prefercite>
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Hannivett Nabahe.</p>
+      </processinfo>
+     
+      <bioghist encodinganalog="545">
+         <head>Nota Historica</head>
+         <p>La Familia Lizárraga mantuvo un lote de tierra en Pitiquito, Sonora (México). Miembros de la familia mencionados en los documentos son Francisco, Felipa, Manuel, Rafael, Sixto y Trinidad. </p>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Alcance y Contenido</head>
+         <p>Documentos, 1849-1944: Esta colección consiste de documentos legales en español, relacionados con un lote de tierra (milpa) localizado en Pitiquito, Sonora (México). La colección se le fue encomendada a Adalberto Guerrero, Decano Asistente de Asuntos Estudiantiles de la Universidad de Arizona, a principio de los años 1970s por su estudiante, Gloria Robles.</p>
+      </scopecontent>
+      <relatedmaterial>
+         <head>Related Material</head>
+         <p>An <extref linktype="simple" href="http://www.azarchivesonline.org/xtf/view?docId=ead/uoa/UAMS544.xml" actuate="onload" show="new" title="English Language"></extref> version of this finding aid is available.</p>
+      </relatedmaterial>
+      <controlaccess>
+         <head>Puntos de Acceso</head>
+         <list type="simple">
+            <item><persname encodinganalog="600" >Lizárraga, Francisco</persname></item>
+            <item><persname encodinganalog="600" >Lizárraga, Felipa</persname></item>
+            <item><persname encodinganalog="600" >Lizárraga, Manuel</persname></item>
+            <item><persname encodinganalog="600" >Lizárraga, Rafael</persname></item>
+            <item><persname encodinganalog="600" >Lizárraga, Sixto</persname></item>
+            <item><persname encodinganalog="600" >Lizárraga, Trinidad</persname></item>
+            <item><geogname encodinganalog="651" source="lcsh">Pitiquito, Sonora (Mexico)</geogname></item>
+            <item><subject encodinganalog="650">Land Titles</subject></item>
+         </list>
+      </controlaccess>
+      <dsc type="combined">
+         <head>Lista de Contenidos</head>
+         <c01 level="file"> 
+            <did> 
+               <container type="box">1</container> 
+               <container type="folder">1</container> 
+               <unittitle>Documentos de Propiedad de Terreno,</unittitle>
+               <unitdate>1848-1857</unitdate>
+            </did> 	
+         </c01> 
+         <c01 level="file"> 
+            <did> 
+               <container type="box">1</container> 
+               <container type="folder">2</container> 
+               <unittitle>Documentos de Propiedad de Terreno, </unittitle>
+               <unitdate>1863-1875</unitdate>
+            </did> 	
+         </c01> 
+         <c01 level="file"> 
+            <did> 
+               <container type="box">1</container> 
+               <container type="folder">3</container> 
+               <unittitle>Documentos de Propiedad de Terreno, </unittitle>
+               <unitdate>1880-1887</unitdate>
+            </did> 	
+         </c01> 
+         <c01 level="file"> 
+            <did> 
+               <container type="box">1</container> 
+               <container type="folder">4</container> 
+               <unittitle>Documentos de Propiedad de Terreno, </unittitle>
+               <unitdate>1903-1904</unitdate>
+            </did> 	
+         </c01> 
+         <c01 level="file"> 
+            <did> 
+               <container type="box">1</container> 
+               <container type="folder">5</container> 
+               <unittitle>Documentos de Propiedad de Terreno, </unittitle>
+               <unitdate>1907-1909</unitdate>
+            </did> 	
+         </c01> 
+         <c01 level="file"> 
+            <did> 
+               <container type="box">1</container> 
+               <container type="folder">6</container> 
+               <unittitle>Documentos de Propiedad de Terreno, </unittitle>
+               <unitdate>1910-1918</unitdate>
+            </did> 	
+         </c01> 
+         <c01 level="file"> 
+            <did> 
+               <container type="box">1</container> 
+               <container type="folder">7</container> 
+               <unittitle>Documentos de Propiedad de Terreno, </unittitle>
+               <unitdate>1921-1927</unitdate>
+            </did> 	
+         </c01> 
+         <c01 level="file"> 
+            <did> 
+               <container type="box">1</container> 
+               <container type="folder">8</container> 
+               <unittitle>Documentos de Propiedad de Terreno, </unittitle>
+               <unitdate>1944</unitdate>
+            </did> 	
+         </c01> 
+         <c01 level="file"> 
+            <did> 
+               <container type="box">1</container> 
+               <container type="folder">9</container> 
+               <unittitle>Novena (incompleta) y Estampillas, </unittitle>
+               <unitdate>undated</unitdate>
+            </did> 	
+         </c01> 
+	  </dsc>
+	  </archdesc>
+	  </ead>

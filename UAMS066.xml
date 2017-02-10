@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+   <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0"> 
+      <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special Collections//text
+		(US::AzU::Henry Clinton Forbes collection)//en""UAMS066.xml"
+      </eadid> 
+      <filedesc> 
+         <titlestmt> 
+         	<titleproper encodinganalog="title">Henry Clinton Forbes collection
+	 	       <date normal="1862/1955" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">1862-1955</date>
+	 	       <!-- BE SURE TO POPULATE "date normal= "YYYY/YYYY" attribute. PLACE ATTRIBUTE DATES BETWEEN "   " -->
+	 	       <date normal="1892/1902" type="bulk">(bulk 1892-1902)</date><!-- BE SURE TO POPULATE "date normal= YYYY/YYYY" attribute --><!-- BE SURE TO DELETE BULK DATE TAGS IF NOT NEEDED -->
+	 	    </titleproper>
+	 	    <titleproper type="filing" altrender="nodisplay"> Forbes, (Henry C.) collection
+	 	    <!-- [IF AN INDIVIDUAL IS ASSOCIATED LIST LAST NAME, (FIRST NAME MIDDLE INITIAL.) i.e. Flannery, (John S.) COLLECTION DESCRIPTION] OR 
+	 	    [IF NO SPECIFIC PERSON IS ASSOCIATED LIST THE COLLECTION NAME AND DESCRIPTION (i.e. International Student Council general files) -->
+            </titleproper>
+	        <author>Processed by Staff.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date normal= "2016" era= "ce" calendar = "gregorian">; 2016</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+            <date era="ce" encodinganalog="date" normal="20160413">April 13, 2016</date>
+  	     </creation><!-- BE SURE TO POPULATE "date normal= YYYYMMDD" attribute. PLACE ATTRIBUTE DATES BETWEEN "  " -->
+	     <langusage>Finding aid encoded in<language> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc>
+   </eadheader> 
+   <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+      <did id="a1"> 
+         <head>Collection Summary</head> 
+      	<unittitle encodinganalog="245" label="Collection Name:"> Henry Clinton Forbes collection
+            <unitdate type="inclusive" label="Dates:" normal="1862/1955">1862-1955</unitdate>
+            <unitdate type="bulk" label="Dates:" normal="1892/1902">(bulk 1892-1902)</unitdate> <!-- DELETE BULK DATE TAGS IF NOT NEEDED -->
+  	     </unittitle><!-- BE SURE TO POPULATE "Dates normal= yyyy/yyyy" attribute.  PLACE ATTRIBUTE DATES BETWEEN "  " -->	 
+	     <unitid label="Collection Number:" encodinganalog="099" repositorycode="AzU" countrycode="us">MS 066</unitid>
+	     <origination label="Creator:"> 
+            <persname source="lcnaf" encodinganalog="100">Forbes, Henry Clinton, 1833-1903.</persname> 
+	     </origination> <!-- CHANGE TAG TO CORPNAME, IF CREATOR IS A COROPORATION/ BUSINESS ETC.  CHANGE "100" ATTRIBUTE TO 110-->
+      	<abstract label="Abstract:">Henry Clinton Forbes, 1833-1903, was a poet, teacher, farmer and colonel in the 7th Illinois Cavalry, U.S. Volunteers, 1862-1865. 
+      								Four volumes in one, 557 pages, of holographic poems by Henry C. Forbes. Written in ink, they are noted as being in final revised form. 
+      								In the prologue to Volume 1, and in the dedication to Volume 4, he explains his motivations for writing poetry. Appended typescript 
+      								copies by his son, Robert Forbes, include letters, biographical material, and his father's account of Grierson&apos;s Calvary Raid 
+      								in Vicksburg, 1863.</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description:"><extent>.3 linear feet</extent></physdesc>
+	     <repository label="Repository:"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng" scriptcode="Latin">English.</language></langmaterial>
+   	        <!-- CHANGE OR ADD FIELD IF MATERIALS ARE IN OTHER LANGUAGES. BE SURE TO CHANGE langcode "" ATTRIBUTE-->
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+         <p>There are no restrictions on this collection.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+      	<p>Henry Clinton Forbes collection (MS 066). Special Collections, University of Arizona Libraries.</p>
+      </prefercite>
+   	<acqinfo>
+   		<head>Acquisition Information</head>
+   		<p>Acquired as gift, 1955.</p>
+   	</acqinfo>
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Staff.</p>
+      </processinfo>
+      <bioghist id="a2" encodinganalog="545"> 
+         <head>Biographical Note</head> 
+      	<p>Poet, teacher, farmer and colonel in the 7th Illinois Cavalry, U.S. Volunteers, 1862-1865.</p> 
+      </bioghist> 
+      <arrangement id="a4" encodinganalog="351$a"> 
+         <head>Arrangement</head> 
+  	     <p>This collection is organized into 4 volumes of poetry, plus appended material:</p>	 
+         <list>
+         	<item>Everard, or The Village Evenings: A Poem in Seven Parts,
+  			   <unitdate>1902</unitdate></item>
+  		    <item>Woodnotes,
+  			   <unitdate>1902</unitdate></item>
+         	<item>Palimpsests,
+         		<unitdate>1902</unitdate></item>
+         	<item>The Remainders,
+         		<unitdate>1892</unitdate></item>
+         	<item>Appended material,
+         		<unitdate>1865-1955</unitdate>
+         	</item>
+         </list>
+      </arrangement> 
+      <scopecontent id="a3" encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>Four volumes in one, 557 pages, of holographic poems by Henry C. Forbes. Written in ink, they are noted as being in final revised form. In the prologue to Volume 1, and in
+      	the dedication to Volume 4, he explains his motivations for writing poetry. Appended typescript copies by his son, Robert Forbes, include letters, biographical material, and
+      	his father&apos;s account of Grierson&apos;s Calvary Raid in Vicksburg, 1863. A 1954 letter from Robert&apos;s cousin, Verne Ripley, concerns the poems; she also 
+      	contributed a story in the appendix about visiting the family&apos;s old log home in Illinois. A black-and-white photograph, dated 1863, depicts Henry Forbes in uniform.</p> 
+      </scopecontent>
+   	<relatedmaterial id="a6" encodinganalog="5441">
+   		<p>Selected segments later published as Poems, by Henry Clinton Forbes, compiled by Robert H. Forbes, Tucson, Arizona, 1966.</p>
+   	</relatedmaterial> <!-- DELETE TAGS IF COLLECTION DOES NOT HAVE ANY RELATED MATERIALS-->
+      <controlaccess>
+         <head>Access Terms</head>
+         <list type="simple"> <!-- USE SOURCE OR RULES ELEMENT Source=lcnaf or lcsh; Rules=aacr2 or dacs or local.  BE SURE TO CHANGE encodinganalog="  " ATTRIBUTE. ALSO, BE SURE TO DELETE ANY TAGS YOU DO NOT USE-->
+            <item>
+               <persname encodinganalog="600" source= "lcnaf">Forbes, Henry Clinton, 1833-1903 -- Manuscripts.</persname><!-- 600 Creator; 700 Contributor -->
+  		    </item>
+  		    <item>
+  			   <corpname encodinganalog="610" source= "lcnaf">United States. Army. Illinois Cavalry Regiment, 7th (1862-1865)</corpname><!-- 610 regular; 611 conference; 710 contributor; 711 conference contributor -->
+  		    </item>
+  		    <item>
+  			   <subject encodinganalog="650" source= "lcsh">Grierson&apos;s Cavalry Raid, 1863 -- Personal narratives.</subject>
+  		    </item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Lyric poetry.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Pastoral poetry, American.</subject>
+         	</item>
+  		    <item>
+  			   <geogname encodinganalog="651" source="lcsh">Vicksburg (Miss.) -- History -- Siege, 1863.</geogname>
+  		    </item>
+         	<item>
+         		<geogname encodinganalog="651" source="lcsh">United States -- History -- Civil War, 1861-1865 -- Cavalry operations.</geogname>
+         	</item>
+         	<item>
+         		<persname encodinganalog="700" source= "lcnaf">Forbes, Robert Henry.</persname><!-- 600 Creator; 700 Contributor -->
+         	</item>
+         </list>
+      </controlaccess>
+   </archdesc>
+</ead>

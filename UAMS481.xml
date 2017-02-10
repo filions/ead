@@ -1,0 +1,3283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+ audience="internal" id="a0"> 
+	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library SpecialCollections//text(US::AzU::Homer Shantz Photograph Collection//en" "UAMS481.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper> Homer Shantz Photograph Collection,<date normal="1904/1962" era="ce" calendar="gregorian" type="inclusive">1904-1962</date>
+	 	<date normal="1911/1958" era="ce" calendar="gregorian" type="bulk">(bulk 1911-1958)</date></titleproper> 
+	 	<author>Processed by: Irlanda Jacinto.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date normal= "2011" era= "ce" calendar = "gregorian">; 2011</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Irlanda Jacinto. 
+		<date era="ce" encodinganalog="date" normal="20120329">20120329</date></creation> 
+	 <langusage>Finding aid is in<language> English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+  	<titleproper>Homer Shantz Photograph Collection,<date era= "ce" calendar= "gregorian" type="inclusive">1904-1962</date>
+  	<date era="ce" calendar="gregorian" type="bulk">(bulk 1911-1958)</date> </titleproper> 
+	 <num>Collection Number: MS 481</num> 
+  	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Irlanda Jacinto.</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>February 2012</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Irlanda Jacinto</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 20012. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name:">Homer Shantz Photograph Collection 
+		<unitdate type="inclusive" label="Dates:" normal="1904/1962">1904-1962</unitdate><unitdate type="bulk" label="Dates" normal="1911/1958">(bulk 1911-1958)</unitdate></unittitle>	 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	 repositorycode="AzU" countrycode="us">MS 481</unitid> 
+	 <origination label="Creator:" encodinganalog="100"> 
+	 	<persname>Shantz, H. L.(Homer LeRoy),1876-1958</persname> </origination> 
+  	<abstract label="Abstract:">The Homer Shantz photograph collection is composed of glass plates, photographs, and negatives documenting distinct environments around the world. The collection was created by University of Arizona president and botanist Homer Shantz. Images from the 1919-1920 Smithsonian African Expedition and the 1913 International Phytogeography Expedition are featured in this collection. The collection also contains negatives and prints by Jack McCormick and Walter S. Phillips. </abstract> 
+  	<physdesc encodinganalog="300$a" label="Physical Description:"><extent>20 linear feet (approximately 16,000 negatives and prints; 149 glass plates) </extent></physdesc>	 
+	 <repository label="Repository:"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository> 
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+	 <p>There are no restirctions on this collection.</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>Homer Shantz Photograph Collection (MS 481). Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+  	<p>Homer LeRoy Shantz was born on January 24 1876 in Kent County, Michigan. In 1901 he received his Bachelor of Science in botany from Colorado College. After graduation he remained at Colorado College where he taught botany and zoology until 1903. He received his PHD from the University of Nebraska in 1905 and proceeded to teach at the University of Missouri and Louisiana State University. Beginning in 1908, Shantz worked for the Bureau of Plant Industry under the United States Department of Agriculture were he published “Natural Vegetation as an Indicator of the Capabilities of Land for Crop Production in the Great Plains Area” among others.</p> 
+  	<p>He was a member of the 1919-1920 Smithsonian- Universal Film Manufacturing Company Expedition also known as the Smithsonian African Expedition. This expedition began on July 16, 1919 and ended July 14, 1920. Its mission was to collect specimens of plants and animals from the interior of Africa and South Africa.  Shantz role was to survey plant resources and to create a vegetation map of the surveyed area. In total Shantz produced over 3,500 photographs that detail plant and vegetation in Africa. In 1923 he published <title render="italic">The Vegetation Soils of Africa</title> with C.F. Marbut.  He returned to Africa in 1924 and 1956-1957.</p>
+  	<p>In 1928, Shantz became the 10th president of The University of Arizona. During his tenure at the University the College of Law was accredited and the College of Fine Arts, School of Music, School Business and Public Administration, and the College of Liberal of Arts were established. He was a monumental figure in the creation of the Saguaro National Monument, and in creating the vegetation areas that are found around the University. He resigned from the presidency in 1936.</p>
+  	<p>Shantz became the first director of the United States Forest Division of Wildlife Management in 1936, he served in until 1944. In 1956 he traveled one more time to Africa as a member of the Geography Branch of the Office of Naval Research. In this trip he re-photographed many of the sites he had documented earlier. In 1958 he published <title render="italic">Photographic Documentation of Vegetational Changes in Africa Over a Third of a Century</title>, which culminated his work in Africa. Homer Shantz died in Rapid City, South Dakota, on June 23, 1958.</p>
+</bioghist> 
+  <arrangement id="a4" encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+	 <p>This collection is organized into 8 series</p>	 
+	 <list> 
+	 	<item>Series I: Index</item> 
+	 	<item>Series II: Indexed images</item>
+	 	<item>Series III: Non-indexed Shantz photographs</item>
+	 	<item>Series IV: Jack McCormick </item>
+	 	<item>Series V: Walter S. Phillips</item>
+	 	<item>Subseries 1: Locations</item>
+	 	<item>Subseries 2: Maps</item>
+	 	<item>Subseries 3: Microscopic Slides</item>
+	 	<item>Subseries 4: Plants </item>
+	 	<item>Subseries 5: Specimens</item>
+	 	<item>Subseries 6: Various Images</item>
+	 	<item>Series VI: Unidentified Photographers</item>
+	 	<item>Subseries 1: Agave Species </item>
+	 	<item>Subseries 2: Plants</item>
+	 	<item>Subseries 3: Specimens</item>
+	 	<item>Subseries 4: Various Locations</item>
+	 	<item>Series VII: Card Catalog</item>
+	 	<item>Series VIII: Oversize Materials</item>
+	 	<item>Subseries 1: Environmental compare </item>
+	 	<item>Subseries 2: Walter Phillips oversize materials </item>
+	 	<item>Subseries 3: Identified Landscapes </item>
+	 	<item>Subseries 4: Various prints</item>
+	 </list> 
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>The collection contains images by Homer Shantz, Walter Phillips, Jack McCormick and unknown photographers. The bulk of the images document Shantz work from 1907-1959 and can be searched using the index that accompanied the collection. The collection contains images that document environmental change in the United States, Africa, Switzerland, and Mexico. It also contains images of plant specimens and photographs of plants taken through a microscope.  The format of the collection is primarily 3x5 negatives.</p> 
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+			<persname encodinganalog="700" role="photographer" source="lcnaf">Phillips, Walter S. (Walter Sargeant), 1905-1975</persname> </item> 
+	 </list>
+  	<list> 
+  		<item> 
+  			<persname encodinganalog="700" role="photographer" rules="AACR2">McCormick, Jack</persname> </item> 
+  	</list> 
+	 <list> 
+		<item> 
+			<subject encodinganalog="650" source="lcsh">Phytogeography</subject> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+			<geogname encodinganalog="651" role="subject" source="lcsh">Saguaro National Park (Ariz.)</geogname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+			<subject encodinganalog="650" source="lcsh">Botany—Africa </subject> </item> 
+	 </list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Botany—United States</subject> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<genreform source="gmgpc" encodinganalog="655">Glass Negatives</genreform> </item> 
+  	</list>
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+			<unitid>Series I:</unitid>
+			<unittitle> Index,  
+			 <unitdate type="inclusive">1904-1957</unitdate></unittitle> 
+		</did><arrangement><p>This series contains the Index for the negatives in the year 1904-1957. Years 1923 and 1924 were compiled at the time the collection was processed.</p></arrangement> 
+		<c02 level="file"> 
+		  <did><container type="box">1</container> 
+			 <container type="folder">1</container> 
+			 <unittitle>Index,
+				<unitdate>1904-1913</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">2</container> 
+	 			<unittitle>Index,
+	 				<unitdate>1914-1918</unitdate></unittitle> 
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">3</container> 
+	 			<unittitle>Index,
+	 				<unitdate>1919-1926</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">4</container> 
+	 			<unittitle>Index,
+	 				<unitdate>1923</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">5</container> 
+	 			<unittitle>Index,
+	 				<unitdate>1924</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">1</container> 
+	 			<unittitle>Index,
+	 				<unitdate>1927-1957</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+	 </c01> 
+  	<c01 level="series" id="ser2">
+  		<did><unittitle>Series II: Indexed Images</unittitle>
+  		</did><arrangement><p> This series contains negatives, prints, and glass plates. It is organized in order according to the Index. The glass plates for years 1904 to 1911 can be found in boxes 3 to 11. Box 12 to Box 62 contain 4x5 negatives and prints.</p></arrangement>
+  	<c02 level="file">
+  		<did><container type="box">3</container>
+  			<unittitle>1904A to 1904-12,</unittitle>
+  			<physdesc><extent>15</extent></physdesc>
+  			<physdesc><dimensions>4x5 inches glass plates</dimensions></physdesc>	
+  		</did>
+  	</c02> 
+  		<c02 level="file">
+  			<did><container type="box">4</container>
+  				<unittitle>1905-108 to 1905-1</unittitle>
+  				<physdesc><extent>7</extent></physdesc>
+  				<physdesc><dimensions>4x5 inches glass plates</dimensions></physdesc> 	
+  			</did>
+  		</c02> 
+  		<c02 level="file">
+  			<did><container type="box">5</container>
+  				<unittitle>1907 to 6/11/07</unittitle>
+  				<physdesc><extent>22</extent></physdesc>
+  				<physdesc><dimensions>4x5 inches glass plates</dimensions></physdesc> 	
+  			</did>
+  		</c02> 
+  		<c02 level="file">
+  			<did><container type="box">6</container>
+  				<unittitle>1907-28 to 1907-58,</unittitle>
+  				<physdesc><extent>19</extent></physdesc>
+  				<physdesc><dimensions>4x5 inches glass plates</dimensions></physdesc> 	
+  			</did>
+  		</c02> 	
+  		<c02 level="file">
+  			<did><container type="box">7</container>
+  				<unittitle>1907-59 to 1907-98,</unittitle>
+  				<physdesc><extent>15</extent></physdesc>
+  				<physdesc><dimensions>4x5 inches glass plates</dimensions></physdesc> 	
+  			</did>
+  		</c02> 	
+  		<c02 level="file">
+  			<did><container type="box">8</container>
+  				<unittitle>1907-147 to 1907-120,</unittitle>
+  				<physdesc><extent>19</extent></physdesc>
+  				<physdesc><dimensions>4x5 inches glass plates</dimensions></physdesc> 	
+  			</did>
+  		</c02> 
+  		<c02 level="file">
+  			<did><container type="box">9</container>
+  				<unittitle>1907-121 to 11-27-1907,</unittitle>
+  				<physdesc><extent>10</extent></physdesc>
+  				<physdesc><dimensions>4x5 inches glass plates</dimensions></physdesc> 	
+  			</did>
+  		</c02> 
+  		<c02 level="file">
+  			<did><container type="box">10</container>
+  				<unittitle>5-2-1908 to 9-1-1908,</unittitle>
+  				<physdesc><extent>24</extent></physdesc>
+  				<physdesc><dimensions>4x5 inches glass plates</dimensions></physdesc> 	
+  			</did>
+  		</c02> 
+  		<c02 level="file">
+  			<did><container type="box">11</container>
+  				<unittitle>9-1-1908 to 9-13-1908,</unittitle>
+  				<physdesc><extent>17</extent></physdesc>
+  				<physdesc><dimensions>4x5 inches glass plates</dimensions></physdesc> 	
+  			</did>
+  		</c02> 
+  		<c02 level="file">
+  			<did><container type="box">12</container>
+  				<unittitle>1907 to O-5-1909</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">13</container>
+  				<unittitle>O-6-1909 to S-12-1910</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">14</container>
+  				<unittitle>T-1-1910 to g-12-1911</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">15</container>
+  				<unittitle>h-1-1911 to f-12-1912</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">16</container>
+  				<unittitle>A-5-1913 to CC-12-1913</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">17</container>
+  				<unittitle>DD-1-1913 to E-4-1914</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">18</container>
+  				<unittitle>E-6-1914 to F-12-1914</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">19</container>
+  				<unittitle>g-4-1914 to Y-5-1915</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">20</container>
+  				<unittitle>Y-6-1915 to cc-15-1915</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">21</container>
+  				<unittitle>A-9-1916 to FF-12-1916</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">22</container>
+  				<unittitle>GG-1-1916 to r-5-1916</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">23</container>
+  				<unittitle>r-6-1916 to W-5-1917</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">24</container>
+  				<unittitle>W-6-1917 to C-5-1918</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">25</container>
+  				<unittitle>C-6-1918 to 36090</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">26</container>
+  				<unittitle>36091 to 36365</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">27</container>
+  				<unittitle>36366 to 36680</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">28</container>
+  				<unittitle>36681 to 36960</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">29</container>
+  				<unittitle>36961 to 37185</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">30</container>
+  				<unittitle>37186 to 37410</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">31</container>
+  				<unittitle>37411 to 37640</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">32</container>
+  				<unittitle>37641 to 37914</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">33</container>
+  				<unittitle>37915 to 38185</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">34</container>
+  				<unittitle>38186 to 38445</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">35</container>
+  				<unittitle>38446 to 38660</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">36</container>
+  				<unittitle>38661 to 38884</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">37</container>
+  				<unittitle>38885 to 39085</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">38</container>
+  				<unittitle>39086 to 39300</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">39</container>
+  				<unittitle>39301 to 39545</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">40</container>
+  				<unittitle>39540 to F-12-1922</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">41</container>
+  				<unittitle>G-1-1922 to a-5-1923</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">42</container>
+  				<unittitle>a-6-1923 to O-12-1924</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">43</container>
+  				<unittitle>P-1-1924 to p-12-1924</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">44</container>
+  				<unittitle>q-1-1924 to T¹-12-1924</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">45</container>
+  				<unittitle>U¹-1-1924 to I-12-1925</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">46</container>
+  				<unittitle>J-1-1925 to C-12-1926</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">47</container>
+  				<unittitle>D-1-1926 to H-4-1927</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">48</container>
+  				<unittitle>H-5-1927 to DD-1-1927</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">49</container>
+  				<unittitle>DD-2-1927 to E-5-1930</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">50</container>
+  				<unittitle>E-6-1930 to B-3-1931</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">51</container>
+  				<unittitle>B-5-1931 to X-11-1931</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">52</container>
+  				<unittitle>Y-1-1931 to W-4-1932</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">53</container>
+  				<unittitle>W-5-1932 to L-5-1933</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">54</container>
+  				<unittitle>L-6-1933 to F-9-1935</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">55</container>
+  				<unittitle>F-10-1935 to H-12-1937</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">56</container>
+  				<unittitle>I-1-1937 to M-12-1938</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">57</container>
+  				<unittitle>N-1-1938 to K-7-1941</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">58</container>
+  				<unittitle>K-8-1941 to Y-3-1949</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">59</container>
+  				<unittitle>Y-5-1949 to G-11-1956</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">60</container>
+  				<unittitle>G-12-1956 to J-4-1957</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">61</container>
+  				<unittitle>J-5-1957 to B¹-12-1957</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">62</container>
+  				<unittitle>A-7-1958 to J-12-1958</unittitle></did>
+  		</c02>
+  	</c01>
+  	<c01 level="series" id="ser3"> 
+  		<did> 
+  			<unittitle>Series III: Non-index Shantz photographs</unittitle> 
+  		</did><arrangement><p>This series contains negatives and prints that were not identified in the index. It is organized alphabetically by subject.</p></arrangement> 
+  	<c02 level="file"><did><container type="box">62</container>
+  	<container type="tab">1</container>
+  		<unittitle>Canada, Lake Moraine</unittitle></did>
+  	</c02>
+  		<c02 level="file"><did><container type="box">62</container>
+  			<container type="tab">2</container>
+  			<unittitle>Cars</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">62</container>
+  			<container type="tab">3</container>
+  			<unittitle>Colorado, Aroyo</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">62</container>
+  			<container type="tab">4</container>
+  			<unittitle>Colorado, Beecher Island</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">62</container>
+  			<container type="tab">5</container>
+  			<unittitle>Colorado, Black Forest</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">62</container>
+  			<container type="tab">6</container>
+  			<unittitle>Colorado, Clifford</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">62</container>
+  			<container type="tab">7</container>
+  			<unittitle>Colorado, Colorado Springs</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">62</container>
+  			<container type="tab">8</container>
+  			<unittitle>Colorado, Eastonville</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">62</container>
+  			<container type="tab">9</container>
+  			<unittitle>Colorado, First View</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">62</container>
+  			<container type="tab">10</container>
+  			<unittitle>Colorado, Freemont Butte</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">62</container>
+  			<container type="tab">11</container>
+  			<unittitle>Colorado, La Junta</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">62</container>
+  			<container type="tab">12</container>
+  			<unittitle>Colorado, Lamar</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">62</container>
+  			<container type="tab">13</container>
+  			<unittitle>Colorado, Las Animas</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">62</container>
+  			<container type="tab">14</container>
+  			<unittitle>Colorado, Limon</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">62</container>
+  			<container type="tab">15</container>
+  			<unittitle>Colorado, Palmer Lake</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">62</container>
+  			<container type="tab">16</container>
+  			<unittitle>Colorado, Piñon</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">62</container>
+  			<container type="tab">17</container>
+  			<unittitle>Colorado, Seven Lakes</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">62</container>
+  			<container type="tab">18</container>
+  			<unittitle>Colorado, Sheridan Lake</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">62</container>
+  			<container type="tab">19</container>
+  			<unittitle>Colorado, Vernon</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">62</container>
+  			<container type="tab">20</container>
+  			<unittitle>Colorado, Wray</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">62</container>
+  			<container type="tab">21</container>
+  			<unittitle>Colorado, Yuma</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">63</container>
+  			<container type="tab">1</container>
+  			<unittitle>Excursion group prints</unittitle></did>
+  		</c02>	 
+  		<c02 level="file"><did><container type="box">63</container>
+  			<container type="tab">2</container>
+  			<unittitle>Excursion members conducting fieldwork</unittitle></did>
+  		</c02>	
+  		<c02 level="file"><did><container type="box">63</container>
+  			<container type="tab">3</container>
+  			<unittitle>Fairy rings</unittitle></did>
+  		</c02>	
+  		<c02 level="file"><did><container type="box">63</container>
+  			<container type="tab">4</container>
+  			<unittitle>International Phytogeographical Excursion</unittitle></did>
+  		</c02>	
+  		<c02 level="file"><did><container type="box">63</container>
+  			<container type="tab">5</container>
+  			<unittitle>Mesa terrains</unittitle></did>
+  		</c02>	
+  		<c02 level="file"><did><container type="box">63</container>
+  			<container type="tab">6</container>
+  			<unittitle>Mitchells Ranch</unittitle></did>
+  		</c02>	
+  		<c02 level="file"><did><container type="box">63</container>
+  			<container type="tab">7</container>
+  			<unittitle>Nebraska, North Plate</unittitle></did>
+  		</c02>	
+  		<c02 level="file"><did><container type="box">63</container>
+  			<container type="tab">8</container>
+  			<unittitle>Shantz conducting fieldwork</unittitle></did>
+  		</c02>	
+  		<c02 level="file"><did><container type="box">63</container>
+  			<container type="tab">9</container>
+  			<unittitle>Panoramas</unittitle></did>
+  		</c02>	
+  	</c01>
+  	<c01 level="series" id="ser4">
+  		<did><unittitle>Series IV: Jack McCormick</unittitle></did>
+  		<arrangement><p>This series contains negatives and photographs identified as being created by Jack McCormick. The series is organized alphabetically by subject matter. </p></arrangement>
+  		<c02 level="file"><did><container type="box">63</container>
+  	       <container type="tab">10</container>
+  			<unittitle>Aerial views</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">63</container>
+  			<container type="tab">11</container>
+  			<unittitle>Animals</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">63</container>
+  			<container type="tab">12</container>
+  			<unittitle>Arizona, Fort Bowie</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">63</container>
+  			<container type="tab">13</container>
+  			<unittitle>Black Canyon of Gunnison National Park</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">63</container>
+  			<container type="tab">14</container>
+  			<unittitle>Cactus</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">63</container>
+  			<container type="tab">15</container>
+  			<unittitle>Candy</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">63</container>
+  			<container type="tab">16</container>
+  			<unittitle>Cars</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">63</container>
+  			<container type="tab">17</container>
+  			<unittitle>Coke a Cola</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">63</container>
+  			<container type="tab">18</container>
+  			<unittitle>Deserts</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">63</container>
+  			<container type="tab">19</container>
+  			<unittitle>Disaster scenes</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">63</container>
+  			<container type="tab">20</container>
+  			<unittitle>Farms</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">63</container>
+  			<container type="tab">21</container>
+  			<unittitle>Farm fields</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">63</container>
+  			<container type="tab">22</container>
+  			<unittitle>Forests</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">63</container>
+  			<container type="tab">23</container>
+  			<unittitle>Grasslands</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">63</container>
+  			<container type="tab">24</container>
+  			<unittitle>Labs</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">63</container>
+  			<container type="tab">25</container>
+  			<unittitle>Lake</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">63</container>
+  			<container type="tab">26</container>
+  			<unittitle>New Mexico, White Sands</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">63</container>
+  			<container type="tab">27</container>
+  			<unittitle>Portraits</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">63</container>
+  			<container type="tab">28</container>
+  			<unittitle>Plains</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">63</container>
+  			<container type="tab">29</container>
+  			<unittitle>Rocks</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">63</container>
+  			<container type="tab">30</container>
+  			<unittitle>Roots</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">63</container>
+  			<container type="tab">31</container>
+  			<unittitle>Ruins</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">63</container>
+  			<container type="tab">32</container>
+  			<unittitle>Signs</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">63</container>
+  			<container type="tab">33</container>
+  			<unittitle>Students conducting fieldwork in deserts</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">63</container>
+  			<container type="tab">34</container>
+  			<unittitle>Students conducting fieldwork in forests</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">63</container>
+  			<container type="tab">35</container>
+  			<unittitle>Terrains</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">63</container>
+  			<container type="tab">36</container>
+  			<unittitle>Trees</unittitle></did>
+  		</c02>
+  	</c01>
+  	<c01 level="series" id="ser5"><did><unittitle>Series V: Walter S. Phillips,</unittitle>
+  		<unitdate type="inclusive" certainty="approximate" normal="">ca. 1950-1960s</unitdate>
+  	</did>
+  		<arrangement><p>This series contains photographs and negatives accredited to Walter S. Phillips. It is divided into six subseries and is organized in alphabetical order. </p></arrangement>
+  		<c02 level="subseries"><did><unittitle>Subseries 1: Locations</unittitle></did>
+  	<c03 level="file"><did><container type="box">64</container>
+  	<container type="tab">1</container>
+  		<unittitle>Arizona, Ajo</unittitle></did>
+  	</c03>
+  			<c03 level="file"><did><container type="box">64</container>
+  				<container type="tab">2</container>
+  				<unittitle>Arizona, Apache County</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">64</container>
+  				<container type="tab">3</container>
+  				<unittitle>Arizona, Bagdad</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">64</container>
+  				<container type="tab">4</container>
+  				<unittitle>Arizona, Boboquivari Peak Wilderness</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">64</container>
+  				<container type="tab">5</container>
+  				<unittitle>Arizona, Benson</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">64</container>
+  				<container type="tab">6</container>
+  				<unittitle>Arizona, Cameron</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">64</container>
+  				<container type="tab">7</container>
+  				<unittitle>Arizona, Casa Grande</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">64</container>
+  				<container type="tab">8</container>
+  				<unittitle>Arizona, Cave Creek</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">64</container>
+  				<container type="tab">9</container>
+  				<unittitle>Arizona, Cedar Ridge</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">64</container>
+  				<container type="tab">10</container>
+  				<unittitle>Arizona, Chiricahua Mountains</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">64</container>
+  				<container type="tab">11</container>
+  				<unittitle>Arizona, Cochise County</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">64</container>
+  				<container type="tab">12</container>
+  				<unittitle>Arizona, Coconino County</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">64</container>
+  				<container type="tab">13</container>
+  				<unittitle>Arizona, Flagstaff</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">64</container>
+  				<container type="tab">14</container>
+  				<unittitle>Arizona, Fort Apache</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">64</container>
+  				<container type="tab">15</container>
+  				<unittitle>Arizona, Foxboro Lake</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">64</container>
+  				<container type="tab">16</container>
+  				<unittitle>Arizona, Gila County</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">64</container>
+  				<container type="tab">17</container>
+  				<unittitle>Arizona, Grand Canyon</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">64</container>
+  				<container type="tab">18</container>
+  				<unittitle>Arizona, Kitt Peak</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">64</container>
+  				<container type="tab">19</container>
+  				<unittitle>Arizona, Kofa Mountains</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">64</container>
+  				<container type="tab">20</container>
+  				<unittitle>Arizona, Little Colorado River</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">64</container>
+  				<container type="tab">21</container>
+  				<unittitle>Arizona, Lukachukai Mountains</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">64</container>
+  				<container type="tab">22</container>
+  				<unittitle>Arizona, McNary</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">64</container>
+  				<container type="tab">23</container>
+  				<unittitle>Arizona, Mogollom Rim</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">65</container>
+  				<container type="tab">1</container>
+  				<unittitle>Arizona, Navaho County</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">65</container>
+  				<container type="tab">2</container>
+  				<unittitle>Arizona, Oak Creek Canyon</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">65</container>
+  				<container type="tab">3</container>
+  				<unittitle>Arizona, Organ Pipe Cactus National Monument</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">65</container>
+  				<container type="tab">4</container>
+  				<unittitle>Arizona, Patagonia</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">65</container>
+  				<container type="tab">5</container>
+  				<unittitle>Arizona, Patato Lake</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">65</container>
+  				<container type="tab">6</container>
+  				<unittitle>Arizona, Peach Springs</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">65</container>
+  				<container type="tab">7</container>
+  				<unittitle>Arizona, Peeples Valley</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">65</container>
+  				<container type="tab">8</container>
+  				<unittitle>Arizona, Phoenix</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">65</container>
+  				<container type="tab">9</container>
+  				<unittitle>Arizona, Pima County</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">65</container>
+  				<container type="tab">10</container>
+  				<unittitle>Arizona, Presumido Pass</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">65</container>
+  				<container type="tab">11</container>
+  				<unittitle>Arizona, Ramsey Canyon</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">65</container>
+  				<container type="tab">12</container>
+  				<unittitle>Arizona, Sacaton</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">65</container>
+  				<container type="tab">13</container>
+  				<unittitle>Arizona, Safford</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">65</container>
+  				<container type="tab">14</container>
+  				<unittitle>Arizona, Saguaro National Park</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">65</container>
+  				<container type="tab">15</container>
+  				<unittitle>Arizona, San Xavier Mission</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">65</container>
+  				<container type="tab">16</container>
+  				<unittitle>Arizona, Santa Cruz Valley</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">65</container>
+  				<container type="tab">17</container>
+  				<unittitle>Arizona, Sells</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">65</container>
+  				<container type="tab">18</container>
+  				<unittitle>Arizona, Sonoita Creek</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">65</container>
+  				<container type="tab">19</container>
+  				<unittitle>Arizona, Tinajas Altas Mountains</unittitle></did>
+  			</c03>  			
+  			<c03 level="file"><did><container type="box">65</container>
+  				<container type="tab">20</container>
+  				<unittitle>Arizona, Tonalea</unittitle></did>
+  			</c03>  			
+  			<c03 level="file"><did><container type="box">65</container>
+  				<container type="tab">21</container>
+  				<unittitle>Arizona, Tonto Basin</unittitle></did>
+  			</c03>  			
+  			<c03 level="file"><did><container type="box">65</container>
+  				<container type="tab">22</container>
+  				<unittitle>Arizona, Tuba City</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">65</container>
+  				<container type="tab">23</container>
+  				<unittitle>Arizona, Tucson</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">66</container>
+  				<container type="tab">1</container>
+  				<unittitle>Arizona, University of Arizona</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">66</container>
+  				<container type="tab">2</container>
+  				<unittitle>Arizona, White Mountains</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">66</container>
+  				<container type="tab">3</container>
+  				<unittitle>Arizona, Williams</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">66</container>
+  				<container type="tab">4</container>
+  				<unittitle>Arizona, Wikenburg</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">66</container>
+  				<container type="tab">5</container>
+  				<unittitle>Australia, plague of Cactoblastis Catorum</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">66</container>
+  				<container type="tab">6</container>
+  				<unittitle>California, Avenue of the Giants</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">66</container>
+  				<container type="tab">7</container>
+  				<unittitle>California, Magma</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">1</container>
+  				<unittitle>California, Mt. Whitney</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">2</container>
+  				<unittitle>California, Palm Springs- Palm Canyon</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">3</container>
+  				<unittitle>Canada, Ontario-Petewawa Forest</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">4</container>
+  				<unittitle>Colorado, Riffle</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">5</container>
+  				<unittitle>Colorado, Rocky Mountain National Park</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">6</container>
+  				<unittitle>Colorado, Sharlow Mountains Lake Reservoir</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">7</container>
+  				<unittitle>Connecticut, Connecticut River</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">8</container>
+  				<unittitle>Death Valley National Park</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">9</container>
+  				<unittitle>Four Corners</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">10</container>
+  				<unittitle>Montana, Fairview</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">11</container>
+  				<unittitle>Montana, Forsyth</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">12</container>
+  				<unittitle>Montana, Gardiner</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">13</container>
+  				<unittitle>Montana, Havre</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">14</container>
+  				<unittitle>Montana, Hebgen Lake</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">15</container>
+  				<unittitle>Montana, Lewistown</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">16</container>
+  				<unittitle>Montana, Lombard</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">17</container>
+  				<unittitle>Montana, Moccasin</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">18</container>
+  				<unittitle>Montana, Roundup</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">19</container>
+  				<unittitle>Montana, Townsend</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">20</container>
+  				<unittitle>Nebraska, Crawford</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">21</container>
+  				<unittitle>Nebraska, Sidney</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">22</container>
+  				<unittitle>Nevada, Red Rock Canyon</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">23</container>
+  				<unittitle>Nevada, Sequoia National Park</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">24</container>
+  				<unittitle>New Hampshire, Meriden</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">25</container>
+  				<unittitle>New Mexico, Cienega Ranch</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">26</container>
+  				<unittitle>North Carolina, Smoky Mountains-Lake Fortuna</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">27</container>
+  				<unittitle>North Dakota, Fort Lincoln</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">28</container>
+  				<unittitle>North Dakota, Fryburg</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">29</container>
+  				<unittitle>North Dakota, Hettinger</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">30</container>
+  				<unittitle>North Dakota, Mandan</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">31</container>
+  				<unittitle>North Dakota, Medora</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">32</container>
+  				<unittitle>Oregon, Brooking</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">33</container>
+  				<unittitle>Oregon, Crater Lake</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">34</container>
+  				<unittitle>Sonora, Guaymas</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">35</container>
+  				<unittitle>Sonora, Magdalena</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">36</container>
+  				<unittitle>South Dakota, Arpan</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">37</container>
+  				<unittitle>South Dakota, Belle Fourche</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">38</container>
+  				<unittitle>South Dakota, Highmore</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">39</container>
+  				<unittitle>South Dakota, Hot Springs</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">40</container>
+  				<unittitle>South Dakota, Kadoka</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">41</container>
+  				<unittitle>South Dakota, Mt. Rushmore</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">42</container>
+  				<unittitle>South Dakota, Newell</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">43</container>
+  				<unittitle>South Dakota, Pine Ridge</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">44</container>
+  				<unittitle>South Dakota, Rumford</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">45</container>
+  				<unittitle>South Dakota, Spearfish</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">46</container>
+  				<unittitle>South Dakota, Timberlake</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">47</container>
+  				<unittitle>South Dakota, Whitewood</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">48</container>
+  				<unittitle>Texas, El Paso</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">67</container>
+  				<container type="tab">49</container>
+  				<unittitle>Unidentified Locations</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">1</container>
+  				<unittitle>Utah, Bluff</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">2</container>
+  				<unittitle>Utah, Bryce Canyon</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">3</container>
+  				<unittitle>Utah, Chinle Creek</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">4</container>
+  				<unittitle>Utah, La Sol Mountains</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">5</container>
+  				<unittitle>Utah, Mexican Hat</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">6</container>
+  				<unittitle>Utah, Salahkai Mesa</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">7</container>
+  				<unittitle>Utah, San Juan River</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">8</container>
+  				<unittitle>Wyoming, Buffalo</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">9</container>
+  				<unittitle>Wyoming, Casper</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">10</container>
+  				<unittitle>Wyoming, Cody</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">11</container>
+  				<unittitle>Wyoming, Crazy Woman Creek</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">12</container>
+  				<unittitle>Wyoming, Devils Tower</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">13</container>
+  				<unittitle>Wyoming, Frannie</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">14</container>
+  				<unittitle>Wyoming, Grand Teton National Park</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">15</container>
+  				<unittitle>Wyoming, Hullet</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">16</container>
+  				<unittitle>Wyoming, Story</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">17</container>
+  				<unittitle>Wyoming, Sundance</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">18</container>
+  				<unittitle>Yellowstone National Park</unittitle></did>
+  			</c03>
+  		</c02>
+  		<c02 level="subseries">
+  			<did><unittitle>Subseries 2: Maps</unittitle></did>
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">19</container>
+  				<unittitle>Arizona</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">20</container>
+  				<unittitle>Australia</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">21</container>
+  				<unittitle>Colorado</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">22</container>
+  				<unittitle>Colorado River Delta</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">23</container>
+  				<unittitle>Navaho Nation</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">24</container>
+  				<unittitle>North America</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">25</container>
+  				<unittitle>Penacate Region</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">26</container>
+  				<unittitle>United States</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">27</container>
+  				<unittitle>Utah</unittitle></did>
+  			</c03>
+  		</c02>
+  		<c02 level="subseries">
+  			<did><unittitle>Subseries 3: Microscopic Slides</unittitle></did>
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">28</container>
+  				<unittitle>Acer</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">29</container>
+  				<unittitle>Actaea</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">30</container>
+  				<unittitle>Amsonia</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">31</container>
+  				<unittitle>Argemone</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">32</container>
+  				<unittitle>Aristolochia</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">33</container>
+  				<unittitle>Artemisia</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">34</container>
+  				<unittitle>Bean stem</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">35</container>
+  				<unittitle>Beta vulgaris</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">36</container>
+  				<unittitle>Boehmeria</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">37</container>
+  				<unittitle>Cabbage</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">38</container>
+  				<unittitle>Capsella embryo</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">39</container>
+  				<unittitle>Castanea</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">40</container>
+  				<unittitle>Citrus</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">41</container>
+  				<unittitle>Clematis</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">42</container>
+  				<unittitle>Coleus</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">43</container>
+  				<unittitle>Convolvulus</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">68</container>
+  				<container type="tab">44</container>
+  				<unittitle>Cucurbita</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">1</container>
+  				<unittitle>Cyperus root</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">2</container>
+  				<unittitle>Delphinium</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">3</container>
+  				<unittitle>Diospyros endosperm</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">4</container>
+  				<unittitle>Eobania vermiculata</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">5</container>
+  				<unittitle>Erigeron</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">6</container>
+  				<unittitle>Erigonum inflatum</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">7</container>
+  				<unittitle>Euphorbia</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">8</container>
+  				<unittitle>Fagus</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">9</container>
+  				<unittitle>Ficus</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">10</container>
+  				<unittitle>First reduction division</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">11</container>
+  				<unittitle>Fraximus</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">12</container>
+  				<unittitle>Fritillaria</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">13</container>
+  				<unittitle>Geranium</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">14</container>
+  				<unittitle>Haplopappus</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">15</container>
+  				<unittitle>Ipomea</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">16</container>
+  				<unittitle>Juglans</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">17</container>
+  				<unittitle>Jussiaea stem</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">18</container>
+  				<unittitle>Kallstroemia</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">19</container>
+  				<unittitle>Lemna</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">20</container>
+  				<unittitle>Lepidodendron</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">21</container>
+  				<unittitle>Lilium</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">22</container>
+  				<unittitle>Lily gametophyte</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">23</container>
+  				<unittitle>Medicago</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">24</container>
+  				<unittitle>Megaspore mother cell</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">25</container>
+  				<unittitle>Megagametophyte</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">26</container>
+  				<unittitle>Megagametogenesis</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">27</container>
+  				<unittitle>Mentha</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">28</container>
+  				<unittitle>Metasequoia</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">29</container>
+  				<unittitle>Microsporogenesis</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">30</container>
+  				<unittitle>Notholaena</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">31</container>
+  				<unittitle>Oleander</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">32</container>
+  				<unittitle>Onion root</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">33</container>
+  				<unittitle>Pandanus</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">34</container>
+  				<unittitle>Pelargonium</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">35</container>
+  				<unittitle>Persimmon endosperm</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">36</container>
+  				<unittitle>Platanus</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">37</container>
+  				<unittitle>Pinus</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">38</container>
+  				<unittitle>Pisum</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">39</container>
+  				<unittitle>Podophyllum</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">40</container>
+  				<unittitle>Pseudotsuga</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">41</container>
+  				<unittitle>Pteris aquilina</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">69</container>
+  				<container type="tab">42</container>
+  				<unittitle>Quercus</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">1</container>
+  				<unittitle>Ranunculus</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">2</container>
+  				<unittitle>Rumex</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">3</container>
+  				<unittitle>Safflower</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">4</container>
+  				<unittitle>Sambucus</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">5</container>
+  				<unittitle>Selagenella</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">6</container>
+  				<unittitle>Sequoia</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">7</container>
+  				<unittitle>Sequoioideae</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">8</container>
+  				<unittitle>Simmondsia</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">9</container>
+  				<unittitle>Smilax</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">10</container>
+  				<unittitle>Sphenophyllum</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">11</container>
+  				<unittitle>Tilia</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">12</container>
+  				<unittitle>Tribulus</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">13</container>
+  				<unittitle>Typha</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">14</container>
+  				<unittitle>Ulmus</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">15</container>
+  				<unittitle>Unidentified slides</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">16</container>
+  				<unittitle>Vanilla</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">17</container>
+  				<unittitle>Vitis</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">18</container>
+  				<unittitle>Wheat embryo</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">19</container>
+  				<unittitle>Whitefish mitosis</unittitle></did>
+  			</c03>	
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">20</container>
+  				<unittitle>Zea</unittitle></did>
+  			</c03>	
+  		</c02>
+  		<c02 level="subseries">
+  			<did><unittitle>Subseries 4: Plants</unittitle></did>
+          <c03 level="file"><did><container type="box">70</container>
+  	           <container type="tab">21</container>
+          	<unittitle>Acacia</unittitle></did>
+          </c03>
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">22</container>
+  				<unittitle>Agave</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">23</container>
+  				<unittitle>Agropyron</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">24</container>
+  				<unittitle>Allium</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">25</container>
+  				<unittitle>Amanita</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">26</container>
+  				<unittitle>Ambrosia</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">27</container>
+  				<unittitle>Aquilegia</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">28</container>
+  				<unittitle>Ariocarpus</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">29</container>
+  				<unittitle>Asclepias</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">30</container>
+  				<unittitle>Atriplex</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">31</container>
+  				<unittitle>Auricularia</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">32</container>
+  				<unittitle>Baccharis</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">33</container>
+  				<unittitle>Beloperone</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">34</container>
+  				<unittitle>Beta</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">35</container>
+  				<unittitle>Bursera</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">36</container>
+  				<unittitle>Callinadra</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">37</container>
+  				<unittitle>Canotia</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">38</container>
+  				<unittitle>Casuarina</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">39</container>
+  				<unittitle>Cedrus</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">70</container>
+  				<container type="tab">40</container>
+  				<unittitle>Cereus</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">1</container>
+  				<unittitle>Chamaerops</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">2</container>
+  				<unittitle>Cheilanthes</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">3</container>
+  				<unittitle>Condalia</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">4</container>
+  				<unittitle>Coryphantha</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">5</container>
+  				<unittitle>Crassula</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">6</container>
+  				<unittitle>Cupressus</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">7</container>
+  				<unittitle>Cycas</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">8</container>
+  				<unittitle>Dasylirion</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">9</container>
+  				<unittitle>Datura</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">10</container>
+  				<unittitle>Delphinium</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">11</container>
+  				<unittitle>Echinocactus</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">12</container>
+  				<unittitle>Echinocereus</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">13</container>
+  				<unittitle>Echinopsis</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">14</container>
+  				<unittitle>Ephedra</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">15</container>
+  				<unittitle>Epicampes</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">16</container>
+  				<unittitle>Equisetum</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">17</container>
+  				<unittitle>Eriobotrya</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">18</container>
+  				<unittitle>Erythraea</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">19</container>
+  				<unittitle>Erythrina</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">20</container>
+  				<unittitle>Eucalyptus</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">21</container>
+  				<unittitle>Euphorbia</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">22</container>
+  				<unittitle>Fouquieria</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">23</container>
+  				<unittitle>Fraxinus</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">24</container>
+  				<unittitle>Galpinsia</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">25</container>
+  				<unittitle>Goodyera</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">26</container>
+  				<unittitle>Haplophyton</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">27</container>
+  				<unittitle>Helianthella</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">28</container>
+  				<unittitle>Hesperocallis</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">29</container>
+  				<unittitle>Hoffmannseggia</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">30</container>
+  				<unittitle>Holacantha</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">31</container>
+  				<unittitle>Hymenoclea</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">32</container>
+  				<unittitle>Hymenoxys</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">33</container>
+  				<unittitle>Idria</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">34</container>
+  				<unittitle>Juniperus</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">35</container>
+  				<unittitle>Koeberlinia</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">36</container>
+  				<unittitle>Larrea</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">37</container>
+  				<unittitle>Lepachys</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">38</container>
+  				<unittitle>Lycium</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">39</container>
+  				<unittitle>Malaxis</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">71</container>
+  				<container type="tab">40</container>
+  				<unittitle>Mammillaria</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">72</container>
+  				<container type="tab">1</container>
+  				<unittitle>Marsilea</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">72</container>
+  				<container type="tab">2</container>
+  				<unittitle>Mesembryanthemum</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">72</container>
+  				<container type="tab">3</container>
+  				<unittitle>Monotropa</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">72</container>
+  				<container type="tab">4</container>
+  				<unittitle>Morus</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">72</container>
+  				<container type="tab">5</container>
+  				<unittitle>Muhlenbergia</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">72</container>
+  				<container type="tab">6</container>
+  				<unittitle>Napolea</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">72</container>
+  				<container type="tab">7</container>
+  				<unittitle>Nephrolepsis</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">72</container>
+  				<container type="tab">8</container>
+  				<unittitle>Nolina</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">72</container>
+  				<container type="tab">9</container>
+  				<unittitle>Notholaena</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">72</container>
+  				<container type="tab">10</container>
+  				<unittitle>Notocactus</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">72</container>
+  				<container type="tab">11</container>
+  				<unittitle>Oenothera</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">72</container>
+  				<container type="tab">12</container>
+  				<unittitle>Olneya</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">72</container>
+  				<container type="tab">13</container>
+  				<unittitle>Opuntia</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">72</container>
+  				<container type="tab">14</container>
+  				<unittitle>Papaver</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">72</container>
+  				<container type="tab">15</container>
+  				<unittitle>Parkinsonia</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">72</container>
+  				<container type="tab">16</container>
+  				<unittitle>Parosela</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">72</container>
+  				<container type="tab">17</container>
+  				<unittitle>Pellaea</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">72</container>
+  				<container type="tab">18</container>
+  				<unittitle>Pinus</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">72</container>
+  				<container type="tab">19</container>
+  				<unittitle>Pittosporum</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">72</container>
+  				<container type="tab">20</container>
+  				<unittitle>Pityrogramma Triangularis</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">72</container>
+  				<container type="tab">21</container>
+  				<unittitle>Platanus</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">72</container>
+  				<container type="tab">22</container>
+  				<unittitle>Pontentilla</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">72</container>
+  				<container type="tab">23</container>
+  				<unittitle>Populus</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">72</container>
+  				<container type="tab">24</container>
+  				<unittitle>Prosopis</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">72</container>
+  				<container type="tab">25</container>
+  				<unittitle>Psilotum</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">72</container>
+  				<container type="tab">26</container>
+  				<unittitle>Pteris</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">72</container>
+  				<container type="tab">27</container>
+  				<unittitle>Quercus</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">72</container>
+  				<container type="tab">28</container>
+  				<unittitle>Rumex</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">72</container>
+  				<container type="tab">29</container>
+  				<unittitle>Sabal</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">72</container>
+  				<container type="tab">30</container>
+  				<unittitle>Scirpus</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">72</container>
+  				<container type="tab">31</container>
+  				<unittitle>Sebastiana</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">72</container>
+  				<container type="tab">32</container>
+  				<unittitle>Selaginella</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">72</container>
+  				<container type="tab">33</container>
+  				<unittitle>Sempervivum</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">72</container>
+  				<container type="tab">34</container>
+  				<unittitle>Sclerocactus</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">72</container>
+  				<container type="tab">35</container>
+  				<unittitle>Simmondsia</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">72</container>
+  				<container type="tab">36</container>
+  				<unittitle>Sophora</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">72</container>
+  				<container type="tab">37</container>
+  				<unittitle>Spiranthes</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">72</container>
+  				<container type="tab">38</container>
+  				<unittitle>Sporobolus</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">73</container>
+  				<container type="tab">1</container>
+  				<unittitle>Stapelia</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">73</container>
+  				<container type="tab">2</container>
+  				<unittitle>Tamarix</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">73</container>
+  				<container type="tab">3</container>
+  				<unittitle>Thuja</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">73</container>
+  				<container type="tab">4</container>
+  				<unittitle>Tillandsia</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">73</container>
+  				<container type="tab">5</container>
+  				<unittitle>Tidestromia</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">73</container>
+  				<container type="tab">6</container>
+  				<unittitle>Verbascum</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">73</container>
+  				<container type="tab">7</container>
+  				<unittitle>Vitis</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">73</container>
+  				<container type="tab">8</container>
+  				<unittitle>Washingtonia</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">73</container>
+  				<container type="tab">9</container>
+  				<unittitle>Woodsia</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">73</container>
+  				<container type="tab">10</container>
+  				<unittitle>Yucca</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">73</container>
+  				<container type="tab">11</container>
+  				<unittitle>Zamia</unittitle></did>
+  			</c03>
+  		</c02>
+  		<c02 level="subseries">
+  			<did><unittitle>Subseries 5: Specimens</unittitle></did>
+  			<c03 level="file"><did><container type="box">73</container>
+  				<container type="tab">12</container>
+  				<unittitle>Aristolochia pallida</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">73</container>
+  				<container type="tab">13</container>
+  				<unittitle>Arum ethiopicum</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">73</container>
+  				<container type="tab">14</container>
+  				<unittitle>Bantam hybrid sweet corn</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">73</container>
+  				<container type="tab">15</container>
+  				<unittitle>Erigonum inflantum</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">73</container>
+  				<container type="tab">16</container>
+  				<unittitle>Grass species</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">74</container>
+  				<container type="tab">1</container>
+  				<unittitle>Iberus umbellate</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">74</container>
+  				<container type="tab">2</container>
+  				<unittitle>Ledum palustre</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">74</container>
+  				<container type="tab">3</container>
+  				<unittitle>Proboscidea</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">74</container>
+  				<container type="tab">4</container>
+  				<unittitle>Rock layers</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">74</container>
+  				<container type="tab">5</container>
+  				<unittitle>Sagoutier</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">74</container>
+  				<container type="tab">6</container>
+  				<unittitle>Spiranthes polyantha</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">74</container>
+  				<container type="tab">7</container>
+  				<unittitle>Quercus</unittitle></did>
+  			</c03>
+  		</c02>
+  		<c02 level="subseries">
+  			<did><unittitle>Subseries 6: Various Images</unittitle></did>
+  			<c03 level="file"><did><container type="box">74</container>
+  				<container type="tab">8</container>
+  				<unittitle>1948- Thermocouple</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">74</container>
+  				<container type="tab">9</container>
+  				<unittitle>Book drawings by Richard M. Holmes and Wilfred W. Robbins</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">74</container>
+  				<container type="tab">10</container>
+  				<unittitle>Botany experiments</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">74</container>
+  				<container type="tab">11</container>
+  				<unittitle>Diagrams</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">74</container>
+  				<container type="tab">12</container>
+  				<unittitle>Echo I</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">74</container>
+  				<container type="tab">13</container>
+  				<unittitle>Figures of Introduction to Floral Mechanisms by Samuel Griffith Jones</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">74</container>
+  				<container type="tab">14</container>
+  				<unittitle>Gerard’s Herbal 1st page</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">74</container>
+  				<container type="tab">15</container>
+  				<unittitle>Leica copying attachment for lantern slides</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">74</container>
+  				<container type="tab">16</container>
+  				<unittitle>Leitz Valoy</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">74</container>
+  				<container type="tab">17</container>
+  				<unittitle>Mandrake</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">74</container>
+  				<container type="tab">18</container>
+  				<unittitle>Monsato Company add, 1962</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">74</container>
+  				<container type="tab">19</container>
+  				<unittitle>Ocular stage micrometer</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">74</container>
+  				<container type="tab">20</container>
+  				<unittitle>Professors</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">74</container>
+  				<container type="tab">21</container>
+  				<unittitle>University of Arizona Botany class</unittitle></did>
+  			</c03>
+  		</c02>
+  	</c01>
+  	<c01 level="series" id="ser6">
+  		<did><unittitle>Series VI: Unidentified Photographers</unittitle></did>
+  		<arrangement><p>This series contains photographs and negatives that do not have a designated creator. The series is divided into four subseries organized in alphabetical order.</p></arrangement>
+  	<c02 level="subseries">
+  		<did><unittitle>Subseries 1: Agave</unittitle></did>
+  	<c03 level="file"><did><container type="box">74</container>
+  		<container type="tab">22</container>
+  		<unittitle>Agave species unidentified</unittitle></did>
+  	</c03>
+  		<c03 level="file"><did><container type="box">74</container>
+  			<container type="tab">23</container>
+  			<unittitle>Agave species beginning with A</unittitle></did>
+  		</c03>
+  		<c03 level="file"><did><container type="box">74</container>
+  			<container type="tab">24</container>
+  			<unittitle>Agave species beginning with B</unittitle></did>
+  		</c03>
+  		<c03 level="file"><did><container type="box">74</container>
+  			<container type="tab">25</container>
+  			<unittitle>Agave species beginning with C</unittitle></did>
+  		</c03>
+  		<c03 level="file"><did><container type="box">75</container>
+  			<container type="tab">1</container>
+  			<unittitle>Agave species beginning with D</unittitle></did>
+  		</c03>
+  		<c03 level="file"><did><container type="box">75</container>
+  			<container type="tab">2</container>
+  			<unittitle>Agave species beginning with E</unittitle></did>
+  		</c03>
+  		<c03 level="file"><did><container type="box">75</container>
+  			<container type="tab">3</container>
+  			<unittitle>Agave species beginning with F</unittitle></did>
+  		</c03>
+  		<c03 level="file"><did><container type="box">75</container>
+  			<container type="tab">4</container>
+  			<unittitle>Agave species beginning with G</unittitle></did>
+  		</c03>
+  		<c03 level="file"><did><container type="box">75</container>
+  			<container type="tab">5</container>
+  			<unittitle>Agave species beginning with H</unittitle></did>
+  		</c03>
+  		<c03 level="file"><did><container type="box">75</container>
+  			<container type="tab">6</container>
+  			<unittitle>Agave species beginning with I</unittitle></did>
+  		</c03>
+  		<c03 level="file"><did><container type="box">75</container>
+  			<container type="tab">7</container>
+  			<unittitle>Agave species beginning with J</unittitle></did>
+  		</c03>
+  		<c03 level="file"><did><container type="box">75</container>
+  			<container type="tab">8</container>
+  			<unittitle>Agave species beginning with K</unittitle></did>
+  		</c03>
+  		<c03 level="file"><did><container type="box">75</container>
+  			<container type="tab">9</container>
+  			<unittitle>Agave species beginning with L</unittitle></did>
+  		</c03>
+  		<c03 level="file"><did><container type="box">75</container>
+  			<container type="tab">10</container>
+  			<unittitle>Agave species beginning with M</unittitle></did>
+  		</c03>
+  		<c03 level="file"><did><container type="box">75</container>
+  			<container type="tab">11</container>
+  			<unittitle>Agave species beginning with N</unittitle></did>
+  		</c03>
+  		<c03 level="file"><did><container type="box">75</container>
+  			<container type="tab">12</container>
+  			<unittitle>Agave species beginning with O</unittitle></did>
+  		</c03>
+  		<c03 level="file"><did><container type="box">75</container>
+  			<container type="tab">13</container>
+  			<unittitle>Agave species beginning with P</unittitle></did>
+  		</c03>
+  		<c03 level="file"><did><container type="box">75</container>
+  			<container type="tab">14</container>
+  			<unittitle>Agave species beginning with R</unittitle></did>
+  		</c03>
+  		<c03 level="file"><did><container type="box">75</container>
+  			<container type="tab">15</container>
+  			<unittitle>Agave species beginning with S</unittitle></did>
+  		</c03>
+  		<c03 level="file"><did><container type="box">75</container>
+  			<container type="tab">16</container>
+  			<unittitle>Agave species beginning with T</unittitle></did>
+  		</c03>
+  		<c03 level="file"><did><container type="box">76</container>
+  			<container type="tab">1</container>
+  			<unittitle>Agave species beginning with U</unittitle></did>
+  		</c03>
+  		<c03 level="file"><did><container type="box">76</container>
+  			<container type="tab">2</container>
+  			<unittitle>Agave species beginning with V</unittitle></did>
+  		</c03>
+  		<c03 level="file"><did><container type="box">76</container>
+  			<container type="tab">3</container>
+  			<unittitle>Agave species beginning with W</unittitle></did>
+  		</c03>
+  		<c03 level="file"><did><container type="box">76</container>
+  			<container type="tab">4</container>
+  			<unittitle>Agave species beginning with X</unittitle></did>
+  		</c03>
+  		<c03 level="file"><did><container type="box">76</container>
+  			<container type="tab">5</container>
+  			<unittitle>Agave species beginning with Z</unittitle></did>
+  		</c03>
+  	</c02>
+  		<c02 level="subseries">
+  			<did><unittitle>Subseries 2: Plants</unittitle></did>
+  		<c03 level="file"><did><container type="box">76</container>
+  		<container type="tab">6</container>
+  			<unittitle>Plant genera beginning with A</unittitle></did>
+  		</c03>
+  			<c03 level="file"><did><container type="box">76</container>
+  				<container type="tab">7</container>
+  				<unittitle>Plant genera beginning with B</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">76</container>
+  				<container type="tab">8</container>
+  				<unittitle>Plant genera beginning with C</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">76</container>
+  				<container type="tab">9</container>
+  				<unittitle>Plant genera beginning with D</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">76</container>
+  				<container type="tab">10</container>
+  				<unittitle>Plant genera beginning with E</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">76</container>
+  				<container type="tab">11</container>
+  				<unittitle>Plant genera beginning with F</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">76</container>
+  				<container type="tab">12</container>
+  				<unittitle>Plant genera beginning with G</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">76</container>
+  				<container type="tab">13</container>
+  				<unittitle>Plant genera beginning with H</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">76</container>
+  				<container type="tab">14</container>
+  				<unittitle>Plant genera beginning with J</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">76</container>
+  				<container type="tab">15</container>
+  				<unittitle>Plant genera beginning with L</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">76</container>
+  				<container type="tab">16</container>
+  				<unittitle>Plant genera beginning with M</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">76</container>
+  				<container type="tab">17</container>
+  				<unittitle>Plant genera beginning with N</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">76</container>
+  				<container type="tab">18</container>
+  				<unittitle>Plant genera beginning with O</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">76</container>
+  				<container type="tab">19</container>
+  				<unittitle>Plant genera beginning with P</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">76</container>
+  				<container type="tab">20</container>
+  				<unittitle>Plant genera beginning with R</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">76</container>
+  				<container type="tab">21</container>
+  				<unittitle>Plant genera beginning with S</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">76</container>
+  				<container type="tab">22</container>
+  				<unittitle>Plant genera beginning with T</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">76</container>
+  				<container type="tab">23</container>
+  				<unittitle>Plant genera beginning with Y</unittitle></did>
+  			</c03>
+  		</c02>
+  		<c02 level="subseries">
+  			<did><unittitle>Subseries 3: Specimens</unittitle></did>
+  		<c03 level="file"><did><container type="box">76</container>
+  				<container type="tab">24</container>
+  			<unittitle>Specimens of plant genera A</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">76</container>
+  				<container type="tab">25</container>
+  				<unittitle>Specimens of plant genera B</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">76</container>
+  				<container type="tab">26</container>
+  				<unittitle>Specimens of plant genera C</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">76</container>
+  				<container type="tab">27</container>
+  				<unittitle>Specimens of plant genera D</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">76</container>
+  				<container type="tab">28</container>
+  				<unittitle>Specimens of plant genera E</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">76</container>
+  				<container type="tab">29</container>
+  				<unittitle>Specimens of plant genera H</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">76</container>
+  				<container type="tab">30</container>
+  				<unittitle>Specimens of plant genera M</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">76</container>
+  				<container type="tab">31</container>
+  				<unittitle>Specimens of plant genera O</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">76</container>
+  				<container type="tab">32</container>
+  				<unittitle>Specimens of plant genera P</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">76</container>
+  				<container type="tab">33</container>
+  				<unittitle>Specimens of plant genera S</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">76</container>
+  				<container type="tab">34</container>
+  				<unittitle>Specimens of plant genera T</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">76</container>
+  				<container type="tab">35</container>
+  				<unittitle>Specimens of plant genera Y</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">76</container>
+  				<container type="tab">36</container>
+  				<unittitle>Specimens of plant genera Z</unittitle></did>
+  			</c03>
+  		</c02>
+  		<c02 level="subseries">
+  			<did><unittitle>Subseries 4: Various Locations</unittitle></did>
+  		<c03 level="file"><did><container type="box">77</container>
+  			<container type="tab">1</container>
+  			<unittitle>Africa, Archers Post</unittitle></did>
+  		</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">2</container>
+  				<unittitle>Africa, Bukuma</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">3</container>
+  				<unittitle>Africa, Butiaba</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">4</container>
+  				<unittitle>Africa, Cape Province</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">5</container>
+  				<unittitle>Africa, De Doorns</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">6</container>
+  				<unittitle>Africa, Kauro</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">7</container>
+  				<unittitle>Africa, Kigoma</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">8</container>
+  				<unittitle>Africa, Kindu</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">9</container>
+  				<unittitle>Africa, Lurenҫo Marques</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">10</container>
+  				<unittitle>Africa, Livingstonia Waterfall</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">11</container>
+  				<unittitle>Africa, Lulaba River</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">12</container>
+  				<unittitle>Africa, Mahagi-Port</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">13</container>
+  				<unittitle>Africa, Monkey Bay</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">14</container>
+  				<unittitle>Africa, Palm Grove</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">15</container>
+  				<unittitle>Africa, Ujiji</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">16</container>
+  				<unittitle>Africa, Thika Falls</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">17</container>
+  				<unittitle>Arizona, Baboquivari Park</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">18</container>
+  				<unittitle>Arizona, Big Lake</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">19</container>
+  				<unittitle>Arizona, Escudilla Mountains</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">20</container>
+  				<unittitle>Arizona, Flagstaff, Fort Valley Ranch</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">21</container>
+  				<unittitle>Arizona, Grand Canyon</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">22</container>
+  				<unittitle>Arizona, Kayenta</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">23</container>
+  				<unittitle>Arizona, Santa Catalina Mountains</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">24</container>
+  				<unittitle>Arizona, Santa Rita Mountains</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">25</container>
+  				<unittitle>Arizona, Sonoita Creek</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">26</container>
+  				<unittitle>Arizona, Superstition Mountains</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">27</container>
+  				<unittitle>Arizona, University of Arizona</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">28</container>
+  				<unittitle>Arizona, White Mountains</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">29</container>
+  				<unittitle>Baja California, Bahia de Los Angeles</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">30</container>
+  				<unittitle>Baja California, Isla San Marcos</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">31</container>
+  				<unittitle>Baja California, La Paz</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">32</container>
+  				<unittitle>Baja California, Llano Dirai</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">33</container>
+  				<unittitle>Baja California, Mina Desengana</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">34</container>
+  				<unittitle>Baja California, Mission San Xavier</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">35</container>
+  				<unittitle>California, Golf Region Vegetation</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">36</container>
+  				<unittitle>California, Murrieta</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">37</container>
+  				<unittitle>Central America</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">38</container>
+  				<unittitle>Chihuahua, Casas Grandes</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">39</container>
+  				<unittitle>Colorado, Monument Valley</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">40</container>
+  				<unittitle>Colorado, Rocky Mountain National Park</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">41</container>
+  				<unittitle>Costa Rica, Alajuela</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">42</container>
+  				<unittitle>Durango Grasslands</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">43</container>
+  				<unittitle>Guatemala, Coban</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">44</container>
+  				<unittitle>Guatemala, Izabal</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">45</container>
+  				<unittitle>Guatemala, Nahualate</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">46</container>
+  				<unittitle>Guerro, Canyon Igula</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">47</container>
+  				<unittitle>Honduras, Zamorano</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">48</container>
+  				<unittitle>Mexico, Rosario</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">49</container>
+  				<unittitle>Mexico, Uruapan</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">50</container>
+  				<unittitle>Monterrey, Canyon Huasteca</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">51</container>
+  				<unittitle>Nayarit, Acaponeta</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">52</container>
+  				<unittitle>North Dakota, Painted Canyon</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">53</container>
+  				<unittitle>Oaxaca</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">54</container>
+  				<unittitle>Oaxaca, Sierra Mahuizapam</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">55</container>
+  				<unittitle>Oregon, Crater Lake</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">56</container>
+  				<unittitle>Road to Ruby from Nogales</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">57</container>
+  				<unittitle>Wyoming, String Lake</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">58</container>
+  				<unittitle>San Juan River</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">59</container>
+  				<unittitle>Sierra de las Palmas</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">60</container>
+  				<unittitle>Sinaloa, Cerro Babuyo</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">61</container>
+  				<unittitle>Sinaloa, Esquinapa</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">62</container>
+  				<unittitle>Sonora, Alamos</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">63</container>
+  				<unittitle>Sonora, Cedros Range</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">64</container>
+  				<unittitle>Sonora, San Bernardo</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">65</container>
+  				<unittitle>Sonora, San Pedro Nolasco Island</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">66</container>
+  				<unittitle>South Dakota, Mount Rushmore</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">67</container>
+  				<unittitle>Turkey, Izmir</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">68</container>
+  				<unittitle>Unidentified locations</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">69</container>
+  				<unittitle>Utah, Bryce Canyon</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">70</container>
+  				<unittitle>Utah, Navajo Mountain</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">71</container>
+  				<unittitle>Wyoming, Devils Tower</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">77</container>
+  				<container type="tab">72</container>
+  				<unittitle>Yosemite National Park</unittitle></did>
+  			</c03>
+  		</c02>
+  	</c01>
+  	<c01 level="series" id="ser7">
+  		<did><unittitle>Series VII: Card Catalog</unittitle></did>
+  		<arrangement><p>This series contain two card catalogs. Original order of the catalogs has been maintained.</p></arrangement>
+	<c02 level="file"><did><container type="box">78</container>
+		<unittitle>Acrostichum to Diplazium</unittitle></did></c02>  
+  		<c02 level="file"><did><container type="box">79</container>
+  			<unittitle>Dryopteris to Pilularia</unittitle></did></c02>
+  		<c02 level="file"><did><container type="box">80</container>
+  		<container type="tab">1</container>
+  			<unittitle>Tab 1 Pityrogramma to Ferns</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">80</container>
+  			<container type="tab">2</container>
+  			<unittitle>Adiantum capillus-veneris to Asplenium palmeri</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">81</container>
+  			<unittitle>Asplenium resiliens to Noth. Grayi</unittitle></did>
+  		</c02>
+  		<c02 level="file"><did><container type="box">82</container>
+  			<unittitle>Noth. Interrima to Woodwardia fimbriata</unittitle></did>
+  		</c02>	
+  	</c01>
+  	<c01 level="series" id="ser8">
+  		<did><unittitle>Series VIII: Oversize materials</unittitle></did>
+  		<arrangement><p>This series contains oversize photographs. It is divided into 4 subseries and is organized alphabetically.</p></arrangement>
+  		<c02 level="subseries">
+  			<did><unittitle>Subseries 1: Environmental Comparison</unittitle></did>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">1</container>
+  				<unittitle>Arizona, Oracle and Saguaro National Park</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">2</container>
+  				<unittitle>Arizona, Santa Rita Range</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">3</container>
+  				<unittitle>Arizona, Saguaro National Park</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">4</container>
+  				<unittitle>Arizona, Saguaro National Park</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">5</container>
+  				<unittitle>Arizona, Saguaro National Park</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">6</container>
+  				<unittitle>Arizona, Saguaro National Park</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">7</container>
+  				<unittitle>Arizona, Saguaro National Park</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">8</container>
+  				<unittitle>Arizona, Saguaro National Park</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">9</container>
+  				<unittitle>Arizona, Saguaro National Park</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">10</container>
+  				<unittitle>Arizona, Saguaro National Park</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">11</container>
+  				<unittitle>Arizona, Saguaro National Park</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">12</container>
+  				<unittitle>Arizona, Saguaro National Park</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">13</container>
+  				<unittitle>Arizona, Saguaro National Park</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">14</container>
+  				<unittitle>Arizona, Saguaro National Park</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">15</container>
+  				<unittitle>Arizona, Saguaro National Park</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">16</container>
+  				<unittitle>Arizona, Saguaro National Park</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">17</container>
+  				<unittitle>Arizona, Saguaro National Park</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">18</container>
+  				<unittitle>Cactoblastis Cantorum attack</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">19</container>
+  				<unittitle>Colorado, Huerfano Butte</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">20</container>
+  				<unittitle>Montana, Danvers</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">21</container>
+  				<unittitle>Montana, Danvers</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">22</container>
+  				<unittitle>Montana, Danvers</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">23</container>
+  				<unittitle>Montana, Danvers</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">24</container>
+  				<unittitle>Montana, Danvers</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">25</container>
+  				<unittitle>Montana, Danvers</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">26</container>
+  				<unittitle>Montana, Danvers</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">27</container>
+  				<unittitle>Montana, Fairview</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">28</container>
+  				<unittitle>Montana, Forsyth</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">29</container>
+  				<unittitle>Montana, Gardiner</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">30</container>
+  				<unittitle>Montana, Grassrange</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">31</container>
+  				<unittitle>Montana, Grassrange</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">32</container>
+  				<unittitle>Montana, Harve</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">33</container>
+  				<unittitle>Montana, Harve</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">34</container>
+  				<unittitle>Montana, Lewiston</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">35</container>
+  				<unittitle>Montana, Lewiston</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">36</container>
+  				<unittitle>Montana, Lewiston</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">37</container>
+  				<unittitle>Montana, Lewiston</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">38</container>
+  				<unittitle>Montana, Lewiston</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">39</container>
+  				<unittitle>Montana, Lewiston</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">40</container>
+  				<unittitle>Montana, Lombard</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">41</container>
+  				<unittitle>Montana, Moccasin</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">42</container>
+  				<unittitle>Montana, Roundup</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">43</container>
+  				<unittitle>Montana, Roundup</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">44</container>
+  				<unittitle>Montana, Townsend</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">83</container>
+  				<container type="plate">45</container>
+  				<unittitle>Montana, Townsend</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">1</container>
+  				<unittitle>Montana, Valentine</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">2</container>
+  				<unittitle>Montana, Valentine</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">3</container>
+  				<unittitle>Montana, Valentine</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">4</container>
+  				<unittitle>Nebraska, Crawford</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">5</container>
+  				<unittitle>Nebraska, Long Pine</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">6</container>
+  				<unittitle>Nebraska, Sydney</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">7</container>
+  				<unittitle>North Dakota, Fort Lincoln</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">8</container>
+  				<unittitle>North Dakota, Fryburg</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">9</container>
+  				<unittitle>North Dakota, Fryburg</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">10</container>
+  				<unittitle>North Dakota, Fryburg</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">11</container>
+  				<unittitle>North Dakota, Fryburg</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">12</container>
+  				<unittitle>North Dakota, Fryburg</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">13</container>
+  				<unittitle>North Dakota, Hettinger</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">14</container>
+  				<unittitle>North Dakota, Hettinger</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">15</container>
+  				<unittitle>North Dakota, Mandan</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">16</container>
+  				<unittitle>North Dakota, Mandan</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">17</container>
+  				<unittitle>North Dakota, Mandan</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">18</container>
+  				<unittitle>North Dakota, Mandan</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">19</container>
+  				<unittitle>North Dakota, Mandan</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">20</container>
+  				<unittitle>North Dakota, Scranton</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">21</container>
+  				<unittitle>South Dakota, Arpan</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">22</container>
+  				<unittitle>South Dakota, Bellefourche</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">23</container>
+  				<unittitle>South Dakota, Belvidere</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">24</container>
+  				<unittitle>South Dakota, Belvidere</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">25</container>
+  				<unittitle>South Dakota, Belvidere</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">26</container>
+  				<unittitle>South Dakota, Belvidere</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">27</container>
+  				<unittitle>South Dakota, Belvidere</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">28</container>
+  				<unittitle>South Dakota, Blunt</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">29</container>
+  				<unittitle>South Dakota, Blunt</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">30</container>
+  				<unittitle>South Dakota, Custer State Park</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">31</container>
+  				<unittitle>South Dakota, Custer State Park</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">32</container>
+  				<unittitle>South Dakota, Deadwood</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">33</container>
+  				<unittitle>South Dakota, Deadwood</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">34</container>
+  				<unittitle>South Dakota, Fort Pierre</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">35</container>
+  				<unittitle>South Dakota, Gregory</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">36</container>
+  				<unittitle>South Dakota, Highmore</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">37</container>
+  				<unittitle>South Dakota, Highmore</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">38</container>
+  				<unittitle>South Dakota, Hot Springs</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">39</container>
+  				<unittitle>South Dakota, Hot Springs</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">40</container>
+  				<unittitle>South Dakota, Hot Springs</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">41</container>
+  				<unittitle>South Dakota, Kadoka</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">42</container>
+  				<unittitle>South Dakota, Kadoka</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">43</container>
+  				<unittitle>South Dakota, Kadoka</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">44</container>
+  				<unittitle>South Dakota, Kadoka</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">45</container>
+  				<unittitle>South Dakota, Newell</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">46</container>
+  				<unittitle>South Dakota, Newell</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">47</container>
+  				<unittitle>South Dakota, Pineridge</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">48</container>
+  				<unittitle>South Dakota, Redfield</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">49</container>
+  				<unittitle>South Dakota, Rosebud</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">50</container>
+  				<unittitle>South Dakota, Rumford</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">51</container>
+  				<unittitle>South Dakota, Spearfish</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">84</container>
+  				<container type="plate">52</container>
+  				<unittitle>South Dakota, Spearfish</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">1</container>
+  				<unittitle>South Dakota, Spearfish</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">2</container>
+  				<unittitle>South Dakota, Spearfish</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">3</container>
+  				<unittitle>South Dakota, Spearfish</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">4</container>
+  				<unittitle>South Dakota, Spearfish</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">5</container>
+  				<unittitle>South Dakota, Spearfish</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">6</container>
+  				<unittitle>South Dakota, Spearfish</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">7</container>
+  				<unittitle>South Dakota, Sturgis</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">8</container>
+  				<unittitle>South Dakota, Timberlake</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">9</container>
+  				<unittitle>South Dakota, Timberlake</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">10</container>
+  				<unittitle>South Dakota, Timberlake</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">11</container>
+  				<unittitle>South Dakota, Whiteriver</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">12</container>
+  				<unittitle>South Dakota, Whitewood</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">13</container>
+  				<unittitle>South Dakota, Whitewood</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">14</container>
+  				<unittitle>South Dakota, Whitewood</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">15</container>
+  				<unittitle>South Dakota, Wounded Knee</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">16</container>
+  				<unittitle>South Dakota, Wounded Knee</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">17</container>
+  				<unittitle>Wyoming, Buffalo</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">18</container>
+  				<unittitle>Wyoming, Buffalo</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">19</container>
+  				<unittitle>Wyoming, Casper</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">20</container>
+  				<unittitle>Wyoming, Casper</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">21</container>
+  				<unittitle>Wyoming, Casper</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">22</container>
+  				<unittitle>Wyoming, Casper</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">23</container>
+  				<unittitle>Wyoming, Casper</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">24</container>
+  				<unittitle>Wyoming, Cody</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">25</container>
+  				<unittitle>Wyoming, Cody</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">26</container>
+  				<unittitle>Wyoming, Crazy Women Creek</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">27</container>
+  				<unittitle>Wyoming, Crazy Women Creek</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">28</container>
+  				<unittitle>Wyoming, Crazy Women Creek</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">29</container>
+  				<unittitle>Wyoming, Devils Tower</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">30</container>
+  				<unittitle>Wyoming, Grand Tenton</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">31</container>
+  				<unittitle>Wyoming, Hulett</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">32</container>
+  				<unittitle>Wyoming, Hulett</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">33</container>
+  				<unittitle>Wyoming, Story</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">34</container>
+  				<unittitle>Wyoming, Story</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">35</container>
+  				<unittitle>Wyoming, Story</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">36</container>
+  				<unittitle>Wyoming, Story</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">37</container>
+  				<unittitle>Wyoming, Story</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">38</container>
+  				<unittitle>Wyoming, Story</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">39</container>
+  				<unittitle>Wyoming, Sundance</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">40</container>
+  				<unittitle>Wyoming, Ten sleep</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">41</container>
+  				<unittitle>Wyoming, Ten sleep</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">85</container>
+  				<container type="plate">42</container>
+  				<unittitle>Wyoming, Thermopolis</unittitle></did>
+  			</c03>
+  		</c02>
+  		<c02 level="subseries"><did><unittitle>Subseries 2: Walter Phillips oversize materials</unittitle></did>
+  		<c03 level="file"><did><container type="box">86</container>
+  			<container type="plate">1</container>
+  			<unittitle>Diagram of grass types</unittitle></did>
+  		</c03>
+  			<c03 level="file"><did><container type="box">86</container>
+  				<container type="plate">2</container>
+  				<unittitle>Popular Photography article, 1943</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">86</container>
+  				<container type="plate">3</container>
+  				<unittitle>Popular Photography article, 1946</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">86</container>
+  				<container type="plate">4</container>
+  				<unittitle>Unidentified topography photographs</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">86</container>
+  				<container type="plate">5</container>
+  				<unittitle>University of Arizona Botany Lab</unittitle></did>
+  			</c03>
+  		</c02>
+  		<c02 level="subseries"><did><unittitle>Subseries 3: Identified Landscapes</unittitle></did>
+  		<c03 level="file"><did><container type="box">86</container>
+  				<container type="plate">6</container>
+  			<unittitle>Florida, Flamingo</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">86</container>
+  				<container type="plate">7</container>
+  				<unittitle>Florida, Homosassa Springs</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">86</container>
+  				<container type="plate">8</container>
+  				<unittitle>Nevada, Virgin Mountains</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">86</container>
+  				<container type="plate">9</container>
+  				<unittitle>New York, Canandaigua Lake</unittitle></did>
+  			</c03>
+  			<c03 level="file"><did><container type="box">86</container>
+  				<container type="plate">10</container>
+  				<unittitle>Utah, Bryce Canyon</unittitle></did>
+  			</c03>
+  		</c02>
+  		<c02 level="subseries"><did><unittitle>Subseries 4: Various prints</unittitle></did>
+  		<c03 level="file"><did><container type="box">86</container>
+  				<container type="plate">11-39</container>
+  			<unittitle>Various prints</unittitle></did>
+  			</c03>
+  		</c02>
+  	</c01>	
+  </dsc> 
+</archdesc></ead>

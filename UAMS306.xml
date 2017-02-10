@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?xml-stylesheet type="text/xsl" href="displaytemplate.xsl"?>
+<?filetitle Cotton Land Company records?>
+<ead relatedencoding="MARC21">
+<eadheader audience="internal" findaidstatus="edited-full-draft"
+ langencoding="iso639-2b">
+	<eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library Special Collections//text(US::AzU::Cotton Land Company records)//en"
+	 "UAMS306.xml"</eadid>
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Cotton Land Company records,
+		  <date>1909-1970</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Jan Davis and Roger
+		  Myers.</author>
+	 </titlestmt>
+	 <publicationstmt>
+	 	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+		<address>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address>
+		<date>&#x00A9; 2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p>
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc>
+	 <creation encodinganalog="500">Inventory encoded by Rebecca Hankins. 
+		<date>December 3, 2001</date></creation> 
+	 <langusage>Inventory is in<language langcode="en"
+		encodinganalog="546">English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter>
+  <titlepage>
+	 <titleproper encodinganalog="245$a">Cotton Land Company records,
+		<date>1909-1970</date></titleproper>
+	 <num>Collection Number: MS 306</num>
+  	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher>
+	 <list>
+		<defitem>
+		  <label>Processed by:</label>
+		  <item>Jan Davis and Roger Myers</item>
+		</defitem>
+		<defitem>
+		  <label>Date completed:</label>
+		  <item>
+			 <date>December 1992</date></item>
+		</defitem>
+		<defitem>
+		  <label>Encoded by:</label>
+		  <item>Rebecca Hankins</item>
+		</defitem>
+	 </list>
+	 <p>&#x00A9; 2001. Arizona Board of Regents. All rights reserved.</p>
+  </titlepage>
+</frontmatter>
+<archdesc level="collection"> 
+  <did id="a1">
+	 <head>Collection Summary</head>
+	 <unittitle encodinganalog="245" label="Collection Name:">Cotton Land
+		Company records, 
+		<unitdate type="inclusive"
+		 normal="1909/1970">1909-1970</unitdate></unittitle>
+	 <unitid label="Collection Number:" encodinganalog="099"
+	  repositorycode="AzU" countrycode="us"> MS 306</unitid> 
+	 <origination label="Creator:"> 
+		<corpname encodinganalog="110">Cotton Land
+		  Company</corpname></origination>
+	 <abstract label="Abstract:">Contains official records of the Cotton Land Company, and the
+		Cotton Water and Irrigation Company, 1909-1970, relating to land development
+		and water rights to company lands located in Mohave County, Arizona, on the
+		east side of the Colorado River. Includes articles of incorporation, minutes,
+		stockbooks, correspon-dence, maps, legal and financial documents, and
+		photographs documenting the activities of the companies, especially in the
+		periods between 1910-1930 and 1945-1965.</abstract>
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+		encodinganalog="300">5.8 linear feet</extent></physdesc>
+	 <repository label="Repository:">
+	 	<corpname encodinganalog="110">University of Arizona Libraries, Special Collections</corpname>
+		<address>
+		  <addressline>University of Arizona</addressline>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address></repository>
+  </did> 
+  <accessrestrict encodinganalog="506">
+	 <head>Restrictions</head>
+	 <p>None.</p>
+  </accessrestrict>
+  <userestrict encodinganalog="540">
+	 <head>Copyright</head>
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p>
+  </userestrict>
+  <prefercite encodinganalog="524">
+	 <head>Credit Line</head>
+	 <p>Cotton Land Company records(MS 306). Special Collections, University of Arizona Libraries.</p>
+  </prefercite>
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Historical Note</head>
+	 <p>The Cotton Land Company was incorporated on December 20, 1909 in Arizona
+		Territory for a term of 25 years; no application for renewal was made. Its
+		place of business was Cottonia, Mohave County. The nature of the charter of the
+		land company was to purchase and acquire lands to own, manage, improve,
+		subdivide, sell and dispose, as well as any subsidiary business needed to
+		achieve those ends. Signers of the incorporation papers were W.I.
+		Hollings-worth, W.J. Hole, D.M. Martin, Louis Evans, and W.J. Burton. During
+		its lengthy liquidation, its place of business was listed through offices in
+		Los Angeles.</p> 
+	 <p>The 1914 overflow of the Colorado River destroyed the levee system which
+		had been under construction by the company at that time, thus halting the
+		develop-ment plans for the lands. From 1915 until 1939 the land was either
+		rented to private individuals for farming or used by the company for cattle
+		raising. Thereafter, the company held the lands pending the probate of certain
+		estates, and then distributed the holdings to the stockholders.</p>
+	 <p>The Cotton Water and Irrigation Company was incorporated in 1909 and was
+		assigned water rights to the acquisitions of the land company.</p>
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>The files were received somewhat disorganized in 1981. An attempt was
+		made to reconstruct the original order where possible. It should be noted that
+		many of the file headings reflected individual names while others were labeled
+		as to the location or use of the land involved, but both folders related to the
+		same lawsuit, rental, or leasing agreement. When possible, related file folders
+		are filed next to each other. Not all folder titles are listed for the Numbered
+		Files in the preliminary inventory below.</p>
+	 <p>This collection is organized into two series: </p> 
+	 <list> 
+		<item>I. General Files, 
+		  <date>1909-1970</date></item> 
+		<item>II. Numbered Files, 
+		  <date>No Date</date></item>
+	 </list> 
+  </arrangement>
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head>
+	 <p>Contains official records of the Cotton Land Company, and the Cotton
+		Water and Irrigation Company, 1909-1970, relating to land development and water
+		rights to company lands located in Mohave County, Arizona, on the east side of
+		the Colorado River. Includes articles of incorporation, minutes, stockbooks,
+		correspon-dence, maps, legal and financial documents, and photographs
+		documenting the activities of the companies, especially in the periods between
+		1910-1930 and 1945-1965.</p> 
+	 <p>The bulk of documents in this collection relate to the history and
+		activities of the Cotton Land Company, especially in regard to the leasing of
+		lands, and litigation on various estate and contractual matters. The General
+		files contain the official records of the two companies, as well as topical
+		files relating to everyday business and the final distribution of assets. The
+		leases and subleases in the files are with individuals, partnerships, and
+		corporations located in Arizona and California, and doing business as
+		Schweitzer Company, Bermuda Planta-tions, Mohave Valley Farms, Mohave Venture
+		Farms, D.W. Hulet, John R. Mahoney, McKellips and Gregg, Hubert Merryweat-her,
+		River Farms, and Sherrill and LaFolle-tte.</p>
+	 <p>The Litigation files involve claims between the company and the United
+		States of America, John R. Mahoney, Hubert Merryweather, Bermurda Plantations,
+		and others. The files consist of correspon-dence and legal papers relating to
+		the issues and their resolution. The largest case involves the company's claim
+		against the govern-ment for the loss of about 9,000 acres of land due to the
+		construc-tion of the Parker Dam. The company's witness, Charles H. Lee, an
+		engineer, prepared several reports on the causes of flooding in Mohave County.
+		Related documents are found in the Maps and Charts files and in the General
+		files.</p>
+	 <p>The Indians files include correspondence about leases and exchanges of
+		lands with the Colorado River and Mohave Indians during the 1930s and 1940s.
+		Correspondents include governmental personnel in the Office of Indian Affairs,
+		Congress, representatives of the Indians, surveyors, appraisers, and other
+		interested parties.</p>
+	 <p>Of interest in the Maps and Charts files are several folders including :
+		a 1940 report by C.H. Purcell on "Hydraulic reconnais-sance for proposed
+		crossing of Colorado River and bottoms near Needles;" possible acquisition of
+		certain lands by Metropolitan Water District of Southern Califor-nia; Charles
+		Lee supplemental report on flooding of lands in Mohave Valley, including
+		discharge records of the Colorado River; and additional reports, some by M.M.
+		Kaufman, on surveys of company lands, and on lands taken by the government.
+		</p>
+	 <p>The Taxes files contain various correspondence and forms for corporate
+		income reporting, while the Title files contain abstract of title to land
+		patents, deeds, and accretions involving proper-ties of the company and the
+		Santa Fe Pacific Railroad Company. The Water Rights files include a report by
+		C.P. Vetter on the effects of the constant rise of the Colorado River bed in
+		the vicinity of Needles, and documents relating to the acquisition, leasing,
+		and ownership of Colorado River water by the company. </p>
+  </scopecontent> 
+  <controlaccess id="a12">
+	 <head>Access Terms</head>
+	 <list>
+		<item>
+		  <corpname encodinganalog="110">Cotton Land Company</corpname></item>
+	 </list>
+	 <list>
+		<item>
+		  <corpname encodinganalog="110">Cotton Water and Irrigation
+			 Company</corpname></item>
+	 </list>
+	 <list>
+		<item>
+		  <corpname encodinganalog="110">Mohave Venture Farms</corpname></item>
+	 </list>
+	 <list>
+		<item>
+		  <corpname encodinganalog="110">Bermuda Plantations</corpname></item>
+	 </list>
+	 <list>
+		<item>
+		  <corpname encodinganalog="110">River Farms</corpname></item>
+	 </list>
+	 <list>
+		<item>
+		  <subject>Water rights -- Colorado River (Colo.-Mexico)</subject></item>
+	 </list>
+	 <list>
+		<item>
+		  <subject>Business enterprises -- Arizona -- Archives</subject></item>
+	 </list>
+	 <list>
+		<item>
+		  <subject>Business enterprises -- California --
+			 Archives</subject></item>
+	 </list>
+	 <list>
+		<item>
+		  <subject>Real estate development -- Arizona -- Mohave
+			 County</subject></item>
+	 </list>
+	 <list>
+		<item>
+		  <subject>Floods -- Colorado River (Colo.-Mexico)</subject></item>
+	 </list>
+	 <list>
+		<item>
+		  <geogname>Colorado River Indian Reservation (Ariz. and Calif.)
+			 </geogname></item>
+	 </list>
+	 <list>
+		<item>
+		  <geogname>Colorado River (Colo.-Mexico) -- Water
+			 rights</geogname></item>
+	 </list>
+	 <list>
+		<item>
+		  <geogname>Parker Dam (Ariz. and Calif.) </geogname></item>
+	 </list>
+	 <list>
+		<item>
+		  <geogname>Arizona -- Mohave County -- Land
+			 development</geogname></item>
+	 </list>
+	 <list>
+		<item>
+		  <geogname>Fort Mohave Indian Reservation (Ariz. and
+			 Calif.)</geogname></item>
+	 </list>
+	 <list>
+		<item>
+		  <geogname>Mohave County (Ariz.) -- History</geogname></item>
+	 </list>
+	 <list>
+		<item>
+		  <genreform>Correspondence</genreform></item>
+	 </list>
+	 <list>
+		<item>
+		  <genreform>Photographs</genreform></item>
+	 </list>
+	 <list>
+		<item>
+		  <genreform>Articles of Incorporation</genreform></item>
+	 </list>
+	 <list>
+		<item>
+		  <genreform>Minutes</genreform></item>
+	 </list>
+  </controlaccess> 
+  <separatedmaterial encodinganalog="544$2">
+	 <head>Separated Material</head>
+	 <p>Approximately 1.5 feet of duplicates and check vouchers were separated
+		from the collection.</p>
+  </separatedmaterial>
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head>
+	 <c01 level="series" id="ser1"> 
+		<did>
+		  <unittitle>Series I: General Files, 
+			 <unitdate type="inclusive"
+			  normal="1909/1970">1909-1970</unitdate></unittitle> 
+		</did> 
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Cotton Water and Irrigation Company</unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">1</container>
+				<unittitle>Articles of Incorporation and Bylaws. 
+				  <unitdate type="inclusive"
+					normal="1909/1925">1909-1925</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">2</container>
+				<unittitle>Minutes. 
+				  <unitdate type="inclusive"
+					normal="1910/1933">1910-1933</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">3</container>
+				<unittitle>Stock Journal and Ledger. 
+				  <unitdate type="inclusive"
+					normal="1910/1933">1910-1933</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Cotton Land Company</unittitle>
+		  </did>
+		  <c03>
+			 <did><container type="box">2</container><container
+				type="folder">1</container>
+				<unittitle>Articles of Incorporation and Bylaws. 
+				  <unitdate type="inclusive"
+					normal="1909/1925">1909-1925</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">2</container><container
+				type="folder">2</container>
+				<unittitle>Minutes. 
+				  <unitdate type="inclusive"
+					normal="1910/1968">1910-1968</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">2</container><container
+				type="folder">3</container>
+				<unittitle>Stockbook. 
+				  <unitdate type="inclusive"
+					normal="1910/1957">1910-1957</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">2</container><container
+				type="folder">4</container>
+				<unittitle>Stock Journal and Ledger. 
+				  <unitdate type="inclusive"
+					normal="1910/1933">1910-1933</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">3</container><container
+				type="folder">1</container>
+				<unittitle>Accounting. 
+				  <unitdate type="inclusive"
+					normal="1955/1960">1955-1960</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">3</container><container
+				type="folder">2</container>
+				<unittitle>Agents, escrows, etc. 
+				  <unitdate type="inclusive"
+					normal="1955/1958">1955-1958</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">3</container><container
+				type="folder">3</container>
+				<unittitle>Balance Sheets. 
+				  <unitdate type="inclusive" normal="NaN/1960">1934,
+					 1940-1960</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">3</container><container
+				type="folder">4</container>
+				<unittitle>Bermuda Plantations. 
+				  <unitdate type="inclusive"
+					normal="1952/1959">1952-1959</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">3</container><container
+				type="folder">5</container>
+				<unittitle>Documents. 
+				  <unitdate type="inclusive"
+					normal="1909/1970">1909-1970</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">3</container><container
+				type="folder">6</container>
+				<unittitle>Gas station sale. 
+				  <unitdate type="inclusive"
+					normal="1955">1955</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">3</container><container
+				type="folder">7</container>
+				<unittitle>Hollingsworth Corporation. 
+				  <unitdate type="inclusive"
+					normal="1955">1955</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">3</container><container
+				type="folder">8</container>
+				<unittitle>Journals. 
+				  <unitdate type="inclusive"
+					normal="1924/1970">1924-1970</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">3</container><container
+				type="folder">9</container>
+				<unittitle>Lawyer: L. B. Binford. 
+				  <unitdate type="inclusive"
+					normal="1954/1964">1954-1964</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">3</container><container
+				type="folder">10</container>
+				<unittitle>Legal fees. 
+				  <unitdate type="inclusive"
+					normal="1956/1961">1956-1961</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">3</container><container
+				type="folder">11</container>
+				<unittitle>Liquidation. 
+				  <unitdate type="inclusive"
+					normal="1956/1959">1956-1959</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">3</container><container
+				type="folder">12</container>
+				<unittitle>D. W. Hulet. 
+				  <unitdate type="inclusive"
+					normal="1955/1960">1955-1960</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">4</container><container
+				type="folder">1</container>
+				<unittitle>D. W. Hulet (continued). 
+				  <unitdate type="inclusive"
+					normal="1955/1960">1955-1960</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">4</container><container
+				type="folder">2</container>
+				<unittitle>McKellips and Gregg. 
+				  <unitdate type="inclusive"
+					normal="1955/1966">1955-1966</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">4</container><container
+				type="folder">3</container>
+				<unittitle>Merriweather and Mahoney Suits. 
+				  <unitdate type="inclusive"
+					normal="1952/1958">1952-1958</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">4</container><container
+				type="folder">4</container>
+				<unittitle>Mohave Valley Farms. 
+				  <unitdate type="inclusive"
+					normal="1951/1959">1951-1959</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">4</container><container
+				type="folder">5</container>
+				<unittitle>River Farms. 
+				  <unitdate type="inclusive"
+					normal="1958/1966">1958-1966</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">4</container><container
+				type="folder">6</container>
+				<unittitle>Sherrill and LaFollette. 
+				  <unitdate type="inclusive"
+					normal="1955/1970">1955-1970</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">4</container><container
+				type="folder">7</container>
+				<unittitle>Jerry Skousen: Arizona subdivisions trust. 
+				  <unitdate type="inclusive"
+					normal="1955/1965">1955-1965</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">4</container><container
+				type="folder">8</container>
+				<unittitle>Sundt Construction. 
+				  <unitdate type="inclusive"
+					normal="1958">1958</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">4</container><container
+				type="folder">9</container>
+				<unittitle>D. H. Swan matters. 
+				  <unitdate type="inclusive"
+					normal="1952/1962">1952-1962</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+	 </c01> 
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series II: Numbered Files, 
+			 <unitdate type="inclusive" normal="NaN">No
+				Date</unitdate></unittitle>
+		</did>
+		<c02>
+		  <did><container type="box">5</container><container
+			 type="folder">1</container>
+			 <unittitle>Current Lease Options (100). 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">5</container><container
+			 type="folder">2</container>
+			 <unittitle>Litigation (200). 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">5</container><container
+			 type="folder">3</container>
+			 <unittitle>Improvement of Land (300). 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">5</container><container
+			 type="folder">4</container>
+			 <unittitle>Indians (400). 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">5</container><container
+			 type="folder">5</container>
+			 <unittitle>Maps and Charts (500). 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">6</container><container
+			 type="folder">1</container>
+			 <unittitle>Maps and Charts (continued). 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">6</container><container
+			 type="folder">2</container>
+			 <unittitle>Miscellaneous (600). 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">6</container><container
+			 type="folder">3</container>
+			 <unittitle>Past Sales Negotiations (700). 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">6</container><container
+			 type="folder">4</container>
+			 <unittitle>Sales to Government (800). 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">6</container><container
+			 type="folder">5</container>
+			 <unittitle>Taxes (900). 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">6</container><container
+			 type="folder">6</container>
+			 <unittitle>Title (1000). 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">6</container><container
+			 type="folder">7</container>
+			 <unittitle>Water Rights (1100). 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+  </dsc> 
+</archdesc></ead>

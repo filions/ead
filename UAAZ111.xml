@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+   <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0"> 
+      <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special Collections//text
+		(US::AzU::The Peralta Grant; James Addison Reavis and the Barony of Arizona)//en""UAAZ111.xml"
+      </eadid> 
+      <filedesc> 
+         <titlestmt> 
+         	<titleproper encodinganalog="title">The Peralta Grant; James Addison Reavis and the Barony of Arizona,
+	 	       <date normal="1873/1960" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">ca. 1873-1960</date>
+	 	    </titleproper>
+         	<titleproper type="filing" altrender="nodisplay"> The Peralta Grant; James Addison Reavis and the Barony of Arizona,
+            </titleproper>
+	        <author>Processed by Staff.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date normal= "2015" era= "ce" calendar = "gregorian">; 2015</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+            <date era="ce" encodinganalog="date" normal="20151201">December 01, 2015</date>
+  	     </creation>
+	     <langusage>Finding aid encoded in<language> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+      <did id="a1"> 
+         <head>Collection Summary</head> 
+      	<unittitle encodinganalog="245" label="Collection Name:"> The Peralta Grant; James Addison Reavis and the Barony of Arizona,
+            <unitdate type="inclusive" label="Dates:" normal="1873/1960">ca. 1873-1960</unitdate>
+  	     </unittitle>	 
+	     <unitid label="Collection Number:" encodinganalog="099" repositorycode="AzU" countrycode="us">AZ 111</unitid>
+	     <origination label="Creator:"> 
+            <persname source="lcnaf" encodinganalog="100">Powell, Donald M.</persname> </origination>
+      	<abstract label="Abstract:">Typescript original drafts and revisions with holograph corrections; accompanied by 
+      								correspondence, notes, photographs, contemporary newspaper accounts, and extensive related 
+      								research material used in the book, including many notes by Rosemary Taylor. Photographs, 
+      								documents, and maps are photocopies of original materials used in Reavis&apos; fraudulent land grant 
+      								claim. Newspapers accounts, 1873-1896, are typescripts and photocopies from original reports 
+      								related to the claim.</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description:"><extent>.8 linear feet</extent></physdesc>	 
+	     <repository label="Repository:"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng" scriptcode="Latin">English.</language></langmaterial>
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+         <p>There are no restrictions on this collection.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+      	<p>The Peralta Grant; James Addison Reavis and the Barony of Arizona (AZ 111). Special Collections, University of Arizona Libraries.</p>
+      </prefercite>
+   	<acqinfo>
+   		<head>Acquisition Information</head>
+   		<p>Acquired as gift, 1960.</p>
+   	</acqinfo>
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Staff.</p>
+      </processinfo>
+      <bioghist id="a2" encodinganalog="545"> 
+         <head>Biographical Note</head> 
+      	<p>Librarian and author.</p> 
+      </bioghist> 
+      <arrangement id="a4" encodinganalog="351$a"> 
+         <head>Arrangement</head> 
+  	     <p>This collection is organized into 4 series.</p>	 
+         <list>
+            <item>Series I:Manuscripts drafts,
+  			   <unitdate>1959-1960</unitdate></item>
+  		    <item>Series II:Typescripts of news accounts,
+  			   <unitdate>1873-1896</unitdate></item>
+         	<item>Series III:Notes and correspondence,
+         		<unitdate>1959-1960</unitdate></item>
+         	<item>Series IV:Copies of photographs, documents, and maps,
+         		<unitdate>undated</unitdate></item>
+         </list>
+      </arrangement> 
+      <scopecontent id="a3" encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>Typescript original drafts and revisions with holograph 
+      	corrections; accompanied by correspondence, notes, 
+      	photographs, contemporary newspaper accounts, and 
+      	extensive related research material used in the book, 
+      	including many notes by Rosemary Taylor. Photographs, 
+      	documents, and maps are photocopies of original materials 
+      	used in Reavis&apos; fraudulent land grant claim. Newspapers 
+      	accounts, 1873-1896, are typescripts and photocopies from 
+      	original reports related to the claim. Published by 
+      	University of Oklahoma Press, 1960.</p> 
+      </scopecontent> 
+      <relatedmaterial id="a6" encodinganalog="5441">
+      	<p>The following collections also contain information about the Peralta Grant: AZ 107, AZ 108, AZ 109, and AZ 110.</p>
+      </relatedmaterial>
+      <controlaccess>
+         <head>Access Terms</head>
+         <list type="simple">
+         	<item>
+         		<persname encodinganalog="600" source= "lcnaf">Reavis, James Addison, 1843-1914.</persname>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Land grants -- Arizona.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Peralta Grant.</subject>
+         	</item>
+         </list>
+      </controlaccess>
+   </archdesc>
+</ead>

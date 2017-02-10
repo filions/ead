@@ -1,0 +1,217 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+ audience="internal" id="a0"> 
+	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library SpecialCollections//text(US::AzU::Papers of Joseph Thomas McKinney//en""UAAZ087.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper> Papers of Joseph Thomas McKinney
+	 		<date normal="1841/1927" era="ce" calendar="gregorian">1841-1927</date>
+	 		<date normal="1841/1887" type="bulk">(bulk 1841-1887)</date></titleproper>
+	 		<author>Processed by staff.</author> 
+	 </titlestmt>
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date normal= "2012" era= "ce" calendar = "gregorian">;2012</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Deborah Weller. 
+  		<date era="ce" calendar="gregorian" normal="20120111">January 11, 2012</date> ></creation> 
+	 <langusage>Finding aid is in<language> English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+  	<titleproper>Papers of Joseph Thomas McKinney,<date era= "ce" calendar= "gregorian">1841-1927</date></titleproper> 
+	 <num>Collection Number: AZ 087</num> 
+  	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Staff.</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+		  	<date era="ce" calendar="gregorian">November 1994</date></item> 
+		</defitem>
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Deborah Weller</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 2012. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name:"> Papers of Joseph Thomas McKinney
+  		<unitdate type="inclusive" label="Dates:" era="ce" calendar="gregorian" normal="1841/1927">1841-1927</unitdate> 	
+  		<unitdate type="bulk" label="Dates:" era="ce" calendar="gregorian" normal="1841/1887">(bulk 1841-1887)</unitdate></unittitle> 
+  		<unitid label="Collection Number:" encodinganalog="099"
+  			repositorycode="AzU" countrycode="us">MS 087</unitid>  
+	 <origination label="Creator:"> 
+	 	<persname encodinganalog="100" source="lcnaf">McKinney, Joseph T., 1858-1948</persname></origination> 
+  	<abstract label="Abstract:">This archive contains a biography of Joseph T. McKinney, a letter he wrote to his son and a telegram from George P.Hunt, Governor of Arizona.  Also included are bills of sales for slaves, deeds, and other legal papers for his granfather (Joseph T. Cook) and his uncle (J.W. Cook).</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent>0.2 linear ft.</extent></physdesc>	 
+	 <repository label="Repository:"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository> 
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+  	<p>There are no restrictions on this collection.</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>Papers of Joseph Thomas McKinney(AZ 087). University of Arizona Libraries, Special Collections.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+  	<p>Joseph Thomas McKinney was born June 20th 1858 in Arkansas.  McKinney was a pioneer and law enforcement officer in the Arizona territory. He arrived in Arizona in 1885 and worked for the Wabash Cattle Company in St. Johns for about a year.  In 1885 he was appointed undersheriff of Apache County by Commodore Perry Owens and several years later he became Constable for Winslow.  Joseph T. McKinney ranched in Fort Thomas until he moved to Bowie, Arizona in 1896.   In 1905 he relocated to Yuma where he became a guard at the state pen.  He died at the age of 90 in 1948.</p> 
+  </bioghist> 
+  <arrangement id="a4" encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+	 <p>This collection is organized into three series</p>	 
+	 <list> 
+	 	<item>Series I:  Joseph T. McKinney papers,
+	 	</item>
+	 	<item>Series II: J.W. Cook papers, 
+	 	</item>
+	 	<item>Series III: Joseph T. Cook papers, 
+	 	</item>
+	 </list> 
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>Autobiographical sketch, letter, and documents. The 19-page sketch includes his involvement as a law enforcement officer in the Graham- Tewksbury feud; and a letter, 1927, to his son describes a hanging at the Arizona State Prison at Florence. Also present are deeds, tax receipts, certificates of land purchases, bills of sale for slaves during the 1840s, and other documents relating to his grandfather, Joseph Thomas Cook, in Arkansas in Alabama, and to his uncle, J.W. Cook, in Texas.</p> 
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+  	<list> 
+  		<item> 
+  			<persname encodinganalog="600" role="subject" source="lcnaf">McKinney, Joseph T., 1858-1948</persname> </item> 
+  	</list> 
+  	<list> 
+  		<item> 
+  			<persname encodinganalog="600" role="subject" source="lcnaf">Cook, J.W.</persname> </item> 
+  	</list> 
+  	<list> 
+  		<item> 
+  			<persname encodinganalog="600" role="subject" source="lcnaf">Cook, Joseph T.</persname> </item> 
+  	</list> 
+	 <list> 
+		<item> 
+			<subject encodinganalog="650" source="lcsh">Slavery -- United States -- History -- Sources.</subject> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+			<subject encodinganalog="650" source="lcsh">Sheriffs - Arizona.</subject> </item> 
+	 </list> 
+  	<list><item>
+  		<subject encodinganalog="650" source="lcsh">Pioneers - Arizona.</subject></item>
+  	</list>
+  	<list><item>
+  		<subject encodinganalog="650" source="lcsh">Graham - Tewksbury Feud.</subject>
+  	</item></list>
+	 <list> <item> 
+	 	<subject encodinganalog="650" source= "lcsh">Land titles - Arkansas.</subject> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+			<subject encodinganalog="650" source="lcsh">Frontier and pioneer life – Arizona.</subject> </item> 
+	 </list> 
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+  	<c01 level="series" id="ser1"> 
+  		<did> 
+  			<unittitle>Series I: Joseph T. McKinney papers</unittitle>
+  			<unitdate era="ce" calendar="gregorian">1927</unitdate>
+  			<unitdate era="ce" calendar="gregorian">1943</unitdate>
+  		</did>
+  		<arrangement>
+  			<p>Arranged chronologically. This series contains Joseph Thomas McKinney's autobiography; telegram from Arizona Governor Hunt; letter to son concerning a hanging in Arizona.</p> 
+  		</arrangement>
+  		<c02 level="file"> 
+  			<did> 
+  				<container type="Box">1</container>
+  				<container type="Folder">1</container>
+  				<unittitle>Joseph T. McKinney </unittitle> 
+  			</did> 
+  		</c02> 
+  		</c01>
+  		<c01 level="series" id="ser2"> 
+  			<did> 
+  				<unittitle>Series II: J.W. Cook miscellanous papers, 
+  					<unitdate era="ce" calendar="gregorian">1841</unitdate>
+  					<unitdate normal= "1843/1846" era="ce" calendar="gregorian">1943/1846</unitdate>
+  					<unitdate era="ce" calendar="gregorian">1887</unitdate>
+  				</unittitle>
+  			</did>
+  			<arrangement>
+  				<p>Arranged chronologically</p> 
+  			</arrangement>
+  			<c02 level="file"> 
+  				<did>  
+  					<container type="Box">1</container>
+  					<container type="Folder">2</container>
+  					<unittitle>Miscellaneous papers.</unittitle> 
+  				</did> 
+  			</c02> 
+  		</c01> 
+  	<c01 level="series" id="ser3"> 
+  		<did> 
+  			<unittitle>Series III: Joseph Cook papers,</unittitle>
+  			<unitdate normal= "1841/1857" era="ce" calendar="gregorian">1841-1857</unitdate>
+  		</did>
+  		<arrangement>
+  			<p>Arranged chronologically</p> 
+  		</arrangement>
+  		<c02 level="file"> 
+  			<did> 
+  				<container type="Box">1</container>
+  				<container type="Folder">3</container>
+  				<unittitle>Bills of sale for slaves, </unittitle>
+  				<unitdate normal="1841/1846" era="ce" calendar="gregorian">1841-1846</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> 
+  				<container type="Box">1</container>
+  				<container type="folder">4</container>
+  				<unittitle>Deeds and land purchases,</unittitle>
+  				<unitdate normal="1850/1857" era="ce" calendar="gregorian">1850-1857</unitdate>
+  			</did> 
+  		</c02> 
+  	</c01>
+  </dsc> 
+</archdesc></ead>

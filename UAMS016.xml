@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?filetitle Anglo-Mexican Company records?>
+<ead relatedencoding="MARC21"> 
+<eadheader audience="internal" findaidstatus="edited-full-draft"
+ langencoding="iso639-2b"> 
+	<eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
+		Special Collections//text(US::AzU::Anglo-Mexican Company records) //en"
+	 "UAMS016.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Anglo-Mexican Company records, 
+		  <date>1813-1885 (bulk 1830-1842)</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by staff.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date>&#x00A9; 2005</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation encodinganalog="500">Inventory encoded by Amy Verheide. 
+		<date>February 2005</date></creation> 
+	 <langusage>Inventory is in<language langcode="en" encodinganalog="546">
+		Spanish.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper encodinganalog="245$a">Anglo-Mexican Company records, 
+		<date>1813-1885 (bulk 1830-1842)</date></titleproper> 
+	 <num>Collection Number: MS 016</num> 
+  	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>staff</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>February 7, 2005</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Amy Verheide</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 2005. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name:">Anglo-Mexican
+		Company records, 
+		<unitdate type="inclusive"
+		 normal="1813/1885">1813-1885</unitdate></unittitle> 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	  repositorycode="AzU" countrycode="us">MS 016</unitid>
+		<origination label="Creator:"> 
+		  <corpname encodinganalog="110">Anglo-Mexican Co. Ltd.</corpname>
+		  </origination> 
+		<abstract label="Abstract:"> Collection includes financial accounts of
+		  the Valenciana Mine and Nuestra Se&#x00F1;ora de Guadalupe Mine of the
+		  Guanajuato Mining District, Mexico for scattered months between 1813 and
+		  1885.</abstract> 
+		<physdesc encodinganalog="300$a" label="Physical Description:"><extent
+		  encodinganalog="300"/>.1 foot</physdesc> 
+		<repository label="Repository:"> 
+			<corpname encodinganalog="110">University of Arizona Libraries, Special Collections</corpname> 
+		  <address> 
+			 <addressline>University of Arizona</addressline> 
+			 <addressline>PO Box 210055</addressline> 
+			 <addressline>Tucson, AZ 85721-0055</addressline> 
+			 <addressline>Phone: 520-621-6423</addressline> 
+			 <addressline>Fax: 520-621-9733</addressline> 
+			 <addressline>URL: http://speccoll.library.arizona.edu/</addressline> 
+		  </address></repository> 
+  </did> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Restrictions</head> 
+	 <p>None.</p> 
+  </accessrestrict> 
+  <userestrict encodinganalog="540"> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Credit Line</head> 
+	 <p>Anglo-Mexican Company records(MS 016). Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p> Anglo-Mexican Company operated the Valenciana Mine and other mines in
+		the Guanajuato Mining District of Mexico, Guanajuato, Mexico.</p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into one series:</p> 
+	 <list> 
+		<item>Series I: Financial Records, 
+		  <unitdate type="inclusive"
+			normal="1813/1885">1813-1885</unitdate></item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p> Financial accounts include salaries, wages and operating expenses of
+		the Valenciana Mine and other mines in the Guanajuato Mining District, Mexico
+		for scattered months between 1830 and 1842; one receipt is dated 1885. Also
+		includes a few 1813 records of Nuestra Se&#x00F1;ora de Guadalupe Mine.</p> 
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+		  <subject>Mines and mineral resources -- Mexico -- Guanajuato -- History
+			 -- 19th century -- Sources.</subject></item> 
+		<item> 
+		  <geogname>Guanajuato Mining District (Mexico) -- History --
+			 Sources.</geogname></item> 
+		<item> 
+		  <geogname>Valenciana Mine (Guanajuato, Mexico)</geogname></item> 
+		<item> 
+		  <geogname>Guadalupe, Our Lady of, Mine (Mexico)</geogname></item> 
+		<item> 
+		  <genreform>Ledgers</genreform></item> 
+	 </list> 
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+		  <unittitle>Series I: Financial Records, 
+			 <unitdate type="inclusive"
+			  normal="1813/1885">1813-1885</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did><container type="Box">1</container>
+		  <container type="Folder">1</container> 
+			 <unittitle>Nuestra Se&#x00F1;ora de Guadalupe Mine (Guanajuato,
+				Mexico),  
+				<unitdate type="inclusive"
+				 normal="1813">1813.</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="Box">1</container><container type="Folder">2</container> 
+			 <unittitle>Valenciana Mine,  
+				<unitdate type="inclusive"
+				 normal="1816">1816.</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="Box">1</container><container type="Folder">3</container> 
+			 <unittitle>Valenciana Mine,  
+				<unitdate type="inclusive"
+				 normal="1825">1825.</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="Box">1</container><container
+			 type="Folder">4</container> 
+			 <unittitle>Valenciana Mine,  
+				<unitdate type="inclusive"
+				 normal="1826">1826.</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="Box">1</container><container
+			 type="Folder">5</container> 
+			 <unittitle>Valenciana Mine,  
+				<unitdate type="inclusive"
+				 normal="1830">1830.</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="Box">1</container><container
+			 type="Folder">6</container> 
+			 <unittitle> 
+				<unitdate type="inclusive"
+				 normal="1833/1835">1833-1835.</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="Box">1</container><container
+			 type="Folder">7</container> 
+			 <unittitle>Valenciana Mine,  
+				<unitdate type="inclusive"
+				 normal="1836/1838">1836-1838.</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="Box">1</container><container
+			 type="Folder">8</container> 
+			 <unittitle>Valenciana Mine,  
+				<unitdate type="inclusive"
+				 normal="1840/1885">1840-1885.</unitdate></unittitle> 
+		  </did> 
+		</c02>
+	 </c01> 
+  </dsc> 
+</archdesc></ead>

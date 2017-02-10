@@ -1,0 +1,674 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+ audience="internal" id="a0"> 
+	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special
+		Collections//text(US::AzU::University of Arizona Fine Arts Library Music Reference Files Collection)//en""UAMS556.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper encodinganalog="title"> University of Arizona Fine Arts Library Music Reference Files Collection,
+	 		<date normal="1918/1995" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">1918-1995</date>  
+	 		</titleproper>
+	 	<titleproper type="filing" altrender="nodisplay"> University of Arizona Fine Arts Library Music Reference Files Collection,
+	 		</titleproper>
+	 	<author>Processed by Steven Burg.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		  <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		</address> 
+		<date normal= "2015" era= "ce" calendar = "gregorian">; 2015</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+  		<date era="ce" encodinganalog="date" normal="20151103">November 03, 2015</date></creation>
+	 <langusage>Finding aid is in<language> English.</language></langusage>
+  	<descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+  </profiledesc> 
+</eadheader> 
+	<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name:"> University of Arizona Fine Arts Library Music Reference Files Collection,
+  		<unitdate type="inclusive" label="Dates:" normal="1918/1995">1918-1995</unitdate>
+  	</unittitle> 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	 	repositorycode="AzU" countrycode="us">MS 556</unitid>
+	 <origination label="Creator:"> 
+	 	<corpname source="lcnaf" encodinganalog="110">University of Arizona. Fine Arts Library</corpname> </origination> 
+  	<abstract label="Abstract:">This collection contains subject files referencing musical topics including composers, music history, music theory, suggested repertoire for individuals and ensembles, and other broad topics. These files were used as reference files at the University of Arizona Fine Arts Library.</abstract> 
+  	<physdesc encodinganalog="300$a" label="Physical Description:"><extent>5 linear feet</extent></physdesc>	 
+	 <repository label="Repository:"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		  <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		</address></repository>
+  	<langmaterial>Materials are in <language encodinganalog="546" langcode="eng"
+  		scriptcode="Latin">English,</language>with materials in<language encodinganalog="546" langcode="spa"> Spanish,</language><language encodinganalog="546" langcode="ger"> German,</language><language encodinganalog="546" langcode="fre"> French,</language> and<language encodinganalog="546" langcode="cze"> Czech.</language></langmaterial>
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+  	<p>There are no restrictions on this collection.</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>University of Arizona Fine Arts Library Music Reference Files Collection (MS 556). Special
+  		Collections, University of Arizona Libraries.</p>
+  </prefercite> 
+  <processinfo>
+  	<head>Processing History</head>
+  	<p>Processed by Steven Burg.</p>
+  </processinfo>
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Historical Note</head> 
+  	<p>These files were gathered from the University of Arizona Fine Arts Library where they served as reference files.</p> 
+  </bioghist> 
+  <arrangement id="a4" encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+  	<p>This collection of files is organized alphabetically by subject.</p>
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>Papers 1918-1995: This collection consists of the reference files kept by the University of Arizona Fine Arts Library. 
+  	The bulk of the material consists of three to five-paneled 9 inch by 4 inch pamphlets pertaining to individual composer biographies, catalog of works, 
+  	and other related information. Other items in the collection are educational and group-focused materials in the form of periodicals, articles, repertoire lists, 
+  	programs as well as papers on a variety of musical subjects. They are arranged alphabetically by subject. Notable examples are various charts visualizing music history, 
+  	an accordion chart, and papers detailing the music of Colonial America.</p> 
+  </scopecontent> 
+  	<controlaccess>
+  		<head>Access Terms</head>
+  		<list type="simple">
+  			<item>
+  				<subject encodinganalog="650" source= "lcsh">American Academy of Teachers of Singing.</subject>
+  			</item>
+  			<item>
+  				<subject encodinganalog="650" source="lcsh">Composer--Biography.</subject>
+  			</item>
+  			<item>
+  				<subject encodinganalog="650" source="lcsh">Music Instruction and study.</subject>
+  			</item>
+  		</list>
+  	</controlaccess>
+<dsc type="combined" id="a23"> 
+	 <head>Container List</head>
+	<p>This collection is arranged alphabetically by subject title.</p>
+	 
+				<c01 level="file"> 
+				<did> 
+					<container type="box">1</container> 
+					<container type="folder">1</container> 
+					<unittitle>A (1 of 2),</unittitle>
+					<unitdate>1945-1989</unitdate>
+				</did>
+				</c01>
+	<c01 level="file"> 
+	<did> 
+		<container type="box">1</container> 
+		<container type="folder">2</container> 
+		<unittitle>A (2 of 2),</unittitle>
+		<unitdate>1945-1989</unitdate>
+	</did> 
+	</c01>
+	<c01 level="file">
+	<did>
+		<container type="box">1</container>
+		<container type="folder">3</container>
+		<unittitle>B (1 of 7),</unittitle>
+		<unitdate>1930-1995</unitdate>
+	</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">1</container>
+			<container type="folder">4</container>
+			<unittitle>B (2 of 7),</unittitle>
+			<unitdate>1930-1995</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">1</container>
+			<container type="folder">5</container>
+			<unittitle>B (3 of 7),</unittitle>
+			<unitdate>1930-1995</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">1</container>
+			<container type="folder">6</container>
+			<unittitle>B (4 of 7),</unittitle>
+			<unitdate>1930-1995</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">1</container>
+			<container type="folder">7</container>
+			<unittitle>B (5 of 7),</unittitle>
+			<unitdate>1930-1995</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">1</container>
+			<container type="folder">8</container>
+			<unittitle>B (6 of 7),</unittitle>
+			<unitdate>1930-1995</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">1</container>
+			<container type="folder">9</container>
+			<unittitle>B (7 of 7),</unittitle>
+			<unitdate>1930-1995</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">1</container>
+			<container type="folder">10</container>
+			<unittitle>C (1 of 6),</unittitle>
+			<unitdate>1933-1994</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">1</container>
+			<container type="folder">11</container>
+			<unittitle>C (2 of 6),</unittitle>
+			<unitdate>1933-1994</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">1</container>
+			<container type="folder">12</container>
+			<unittitle>C (3 of 6),</unittitle>
+			<unitdate>1933-1994</unitdate>
+		</did>
+	</c01>
+				<c01 level="file">
+					<did>
+						<container type="box">2</container>
+						<container type="folder">1</container>
+						<unittitle>C (4 of 6),</unittitle>
+						<unitdate>1933-1994</unitdate>
+					</did>
+				</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">2</container>
+			<container type="folder">2</container>
+			<unittitle>C (5 of 6),</unittitle>
+			<unitdate>1933-1994</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">2</container>
+			<container type="folder">3</container>
+			<unittitle>C (6 of 6),</unittitle>
+			<unitdate>1933-1994</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">2</container>
+			<container type="folder">4</container>
+			<unittitle>D (1 of 2),</unittitle>
+			<unitdate>1960-1993</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">2</container>
+			<container type="folder">5</container>
+			<unittitle>D (2 of 2),</unittitle>
+			<unitdate>1960-1993</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">2</container>
+			<container type="folder">6</container>
+			<unittitle>E (1 of 2),</unittitle>
+			<unitdate>1960-1989</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">2</container>
+			<container type="folder">7</container>
+			<unittitle>E (2 of 2),</unittitle>
+			<unitdate>1960-1989</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">2</container>
+			<container type="folder">8</container>
+			<unittitle>F (1 of 4),</unittitle>
+			<unitdate>1918-1995</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">2</container>
+			<container type="folder">9</container>
+			<unittitle>F (2 of 4),</unittitle>
+			<unitdate>1918-1995</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">2</container>
+			<container type="folder">10</container>
+			<unittitle>F (3 of 4),</unittitle>
+			<unitdate>1918-1995</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">2</container>
+			<container type="folder">11</container>
+			<unittitle>F (4 of 4),</unittitle>
+			<unitdate>1918-1995</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">2</container>
+			<container type="folder">12</container>
+			<unittitle>G (1 of 2),</unittitle>
+			<unitdate>1957-1986</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">2</container>
+			<container type="folder">13</container>
+			<unittitle>G (2 of 2),</unittitle>
+			<unitdate>1957-1986</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">2</container>
+			<container type="folder">14</container>
+			<unittitle>H (1 of 5),</unittitle>
+			<unitdate>1945-1993</unitdate>
+		</did>
+	</c01>
+				<c01 level="file">
+					<did>
+						<container type="box">3</container>
+						<container type="folder">1</container>
+						<unittitle>H (2 of 5),</unittitle>
+						<unitdate>1945-1993</unitdate>
+					</did>
+				</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">2</container>
+			<unittitle>H (3 of 5),</unittitle>
+			<unitdate>1945-1993</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">3</container>
+			<unittitle>H (4 of 5),</unittitle>
+			<unitdate>1945-1993</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">4</container>
+			<unittitle>H (5 of 5),</unittitle>
+			<unitdate>1945-1993</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">5</container>
+			<unittitle>I,</unittitle>
+			<unitdate>1950-1988</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">6</container>
+			<unittitle>J,</unittitle>
+			<unitdate>1955-1979</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">7</container>
+			<unittitle>K (1 of 2),</unittitle>
+			<unitdate>1965-1991</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">8</container>
+			<unittitle>K (2 of 2),</unittitle>
+			<unitdate>1965-1991</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">9</container>
+			<unittitle>L (1 of 2),</unittitle>
+			<unitdate>1960-1991</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">10</container>
+			<unittitle>L (2 of 2),</unittitle>
+			<unitdate>1960-1991</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">11</container>
+			<unittitle>M (1 of 10),</unittitle>
+			<unitdate>1931-1995</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">12</container>
+			<unittitle>M (2 of 10),</unittitle>
+			<unitdate>1931-1995</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">13</container>
+			<unittitle>M (3 of 10),</unittitle>
+			<unitdate>1931-1995</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">3</container>
+			<container type="folder">14</container>
+			<unittitle>M (4 of 10),</unittitle>
+			<unitdate>1931-1995</unitdate>
+		</did>
+	</c01>
+				<c01 level="file">
+					<did>
+						<container type="box">4</container>
+						<container type="folder">1</container>
+						<unittitle>M (5 of 10),</unittitle>
+						<unitdate>1931-1995</unitdate>
+					</did>
+				</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">4</container>
+			<container type="folder">2</container>
+			<unittitle>M (6 of 10),</unittitle>
+			<unitdate>1931-1995</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">4</container>
+			<container type="folder">3</container>
+			<unittitle>M (7 of 10),</unittitle>
+			<unitdate>1931-1995</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">4</container>
+			<container type="folder">4</container>
+			<unittitle>M (8 of 10),</unittitle>
+			<unitdate>1931-1995</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">4</container>
+			<container type="folder">5</container>
+			<unittitle>M (9 of 10),</unittitle>
+			<unitdate>1931-1995</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">4</container>
+			<container type="folder">6</container>
+			<unittitle>M (10 of 10),</unittitle>
+			<unitdate>1931-1995</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">4</container>
+			<container type="folder">7</container>
+			<unittitle>N (1 of 2),</unittitle>
+			<unitdate>1966-1986</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">4</container>
+			<container type="folder">8</container>
+			<unittitle>N (2 of 2),</unittitle>
+			<unitdate>1966-1986</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">4</container>
+			<container type="folder">9</container>
+			<unittitle>O,</unittitle>
+			<unitdate>1963-1986</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">4</container>
+			<container type="folder">10</container>
+			<unittitle>P (1 of 4),</unittitle>
+			<unitdate>1959-1992</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">4</container>
+			<container type="folder">11</container>
+			<unittitle>P (2 of 4),</unittitle>
+			<unitdate>1959-1992</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">4</container>
+			<container type="folder">12</container>
+			<unittitle>P (3 of 4),</unittitle>
+			<unitdate>1959-1992</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">4</container>
+			<container type="folder">13</container>
+			<unittitle>P (4 of 4),</unittitle>
+			<unitdate>1959-1992</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">4</container>
+			<container type="folder">14</container>
+			<unittitle>R (1 of 4),</unittitle>
+			<unitdate>1960-1992</unitdate>
+		</did>
+	</c01>
+				<c01 level="file">
+					<did>
+						<container type="box">5</container>
+						<container type="folder">1</container>
+						<unittitle>R (2 of 4),</unittitle>
+						<unitdate>1960-1992</unitdate>
+					</did>
+				</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">5</container>
+			<container type="folder">2</container>
+			<unittitle>R (3 of 4),</unittitle>
+			<unitdate>1960-1992</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">5</container>
+			<container type="folder">3</container>
+			<unittitle>R (4 of 4),</unittitle>
+			<unitdate>1960-1992</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">5</container>
+			<container type="folder">4</container>
+			<unittitle>S (1 of 5),</unittitle>
+			<unitdate>1941-1989</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">5</container>
+			<container type="folder">5</container>
+			<unittitle>S (2 of 5),</unittitle>
+			<unitdate>1941-1989</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">5</container>
+			<container type="folder">6</container>
+			<unittitle>S (3 of 5),</unittitle>
+			<unitdate>1941-1989</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">5</container>
+			<container type="folder">7</container>
+			<unittitle>S (4 of 5),</unittitle>
+			<unitdate>1941-1989</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">5</container>
+			<container type="folder">8</container>
+			<unittitle>S (5 of 5),</unittitle>
+			<unitdate>1941-1989</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">5</container>
+			<container type="folder">9</container>
+			<unittitle>T (1 of 2),</unittitle>
+			<unitdate>1958-1987</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">5</container>
+			<container type="folder">10</container>
+			<unittitle>T (2 of 2),</unittitle>
+			<unitdate>1958-1987</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">5</container>
+			<container type="folder">11</container>
+			<unittitle>U-V (1 of 2),</unittitle>
+			<unitdate>1938-1988</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">5</container>
+			<container type="folder">12</container>
+			<unittitle>U-V (2 of 2),</unittitle>
+			<unitdate>1938-1988</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">5</container>
+			<container type="folder">13</container>
+			<unittitle>W (1 of 2),</unittitle>
+			<unitdate>1957-1989</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">5</container>
+			<container type="folder">14</container>
+			<unittitle>W (2 of 2),</unittitle>
+			<unitdate>1957-1989</unitdate>
+		</did>
+	</c01>
+	<c01 level="file">
+		<did>
+			<container type="box">5</container>
+			<container type="folder">15</container>
+			<unittitle>Y-Z,</unittitle>
+			<unitdate>1966-1989</unitdate>
+		</did>
+	</c01>
+</dsc> 
+</archdesc></ead>

@@ -1,0 +1,1258 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+   <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0"> 
+      <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special Collections//text
+      	(US::AzU::Harrison Yocum Papers)//en""UAMS572.xml"
+      </eadid> 
+      <filedesc> 
+         <titlestmt> 
+            <titleproper encodinganalog="title">Harrison Yocum Papers
+	 	       <date normal="1864/2010" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">1864-2010</date>
+	 	       
+	 	       <date normal="1953/2008" type="bulk">(bulk 1953-2008)</date>
+	 	    </titleproper>
+	 	    <titleproper type="filing" altrender="nodisplay"> Yocum, (Harrison) Papers
+	 	    
+            </titleproper>
+	        <author>Processed by Doug Welch.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date normal= "2016" era= "ce" calendar = "gregorian">; 2016</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Doug Welch. 
+            <date era="ce" encodinganalog="date" normal="20160628">June 28, 2016</date>
+  	     </creation>
+	     <langusage>Finding aid encoded in<language> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc> 
+      
+   </eadheader> 
+
+   <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+      <did id="a1"> 
+         <head>Collection Summary</head> 
+  	     <unittitle encodinganalog="245" label="Collection Name:"> Harrison Yocum Papers
+            <unitdate type="inclusive" label="Dates:" normal="1864/2010">1864-2010</unitdate>
+            <unitdate type="bulk" label="Dates:" normal="1953/2008">(bulk 1953-2008)</unitdate> 
+  	     </unittitle>	 
+	     <unitid label="Collection Number:" encodinganalog="099" repositorycode="AzU" countrycode="us">MS 572</unitid>
+	     <origination label="Creator:"> 
+	     	<persname source="lcnaf" encodinganalog="100">Yocum,Harrison </persname> </origination> 
+      	<abstract label="Abstract:">This collection is centered on Yocum’s academic and professional interests in horticulture, botany and geology as well as his personal interests in musical composition, his family’s history and Christian religion and his role in the creation and development of Tucson Botanical Gardens. Items included in the collection are his notes on botany, research into palm trees, publications, autobiographical and family history information, press clippings; records regarding the Rockhounds, the Arizona branch of the International Palm Society and Tucson Botanical Gardens.
+      	</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description:"><extent>9.9 linear feet</extent></physdesc>	 
+	     <repository label="Repository:"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng" scriptcode="Latin">English.</language></langmaterial>
+   	        
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+         <p>No restrictions.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+  	     <p>Harrison Yocum Papers (MS 572). Special Collections, University of Arizona Libraries.</p>
+      </prefercite> 
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Doug Welch.</p>
+      </processinfo>
+      <bioghist id="a2" encodinganalog="545"> 
+         <head>Biographical Note</head> 
+      	<p>Harrison Yocum (1923-2010) studied horticulture with a minor in botany at Penn State, graduating in 1955 then earning his MS in Botany at Rutgers in 1959.  A lifelong botanist and horticulturalist, Harrison Yocum had a large collection of palm trees when he moved to Tucson from Bethlehem, PA in 1964. In Tucson he worked at the Dendrochronology Lab at the University of Arizona (UA). He moved on to supervising landscaping at Tucson International Airport (TIA), winning a number of awards for his work there. His home became the first site of the Tucson Botanical Gardens before it moved temporarily to Reid Park and finally to the Porter family’s nursery on Alvernon Way in 1975. </p>
+      	<p>After retiring from TIA in 1982, he taught classes in geology at Pima Community College, organizing the Pima College Rockhounds’ field trips. Yocum led field trips to collect geologic samples far afield in southern Arizona, producing handouts with his whimsical original ink drawings and maps. His students at Pima College along with returning friends and students were referred to as the Pima College Rockhounds (which he also rendered as Rock Hounds and Rock-hounds; we have preserved his usage).</p> 
+      	<p>Harrison Yocum also had extensive training in music starting at about the time he graduated high school. He wrote 195 original compositions for piano which are also included in this collection, including his favorite piece, <title render="italic">The Cardboard Mountains</title>.</p>
+      </bioghist> 
+      <arrangement id="a4" encodinganalog="351$a"> 
+         <head>Arrangement</head> 
+  	     <p>This collection is organized into seven series</p>	 
+         <list>
+         	<item>Series 1: Work in Botany,
+         		<unitdate>Work in Botany, 1950-2010</unitdate></item>
+         	<item>Sub-Series 1: Academic and Professional Work,
+  			   <unitdate>1951-1989</unitdate></item>
+         	<item>Sub-Series 2: Work on Palm Trees,
+  			   <unitdate>1950-1986</unitdate></item>
+         	<item>Sub-Series 3: Tucson Botanical Gardens,
+         		<unitdate>1964-2010</unitdate></item>
+         	<item>Series 2: Work and Teaching in Geology,
+         		<unitdate>1976-2010</unitdate>
+         	</item>
+         	<item>Sub-Series 1: Records of the Pima College Rockhounds,
+         			<unitdate>1976-2010</unitdate>
+         	</item>
+         	<item>Sub-Series 2: Miscellaneous Geology Materials,
+         		<unitdate>1960-2010</unitdate>
+         	</item>
+         	<item>Series 3: Musical Compositions,<unitdate>1945-2003</unitdate>
+         	</item>
+         	<item>Series 4: Harrison Yocum Personal and Family History,
+         		<unitdate>1864-2010</unitdate>
+         	</item>
+         	<item>Sub-Series 1: Biographical Information about Harrison Yocum,
+         		<unitdate>1952-2010</unitdate>
+         	</item>
+         	<item>Sub-Series 2: Yocum Family History,
+         		<unitdate>1864-2006</unitdate>
+         	</item>
+         	<item>Sub-Series 3: Publications about and by Harrison Yocum,
+         		<unitdate>2005-2009</unitdate>
+         	</item>
+         	<item>Sub-Series 4: Large Format Objects,
+         		<unitdate>2005-2009</unitdate>
+         	</item>
+         	<item>Series 5: Audio Cassettes of Yocum's Piano Compositions,
+         		<unitdate>undated</unitdate>
+         	</item>
+            <item>Series 6: Photographs,
+         		<unitdate>undated</unitdate>
+         	</item>
+         	<item>Series 7: Photo Albums,
+         		<unitdate>1962-2010</unitdate>
+         	</item>
+         	<item>Sub-Series 1: Tucson Botanical Gardens,
+         		<unitdate>1962-2005</unitdate>
+         	</item>
+         	<item>Sub-Series 2: Perambulations of the Pima College Rockhounds,
+         		<unitdate>1997-2009</unitdate>
+         	</item>
+         	<item>Sub-Series 3: Horticulture Newsclippings,
+         		<unitdate>undated</unitdate>
+         	</item>
+         	<item>Sub-Series 4: Travel Photos of Harrison Yocum,
+         		<unitdate>2002-2009</unitdate>
+         	</item>
+         	<item>Sub-Series 5: Harrison Yocum&apos;s Family and Friends,
+         		<unitdate>1961-2005</unitdate>
+         	</item>
+         </list>
+      </arrangement> 
+      <scopecontent id="a3" encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>Harrison Yocum was instrumental in the establishment of the Tucson Botanical Gardens (TBG), however the bulk of this collection focuses on his geology club, the Pima College Rockhounds; his schoolwork and independent research on botany; his piano compositions; his autobiography and family history, with some material focused on TBG.</p> 
+      	<p>Also housed in the collection is much history and some genealogy of the Yocum family, including correspondence from his ancestor George Seifert as well as letters and mementoes from Harrison&apos;s parents Harrison senior (Harry) and Bertha Yocum and a book about his sister, Eloise as well as materials gathered from his parents’ trip to California in 1915.</p>
+      	<p>This collection is arranged by medium: documents, cassettes, photo albums. Documents are arranged topically and by date when given. </p>
+      </scopecontent> 
+      
+      <controlaccess>
+         <head>Access Terms</head>
+         <list type="simple"> 
+            
+  		    <item>
+  			   <corpname encodinganalog="610" source= "lcnaf">International Palm Society.</corpname>
+  		    </item>
+         	<item>
+         		<corpname encodinganalog="610" source= "lcnaf">Pima Community College.</corpname>
+         	</item>
+         	<item>
+         		<corpname encodinganalog="610" source= "lcnaf">Tucson Airport Authority.</corpname>
+         	</item>
+         	<item>
+         		<corpname encodinganalog="610" source= "lcnaf">Tucson Botanical Gardens.</corpname>
+         	</item>
+         
+  		    <item>
+  			   <subject encodinganalog="650" source= "lcsh">Botany--Arizona.</subject>
+  		    </item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Geology--Arizona--Cochise County.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Geology--Arizona--Pima County.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Geology--New Mexico--Grant County.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Horticulture--Arizona.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Mineralogy--Arizona.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Music by American composers--in manuscript.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Palms--Arizona.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Rock collectors--United States.</subject>
+         	</item>
+  			  
+  		   
+  			   
+  		    
+         </list>
+      </controlaccess>
+  
+      <dsc type="combined" id="a23"> 
+         <head>Container List</head> 
+         <c01 level="series" id="ser1"> 
+         <did> 
+         <unitid>Series 1</unitid>
+         <unittitle>Work in Botany,</unittitle> 
+		 <unitdate type="inclusive">1950-2010</unitdate>
+		 </did>
+         <scopecontent>
+         <p>Contains academic notes, schoolwork, academic projects, independent research focused on botany.</p>
+         </scopecontent>
+		    	
+         		<c02 level="subseries" id="subser1">
+		    	<did>
+		    	<unitid>Subseries 1: Academic and Professional Work</unitid>
+		    	<unitdate type="inclusive">1951-1989</unitdate>
+		    	</did>
+         			  
+         			  <c03 level="file"> 
+             		  <did> 
+			   		  <container type="box">1</container> 
+			    	  <container type="folder">1</container> 
+			    	  <unittitle>Plant Propagation,</unittitle>
+			    	  <unitdate>1951</unitdate>
+		       		  </did> 
+		    		  </c03> 
+		    		
+         	<c03 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">2</container> 
+         			<unittitle>Agronomy Notes from Penn State Botanical Labs (1 of 2),</unittitle>
+         			<unitdate>1953</unitdate>
+         		</did> 
+         	</c03>
+         	<c03 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">3</container> 
+         			<unittitle>Agronomy Notes from Penn State Botanical Labs (2 of 2),</unittitle>
+         			<unitdate>1953</unitdate>
+         		</did> 
+         	</c03>
+         	<c03 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">4</container> 
+         			<unittitle>Geology 20,</unittitle>
+         			<unitdate>1954</unitdate>
+         		</did> 
+         	</c03>
+         	<c03 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">5</container> 
+         			<unittitle>Horticulture 8,</unittitle>
+         			<unitdate>1954</unitdate>
+         		</did> 
+         	</c03>
+         	<c03 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">6</container> 
+         			<unittitle>Horticulture 211,</unittitle>
+         			<unitdate>1955</unitdate>
+         		</did> 
+         	</c03>
+         	<c03 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">7</container> 
+         			<unittitle>Entomology 9,</unittitle>
+         			<unitdate>1955</unitdate>
+         		</did> 
+         	</c03>
+         	<c03 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">8</container> 
+         			<unittitle>Flower Arranging, Horticulture 151,</unittitle>
+         			<unitdate>1956</unitdate>
+         		</did> 
+         	</c03>
+         	<c03 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">9</container> 
+         			<unittitle>Agriculture 432, U Tenn,</unittitle>
+         			<unitdate>1957-1958</unitdate>
+         		</did> 
+         	</c03>
+         	<c03 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">10</container> 
+         			<unittitle>Ferns,</unittitle>
+         			<unitdate>circa 1959</unitdate>
+         		</did> 
+         	</c03>
+         	<c03 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">11</container> 
+         			<unittitle>Academic Diplomas,</unittitle>
+         			<unitdate>1935-1961</unitdate>
+         		</did> 
+         	</c03>
+         	<c03 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">12</container> 
+         			<unittitle>Academic and Professional Publications,</unittitle>
+         			<unitdate>1961-1970</unitdate>
+         		</did> 
+         	</c03>
+         	<c03 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">13</container> 
+         			<unittitle>Press Clippings,</unittitle>
+         			<unitdate>1966-1996</unitdate>
+         		</did> 
+         	</c03>
+         	<c03 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">14</container> 
+         			<unittitle>Professional and Academic Records,</unittitle>
+         			<unitdate>1951-1989</unitdate>
+         		</did> 
+         	</c03>
+         	<c03 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">15</container> 
+         			<unittitle>Academic and Professional Awards and Certifications,</unittitle>
+         			<unitdate>1956-2001</unitdate>
+         		</did> 
+         	</c03>
+         	<c03 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">16</container> 
+         			<unittitle>
+         				<title render="italic">Garden Writers of America Manual for Writers, TV/Radio Commentators and Public Speakers,</title>
+         			</unittitle>
+         			<unitdate>1988</unitdate>
+         		</did> 
+         	</c03>
+         	<c03 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">17</container> 
+         			<unittitle>Biblical Notes on Botany,</unittitle>
+         			<unitdate>undated</unitdate>
+         		</did> 
+         	</c03>
+         	</c02>
+		    <c02 level="subseries">
+		       <did> 
+		       	<unitid>Subseries 2</unitid>
+			      <unittitle>Work on Palm Trees,</unittitle> 
+			      <unitdate type="inclusive">1950-1986</unitdate>
+			   </did>
+		       <c03 level="file"> 
+			      <did> 
+			         <container type="box">1</container> 
+				     <container type="folder">18</container> 
+				     <unittitle>Palm Seed Record,</unittitle>
+				     <unitdate>1950-1985</unitdate>
+                  </did> 
+		       </c03>
+		    	<c03 level="file"> 
+		    		<did> 
+		    			<container type="box">1</container> 
+		    			<container type="folder">19</container> 
+		    			<unittitle>Palm Material (1 of 4),</unittitle>
+		    			<unitdate>1959</unitdate>
+		    		</did> 
+		    	</c03><c03 level="file"> 
+		    		<did> 
+		    			<container type="box">1</container> 
+		    			<container type="folder">20</container> 
+		    			<unittitle>Palm Material (2 of 4),</unittitle>
+		    			<unitdate>1959</unitdate>
+		    		</did> 
+		    	</c03><c03 level="file"> 
+		    		<did> 
+		    			<container type="box">1</container> 
+		    			<container type="folder">21</container> 
+		    			<unittitle>Palm Material (3 of 4),</unittitle>
+		    			<unitdate>1959</unitdate>
+		    		</did> 
+		    	</c03><c03 level="file"> 
+		    		<did> 
+		    			<container type="box">1</container> 
+		    			<container type="folder">22</container> 
+		    			<unittitle>Palm Material (4 of 4),</unittitle>
+		    			<unitdate>1959</unitdate>
+		    		</did> 
+		    	</c03>
+		    	<c03 level="file"> 
+		    		<did> 
+		    			<container type="box">1</container> 
+		    			<container type="folder">23</container> 
+		    			<unittitle>Re; Palms Varied Items,</unittitle>
+		    			<unitdate>1964-1993</unitdate>
+		    		</did> 
+		    	</c03>
+		    	<c03 level="file"> 
+		    		<did> 
+		    			<container type="box">1</container> 
+		    			<container type="folder">24</container> 
+		    			<unittitle>International Palm Society,</unittitle>
+		    			<unitdate>1957-1968</unitdate>
+		    		</did> 
+		    	</c03>
+		    	<c03 level="file"> 
+		    		<did> 
+		    			<container type="box">1</container> 
+		    			<container type="folder">25</container> 
+		    			<unittitle>Arizona Chapter of International Palm Society,</unittitle>
+		    			<unitdate>1977-1986</unitdate>
+		    		</did> 
+		    	</c03>
+		    	
+		    </c02>
+         	<c02 level="subseries">
+         		<did> 
+         			<unitid>Subseries 3</unitid>
+         			<unittitle>Tucson Botanical Gardens,</unittitle> 
+         			<unitdate type="inclusive">1964-2010</unitdate>
+         		</did> 
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">1</container> 
+         				<container type="folder">26</container> 
+         				<unittitle>Tucson Botanical Gardens Early Records,</unittitle>
+         				<unitdate>1964-1974</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">1</container> 
+         				<container type="folder">27</container> 
+         				<unittitle>Tucson Botanical Gardens Early Photos,</unittitle>
+         				<unitdate>circa 1965</unitdate>
+         			</did> 
+         		</c03><c03 level="file"> 
+         			<did> 
+         				<container type="box">1</container> 
+         				<container type="folder">28</container> 
+         				<unittitle>Plans for Tucson Botanical Gardens,</unittitle>
+         				<unitdate>circa 1965</unitdate>
+         			</did> 
+         		</c03><c03 level="file"> 
+         			<did> 
+         				<container type="box">1</container> 
+         				<container type="folder">29</container> 
+         				<unittitle>Tucson Botanical Gardens Foundational Documents,</unittitle>
+         				<unitdate>1965</unitdate>
+         			</did> 
+         		</c03><c03 level="file"> 
+         			<did> 
+         				<container type="box">1</container> 
+         				<container type="folder">30</container> 
+         				<unittitle>Tucson Botanical Gardens Correspondence,</unittitle>
+         				<unitdate>1965-1975</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">1</container> 
+         				<container type="folder">31</container> 
+         				<unittitle>Harrison Yocum Tucson Botanical Gardens Press Clippings and Articles,</unittitle>
+         				<unitdate>1965-2010</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">1</container> 
+         				<container type="folder">32</container> 
+         				<unittitle><title render="italic">Tucson Botanical Garden, Inc. Articles Published Concerning Tucson Botanical Garden Including Papers by Harrison Yocum (1 of 2)</title>,</unittitle>
+         				<unitdate>1968-2008</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">1</container> 
+         				<container type="folder">33</container> 
+         				<unittitle><title render="italic">Tucson Botanical Garden, Inc. Articles Published Concerning Tucson Botanical Garden Including Papers by Harrison Yocum (2 of 2),</title></unittitle>
+         				<unitdate>1968-2008</unitdate>
+         			</did> 
+         		</c03>
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">2</container> 
+         				<container type="folder">1</container> 
+         				<unittitle>Guides to Various Gardens (1 of 2),</unittitle>
+         				<unitdate>1952-1981</unitdate>
+         			</did> 
+         		</c03><c03 level="file"> 
+         			<did> 
+         				<container type="box">2</container> 
+         				<container type="folder">2</container> 
+         				<unittitle>Guides to Various Gardens (2 of 2),</unittitle>
+         				<unitdate>1952-1981</unitdate>
+         			</did> 
+         		</c03><c03 level="file"> 
+         			<did> 
+         				<container type="box">2</container> 
+         				<container type="folder">3</container> 
+         				<unittitle>Botanical Garden Brochures,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         	</c02>
+	     </c01> 
+      	<c01 level="series" id="ser2"> 
+      		<did> 
+      			<unitid>Series 2</unitid>
+      			<unittitle>Work in Geology,</unittitle> 
+      			<unitdate type="inclusive">1976-2010</unitdate>
+      		</did>
+      		
+      		<c02 level="subseries">
+      			<did> 
+      				<unitid>Subseries 1</unitid>
+      				<unittitle>Records of the Pima College Rockhounds,</unittitle> 
+      				<unitdate type="inclusive">1976-2010</unitdate>
+      			</did> 
+      			      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">4</container> 
+      					<unittitle><title render="italic">Perambulations of Pleasant Delights: Areas Frequented by the PIMA COLLEGE ROCK-HOUNDS (1 of 2),</title></unittitle>
+      					<unitdate>1976</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">5</container> 
+      					<unittitle><title render="italic">Perambulations of Pleasant Delights: Areas Frequented by the PIMA COLLEGE ROCK-HOUNDS (2 of 2),</title></unittitle>
+      					<unitdate>1976</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">6</container> 
+      					<unittitle>Pima College Rock-hounds Complete Records (1 of 3),</unittitle>
+      					<unitdate>1977-2008</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">7</container> 
+      					<unittitle>Pima College Rock-hounds Complete Records (2 of 3),</unittitle>
+      					<unitdate>1977-2008</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">8</container> 
+      					<unittitle>Pima College Rock-hounds Complete Records (3 of 3),</unittitle>
+      					<unitdate>1977-2008</unitdate>
+      				</did> 
+      			</c03>
+      			
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">9</container> 
+      					<unittitle>Rockhound Intineraries and Maps,</unittitle>
+      					<unitdate>1977-2008</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">10</container> 
+      					<unittitle><title render="italic">A Rockhound's Handbook </title>(Manuscript),</unittitle>
+      					<unitdate>circa 1982</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">11</container> 
+      					<unittitle>Pima College Rockhounds,</unittitle>
+      					<unitdate>1982-2008</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">12</container> 
+      					<unittitle>Maps and Articles for the Rockhounds (1 of 2),</unittitle>
+      					<unitdate>1988-2002</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">13</container> 
+      					<unittitle>Maps and Articles for the Rockhounds (2 of 2),</unittitle>
+      					<unitdate>1988-2002</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">14</container> 
+      					<unittitle>Pima College Rockhound Handouts,</unittitle>
+      					<unitdate>circa 1999</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">15</container> 
+      					<unittitle><title render="italic">A Rockhound's Handbook</title>(Revised),</unittitle>
+      					<unitdate>Circa 1999</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">16</container> 
+      					<unittitle>Pima College Rockhounds Large Photos,</unittitle>
+      					<unitdate>2001</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">17</container> 
+      					<unittitle><title render="italic">Perambulations of the Pima College Rock-Hounds Book no. 6</title>,</unittitle>
+      					<unitdate>2007</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">18</container> 
+      					<unittitle>Historical Notes on Southern Arizona,</unittitle>
+      					<unitdate>undated</unitdate>
+      				</did> 
+      			</c03>
+      		</c02>
+      		<c02 level="subseries">
+      			<did> 
+      				<unitid>Subseries 2</unitid>
+      				<unittitle>Miscellaneous Geology Materials,</unittitle> 
+      				<unitdate type="inclusive">1960-2010</unitdate>
+      			</did> 
+      			<scopecontent><p>This subseries deals with Yocum's work in geology that was not directly related to the Rockhounds, including his participation in the Old Pueblo Lapidary Club.</p></scopecontent>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">19</container> 
+      					<unittitle><title render="italic">Historical Background of the Old Pueblo Lapidary Club,</title></unittitle>
+      					<unitdate>2007</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">20</container> 
+      					<unittitle><title render="italic">Catalog of Minerals,</title></unittitle>
+      					<unitdate>1960-2010</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">21</container> 
+      					<unittitle>Brochures from Geology-related Destinations,</unittitle>
+      					<unitdate>circa 1969</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">22</container> 
+      					<unittitle>Notes on Minerals,</unittitle>
+      					<unitdate>undated</unitdate>
+      				</did> 
+      			</c03>
+      		</c02>
+      	</c01> 
+      	<c01 level="series" id="ser3"> 
+      		<did> 
+      			<unitid>Series 3</unitid>
+      			<unittitle>Musical Compositions,</unittitle> 
+      			<unitdate type="inclusive">1945-2003</unitdate>
+      		</did>
+      		<scopecontent><p>Aside from work in botany and geology, Harrison Yocum studied music, the piano and composed a large number of original music, including many polkas and waltzes inspired by his observations and understanding of the natural world. Prominent among his works is the <title render="italic">Catalina Suite</title> in four movements, inspired by the mountain ranges surrounding Tucson.</p></scopecontent>
+      		<c02 level="subseries">
+      			<did> 
+      				<unitid> </unitid>
+      				<unittitle></unittitle> 
+      				<unitdate type="inclusive"></unitdate>
+      			</did> 
+      			
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">1</container> 
+      					<unittitle>Opus 4<title render="italic">The Cardboard Mountains</title>(Catalina Suite),</unittitle>
+      					<unitdate>1965</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">2</container> 
+      					<unittitle>Piano Compositions (1 of 2),</unittitle>
+      					<unitdate>1945-1976</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">3</container> 
+      					<unittitle>Piano Compositions (2 of 2),</unittitle>
+      					<unitdate>1945-1976</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">4</container> 
+      					<unittitle>Piano Compositions (1 of 2),</unittitle>
+      					<unitdate>1976-1989</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">5</container> 
+      					<unittitle>Piano Compositions (2 of 2),</unittitle>
+      					<unitdate>1976-1989</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">6</container> 
+      					<unittitle>Piano Compositions (1 of 2),</unittitle>
+      					<unitdate>1989-2003</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">7</container> 
+      					<unittitle>Piano Compositions (2 of 2),</unittitle>
+      					<unitdate>1989-2003</unitdate>
+      				</did> 
+      			</c03>
+      		
+      		</c02>
+      	</c01> 
+      	<c01 level="series" id="ser4"> 
+      		<did> 
+      			<unitid>Series 4</unitid>
+      			<unittitle>Autobiography and Family History of Harrison Yocum,</unittitle> 
+      			<unitdate type="inclusive">1952-2008</unitdate>
+      		</did>
+      		<scopecontent><p>Harrison Yocum became a custodian of his family history while caring for his parents.</p></scopecontent>
+      		<c02 level="subseries">
+      			<did> 
+      				<unitid>Subseries 1</unitid>
+      				<unittitle>Biographical Information About Harrison Yocum,</unittitle> 
+      				<unitdate>1952-2008</unitdate>
+      			</did> 
+      			<scopecontent><p>This subseries focuses on Harrison Yocum himself, his autobiography, corrsepondence and his press clippings.</p></scopecontent>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">8</container> 
+      					<unittitle><title render="italic">Autobiography of Harrison Yocum,</title></unittitle>
+      					<unitdate>2007</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">9</container> 
+      					<unittitle>Harrison Yocum Press Clippings and Poems,</unittitle>
+      					<unitdate>1956-2006</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">10</container> 
+      					<unittitle>Who's Who Entries and Press Clippings,</unittitle>
+      					<unitdate>2000-2004</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">11</container> 
+      					<unittitle>Harrison Yocum Autobiographical Material Sent to Penn State,</unittitle>
+      					<unitdate>2006</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">12</container> 
+      					<unittitle>Correspondence,</unittitle>
+      					<unitdate>1952-2010</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">13</container> 
+      					<unittitle>Correspondence from Children,</unittitle>
+      					<unitdate>2007</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">14</container> 
+      					<unittitle>Video Interviews with Harrison Yocum (Contains CD/ROM),</unittitle>
+      					<unitdate>2006</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">15</container> 
+      					<unittitle>Visitors' Log from Funeral of Harrison Yocum, </unittitle>
+      					<unitdate>2010</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">16</container> 
+      					<unittitle>Badges from Professional Societies, </unittitle>
+      					<unitdate>undated</unitdate>
+      				</did> 
+      			</c03>
+      		</c02>
+      		<c02 level="subseries">
+      			<did> 
+      				<unitid>Subseries 2</unitid>
+      				<unittitle>Yocum Family History,</unittitle> 
+      				<unitdate type="inclusive">1864-2006</unitdate>
+      			</did> 
+      			<scopecontent><p>A great deal of material focused on Harrison Yocum's parents and their family background were included in the papers, including documents from an ancestor dating back to the Civil War era. A few items of interest include Harrison Senior's draft notice ordering him for induction at a date two days after World War 1 ended along with an Army pamphlet warning of the dangers of "venereal disease" and publicity materials from the Yocum family's trip to California and the Panama-Pacific Exhibition in 1915.</p></scopecontent>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">17</container> 
+      					<unittitle>Family Correspodence,</unittitle>
+      					<unitdate>1864-1917</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">18</container> 
+      					<unittitle>Harrison Youcm Sr's Inspirational Books,</unittitle>
+      					<unitdate>circa 1900</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">19</container> 
+      					<unittitle>Yocum Family History,</unittitle>
+      					<unitdate>1900-1999</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">20</container> 
+      					<unittitle>Tourist Literature from California,</unittitle>
+      					<unitdate>1915</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">21</container> 
+      					<unittitle>Program from a Charles Schwab Banquet,</unittitle>
+      					<unitdate>1916</unitdate>
+      				</did> 
+      			</c03>
+      			
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">22</container> 
+      					<unittitle>Harrison Yocum Sr's Draft Notice,</unittitle>
+      					<unitdate>1918</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">23</container> 
+      					<unittitle>Family Correspondence,</unittitle>
+      					<unitdate>2005</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">24</container> 
+      					<unittitle><title render="italic">Art and Life of Eloise June Johnson</title> (nee Yocum),</unittitle>
+      					<unitdate>2006</unitdate>
+      				</did> 
+      			</c03>	
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">25</container> 
+      					<unittitle>Harrison Yocum and Family Large Photos,</unittitle>
+      					<unitdate>undated</unitdate>
+      				</did> 
+      			</c03>	
+      		</c02>
+      		<c02 level="subseries">
+      			<did> 
+      				<unitid>Subseries 3</unitid>
+      				<unittitle>Publications by and about Harrison Yocum,</unittitle> 
+      				<unitdate type="inclusive">2005-2009</unitdate>
+      			</did> 
+      			<scopecontent><p>These are full issues of magazines featuring articles about Harrison Yocum, correspondence with a writer from Rock &amp; Gem Magazine and a book containing his poem, "Contemplations"</p></scopecontent>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">26</container> 
+      					<unittitle><title render="doublequote">Harrison Yocum Prizes His Backyard Kingdom,</title><title render="italic">Arizona Highways</title>  May 2005 (2 copies),</unittitle>
+      					<unitdate>2005</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">27</container> 
+      					<unittitle>Rockhounding Pioneer Harrison Yocum, Rock &amp; Gem Magazine</unittitle>
+      					<unitdate>2008</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">28</container> 
+      					<unittitle>Correspondence and Manuscript re: Rock &amp; Gem Article</unittitle>
+      					<unitdate>2008</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">29</container> 
+      					<unittitle><title render="italic">Timeless Voices</title>contains poem by Harrison Yocum</unittitle>
+      					<unitdate>undated</unitdate>
+      				</did> 
+      			</c03>
+      		</c02>
+      		<c02 level="subseries">
+      			<did> 
+      				<unitid>Subseries 4</unitid>
+      				<unittitle>Large Format Objects,</unittitle> 
+      				<unitdate type="inclusive">1900-2001</unitdate>
+      			</did> 
+      			<scopecontent><p>These larger format flat objects are arranged smallest to largest.</p></scopecontent>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">1</container> 
+      					<unittitle>Harrison Yocum's Freemason's Apron</unittitle>
+      					<unitdate>undated</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">2</container> 
+      					<unittitle>Photocollage</unittitle>
+      					<unitdate>circa 2001</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">3</container> 
+      					<unittitle>Confirmation Certificate for Harrison Yocum Sr.</unittitle>
+      					<unitdate>1919</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">4</container> 
+      					<unittitle>Baptism Certificates of Harrison Yocum's Parents</unittitle>
+      					<unitdate>1900</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">5</container> 
+      					<unittitle>Artwork by Harrison Yocum</unittitle>
+      					<unitdate>undated</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">6</container> 
+      					<unittitle>Large Masonic Certificate</unittitle>
+      					<unitdate>1972</unitdate>
+      				</did> 
+      			</c03>
+      		</c02>
+     	</c01> 
+      	<c01 level="series" id="ser5"> 
+      		<did> 
+      			<unitid>Series 5</unitid>
+      			<unittitle>Cassettes of Yocum's Piano Compositions,</unittitle> 
+      			<unitdate type="inclusive">undated</unitdate>
+      		</did>
+      		<scopecontent><p>This is a group of 20 cassettes with minimal documentation stating they are recordings of Yocum playing his compositions.</p></scopecontent>
+      		<c02 level="file"> 
+      			<did> 
+      				<container type="box">5</container> 
+      				
+      				<unittitle>Cassettes of Yocum's Piano Compositions</unittitle>
+      				<unitdate>undated</unitdate>
+      			</did> 
+      		</c02>
+      		      	</c01> 
+      	<c01 level="series" id="ser6">
+      		<did> 
+      			<unitid>Series 6</unitid>
+      			<unittitle>Photographs,</unittitle> 
+      			<unitdate type="inclusive">undated</unitdate>
+      		</did>
+      		<scopecontent><p>An aggregation of unorganized photos of Harrison Yocum and his friends and Rockhounds over the years.</p></scopecontent>
+      		<c02 level="file"> 
+      			<did> 
+      				<container type="box">6</container>  
+      				<unittitle>Photographs,</unittitle>
+      				<unitdate>undated</unitdate>
+      			</did> 
+      		</c02>
+      	</c01> 
+      	<c01 level="series" id="ser7">
+      		<did> 
+      			<unitid>Series 7</unitid>
+      			<unittitle>Scrapbooks,</unittitle> 
+      			<unitdate type="inclusive">1962-2010</unitdate>
+      		</did>
+      		<scopecontent><p>Harrison Yocum organized a number of edited and captioned scrapbooks of his life, his family, his parties and his Rockhounding expeditions. Although some are numbered sequentially, not all volumes are in the possession of our collection.</p></scopecontent>
+      		<c02 level="subseries">
+      			<did> 
+      				<unitid>Subseries 1</unitid>
+      				<unittitle>Tucson Botanical Gardens,</unittitle> 
+      				<unitdate>1952-2008</unitdate>
+      			</did> 
+      			<scopecontent><p>This subseries focuses on the development of Tucson Botanical Gardens in Yocum's backyard.</p></scopecontent>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="item">1</container> 
+      					<unittitle><title render="italic">House and Garden of Harrison Yocum and Development at 1628 N. Jefferson Ave. original home of Tucson Botanical Gardens</title>,</unittitle>
+      					<unitdate>1962-1992</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="item">2</container> 
+      					<unittitle><title render="italic">House and Garden of Harrison Yocum Volume 3 “Original Home of Tucson Botanical Gardens” </title>,</unittitle>
+      					<unitdate>2002-2005</unitdate>
+      				</did> 
+      			</c03>
+      			
+      		</c02>
+      		<c02 level="subseries">
+      			<did> 
+      				<unitid>Subseries 2</unitid>
+      				<unittitle>Perambulations of the Pima College Rockhounds 1997-2009,</unittitle> 
+      				<unitdate type="inclusive">1997-2009</unitdate>
+      			</did> 
+      			<scopecontent><p>Photos of Harrison Yocum and his Rockhounds out on their field trips.</p></scopecontent>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="item">3</container> 
+      					<unittitle><title render="italic">Perambulations of the Pima College Rockhounds Volume II</title>,</unittitle>
+      					<unitdate>1997-1999</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="item">4</container> 
+      					<unittitle><title render="italic">Perambulations of the Pima College Rockhounds Volume III</title>,</unittitle>
+      					<unitdate>2000-2001</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="item">5</container> 
+      					<unittitle><title render="italic">Perambulations of the Pima College Rockhounds Volume IV</title>,</unittitle>
+      					<unitdate>2001-2002</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="item">6</container> 
+      					<unittitle><title render="italic">Perambulations of the Pima College Rockhounds Volume V</title>,</unittitle>
+      					<unitdate>2002-2003</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="item">7</container> 
+      					<unittitle>Rockhounds,</unittitle>
+      					<unitdate>2001-2010</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="item">8</container> 
+      					<unittitle><title render="italic">Perambulations of the Pima College Rockhounds Volume IX</title>,</unittitle>
+      					<unitdate>2007</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="item">9</container> 
+      					<unittitle><title render="italic">Perambulations of the Pima College Rockhounds Volume X</title>,</unittitle>
+      					<unitdate>2008-2009</unitdate>
+      				</did> 
+      			</c03>      	
+      		</c02>
+      		<c02 level="subseries">
+      			<did> 
+      				<unitid>Subseries 3</unitid>
+      				<unittitle>Horticulture,</unittitle> 
+      				<unitdate type="inclusive">Undated</unitdate>
+      			</did> 
+      			<scopecontent><p>Press clippings about horticulture.</p></scopecontent>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="item">10</container> 
+      					<unittitle>Horticulture,</unittitle>
+      					<unitdate>2008-2010</unitdate>
+      				</did> 
+      			</c03>
+            		</c02>
+      		<c02 level="subseries">
+      			<did> 
+      				<unitid>Subseries 4</unitid>
+      				<unittitle>Travel Photos,</unittitle> 
+      				<unitdate type="inclusive">2002-2009</unitdate>
+      			</did> 
+      			<scopecontent><p>Travel photos of Harrison Yocum on vacation from Europe to Alaska.</p></scopecontent>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="item">11</container> 
+      					<unittitle><title render="italic">Heritage Album of Harrison Yocum</title>,</unittitle>
+      					<unitdate>2002</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="item">12</container> 
+      					<unittitle>Photos from a trip to the Baltic Sea,</unittitle>
+      					<unitdate>2004</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="item">13</container> 
+      					<unittitle>Photos from a trip to the British Isles,</unittitle>
+      					<unitdate>2006</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="item">14</container> 
+      					<unittitle>Photos from a trip to Alaska,</unittitle>
+      					<unitdate>2009</unitdate>
+      				</did> 
+      			</c03>
+      		      		</c02>
+      		<c02 level="subseries">
+      			<did> 
+      				<unitid>Subseries 5</unitid>
+      				<unittitle>Harrison Yocum's Family and Friends,</unittitle> 
+      				<unitdate>1952-2008</unitdate>
+      			</did> 
+      			<scopecontent><p>Scrapbooks of parties and family events.</p></scopecontent>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="item">15</container> 
+      					<unittitle><title render="italic">Party Album of Harrison Gerald Yocum “Golden Memories of my Cherished Friends” Volume I</title>,</unittitle>
+      					<unitdate>1986-1997</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="item">16</container> 
+      					<unittitle><title render="italic">“Golden Memories of my Cherished Friends” Volume 2</title>,</unittitle>
+      					<unitdate>1978-2005</unitdate>
+      				</did> 
+      			</c03>
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="item">17</container> 
+      					<unittitle>Family Scrapbook,</unittitle>
+      					<unitdate>1961-2005</unitdate>
+      				</did> 
+      			</c03>
+      		</c02>
+      	</c01> 
+      	
+      </dsc> 
+   </archdesc>
+</ead>

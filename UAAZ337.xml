@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+   <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0"> 
+      <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special Collections//text
+		(US::AzU::Theodore Bryant Comstock Letter Books)//en""UAAZ337.xml"
+      </eadid> 
+      <filedesc> 
+         <titlestmt> 
+         	<titleproper encodinganalog="title">Theodore Bryant Comstock Letter Books
+	 	       <date normal="1898/1902" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">1898-1902</date>
+	 	       
+	 	    </titleproper>
+	 	    <titleproper type="filing" altrender="nodisplay"> Comstock, (Theodore B.) Letter Books
+	 	    
+            </titleproper>
+	        <author>Processed by Staff.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date normal= "2016" era= "ce" calendar = "gregorian">; 2016</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+            <date era="ce" encodinganalog="date" normal="20160328">March 28, 2016</date>
+  	     </creation>
+	     <langusage>Finding aid encoded in<language> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc>
+   </eadheader> 
+   <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+      <did id="a1"> 
+         <head>Collection Summary</head> 
+      	<unittitle encodinganalog="245" label="Collection Name:"> Theodore Bryant Comstock Letter Books
+            <unitdate type="inclusive" label="Dates:" normal="1898/1902">1898-1902</unitdate>
+  	     </unittitle>	 
+	     <unitid label="Collection Number:" encodinganalog="099" repositorycode="AzU" countrycode="us">AZ 337</unitid>
+	     <origination label="Creator:"> 
+            <persname source="lcnaf" encodinganalog="100">Comstock, Theo. B. (Theodore Bryant), 1849-1915.</persname> </origination> 
+      	<abstract label="Abstract:">Theodore B. Comstock, 1849-1915, was a professional geologist, mining engineer and consultant. He was an assistant state geologist 
+      								of Texas, Head of The University of Arizona School of Mines, and first president of The University of Arizona, 1894-1895. Holograph 
+      								letters to R. J. Ferguson and F. T. Blandy, local superintendents, mostly about operations of the Elkhart Mine, Chloride, Mohave County, 
+      								Arizona, to the British Syndicate owners of the mine. Includes letters of chief clerk M. P. Dodge. Also includes letters about Prescott 
+      								Development Syndicate, the Security Mining and Development Syndicate, the Mineral Hill Copper Syndicate (mainly pp. 401-451) and other 
+      								mine enterprises mostly in Arizona.
+      	</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description:"><extent>.4 linear feet</extent></physdesc>	 
+	     <repository label="Repository:"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng" scriptcode="Latin">English.</language></langmaterial>
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+         <p>There are no restrictions on this collection.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+      	<p>Theodore Bryant Comstock Letter Books (AZ 337). Special Collections, University of Arizona Libraries.</p>
+      </prefercite> 
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Staff.</p>
+      </processinfo>
+      <bioghist id="a2" encodinganalog="545"> 
+         <head>Biographical Note</head> 
+      	<p>Professional geologist, mining engineer and consultant. Assistant state geologist of Texas, Head of The University
+      	of Arizona School of Mines, first president of The University of Arizona, 1894-1895.</p>
+      	<p>Letters kept while a commercial consultant in Los Angeles.</p>
+      </bioghist>
+      <scopecontent id="a3" encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>Holograph letters to R. J. Ferguson and F. T. Blandy, local superintendents, mostly about operations of the 
+      	Elkhart Mine, Chloride, Mohave County, Arizona, to the British Syndicate owners of the mine. Includes letters of
+      	chief clerk M. P. Dodge. Also includes letters about Prescott Development Syndicate, the Security Mining and 
+      	Development Syndicate, the Mineral Hill Copper Syndicate (mainly pp. 401-451) and other mine enterprises mostly in Arizona.</p> 
+      </scopecontent>
+      <controlaccess>
+         <head>Access Terms</head>
+         <list type="simple"> 
+  		    <item>
+  			   <corpname encodinganalog="610" source= "lcnaf">University of Arizona -- Faculty.</corpname>
+  		    </item>
+  		    <item>
+  			   <subject encodinganalog="650" source= "lcsh">Copper mines and mining -- Arizona -- History -- Sources.</subject>
+  		    </item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Gold mines and mining -- Arizona -- History -- Sources.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Mines and mineral resources -- Arizona -- Mohave County -- History.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Silver mines and mining -- Arizona -- History -- Sources.</subject>
+         	</item>
+         </list>
+      </controlaccess>
+   </archdesc>
+</ead>

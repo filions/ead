@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?filetitle Armitage, Merle Papers?>
+<ead relatedencoding="MARC21">
+<eadheader audience="internal" findaidstatus="edited-full-draft"
+ langencoding="iso639-2b">
+	<eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
+		Special Collections//text(US::AzU::Merle Armitage Papers)//en"
+	 "UAMS234.xml"</eadid>
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Merle Armitage papers, 
+		  <date>1930-1974</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Lynn
+		  D'Antonio</author>
+	 </titlestmt>
+	 <publicationstmt>
+	 	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+		<address>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address>
+		<date>&#x00A9; 2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p>
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc>
+	 <creation encodinganalog="500">Inventory encoded by Jennie Stapp 
+		<date>June 24, 2002</date></creation> 
+	 <langusage>Inventory is in<language langcode="en"
+		encodinganalog="546">English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter>
+  <titlepage>
+	 <titleproper encodinganalog="245$a">Merle Armitage papers,
+		<date>1930-1974</date></titleproper>
+	 <num>Collection Number: MS 234</num>
+  	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher>
+	 <list>
+		<defitem>
+		  <label>Processed by:</label>
+		  <item>Lynn D'Antonio</item>
+		</defitem>
+		<defitem>
+		  <label>Date completed:</label>
+		  <item>
+			 <date>November 1984</date></item>
+		</defitem>
+		<defitem>
+		  <label>Encoded by:</label>
+		  <item>Jennie Stapp</item>
+		</defitem>
+	 </list>
+	 <p>&#x00A9; 2001. Arizona Board of Regents. All rights reserved.</p>
+  </titlepage>
+</frontmatter>
+<archdesc level="collection">
+  <did id="a1">
+	 <head>Collection Summary</head>
+	 <unittitle encodinganalog="245" label="Collection Name:">Merle Armitage
+		papers, 
+		<unitdate type="inclusive"
+		 normal="1930/1974">1930-1974</unitdate></unittitle>
+	 <unitid label="Collection Number:" encodinganalog="099"
+	  repositorycode="AzU" countrycode="us">MS 234</unitid> 
+	 <origination label="Creator:"> 
+		<persname encodinganalog="100">Armitage, Merle,
+		  1893-1975</persname></origination>
+	 <abstract>The collection contains an assortment of correspondence, books,
+		some published by his Manzanita Press, typescripts of books and short stories,
+		advertisements, illustrations, clippings, photographs and photographic plates,
+		articles, speeches, catalogs, and miscellaneous original art work.</abstract>
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+		encodinganalog="300">6 linear feet</extent></physdesc>
+	 <repository label="Repository:">
+	 	<corpname encodinganalog="110">University of Arizona Libraries, Special Collections</corpname>
+		<address>
+		  <addressline>University of Arizona</addressline>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address></repository>
+  </did> 
+  <accessrestrict encodinganalog="506">
+	 <head>Restrictions</head>
+	 <p>None.</p>
+  </accessrestrict>
+  <userestrict encodinganalog="540">
+	 <head>Copyright</head>
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p>
+  </userestrict>
+  <prefercite encodinganalog="524">
+	 <head>Credit Line</head>
+	 <p> Merle Armitage papers(MS 234).Special Collections, University of Arizona Libraries.</p>
+  </prefercite>
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head>
+	 <p>Merle Armitage was an American author, publisher, book designer, graphic
+		artist, and impresario.</p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into eight series.</p> 
+	 <list> 
+		<item>Series I: Correspondence, 1947-1973</item>
+		<item>Series II: Books, Typescripts and Illustrations</item>
+		<item>Series III: Short Stories</item>
+		<item>Series IV: Photographs</item>
+		<item>Series V: Printed Matter</item>
+		<item>Series VI: Personal Material</item>
+		<item>Series VII: Photographic Plates</item>
+		<item>Series VIII: Miscellaneous Art Work</item> 
+	 </list> 
+  </arrangement>
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head>
+	 <p>The collection contains an assortment of correspondence, books, some
+		published by his Manzanita Press, typescripts of books and short stories,
+		advertisements, illustrations, clippings, photographs and photographic plates,
+		articles, speeches, catalogs, and miscellaneous original art work. The majority
+		of the correspondence, 1958-60, is with George Mason regarding the book 
+	 <title render="italic">Stella Dysart</title>, and with Ida Whitsett
+	 concerning the book 
+	 <title render="italic">Success Is No Accident</title>. Typescript drafts
+	 and items relating to the publication of the books are also present.</p>
+	 <p> Another set of correspondence is with the Atchison, Topeka and Santa Fe
+		Railroad, 1958- 1973. Background materials relating to Armitage's book 
+	 <title render="italic">Homage to Santa Fe </title>include the typescript
+	 draft, illustrations and advertisements, as well as railroad articles,
+	 timetables, and train photographs. Travel photographs from 1955 depict mainly
+	 the landscapes, monuments, and Native Americans in Arizona, New Mexico,
+	 California, and Oklahoma. Eighteen copper photographic plates are from the book
+	 
+	 <title render="italic">Edward Weston: Fifty Photographs</title>, and 22
+	 more photographic plates are from other publications. Miscellaneous original
+	 art work is by Henrietta Shore, his daughter Chama Armitage, and Frank O'Brien.
+	 Other items are articles written by and about Armitage, speech typescripts,
+	 family mementos, material from his work as an impresario, and some of his
+	 original graphic designs.</p> 
+  </scopecontent> 
+  <controlaccess id="a12">
+	 <head>Access Terms</head>
+	 <list>
+		<item>
+		  <persname encodinganalog="100">Armitage, Merle, 1893-1975 --
+			 Archives</persname></item>
+		<item>
+		  <persname encodinganalog="100">O'Brien, Frank</persname></item>
+		<item>
+		  <persname encodinganalog="100">Mason, George --
+			 Correspondence</persname></item>
+		<item>
+		  <persname encodinganalog="100">Whitsett, Ida --
+			 Correspondence</persname></item>
+		<item>
+		  <persname encodinganalog="100">Weston, Edward,
+			 1886-1958</persname></item>
+		<item>
+		  <persname encodinganalog="100">Shore, Henrietta,
+			 1880-1963</persname></item>
+		<item>
+		  <persname encodinganalog="100">Armitage, Chama</persname></item>
+		<item>
+		  <corpname encodinganalog="110"> Manzanita Press </corpname></item>
+		<item>
+		  <corpname encodinganalog="110"> Atchison, Topeka, and Santa Fe Railroad
+			 Company -- History </corpname></item>
+		<item>
+		  <subject>Publishers and publishing -- California -- History -- 20th
+			 century</subject></item>
+		<item>
+		  <subject>Book industries and trade -- United States -- History -- 20th
+			 century</subject></item>
+		<item>
+		  <subject>Indians of North America -- Southwest, New -- Pictorial
+			 works</subject></item>
+		<item>
+		  <subject> Commercial artists -- United States </subject></item>
+		<item>
+		  <subject>Small press books -- Specimens</subject></item>
+		<item>
+		  <subject>Book design -- United States -- History</subject></item>
+		<item>
+		  <geogname>Southwest, New -- Pictorial works</geogname></item>
+		<item>
+		  <genreform>Correspondence</genreform></item>
+		<item>
+		  <genreform>Photographic Plates</genreform></item>
+		<item>
+		  <genreform>Photographs</genreform></item>
+		<item>
+		  <genreform>Books</genreform></item>
+		<item>
+		  <genreform>Illustrations</genreform></item>
+	 </list>
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series I: Correspondence, 
+			 <unitdate type="inclusive"
+			 normal="1947/1973">1947-1973</unitdate></unittitle> 
+		</did> 
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">1</container>
+			 <unittitle>General Correspondence. 
+				<unitdate type="inclusive"
+				normal="1947/1956">1947-1956</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">2</container>
+			 <unittitle>General Correspondence. 
+				<unitdate type="inclusive"
+				normal="1957">1957</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">3</container>
+			 <unittitle>General Correspondence. 
+				<unitdate type="inclusive"
+				normal="1958">1958</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">4</container>
+			 <unittitle>General Correspondence. 
+				<unitdate type="inclusive"
+				normal="1959">1959</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">5</container>
+			 <unittitle>General Correspondence. 
+				<unitdate type="inclusive"
+				normal="1960/1964">1960-1964</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">6</container>
+			 <unittitle>General Correspondence. 
+				<unitdate type="inclusive" normal="NaN">No
+				  date</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">1</container>
+			 <unittitle>Correspondence with: Atchison, Topeka and Sante Fe
+				Railroads. 
+				<unitdate type="inclusive"
+				normal="1958/1973">1958-1973</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">2</container>
+			 <unittitle>Correspondence with: Duell, Sloan &amp; Pearce. 
+				<unitdate type="inclusive"
+				normal="1956/1959">1956-1959</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">3</container>
+			 <unittitle>Correspondence with: Dysart, Stella. 
+				<unitdate type="inclusive"
+				normal="1958/1959">1958-1959</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">4</container>
+			 <unittitle>Correspondence with: Hurley, Pat J. (Gen.). 
+				<unitdate type="inclusive"
+				normal="1958">1958</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">5</container>
+			 <unittitle>Correspondence with: Kistler, Lynton R. 
+				<unitdate type="inclusive"
+				normal="1958/1959">1958-1959</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">6</container>
+			 <unittitle>Correspondence with: Lane Publishers. 
+				<unitdate type="inclusive"
+				normal="1959">1959</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">7</container>
+			 <unittitle>Correspondence with: Mason, George. 
+				<unitdate type="inclusive" normal="">November 1957-December
+				  1958</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">8</container>
+			 <unittitle>Correspondence with: Mason, George. 
+				<unitdate type="inclusive"
+				normal="1959">1959</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">9</container>
+			 <unittitle>Correspondence with: Smalley, Carl. 
+				<unitdate type="inclusive"
+				normal="1959">1959</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">10</container>
+			 <unittitle>Correspondence with: Verbeck, Howard. 
+				<unitdate type="inclusive"
+				normal="1958/1959">1958-1959</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">11</container>
+			 <unittitle>Correspondence with: Whitsett, Ida and Paul. 
+				<unitdate type="inclusive"
+				normal="NaN/1960">1958?-1960</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01> 
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series II: Books, Typescripts and Illustrations</unittitle>
+		</did>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="folder">1</container>
+			 <unittitle>
+				<title render="italic">Accent on Life</title> (proofs).
+				</unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="folder">2</container>
+			 <unittitle>
+				<title render="italic">Burro Alley</title> (illustrations).
+				</unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="folder">3</container>
+			 <unittitle>
+				<title render="italic">Books for Our Times</title>. </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="folder">4</container>
+			 <unittitle>
+				<title render="italic">Fit for a Queen</title> (or King?)
+				(illustrations). </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="folder">5</container>
+			 <unittitle>
+				<title render="italic">Five Essays on Klee</title>. </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="folder">6</container>
+			 <unittitle>
+				<title render="italic">Henrietta Shore</title> (illustrations).
+				</unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="folder">7-8</container>
+			 <unittitle>
+				<title render="italic">Homage to Santa Fe</title> (typescript).
+				</unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="folder">9</container>
+			 <unittitle>
+				<title render="italic">Homage to Santa Fe</title> (Railroad
+				articles). </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="folder">10</container>
+			 <unittitle>
+				<title render="italic">Homage to Santa Fe</title> (Railroad
+				photos). </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="folder">11</container>
+			 <unittitle>
+				<title render="italic">Homage to Santa Fe</title> (Railroad
+				timetables). </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">4</container><container
+			 type="folder">1</container>
+			 <unittitle>
+				<title render="italic">Homage to Santa Fe</title> (advertisements
+				and illustrations). </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">4</container><container
+			 type="folder">2</container>
+			 <unittitle>
+				<title render="italic">Pagans, Conquistadors, Heroes and
+				  Martyrs</title> (illustrations). </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">1</container>
+			 <unittitle>
+				<title render="italic">Lovet-Lorski</title> (illustrations).
+				</unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">2</container>
+			 <unittitle>
+				<title render="italic">Modern Dance</title> (advertisement).
+				</unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">3</container>
+			 <unittitle>
+				<title render="italic">Martha Graham</title> (advertisements).
+				</unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">4</container>
+			 <unittitle>
+				<title render="italic">Operation Santa Fe</title> (advertisement).
+				</unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">5</container>
+			 <unittitle>
+				<title render="italic">Of Streets and Stars</title> (book).
+				</unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">6</container>
+			 <unittitle>
+				<title render="italic">Pagans, Conquistadors &amp; Martyrs</title>
+				(book). 
+				<unitdate type="inclusive"
+				normal="1960">1960</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">7</container>
+			 <unittitle>
+				<title render="italic">Painter into Artist</title> (book).
+				</unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">8</container>
+			 <unittitle>
+				<title>Smile at the Foot of the Ladder</title> (advertisement).
+				</unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">9</container>
+			 <unittitle>
+				<title render="italic">Stella Dysart</title> (typescript).
+				</unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">10</container>
+			 <unittitle>
+				<title>Stella Dysart</title> (clippings). </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">11</container>
+			 <unittitle>
+				<title render="italic">Stella Dysart</title> (photos). </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">6</container><container
+			 type="folder">1</container>
+			 <unittitle>
+				<title render="italic">Success is no Accident</title> (typescript).
+				</unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">6</container><container
+			 type="folder">2</container>
+			 <unittitle>
+				<title render="italic">Success is no Accident</title> (typescript).
+				</unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">6</container><container
+			 type="folder">3</container>
+			 <unittitle>
+				<title render="italic">Success is no Accident</title> (pp. 1-78,
+				draft). </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">6</container><container
+			 type="folder">4</container>
+			 <unittitle>
+				<title render="italic">Success is no Accident</title> (pp. 79-136,
+				draft). </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">6</container><container
+			 type="folder">5</container>
+			 <unittitle>
+				<title render="italic">Success is no Accident</title> (pp. 137-224,
+				draft). </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">6</container><container
+			 type="folder">6</container>
+			 <unittitle>
+				<title render="italic">Success is no Accident</title> (pp. 225-292,
+				draft). </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">6</container><container
+			 type="folder">7</container>
+			 <unittitle>
+				<title render="italic">Success is no Accident</title> (unidentified
+				fragments). </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">6</container><container
+			 type="folder">8</container>
+			 <unittitle>
+				<title render="italic">Success is no Accident</title> (clippings).
+				</unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">6</container><container
+			 type="folder">9</container>
+			 <unittitle>
+				<title render="italic">U.S. Navy</title> (advertisement).
+				</unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">6</container><container
+			 type="folder">10</container>
+			 <unittitle>
+				<title render="italic">Warren Newcomb</title> (illustrations).
+				</unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">6</container><container
+			 type="folder">11</container>
+			 <unittitle>Miscellaneous unidentified photos. </unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series III: Short Stories</unittitle>
+		</did>
+		<c02 level="file">
+		  <did><container type="box">7</container><container
+			 type="folder">1</container>
+			 <unittitle>"Case of the Missing Steak"</unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">7</container><container
+			 type="folder">2</container>
+			 <unittitle>"Flying Gold"</unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">7</container><container
+			 type="folder">3</container>
+			 <unittitle>"Jade"</unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">7</container><container
+			 type="folder">4</container>
+			 <unittitle>"Keystone of the Arch"</unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">7</container><container
+			 type="folder">5</container>
+			 <unittitle>"Red Rogues"</unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">7</container><container
+			 type="folder">6</container>
+			 <unittitle>"San Simeon"</unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">7</container><container
+			 type="folder">7</container>
+			 <unittitle>"Serbania"</unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">7</container><container
+			 type="folder">8</container>
+			 <unittitle>"Transcontinental"</unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series IV: Photographs</unittitle>
+		</did>
+		<c02 level="file">
+		  <did><container type="box">8</container><container
+			 type="folder">1</container>
+			 <unittitle>Arizona: Canyon de Chelly. 
+				<unitdate type="inclusive"
+				normal="1955">1955</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">8</container><container
+			 type="folder">1</container>
+			 <unittitle>Arizona: Grand Canyon. 
+				<unitdate type="inclusive"
+				normal="1955">1955</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">8</container><container
+			 type="folder">1</container>
+			 <unittitle>Arizona: Indians. 
+				<unitdate type="inclusive"
+				normal="1955">1955</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">8</container><container
+			 type="folder">1</container>
+			 <unittitle>Arizona: Monument Valley. 
+				<unitdate type="inclusive"
+				normal="1955">1955</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">8</container><container
+			 type="folder">1</container>
+			 <unittitle>Arizona: Petrified Forest. 
+				<unitdate type="inclusive"
+				normal="1955">1955</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">8</container><container
+			 type="folder">1</container>
+			 <unittitle>Arizona: Rainbow Bridge. 
+				<unitdate type="inclusive"
+				normal="1955">1955</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">8</container><container
+			 type="folder">1</container>
+			 <unittitle>Arizona: Taliesen West. 
+				<unitdate type="inclusive"
+				normal="1955">1955</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">8</container><container
+			 type="folder">1</container>
+			 <unittitle>Arizona: Miscellaneous Cities. 
+				<unitdate type="inclusive"
+				normal="1955">1955</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">8</container><container
+			 type="folder">2</container>
+			 <unittitle>California. 
+				<unitdate type="inclusive"
+				normal="1955">1955</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">8</container><container
+			 type="folder">3</container>
+			 <unittitle>New Mexico. 
+				<unitdate type="inclusive"
+				normal="1955">1955</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">8</container><container
+			 type="folder">4</container>
+			 <unittitle>Oklahoma. 
+				<unitdate type="inclusive"
+				normal="1955">1955</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">8</container><container
+			 type="folder">5</container>
+			 <unittitle>Europe. </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">8</container><container
+			 type="folder">6</container>
+			 <unittitle>Animals, Reptiles, Birds, Insects. </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">8</container><container
+			 type="folder">7</container>
+			 <unittitle>Brush.</unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">8</container><container
+			 type="folder">8</container>
+			 <unittitle>Cacti.</unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">8</container><container
+			 type="folder">9</container>
+			 <unittitle>Rock Formations.</unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">8</container><container
+			 type="folder">10</container>
+			 <unittitle>Art-photo copies.</unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series V: Printed Matter</unittitle>
+		</did>
+		<c02 level="file">
+		  <did><container type="box">9</container><container
+			 type="folder">1</container>
+			 <unittitle>Printed Matter designed by Merle Armitage. </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">9</container><container
+			 type="folder">2</container>
+			 <unittitle>Merle Armitage as art designer for "The Atom."</unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">9</container><container
+			 type="folder">3</container>
+			 <unittitle>Merle Armitage as art designer for 
+				<title render="italic">Vision Magazine</title>.</unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">9</container><container
+			 type="folder">4</container>
+			 <unittitle>Merle Armitage as art designer for "Western Family."
+				</unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">10</container><container
+			 type="folder">1</container>
+			 <unittitle>Book Advertisements (clippings). </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">10</container><container
+			 type="folder">2</container>
+			 <unittitle>Articles by Merle Armitage. </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">10</container><container
+			 type="folder">3</container>
+			 <unittitle>Articles about Merle Armitage. </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">10</container><container
+			 type="folder">4</container>
+			 <unittitle>Book Catalog. </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">10</container><container
+			 type="folder">5</container>
+			 <unittitle>Published weekly catalogs containing Merle Armitage books.
+				</unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series VI: Personal Material</unittitle>
+		</did>
+		<c02 level="file">
+		  <did><container type="box">11</container><container
+			 type="folder">1</container>
+			 <unittitle>
+				<title render="italic">"Look" at the Art Department</title>.
+				</unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">11</container><container
+			 type="folder">2</container>
+			 <unittitle>Family Photos. </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">11</container><container
+			 type="folder">3</container>
+			 <unittitle>Speeches. </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">11</container><container
+			 type="folder">4</container>
+			 <unittitle>Merle Armitage as impresario (clippings). </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">11</container><container
+			 type="folder">5</container>
+			 <unittitle>Miscellaneous. </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">11</container><container
+			 type="folder">6</container>
+			 <unittitle>Book designing paraphernalia. </unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series VII: Photographic Plates</unittitle>
+		</did>
+		<c02 level="file">
+		  <did><container type="box">12</container>
+			 <unittitle>18 plates from 
+				<title render="italic">Edward Weston: Fifty Photographs</title>.
+				</unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">13</container>
+			 <unittitle>15 plates from Edward Weston and 7 plates from
+				miscellaneous unidentified publications. </unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series VIII: Miscellaneous Art Work</unittitle>
+		</did>
+		<c02 level="file">
+		  <did><container type="box">14</container>
+			 <unittitle>Miscellaneous art work owned by Merle Armitage, Chama
+				Armitage or Frank O'Brien. </unittitle>
+		  </did>
+		</c02>
+	 </c01>
+  </dsc> 
+</archdesc></ead>

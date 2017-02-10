@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?xml-stylesheet type="text/xsl" href="displaytemplate.xsl"?>
+<?filetitle Logan City, Arizona records?>
+<ead relatedencoding="MARC21">
+<eadheader audience="internal" findaidstatus="edited-full-draft"
+ langencoding="iso639-2b">
+	<eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library Special Collections//text(US::AzU::Logan City, Arizona records)//en"
+	 "UAMS315.xml"</eadid>
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Logan City, Arizona records 
+		  <date>1883-1887</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Kim Frontz</author>
+	 </titlestmt>
+	 <publicationstmt>
+	 	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+		<address>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address>
+		<date>&#x00A9; 2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p>
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc>
+	 <creation encodinganalog="500">Inventory encoded by Teri Clem 
+		<date>October 22, 2001</date></creation> 
+	 <langusage>Inventory is in<language langcode="en"
+		encodinganalog="546">English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter>
+  <titlepage>
+	 <titleproper encodinganalog="245$a">Logan City, Arizona records, 
+		<date>1883-1887</date></titleproper>
+	 <num>Collection Number: MS 315 </num>
+  	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher>
+	 <list>
+		<defitem>
+		  <label>Processed by:</label>
+		  <item>Kim Frontz</item>
+		</defitem>
+		<defitem>
+		  <label>Date completed:</label>
+		  <item>
+			 <date>1994</date></item>
+		</defitem>
+		<defitem>
+		  <label>Encoded by:</label>
+		  <item>Teri Clem</item>
+		</defitem>
+	 </list>
+	 <p>&#x00A9; 2001. Arizona Board of Regents. All rights reserved.</p>
+  </titlepage>
+</frontmatter>
+<archdesc level="collection"> 
+  <did id="a1">
+	 <head>Collection Summary</head>
+	 <unittitle encodinganalog="245" label="Collection Name:">Logan City,
+		Arizona records, 
+		<unitdate type="inclusive"
+		 normal="1883/1887">1883-1887</unitdate></unittitle>
+	 <unitid label="Collection Number:" encodinganalog="099"
+	  repositorycode="AzU" countrycode="us">MS 315</unitid> 
+  	<origination label="Creator:"><corpname encodinganalog="110"> Login City,Ariz.</corpname> </origination>
+	 <abstract label="Abstract:">The collection includes several letters to George Roskruge from
+		John [Logan], William R. Logan and R. B. Elliot, clerk of the company,
+		pertaining to his survey work and other interests in Logan City. Also present
+		are notice of location papers for the Black Bird Mine; correspondence relating
+		to a conflict of interest involving John Gardiner, Deputy Mineral Surveyor; and
+		correspondence and legal documents concerning a dispute, between James M.
+		Quiggle and the Logan Townsite and Well Company, over financing of the town
+		well.</abstract>
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+		encodinganalog="300">.10 linear feet</extent></physdesc>
+	 <repository label="Repository:">
+	 	<corpname encodinganalog="110">University of Arizona Libraries, Special Collections</corpname>
+		<address>
+		  <addressline>University of Arizona</addressline>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address></repository>
+  </did> 
+  <accessrestrict encodinganalog="506">
+	 <head>Restrictions</head>
+	 <p>None.</p>
+  </accessrestrict>
+  <userestrict encodinganalog="540">
+	 <head>Copyright</head>
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p>
+  </userestrict>
+  <prefercite encodinganalog="524">
+	 <head>Credit Line</head>
+	 <p> Logan City, Arizona records(MS 315). Special Collections, University of Arizona Libraries.</p>
+  </prefercite>
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Historical Note</head>
+	 <p> Logan City, Arizona, was located in Pima County, 65 miles west of
+		Tucson. It was established in 1883 following the discovery of silver ore in the
+		Quijotoa Mining District. Soon there were more than 1,200 inhabitants and over
+		200 houses. By 1886, the mining boom ended and most residents moved on.</p> 
+	 <p>The town was named for John T. Logan and William R. Logan; two of the
+		partners of the Logan Townsite and Well Company. Other partners included James
+		H. Shotwell and George J. Roskruge. Roskruge was county surveyor and was
+		responsible for surveying the town.</p>
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into two series:</p> 
+	 <list> 
+		<item>I. Documents, 1883-1887</item> 
+		<item>II. Maps, ca. 1883-1884</item>
+	 </list> 
+  </arrangement>
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head>
+	 <p>The collection includes several letters to George Roskruge from John
+		[Logan], William R. Logan and R. B. Elliot, clerk of the company, pertaining to
+		his survey work and other interests in Logan City. Also present are notice of
+		location papers for the Black Bird Mine; correspondence relating to a conflict
+		of interest involving John Gardiner, Deputy Mineral Surveyor; and
+		correspondence and legal documents concerning a dispute, between James M.
+		Quiggle and the Logan Townsite and Well Company, over financing of the town
+		well.</p> 
+	 <p>Blueprint and pencil maps include individual maps of coordinates for
+		each townsite claim for Logan City, New Virginia City, and Brooklyn which were
+		adjacent townsites; maps of mining claims of the Quijotoa Mining District; and
+		a plat map of town lots in Logan City.</p>
+  </scopecontent> 
+  <controlaccess id="a12">
+	 <head>Access Terms</head>
+	 <list>
+		<item>
+		  <persname encodinganalog="100">Roskruge, George J.,
+			 1845-1928</persname></item>
+	 </list>
+	 <list>
+		<item>
+		  <persname encodinganalog="100">Logan, William R.</persname></item>
+	 </list>
+	 <list>
+		<item>
+		  <persname encodinganalog="100">Logan, John T.</persname></item>
+	 </list>
+	 <list>
+		<item>
+		  <persname encodinganalog="100">Quiggle, James M.</persname></item>
+	 </list>
+	 <list>
+		<item>
+		  <corpname encodinganalog="110">Logan Townsite and Well
+			 Company</corpname></item>
+	 </list>
+	 <list>
+		<item>
+		  <subject>Mines and Mineral resources -- Arizona -- Pima County --
+			 History -- Sources</subject></item>
+	 </list>
+	 <list>
+		<item>
+		  <subject>Extinct cities -- Arizona -- Pima County --
+			 Sources</subject></item>
+	 </list>
+	 <list>
+		<item>
+		  <geogname>Logan City (Ariz.) -- History -- Sources</geogname></item>
+	 </list>
+	 <list>
+		<item>
+		  <geogname>Arizona -- History, Local -- Sources</geogname></item>
+	 </list>
+	 <list>
+		<item>
+		  <geogname>Quijotoa Mining District (Ariz.) -- History --
+			 Sources</geogname></item>
+	 </list>
+	 <list>
+		<item>
+		  <genreform>Correspondence</genreform></item>
+	 </list>
+	 <list>
+		<item>
+		  <genreform>Maps</genreform></item>
+	 </list>
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head>
+	 <c01 level="series" id="ser1">
+		<did>
+		  <unittitle>Series I: Documents, 
+			 <unitdate type="inclusive" normal="1883/1887">1883-1887</unitdate>
+			 </unittitle>
+		</did> 
+		<c02>
+		  <did><container type="box">1</container><container
+			 type="folder">1</container>
+			 <unittitle>Documents. 
+				<unitdate type="inclusive"
+				 normal="1883/1887">1883-1887</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01> 
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series II: Maps, 
+			 <unitdate type="inclusive" normal="NaN/1884">ca.
+				1883-1884</unitdate></unittitle>
+		</did>
+		<c02>
+		  <did><container type="box">1</container><container
+			 type="folder">1</container>
+			 <unittitle>Maps. 
+				<unitdate type="inclusive" normal="NaN/1884">ca.
+				  1883-1884</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+  </dsc> 
+</archdesc></ead>

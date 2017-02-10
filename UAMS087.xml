@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+   <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0"> 
+      <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special Collections//text
+      	(US::AzU::The Town of Jesús María records)//en""UAMS087.xml"
+      </eadid> 
+      <filedesc> 
+         <titlestmt> 
+         	<titleproper encodinganalog="title">The Town of Jesús María records
+	 	       <date normal="1833/1844" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">1833-1844</date>
+	 	       <!-- BE SURE TO POPULATE "date normal= "YYYY/YYYY" attribute. PLACE ATTRIBUTE DATES BETWEEN "   " -->
+	 	    </titleproper>
+         	<titleproper type="filing" altrender="nodisplay"> The Town of Jesús María records
+	 	    <!-- [IF AN INDIVIDUAL IS ASSOCIATED LIST LAST NAME, (FIRST NAME MIDDLE INITIAL.) i.e. Flannery, (John S.) COLLECTION DESCRIPTION] OR 
+	 	    [IF NO SPECIFIC PERSON IS ASSOCIATED LIST THE COLLECTION NAME AND DESCRIPTION (i.e. International Student Council general files) -->
+            </titleproper>
+	        <author>Processed by Staff.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date normal= "2016" era= "ce" calendar = "gregorian">; 2016</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+            <date era="ce" encodinganalog="date" normal="20160419">April 19, 2016</date>
+  	     </creation><!-- BE SURE TO POPULATE "date normal= YYYYMMDD" attribute. PLACE ATTRIBUTE DATES BETWEEN "  " -->
+	     <langusage>Finding aid encoded in<language> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc>
+   </eadheader> 
+   <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+      <did id="a1"> 
+         <head>Collection Summary</head> 
+      	<unittitle encodinganalog="245" label="Collection Name:"> The Town of Jesús María records
+            <unitdate type="inclusive" label="Dates:" normal="1833/1844">1833-1844</unitdate>
+  	     </unittitle><!-- BE SURE TO POPULATE "Dates normal= yyyy/yyyy" attribute.  PLACE ATTRIBUTE DATES BETWEEN "  " -->	 
+	     <unitid label="Collection Number:" encodinganalog="099" repositorycode="AzU" countrycode="us">MS 087</unitid>
+	     <origination label="Creator:"> 
+	     	<corpname source="lcnaf" encodinganalog="110">Jesús María (Chihuahua, Mexico)</corpname> 
+	     </origination> <!-- CHANGE TAG TO CORPNAME, IF CREATOR IS A COROPORATION/ BUSINESS ETC.  CHANGE "100" ATTRIBUTE TO 110-->
+      	<abstract label="Abstract:">The mining town of Jesús María is located at the southeastern corner of the state of Chihuahua, Mexico. Five, single-leaf, holographic documents 
+      								relating to the judicial district, the partido, of Jesús María; as well as to the ayuntamiento, the municipal corporation in charge of administrating 
+      								the town.</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description:"><extent>.1 linear feet</extent></physdesc>	 
+	     <repository label="Repository:"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="spa" scriptcode="Latin">Spanish.</language></langmaterial>
+   	        <!-- CHANGE OR ADD FIELD IF MATERIALS ARE IN OTHER LANGUAGES. BE SURE TO CHANGE langcode "" ATTRIBUTE-->
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+         <p>There are no restrictions on this collection.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+      	<p>The Town of Jesús María records (MS 087). Special Collections, University of Arizona Libraries.</p>
+      </prefercite> 
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Staff.</p>
+      </processinfo>
+      <bioghist id="a2" encodinganalog="545"> 
+         <head>Biographical Note</head> 
+      	<p>The mining town of Jesús María is located at the southeastern corner of the state of Chihuahua, Mexico. Licenciado José Rafael Revilla was governor of the state 
+      	of Chihuahua in 1833; Licenciado V. Guerra was associated with the Civil Court of Chihuahua.</p> 
+      </bioghist> 
+      <arrangement id="a4" encodinganalog="351$a"> 
+         <head>Arrangement</head> 
+  	     <p>This collection is organized chronologically.</p>
+      </arrangement> 
+      <scopecontent id="a3" encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>Five, single-leaf, holographic documents relating to the judicial district, the partido, of Jesús María; as well as to the ayuntamiento, the municipal corporation in charge 
+      	of administrating the town. Two letters are written by Revilla to the president of the ayuntamiento of Jesús María. The first, which deals with the death and 
+      	destruction caused by a severe storm, is signed Revilla, Chihuahua, June 25, 1833; the second is signed and dated July 2, 1833. The third letter is signed and dated Lic. V.
+      	Guerra, July 5, 1842, and is addressed to the first justice of the peace of Jesús María. The other two documents are reports. One is from Ignacio Bencomo, the 
+      	justice of the peace of Motachic [possibly San Rafael de Motachic] to the sub-prefect of the partido of Jesús María. He lists the week&apos;s events, which includes mention 
+      	of Apaches; its date is March 31, 1844. The unsigned fifth document, of uncertain date, regards patriotic observances and the naming of patriotic junta at Jesús María.</p>
+      	<p>Revilla&apos;s stationery has a large watermark of a star inside a shield design. Both of his letters have official ink-stamps, but with unclear lettering around the bird. 
+      	Guerra&apos;s stationery also has a large shield for a watermark, but with an eagle on a castle inside, the name Guise. Testa below, and the date 1838.</p>
+      </scopecontent> 
+      <relatedmaterial id="a6" encodinganalog="5441">
+      	<p>The town of Jesús María is also represented in MS 169, which has mining records from 1832-1836.</p>
+      </relatedmaterial> <!-- DELETE TAGS IF COLLECTION DOES NOT HAVE ANY RELATED MATERIALS-->
+      <controlaccess>
+         <head>Access Terms</head>
+         <list type="simple"> <!-- USE SOURCE OR RULES ELEMENT Source=lcnaf or lcsh; Rules=aacr2 or dacs or local.  BE SURE TO CHANGE encodinganalog="  " ATTRIBUTE. ALSO, BE SURE TO DELETE ANY TAGS YOU DO NOT USE-->
+            <item>
+               <persname encodinganalog="600" source= "lcnaf">Bencomo, Ignacio.</persname><!-- 600 Creator; 700 Contributor -->
+  		    </item>
+         	<item>
+         		<persname encodinganalog="600" source= "lcnaf">Guerra, V.</persname><!-- 600 Creator; 700 Contributor -->
+         	</item>
+         	<item>
+         		<persname encodinganalog="600" source= "lcnaf">Revilla, José Rafael, 1800-1849.</persname><!-- 600 Creator; 700 Contributor -->
+         	</item>
+  		    <item>
+  			   <geogname encodinganalog="651" source="lcsh">Chihuahua (Mexico : State) -- History -- Sources.</geogname>
+  		    </item>
+         	<item>
+         		<geogname encodinganalog="651" source="lcsh">Mexico -- Politics and government -- 1821-1861 -- Sources.</geogname>
+         	</item>
+         </list>
+      </controlaccess>
+   </archdesc>
+</ead>

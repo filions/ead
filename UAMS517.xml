@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+ audience="internal" id="a0"> 
+	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special
+		Collections//text(US::AzU::Petrified Forest and Northern Arizona Ranching Photograph Collection)//en""UAMS517.xml"</eadid> 
+	<filedesc>  
+	 <titlestmt> 
+	 	<titleproper>Petrified Forest and Northern Arizona Ranching Photograph Collection,
+	 		<date normal="1890/1900" era="ce" calendar="gregorian">circa 1890-1900</date></titleproper> 
+	 	<titleproper altrender="nodisplay" type="filing">Petrified Forest and Northern Arizona Ranching Photograph Collection</titleproper>
+	 	<author>Processed by Kim Frontz.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://www.library.arizona.edu/speccoll/</addressline>
+		</address> 
+		<date normal= "2014" era= "ce" calendar = "gregorian">; 2014</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Trent S. Purdy. 
+		<date era="ce" encodinganalog="date" normal="20140206">February 06, 2014</date></creation> 
+	 <langusage>Finding aid is in<language> English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+  	<titleproper>Petrified Forest and Northern Arizona Ranching Photograph Collection,<date era= "ce" calendar= "gregorian">circa 1890-1900</date></titleproper> 
+  	<num>Collection Number: MS 517</num> 
+  	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+			<item>Kim Frontz.</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+		  	<date>February 2014</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Trent S. Purdy</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 2014. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name:">Petrified Forest and Northern Arizona Ranching Photograph Collection, 
+  		<unitdate type="inclusive" label="Dates:" normal="1890/1900">circa 1890-1900</unitdate></unittitle>	 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	 	repositorycode="AzU" countrycode="us">MS 517</unitid> 
+	 <origination label="Creator:"> 
+	 	<corpname encodinganalog="110">University of Arizona. Library. Special Collections</corpname> </origination> 
+  	<abstract label="Abstract:">Thirty-five cyanotypes, taken by an amateur photographer about 1900, of calf roping and branding, a freight team, children at play, and a visit to the Petrified Forest in northern Arizona.</abstract> 
+  	<physdesc encodinganalog="300$a" label="Physical Description:"><extent>0.75 linear feet</extent></physdesc>	 
+	 <repository label="Repository:"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://www.library.arizona.edu/speccoll</addressline>		  
+		</address></repository> 
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+  	<p>There are no restrictions on this collection.</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>Petrified Forest and Northern Arizona Ranching cyanotype collection (MS 517).  Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Historical Note</head> 
+  	<p>The Petrified Forest National Monument was established in 1906 for the protection of the fossils, particularly fossilized wood, in the area which includes parts of Navajo and Apache Counties in northern Arizona.  The photographs represent an unidentified family on a small ranch.  Two men are identified as Barney and Lee; a woman and two small children are not identified.</p>
+  </bioghist> 
+  <arrangement id="a4" encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+	 <p>This collection is organized into one series.</p>	 
+	 <list> 
+	 	<item>Series I: Cyanotypes</item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>Thirty-five cyanotype photographs taken, circa 1890-1900, at the Petrified Forest and northern Arizona and possibly in southeastern Nevada.  Several images show horses, calf roping and branding, and groups on horseback.  A woman on horseback assists in the calf roping and branding.  Other images show a trip to the Petrified Forest including a woman and a guide crossing Agate Bridge (a petrified tree used as a bridge).  A few photographs show spoke-wheeled surreys, or two-seated carriages.  One surrey is labeled “Sandy and Goodsprings”, two towns in southeastern Nevada, the other is not identified.  Also present is an image of a freight team labeled “Mr. Moon’s 10-horse team.” There are also views of two small children playing outdoors with a windmill and small building in the background and two scenic views are labeled “Turquoise camp” and “near lumber camp.”</p>
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Petrified forests—Arizona—Pictorial works</subject></item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Ranch life—Arizona—Pictorial works</subject></item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Cowboys—Arizona—Pictorial works</subject></item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Frontier and pioneer life—Pictorial works</subject></item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Freight and freightage—Pictorial works</subject></item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Carriages and carts—Pictorial works</subject></item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="651" source="lcsh">Arizona—Pictorial works</subject></item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="655" source="aat">Cyanotypes</subject></item> 
+  		<item>
+  			<geogname encodinganalog="651" source="lcsh">Petrified Forest National Park - Arizona.</geogname>
+  		</item>
+  		<item>
+  			<genreform encodinganalog="655" source="aat">Pictorial works</genreform></item>
+  	</list>
+  </controlaccess> 
+	<dsc type="combined" id="a23"> 
+		<head>Container List</head> 
+		<c01 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">1</container> 
+				<unittitle>People and Transportation (includes Petrified Forest)</unittitle>
+				<unitdate>circa 1890-1900</unitdate>
+			</did> 
+		</c01> 
+		<c01 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">2</container> 
+				<unittitle>Ranch Scenes and Children</unittitle>
+				<unitdate>circa 1890-1900</unitdate>
+			</did> 
+		</c01> 
+		<c01 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">3</container> 
+				<unittitle>Scenic Views</unittitle>
+				<unitdate>circa 1890-1900</unitdate>
+			</did> 
+		</c01> 
+	</dsc>  
+</archdesc></ead>

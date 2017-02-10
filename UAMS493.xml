@@ -1,0 +1,2004 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+ audience="internal" id="a0"> 
+	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special
+		Collections//text(US::AzU:: Fred A. Riecker Papers)//en""UAMS493.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper> Fred A. Riecker Papers
+	 		<date normal="1848/1967" era="ce" calendar="gregorian">1848-1967</date>
+	 		<date normal="1930/1967" type="bulk">(bulk 1930-1967)</date></titleproper> 
+	 	<author>Processed by George L. Apodaca.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date normal= "2013" era= "ce" calendar = "gregorian">; 2013</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by George Apodaca. 
+  		<date era="ce" encodinganalog="date" normal="20131100">November, 2013</date></creation> 
+	 <langusage>Finding aid is in<language> English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+  	<titleproper>Fred A. Riecker Papers,<date era= "ce" calendar= "gregorian" normal="1848/1967" type="inclusive ">1848-1967</date>
+  		<date normal="1930/1967" type="bulk">(bulk 1930-1967)</date></titleproper> 
+	 <num>Collection Number: MS 493</num> 
+  	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>George L. Apodaca</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>November 2013</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>George L. Apodaca</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 2013. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name:"> Fred A. Riecker Papers
+		<unitdate type="inclusive" label="Dates:" normal="1848/1967">1848-1967</unitdate>
+	 	<unitdate type="bulk" label="Dates:" normal="1930/1967">(bulk 1930-1967)</unitdate></unittitle>	 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	 repositorycode="AzU" countrycode="us">MS 493</unitid> 
+	 <origination label="Creator:"> 
+		<persname source="lcnaf" encodinganalog="100">Riecker, Fred A.</persname></origination> 
+  	<abstract label="Abstract:">The Fred A. Riecker Papers includes correspondence, legal documents, ledgers, 
+  		real estate abstracts, photographic prints, negatives, maps, charts, railroad tickets and itineraries, 
+  		dated 1858-1967 (bulk 1930-1967) pertaining to Fred A. Riecker and the Riecker family. The bulk of the material 
+  		consists of legal and financial documents that relate to the parcel of real estate, otherwise known as Riecker’s 
+  		Addition, as well as Fred A. Riecker’s professional career as a railroad surveying engineer and civil advocate 
+  		for Tucson. </abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent>5.5 linear ft.</extent></physdesc>	 
+	 <repository label="Repository:"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository>
+  	<langmaterial>Materials in <language encodinganalog="546" langcode="eng"
+  		scriptcode="Latin">English</language></langmaterial>
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+	 <p>There are no restrictions on this collection.</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>Fred A. Riecker Papers (MS 493). Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+  	<p>Fred A. Riecker was born in San Francisco, California, 1878, but shortly thereafter moved with his mother to Tucson, 
+  		Arizona. He later began his professional career as a railroad survey engineer during the early 20th century for various 
+  		locomotive companies throughout the American Southwest. In subsequent years, he worked as a civil engineer in Tucson. 
+  		Throughout his life, he was intellectually engaged in a number of civil issues concerning Tucson and the greater 
+  		Southwest that prompted his extensive writing of letters to various newspaper editors and politicians. In his later 
+  		years, Fred A. Riecker published a semi-autobiographical manuscript detailing the pre- and post-railroad Tucson pioneer 
+  		life of his family in “Horatio Algebra and Chief One and One.”</p>
+  	<p>His father, Paul Riecker, was a nationally renown civil and mining engineer who drew the first official map of the Arizona 
+  		territory which was published in 1879 from his previous topographical survey of California and Arizona as part of the U.S. 
+  		Army Corps of Engineers. He led an early exploration party across the Colorado Plateau and was among the first to make 
+  		contact with the Havasupai at the Grand Canyon. Paul Riecker sued for homestead rights, thereby creating the origins of 
+  		Riecker’s Addition. He built the first houses north of the railroad tracks in Tucson in 1880. In 1896, Paul Riecker mapped 
+  		Pasadena, California, and laid out Inglewood and Redondo Beach, California. He was also involved in the Panama-Nicaragua 
+  		Canal controversy as one of the original surveyors of the Nicaragua Canal route. 
+  	</p> 
+  </bioghist> 
+  <arrangement id="a4" encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+	 <p>This collection is organized into three series, each containing a variety of subseries.</p>	 
+	 <list> 
+		<item>Series I: Fred A. Riecker,
+			<unitdate>1878-1967</unitdate></item></list>
+	 		<list>
+	 			<item>Subseries I: Correspondence,
+	 				<unitdate>1908-1967</unitdate></item>
+	 		</list>
+	 		<list>	
+	 			<item>Subseries II: Personal,
+	 				<unitdate>1898-1967</unitdate></item>
+	 		</list>
+	 		<list>
+	 			<item>Subseries III: Professional,
+	 				<unitdate>1894-1957</unitdate></item>
+	 		</list>
+			<list>
+	 			<item>Subseries IV: "Horatio Algebra and Chief One and One",
+	 				<unitdate>1957-1961</unitdate></item>
+			</list>
+			<list>
+	 			<item>Subseries V: Water Reclamation,
+	 				<unitdate>1931-1967</unitdate></item>
+			</list>
+	 		<list>
+	 			<item>Subseries VI: Newspaper Clippings,
+	 				<unitdate>1934-1964</unitdate></item>
+	 		</list>
+	 		<list>
+	 			<item>Subseries VII: Financial,
+	 				<unitdate>1938-1967</unitdate></item>
+	 		</list>
+	 		<list>
+	 			<item>Subseries VIII: Journals,
+	 				<unitdate>1905-1967</unitdate></item>
+	 		</list>
+	 		<list>
+	 			<item>Subseries IX: Railroad Tickets and Itineraries,
+	 				<unitdate>1950-1957</unitdate></item>
+	 		</list>
+	 		<list>
+	 			<item>Subseries X: Checks and check stubs,
+	 				<unitdate>1940-1967</unitdate></item>
+	 		</list>
+	
+	<list>
+		<item>Series II: Riecker Family, 
+			<unitdate>1858-1967</unitdate></item>	 	
+	 		</list>
+  <list>
+	 			<item>Subseries I: Correspondence,
+	 				<unitdate>1868-1963</unitdate></item></list>
+			<list>
+				<item>Subseries II: Family Documents,
+					<unitdate>1848-1963</unitdate></item>
+			</list>
+			<list>
+				<item>Subseries III: Financial,
+					<unitdate>1920-1945</unitdate></item>
+			</list>
+			<list>
+				<item>Subseries IV: Newspaper Clippings,
+					<unitdate>1887-1967</unitdate></item>
+			</list>
+			<list>
+				<item>Subseries V: Riecker's Addition,
+					<unitdate>1882-1962</unitdate></item>
+			</list>
+	<list> 	
+		<item>Series III: Photographs and A/V Media,
+	 			<unitdate>1878-1967</unitdate></item></list>
+	 		<list>
+	 			<item>Subseries I: Portraits,
+	 				<unitdate>1878-1936</unitdate></item></list>
+	 		<list>
+	 			<item>Subseries II: Fred A. Riecker,
+	 				<unitdate>circa 1910-1965</unitdate></item>
+	 		</list>
+			<list>	 	
+	 			<item>Subseries III: Negatives,
+	 				<unitdate>1964</unitdate></item>
+			</list>
+			<list>	 	
+	 			<item>Subseries IV: Audio Recordings,
+	 				<unitdate>1959-1963</unitdate></item>
+			</list>
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>The Fred A. Riecker Papers includes correspondence, legal documents, ledgers, real estate abstracts, photographic 
+  		prints, negatives, maps, charts, railroad tickets and itineraries, dated 1858-1967 (bulk 1930-1967) pertaining to 
+  		Fred A. Riecker and the Riecker family. The bulk of the material consists of legal and financial documents that 
+  		relate to the parcel of real estate, otherwise known as Riecker’s Addition, as well as Fred A. Riecker’s 
+  		professional career as a railroad surveying engineer and civil advocate for Tucson.</p> 
+  	<p>Other material in the collection is composed of correspondence belonging to various Riecker family members that 
+  		invoke a variety of subjects such as real estate, family estates and financial investments. Many of the 
+  		correspondences are between Fred A. Riecker and his family members, but others include letters to politicians, 
+  		newspaper editors and personal contacts. The Fred A. Riecker Papers also include a number of photographic 
+  		portraits taken of individual members of the Riecker family and photographic prints of Tucson landmarks and the 
+  		University of Arizona. Finally, there are several maps and charts created and used both by Fred and Paul Riecker 
+  		during their respective professional tenure as civil engineers.</p>
+  	</scopecontent>
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="600" source="lcnaf" role="subject">Riecker, Fred A., 1878-1967</persname> </item> 
+	 </list> 
+  	<list> 
+  		<item>
+ 	 		<persname encodinganalog="700" source="lcnaf" role="subject">Riecker, Paul</persname> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">University of Arizona</subject> </item> 
+  	</list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">History -- Tucson (Ariz.)</subject> </item> 
+  	</list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Pioneers -- Tucson (Ariz.)</subject> </item> 
+  	</list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Civil engineers -- Tucson (Ariz.)</subject> </item> 
+  	</list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Riecker's Addition -- Tucson (Ariz.)</subject> </item> 
+  	</list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Railroads -- Tucson (Ariz.)</subject> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Photography -- Tucson (Ariz.)</subject> </item> 
+  	</list>
+	 <list> 
+		<item> 
+		  <genreform encodinganalog="655" source="tgm">Correspondence</genreform> </item> 
+	 </list> 
+  	<list>
+  		<item> 
+  		<genreform encodinganalog="655" source="tgm">Financial records</genreform> </item> 
+  	</list> 
+  	<list>
+  		<item> 
+  			<genreform encodinganalog="655" source="tgm">Maps</genreform> </item> 
+  	</list>
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+		  <unittitle>Series I: Fred A. Riecker
+		  	<unitdate type="inclusive">1878-1967</unitdate></unittitle> 
+		</did> 
+		<c02 level="subseries"> 
+		  <did> 
+		  	<unittitle>Subseries I: Correspondence</unittitle><unitdate>1908-1967</unitdate>
+		  </did>
+			<scopecontent><p>Fred A. Riecker’s correspondences are arranged chronologically. The subseries contains 
+				letters relating to his professional career as a railroad-surveying engineer, letters to editors and 
+				officials, and personal correspondence between family members and friends.</p></scopecontent>
+			<c03 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">1</container> 
+					<unittitle>Marie Randall</unittitle>
+					<unitdate>1908</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">2</container> 
+					<unittitle>Professional</unittitle>
+					<unitdate>1910-1922</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">3</container> 
+					<unittitle>General Correspondence</unittitle>
+					<unitdate>1919-1959</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">4</container> 
+					<unittitle>General Correspondence</unittitle>
+					<unitdate>1960-1965</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">5</container> 
+					<unittitle>Annie W. Riecker</unittitle>
+					<unitdate>1920-1944</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">6</container> 
+					<unittitle>Tucson Air Service</unittitle>
+					<unitdate>1927-1964</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">7</container> 
+					<unittitle>Colorado River Project</unittitle>
+					<unitdate>1930-1964</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">8</container> 
+					<unittitle>Medical</unittitle>
+					<unitdate>1932-1962</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">9</container> 
+					<unittitle>Letters to the editor</unittitle>
+					<unitdate>1932-1964</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">10</container> 
+					<unittitle>Letters to the editor</unittitle>
+					<unitdate>1965-1967</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">11</container> 
+					<unittitle>Letters to government officials</unittitle>
+					<unitdate>1932-1967</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">12</container> 
+					<unittitle>Edna F. Riecker [Sister Mary Winifred]</unittitle>
+					<unitdate>1938-1945</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">13</container> 
+					<unittitle>Ruth Slattery</unittitle>
+					<unitdate>1938-1963</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">14</container> 
+					<unittitle>Postcards with photographic background</unittitle>
+					<unitdate>1939-1960</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">15</container> 
+					<unittitle>Eugene Riecker</unittitle>
+					<unitdate>1941-1947</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">16</container> 
+					<unittitle>Arizona Pioneer's Historical Society and the National Geographic Society</unittitle>
+					<unitdate>1942-1962</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">17</container> 
+					<unittitle>Myrtle Riecker</unittitle>
+					<unitdate>1945-1959</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">18</container> 
+					<unittitle>Myrtle Riecker</unittitle>
+					<unitdate>1960-1961</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">19</container> 
+					<unittitle>Belden Family</unittitle>
+					<unitdate>1948-1962</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">20</container> 
+					<unittitle>Charitable Causes</unittitle>
+					<unitdate>1950-1962</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">21</container> 
+					<unittitle>Evelyn Bernstein</unittitle>
+					<unitdate>1950-1961</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">22</container> 
+					<unittitle>Rena Pendleton</unittitle>
+					<unitdate>1952-1962</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">23</container> 
+					<unittitle>Hazel Kempf</unittitle>
+					<unitdate>1952-1963</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">24</container> 
+					<unittitle>Sarah McKenna</unittitle>
+					<unitdate>1953-1954</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">25</container> 
+					<unittitle>Frank Squire</unittitle>
+					<unitdate>1956-1966</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">26</container> 
+					<unittitle>Gladys Stanton</unittitle>
+					<unitdate>1958-1963</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">27</container> 
+					<unittitle>Relating to the Caryl Chessman case</unittitle>
+					<unitdate>1960</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">28</container> 
+					<unittitle>"Horatio Algebra and Chief One and One"</unittitle>
+					<unitdate>1960-1961</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">29</container> 
+					<unittitle>East Broadway subway</unittitle>
+					<unitdate>1961-1962</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">30</container> 
+					<unittitle>United Nations relocation</unittitle>
+					<unitdate>1961-1966</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">31</container> 
+					<unittitle>Dr. John and Alice Ruddock</unittitle>
+					<unitdate>1963</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">32</container> 
+					<unittitle>Proposals for new counties in Arizona</unittitle>
+					<unitdate>1965</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">33</container> 
+					<unittitle>Greeting cards</unittitle>
+					<unitdate>1937-1963</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">34</container> 
+					<unittitle>Greeting cards</unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">1</container> 
+					<container type="folder">35</container> 
+					<unittitle>Envelopes</unittitle>
+					<unitdate>1937-1964</unitdate>
+				</did>
+			</c03>
+		</c02>
+		<c02 level="subseries"> 
+				<did> 
+					<unittitle>Subseries II: Personal</unittitle><unitdate>1894-1967</unitdate>
+				</did> <scopecontent><p>The personal documents belonging to Fred A. Riecker are arranged 
+					chronologically. The subseries contains documents relevant to Fred A. Riecker’s personal life, such 
+					as documents reflecting his matriculation and medical records, as well as documents relating to his 
+					estate and personal travels. </p></scopecontent>
+				<c03 level="file">
+					<did>
+						<container type="box">1</container> 
+						<container type="folder">36</container> 
+						<unittitle>Higher education documents</unittitle>
+						<unitdate>1894-1901</unitdate>
+					</did>
+				</c03>
+			<c03 level="file">
+					<did>
+						<container type="box">1</container> 
+						<container type="folder">37</container> 
+						<unittitle>General documents</unittitle>
+						<unitdate>1918-1966</unitdate>
+					</did>
+				</c03>
+			<c03 level="file">
+						<did>
+							<container type="box">1</container> 
+							<container type="folder">38</container> 
+							<unittitle>Automobile documents</unittitle>
+							<unitdate>1919-1961</unitdate>
+						</did>
+				</c03>	
+			<c03 level="file">
+					<did>
+						<container type="box">1</container> 
+						<container type="folder">39</container> 
+						<unittitle>Medical documents</unittitle>
+						<unitdate>1932-1967</unitdate>
+					</did>
+				</c03>
+			<c03 level="file">
+					<did>
+						<container type="box">1</container> 
+						<container type="folder">40</container> 
+						<unittitle>Europe trip memorabilia</unittitle>
+						<unitdate>1939</unitdate>
+					</did>
+				</c03>
+			<c03 level="file">
+					<did>
+						<container type="box">2</container> 
+						<container type="folder">1</container> 
+						<unittitle>Europe trip memorabilia></unittitle>
+						<unitdate>1939</unitdate>
+					</did>
+				</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">2</container> 
+					<container type="folder">2</container> 
+					<unittitle>Europe trip memorabilia></unittitle>
+					<unitdate>1939</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">2</container> 
+					<container type="folder">3</container> 
+					<unittitle>Notes and jottings</unittitle>
+					<unitdate>1954-1958</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">2</container> 
+					<container type="folder">4</container> 
+					<unittitle>Notes and jottings</unittitle>
+					<unitdate>1959-1967</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">2</container> 
+					<container type="folder">5</container> 
+					<unittitle>Notes and jottings</unittitle>
+					<unitdate>undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+					<container type="box">2</container> 
+					<container type="folder">6</container> 
+					<unittitle>Funeral and estate documents</unittitle>
+					<unitdate>1962-1966</unitdate>
+				</did>
+			</c03>
+		</c02>
+		<c02 level="subseries"> 
+				<did> 
+					<unittitle>Subseries III: Professional</unittitle><unitdate>1894-1957</unitdate>
+				</did>
+			<scopecontent><p>The professional documents belonging to Fred A. Riecker are arranged chronologically. The 
+				subseries contains documents that shed light on Fred A. Riecker’s career as a survey and civil engineer 
+				for various railroad companies, as well as maps and charts employed by both Paul and Fred Riecker during 
+				their work. </p></scopecontent>
+				<c03 level="file">
+					<did>
+						<container type="box">2</container> 
+						<container type="folder">7</container> 
+						<unittitle>Railroad papers</unittitle>
+						<unitdate>1894-1917</unitdate>
+					</did>
+				</c03>
+			<c03 level="file">
+					<did>
+						<container type="box">2</container> 
+						<container type="folder">8</container> 
+						<unittitle>Brotherhood of Railroad Trainmen documents</unittitle>
+						<unitdate>1898-1900</unitdate>
+					</did>
+				</c03>
+			<c03 level="file">
+					<did>
+						<container type="box">2</container> 
+						<container type="folder">9</container> 
+						<unittitle>Southern Pacific Railroad Company documents</unittitle>
+						<unitdate>1907-1917</unitdate>
+					</did>
+				</c03>
+			<c03 level="file">
+					<did>
+						<container type="box">2</container> 
+						<container type="folder">10</container> 
+						<unittitle>Charts, diagrams and tables</unittitle>
+						<unitdate>1914-1920</unitdate>
+					</did>
+				</c03>
+			<c03 level="file">
+					<did>
+						<container type="box">2</container> 
+						<container type="folder">11</container> 
+						<unittitle>Published documents</unittitle>
+						<unitdate>1917-1919</unitdate>
+					</did>
+				</c03>
+			<c03 level="file">
+					<did>
+						<container type="box">2</container> 
+						<container type="folder">12</container> 
+						<unittitle>Atchison, Topeka and Santa Fe / Union Pacific Railroad 
+							proposed route</unittitle>
+						<unitdate>1938</unitdate>
+					</did>
+				</c03>
+			<c03 level="file">
+					<did>
+						<container type="box">2</container> 
+						<container type="folder">13</container> 
+						<unittitle>Holy Hope Cemetary</unittitle>
+						<unitdate>1957</unitdate>
+					</did>
+				</c03>
+			<c03 level="file">
+					<did>
+						<container type="box">6</container> 
+						<container type="folder">1</container> 
+						<unittitle>Map: Feather River 650 ft. dam</unittitle>
+						<unitdate>1927</unitdate>
+					</did>
+				</c03>
+			<c03 level="file">
+					<did>
+						<container type="box">6</container> 
+						<container type="folder">1</container> 
+						<unittitle>Map: Southern Pacific Lands Company</unittitle>
+						<unitdate>1947</unitdate>
+					</did>
+				</c03>
+		</c02>
+			<c02 level="subseries"> 
+					<did> 
+						<unittitle>Subseries IV: "Horatio Algebra and Chief One and One"</unittitle><unitdate>1957-1961</unitdate>
+					</did> <scopecontent><p>The manuscripts and documents relating to Fred A. Riecker's published work, 
+						"Horatio Algebra and Chief One and One", are arranged chronologically. The subseries contains 
+						documents involving Fred A. Riecker's research and subsequent publishing of his book. The written 
+						work was made as an attempt to document the Riecker family’s early Tucson pioneer 
+						life.</p></scopecontent>
+					<c03 level="file">
+						<did>
+							<container type="box">2</container> 
+							<container type="folder">14</container> 
+							<unittitle>Notes and jottings</unittitle>
+							<unitdate>1957-1960</unitdate>
+						</did>
+					</c03>
+				<c03 level="file">
+						<did>
+							<container type="box">2</container> 
+							<container type="folder">15</container> 
+							<unittitle>Pencil manuscripts</unittitle>
+							<unitdate>1959</unitdate>
+						</did>
+					</c03>
+				<c03 level="file">
+						<did>
+							<container type="box">2</container> 
+							<container type="folder">16</container> 
+							<unittitle>Early notes and drafts</unittitle>
+							<unitdate>1959</unitdate>
+						</did>
+					</c03>
+				<c03 level="file">
+					<did>
+						<container type="box">2</container> 
+						<container type="folder">17</container> 
+						<unittitle>Typescripts</unittitle>
+						<unitdate>1959-1960</unitdate>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container type="box">2</container> 
+						<container type="folder">18</container> 
+						<unittitle>Copyright documents</unittitle>
+						<unitdate>1959-1960</unitdate>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container type="box">2</container> 
+						<container type="folder">19</container> 
+						<unittitle>First typed copy</unittitle>
+						<unitdate>1960</unitdate>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container type="box">2</container> 
+						<container type="folder">20</container> 
+						<unittitle>Salt River Project</unittitle>
+						<unitdate>1961</unitdate>
+					</did>
+				</c03>
+			</c02>
+			<c02 level="subseries"> 
+					<did> 
+						<unittitle>Subseries V: Water Reclamation
+							<unitdate>1931-1967</unitdate></unittitle>
+					</did> <scopecontent><p>The documents that deal with water reclamation rights are arranged 
+						chronologically. The subseries has documents addressing the water reclamation issues that Fred 
+						A. Riecker advocated for on Tucson’s behalf. </p></scopecontent>
+					<c03 level="file">
+						<did>
+							<container type="box">2</container> 
+							<container type="folder">21</container> 
+							<unittitle>Information pamphlets</unittitle>
+							<unitdate>1930-1967</unitdate>
+						</did>
+					</c03>
+				<c03 level="file">
+					<did>
+						<container type="box">2</container> 
+						<container type="folder">22</container> 
+						<unittitle>"Suspended Sediment and Chemical Analyses of San Pedro River
+						at Charleston, Arizona."</unittitle>
+						<unitdate>1961</unitdate>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container type="box">2</container> 
+						<container type="folder">23</container> 
+						<unittitle>Colorado River Project notes</unittitle>
+						<unitdate>1961-1967</unitdate>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<container type="box">2</container> 
+						<container type="folder">24</container> 
+						<unittitle>Central Valley Project</unittitle>
+						<unitdate>1963</unitdate>
+					</did>
+				</c03>
+			</c02>
+	 	<c02 level="subseries"> 
+	 		<did> 
+	 			<unittitle>Subseries VI: Newspaper Clippings
+	 				<unitdate>1934-1964</unitdate></unittitle>
+	 		</did><scopecontent><p> The newspaper clippings are arranged chronologically and separated by two of the most 
+	 			occurring types of newspaper clippings Fred A. Riecker collected throughout his life. “Arizona Album” was 
+	 			printed in the newspaper featuring early Arizona pioneering families.</p></scopecontent>
+	 		<c03 level="file">
+	 			<did>
+	 				<container type="box">2</container> 
+	 				<container type="folder">25</container> 
+	 				<unittitle>General</unittitle>
+	 				<unitdate>1934-1967</unitdate>
+	 			</did>
+	 		</c03>
+			<c03>
+					<did>
+						<container type="box">2</container> 
+						<container type="folder">26</container> 
+						<unittitle>"Arizona Album"</unittitle>
+						<unitdate>1958-1964</unitdate>
+					</did>
+				</c03>
+	 	</c02>
+	 	<c02 level="subseries"> 
+	 		<did> 
+	 			<unittitle>Subseries VII: Financial</unittitle><unitdate>1938-1967</unitdate>
+	 		</did><scopecontent><p>The financial documents and records are arranged chronologically. The subseries 
+	 			contains documents pertaining to Fred A. Riecker’s financial and real estate assets. </p></scopecontent>
+	 		<c03 level="file">
+	 			<did>
+	 				<container type="box">2</container> 
+	 				<container type="folder">27</container> 
+	 				<unittitle>Investments and securities documents</unittitle>
+	 				<unitdate>1938-1958</unitdate>
+	 			</did>
+	 		</c03>
+	 		<c03 level="file">
+	 			<did>
+	 				<container type="box">2</container>
+	 				<container type="folder">28</container>
+	 				<unittitle>Insurance documents</unittitle>
+	 				<unitdate>1945-1956</unitdate>	
+	 			</did>
+	 		</c03>
+	 		<c03 level="file">
+	 			<did>
+	 				<container type="box">2</container>
+	 				<container type="folder">29</container>
+	 				<unittitle>State and County Tax Receipts</unittitle>
+	 				<unitdate>1950-1967</unitdate>	
+	 			</did>
+	 		</c03>
+	 		<c03 level="file">
+	 			<did>
+	 				<container type="box">2</container>
+	 				<container type="folder">30</container>
+	 				<unittitle>Statements of account [Union Bank]</unittitle>
+	 				<unitdate>1961-1967</unitdate>	
+	 			</did>
+	 		</c03>
+	 		<c03 level="file">
+	 			<did>
+	 				<container type="box">2</container>
+	 				<container type="folder">31</container>
+	 				<unittitle>Statements of account [Southern Arizona Bank and First
+	 				Western Bank]</unittitle>
+	 				<unitdate>1964-1967</unitdate>	
+	 			</did>
+	 		</c03>
+	 	</c02>
+	 	<c02 level= "subseries">
+	 		<did>
+	 			<unittitle>Subseries VIII: Journals</unittitle>
+	 			<unitdate>1905-1967</unitdate>
+	 		</did><scopecontent><p>The journals, diaries and ledgers are arranged chronologically. The subseries contains 
+	 			journals, diaries and ledgers Fred A. Riecker maintained throughout his professional and personal 
+	 			life.</p></scopecontent>
+	 		<c03 level="file">
+	 			<did>
+	 				<container type= "box">3</container>
+	 				<container type= "folder">1</container>
+	 				<unittitle>Journal -- Field Book</unittitle>
+	 				<unitdate>1905</unitdate>
+	 			</did>
+	 		</c03>
+	 		<c03 level="file">
+	 			<did>
+	 				<container type="box">3</container>
+	 				<container type="folder">2</container>
+	 				<unittitle>Journal -- Field Book</unittitle>
+	 				<unitdate>1912</unitdate>	
+	 			</did>
+	 		</c03>
+	 		<c03 level="file">
+	 			<did>
+	 				<container type="box">3</container>
+	 				<container type="folder">3</container>
+	 				<unittitle>Journal -- Notebook</unittitle>
+	 				<unitdate>1919</unitdate>	
+	 			</did>
+	 		</c03>
+	 		<c03 level="file">
+	 			<did>
+	 				<container type="box">3</container>
+	 				<container type="folder">4</container>
+	 				<unittitle>Journal -- Personal Diary</unittitle>
+	 				<unitdate>1928</unitdate>	
+	 			</did>
+	 		</c03>
+	 		<c03 level="file">
+	 			<did>
+	 				<container type="box">3</container>
+	 				<container type="folder">5</container>
+	 				<unittitle>Journal -- Personal Diary</unittitle>
+	 				<unitdate>1933</unitdate>	
+	 			</did>
+	 		</c03>
+	 		<c03 level="file">
+	 			<did>
+	 				<container type="box">3</container>
+	 				<container type="folder">6</container>
+	 				<unittitle>Ledger [No.1]</unittitle>
+	 				<unitdate>1934-1935</unitdate>	
+	 			</did>
+	 		</c03>
+	 		<c03 level="file">
+	 			<did>
+	 				<container type="box">3</container>
+	 				<container type="folder">7</container>
+	 				<unittitle>Ledger [No.2]</unittitle>
+	 				<unitdate>1935</unitdate>	
+	 			</did>
+	 		</c03>
+	 		<c03 level="file">
+	 			<did>
+	 				<container type="box">3</container>
+	 				<container type="folder">8</container>
+	 				<unittitle>Ledger [No.3]</unittitle>
+	 				<unitdate>1935-1936</unitdate>	
+	 			</did>
+	 		</c03>
+	 		<c03 level="file">
+	 			<did>
+	 				<container type="box">3</container>
+	 				<container type="folder">9</container>
+	 				<unittitle>Ledger [No.4]</unittitle>
+	 				<unitdate>1936</unitdate>	
+	 			</did>
+	 		</c03>
+	 		<c03 level="file">
+	 			<did>
+	 				<container type="box">3</container>
+	 				<container type="folder">10</container>
+	 				<unittitle>Ledger [No.5]</unittitle>
+	 				<unitdate>1936-1937</unitdate>	
+	 			</did>
+	 		</c03>
+	 		<c03 level="file">
+	 			<did>
+	 				<container type="box">3</container>
+	 				<container type="folder">11</container>
+	 				<unittitle>Journal -- Weekly Calendar</unittitle>
+	 				<unitdate>1937</unitdate>	
+	 			</did>
+	 		</c03>
+	 		<c03 level="file">
+	 			<did>
+	 				<container type="box">3</container>
+	 				<container type="folder">12</container>
+	 				<unittitle>Journal -- Personal Diary</unittitle>
+	 				<unitdate>1938</unitdate>	
+	 			</did>
+	 		</c03>
+	 		<c03 level="file">
+	 			<did>
+	 				<container type="box">3</container>
+	 				<container type="folder">13</container>
+	 				<unittitle>Journal -- Personal Diary</unittitle>
+	 				<unitdate>1939</unitdate>	
+	 			</did>
+	 		</c03>
+	 		<c03 level="file">
+	 			<did>
+	 				<container type="box">3</container>
+	 				<container type="folder">14</container>
+	 				<unittitle>Journal -- Personal Diary</unittitle>
+	 				<unitdate>1939</unitdate>	
+	 			</did>
+	 		</c03>
+	 		<c03 level="file">
+	 			<did>
+	 				<container type="box">3</container>
+	 				<container type="folder">15</container>
+	 				<unittitle>Ledger -- Order Book</unittitle>
+	 				<unitdate>1939-1953</unitdate>	
+	 			</did>
+	 		</c03>
+	 		<c03 level="file">
+	 			<did>
+	 				<container type="box">3</container>
+	 				<container type="folder">16</container>
+	 				<unittitle>Ledger -- Order Book</unittitle>
+	 				<unitdate>1944-1954</unitdate>	
+	 			</did>
+	 		</c03>
+	 		<c03 level="file">
+	 			<did>
+	 				<container type="box">3</container>
+	 				<container type="folder">17</container>
+	 				<unittitle>Journal -- Weekly Calendar</unittitle>
+	 				<unitdate>1959-1961</unitdate>	
+	 			</did>
+	 		</c03>
+	 		<c03 level="file">
+	 			<did>
+	 				<container type="box">3</container>
+	 				<container type="folder">18</container>
+	 				<unittitle>Ledger -- Xerox Copy</unittitle>
+	 				<unitdate>1959-1963</unitdate>	
+	 			</did>
+	 		</c03>
+	 		<c03 level="file">
+	 			<did>
+	 				<container type="box">3</container>
+	 				<container type="folder">19</container>
+	 				<unittitle>Journal -- Personal Diary</unittitle>
+	 				<unitdate>1961</unitdate>	
+	 			</did>
+	 		</c03>
+	 		<c03 level="file">
+	 			<did>
+	 				<container type="box">3</container>
+	 				<container type="folder">20</container>
+	 				<unittitle>Journal -- Personal Diary</unittitle>
+	 				<unitdate>1962</unitdate>	
+	 			</did>
+	 		</c03>
+	 		<c03 level="file">
+	 			<did>
+	 				<container type="box">3</container>
+	 				<container type="folder">21</container>
+	 				<unittitle>Journal -- Personal Diary</unittitle>
+	 				<unitdate>1963</unitdate>	
+	 			</did>
+	 		</c03>
+	 		<c03 level="file">
+	 			<did>
+	 				<container type="box">3</container>
+	 				<container type="folder">22</container>
+	 				<unittitle>Journal -- Personal Diary</unittitle>
+	 				<unitdate>1964</unitdate>	
+	 			</did>
+	 		</c03>
+	 		<c03 level="file">
+	 			<did>
+	 				<container type="box">3</container>
+	 				<container type="folder">23</container>
+	 				<unittitle>Journal -- Personal Diary</unittitle>
+	 				<unitdate>1965</unitdate>	
+	 			</did>
+	 		</c03>
+	 		<c03 level="file">
+	 			<did>
+	 				<container type="box">3</container>
+	 				<container type="folder">24</container>
+	 				<unittitle>Journal -- Personal Diary</unittitle>
+	 				<unitdate>1966</unitdate>	
+	 			</did>
+	 		</c03>
+	 		<c03 level="file">
+	 			<did>
+	 				<container type="box">3</container>
+	 				<container type="folder">25</container>
+	 				<unittitle>Journal -- Personal Diary</unittitle>
+	 				<unitdate>1967</unitdate>	
+	 			</did>
+	 		</c03>
+	 		<c03 level="file">
+	 			<did>
+	 				<container type="box">3</container>
+	 				<container type="folder">26</container>
+	 				<unittitle>Journal -- Notebook</unittitle>
+	 				<unitdate>undated</unitdate>	
+	 			</did>
+	 		</c03>
+	 	</c02>
+	 	<c02 level= "subseries">
+	 		<did>
+	 			<unittitle>Subseries IX: Railroad Tickets and Itineraries</unittitle>
+	 			<unitdate>1950-1957</unitdate>	
+	 		</did>
+	 		<scopecontent><p>The railroad tickets and itineraries of Fred A. Riecker from 1950-1957 are arranged 
+	 			chronologically. The tickets and itineraries from distinct railroad companies display images and 
+	 			advertising indicative of the 1950s and 1960s. </p></scopecontent>
+	 		<c03 level= "file">
+	 				<did>
+	 					<container type="box">3</container>
+	 					<container type="folder">27</container>
+	 					<unittitle>Railroad Tickets and Itineraries</unittitle>
+	 					<unitdate>1950</unitdate>	
+	 				</did>
+	 		</c03>
+	 		<c03 level="file">
+	 			<did>
+	 				<container type="box">3</container>
+	 				<container type="folder">28</container>
+	 				<unittitle>Railroad Tickets and Itineraries</unittitle>
+	 				<unitdate>1951</unitdate>	
+	 			</did>
+	 		</c03>
+	 		<c03 level="file">
+	 			<did>
+	 				<container type="box">3</container>
+	 				<container type="folder">29</container>
+	 				<unittitle>Railroad Tickets and Itineraries</unittitle>
+	 				<unitdate>1952</unitdate>	
+	 			</did>
+	 		</c03>
+	 		<c03 level="file">
+	 			<did>
+	 				<container type="box">4</container>
+	 				<container type="folder">1</container>
+	 				<unittitle>Railroad Tickets and Itineraries</unittitle>
+	 				<unitdate>1953</unitdate>	
+	 			</did>
+	 		</c03>
+	 		<c03 level="file">
+	 			<did>
+	 				<container type="box">4</container>
+	 				<container type="folder">2</container>
+	 				<unittitle>Railroad Tickets and Itineraries</unittitle>
+	 				<unitdate>1954-1955</unitdate>	
+	 			</did>
+	 		</c03>
+	 		<c03 level="file">
+	 			<did>
+	 				<container type="box">4</container>
+	 				<container type="folder">3</container>
+	 				<unittitle>Railroad Tickets and Itineraries</unittitle>
+	 				<unitdate>1956</unitdate>	
+	 			</did>
+	 		</c03>
+	 		<c03 level="file">
+	 			<did>
+	 				<container type="box">4</container>
+	 				<container type="folder">4</container>
+	 				<unittitle>Railroad Tickets and Itineraries</unittitle>
+	 				<unitdate>1957</unitdate>	
+	 			</did>
+	 		</c03>
+	 	</c02>
+	 	<c02 level= "subseries">
+	 		<did>
+	 			<unittitle>Subseries X: Checks and Check stubs</unittitle>
+	 			<unitdate>1940-1967</unitdate>
+	 		</did>
+	 		<scopecontent><p>The checks and check stubs of several dozen individual checks and check stubs belonging to 
+	 			Fred A. Riecker are arranged in chronological order.</p></scopecontent>
+	 			<c03 level= "file">
+	 				<did>
+	 					<container type="box">7</container>
+	 					<unittitle>Checks and check stubs,</unittitle>
+	 					<unitdate>1940-1967</unitdate>
+	 				</did>
+	 			</c03>
+	 	</c02>
+	 </c01>
+  	<c01 level="series" id="ser2"> 
+  		<did> 
+  			<unittitle>Series II: Riecker Family
+  				<unitdate type="inclusive">1848-1967</unitdate></unittitle> 
+  		</did> 
+  		<c02 level="subseries"> 
+  			<did> 
+  				<unittitle>Subseries I: Correspondence</unittitle>
+  				<unitdate>1868-1963</unitdate>
+  			</did>
+  			<scopecontent><p>The correspondence is arranged chronologically and organized by topic. The subseries contains
+  				letters and documents covering a number of financial, civil and familial topics, such as Riecker’s Addition
+  				and the estate of various Riecker family members. </p></scopecontent>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">4</container> 
+  					<container type="folder">5</container> 
+  					<unittitle>Paul Riecker [German]</unittitle>
+  					<unitdate>1868-1870</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+	 			<did>
+	 				<container type= "box">4</container>
+	 				<container type= "folder">6</container>
+	 				<unittitle>California real estate</unittitle>
+	 				<unitdate>1913-1944</unitdate>
+	 			</did>
+	 		</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type= "box">4</container>
+  					<container type= "folder">7</container>
+  					<unittitle>Riecker's Addition</unittitle>
+  					<unitdate>1914-1932</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type= "box">4</container>
+  					<container type= "folder">8</container>
+  					<unittitle>Riecker's Addition</unittitle>
+  					<unitdate>1941-1946</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type= "box">4</container>
+  					<container type= "folder">9</container>
+  					<unittitle>Riecker's Addition</unittitle>
+  					<unitdate>1951-1956</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type= "box">4</container>
+  					<container type= "folder">10</container>
+  					<unittitle>Riecker's Addition -- Office of the County Treasurer</unittitle>
+  					<unitdate>1918-1945</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type= "box">4</container>
+  					<container type= "folder">11</container>
+  					<unittitle>Stocks and shares</unittitle>
+  					<unitdate>1914-1932</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type= "box">4</container>
+  					<container type= "folder">12</container>
+  					<unittitle>Tax and Treasury Departments</unittitle>
+  					<unitdate>1929-1932</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type= "box">4</container>
+  					<container type= "folder">13</container>
+  					<unittitle>Between family members</unittitle>
+  					<unitdate>1929-1939</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type= "box">4</container>
+  					<container type= "folder">14</container>
+  					<unittitle>Between family members</unittitle>
+  					<unitdate>1943-1965</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type= "box">4</container>
+  					<container type= "folder">15</container>
+  					<unittitle>Annie W. Riecker's estate</unittitle>
+  					<unitdate>1937-1938</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type= "box">4</container>
+  					<container type= "folder">16</container>
+  					<unittitle>Annie W. Riecker's estate</unittitle>
+  					<unitdate>1938-1941</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type= "box">4</container>
+  					<container type= "folder">17</container>
+  					<unittitle>Edna F. Riecker's estate</unittitle>
+  					<unitdate>1945-1946</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type= "box">4</container>
+  					<container type= "folder">18</container>
+  					<unittitle>Annie W. Riecker's Memorial Lecture Series</unittitle>
+  					<unitdate>1955-1967</unitdate>
+  				</did>
+  			</c03>
+  		</c02>
+  		<c02 level="subseries">
+  			<did>
+  				<unittitle>Subseries II: Family documents</unittitle>
+  				<unitdate>1848-1963</unitdate>
+  			</did>
+  			<scopecontent><p>The documents belonging to the Riecker family are arranged chronologically. The subseries 
+  				contains documents corresponding to the Riecker family and estate, including Paul Riecker’s map created 
+  				for the U.S. Army Corps of Engineers and birth and baptism certificates belonging to various Riecker 
+  				family members. </p></scopecontent>
+  			<c03 level= "file">
+  				<did>
+  					<container type="box">4</container>
+  					<container type="folder">19</container>
+  					<unittitle>Birth and baptism certificates</unittitle>
+  					<unitdate>1848-1928</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">4</container>
+  					<container type="folder">20</container>
+  					<unittitle>Riecker's Addition real estate</unittitle>
+  					<unitdate>1882-1938</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">4</container>
+  					<container type="folder">21</container>
+  					<unittitle>Lilian E. Austin's estate</unittitle>
+  					<unitdate>1912-1913</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">4</container>
+  					<container type="folder">22</container>
+  					<unittitle>California real estate</unittitle>
+  					<unitdate>1923, 1935-1942, 1944</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">4</container>
+  					<container type="folder">23</container>
+  					<unittitle>Annie W. Riecker's estate</unittitle>
+  					<unitdate>1937-1938</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">4</container>
+  					<container type="folder">24</container>
+  					<unittitle>Annie W. Riecker's estate</unittitle>
+  					<unitdate>1938-1941</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">4</container>
+  					<container type="folder">25</container>
+  					<unittitle>Edna F. Riecker's [Sister Mary Winifred] estate</unittitle>
+  					<unitdate>1937-1938</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">4</container>
+  					<container type="folder">26</container>
+  					<unittitle>Edna F. Riecker's [Sister Mary Winifred] estate</unittitle>
+  					<unitdate>1945-1946</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">4</container>
+  					<container type="folder">27</container>
+  					<unittitle>Myrtle Riecker's estate</unittitle>
+  					<unitdate>1960-1963</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">4</container>
+  					<container type="folder">28</container>
+  					<unittitle>Inglewood, California cemetery family plot</unittitle>
+  					<unitdate>1913-1918</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">4</container>
+  					<container type="folder">29</container>
+  					<unittitle>Edna F. Riecker's [Sister Mary Winifred] U.S.C. commencement
+  					week booklets</unittitle>
+  					<unitdate>1924-1929</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">4</container>
+  					<container type="folder">30</container>
+  					<unittitle>Edna F. Riecker's [Sister Mary Winifred] U.S.C. diploma of 
+  					graduation</unittitle>
+  					<unitdate>1924-1929</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">4</container>
+  					<container type="folder">31</container>
+  					<unittitle>Edna F. Riecker's [Sister Mary Winifred] higher education
+  					records</unittitle>
+  					<unitdate>1924-1929</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">4</container>
+  					<container type="folder">32</container>
+  					<unittitle>Annie W. Riecker's Memorial Lecture Series No.2 and No.4
+  					</unittitle>
+  					<unitdate>1961-1963</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">6</container>
+  					<container type="folder">1</container>
+  					<unittitle>Map: Paul Riecker -- Atlas Sheet No.10</unittitle>
+  					<unitdate>1877</unitdate>
+  				</did>
+  			</c03>
+  		</c02>
+  		<c02 level="subseries">
+  			<did>
+  				<unittitle>Subseries III: Financial</unittitle>
+  				<unitdate>1920-1945</unitdate>
+  			</did>
+  			<scopecontent><p>The financial documents and records relevant to the Riecker family are arranged 
+  				chronologically and by document type. The subseries contain financial records related to the Riecker 
+  				family as well as income tax and investment documents from various Riecker family 
+  				members. </p></scopecontent>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">4</container>
+  					<container type="folder">33</container>
+  					<unittitle>Annie W. Riecker's insurance and statement of
+  					accounts</unittitle>
+  					<unitdate>1920-1932</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">4</container>
+  					<container type="folder">34</container>
+  					<unittitle>Stocks and shares notes</unittitle>
+  					<unitdate>1927-1967</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">4</container>
+  					<container type="folder">35</container>
+  					<unittitle>Annie W. Riecker's federal income tax returns</unittitle>
+  					<unitdate>1928-1933</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">4</container>
+  					<container type="folder">36</container>
+  					<unittitle>Insurance and real estate documents</unittitle>
+  					<unitdate>1929-1936</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">4</container>
+  					<container type="folder">37</container>
+  					<unittitle>Edna F. Riecker's [Sister Mary Winifred] individual
+  					income tax returns</unittitle>
+  					<unitdate>1938-1945</unitdate>
+  				</did>
+  			</c03>
+  		</c02>
+  		<c02 level="subseries">
+  			<did>
+  				<unittitle>Subseries IV: Newspaper clippings</unittitle>
+  				<unitdate>1887-1967</unitdate>
+  			</did>
+  			<scopecontent><p>The newspaper clippings are arranged chronologically. The subseries 
+  				contain published newspaper articles concerning the Riecker family and Riecker’s 
+  				Addition.</p></scopecontent>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">4</container>
+  					<container type="folder">38</container>
+  					<unittitle>General</unittitle>
+  					<unitdate>1887-1967</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">4</container>
+  					<container type="folder">39</container>
+  					<unittitle> Riecker's Addition</unittitle>
+  					<unitdate>1922-1931</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">4</container>
+  					<container type="folder">40</container>
+  					<unittitle>Annie W. Riecker's Memorial Lecture Series</unittitle>
+  					<unitdate>1960-1967</unitdate>
+  				</did>  				
+  			</c03>
+  			</c02>
+  		<c02 level="subseries">
+  			<did>
+  				<unittitle>Subseries V: Riecker's Addition</unittitle>
+  				<unitdate>1882-1962</unitdate>
+  			</did>
+  			<scopecontent><p>The documents and records relating to the Riecker’s Addition are arranged chronologically 
+  				and by document type. The subseries contains documents and records relating to Riecker’s Addition, such 
+  				as abstracts, indentures, tax receipts, and assessment notes about the real estate 
+  				property.</p></scopecontent>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">5</container> 
+  					<container type="folder">1</container> 
+  					<unittitle>Abstracts copied from Pima County Recorder's Office</unittitle>
+  					<unitdate>1882-1920</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">5</container> 
+  					<container type="folder">2</container> 
+  					<unittitle>Indentures, abstracts and bargain sale deeds</unittitle>
+  					<unitdate>1890-1912</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">5</container> 
+  					<container type="folder">3</container> 
+  					<unittitle>Indentures, abstracts and bargain sale deeds</unittitle>
+  					<unitdate>1913-1928</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">5</container> 
+  					<container type="folder">4</container> 
+  					<unittitle>State, County and City taxes</unittitle>
+  					<unitdate>1891-1924</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">5</container> 
+  					<container type="folder">5</container> 
+  					<unittitle>State, County and City taxes</unittitle>
+  					<unitdate>1925-1932</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">5</container> 
+  					<container type="folder">6</container> 
+  					<unittitle>State, County and City taxes</unittitle>
+  					<unitdate>1933-1949</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">5</container> 
+  					<container type="folder">7</container> 
+  					<unittitle>Drafts of letters and proposals relating to the City
+  					Assessments of Street Improvements</unittitle>
+  					<unitdate>1916-1929</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">5</container> 
+  					<container type="folder">8</container> 
+  					<unittitle>Drafts of letters and proposals relating to the City
+  						Assessments of Street Improvements</unittitle>
+  					<unitdate>1930-1938</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">5</container> 
+  					<container type="folder">9</container> 
+  					<unittitle>Notes copied from the U.S. General Surveyor General's
+  					Office</unittitle>
+  					<unitdate>1919</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">5</container> 
+  					<container type="folder">10</container> 
+  					<unittitle>Sketches, maps and survey notes</unittitle>
+  					<unitdate>1919-1930</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">5</container> 
+  					<container type="folder">11</container> 
+  					<unittitle>City Assessments of Street Improvements</unittitle>
+  					<unitdate>1919-1962</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">5</container> 
+  					<container type="folder">12</container> 
+  					<unittitle>Property assessment documents</unittitle>
+  					<unitdate>1920-1946</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">5</container> 
+  					<container type="folder">13</container> 
+  					<unittitle>Property assessment notes</unittitle>
+  					<unitdate>1928-1931</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">5</container> 
+  					<container type="folder">14</container> 
+  					<unittitle>Contracts for sale of real estate property</unittitle>
+  					<unitdate>1929-1943</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">5</container> 
+  					<container type="folder">15</container> 
+  					<unittitle>City of Tucson Resolutions [1181, 1225, 1230]</unittitle>
+  					<unitdate>1930-1931</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">5</container> 
+  					<container type="folder">16</container> 
+  					<unittitle>City Assessments of Street Improvements notes</unittitle>
+  					<unitdate>1939-1943</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">6</container> 
+  					<container type="folder">1</container> 
+  					<unittitle>Map: Survey by G. J. Roskruge -- Riecker's Addition 
+  					to Tucson</unittitle>
+  					<unitdate>circa 1890</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">6</container>
+  					<container type="folder">1</container> 
+  					<unittitle>Map: Survey by G.J. Roskruge -- Riecker's Addition 
+  					to Tucson</unittitle>
+  					<unitdate>circa 1890</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">6</container> 
+  					<container type="folder">1</container> 
+  					<unittitle>Map: Riecker's Addition to Tucson</unittitle>
+  					<unitdate>circa 1900</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">6</container> 
+  					<container type="folder">1</container> 
+  					<unittitle>Blueprint: Plat of Riecker's Addition</unittitle>
+  					<unitdate>1917</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">6</container> 
+  					<container type="folder">1</container> 
+  					<unittitle>Map: USGS, California and Arizona</unittitle>
+  					<unitdate>circa 1940</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">6</container> 
+  					<container type="folder">1</container> 
+  					<unittitle>Map: Tucson</unittitle>
+  					<unitdate>1956</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">6</container> 
+  					<container type="folder">1</container> 
+  					<unittitle>Map: Carbon print of Riecker's Addition -- Large</unittitle>
+  					<unitdate>undated</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">6</container> 
+  					<container type="folder">1</container> 
+  					<unittitle>Map: Carbon print of Riecker's Addition -- Small</unittitle>
+  					<unitdate>undated</unitdate>
+  				</did>
+  			</c03>
+  		</c02>
+  	</c01>
+  	<c01 level="series" id="ser3">
+  		<did> 
+  			<unittitle>Series III: Photographs and Audio/ Visual Media
+  				<unitdate type="inclusive">1878-1967</unitdate></unittitle> 
+  		</did> 
+  		<c02 level="subseries">
+  			<did>
+  				<unittitle>Subseries I: Portraits</unittitle>
+  				<unitdate>1878-1936</unitdate>
+  			</did><scopecontent><p>The portraits are arranged chronologically and arranged by individual. The subseries 
+  				contains a painted portrait of the Riecker children and various individual and group portraits of the 
+  				Riecker family.</p></scopecontent>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">5</container>
+  					<container type="folder">17</container>
+  					<unittitle>Fred A. Riecker</unittitle>
+  					<unitdate>1878-1936</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">5</container>
+  					<container type="folder">18</container>
+  					<unittitle>Group portraits</unittitle>
+  					<unitdate>1885-1928</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">5</container>
+  					<container type="folder">19</container>
+  					<unittitle>Annie W. Riecker</unittitle>
+  					<unitdate>1889-1934</unitdate>
+  				</did>
+  			</c03>
+  			<c03>
+  				<did>
+  					<container type="box">5</container>
+  					<container type="folder">20</container>
+  					<unittitle>Eugene Riecker</unittitle>
+  					<unitdate>circa 1910</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">5</container>
+  					<container type="folder">21</container>
+  					<unittitle>Edna F. Riecker [Sister Mary Winifred]</unittitle>
+  					<unitdate>circa 1920</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">5</container>
+  					<container type="folder">22</container>
+  					<unittitle>Annie W. Riecker Memorial Lecture Series</unittitle>
+  					<unitdate>1955</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">5</container>
+  					<container type="folder">23</container>
+  					<unittitle>Family album</unittitle>
+  					<unitdate>undated</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">5</container>
+  					<container type="folder">24</container>
+  					<unittitle>Riecker extended family</unittitle>
+  					<unitdate>undated</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">6</container>
+  					<container type="folder">2</container>
+  					<unittitle>Painted portrait of Riecker children</unittitle>
+  					<unitdate>1883</unitdate>
+  				</did>
+  			</c03>
+  		</c02>
+  		<c02 level="subseries">
+  			<did>
+  				<unittitle>Subseries II: Fred A. Riecker</unittitle>
+  				<unitdate>circa 1910-1965</unitdate>
+  			</did> <scopecontent><p>The photographs of Fred A. Riecker are arranged chronologically and by subject type. 
+  				The subseries contains a collection of photographs Fred A. Riecker made throughout 
+  				his life. </p></scopecontent>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">5</container>
+  					<container type="folder">25</container>
+  					<unittitle>Railroad engineer</unittitle>
+  					<unitdate>circa 1910</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">5</container>
+  					<container type="folder">26</container>
+  					<unittitle>S.S. Manhattan</unittitle>
+  					<unitdate>1939</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">5</container>
+  					<container type="folder">27</container>
+  					<unittitle>Downtown Tucson</unittitle>
+  					<unitdate>1957-1967</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">5</container>
+  					<container type="folder">28</container>
+  					<unittitle>Greater Tucson</unittitle>
+  					<unitdate>1957-1964</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">5</container>
+  					<container type="folder">29</container>
+  					<unittitle>University of Arizona</unittitle>
+  					<unitdate>1964-1964</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">6</container>
+  					<container type="folder">2</container>
+  					<unittitle>"Water for nature's storehouse -- the forest; Apache."</unittitle>
+  					<unitdate>1931</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">6</container>
+  					<container type="folder">2</container>
+  					<unittitle>"Roads are the arteries of the forest; Apache."</unittitle>
+  					<unitdate>1931</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">6</container>
+  					<container type="folder">2</container>
+  					<unittitle>"National forest timber is harvested on a sustained yield basis;
+  						Sitgraves."</unittitle>
+  					<unitdate>1931</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">6</container>
+  					<container type="folder">2</container>
+  					<unittitle>"Head of cattle graze the national forest ranges of Arizona
+  						in 1931; Sitgraves."</unittitle>
+  					<unitdate>1931</unitdate>
+  				</did>
+  			</c03>
+  		</c02>
+  		<c02 level="subseries">
+  			<did>
+  				<unittitle>Subseries III: Negatives</unittitle>
+  				<unitdate>1964</unitdate>
+  			</did><scopecontent><p>The negatives in this subseries are 
+  				of some of the photographs located in the Photographic and 
+  				A/V series. </p></scopecontent>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">5</container>
+  					<container type="folder">30</container>
+  					<unittitle>Negatives</unittitle>
+  					<unitdate>1964</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">5</container>
+  					<container type="folder">31</container>
+  					<unittitle>Negatives</unittitle>
+  					<unitdate>undated</unitdate>
+  				</did>
+  			</c03>
+  		</c02>	
+  		<c02 level="subseries">
+  			<did>
+  				<unittitle>Subseries IV: Audio Recording Tapes</unittitle>
+  				<unitdate>1959-1963</unitdate> 
+  			</did><scopecontent><p>The audio recording tapes of Fred A. Riecker reading 
+  				from his book, “Horatio Algebra and Chief One and One” are arranged in chronological 
+  				order.</p></scopecontent>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">5</container>
+  					<container type="folder">32</container>
+  					<unittitle>Audio recording tape</unittitle>
+  					<unitdate>1959</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">5</container>
+  					<container type="folder">33</container>
+  					<unittitle>Audio recording tape</unittitle>
+  					<unitdate>1963</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did>
+  					<container type="box">5</container>
+  					<container type="folder">34</container>
+  					<unittitle>Audio recording tape</unittitle>
+  					<unitdate>undated</unitdate>
+  				</did>
+  			</c03>
+  		</c02>
+  	</c01> 
+  </dsc> 
+</archdesc></ead>

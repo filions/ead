@@ -1,0 +1,621 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+ audience="internal" id="a0"> 
+	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library SpecialCollections//text(US::AzU::University of Arizona Land-grant centennial records)//en""UAAZ032.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper> University of Arizona land-grant centennial records
+	 		<date normal="1960/1962" era="ce" calendar="gregorian">1960-1962</date></titleproper> 
+	 	
+	 	<author>Staff.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date normal= "2011" era= "ce" calendar = "gregorian">; 2011</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Deborah Weller. 
+  		<date era="ce" calendar="gregorian">;Febuary 7, 2011</date></creation> 
+	 <langusage>Finding aid is in<language> English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+  	<titleproper>University of Arizona Land-grant centennial records,<date normal="1960/1962" era= "ce" calendar= "gregorian">1960-1962</date></titleproper> 
+  	<num>Collection Number: AZ 032</num> 
+  	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Staff.</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>1995</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Deborah Weller</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 2011. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name:">University of Arizona Land-Grant centennial records
+  		<unitdate type="inclusive" label="Dates:" normal="1960/1962">1960-1962</unitdate></unittitle>	 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	 repositorycode="AzU" countrycode="us">AZ 032</unitid> 
+	 <origination label="Creator:"> 
+		<corpname>University of Arizona</corpname> </origination> 
+  	<abstract label="Abstract:">Correspondence, administrative papers, photographs, newspaper clippings, publications, records of events, informational and promotional materials for the University of Arizona’s participation in the centennial convocation of the American Association of Land-Grant Colleges and State Universities</abstract> 
+  	<physdesc encodinganalog="300$a" label="Physical Description:"><extent>4.2 linear feet</extent></physdesc>	 
+	 <repository label="Repository:"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository> 
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+  	<p>There are no restrictions on this collection.</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>University of Arizona Land-Grant centennial records, (AZ032).  Special
+  		Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Historical Note</head> 
+  	<p>University of Arizona recognition of 100 years of land-grant colleges and universities, 1862-1962, and the university’s participation in the centennial convocation of the American Association of Land-Grant Colleges and State Universities held at Kansas City, 1961.</p> 
+  </bioghist> 
+  <arrangement id="a4" encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+	 <p>This collection is organized into 7 series</p>	 
+	 <list> 
+	 	<item>Series I: General Files, 
+	 		<unitdate>1960-1961.</unitdate></item> 
+	 </list> 
+  	<list> 
+  		<item>Series II: Publicity materials, 
+  			<unitdate>1960-1961.</unitdate></item> 
+  	</list> 
+  	<list> 
+  		<item>Series III: College histories.</item>
+  	</list> 
+  	<list> 
+  		<item>Series IV: Story of research.</item>
+  	</list> 
+  	<list> 
+  		<item>Series V: National.</item>
+  	</list> 
+  	<list> 
+  		<item>Series VI: Kansas City Convocation (other institutions).</item>
+  	</list>
+  	<list> 
+  		<item>Series VII: Miscellaneous, 1960-1962.</item>
+  	</list>
+  	
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>Correspondence, administrative papers, photographs, newspaper clippings, publications, records of events, informational and promotional material, programs and publications from other institutions, records of the centennial convocation of American Association of Land Grant Colleges and State Universities in Kansas City, Nov. 12-16, 1961; and manuscripts of two  projected publications about the University of Arizona: The Story of Research, and College Histories.</p> 
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+			<corpname encodinganalog= "610">University of Arizona -- Records and correspondence.</corpname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+			<corpname encodinganalog="610">University of Arizona -- History.</corpname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+			<corpname encodinganalog="610">University of Arizona -- Anniversaries, etc.</corpname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+			<corpname encodinganalog="610">University of Arizona -- Research.</corpname> </item> 
+	 </list> 
+  	<list> 
+  		<item> 
+  			<corpname encodinganalog="610">University of Arizona. College of Agriculture.</corpname> </item> 
+  	</list> 
+  	<list> 
+  		<item> 
+  			<corpname encodinganalog="610">University of Arizona. School of Home Economics.</corpname> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<corpname encodinganalog="610">University of Arizona. College of Education.</corpname> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<corpname encodinganalog="610">University of Arizona. College of Engineering.</corpname> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<corpname encodinganalog="610">University of Arizona. College of Fine Arts.</corpname> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<corpname encodinganalog="610">University of Arizona. College of Law.</corpname> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<corpname encodinganalog="610">University of Arizona. College of Liberal Arts.</corpname> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<corpname encodinganalog="610">University of Arizona. College of Pharmacy.</corpname> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<corpname encodinganalog="610">University of Arizona. College of Nursing.</corpname> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<corpname encodinganalog="610">University of Arizona. Graduate College.</corpname> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<corpname encodinganalog="610">University of Arizona. Dept. of Military Science and Tactics.</corpname> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<corpname encodinganalog="610">University of Arizona. Library.</corpname> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<corpname encodinganalog="610">University of Arizona. Dept. of Physical Education for Women.</corpname> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<corpname encodinganalog="610">University of Arizona. Dept. of Health, Physical Education and Recreation.</corpname> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<corpname encodinganalog="610">University of Arizona. Faculty.</corpname> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<corpname encodinganalog="610">University of Arizona. Agricultural Experiment Station.</corpname> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<corpname encodinganalog="610">American Association of Land-Grant Colleges and State Universities.</corpname> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650">State universities and colleges – Arizona.</subject> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<geogname encodinganalog="651">Arizona -- History.</geogname> </item> 
+  	</list>
+  	
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+			<unittitle>Series I: General Files,<unitdate era= "ce" calendar="gregorian">1960-1962</unitdate></unittitle> 	
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <container type="folder">1</container> 
+		  	<unittitle>Announcement. </unittitle> 
+		  </did></c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">2</container> 
+	 			<unittitle>Minutes of the Committee.</unittitle> 
+	 		</did></c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">3</container> 
+	 			<unittitle>Scheduled Events</unittitle> 
+	 		</did> </c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">4</container> 
+	 			<unittitle>Committees.</unittitle>
+	 		</did></c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">5</container> 
+	 			<unittitle>Miscellaneous Correspondence.</unittitle>
+	 		</did></c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">6</container> 
+	 			<unittitle>Foreign Lecturers (Visiting).</unittitle> 
+	 		</did></c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">7</container> 
+	 			<unittitle>Survey: U of A Graduate Report.</unittitle> 
+	 			</did></c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">8</container> 
+	 			<unittitle>Survey:  Foreign Student Opinion.</unittitle> 
+	 		</did></c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">9</container> 
+	 			<unittitle>Projects:  Miscellaneous. Proposed.</unittitle> 
+	 		</did></c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">10</container> 
+	 			<unittitle>Projects:  Rejected.</unittitle> 
+	 		</did></c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">11</container> 
+	 			<unittitle>Science Library Mural.</unittitle> 
+	 		</did></c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">12</container> 
+	 			<unittitle>Fact Book.</unittitle> 
+	 		</did></c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">13</container> 
+	 			<unittitle>Natural History Survey (Arizona).</unittitle> 
+	 		</did></c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">14</container> 
+	 			<unittitle>Map: Land Grant. </unittitle> 
+	 		</did></c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">15</container> 
+	 			<unittitle>Materials Folder.</unittitle> 
+	 		</did></c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">16</container> 
+	 			<unittitle>Home Economics Folder.</unittitle> 
+	 		</did></c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">17</container> 
+	 			<unittitle>“The Spirit of the Land Grant Institutions” Reprint.</unittitle> 
+	 		</did></c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">18</container> 
+	 			<unittitle>Concurrent Celebrations.</unittitle> 
+	 		</did></c02> 
+	 </c01>
+	 	<c01 level="series" id="ser2"> 
+	 		<did> 
+	 			<unittitle>Series II: Publicity <unitdate era= "ce" calendar="gregorian">1960-1962</unitdate></unittitle>  	
+	 		</did> 
+	 		<c02 level="file"> 
+	 			<did> <container type="box">2</container> 
+	 				<container type="folder">1</container> 
+	 				<unittitle>Governmental Acts and Proclamations (Historic and current).</unittitle> 
+	 			</did></c02> 
+	 		<c02 level="file"> 
+	 			<did> <container type="box">2</container> 
+	 				<container type="folder">2</container> 
+	 				<unittitle>Clippings; Publicity; Events.</unittitle> 
+	 			</did></c02> 
+	 		<c02 level="file"> 
+	 			<did> <container type="box">2</container> 
+	 				<container type="folder">3</container> 
+	 				<unittitle>Television – Radio.</unittitle> 
+	 			</did></c02>
+	 		<c02 level="file"> 
+	 			<did> <container type="box">2</container> 
+	 				<container type="folder">4</container> 
+	 				<unittitle>Wildcat</unittitle>
+	 				<unitdate normal= "19610917">September 17, 1961</unitdate>
+	 			</did></c02>
+	 	</c01>
+  	<c01 level="series" id="ser3"> 
+  		<did> 
+  			<unittitle>Series III: Publicity <unitdate era= "ce" calendar="gregorian">1960-1962</unitdate></unittitle>  	
+  		</did> 
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>College Histories, publication of:</unittitle> 
+  			</did></c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>College of Agriculture (General, School of Home Economics, Agricultural Extension Service).</unittitle> 
+  			</did></c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>College of Agricultural (Agricultural Extension Stations).</unittitle> 
+  			</did></c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>College of Business and Public Administration.</unittitle> 
+  			</did></c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">9</container> 
+  				<unittitle>College of Education.</unittitle> 
+  			</did></c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">10</container> 
+  				<unittitle>College of Engineering.</unittitle> 
+  			</did></c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">11</container> 
+  				<unittitle>College of Fine Arts.</unittitle> 
+  			</did></c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">12</container> 
+  				<unittitle>College of Law.</unittitle> 
+  			</did></c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">13</container> 
+  				<unittitle>College of Liberal Arts.</unittitle> 
+  			</did></c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>College of Pharmacy.</unittitle> 
+  			</did></c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Graduate College.</unittitle> 
+  			</did></c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">3</container> 
+  					<unittitle>School of Nursing.</unittitle> 
+  			</did></c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Bureaus, Laboratories, Institutes, etc.</unittitle> 
+  			</did></c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Library and University of Arizona Faculty.</unittitle> 
+  			</did></c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>School of Military Sciences and Tactics.</unittitle> 
+  			</did></c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Physical Education (men).</unittitle> 
+  			</did></c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>Physical Education (men).</unittitle> 
+  			</did></c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">9</container> 
+  				<unittitle>Laboratory of Tree Ring Research (Tribute to Dr. Andrew.E. Douglass).</unittitle> 
+  			</did></c02> 			
+  	</c01>
+  	<c01 level="series" id="ser4"> 
+  		<did> 
+  			<unittitle>Series IV: Story of research, <unitdate era= "ce" calendar="gregorian">1961-1962</unitdate></unittitle>  	
+  		</did> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">10</container> 
+  				<unittitle>Research story, publication of:</unittitle> 
+  			</did></c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">11</container> 
+  				<unittitle>College of Agriculture.</unittitle> 
+  			</did></c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">12</container> 
+  				<unittitle>College of BPA.</unittitle> 
+  			</did></c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">13</container> 
+  				<unittitle>College of Education.</unittitle> 
+  			</did></c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">14</container> 
+  				<unittitle>College of Engineering.</unittitle> 
+  			</did></c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">15</container> 
+  				<unittitle>College of Fine Arts.</unittitle> 
+  			</did></c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>College of Liberal Arts.</unittitle> 
+  			</did></c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>College of Mines.</unittitle> 
+  			</did></c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>College of Pharmacy.</unittitle> 
+  			</did></c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Special Divisions.</unittitle> 
+  			</did></c02> 
+  	</c01>
+  	<c01 level="series" id="ser5"> 
+  		<did> 
+  			<unittitle>Series V: National.</unittitle>  	
+  		</did> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Miscellaneous Releases by National Land-Grant Office.</unittitle> 
+  			</did></c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>Addresses (Manuscripts).</unittitle> 
+  			</did></c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>“High Education” Reprint.</unittitle> 
+  			</did></c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>Miscellaneous Publications.</unittitle> 
+  			</did></c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Citizens Seminars.</unittitle> 
+  			</did></c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Contributions to National Centennial Fund.</unittitle> 
+  			</did></c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Mass Mailer (Washington Issue).</unittitle> 
+  			</did></c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Table Top Display (from Washington).</unittitle> 
+  			</did></c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>“Next Year is Now” – Centennial Film.</unittitle> 
+  			</did></c02>
+  	</c01>
+  	<c01 level="series" id="ser6"> 
+  		<did> 
+  			<unittitle>Series VI:Kansas City Convocation (other institutions). </unittitle>  	
+  		</did> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>Kansas City Convocation.</unittitle> 
+  			</did></c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Kansas City Convocation:  Speeches.</unittitle> 
+  			</did></c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>Kansas City Convocation:  Art and Book Exhibits.</unittitle> 
+  			</did></c02>
+  	</c01>
+  	<c01 level="series" id="ser7"> 
+  		<did> 
+  			<unittitle>Series VII:Kansas City Convocation (other institutions). <unitdate era= "ce" calendar="gregorian">1961-1962</unitdate></unittitle>  	
+  		</did> 
+  		<c02 level="file"> 
+  			<did> <container type="box">6</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Other institutions:  Programs.</unittitle> 
+  			</did></c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">6</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Other institutions:  Sample materials and publications.</unittitle> 
+  			</did></c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">6</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>.</unittitle> 
+  			</did></c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">6</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Pictorial Record.</unittitle> 
+  			</did></c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">6</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Paperweight Souvenir.</unittitle> 
+  			</did></c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">6</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Seals and Proofs.</unittitle> 
+  			</did></c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">6</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Motion Picture “New Horizon”.</unittitle> 
+  			</did></c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container>  
+  				<unittitle>Framed Painting of Justin S. Morrill.</unittitle> 
+  			</did></c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container>  
+  				<unittitle>Table top display.</unittitle> 
+  			</did></c02>
+  		</c01>
+  </dsc> 
+</archdesc></ead>

@@ -1,0 +1,2054 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?filetitle Lecomte du Nouy, Pierre Papers?>
+<ead relatedencoding="MARC21">
+<eadheader audience="internal" findaidstatus="edited-full-draft"
+ langencoding="iso639-2b">
+	<eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
+		Special Collections//text(US::AzU::Pierre Lecomte du
+	 Nouy Papers//en"UAMS174".xml"</eadid>
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Pierre Lecomte du Nouy papers, 
+		  <date>1883-1972 (bulk 1917-1949)</date> </titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Ross W.
+		  McLachlan</author>
+	 </titlestmt>
+	 <publicationstmt>
+	 	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+		<address>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address>
+		<date>&#x00A9; 2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p>
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc>
+	 <creation encodinganalog="500">Inventory encoded by Jan Marie Payne
+		<date>April 30, 2002</date></creation> 
+	 <langusage>Inventory is in<language langcode="en"
+		encodinganalog="546">English. </language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter>
+  <titlepage>
+	 <titleproper encodinganalog="245$a">Pierre du Nouy papers</titleproper>
+	 <titleproper encodinganalog="245$a">
+		<date>1883-1972 (bulk 1917-1949)</date></titleproper>
+	 <num>Collection Number: MS 174</num>
+  	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher>
+	 <list>
+		<defitem>
+		  <label>Processed by: </label>
+		  <item>Ross W. McLachlan</item>
+		</defitem>
+		<defitem>
+		  <label>Date completed:</label>
+		  <item>
+			 <date>1981</date></item>
+		</defitem>
+		<defitem>
+		  <label>Encoded by:</label>
+		  <item>Jan Marie Payne</item>
+		</defitem>
+	 </list>
+	 <p>&#x00A9; 2001. Arizona Board of Regents. All rights reserved.</p>
+  </titlepage>
+</frontmatter>
+<archdesc level="collection"> 
+  <did id="a1">
+	 <head>Collection Summary</head>
+	 <unittitle encodinganalog="245" label="Collection Name:">Papers of Pierre
+		Lecomte du No&#x00FC;y, 
+		<unitdate type="inclusive" normal="">1883-1972 (bulk
+		  1917-1949)</unitdate></unittitle>
+	 <unitid label="Collection Number:" encodinganalog="099"
+	  repositorycode="AzU" countrycode="us">MS 174</unitid> 
+	 <origination label="Creator:">
+		<persname encodinganalog="100">Lecomte du No&#x00FC;y, Pierre,
+		  1883-1947</persname> </origination>
+	 <abstract label="Abstract:">Scientific manuscripts, lectures, articles and lab manuals relate
+		to Lecomte de No&#x00FC;y's research in biophysics; performed chiefly at the
+		Rockefeller Institute, New York, 1920-1927, and the Pasteur Institute, Paris,
+		1927-1936. After 1936, his writings concern philosophy of science; specifically
+		as it relates to evolution, religion, and teleology.</abstract>
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+		encodinganalog="300">26 linear feet</extent></physdesc>
+	 <repository label="Repository:">
+	 	<corpname encodinganalog="110">University of Arizona Libraries, Special Collections</corpname>
+		<address>
+		  <addressline>University of Arizona</addressline>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address></repository>
+  </did> 
+  <accessrestrict encodinganalog="506">
+	 <head>Restrictions</head>
+	 <p>None.</p>
+  </accessrestrict>
+  <userestrict encodinganalog="540">
+	 <head>Copyright</head>
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p>
+  </userestrict>
+  <prefercite encodinganalog="524">
+	 <head>Credit Line</head>
+	 <p>Pierre du Nouy papers(MS 174).Special Collections, University of Arizona Libraries.</p>
+  </prefercite>
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head>
+	 <p> French bio-physicist and philosopher born in Paris on December 20,
+		1883. He obtained his degrees of LL.B; PH.B; SC.B; PH.D; and SC.D at the
+		Sorbonne in Paris and graduated from Law School, though he never practiced. A
+		descendant of writers and artists, who included Corneille, he was brought up in
+		free thinking, intellectual circles and started life by writing short stories
+		as well as several plays which were produced with success. His deep interest in
+		philosophy and the belief that to progress, it would, henceforth, have to be
+		based on science, led to his taking up his scientific studies again under the
+		Curies, Appell, and others.</p>
+	 <p>The outbreak of World War I sent him to the front as a lieutenant in the
+		"Chasseurs &#x00E0; pied" but his knowledge of mechanics and driving soon put
+		him in command of a motor section with headquarters at Compi&#x00E8;gne, where
+		he met Dr. Alexis Carrel, with whom he worked in his spare hours on the problem
+		of the cicatrization of wounds. At Dr. Carrel's request he was attached in 1915
+		to his unit where he remained until the end of the war, with the exception of a
+		short mission to the United States. </p>
+	 <p>In 1920 he joined the Rockefeller Institute in New York as an associate
+		member, leaving there in 1927 to go to the Pasteur Institute in Paris, where he
+		created the first laboratory of molecular bio-physics in Europe. Heisenberg's
+		theory of indeterminism, as well as the laws of chance, coupled with years of
+		work on living matter by means of physical methods, had convinced him that life
+		and the steady progress of evolution cannot be accounted for by modern physical
+		laws and that materialism can no longer be based on science. His articles and
+		lectures on the subject aroused the enmity of the left wing and forced his
+		resignation from the Pasteur Institute in 1936. The title of Director of the
+		Ecole des Hautes Etudes at the Sorbonne did not provide the laboratories
+		necessary to contine his scientific work and after a trip around the world he
+		wrote 
+	 <title>L'Homme devant la Science</title> which shows that the laws of
+	 chance cannot account for life and evolution. Modern laboratories were being
+	 built for him by an industrialist outside of Paris when World War II broke out.
+	 Conditions under German occupation prevented experimental work and he devoted
+	 himself to writing 
+	 <title>L'Avenir de l'Esprit</title>, published in 1941 and crowned in 1942
+	 by the French Academy. In 1944 the University of Lausanne awared the Arnold
+	 Raymond prize for the most valuable contribution to the philosophy of science
+	 to these two books and 
+	 <title>Le Tempe et la Vie</title> (Bilogical Time) which had come out in
+	 1936. This book gave his new concept of biological time differing from sidereal
+	 time, deduced from his experiments on the cicatrization of wounds.</p>
+	 <p>Together with his wife, an American, whom he married in 1923, he escaped
+		from Paris at the end of 1942, reaching the United States of America in January
+		1943. 
+	 <title>La Dignit&#x00E9; Humaine</title>, which developed some of hthe
+	 ideas in his first two books and stressed moral and spiritual conclusions, was
+	 published by Brentano in New York in 1944. That year he covered 35,000 miles,
+	 lecturing for the YMCA and the USO on his experiences in Paris under the
+	 Germans. 
+	 <title>Human Destiny</title>, a synthesis of his three French books was
+	 published in 1947, shorltly before his death on September 22, 1947 after a long
+	 and painful illness.</p>
+	 <p>Lecomte de No&#x00FC;y's scientific work can be classed in four
+		principal groups:</p>
+	 <p>1915-1920--Cicatrization of wounds--He established the mathematical
+		formula based on the surface of the wound and age of the patient and could thus
+		calculate beforehand the exact date of cicatrizatiuon and scientifically check
+		the treatments employed to deduce the physiological age.</p>
+	 <p>1920-1926--Absorption phenomena of surface tension--The tensiometer
+		which won a Franklin Institute award in 1923, enabled him to provide evidence
+		of the existence of monomolecular layers which in turn disclosed three minima
+		in the surface tension of sodium oleate and enabled him to clculate the three
+		dimensions of the molecule as well as the dimension of the ovalbumine molecule
+		and give a determination of the Avogadro number in excellent accord with
+		previous ones.</p>
+	 <p>Physico-chemical characteristics of Immunity--The study of thin layers
+		of serum on water led to the discovery of a physico-chemical phenomenon not due
+		to immunization and showed that the serum is constituted of asymetric prismatic
+		molecules capable of being polarized in monomolecular layers. </p>
+	 <p>1927-1933--Experiments made by heating serum at a temperature above 55
+		degrees Celcius. Showed an increase in surface tension, viscosity, rotatory
+		power, rotatory dispersion, etc. Altogether twelve new phenomena were
+		discovered, proving that serum and plasma are true solutions molecularly
+		dispersed and not colloids as had been thought hereto fore. Most of these
+		experiments were based on new insturments and new techniques, which have since
+		been extensively used in scientific and industrial laboratories. Amongst these
+		figure the tensionmeter, a microviscosimeter, an ionometer for the measurement
+		of pH up to the 4th and 5th decimal points and an automatic spectrophotometer
+		in the infra-red.</p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into eight series: </p> 
+	 <list>
+		<item>Series I: Family and professional correspondence, 
+		  <date>1883-1961</date></item>
+		<item>Series II: Literary Manuscripts, 
+		  <date>1902-1914</date></item>
+		<item>Series III: Photographs, 
+		  <date>1883-1947</date></item>
+		<item>Series IV: Scientific manuscripts, 
+		  <date>1916-1946</date></item>
+		<item>Series V: Laboratory manuals, 
+		  <date>no date</date></item>
+		<item>Series VI: Lectures and articles, 
+		  <date>1917-1946</date></item>
+		<item>Series VII: Scrapbooks, 
+		  <date>1920-1972</date></item>
+		<item>Series VIII: Oversize material, 
+		  <date>no date</date></item>
+	 </list>
+  </arrangement>
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>Scientific manuscripts, lectures, articles and lab manuals relate to
+		Lecomte de No&#x00FC;y's research in biophysics; performed chiefly at the
+		Rockefeller Institute, New York, 1920-1927, and the Pasteur Institute, Paris,
+		1927-1936. After 1936, his writings concern philosophy of science; specifically
+		as it relates to evolution, religion, and teleology. Manuscripts present
+		include 
+	 <title>L'Avenir de l'Espirit</title>, 
+	 <title>La Dignit&#x00E9; Humaine</title>, 
+	 <title>L'Homme Devant la Science</title>, 
+	 <title>Expose des Travaux</title>, 
+	 <title>Le Temps et la Vie (Biological Time)</title>, and 
+	 <title>Human Destiny</title>. Correspondents include Alexis Carrel, Pierre
+	 Devaux, charles Guye, Ferdinand Herc&#x00ED;k, and Charles Lindbergh.
+	 Correspondence and articles provide information about Lecomte de No&#x00FC;y's
+	 association with the American USO from 1944-1945. His plays and short stories
+	 appear to have been written from 1902-1914. Photographs are of Lecomte, his
+	 laboratory, and his family.</p>
+	 <p>Some materials are in French. </p>
+  </scopecontent> 
+  <controlaccess id="a12">
+	 <head>Access Terms</head>
+	 <list>
+		<item>
+		  <persname encodinganalog="100">Lecomte du No&#x00FC;y, Pierre,
+			 1883-1947</persname></item>
+		<item>
+		  <persname encodinganalog="100">Carrel, Alexis, 1873-1944 --
+			 Correspondence</persname></item>
+		<item>
+		  <persname encodinganalog="100">Devaux, Pierre, 1897- --
+			 Correspondence</persname></item>
+		<item>
+		  <persname encodinganalog="100">Guye, Charles Eug&#x00E8;ne, db. 1866 --
+			 Correspondence</persname></item>
+		<item>
+		  <persname encodinganalog="100">Herc&#x00ED;k, Ferdinand, 1905-1966 --
+			 Correspondence</persname></item>
+		<item>
+		  <persname encodinganalog="100">Lindbergh, Charles A.(Charles Augustus),
+			 1902-1974 -- Correspondence</persname></item>
+		<item>
+		  <persname encodinganalog="100">Lecomte du No&#x00FC;y, Pierre,
+			 1883-1947 -- Archives</persname></item>
+		<item>
+		  <corpname encodinganalog="110">United Service Organizations (U.S.)
+			 </corpname></item>
+		<item>
+		  <subject>Science -- Philosophy</subject></item>
+		<item>
+		  <subject>Chronobiology -- Experiments</subject></item>
+		<item>
+		  <subject>Wound healing -- Experiments</subject></item>
+		<item>
+		  <subject>Teleology</subject></item>
+		<item>
+		  <subject>Biophysics</subject></item>
+		<item>
+		  <subject>Religion and science -- History</subject></item>
+		<item>
+		  <genreform>Correspondence</genreform></item>
+		<item>
+		  <genreform>Photographs</genreform></item>
+		<item>
+		  <genreform>Laboratory Notebooks</genreform></item>
+		<item>
+		  <genreform>Manuscripts</genreform></item>
+		<item>
+		  <genreform>Articles</genreform></item>
+	 </list>
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head>
+	 <c01 level="series"> 
+		<did>
+		  <unittitle>Series I: Family and professional correspondence, 
+			 <unitdate type="inclusive"
+			  normal="1883/1961">1883-1961</unitdate></unittitle> 
+		</did> 
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">1</container>
+			 <unittitle>Family correspondence: various. 
+				<unitdate type="inclusive"
+				 normal="1883/1894">1883-1894</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">2-3</container>
+			 <unittitle>Family correspondence: Andr&#x00E9; (father) and Hermine
+				(mother). 
+				<unitdate type="inclusive"
+				 normal="1884/1886">1884-1886</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">4</container>
+			 <unittitle>Family correspondence: school notebooks. 
+				<unitdate type="inclusive"
+				 normal="1891/1894">1891-1894</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">5</container>
+			 <unittitle>Family correspondence: Sully Prudhomme (School Master) and
+				Hermine (mother). 
+				<unitdate type="inclusive"
+				 normal="1898/1907">1898-1907</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">6</container>
+			 <unittitle>Family correspondence: various. 
+				<unitdate type="inclusive"
+				 normal="1895/1903">1895-1903</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">1</container>
+			 <unittitle>Family correspondence: various. 
+				<unitdate type="inclusive"
+				 normal="1904/1910">1904-1910</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">2</container>
+			 <unittitle>Family correspondence: diaries. 
+				<unitdate type="inclusive"
+				 normal="1883/1910">1883-1910</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">3</container>
+			 <unittitle>Family correspondence: various. 
+				<unitdate type="inclusive"
+				 normal="1911/1916">1911-1916</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">4</container>
+			 <unittitle>Professional correspondence: Dr. Carrel and Cicatrization.
+				
+				<unitdate type="inclusive"
+				 normal="1915/1922">1915-1922</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">5</container>
+			 <unittitle>Professional correspondence: Pierre Devaux. 
+				<unitdate type="inclusive"
+				 normal="1926/1942">1926-1942</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">6</container>
+			 <unittitle>Professional correspondence: Charles Eugene Guye. 
+				<unitdate type="inclusive"
+				 normal="1929/1941">1929-1941</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">7</container>
+			 <unittitle>Professional correspondence: Ferdinand Herc&#x00ED;k. 
+				<unitdate type="inclusive"
+				 normal="1928/1939">1928-1939</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">8</container>
+			 <unittitle>Professional correspondence: Ecole des Hautes Etudes. 
+				<unitdate type="inclusive"
+				 normal="1936/1942">1936-1942</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">9</container>
+			 <unittitle>Professional correspondence: Ph. Lasseur. 
+				<unitdate type="inclusive"
+				 normal="1929/1942">1929-1942</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">10</container>
+			 <unittitle>Professional correspondence: Radio Corporation. 
+				<unitdate type="inclusive"
+				 normal="1933">1933</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">11</container>
+			 <unittitle>Professional correspondence: Technicians, Institute
+				Pasteur. 
+				<unitdate type="inclusive"
+				 normal="1928/1932">1928-1932</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="folder">1-4</container>
+			 <unittitle>Professional correspondence. 
+				<unitdate type="inclusive"
+				 normal="1920/1943">1920-1943</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="folder">5</container>
+			 <unittitle>Professional correspondence: Charles and Anne Lindberg. 
+				<unitdate type="inclusive"
+				 normal="1936/1939">1936-1939</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="folder">6</container>
+			 <unittitle>Professional correspondence: College de France. 
+				<unitdate type="inclusive"
+				 normal="1937">1937</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="folder">7</container>
+			 <unittitle>Professional correspondence: War documents and permits. 
+				<unitdate type="inclusive"
+				 normal="1939/1942">1939-1942</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">4</container><container
+			 type="folder">1-4</container>
+			 <unittitle>USO correspondence. 
+				<unitdate type="inclusive" normal="NaN/1945">June
+				  1944-1945</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">1-2</container>
+			 <unittitle>Correspondence and death: general. 
+				<unitdate type="inclusive"
+				 normal="1946/1947">1946-1947</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">3-6</container>
+			 <unittitle>Correspondence and death: letters of condolence. 
+				<unitdate type="inclusive" normal="">August 1947-September
+				  1948</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">7</container>
+			 <unittitle>Correspondence and death: letters of condolence, sympathy,
+				calling cards, etc. </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">8</container>
+			 <unittitle>Correspondence: general correspondence with Mary Lecomte
+				du No&#x00FC;y. 
+				<unitdate type="inclusive"
+				 normal="1948/1952">1948-1952</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">9</container>
+			 <unittitle>Correspondence: dedication of Pierre Lecomte du
+				No&#x00FC;y Room, University of Arizona. 
+				<unitdate type="inclusive"
+				 normal="1961">1961</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01> 
+	 <c01 level="series"> 
+		<did>
+		  <unittitle>Series II: Literary manuscripts, 
+			 <unitdate type="inclusive"
+			  normal="1902/1914">1902-1914</unitdate></unittitle> 
+		</did> 
+		<c02 level="file">
+		  <did><container type="box">6</container><container
+			 type="folder">1-2</container>
+			 <unittitle>Plays: L'Admirable Experience (manuscript, typescript).
+				</unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">6</container><container
+			 type="folder">3</container>
+			 <unittitle>Plays: Autopsie; La Chambre Maudite; Coujr Double; and Une
+				Experience. </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">6</container><container
+			 type="folder">4</container>
+			 <unittitle>Plays: Fils de Roi. </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">6</container><container
+			 type="folder">5</container>
+			 <unittitle>Plays: Four Corners Bar. </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">7</container><container
+			 type="folder">1</container>
+			 <unittitle>Plays: La Grande Ombre. </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">7</container><container
+			 type="folder">2</container>
+			 <unittitle>Plays: The Great Shadow. </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">7</container><container
+			 type="folder">3</container>
+			 <unittitle>Plays: Miscellaneous and unfinished. </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">7</container><container
+			 type="folder">4-5</container>
+			 <unittitle>Short stories. </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">7</container><container
+			 type="folder">6</container>
+			 <unittitle>Miscellaneous literary manuscripts. </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">7</container><container
+			 type="folder">7</container>
+			 <unittitle>Short articles. 
+				<unitdate type="inclusive"
+				normal="1908/1909">1908-1909</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">8</container><container
+			 type="folder">1-2</container>
+			 <unittitle>Literary manuscripts: miscellaneous. </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">8</container><container
+			 type="folder">3</container>
+			 <unittitle>Literary manuscripts: short articles. 
+				<unitdate type="inclusive"
+				normal="1904/1909">1904-1909</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">8</container><container
+			 type="folder">4</container>
+			 <unittitle>Literary manuscripts: scrapbook (Blue Star Cowboy's Co.). 
+				<unitdate type="inclusive"
+				 normal="1906/1907">1906-1907</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">9</container>
+			 <unittitle>Literary scrapbook. 
+				<unitdate type="inclusive"
+				 normal="1902/1914">1902-1914</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series"> 
+		<did>
+		  <unittitle>Series III: Photographs, 
+			 <unitdate type="inclusive"
+			  normal="1883/1947">1883-1947</unitdate></unittitle> 
+		</did> 
+		<c02 level="file">
+		  <did><container type="box">10</container>
+			 <unittitle>Photograph Album. 
+				<unitdate type="inclusive"
+				 normal="1883/1947">1883-1947</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series"> 
+		<did>
+		  <unittitle>Series IV: Scientific manuscripts, 
+			 <unitdate type="inclusive"
+			  normal="1916/1946">1916-1946</unitdate></unittitle> 
+		</did> 
+		<c02 level="file">
+		  <did><container type="box">11</container><container
+			 type="folder">1</container>
+			 <unittitle>Scientific manuscripts: calculation for Avogrado number. 
+				<unitdate type="inclusive"
+				 normal="1924">1924</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">11</container><container
+			 type="folder">2</container>
+			 <unittitle>Scientific manuscripts: hypothesis on cell structure and
+				cell movements. 
+				<unitdate type="inclusive"
+				 normal="1926">1926</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">11</container><container
+			 type="folder">3</container>
+			 <unittitle>Scientific manuscripts: cicatrization (curves and
+				drawings). 
+				<unitdate type="inclusive"
+				 normal="1916/1917">1916-1917</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">11</container><container
+			 type="folder">4-6</container>
+			 <unittitle>Scientific manuscripts: cicatrization of wounds. 
+				<unitdate type="inclusive"
+				 normal="1916">1916</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">11</container><container
+			 type="folder">7</container>
+			 <unittitle>Scientific manuscripts: cicatrization of wounds (thesis). 
+				<unitdate type="inclusive"
+				 normal="1917">1917</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">11</container><container
+			 type="folder">8-10</container>
+			 <unittitle>Scientific manuscripts: cicatrization of wounds. 
+				<unitdate type="inclusive"
+				 normal="1917/1919">1917-1919</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">11</container><container
+			 type="folder">11-12</container>
+			 <unittitle>Scientific manuscripts: cicatrization of wounds. 
+				<unitdate type="inclusive"
+				 normal="1935/1939">1935-1939</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">11</container><container
+			 type="folder">13</container>
+			 <unittitle>Scientific manuscripts: cicatrization of wounds (Dessins
+				des plaies). </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">11</container><container
+			 type="folder">14</container>
+			 <unittitle>Scientific manuscripts: crystallization. 
+				<unitdate type="inclusive"
+				 normal="1922/1925">1922-1925</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">11</container><container
+			 type="folder">15</container>
+			 <unittitle>Scientific manuscripts: dessicated serum (photographs).
+				</unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">11</container><container
+			 type="folder">16</container>
+			 <unittitle>Scientific manuscripts: culture of tissues. 
+				<unitdate type="inclusive"
+				 normal="1929/1930">1929-1930</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">11</container><container
+			 type="folder">17</container>
+			 <unittitle>Scientific manuscripts: critical temperature of blood
+				serum. 
+				<unitdate type="inclusive"
+				 normal="1930">1930</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">11</container><container
+			 type="folder">18</container>
+			 <unittitle>Scientific manuscripts: depolarization. 
+				<unitdate type="inclusive"
+				 normal="1930">1930</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">11</container><container
+			 type="folder">19</container>
+			 <unittitle>Scientific manuscripts: energy and vision. 
+				<unitdate type="inclusive"
+				 normal="1920">1920</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">12</container><container
+			 type="folder">1</container>
+			 <unittitle>Scientific manuscripts: immunity. 
+				<unitdate type="inclusive"
+				 normal="1934">1934</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">12</container><container
+			 type="folder">2</container>
+			 <unittitle>Scientific manuscripts: interfacial tension. 
+				<unitdate type="inclusive"
+				 normal="1925/1928">1925-1928</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">12</container><container
+			 type="folder">3</container>
+			 <unittitle>Scientific manuscripts: interferometer. </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">12</container><container
+			 type="folder">4-7</container>
+			 <unittitle>Scientific manuscripts: ionic equilibria. 
+				<unitdate type="inclusive" normal="NaN/1935">December
+				  1930-1935</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">12</container><container
+			 type="folder">8</container>
+			 <unittitle>Scientific manuscripts: pH. 
+				<unitdate type="inclusive"
+				 normal="1934">1934</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">12</container><container
+			 type="folder">9</container>
+			 <unittitle>Scientific manuscripts: photometry. 
+				<unitdate type="inclusive" normal="">June-October
+				  1929</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">12</container><container
+			 type="folder">10</container>
+			 <unittitle>Scientific manuscripts: polarimetry. 
+				<unitdate type="inclusive"
+				 normal="1928/1929">1928-1929</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">12</container><container
+			 type="folder">11</container>
+			 <unittitle>Scientific manuscripts: refractometry. 
+				<unitdate type="inclusive"
+				 normal="1929">1929</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">12</container><container
+			 type="folder">12</container>
+			 <unittitle>Scientific manuscripts: serum. 
+				<unitdate type="inclusive"
+				 normal="1937/1939">1937-1939</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">13</container><container
+			 type="folder">1</container>
+			 <unittitle>Scientific manuscripts: spectrophotometry (infra-red). 
+				<unitdate type="inclusive"
+				 normal="1920/1931">1920-1931</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">13</container><container
+			 type="folder">2-4</container>
+			 <unittitle>Scientific manuscripts: spectrophotometry (ultraviolet). 
+				<unitdate type="inclusive"
+				 normal="1932/1934">1932-1934</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">13</container><container
+			 type="folder">5</container>
+			 <unittitle>Scientific manuscripts: surface equilibria. 
+				<unitdate type="inclusive"
+				 normal="1922">1922</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">13</container><container
+			 type="folder">6-14</container>
+			 <unittitle>Scientific manuscripts: surface tension. 
+				<unitdate type="inclusive"
+				 normal="1921/1929">1921-1929</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">14</container><container
+			 type="folder">1-2</container>
+			 <unittitle>Scientific manusripts: surface tension. 
+				<unitdate type="inclusive"
+				 normal="1929/1942">1929-1942</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">14</container><container
+			 type="folder">3</container>
+			 <unittitle>Scientific manusripts: time (physiological). 
+				<unitdate type="inclusive"
+				 normal="1932/1938">1932-1938</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">14</container><container
+			 type="folder">4</container>
+			 <unittitle>Scientific manusripts: true solutions. 
+				<unitdate type="inclusive"
+				 normal="1921">1921</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">14</container><container
+			 type="folder">5-7</container>
+			 <unittitle>Scientific manusripts: viscosity. </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">15</container><container
+			 type="folder">1</container>
+			 <unittitle>Scientific manuscripts: whole blood. 
+				<unitdate type="inclusive"
+				 normal="1940">1940</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">15</container><container
+			 type="folder">2</container>
+			 <unittitle>Scientific manuscripts: x-rays. </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">15</container><container
+			 type="folder">3-4</container>
+			 <unittitle>Scientific manuscripts: patents. 
+				<unitdate type="inclusive"
+				 normal="1920/1931">1920-1931</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">15</container><container
+			 type="folder">5-6</container>
+			 <unittitle>Scientific manuscripts: tensiometers. 
+				<unitdate type="inclusive"
+				 normal="1925">1925</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">15</container><container
+			 type="folder">7</container>
+			 <unittitle>Scientific manuscripts: infra-red spectrophotometer.
+				</unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">15</container><container
+			 type="folder">8</container>
+			 <unittitle>Scientific manuscripts: viscosimeter. </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">15</container><container
+			 type="folder">9</container>
+			 <unittitle>Scientific manuscripts: miscellaneous projects and
+				photographs. </unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series V: Laboratory manuals, </unittitle>
+		</did>
+		<c02 level="file">
+		  <did><container type="box">16</container>
+			 <unittitle>Lab manuals, no. 1-13, note and address books.
+				</unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">17</container>
+			 <unittitle>Lab manuals, no. 14-26, miscellaneous manuals and
+				notebooks. </unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series"> 
+		<did>
+		  <unittitle>Series VI: Lectures and articles, 
+			 <unitdate type="inclusive"
+			  normal="1917/1946">1917-1946</unitdate></unittitle> 
+		</did> 
+		<c02 level="file">
+		  <did><container type="box">18</container><container
+			 type="folder">1</container>
+			 <unittitle>Lectures: "Conf&#x00E9;rence sur Pasteur." 
+				<unitdate type="inclusive" normal="1923">January 13,
+				  1923</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">18</container><container
+			 type="folder">2</container>
+			 <unittitle>Lectures: "La Psychologie de la Science," (given in
+				Montreal, Quebec, New York, and Le Havre). 
+				<unitdate type="inclusive"
+				 normal="1925">1925</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">18</container><container
+			 type="folder">3</container>
+			 <unittitle>Lectures: "Deux Conf&#x00E9;rences." 
+				<unitdate type="inclusive"
+				 normal="1931">1931</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">18</container><container
+			 type="folder">4</container>
+			 <unittitle>Lectures: "Le Proble&#x00E8;me Biologique et la Valeur de
+				M&#x00E9;thodes," (Brussels). 
+				<unitdate type="inclusive" normal="1931">June
+				  1931</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">18</container><container
+			 type="folder">5</container>
+			 <unittitle>Lectures: "Les Cultures de Tissus en Dehors de
+				l'Organisme," (Conf&#x00E9;rence Sorbonne). 
+				<unitdate type="inclusive"
+				 normal="1931">1931</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">18</container><container
+			 type="folder">6</container>
+			 <unittitle>Lectures: "Etudes Physico-chimique sur le S&#x00E9;rum,"
+				(Congr&#x00E9;s de Rome). 
+				<unitdate type="inclusive"
+				 normal="1932">1932</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">18</container><container
+			 type="folder">7</container>
+			 <unittitle>Lectures: Discours Radio Forum. 
+				<unitdate type="inclusive"
+				 normal="1932">1932</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">18</container><container
+			 type="folder">8</container>
+			 <unittitle>Lectures: "Une Mesure de l'Activit&#x00E9; Physiologique,"
+				(Congr&#x00E9;s de Rome). 
+				<unitdate type="inclusive"
+				 normal="1932">1932</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">18</container><container
+			 type="folder">9</container>
+			 <unittitle>Lectures: "Communication &#x00E0; la Societ&#x00E9; de
+				Pathologie Compar&#x00E9;e." 
+				<unitdate type="inclusive" normal="1932">November 8,
+				  1932</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">18</container><container
+			 type="folder">10</container>
+			 <unittitle>Lectures: Soci&#x00E9;t&#x00E9; de S&#x00E9;rilogie. 
+				<unitdate type="inclusive" normal="1932">December
+				  1932</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">18</container><container
+			 type="folder">11</container>
+			 <unittitle>Lectures: "Ph&#x00E9;nom&#x00E8;nes Physico-chimique dans
+				l'Immunit&#x00E9;," (Rome). 
+				<unitdate type="inclusive"
+				 normal="1933">1933</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">18</container><container
+			 type="folder">12</container>
+			 <unittitle>Lectures: Conf&#x00E9;rences. 
+				<unitdate type="inclusive"
+				 normal="1934">1934</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">18</container><container
+			 type="folder">13</container>
+			 <unittitle>Lectures: "La Lutte pur la Vie," (Conf&#x00E9;rence
+				Radio-Diffus&#x00E9;e). 
+				<unitdate type="inclusive" normal="1935">January 23,
+				  1935</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">18</container><container
+			 type="folder">14</container>
+			 <unittitle>Lectures: "Biochimie et Biophysique," (Brussels,
+				Congr&#x00E9;s de biochimie). 
+				<unitdate type="inclusive" normal="1935">October
+				  1935</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">18</container><container
+			 type="folder">15</container>
+			 <unittitle>Lectures: "Sur l'Unit&#x00E9; de la M&#x00E9;thode dans
+				les Sciences Physiques et Biologiques Compar&#x00E9;s." 
+				<unitdate type="inclusive" normal="1935">September
+				  1935</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">18</container><container
+			 type="folder">16</container>
+			 <unittitle>Lectures: "Le Temps et la Vie," (Conf&#x00E9;rence
+				Radio-Diffus&#x00E9;e). 
+				<unitdate type="inclusive"
+				 normal="1936">1936</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">18</container><container
+			 type="folder">17</container>
+			 <unittitle>Lectures: "Consid&#x00E9;rations Experimentales sur
+				l'Adsorption dans les Ph&#x00E9;nom&#x00E8;nes Biologiques." 
+				<unitdate type="inclusive" normal="1936">May
+				  1936</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">18</container><container
+			 type="folder">18</container>
+			 <unittitle>Lectures: 2&#x00E8;me Congr&#x00E9;s Philosophie
+				Scientifique (Copenhagen). 
+				<unitdate type="inclusive"
+				 normal="1936">1936</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">18</container><container
+			 type="folder">19</container>
+			 <unittitle>Lectures: "L'Homme Devant la Science," (Conf&#x00E9;rence
+				Bruxelles). 
+				<unitdate type="inclusive" normal="1936">October 20,
+				  1936</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">18</container><container
+			 type="folder">20</container>
+			 <unittitle>Lectures: "L'Homme Devant la Science," (Lyons). 
+				<unitdate type="inclusive" normal="1936">November 15,
+				  1936</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">19</container><container
+			 type="folder">1</container>
+			 <unittitle>Lectures: "Adresse au D&#x00E9;jeuner." 
+				<unitdate type="inclusive" normal="1937">February 15,
+				  1937</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">19</container><container
+			 type="folder">2</container>
+			 <unittitle>Lectures: "Les Limites de l'Inf&#x00E9;rence
+				L&#x00E9;egitime," (Colle&#x00E8;ge de France). 
+				<unitdate type="inclusive" normal="1938">March 10,
+				  1938</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">19</container><container
+			 type="folder">3</container>
+			 <unittitle>Lectures given in Montpellier. 
+				<unitdate type="inclusive" normal="">December 9-10,
+				  1938</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">19</container><container
+			 type="folder">4</container>
+			 <unittitle>Lectures: "Notre Univers et son Image," (Conf&#x00E9;rence
+				Coll&#x00E8;ge de France). 
+				<unitdate type="inclusive" normal="1939">February 27,
+				  1939</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">19</container><container
+			 type="folder">5</container>
+			 <unittitle>Lectures: "Figures de la Science,"
+				(Radio-Diffus&#x00E9;e). 
+				<unitdate type="inclusive" normal="1940">January 2,18 and February
+				  12,15, 1940</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">19</container><container
+			 type="folder">6</container>
+			 <unittitle>Lectures: "Le Rythme de la Vie," (Radio-Diffus&#x00E9;e en
+				Am&#x00E9;rique). 
+				<unitdate type="inclusive" normal="1940">April 20,
+				  1940</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">19</container><container
+			 type="folder">7</container>
+			 <unittitle>Lectures: "Physique, chimie &amp; Bilogie." 
+				<unitdate type="inclusive" normal="1941">May 3,
+				  1941</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">19</container><container
+			 type="folder">8</container>
+			 <unittitle>Lectures: "L'Adsorption," (Palais de la
+				D&#x00E9;couverte). 
+				<unitdate type="inclusive" normal="1941">June 29,
+				  1941</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">19</container><container
+			 type="folder">9</container>
+			 <unittitle>Lectures: "Jubil&#x00E9;e Devaux," (Bordeaux). 
+				<unitdate type="inclusive" normal="1941">July 2,
+				  1941</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">19</container><container
+			 type="folder">10</container>
+			 <unittitle>Lectures: "L'Avenir de l'Esprit," (Universite de Lyon). 
+				<unitdate type="inclusive" normal="1941">December 7,
+				  1941</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">19</container><container
+			 type="folder">11</container>
+			 <unittitle>Lectures: "Discours pur Distribution de Prix,"
+				(Lyc&#x00E9;e Carnot). 
+				<unitdate type="inclusive" normal="1942">1941 or
+				  1942</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">19</container><container
+			 type="folder">12</container>
+			 <unittitle>Lectures: Questionnaire pour Radio-Diffusion. 
+				<unitdate type="inclusive" normal="1942">July
+				  1942</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">19</container><container
+			 type="folder">13</container>
+			 <unittitle>Lectures: "Physiological Time," (Annual General Meeting of
+				the American Philosophical Society). 
+				<unitdate type="inclusive" normal="">April 22-24,
+				  1943</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">19</container><container
+			 type="folder">14</container>
+			 <unittitle>Series of Lectures on "La Physico-Chimie de S&#x00E9;rum
+				dans les Rapports avic l'Immunit&#x00E9;," (Institut Scientifique
+				Franco-Candien). 
+				<unitdate type="inclusive" normal="">Mat 3-13,
+				  1943</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">19</container><container
+			 type="folder">15</container>
+			 <unittitle>Lectures: "La France Inspiratrice," (French Institute, New
+				York). 
+				<unitdate type="inclusive" normal="1944">March 14,
+				  1944</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">19</container><container
+			 type="folder">16</container>
+			 <unittitle>Lectures: "L'Avenir de l'Esprit," Alliance
+				Fran&#x00E7;aise, New York). 
+				<unitdate type="inclusive" normal="1944">March 21,
+				  1944</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">19</container><container
+			 type="folder">17</container>
+			 <unittitle>Six broadcasts, (New York). 
+				<unitdate type="inclusive" normal="">April-June
+				  1944</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">19</container><container
+			 type="folder">18</container>
+			 <unittitle>Lectures: "L'Exp&#x00E9;rience et la Connaissance,"
+				(Congr&#x00E9;s Philosophique de Haiti). 
+				<unitdate type="inclusive" normal="1944">September
+				  1944</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">19</container><container
+			 type="folder">19</container>
+			 <unittitle>Lectures: "Le Parfum de la France," (French Insititute,
+				New York). 
+				<unitdate type="inclusive" normal="1945">April 10,
+				  1945</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">19</container><container
+			 type="folder">20</container>
+			 <unittitle>Printed lectures and miscellaneous articles (bound in one
+				volume). 
+				<unitdate type="inclusive"
+				 normal="1925/1946">1925-1946</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">20</container><container
+			 type="folder">1</container>
+			 <unittitle>Miscellaneous articles: "Carrel Mission," (Temporary
+				Hospital 21, Compiegne). 
+				<unitdate type="inclusive"
+				 normal="1917">1917</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">20</container><container
+			 type="folder">2</container>
+			 <unittitle>Miscellaneous articles: "Principals of General
+				Physiology," by W.M. Bayliss (authorization and beginning of translation). 
+				<unitdate type="inclusive"
+				 normal="1918">1918</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">20</container><container
+			 type="folder">3</container>
+			 <unittitle>Miscellaneous articles: "La Biologie Moderne et le
+				probl&#x00E8;me de la Vie," 
+				<title>Revue Scientifique</title>. 
+				<unitdate type="inclusive" normal="1930">February 8,
+				  1930</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">20</container><container
+			 type="folder">4</container>
+			 <unittitle>Miscellaneous articles: "A Titling Gas Stopcock," 
+				<title>Science</title>. 
+				<unitdate type="inclusive" normal="1931">February
+				  1931</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">20</container><container
+			 type="folder">5</container>
+			 <unittitle>Miscellaneous articles: "Replacing the Telephone by a Loud
+				Speaker for Measurements Conductitity," 
+				<title>Nature</title>. 
+				<unitdate type="inclusive" normal="1931">February
+				  1931</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">20</container><container
+			 type="folder">6</container>
+			 <unittitle>Miscellaneous articles: "La Cicatrisation de Plaies en
+				Surface," 
+				<title>Livre Memorial Du Dr. Tuffier</title>. 
+				<unitdate type="inclusive" normal="1931">July
+				  1931</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">20</container><container
+			 type="folder">7</container>
+			 <unittitle>Miscellaneous articles: "Boutaric, Remarques sur l'Etude
+				des Transformations Pouvant se Produire dans les Milieux Troubl&#x00E9;s," 
+				<title>Bull. Soc. Chimique de France</title>. 
+				<unitdate type="inclusive"
+				 normal="1931">1931</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">20</container><container
+			 type="folder">8</container>
+			 <unittitle>Miscellaneous articles: "Cultures des Tissus," 
+				<title>Revue de Paris</title>. 
+				<unitdate type="inclusive" normal="1931">September
+				  1931</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">20</container><container
+			 type="folder">9</container>
+			 <unittitle>Miscellaneous articles: "La Bacteriologie Nouvelle," 
+				<title>Correspondant</title>. 
+				<unitdate type="inclusive" normal="1931">September
+				  1931</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">20</container><container
+			 type="folder">10</container>
+			 <unittitle>Miscellaneous articles: "The Biological Problem," 
+				<title>Memorial Libman</title>. 
+				<unitdate type="inclusive"
+				 normal="1932">1932</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">20</container><container
+			 type="folder">11</container>
+			 <unittitle>Miscellaneous articles: "Response du Comit&#x00E9; des
+				Forjes," 
+				<title>New Outlook</title>. 
+				<unitdate type="inclusive"
+				 normal="1933">1933</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">20</container><container
+			 type="folder">12</container>
+			 <unittitle>Miscellaneous articles: "Necessit&#x00E9; de la Recherche
+				Scientifique," 
+				<title>La France Vivant</title>. 
+				<unitdate type="inclusive"
+				 normal="1934">1934</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">20</container><container
+			 type="folder">13</container>
+			 <unittitle>Miscellaneous articles: "La science et la Vie." 
+				<unitdate type="inclusive" normal="1935">February
+				  1935</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">20</container><container
+			 type="folder">14</container>
+			 <unittitle>Miscellaneous articles: "Lettre &#x00E0; Mr. Harris," 
+				<title>Article sur Pasteur</title>. 
+				<unitdate type="inclusive" normal="1936">February 21,
+				  1936</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">20</container><container
+			 type="folder">15</container>
+			 <unittitle>Miscellaneous articles: "Filtration," (chapter for book on
+				Ultra-Viruses by Lepine and Levaditi). 
+				<unitdate type="inclusive"
+				 normal="1936">1936</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">20</container><container
+			 type="folder">16</container>
+			 <unittitle>Miscellaneous articles: "Geistige Arbeit." 
+				<unitdate type="inclusive" normal="1936">July
+				  1936</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">20</container><container
+			 type="folder">17</container>
+			 <unittitle>Miscellaneous articles: "L'Organisation du Laboratoire de
+				Recherche." 
+				<unitdate type="inclusive"
+				 normal="1936">1936</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">20</container><container
+			 type="folder">18</container>
+			 <unittitle>Miscellaneous articles: "Biophysique Moleculaire et
+				Immunologie." 
+				<unitdate type="inclusive"
+				 normal="1937">1937</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">20</container><container
+			 type="folder">19</container>
+			 <unittitle>Miscellaneous articles: "Le Mystere des Colloides,"
+				(pr&#x00E9;face pur la conf&#x00E9;rence &#x00E0; Mr. Allee). 
+				<unitdate type="inclusive"
+				 normal="1937">1937</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">20</container><container
+			 type="folder">20</container>
+			 <unittitle>Miscellaneous articles: "La Biophysique Moleculaire," 
+				<title>Revue D'Actinologie</title>. 
+				<unitdate type="inclusive"
+				normal="1938">1938</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">20</container><container
+			 type="folder">21</container>
+			 <unittitle>Miscellaneous articles: "Consideration on the Study of
+				General Biology in the Light of Modern Science." 
+				<unitdate type="inclusive"
+				normal="1938">1938</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">21</container><container
+			 type="folder">1</container>
+			 <unittitle>Miscellaneous articles: Extrait de "L'Homme Devant la
+				Science," 
+				<title>Revue Universelle</title>. 
+				<unitdate type="inclusive" normal="1939">March 15,
+				  1939</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">21</container><container
+			 type="folder">2</container>
+			 <unittitle>Miscellaneous articles: R&#x00E9;sponse au Questionnaire
+				de "Volont&#x00E9;s." 
+				<unitdate type="inclusive"
+				normal="1939">1939</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">21</container><container
+			 type="folder">3</container>
+			 <unittitle>Miscellaneous articles: "La Position de la Culture
+				Japonaise dans le Monde," 
+				<title>Concours Japonais</title>. 
+				<unitdate type="inclusive"
+				normal="1940">1940</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">21</container><container
+			 type="folder">4</container>
+			 <unittitle>Miscellaneous articles: "Recherche Scientifique en Temps
+				de Guerre," 
+				<title>Courrier Royal</title>. 
+				<unitdate type="inclusive"
+				normal="1940">1940</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">21</container><container
+			 type="folder">5</container>
+			 <unittitle>Paris letter. 
+				<unitdate type="inclusive" normal="1940">May 30,
+				  1940</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">21</container><container
+			 type="folder">6</container>
+			 <unittitle>Miscellaneous articles: R&#x00E9;sponse au Questionnaire
+				de Mr. LoDuca. 
+				<unitdate type="inclusive" normal="1940">June 2,
+				  1940</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">21</container><container
+			 type="folder">7</container>
+			 <unittitle>Miscellaneous articles: L'Institut de Recherches de
+				Demain. 
+				<unitdate type="inclusive"
+				normal="1941">1941</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">21</container><container
+			 type="folder">8</container>
+			 <unittitle>Miscellaneous articles: Pr&#x00E9;face pour Livre de Ch.
+				E. Gliye. 
+				<unitdate type="inclusive"
+				normal="1941">1941</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">21</container><container
+			 type="folder">9</container>
+			 <unittitle>Miscellaneous articles: "Qu'entend-on par l'Avenir de la
+				Science?" 
+				<unitdate type="inclusive"
+				normal="1942">1942</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">21</container><container
+			 type="folder">10</container>
+			 <unittitle>Miscellaneous articles: "Evolution et Religion," 
+				<title>Bulletin Des Etudes Fran&#x00E7;aise</title>. 
+				<unitdate type="inclusive" normal="1944">February
+				  1944</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">21</container><container
+			 type="folder">11</container>
+			 <unittitle>Miscellaneous articles: L'Am&#x00E9;rican Moyen nous tend
+				la Main. 
+				<unitdate type="inclusive" normal="1945">April
+				  1945</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">21</container><container
+			 type="folder">12</container>
+			 <unittitle>Miscellaneous articles: "Science and Religion; the Point
+				of View of a Scientist," (for YMCA pamphlet). 
+				<unitdate type="inclusive" normal="1945">April
+				  1945</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">21</container><container
+			 type="folder">13</container>
+			 <unittitle>Miscellaneous articles: "A la Recherche du Tempe
+				V&#x00E9;cu..." 
+				<title>Revue de L'F.A.L.</title>. 
+				<unitdate type="inclusive" normal="1945">June 30,
+				  1945</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">21</container><container
+			 type="folder">14</container>
+			 <unittitle>Miscellaneous articles: "Concerning the Rate of
+				Evaporation of Water Through Orientated Monolayers of Water," 
+				<title>Science</title>. 
+				<unitdate type="inclusive" normal="1945">October
+				  1945</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">21</container><container
+			 type="folder">15</container>
+			 <unittitle>Miscellaneous articles: Preface &#x00E0; "L'Homme Libre,
+				ce Prisioner," de Andr&#x00E9; Lang. 
+				<unitdate type="inclusive" normal="1946">may
+				  1946</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">21</container><container
+			 type="folder">16</container>
+			 <unittitle>Miscellaneous articles: "La Probl&#x00E8;me de la Vie."
+				</unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">21</container><container
+			 type="folder">17</container>
+			 <unittitle>Miscellaneous articles: "Cours de Technique de
+				Laboratoire." </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">21</container><container
+			 type="folder">18</container>
+			 <unittitle>Miscellaneous articles: "Les Probl&#x00E8;mes Fondamentaux
+				de la Mati&#x00E8;re Vivante et l'Organisation de la Recherche Pure."
+				</unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">21</container><container
+			 type="folder">19</container>
+			 <unittitle>Miscellaneous articles: "Aspects Math&#x00E9;matiques de
+				Certaines Courbes de Temp&#x00E9;rature." </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">21</container><container
+			 type="folder">20</container>
+			 <unittitle>Miscellaneous articles: Notes pour articles. </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">21</container><container
+			 type="folder">21</container>
+			 <unittitle>Miscellaneous articles: "L'Evolution des Sciences de la
+				Vie," 
+				<title>Revue de Paris</title>. 
+				<unitdate type="inclusive" normal="1929">January 15,
+				  1929</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">21</container><container
+			 type="folder">22</container>
+			 <unittitle>Miscellaneous articles: "Le Viellissement," 
+				<title>Revue de Paris</title>. 
+				<unitdate type="inclusive" normal="1933">August
+				  1933</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">21</container><container
+			 type="folder">23</container>
+			 <unittitle>Miscellaneous articles: "Le Laboratoire et la Recherche
+				Scientifique," 
+				<title>Revue de Paris</title>. 
+				<unitdate type="inclusive" normal="1935">June 15,
+				  1935</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">21</container><container
+			 type="folder">24</container>
+			 <unittitle>Miscellaneous articles: "Les Mirages de la Science," 
+				<title>Revue de Paris</title>. 
+				<unitdate type="inclusive" normal="1936">March 1,
+				  1936</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">22</container>
+			 <unittitle>Printed Articles, arranged and bound by Pierre Lecomte du
+				No&#x00FC;y. 
+				<unitdate type="inclusive"
+				normal="1916/1936">1916-1936</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">23</container>
+			 <unittitle>Printed articles, arranged and bound by Pierre Lecomte du
+				No&#x00FC;y. 
+				<unitdate type="inclusive"
+				normal="1929/1941">1929-1941</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">24</container>
+			 <unittitle>Miscellaneous printed articles, includes articles by
+				Pierre Lecomte No&#x00FC;y and works dedicated to him. 
+				<unitdate type="inclusive"
+				normal="1926/1946">1926-1946</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series"> 
+		<did>
+		  <unittitle>Series VII: Scrapbooks and manuscripts, 
+			 <unitdate type="inclusive"
+			 normal="1920/1972">1920-1972</unitdate></unittitle> 
+		</did> 
+		<c02 level="file">
+		  <did><container type="box">25</container>
+			 <unittitle>Scrapbook, includes clippings about his scientific
+				research. 
+				<unitdate type="inclusive"
+				normal="1920/1939">1920-1939</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">26</container>
+			 <unittitle>Scrapbook, clippings concerning Pierre Lecomte du
+				No&#x00FC;y's and the Pasteur Institute's participation in the Chicago
+				International Exposition. 
+				<unitdate type="inclusive"
+				normal="1933">1933</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">27</container><container
+			 type="folder">1</container>
+			 <unittitle>Manuscripts: 
+				<title>Surface Equilibria or Colloidal Solutions</title>, includes
+				manuscript, typescript, and figures. 
+				<unitdate type="inclusive"
+				normal="1926">1926</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">27</container><container
+			 type="folder">2</container>
+			 <unittitle>Manuscripts: 
+				<title>Equilibres Supercificieles de Solutions Colloidales</title>,
+				manuscript only. 
+				<unitdate type="inclusive"
+				normal="1929">1929</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">27</container><container
+			 type="folder">3</container>
+			 <unittitle>Manuscripts: 
+				<title>Methodes Physiques en Biologie et en
+				  M&#x00E9;decine</title>, includes manuscript, galley proofs, and letters of
+				acknowledgment. 
+				<unitdate type="inclusive"
+				normal="1933">1933</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">28</container><container
+			 type="folder">1-5</container>
+			 <unittitle>Manuscripts: 
+				<title>La Temp&#x00E9;rature Critique du Serum</title>, includes
+				manuscript, typescript, figures, and letters of acknowledgment. 
+				<unitdate type="inclusive"
+				normal="1936/1945">1936-1945</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">28</container><container
+			 type="folder">6-7</container>
+			 <unittitle>Manuscripts: 
+				<title>Le Temps et la Vie</title> (
+				<title>Biological Time</title>), includes typescript, figures, and
+				letters of acknowledgment. 
+				<unitdate type="inclusive"
+				normal="1936">1936</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">29</container><container
+			 type="folder">1-3</container>
+			 <unittitle>Manuscripts: 
+				<title>Expos&#x00E9; des Travaux</title>, includes manuscript,
+				printed work, and letters of acknowledgment. 
+				<unitdate type="inclusive"
+				normal="1937">1937</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">30</container><container
+			 type="folder">1-3</container>
+			 <unittitle>Manuscripts: 
+				<title>L'Homme Devant La Science</title>, includes manuscript,
+				galley proofs, and letters of acknowledgment. 
+				<unitdate type="inclusive"
+				 normal="1936/1940">1936-1940</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">30</container><container
+			 type="folder">4-5</container>
+			 <unittitle>Manuscripts: 
+				<title>Road to Reason</title>, includes galley proofs and general
+				correspondence. 
+				<unitdate type="inclusive"
+				 normal="1947/1949">1947-1949</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">31</container>
+			 <unittitle>Scrapbook, clippings concerning 
+				<title>L'Homme Devant la Science</title>. 
+				<unitdate type="inclusive"
+				normal="1939">1939</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">32</container>
+			 <unittitle>Scrapbook, clippings concerning 
+				<title>Road to Reason</title>. 
+				<unitdate type="inclusive"
+				normal="1948/1949">1948-1949</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">33</container>
+			 <unittitle>Manuscripts: 
+				<title>L'Avenir de L'Esprit</title>, includes galley proofs,
+				manuscript, typescript, notes to the Preface of the American edition, letters
+				of acknowledgment to the French and American editions, and scrapbook of
+				clippings concerning 
+				<title>L'Avenir de L'Esprit</title> and 
+				<title>La Dignit&#x00E9; Humaine</title>. 
+				<unitdate type="inclusive"
+				normal="1941/1950">1941-1950</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">34</container>
+			 <unittitle>Manuscripts: 
+				<title>La Dignit&#x00E9; Humaine</title>, includes manuscript,
+				galley proofs, introduction and first chapter of English translation, and
+				correspondence relating to the American edition. 
+				<unitdate type="inclusive"
+				normal="1943/1950">1943-1950</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">35</container><container
+			 type="folder">1</container>
+			 <unittitle>Manuscripts: 
+				<title>Human Destiny</title>, manuscript. 
+				<unitdate type="inclusive"
+				normal="1945">1945</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">35</container><container
+			 type="folder">2-3</container>
+			 <unittitle>Manuscripts: 
+				<title>Human Destiny</title>, typescript. 
+				<unitdate type="inclusive"
+				normal="1947">1947</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">35</container><container
+			 type="folder">4</container>
+			 <unittitle>Manuscripts: 
+				<title>Human Destiny</title>, correspondence with Longmans, Green
+				(Isabel Paterson, editor). 
+				<unitdate type="inclusive"
+				normal="1946">1946</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">35</container><container
+			 type="folder">5</container>
+			 <unittitle>Manuscripts: 
+				<title>Human Destiny</title>, correspondence. 
+				<unitdate type="inclusive" normal="">January-March
+				  1947</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">36</container><container
+			 type="folder">1-6</container>
+			 <unittitle>Manuscripts: 
+				<title>Human Destiny</title>, correspondence. 
+				<unitdate type="inclusive" normal="">April-December
+				  1947</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">37</container><container
+			 type="folder">1-7</container>
+			 <unittitle>Manuscripts: 
+				<title>Human Destiny</title>, correspondence. 
+				<unitdate type="inclusive" normal="NaN/1952">January
+				  1948-1952</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">38</container>
+			 <unittitle>Scrapbook: 
+				<title>Human Destiny</title>. 
+				<unitdate type="inclusive"
+				normal="1947">1947</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">39</container>
+			 <unittitle>Scrapbook: 
+				<title>Human Destiny</title>. 
+				<unitdate type="inclusive"
+				normal="1947/1950">1947-1950</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">40</container>
+			 <unittitle>Scrapbook: 
+				<title>Human Destiny</title>. 
+				<unitdate type="inclusive"
+				normal="1948/1949">1948-1949</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">41</container>
+			 <unittitle>Scrapbook: 
+				<title>Human Destiny</title>. 
+				<unitdate type="inclusive"
+				normal="1949/1950">1949-1950</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">42</container>
+			 <unittitle>Scrapbook: 
+				<title>Human Destiny</title>. 
+				<unitdate type="inclusive"
+				normal="1950/1951">1950-1951</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">43</container>
+			 <unittitle>Scrapbook: 
+				<title>Human Destiny</title>. 
+				<unitdate type="inclusive"
+				normal="1951/1952">1951-1952</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">44</container>
+			 <unittitle>Scrapbook: 
+				<title>Human Destiny</title>. 
+				<unitdate type="inclusive"
+				normal="1953/1958">1953-1958</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">45</container>
+			 <unittitle>Scrapbook: 
+				<title>Human Destiny</title>. 
+				<unitdate type="inclusive"
+				normal="1959/1969">1959-1969</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">46</container>
+			 <unittitle>Scrapbook: 
+				<title>The Road to Human Destiny</title>. 
+				<unitdate type="inclusive"
+				normal="1955/1960">1955-1960</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">47</container><container
+			 type="folder">1-5</container>
+			 <unittitle>Scrapbook: articles about Piere Lecomte de No&#x00FC;y. 
+				<unitdate type="inclusive"
+				normal="1931/1970">1931-1970</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">48</container>
+			 <unittitle>Scrapbook: 
+				<title>Entre Savoir et Croire</title>. 
+				<unitdate type="inclusive"
+				normal="1964/1965">1964-1965</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">49</container>
+			 <unittitle>Scrapbook, clippings concerning the life and career of
+				Pierre Lecomte de No&#x00FC;y. 
+				<unitdate type="inclusive"
+				normal="1965/1972">1965-1972</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">50</container>
+			 <unittitle>Scrapbook: Lecomte de No&#x00FC;y Prize, clippings
+				concerning the Pierre Lecomte du No&#x00FC;y Prize: an international award for
+				a philosophical scientific or biographical work written, or translated into
+				French or English, which must give evidence of particular interest in the
+				spiritual life of our time and in upholding the dignity of man. Awarded
+				annually. 
+				<unitdate type="inclusive"
+				normal="1953/1957">1953-1957</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series"> 
+		<did>
+		  <unittitle>Series VIII: Oversize material, 
+			 <unitdate type="inclusive"
+			 normal="1894/1945">1894-1945</unitdate></unittitle> 
+		</did> 
+		<c02 level="file">
+		  <did><container type="box">51</container>
+			 <unittitle>Oversize material, includes diplomas, awards,
+				certificates, photographs, family memorabilia and autograph book. </unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">52</container>
+			 <unittitle>Oversize material, includes art work, scientific drawings,
+				and articles about Pierre Lecomte de No&#x00FC;y. 
+				<unitdate type="inclusive"
+				normal="1894/1945">1894-1945</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+  </dsc> 
+</archdesc></ead>

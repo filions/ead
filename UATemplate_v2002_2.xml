@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+   <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0"> 
+      <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special Collections//text
+		(US::AzU::<!-- TITLE OF COLLECTION -->)//en""<!-- NAME OF COLLECTION FILE, ie UAMS237 -->.xml"
+      </eadid> 
+      <filedesc> 
+         <titlestmt> 
+            <titleproper encodinganalog="title"><!-- TITLE OF COLLECTION -->
+	 	       <date normal="YYYY/YYYY" era="ce" calendar="gregorian" certainty="approximate" type="inclusive"><!-- Collection Date YYYY-YYYY--></date>
+	 	       <!-- BE SURE TO POPULATE "date normal= "YYYY/YYYY" attribute. PLACE ATTRIBUTE DATES BETWEEN "   " -->
+	 	       <date normal="YYYY/YYYY" type="bulk">(bulk <!-- YYYY-YYYY-->)</date><!-- BE SURE TO POPULATE "date normal= YYYY/YYYY" attribute --><!-- BE SURE TO DELETE BULK DATE TAGS IF NOT NEEDED -->
+	 	    </titleproper>
+	 	    <titleproper type="filing" altrender="nodisplay"> <!-- TITLE OF COLLECTION -->
+	 	    <!-- [IF AN INDIVIDUAL IS ASSOCIATED LIST LAST NAME, (FIRST NAME MIDDLE INITIAL.) i.e. Flannery, (John S.) COLLECTION DESCRIPTION] OR 
+	 	    [IF NO SPECIFIC PERSON IS ASSOCIATED LIST THE COLLECTION NAME AND DESCRIPTION (i.e. International Student Council general files) -->
+            </titleproper>
+	        <author>Processed by <!-- YOUR NAME-->.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date normal= "2016" era= "ce" calendar = "gregorian">; 2016</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by <!-- YOUR NAME-->. 
+            <date era="ce" encodinganalog="date" normal="YYYYMMDD"><!--MONTH DD, YYYY --></date>
+  	     </creation><!-- BE SURE TO POPULATE "date normal= YYYYMMDD" attribute. PLACE ATTRIBUTE DATES BETWEEN "  " -->
+	     <langusage>Finding aid encoded in<language> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc> 
+      <revisiondesc>
+         <change>
+            <date encodinganalog="date" normal="yyyymmdd" era="ce" certainty="approximate" calendar="gregorian"><!-- YYYY MONTH DD --></date>
+      	    <item><!-- ***IF NECESSARY*** INSERT INFORMATION ABOUT SIGNIFICANT CHANGES TO THE CONTENT OF THE FINDING AID AFTER ITS INITIAL EAD ENCODING  !DELETE IF NOT USED!!!--></item>
+         </change>
+      </revisiondesc>
+   </eadheader> 
+
+   <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+      <did id="a1"> 
+         <head>Collection Summary</head> 
+  	     <unittitle encodinganalog="245" label="Collection Name:"> <!-- COLLECTION TITLE-->
+            <unitdate type="inclusive" label="Dates:" normal="yyyy/yyyy"><!-- COLLECTION DATE(S)--></unitdate>
+            <unitdate type="bulk" label="Dates:" normal="yyyy/yyyy">(bulk <!-- YYYY-YYYY-->)</unitdate> <!-- DELETE BULK DATE TAGS IF NOT NEEDED -->
+  	     </unittitle><!-- BE SURE TO POPULATE "Dates normal= yyyy/yyyy" attribute.  PLACE ATTRIBUTE DATES BETWEEN "  " -->	 
+	     <unitid label="Collection Number:" encodinganalog="099" repositorycode="AzU" countrycode="us"><!-- MS NUMBER--></unitid>
+	     <origination label="Creator:"> 
+            <persname source="lcnaf" encodinganalog="100"><!-- PERSNAME--></persname> </origination> <!-- CHANGE TAG TO CORPNAME, IF CREATOR IS A COROPORATION/ BUSINESS ETC.  CHANGE "100" ATTRIBUTE TO 110-->
+         <abstract label="Abstract:"><!-- TEXT OF ABSTRACT.--></abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description:"><extent><!-- COLLECTION SIZE IN LINEAR FEET--></extent></physdesc>	 
+	     <repository label="Repository:"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng" scriptcode="Latin">English.</language></langmaterial>
+   	        <!-- CHANGE OR ADD FIELD IF MATERIALS ARE IN OTHER LANGUAGES. BE SURE TO CHANGE langcode "" ATTRIBUTE-->
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+         <p><!-- ARE THERE ANY RESTRICTION?--></p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+  	     <p><!-- COLLECTION TITLE WITH COLLECTION NUMBER IN (  ).  BE SURE NOT TO INCLUDE DATES IN COLLECTION TITLE-->. Special Collections, University of Arizona Libraries.</p>
+      </prefercite> 
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by <!-- YOUR NAME-->.</p>
+      </processinfo>
+      <bioghist id="a2" encodinganalog="545"> 
+         <head>Biographical Note</head> 
+         <p><!-- TEXT OF BIOGRAPHICAL / HISTORICAL NOTE (CHANGE ABOVE HEADER TO HISTORICAL NOTE IF CREATOR IS NOT A PERSON. ALSO, ADD <p> TO BEGIN NEW PARAGRAPH OF TEXT--></p> 
+      </bioghist> 
+      <arrangement id="a4" encodinganalog="351$a"> 
+         <head>Arrangement</head> 
+  	     <p>This collection is organized into <!-- NUMBER OF SERIES--></p>	 
+         <list>
+            <item>Series I:<!-- :TITLE OF SERIES-->,
+  			   <unitdate><!-- UNIT DATE--></unitdate></item>
+  		    <item>Series II:<!-- :TITLE OF SERIES-->,
+  			   <unitdate><!-- UNIT DATE--></unitdate></item>
+  		    <item>Sub-Series A<!-- :TITLE OF SUB-SERIES-->,
+  			   <unitdate><!-- UNIT DATE--></unitdate></item>
+  		    <item>Sub-Series B<!-- :TITLE OF SUB-SERIES-->
+  			   <unitdate><!-- UNIT DATE--></unitdate></item>
+  		    <item>Series III:<!-- :TITLE OF SERIES-->,</item>
+         </list>
+      </arrangement> 
+      <scopecontent id="a3" encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+  	     <p><!-- TEXT OF THE SCOPE AND CONTENT NOTE.  ADD <p> TO BEGIN NEW PARAGRAPH OF TEXT--></p> 
+      </scopecontent> 
+      <relatedmaterial id="a6" encodinganalog="5441"><p></p></relatedmaterial> <!-- DELETE TAGS IF COLLECTION DOES NOT HAVE ANY RELATED MATERIALS-->
+      <controlaccess>
+         <head>Access Terms</head>
+         <list type="simple"> <!-- USE SOURCE OR RULES ELEMENT Source=lcnaf or lcsh; Rules=aacr2 or dacs or local.  BE SURE TO CHANGE encodinganalog="  " ATTRIBUTE. ALSO, BE SURE TO DELETE ANY TAGS YOU DO NOT USE-->
+            <item>
+               <persname encodinganalog="600" source= "lcnaf"><!-- PERSNAME -->.</persname><!-- 600 Creator; 700 Contributor -->
+  		    </item>
+  		    <item>
+  			   <corpname encodinganalog="610" source= "lcnaf"><!-- CORPNAME -->.</corpname><!-- 610 regular; 611 conference; 710 contributor; 711 conference contributor -->
+  		    </item>
+  		    <item>
+  			   <subject encodinganalog="650" source= "lcsh"><!-- SUBJECT -->.</subject>
+  		    </item>
+  		    <item>
+  			   <geogname encodinganalog="651" source="lcsh"><!-- GEONAME -->.</geogname>
+  		    </item>
+  		    <item>
+  			   <title encodinganalog="630" source= "lcsh" render="italic" ><!-- TITLE --></title> <!-- 630 regular; source=lctah if LoC heading -->
+  		    </item>
+  		    <item>
+  			   <genreform encodinganalog="655" source="aat"><!-- GENREFORM --></genreform> <!-- aat=Art and Architecture Thesaurus; lctgm= LoC Thesaurus for Graphic Materials -->
+  		    </item>
+  		    <item>
+  			   <occupation encodinganalog="656" source= "lcsh"><!-- OCCUPATION --></occupation>
+            </item>
+         </list>
+      </controlaccess>
+  
+      <dsc type="combined" id="a23"> 
+         <head>Container List</head> 
+         <c01 level="series" id="ser1"> 
+            <did> 
+            	<unitid><!-- Series Number ie. Series 1--></unitid>
+               <unittitle><!-- NAME OF SERIES ie. Manuscripts -->,</unittitle> 
+			   <unitdate type="inclusive"><!-- DATE OF SERIES --></unitdate>
+		    </did>
+	 	    <scopecontent><p><!-- TEXT OF SERIES SCOPE AND CONTENT NOTES.  DELETE TAGS IF THERE ARE NO SCOPE AND CONTENT NOTES IN FINDING AID --></p></scopecontent>
+		    <c02 level="file"> 
+               <did> 
+			      <container type="box"><!-- BOX NUMBER --></container> 
+			      <container type="folder"><!-- FOLDER NUMBER --></container> 
+			      <unittitle><!-- TITLE -->,</unittitle>
+			      <unitdate><!-- DATE(S) --></unitdate>
+		       </did> 
+		    </c02> 
+	     </c01> 
+         <c01 level="series" id="ser2"> <!-- NAME OF SERIES ie. Series 2: Photographs --><!-- CHANGE "ser" NUMBER WHEN DECLARING NEW SERIES -->
+            <did> 
+            	<unitid><!-- Series Number ie. Series 1--></unitid>
+            	<unittitle><!-- NAME OF SERIES ie. Negatives -->,</unittitle> 
+			   <unitdate type="inclusive"><!-- DATE OF SERIES --></unitdate>
+		    </did>
+		    <scopecontent><p><!-- TEXT OF SERIES SCOPE AND CONTENT NOTES --></p></scopecontent>
+		    <c02 level="subseries">
+		       <did> 
+		       	<unitid><!-- SUBSERIES Number ie. Subseries 1: Papers--></unitid>
+			      <unittitle><!-- NAME OF SUBSERIES ie. Papers-->,</unittitle> 
+			      <unitdate type="inclusive"><!-- DATE OF SUBSERIES --></unitdate>
+			   </did> 
+			   <scopecontent><p><!-- TEXT OF SUBSERIES SCOPE AND CONTENT NOTES --></p></scopecontent>
+		       <c03 level="file"> 
+			      <did> 
+			         <container type="box"><!-- BOX NUMBER --></container> 
+				     <container type="folder"><!-- FOLDER NUMBER --></container> 
+				     <unittitle></unittitle>
+				     <unitdate><!-- DATE(S) --></unitdate>
+                  </did> 
+		       </c03>
+		    </c02>
+	     </c01> 
+      </dsc> 
+   </archdesc>
+</ead>

@@ -1,0 +1,4977 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+ audience="internal" id="a0"> 
+	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special
+		Collections//text(US::AzU::Movie Poster and Associated Materials Collection)//en""UAMS528.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper encodinganalog="title">Movie Poster and Associated Materials Collection,
+	 		<date normal="1908/1977" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">1908-1977</date>
+	 		</titleproper>
+	 	<titleproper type="filing" altrender="nodisplay">Movie Poster and Associated Materials Collection
+	 		</titleproper>
+	 	<author>Processed by  Erin O'Mera and Trent Purdy.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date normal= "2014" era= "ce" calendar = "gregorian">; 2014</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Trent Purdy. 
+  		<date era="ce" encodinganalog="date" normal="20140701">July 01, 2014</date></creation>
+	 <langusage>Finding aid is in<language> English.</language></langusage>
+  	<descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+  </profiledesc> 
+</eadheader> 
+
+	<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name:">Movie Poster and Associated Materials Collection,
+  		<unitdate type="inclusive" label="Dates:" normal="1908/1977">1908-1977</unitdate></unittitle>	 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	 	repositorycode="AzU" countrycode="us">MS 528</unitid> 
+	 <origination label="Creator:"> 
+	 	<corpname source="lcnaf" encodinganalog="110">University of Arizona. Library. Special Collections</corpname> </origination>
+  	<abstract label="Abstract:">This is an artificial collection comprised motion picture posters and related materials which include press kits film scripts, and still photographs, and advertisements for western goods and depictions of western life in the 20th century.  Motion pictures filmed in the American Southwest is the central theme to the majority of the materials.</abstract> 
+  	<physdesc encodinganalog="300$a" label="Physical Description:"><extent>30 Linear feet</extent></physdesc>	 
+	 <repository label="Repository:"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository>
+  	<langmaterial>Materials in <language encodinganalog="546" langcode="eng"
+  		scriptcode="Latin">English,</language><language encodinganalog="546" langcode="dut"
+  			scriptcode="Latin">Dutch,</language>
+  		<language encodinganalog="546" langcode="fre"
+  			scriptcode="Latin">French,</language>
+  		<language encodinganalog="546" langcode="ger"
+  			scriptcode="Latin">German,</language>
+  		<language encodinganalog="546" langcode="ita"
+  			scriptcode="Latin">Italian,</language>
+  		<language encodinganalog="546" langcode="spa"
+  			scriptcode="Latin">and Spanish.</language></langmaterial>
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+  	<p>There are no restrictions on this collection.</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>Movie Poster and Associated Materials Collection (MS 528). Special
+  		Collections, University of Arizona Libraries.</p>
+  </prefercite>
+		<accruals><head>Accruals</head>
+			<p>Future accretions to the collection are expected.</p></accruals>
+	<processinfo>
+			<head>Processing History</head>
+			<p>The processing of this artificial collection of posters began in 2003 but was not completed. Processing resumed in 2014 with materials related to the University of Arizona added.</p>
+	</processinfo>
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Historical Note</head> 
+  	<p>In the early 20th century, movie studios used the poster as a commercial tool to publicize a movie and draw audiences into theaters because they were mobile, conveyed an immediate and understandable message to mass audiences, and were cheap to produce.  Posters created during this period were lithographs on cheap paper, and subsequently few examples from the early period of film history survive today and the ones that do are usually in poor condition.  Between the 1930's-1940's Hollywood studios printed approximately 7,000-20,000 posters per movie, depending on the promotional budget for the film.  Usually studios rented or sold posters to exhibitors for a minimal fee who displayed them in theaters. Exhibitors employed frames to display posters which lead to creating standard sizes for posters which included one-sheets, half-sheets, three-sheets, inserts, and lobby cards.  Between 1940's to the mid-1980's, most major studios handed the production and distribution of all movie paper advertising to the National Screen Service (NSS ) which distributed an estimated 90 percent of movie posters in the United States.  By the mid 1980's movie theaters with individual screens were replaced by multiplex theaters which used multiple theaters to screen a variety of films.  Promotion of individual films gave way to promotion of multiple films in a limited space.  This resulted in the phasing out of various sizes of movie posters including half-sheets, three-sheets, inserts, and lobby cards.</p> 
+  </bioghist> 
+  <arrangement id="a4" encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+  	<p>This collection is organized into 8 series.</p>	 
+  	<list>
+  		<item>Series I: Mounted Movie and Americana Posters,
+  			<unitdate>1908 – 1958</unitdate></item>
+  		<item>Series II: Standard Size Movie Posters,
+  			<unitdate>1936-1987 (bulk 1948-1972)</unitdate>
+  		</item>
+  		<item>Series III: Oversize Movie Posters,
+  			<unitdate>1936-1987 (bulk 1948-1972)</unitdate>
+  		</item>
+  		<item>Series IV: Movie Press Books,
+  			<unitdate>1936-1976</unitdate>
+  		</item>
+  		<item>Series V: Lobby Cards,
+  			<unitdate>1928-1973</unitdate>
+  		</item>
+  		<item>Series VI: Still Photographs,
+  			<unitdate>1950 – 1977</unitdate>
+  		</item>
+  		<item>Series VI: Miniature Posters,
+  			<unitdate>undated</unitdate>
+  		</item>
+  		<item>Series VI: Scripts,
+  			<unitdate>1938, 1950</unitdate>
+  		</item>
+  	</list>
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>This is an artificial collection.  The collection has eight series and contains movie posters, lobby cards, promotional still photographs, press books, and scripts relating to movies produced by American Film companies that were filmed in Southern Arizona, more specifically Old Tucson, or were set in the American Southwest.  The collection also contains posters of advertisements of western goods and depictions of western life in the 20th century.  Many of the movies are from the western genre from the late 1940's – 1960's, but the biker, film noir, science fiction, and thriller genres are also represented.  Some of the posters and other associated material were part of the international distribution of films and come from Spain, Belgium, France, Germany, England, Mexico, and Denmark.  Most traditional promotional poster sizes are represented including one sheets (27x41"), half sheets (22x28"), insert cards (14x36"), and window cards (14x22").  Materials are in English, French, Spanish, German, and Danish.</p> 
+  </scopecontent> 
+  	<controlaccess>
+  		<head>Access Terms</head>
+  		<list type="simple">
+  			<item>
+  				<subject encodinganalog="650" source="lcsh">Film posters.</subject>
+  			</item>
+  			<item>
+  				<subject encodinganalog="650" source="lcsh">Film posters – Specimens.</subject>
+  			</item>
+  			<item>
+  				<subject encodinganalog="650" source="lcsh">Motion picture plays.</subject>
+  			</item>
+  			<item>
+  				<subject encodinganalog="650" source="lcsh">Film stills--1950-1960.</subject>
+  			</item>
+  			<item>
+  				<subject encodinganalog="650" source="lcsh">Film stills--1960-1970.</subject>
+  			</item>
+  			<item>
+  				<subject encodinganalog="650" source="lcsh">Film stills--1970-1980.</subject>
+  			</item>
+  			<item>
+  				<subject encodinganalog="650" source="lcsh">Advertising--United States--Posters.</subject>
+  			</item>
+  		</list>
+  	</controlaccess>
+  
+<dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+			<unittitle>Series 1: Mounted Movie and Americana Posters,</unittitle>
+			<unitdate type="inclusive">1908 – 1958</unitdate>
+		</did>
+	 	<scopecontent><p>This series contains posters that are mounted on canvas as well as posters that are shrink wrapped with foam core.  This series includes movie posters and two advertisements of depictions of western life in the 20th century.  All posters are one sheet in size (27x41").</p></scopecontent>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">5</container> 
+				<container type="folder">1</container> 
+				<unittitle>Misc. Western Posters – Stetson (hat) advertisement,</unittitle>
+				<unitdate>undated</unitdate>
+		  </did> 
+		</c02> 
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="drawer">5</container> 
+	 			<container type="folder">1</container> 
+	 			<unittitle>Misc. Western Posters – Mail Pouch Tobacco advertisement depicting the Arizona Camel Corps,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="drawer">5</container> 
+	 			<container type="folder">1</container> 
+	 			<unittitle>Arizona,</unittitle>
+	 			<unitdate>1908</unitdate>
+	 			<physdesc>Canvas Backed</physdesc>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="drawer">5</container> 
+	 			<container type="folder">1</container> 
+	 			<unittitle>Arizona Frontier,</unittitle>
+	 			<unitdate>1940</unitdate>
+	 			<physdesc>Canvas Backed</physdesc>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="drawer">5</container> 
+	 			<container type="folder">1</container> 
+	 			<unittitle>Arizona Stage Coach,</unittitle>
+	 			<unitdate>1942</unitdate>
+	 			<physdesc>Canvas Backed</physdesc>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="drawer">5</container> 
+	 			<container type="folder">1</container> 
+	 			<unittitle>Montana Frank Shows,</unittitle>
+	 			<unitdate>1910</unitdate>
+	 			<physdesc>Canvas Backed</physdesc>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="drawer">5</container> 
+	 			<container type="folder">1</container> 
+	 			<unittitle>Santa Fe Railroad Posters "Indian Detours, On the Way to or from California",</unittitle>
+	 			<unitdate>undated</unitdate>
+	 			<physdesc> Shrink Wrapped with Foam Core</physdesc>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="drawer">5</container> 
+	 			<container type="folder">1</container> 
+	 			<unittitle>The Arizona Cowboy,</unittitle>
+	 			<unitdate>1948</unitdate>
+	 			<physdesc> Shrink Wrapped with Foam Core</physdesc>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="drawer">5</container> 
+	 			<container type="folder">1</container> 
+	 			<unittitle>Gunsmoke in Tucson,</unittitle>
+	 			<unitdate>1958</unitdate>
+	 			<physdesc> Shrink Wrapped with Foam Core</physdesc>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="drawer">5</container> 
+	 			<container type="folder">1</container> 
+	 			<unittitle>Jesse James the Missouri Outlaw,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 			<physdesc> Shrink Wrapped with Foam Core</physdesc>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="drawer">5</container> 
+	 			<container type="folder">1</container> 
+	 			<unittitle>A Texas Ranger,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 			<physdesc>Shrink Wrapped with Foam Core</physdesc>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="drawer">5</container> 
+	 			<container type="folder">1</container> 
+	 			<unittitle>The Wildcat of Tucson,</unittitle>
+	 			<unitdate>1940</unitdate>
+	 			<physdesc>Shrink Wrapped with Foam Core</physdesc>
+	 		</did> 
+	 	</c02>
+	 </c01>
+	<c01 level="series" id="ser2"> 
+		<did> 
+			<unittitle>Series 2: Standard Size Movie Posters,</unittitle> 
+			<unitdate type="inclusive">1936-1987 (bulk 1948-1972)</unitdate>
+		</did>
+		<scopecontent><p>This series is arranged alphabetically by film title and contains standard size movie posters that are not mounted on canvas or foam core.  Movie posters contained within the series come in various and sometimes multiple sizes.  Sizes included are one sheet (27x41"), half sheet (22x28"), insert card (14x36"), window card (14x22").  The container list denotes poster style.  Materials are primarily in English, with some titles in Spain, Italy, Belgium, Danish, and German.  Posters with foreign titles are listed under the American title when determined.</p></scopecontent>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">1</container> 
+				<unittitle>3 on a Couch,</unittitle>
+				<unitdate>1966</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">1</container> 
+				<unittitle>7 Men from Now,</unittitle>
+				<unitdate>1966</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">1</container> 
+				<unittitle>40 Guns to Apache Pass (40 Fusils Manquent a l'Appel), Belgium,</unittitle>
+				<unitdate>1966</unitdate>
+				<physdesc>window card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">1</container> 
+				<unittitle>100 Rifles (les 100 Fusils), Belgium,</unittitle>
+				<unitdate>1969</unitdate>
+				<physdesc>window card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">1</container> 
+				<unittitle>100 Rifles,</unittitle>
+				<unitdate>1969</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">1</container> 
+				<unittitle>Alvarez Kelly,</unittitle>
+				<unitdate>1966</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Animals,</unittitle>
+				<unitdate>1971</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">1</container> 
+				<unittitle>Apache Ambush,</unittitle>
+				<unitdate>1955</unitdate>
+				<physdesc>insert card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">1</container> 
+				<unittitle>Apache Drums,</unittitle>
+				<unitdate>1951</unitdate>
+				<physdesc>half sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">1</container> 
+				<unittitle>Apache Kid (Kampen I Dodspasset), Danish,</unittitle>
+				<unitdate>1941</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">1</container> 
+				<unittitle>Apache Rifles (Furie Apache), Belgium,</unittitle>
+				<unitdate>1964</unitdate>
+				<physdesc>window card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">1</container> 
+				<unittitle>Apache Territory,</unittitle>
+				<unitdate>1958</unitdate>
+				<physdesc>half sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">1</container> 
+				<unittitle>Apache Territory (El Oasis Maldito), Spain,</unittitle>
+				<unitdate>1958</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">1</container> 
+				<unittitle>Apache Uprising,</unittitle>
+				<unitdate>1965</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">1</container> 
+				<unittitle>Apache War Smoke,</unittitle>
+				<unitdate>1952</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">1</container> 
+				<unittitle>Apache Warrior,</unittitle>
+				<unitdate>1957</unitdate>
+				<physdesc>half sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">1</container> 
+				<unittitle>Apache Warrior,</unittitle>
+				<unitdate>1957</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">1</container> 
+				<unittitle>Apache’s Last Battle,</unittitle>
+				<unitdate>1964</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Appaloosa,</unittitle>
+				<unitdate>1966</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">1</container> 
+				<unittitle>Arena (L’Arene), Belgium,</unittitle>
+				<unitdate>1953</unitdate>
+				<physdesc>insert card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">1</container> 
+				<unittitle>Arena,</unittitle>
+				<unitdate>1953</unitdate>
+				<physdesc>window card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">1</container> 
+				<unittitle>Arena(2 copies),</unittitle>
+				<unitdate>1953</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">1</container> 
+				<unittitle>Arizona Bushwackers (Les Rebelles de L’Arizona / Opstand in Arizona),</unittitle>
+				<unitdate>1967</unitdate>
+				<physdesc>window card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">1</container> 
+				<unittitle>Arizona Bushwackers,</unittitle>
+				<unitdate>1967</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">1</container> 
+				<unittitle>Arizona Colt, Belgium,</unittitle>
+				<unitdate>1966</unitdate>
+				<physdesc>window card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">1</container> 
+				<unittitle>Arizona Cowboy,</unittitle>
+				<unitdate>1949</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">1</container> 
+				<unittitle>Arizona Gang Busters,</unittitle>
+				<unitdate>1940</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">1</container> 
+				<unittitle>Arizona Manhunt,</unittitle>
+				<unitdate>1951</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Arizona Raiders,</unittitle>
+				<unitdate>1936</unitdate>
+				<physdesc>window card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">1</container> 
+				<unittitle>Arizona Raiders,</unittitle>
+				<unitdate>1965</unitdate>
+				<physdesc>half sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">1</container> 
+				<unittitle>Arizona Raiders(2 copies),</unittitle>
+				<unitdate>1965</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Arizona Ranger,</unittitle>
+				<unitdate>1948</unitdate>
+				<physdesc>half sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Arizona Ranger,</unittitle>
+				<unitdate>1948</unitdate>
+				<physdesc>insert card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Arizona Ranger,</unittitle>
+				<unitdate>1948</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Arizonian (re-release),</unittitle>
+				<unitdate>1951</unitdate>
+				<physdesc>insert card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">2</container> 
+				<unittitle>Bad Company,</unittitle>
+				<unitdate>1972</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">2</container> 
+				<unittitle>The Badlanders,</unittitle>
+				<unitdate>1958</unitdate>
+				<physdesc>insert card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">2</container> 
+				<unittitle>The Badlanders,</unittitle>
+				<unitdate>1958</unitdate>
+				<physdesc>half sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">2</container> 
+				<unittitle>The Badlanders,</unittitle>
+				<unitdate>1958</unitdate>
+				<physdesc>half sheet version 2</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">2</container> 
+				<unittitle>The Badlanders,</unittitle>
+				<unitdate>1958</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">2</container> 
+				<unittitle>Bandolero!,</unittitle>
+				<unitdate>1968</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">2</container> 
+				<unittitle>Barquero, France,</unittitle>
+				<unitdate>1970</unitdate>
+				<physdesc>window card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">2</container> 
+				<unittitle>Barquero, France,</unittitle>
+				<unitdate>1970</unitdate>
+				<physdesc>half sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">2</container> 
+				<unittitle>Barquero,</unittitle>
+				<unitdate>1970</unitdate>
+				<physdesc>half sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">2</container> 
+				<unittitle>Barquero,</unittitle>
+				<unitdate>1970</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">2</container> 
+				<unittitle>The Big Gundown,</unittitle>
+				<unitdate>1968</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">2</container> 
+				<unittitle>Billy Jack,</unittitle>
+				<unitdate>1971</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">2</container> 
+				<unittitle>Born Losers,</unittitle>
+				<unitdate>1967</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">2</container> 
+				<unittitle>Born Losers (re-release),</unittitle>
+				<unitdate>1967</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">2</container> 
+				<unittitle>Born to Kill,</unittitle>
+				<unitdate>1947</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">2</container> 
+				<unittitle>Both Barrels Blazing,</unittitle>
+				<unitdate>1945</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">2</container> 
+				<unittitle>The Bottom of the Bottle,</unittitle>
+				<unitdate>1956</unitdate>
+				<physdesc>insert card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">2</container> 
+				<unittitle>The Bottom of the Bottle,</unittitle>
+				<unitdate>1956</unitdate>
+				<physdesc>insert card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">2</container> 
+				<unittitle>The Bounty Killer,</unittitle>
+				<unitdate>1965</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">2</container> 
+				<unittitle>The Bravados,</unittitle>
+				<unitdate>1958</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">2</container> 
+				<unittitle>Bronco Billy,</unittitle>
+				<unitdate>1980</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">2</container> 
+				<unittitle>Buck and the Preacher,</unittitle>
+				<unitdate>1972</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">2</container> 
+				<unittitle>Buffalo Stampede,</unittitle>
+				<unitdate>1950</unitdate>
+				<physdesc>half sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">3</container> 
+				<unittitle>Cancel My Reservation,</unittitle>
+				<unitdate>1972</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">3</container> 
+				<unittitle>Captain Apache,</unittitle>
+				<unitdate>1972</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">3</container> 
+				<unittitle>Cariboo Trail (Camino Virgen), Spain,</unittitle>
+				<unitdate>1950</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">3</container> 
+				<unittitle>The Challenge of Rin-Tin-Tin (El Desafio de Rin-Tin-Tin), Spain,</unittitle>
+				<unitdate>1958</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">3</container> 
+				<unittitle>Chato’s Land,</unittitle>
+				<unitdate>1972</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">3</container> 
+				<unittitle>Cheyenne Autumn (Les Cheyennes), France,</unittitle>
+				<unitdate>1964</unitdate>
+				<physdesc>half sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">3</container> 
+				<unittitle>Coogan’s Bluff,</unittitle>
+				<unitdate>1968</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">3</container> 
+				<unittitle>Coroner Creek (Aguas Sangrientas), Spain,</unittitle>
+				<unitdate>1948</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">3</container> 
+				<unittitle>Cotter,</unittitle>
+				<unitdate>1973</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">3</container> 
+				<unittitle>Cry Blood, Apache,</unittitle>
+				<unitdate>1970</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">4</container> 
+				<unittitle>The Day it Came to Earth, Style B,</unittitle>
+				<unitdate>1977</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">4</container> 
+				<unittitle>Day of the Badman,</unittitle>
+				<unitdate>1958</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">4</container> 
+				<unittitle>Day of the Evil Gun,</unittitle>
+				<unitdate>1968</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">4</container> 
+				<unittitle>A Day of Fury,</unittitle>
+				<unitdate>1958</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">4</container> 
+				<unittitle>The Deadly Companions,</unittitle>
+				<unitdate>1961</unitdate>
+				<physdesc>insert card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">4</container> 
+				<unittitle>The Deadly Companions (Les Compagnons de la Mort), Belgium,</unittitle>
+				<unitdate>1961</unitdate>
+				<physdesc>window card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">4</container> 
+				<unittitle>The Deadly Companions,</unittitle>
+				<unitdate>1961</unitdate>
+				<physdesc>half sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">4</container> 
+				<unittitle>The Deadly Companions,Style A,</unittitle>
+				<unitdate>1961</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">4</container> 
+				<unittitle>The Deadly Companions,Style B,</unittitle>
+				<unitdate>1961</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">4</container> 
+				<unittitle>Death of a Gunfighter,</unittitle>
+				<unitdate>1969</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">4</container> 
+				<unittitle>The Desert Horseman (El Fantasma del Desierto), Spain,</unittitle>
+				<unitdate>1946</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">4</container> 
+				<unittitle>The Desperado Trail,</unittitle>
+				<unitdate>1966</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">4</container> 
+				<unittitle>The Desperados,</unittitle>
+				<unitdate>1969</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">4</container> 
+				<unittitle>Devil’s Canyon (Nuit Sauvage), Belgium,</unittitle>
+				<unitdate>1953</unitdate>
+				<physdesc>window card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">4</container> 
+				<unittitle>Devil’s Canyon,</unittitle>
+				<unitdate>1953</unitdate>
+				<physdesc>half sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">4</container> 
+				<unittitle>A Distant Trumpet,</unittitle>
+				<unitdate>1964</unitdate>
+				<physdesc>insert card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">4</container> 
+				<unittitle>Doc, style A,</unittitle>
+				<unitdate>1971</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">4</container> 
+				<unittitle>Doc, style B,</unittitle>
+				<unitdate>1971</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">4</container> 
+				<unittitle>Duel at Apache Wells, Style B,</unittitle>
+				<unitdate>1957</unitdate>
+				<physdesc>half sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">4</container> 
+				<unittitle>Duel at Diablo,</unittitle>
+				<unitdate>1966</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">5</container> 
+				<unittitle>Escape from Fort Bravo,</unittitle>
+				<unitdate>1953</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">5</container> 
+				<unittitle>An Eye for an Eye,</unittitle>
+				<unitdate>1966</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">5</container> 
+				<unittitle>Face to Face, (Il etait Une Fois en Arizona), Belgium,</unittitle>
+				<unitdate>1967</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">5</container> 
+				<unittitle>Finger on the Trigger,</unittitle>
+				<unitdate>1965</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">5</container> 
+				<unittitle>Firecreek (Les 5 Hors La Loi), France,</unittitle>
+				<unitdate>1968</unitdate>
+				<physdesc>half sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">5</container> 
+				<unittitle>Firecreek,</unittitle>
+				<unitdate>1968</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">5</container> 
+				<unittitle>Five Bloody Graves,</unittitle>
+				<unitdate>1970</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">5</container> 
+				<unittitle>Fort Courageous,</unittitle>
+				<unitdate>1965</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">5</container> 
+				<unittitle>Fort Yuma (Belgium),</unittitle>
+				<unitdate>1954</unitdate>
+				<physdesc>window card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">5</container> 
+				<unittitle>Fort Yuma,</unittitle>
+				<unitdate>1954</unitdate>
+				<physdesc>insert card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">5</container> 
+				<unittitle>Fort Yuma,</unittitle>
+				<unitdate>1954</unitdate>
+				<physdesc>half sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">5</container> 
+				<unittitle>Fort Yuma Gold (Trois Cavaliers Pour Fort Yuma), France,</unittitle>
+				<unitdate>1966</unitdate>
+				<physdesc>insert card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">5</container> 
+				<unittitle>Four Rode Out,</unittitle>
+				<unitdate>1969</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">5</container> 
+				<unittitle>Frontier Gun,</unittitle>
+				<unitdate>1958</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">5</container> 
+				<unittitle>Frontier Hellcat, (Parmi Les Vautours De Gang der Aasgieren), Belgium,</unittitle>
+				<unitdate>1966</unitdate>
+				<physdesc>window card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">5</container> 
+				<unittitle>Frontier Hellcat,</unittitle>
+				<unitdate>1966</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">5</container> 
+				<unittitle>Frontier Scout,</unittitle>
+				<unitdate>1956</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">5</container> 
+				<unittitle>Fury at Gunsight Pass,</unittitle>
+				<unitdate>1956</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">6</container> 
+				<unittitle>The Gentleman from Arizona (Le Gentleman de l’ Arizona), Belgium,</unittitle>
+				<unitdate>1939</unitdate>
+				<physdesc>window card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">6</container> 
+				<unittitle>Geronimo, Belgium, Style A,</unittitle>
+				<unitdate>1939</unitdate>
+				<physdesc>window card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">6</container> 
+				<unittitle>Geronimo, (Geronimo le Peau-Rouge), Belgium,</unittitle>
+				<unitdate>1939</unitdate>
+				<physdesc>window card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">6</container> 
+				<unittitle>Get Mean,</unittitle>
+				<unitdate>1975</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">6</container> 
+				<unittitle>Gun Fury (2 copies),</unittitle>
+				<unitdate>1953</unitdate>
+				<physdesc>insert card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">6</container> 
+				<unittitle>Gun Fury,</unittitle>
+				<unitdate>1953</unitdate>
+				<physdesc>half sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">6</container> 
+				<unittitle>A Gunfight,</unittitle>
+				<unitdate>1971</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">6</container> 
+				<unittitle>Gunfight at O.K. Corral (Defi a Geweervuur te O.K. Corral), Belgium,</unittitle>
+				<unitdate>1970</unitdate>
+				<physdesc>insert card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">6</container> 
+				<unittitle>Gunfight at O.K. Corral,</unittitle>
+				<unitdate>1970</unitdate>
+				<physdesc>insert card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">6</container> 
+				<unittitle>Guns of Hate,</unittitle>
+				<unitdate>1948</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">6</container> 
+				<unittitle>Gunslingers, Spain,</unittitle>
+				<unitdate>1950</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">6</container> 
+				<unittitle>Gunsmoke in Tucson (Les Pillards de L’Arizona), Belgium,</unittitle>
+				<unitdate>1958</unitdate>
+				<physdesc>window card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">6</container> 
+				<unittitle>Gunsmoke in Tucson,</unittitle>
+				<unitdate>1958</unitdate>
+				<physdesc>insert card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">6</container> 
+				<unittitle>Gunsmoke in Tucson,</unittitle>
+				<unitdate>1958</unitdate>
+				<physdesc>half sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">7</container> 
+				<unittitle>Hanger 18,</unittitle>
+				<unitdate>1980</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">7</container> 
+				<unittitle>Hawk of Wild River (el Gavilan del Oeste), Spain,</unittitle>
+				<unitdate>1952</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">7</container> 
+				<unittitle>Hombre, United Kingdom,</unittitle>
+				<unitdate>1967</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">7</container> 
+				<unittitle>The Honkers,</unittitle>
+				<unitdate>1972</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">7</container> 
+				<unittitle>Hostile Guns,</unittitle>
+				<unitdate>1967</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">7</container> 
+				<unittitle>Hour of the Gun (7 Seconds es en Enfer, 7 Sekonden in Hel), France,</unittitle>
+				<unitdate>1967</unitdate>
+				<physdesc>window card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">7</container> 
+				<unittitle>Hour of the Gun (7 Secondes en Enfer), France,</unittitle>
+				<unitdate>1967</unitdate>
+				<physdesc>half sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">7</container> 
+				<unittitle>How the West Was Won (La Conquete de L’Quest), France,</unittitle>
+				<unitdate>1964</unitdate>
+				<physdesc>window card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">7</container> 
+				<unittitle>How the West Was Won,</unittitle>
+				<unitdate>1964</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">7</container> 
+				<unittitle>Incident at Phantom Hill (2 copies),</unittitle>
+				<unitdate>1965</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">7</container> 
+				<unittitle>The Iron Sheriff,</unittitle>
+				<unitdate>1957</unitdate>
+				<physdesc>insert card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">7</container> 
+				<unittitle>The Iron Sheriff,</unittitle>
+				<unitdate>1957</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">7</container> 
+				<unittitle>It Came from Outer Space (Les Inconnus D’un Autre Monde), Belgium,</unittitle>
+				<unitdate>1953</unitdate>
+				<physdesc>window card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">7</container> 
+				<unittitle>J.W. Coop,</unittitle>
+				<unitdate>1972</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">7</container> 
+				<unittitle>Jack Slade, Style A,</unittitle>
+				<unitdate>1953</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">7</container> 
+				<unittitle>Johnny Concho,</unittitle>
+				<unitdate>1956</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">7</container> 
+				<unittitle>Johnny Tiger,</unittitle>
+				<unitdate>1966</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">7</container> 
+				<unittitle>Junior Bonner, Style B,</unittitle>
+				<unitdate>1972</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">8</container> 
+				<unittitle>Land Beyond the Law (Tierra Sin Ley), Re-release, Spain,</unittitle>
+				<unitdate>1937</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">8</container> 
+				<unittitle>Land Raiders (L’Quest en Feu), Belgium,</unittitle>
+				<unitdate>1969</unitdate>
+				<physdesc>window card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">8</container> 
+				<unittitle>Land Raiders,</unittitle>
+				<unitdate>1969</unitdate>
+				<physdesc>one sheet (landscape)</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">8</container> 
+				<unittitle>Land Raiders,</unittitle>
+				<unitdate>1969</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">8</container> 
+				<unittitle>Landrush,</unittitle>
+				<unitdate>1946</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">8</container> 
+				<unittitle>The Last Hard Men,</unittitle>
+				<unitdate>1976</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">8</container> 
+				<unittitle>The Last Wagon,</unittitle>
+				<unitdate>1956</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">8</container> 
+				<unittitle>Lawman (2 copies),</unittitle>
+				<unitdate>1971</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">8</container> 
+				<unittitle>Little Fauss and Big Halsy (Petit Fauss et Grand Halsy), Belgium,</unittitle>
+				<unitdate>1970</unitdate>
+				<physdesc>window card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">8</container> 
+				<unittitle>Little Fauss and Big Halsy (2 copies),</unittitle>
+				<unitdate>1971</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">6</container> 
+				<container type="folder">8</container> 
+				<unittitle>The Long Ride Home (La Sanglante Chevauchee), Belgium,</unittitle>
+				<unitdate>1967</unitdate>
+				<physdesc>window card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">1</container> 
+				<unittitle>Mackenna’s Gold (Het Goud Van Mackenna), Belgium,</unittitle>
+				<unitdate>1969</unitdate>
+				<physdesc>window card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">1</container> 
+				<unittitle>Mackenna’s Gold,</unittitle>
+				<unitdate>1969</unitdate>
+				<physdesc>window card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">1</container> 
+				<unittitle>The McMasters,</unittitle>
+				<unitdate>1970</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">1</container> 
+				<unittitle>Mad Dog,</unittitle>
+				<unitdate>undated</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">1</container> 
+				<unittitle>Man and Boy,</unittitle>
+				<unitdate>1971</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Man From Nowhere,</unittitle>
+				<unitdate>1968</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Master Gunfighter,</unittitle>
+				<unitdate>1975</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Master Gunfighter, Style B,</unittitle>
+				<unitdate>1975</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Maverick Queen,</unittitle>
+				<unitdate>1956</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Meanest Men in the West,</unittitle>
+				<unitdate>1978</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">1</container> 
+				<unittitle>Meet in the Heat of Fire Creek,</unittitle>
+				<unitdate>1967</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">1</container> 
+				<unittitle>Money, Women and Guns,</unittitle>
+				<unitdate>1958</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">1</container> 
+				<unittitle>More Dead Than Alive (Meer Dood Dan Levend), Belgium,</unittitle>
+				<unitdate>1968</unitdate>
+				<physdesc>window card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">1</container> 
+				<unittitle>More Dead Than Alive,</unittitle>
+				<unitdate>1968</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">1</container> 
+				<unittitle>No Name on the Bullet,</unittitle>
+				<unitdate>1959</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">2</container> 
+				<unittitle>One Big Affair,</unittitle>
+				<unitdate>1959</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">2</container> 
+				<unittitle>One Foot in Hell,</unittitle>
+				<unitdate>1960</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">2</container> 
+				<unittitle>Orlando, Trinidad,</unittitle>
+				<unitdate>undated</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">2</container> 
+				<unittitle>Outlaw Women,</unittitle>
+				<unitdate>1956</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">2</container> 
+				<unittitle>Outrage,</unittitle>
+				<unitdate>1950</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">2</container> 
+				<unittitle>Pat Garrett and Billy the Kid,</unittitle>
+				<unitdate>1973</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">2</container> 
+				<unittitle>P.J.,</unittitle>
+				<unitdate>1968</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">2</container> 
+				<unittitle>Powder River Rustlers,</unittitle>
+				<unitdate>1949</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">2</container> 
+				<unittitle>The Proud and the Damned,</unittitle>
+				<unitdate>1972</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">2</container> 
+				<unittitle>The Purple Hills,</unittitle>
+				<unitdate>1961</unitdate>
+				<physdesc>insert card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">2</container> 
+				<unittitle>The Purple Hills,</unittitle>
+				<unitdate>1961</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">3</container> 
+				<unittitle>The Quick Gun,</unittitle>
+				<unitdate>1964</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">3</container> 
+				<unittitle>The Raid,</unittitle>
+				<unitdate>1954</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">3</container> 
+				<unittitle>Raising Arizona,</unittitle>
+				<unitdate>1987</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">3</container> 
+				<unittitle>Ransom!,</unittitle>
+				<unitdate>1956</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">3</container> 
+				<unittitle>The Redhead and the Cowboy,</unittitle>
+				<unitdate>1951</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">3</container> 
+				<unittitle>Renegades of the Sage,</unittitle>
+				<unitdate>1949</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">3</container> 
+				<unittitle>Requiem for a Gunfighter (2 copies),</unittitle>
+				<unitdate>1965</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">3</container> 
+				<unittitle>Return of the Gunfighter (Le Justicier de L’Arizona), Belgium,</unittitle>
+				<unitdate>1967</unitdate>
+				<physdesc>window card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">3</container> 
+				<unittitle>The Reward, Style B,</unittitle>
+				<unitdate>1965</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">3</container> 
+				<unittitle>Ride a Violent Mile,</unittitle>
+				<unitdate>1957</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">3</container> 
+				<unittitle>The Ride Back,</unittitle>
+				<unitdate>1957</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">3</container> 
+				<unittitle>Ride Beyond Vengeance (2 copies),</unittitle>
+				<unitdate>1966</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">3</container> 
+				<unittitle>Ride the Man Down,</unittitle>
+				<unitdate>1952</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">3</container> 
+				<unittitle>The Ride to Hangman’s Tree,</unittitle>
+				<unitdate>1967</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">3</container> 
+				<unittitle>Rider from Tucson,</unittitle>
+				<unitdate>1950</unitdate>
+				<physdesc>insert card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">3</container> 
+				<unittitle>Rio Conchos,</unittitle>
+				<unitdate>1964</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">3</container> 
+				<unittitle>Robbers Roost,</unittitle>
+				<unitdate>1955</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">3</container> 
+				<unittitle>The Rounders,</unittitle>
+				<unitdate>1965</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">4</container> 
+				<unittitle>Sabata,</unittitle>
+				<unitdate>1970</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">4</container> 
+				<unittitle>Sand (Gritos en la Sierra), Spain,</unittitle>
+				<unitdate>1949</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">4</container> 
+				<unittitle>Sand (Gritos en la Sierra), Spain,</unittitle>
+				<unitdate>1949</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">4</container> 
+				<unittitle>The Savage Guns,</unittitle>
+				<unitdate>1962</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">4</container> 
+				<unittitle>The Scalphunters,</unittitle>
+				<unitdate>1968</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">4</container> 
+				<unittitle>The Second Time Around,</unittitle>
+				<unitdate>1961</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">4</container> 
+				<unittitle>Shadows of Tombstone,</unittitle>
+				<unitdate>1953</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">4</container> 
+				<unittitle>The Shakiest Gun in the West,</unittitle>
+				<unitdate>1968</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">4</container> 
+				<unittitle>Shoot Out,</unittitle>
+				<unitdate>1971</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">4</container> 
+				<unittitle>Showdown, H Version,</unittitle>
+				<unitdate>1973</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">4</container> 
+				<unittitle>The Silencers (Les Tueuses), Belgium,</unittitle>
+				<unitdate>1966</unitdate>
+				<physdesc>window card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">4</container> 
+				<unittitle>The Silencers,</unittitle>
+				<unitdate>1966</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">4</container> 
+				<unittitle>The Silver Whip,</unittitle>
+				<unitdate>1953</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">4</container> 
+				<unittitle>Stage to Thunder Rock,</unittitle>
+				<unitdate>1963</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">4</container> 
+				<unittitle>Stage to Tucson (Les Ecumeurs Des Monts Apaches), Belgium,</unittitle>
+				<unitdate>1950</unitdate>
+				<physdesc>window card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">4</container> 
+				<unittitle>Stage to Tucson,</unittitle>
+				<unitdate>1950</unitdate>
+				<physdesc>insert card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">4</container> 
+				<unittitle>Stagecoach to Dancer’s Rock,</unittitle>
+				<unitdate>1962</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">4</container> 
+				<unittitle>Stagecoach to Fury,</unittitle>
+				<unitdate>1956</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">4</container> 
+				<unittitle>Stampede (Rivalite en Arizona), Belgium,</unittitle>
+				<unitdate>1950</unitdate>
+				<physdesc>window card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">4</container> 
+				<unittitle>Stars in my Crown,</unittitle>
+				<unitdate>1950</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">4</container> 
+				<unittitle>Stay Away, Joe (Mic-Mac Montana), Belgium,</unittitle>
+				<unitdate>1968</unitdate>
+				<physdesc>window card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">4</container> 
+				<unittitle>The Storm Rider,</unittitle>
+				<unitdate>1957</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">4</container> 
+				<unittitle>A Stranger in Town,</unittitle>
+				<unitdate>1968</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">4</container> 
+				<unittitle>The Stranger Returns,</unittitle>
+				<unitdate>1968</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">4</container> 
+				<unittitle>Support Your Local Gunfighter,</unittitle>
+				<unitdate>1971</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">4</container> 
+				<unittitle>Support Your Local Sheriff,</unittitle>
+				<unitdate>1969</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">5</container> 
+				<unittitle>Taggart,</unittitle>
+				<unitdate>1964</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">5</container> 
+				<unittitle>There was a Crooked Man (Zwei Dreckige Halunken), German,</unittitle>
+				<unitdate>1961</unitdate>
+				<physdesc>half sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">5</container> 
+				<unittitle>There was a Crooked Man (Le Reptile), France,</unittitle>
+				<unitdate>1961</unitdate>
+				<physdesc>half sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">5</container> 
+				<unittitle>This Side of the Law,</unittitle>
+				<unitdate>1961</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">5</container> 
+				<unittitle>3:10 to Yuma (3H.10 Pour Yuma), Belgium,</unittitle>
+				<unitdate>1957</unitdate>
+				<physdesc>window card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">5</container> 
+				<unittitle>Three Young Texans,</unittitle>
+				<unitdate>1954</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">5</container> 
+				<unittitle>Thunder in the Sun,</unittitle>
+				<unitdate>1959</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">5</container> 
+				<unittitle>Thunder Mountain,</unittitle>
+				<unitdate>1947</unitdate>
+				<physdesc>insert card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">5</container> 
+				<unittitle>A Thunder of Drums (Tonnerre Apache), Belgium,</unittitle>
+				<unitdate>1961</unitdate>
+				<physdesc>window card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">5</container> 
+				<unittitle>A Thunder of Drums,</unittitle>
+				<unitdate>1961</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">5</container> 
+				<unittitle>Today We Kill…Tomorrow We Die!,</unittitle>
+				<unitdate>1971</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">5</container> 
+				<unittitle>Toughest Man in Arizona (Le Sherrif de Tombstone), Belgium,</unittitle>
+				<unitdate>1952</unitdate>
+				<physdesc>window card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">5</container> 
+				<unittitle>Toughest Man in Arizona,</unittitle>
+				<unitdate>1952</unitdate>
+				<physdesc>insert card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">5</container> 
+				<unittitle>Toughest Man in Arizona,</unittitle>
+				<unitdate>1952</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">5</container> 
+				<unittitle>Town Tamer,</unittitle>
+				<unitdate>1965</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">5</container> 
+				<unittitle>Track the Man Down,</unittitle>
+				<unitdate>1955</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">5</container> 
+				<unittitle>Trail of the Rustlers,</unittitle>
+				<unitdate>1949</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">5</container> 
+				<unittitle>Train to Tombstone,</unittitle>
+				<unitdate>1950</unitdate>
+				<physdesc>insert card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">5</container> 
+				<unittitle>Train to Tombstone,</unittitle>
+				<unitdate>1950</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">5</container> 
+				<unittitle>The Tramplers,</unittitle>
+				<unitdate>1966</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">5</container> 
+				<unittitle>Tucson,</unittitle>
+				<unitdate>1948</unitdate>
+				<physdesc>half sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">5</container> 
+				<unittitle>Tucson,</unittitle>
+				<unitdate>1948</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">6</container> 
+				<unittitle>The Ugly Ones,</unittitle>
+				<unitdate>1968</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">6</container> 
+				<unittitle>Ulzana’s Raid,</unittitle>
+				<unitdate>1972</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">6</container> 
+				<unittitle>Under Arizona Skies (2 copies),</unittitle>
+				<unitdate>1946</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">6</container> 
+				<unittitle>Valdez is Coming,</unittitle>
+				<unitdate>1971</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">6</container> 
+				<unittitle>Wake me When It’s Over,</unittitle>
+				<unitdate>1960</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">6</container> 
+				<unittitle>Walk the Proud Land (Terre D’Aventure), Belgium,</unittitle>
+				<unitdate>1956</unitdate>
+				<physdesc>window card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">6</container> 
+				<unittitle>Walk the Proud Land,</unittitle>
+				<unitdate>1956</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">6</container> 
+				<unittitle>Walk the Proud Land,</unittitle>
+				<unitdate>1956</unitdate>
+				<physdesc>one sheet (landscape)</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">6</container> 
+				<unittitle>War Drums,</unittitle>
+				<unitdate>1957</unitdate>
+				<physdesc>one sheet (landscape)</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">6</container> 
+				<unittitle>Welcome to Hard Times,</unittitle>
+				<unitdate>1967</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">6</container> 
+				<unittitle>What Ever Happened to Aunt Alice?,</unittitle>
+				<unitdate>1969</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">6</container> 
+				<unittitle>Where Angels Go…Trouble Follows, Australia,</unittitle>
+				<unitdate>1968</unitdate>
+				<physdesc>insert card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">6</container> 
+				<unittitle>Where Angels Go…Trouble Follows (Les Gamines Explosives), Belgium,</unittitle>
+				<unitdate>1968</unitdate>
+				<physdesc>window card</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">6</container> 
+				<unittitle>The Wild and the Innocent,</unittitle>
+				<unitdate>1959</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">6</container> 
+				<unittitle>The Wildcat of Tucson,</unittitle>
+				<unitdate>1940</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">7</container> 
+				<container type="folder">6</container> 
+				<unittitle>Young Fury,</unittitle>
+				<unitdate>1965</unitdate>
+				<physdesc>one sheet</physdesc>
+			</did> 
+		</c02>
+	</c01>
+	<c01 level="series" id="ser3"> 
+		<did> 
+			<unittitle>Series 3: Oversize Movie Posters,</unittitle> 
+			<unitdate type="inclusive">1937-1967</unitdate>
+		</did>
+		<scopecontent><p>This series is arranged alphabetically by film title and contains oversize posters.  Poster sizes represented in this series include two sheet (41"x81"), three sheet (81" x 81"), and six sheet (three sheets of 81" x 81").  Posters with a foreign title are listed under the American title when determined.</p></scopecontent>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>Apache Drums,</unittitle>
+				<unitdate>1951</unitdate>
+				<physdesc>3 sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>Apache Gold, style A,</unittitle>
+				<unitdate>1965</unitdate>
+				<physdesc>3 sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>Apache Gold, style B,</unittitle>
+				<unitdate>1965</unitdate>
+				<physdesc>3 sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>Apache Rifles,</unittitle>
+				<unitdate>1964</unitdate>
+				<physdesc>6 sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>Apace War Smoke,</unittitle>
+				<unitdate>1952</unitdate>
+				<physdesc>3 sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>Arena,</unittitle>
+				<unitdate>1953</unitdate>
+				<physdesc>3 sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>Arena, style B,</unittitle>
+				<unitdate>1953</unitdate>
+				<physdesc>6 sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>Arena,</unittitle>
+				<unitdate>1953</unitdate>
+				<physdesc>6 sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>Arizona Cyclone,</unittitle>
+				<unitdate>1941</unitdate>
+				<physdesc>3 sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>Arizona Raiders,</unittitle>
+				<unitdate>1965</unitdate>
+				<physdesc>3 sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Arizonian, style A,</unittitle>
+				<unitdate>1951</unitdate>
+				<physdesc>3 sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Baron of Arizona,</unittitle>
+				<unitdate>1950</unitdate>
+				<physdesc>3 sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>Cattle Empire,</unittitle>
+				<unitdate>1958</unitdate>
+				<physdesc>2 sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>Chicken Every Sunday,</unittitle>
+				<unitdate>1949</unitdate>
+				<physdesc>2 sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>Coogan’s Bluff,</unittitle>
+				<unitdate>1968</unitdate>
+				<physdesc>2 sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>Deadly Companions, style A,</unittitle>
+				<unitdate>1961</unitdate>
+				<physdesc>3 sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>Deadly Companions, style B,</unittitle>
+				<unitdate>1961</unitdate>
+				<physdesc>3 sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>Deadly Companions,</unittitle>
+				<unitdate>1961</unitdate>
+				<physdesc>6 sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>Devil’s Canyon,</unittitle>
+				<unitdate>1953</unitdate>
+				<physdesc>3 sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>Distant Trumpet,</unittitle>
+				<unitdate>1964</unitdate>
+				<physdesc>3 sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>Firecreek (Les 5 Hos La Loi), France,</unittitle>
+				<unitdate>1968</unitdate>
+				<physdesc>2 sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>Geronimo,</unittitle>
+				<unitdate>1962</unitdate>
+				<physdesc>2 sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>Geronimo,</unittitle>
+				<unitdate>1962</unitdate>
+				<physdesc>3 sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>Grand Canyon,</unittitle>
+				<unitdate>1949</unitdate>
+				<physdesc>3 sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>Hombre, France,</unittitle>
+				<unitdate>1967</unitdate>
+				<physdesc>3 sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>Lilies of the Field,</unittitle>
+				<unitdate>1964</unitdate>
+				<physdesc>3 sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>One Foot in Hell,</unittitle>
+				<unitdate>1960</unitdate>
+				<physdesc>3 sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Plainsman,</unittitle>
+				<unitdate>1966</unitdate>
+				<physdesc>3 sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Purple Hills,</unittitle>
+				<unitdate>1961</unitdate>
+				<physdesc>3 sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Purple Hills,</unittitle>
+				<unitdate>1961</unitdate>
+				<physdesc>6 sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>Rider from Tucson,</unittitle>
+				<unitdate>1950</unitdate>
+				<physdesc>3 sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Rounders,</unittitle>
+				<unitdate>1965</unitdate>
+				<physdesc>3 sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>Shadows of Tombstone,</unittitle>
+				<unitdate>1953</unitdate>
+				<physdesc>3 sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Silencers (Matt Helm, Agent Tres Special), Belgium,</unittitle>
+				<unitdate>1966</unitdate>
+				<physdesc>3 sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>Stars over Arizona,</unittitle>
+				<unitdate>1937</unitdate>
+				<physdesc>3 sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>A Thunder of Drums,</unittitle>
+				<unitdate>1961</unitdate>
+				<physdesc>3 sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>A Time for Killing,</unittitle>
+				<unitdate>1967</unitdate>
+				<physdesc>3 sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>Tucson,</unittitle>
+				<unitdate>1948</unitdate>
+				<physdesc>3 sheet</physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">oversize 2</container> 
+				<container type="folder">1</container> 
+				<unittitle>Walk the Proud Land,</unittitle>
+				<unitdate>1956</unitdate>
+				<physdesc>3 sheet</physdesc>
+			</did> 
+		</c02>
+	</c01>
+	<c01 level="series" id="ser4"> 
+		<did> 
+			<unittitle>Series 4: Press Books / Press Kits,</unittitle> 
+			<unitdate type="inclusive">1936-1976</unitdate>
+		</did>
+		<scopecontent><p>This series contains promotion press books and press kits.  The press books are typically 8 ½" x 11" and are approximately 20 to 30 pages stapled.  Press books typically contain the film's full cast listing, major star biographies, a complete story line, and full credit information.  Press kits typically come in a standard sized folder and contain a press book as well as various promotional materials.  This series is arranged alphabetically by film title.  Posters with a foreign title are listed under the American title when determined.</p></scopecontent>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>40 Guns to Apache Pass (Gewehre Zum Apachen Pass), German,</unittitle>
+				<unitdate>1967</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>100 Rifles, Spain,</unittitle>
+				<unitdate>1969</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Andy Warhol's Lonesome Cowboys,</unittitle>
+				<unitdate>1968</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Animals,</unittitle>
+				<unitdate>1978</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Apache Chief,</unittitle>
+				<unitdate>1948</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Apache Rifles (Austand in Arizona), German,</unittitle>
+				<unitdate>1965</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Apache Rifles,</unittitle>
+				<unitdate>1965</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Arizona Colt Returns (Arizona Vuelve), Italy,</unittitle>
+				<unitdate>1970</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Arizona Days,</unittitle>
+				<unitdate>1936</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Arizona Raiders (Goldtransport durch Arizona), German,</unittitle>
+				<unitdate>1965</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Arizona Roundup,</unittitle>
+				<unitdate>1942</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Badlanders (Arizona Prison Federal), Spain,</unittitle>
+				<unitdate>1958</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Barquero (Los Forajidos de Rio Bravo), Italy,</unittitle>
+				<unitdate>1970</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Barquero (Los Forajidos de Rio Bravo), Spain,</unittitle>
+				<unitdate>1970</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Barquero (Los Forajidos de Rio Bravo),(2 copies),</unittitle>
+				<unitdate>1970</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Billy Jack,</unittitle>
+				<unitdate>1973</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Blood on the Arrow,(2 copies)</unittitle>
+				<unitdate>1964</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Branded (Marcado a Fuego), Spain</unittitle>
+				<unitdate>1950</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Cancel My Reservation,</unittitle>
+				<unitdate>1972</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Cancel My Reservation,</unittitle>
+				<unitdate>1972</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Day of Anger,</unittitle>
+				<unitdate>1969</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>A Distant Trumpet,</unittitle>
+				<unitdate>1964</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Fort Yuma,</unittitle>
+				<unitdate>1955</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Gunfight at the O.K. Corral (Duelo de Titantes),</unittitle>
+				<unitdate>1957</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Gunfight at the O.K. Corral,</unittitle>
+				<unitdate>1957</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Gunsmoke in Tucson,</unittitle>
+				<unitdate>1958</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Hail Hero! (Hail Heroe!), Spain,</unittitle>
+				<unitdate>1971</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Heaven with a Gun,</unittitle>
+				<unitdate>1969</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Hombre (Man Nannte Ihn Hombre), German,</unittitle>
+				<unitdate>1967</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Hour of the Gun (La Hora de las Pistolas), Spain,</unittitle>
+				<unitdate>1967</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>How the West Was Won (La Conquista del Oeste), Spain,</unittitle>
+				<unitdate>1964</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>I Killed Geronimo,</unittitle>
+				<unitdate>1950</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Jesus Trip,</unittitle>
+				<unitdate>1971</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Kid Morelo,</unittitle>
+				<unitdate>1965</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Land Raiders (Al Inferno, Gringo!), Spain,</unittitle>
+				<unitdate>1969</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Land Raiders,(3 copies),</unittitle>
+				<unitdate>1969</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Last Challenge,</unittitle>
+				<unitdate>1967</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Last Hard Men,</unittitle>
+				<unitdate>1976</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Little Fauss and Big Halsy (El Precio del Fracaso), Spain,</unittitle>
+				<unitdate>1970</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Little Fauss and Big Halsy,</unittitle>
+				<unitdate>1970</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>MacKenna's Gold (El Oro de MacKenna), Spain,</unittitle>
+				<unitdate>1969</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>MacKenna's Gold,</unittitle>
+				<unitdate>1969</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Magnificent 7 Ride (El Desafio de los 7 Magnificos),</unittitle>
+				<unitdate>1972</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Magnificent 7 Ride,</unittitle>
+				<unitdate>1972</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Man and Boy,</unittitle>
+				<unitdate>1970</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Man of the West,</unittitle>
+				<unitdate>1958</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Naked Angels / Pit Stop,</unittitle>
+				<unitdate>1969</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Name of the Game is Kill,</unittitle>
+				<unitdate>1968</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>One Foot in Hell,</unittitle>
+				<unitdate>1960</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Rage,</unittitle>
+				<unitdate>1972</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Rebels from Arizona (Los Rebeldes de Arizona), Spain,</unittitle>
+				<unitdate>1970</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Red Sun,</unittitle>
+				<unitdate>1972</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Rounders,</unittitle>
+				<unitdate>1965</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Santa Fe Trail,</unittitle>
+				<unitdate>1940</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Savage Guns,</unittitle>
+				<unitdate>1962</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Silencers, Belgium,</unittitle>
+				<unitdate>1966</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Squad Car,</unittitle>
+				<unitdate>1960</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Stage to Mesa City,</unittitle>
+				<unitdate>1947</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Sugarfoot (Ein Fremder Kam Nach Arizona), German,(2 copies)</unittitle>
+				<unitdate>1951</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Sugarfoot,</unittitle>
+				<unitdate>1951</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Stalking Moon,</unittitle>
+				<unitdate>1968</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Suppose They Gave a War and Nobody Came,</unittitle>
+				<unitdate>1970</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Tall T (Um Kopf und Kragen), German,</unittitle>
+				<unitdate>1957</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Ten Wanted Men (Racher in Schwarz), German,</unittitle>
+				<unitdate>1955</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>There Was a Crooked Man…,</unittitle>
+				<unitdate>1970</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>A Thunder of Drums (Fort Comanche), Spain,</unittitle>
+				<unitdate>1961</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>A Thunder of Drums,</unittitle>
+				<unitdate>1961</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Ulzana's Raid,(3 copies),</unittitle>
+				<unitdate>1972</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Valdez is Coming (Que Viene Valdez!), Spain,</unittitle>
+				<unitdate>1971</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Walk the Proud Land (Ritt in den Tod), German,</unittitle>
+				<unitdate>1956</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">8</container> 
+				<container type="folder">1</container> 
+				<unittitle>Wild Horse Mesa,</unittitle>
+				<unitdate>1947</unitdate>
+			</did> 
+		</c02>
+	</c01>
+	<c01 level="series" id="ser5"> 
+		<did> 
+			<unittitle>Series 5: Lobby Cards,</unittitle> 
+			<unitdate type="inclusive">1928-1973</unitdate>
+		</did>
+		<scopecontent><p>This series contains lobby cards (11" x 14") which typically come in sets that give a pictorial synopsis of a film's plot.  This series is arranged alphabetically by film title.  Posters with a foreign title are listed under the American title when determined.</p></scopecontent>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>8 on the Lam,</unittitle>
+				<unitdate>1967</unitdate>
+				<physdesc><extent>8 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>40 Guns to Apache Pass,</unittitle>
+				<unitdate>1967</unitdate>
+				<physdesc><extent>8 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Alias Billy the Kid,</unittitle>
+				<unitdate>1946</unitdate>
+				<physdesc><extent>2 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Animals,</unittitle>
+				<unitdate>1971</unitdate>
+				<physdesc><extent>8 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Apache Country,</unittitle>
+				<unitdate>1952</unitdate>
+				<physdesc><extent>2 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Apache Drums,</unittitle>
+				<unitdate>1951</unitdate>
+				<physdesc><extent>1 item</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Apache Gold,</unittitle>
+				<unitdate>1965</unitdate>
+				<physdesc><extent>8 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Apache Rifles,</unittitle>
+				<unitdate>1965</unitdate>
+				<physdesc><extent>8 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Apache Territory,</unittitle>
+				<unitdate>1958</unitdate>
+				<physdesc><extent>7 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Apache Uprising,</unittitle>
+				<unitdate>1965</unitdate>
+				<physdesc><extent>1 item</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Apache War Smoke,</unittitle>
+				<unitdate>1952</unitdate>
+				<physdesc><extent>8 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Apache Woman,</unittitle>
+				<unitdate>1955</unitdate>
+				<physdesc><extent>8 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Arena,</unittitle>
+				<unitdate>1953</unitdate>
+				<physdesc><extent>8 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Arizona,</unittitle>
+				<unitdate>1940</unitdate>
+				<physdesc><extent>1 item</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Arizona Bushwackers,</unittitle>
+				<unitdate>1967</unitdate>
+				<physdesc><extent>8 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Arizona Cowboy,</unittitle>
+				<unitdate>1950</unitdate>
+				<physdesc><extent>1 item</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Arizona Manhunt,</unittitle>
+				<unitdate>1951</unitdate>
+				<physdesc><extent>8 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Arizona Raiders,</unittitle>
+				<unitdate>1965</unitdate>
+				<physdesc><extent>8 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Arizona Ranger,</unittitle>
+				<unitdate>1948</unitdate>
+				<physdesc><extent>2 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Arizona Territory,</unittitle>
+				<unitdate>1950</unitdate>
+				<physdesc><extent>9 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Arizonian (re-release),</unittitle>
+				<unitdate>1951</unitdate>
+				<physdesc><extent>13 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Ballad of Cable Hogue,</unittitle>
+				<unitdate>1970</unitdate>
+				<physdesc><extent>8 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Battle at Apache Pass,</unittitle>
+				<unitdate>1952</unitdate>
+				<physdesc><extent>8 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Beyond the Purple Hills,</unittitle>
+				<unitdate>1950</unitdate>
+				<physdesc><extent>3 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Billy Jack,</unittitle>
+				<unitdate>1973</unitdate>
+				<physdesc><extent>8 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Black Eagle,</unittitle>
+				<unitdate>1948</unitdate>
+				<physdesc><extent>8 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Brighty of the Grand Canyon,</unittitle>
+				<unitdate>1967</unitdate>
+				<physdesc><extent>8 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Cancel My Reservation,</unittitle>
+				<unitdate>1972</unitdate>
+				<physdesc><extent>8 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Canyon City,</unittitle>
+				<unitdate>1943</unitdate>
+				<physdesc><extent>7 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Canyon Raiders,</unittitle>
+				<unitdate>1951</unitdate>
+				<physdesc><extent>8 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Canyon River,</unittitle>
+				<unitdate>1956</unitdate>
+				<physdesc><extent>8 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Carson City Raiders,</unittitle>
+				<unitdate>1948</unitdate>
+				<physdesc><extent>3 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Challenge of the Range,</unittitle>
+				<unitdate>1949</unitdate>
+				<physdesc><extent>8 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Cheyenne Autumn,</unittitle>
+				<unitdate>1964</unitdate>
+				<physdesc><extent>8 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Conquest of the West (La Conquesta del Oeste), Spain,</unittitle>
+				<unitdate>undated</unitdate>
+				<physdesc><extent>10 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Cowboy and the Indians,</unittitle>
+				<unitdate>1949</unitdate>
+				<physdesc><extent>1 item</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Cyclone Prairie Rangers,</unittitle>
+				<unitdate>1944</unitdate>
+				<physdesc><extent>8 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Day of Anger,</unittitle>
+				<unitdate>1969</unitdate>
+				<physdesc><extent>8 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Deadly Companions,</unittitle>
+				<unitdate>1961</unitdate>
+				<physdesc><extent>8 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Death Valley Manhunt,</unittitle>
+				<unitdate>1943</unitdate>
+				<physdesc><extent>1 item</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Desert Horseman,</unittitle>
+				<unitdate>1946</unitdate>
+				<physdesc><extent>7 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Desperados of Dodge City,</unittitle>
+				<unitdate>1948</unitdate>
+				<physdesc><extent>7 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Devil's Canyon,</unittitle>
+				<unitdate>1953</unitdate>
+				<physdesc><extent>8 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Doc,</unittitle>
+				<unitdate>1971</unitdate>
+				<physdesc><extent>8 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Firebrands of Arizona,</unittitle>
+				<unitdate>1944</unitdate>
+				<physdesc><extent>1 item</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Fort Bowie,</unittitle>
+				<unitdate>1957</unitdate>
+				<physdesc><extent>1 item</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Galloping Thunder,</unittitle>
+				<unitdate>1946</unitdate>
+				<physdesc><extent>1 item</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Gauchos of El Dorado,</unittitle>
+				<unitdate>1941</unitdate>
+				<physdesc><extent>3 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Gay Ranchero,</unittitle>
+				<unitdate>1948</unitdate>
+				<physdesc><extent>4 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Geronimo (re-release),</unittitle>
+				<unitdate>1949</unitdate>
+				<physdesc><extent>1 item</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Grand Canyon,</unittitle>
+				<unitdate>1948</unitdate>
+				<physdesc><extent>8 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Grand Canyon Trail,</unittitle>
+				<unitdate>1948</unitdate>
+				<physdesc><extent>2 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Gunfight at the O.K. Corral (Duelo de Titanes), Spain,</unittitle>
+				<unitdate>1957</unitdate>
+				<physdesc><extent>12 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Gunfight at the O.K. Corral,</unittitle>
+				<unitdate>1957</unitdate>
+				<physdesc><extent>8 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Gunning for Vengeance,</unittitle>
+				<unitdate>1946</unitdate>
+				<physdesc><extent>2 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Gunplay,</unittitle>
+				<unitdate>1951</unitdate>
+				<physdesc><extent>1 item</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Hawk of Wild River,</unittitle>
+				<unitdate>1952</unitdate>
+				<physdesc><extent>6 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Hellfire,</unittitle>
+				<unitdate>1949</unitdate>
+				<physdesc><extent>6 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Hombre, France,</unittitle>
+				<unitdate>1967</unitdate>
+				<physdesc><extent>18 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Horsemen of the Plains,</unittitle>
+				<unitdate>1928</unitdate>
+				<physdesc><extent>2 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Hour of the Gun (Die Funf Geachteten), German,</unittitle>
+				<unitdate>1967</unitdate>
+				<physdesc><extent>22 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Indian Agent,</unittitle>
+				<unitdate>1948</unitdate>
+				<physdesc><extent>7 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Law of the Golden West,</unittitle>
+				<unitdate>1949</unitdate>
+				<physdesc><extent>1 item</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Lilies of the Field,</unittitle>
+				<unitdate>1963</unitdate>
+				<physdesc><extent>7 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>MacKenna's Gold (El Oro de MacKenna), Spain,</unittitle>
+				<unitdate>1969</unitdate>
+				<physdesc><extent>12 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>MacKenna's Gold (El Oro de MacKenna), Spain,</unittitle>
+				<unitdate>1969</unitdate>
+				<physdesc><extent>12 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Marshal of Cripple Creek,</unittitle>
+				<unitdate>1947</unitdate>
+				<physdesc><extent>1 item</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Mule Train,</unittitle>
+				<unitdate>1950</unitdate>
+				<physdesc><extent>3 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">9</container> 
+				<container type="folder">1</container> 
+				<unittitle>Mule Train,</unittitle>
+				<unitdate>1950</unitdate>
+				<physdesc><extent>3 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">10</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Old Frontier,</unittitle>
+				<unitdate>1950</unitdate>
+				<physdesc><extent>8 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">10</container> 
+				<container type="folder">1</container> 
+				<unittitle>Outcasts of the Trail,</unittitle>
+				<unitdate>1949</unitdate>
+				<physdesc><extent>4 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">10</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Phantom Stagecoach,</unittitle>
+				<unitdate>1957</unitdate>
+				<physdesc><extent>3 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">10</container> 
+				<container type="folder">1</container> 
+				<unittitle>Quick on the Trigger,</unittitle>
+				<unitdate>1948</unitdate>
+				<physdesc><extent>1 item</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">10</container> 
+				<container type="folder">1</container> 
+				<unittitle>Renegades of the Sage,</unittitle>
+				<unitdate>1947</unitdate>
+				<physdesc><extent>7 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">10</container> 
+				<container type="folder">1</container> 
+				<unittitle>Rider from Tucson,</unittitle>
+				<unitdate>1950</unitdate>
+				<physdesc><extent>8 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">10</container> 
+				<container type="folder">1</container> 
+				<unittitle>Riders in the Sky,</unittitle>
+				<unitdate>1949</unitdate>
+				<physdesc><extent>1 item</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">10</container> 
+				<container type="folder">1</container> 
+				<unittitle>Ridin' on a Rainbow,</unittitle>
+				<unitdate>1941</unitdate>
+				<physdesc><extent>2 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">10</container> 
+				<container type="folder">1</container> 
+				<unittitle>Ridin' the Outlaw Trail,</unittitle>
+				<unitdate>1950</unitdate>
+				<physdesc><extent>6 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">10</container> 
+				<container type="folder">1</container> 
+				<unittitle>Robin Hood of the Pecos,</unittitle>
+				<unitdate>1941</unitdate>
+				<physdesc><extent>3 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">10</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Rough, Tough West,</unittitle>
+				<unitdate>1952</unitdate>
+				<physdesc><extent>8 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">10</container> 
+				<container type="folder">1</container> 
+				<unittitle>Shadows of Tombstone,</unittitle>
+				<unitdate>1953</unitdate>
+				<physdesc><extent>8 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">10</container> 
+				<container type="folder">1</container> 
+				<unittitle>Sheriff of Tombstone,</unittitle>
+				<unitdate>1941</unitdate>
+				<physdesc><extent>5 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">10</container> 
+				<container type="folder">1</container> 
+				<unittitle>Smoky Canyon,</unittitle>
+				<unitdate>1951</unitdate>
+				<physdesc><extent>4 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">10</container> 
+				<container type="folder">1</container> 
+				<unittitle>Song of Arizona,</unittitle>
+				<unitdate>1946</unitdate>
+				<physdesc><extent>2 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">10</container> 
+				<container type="folder">1</container> 
+				<unittitle>Stage to Tucson,</unittitle>
+				<unitdate>1950</unitdate>
+				<physdesc><extent>8 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">10</container> 
+				<container type="folder">1</container> 
+				<unittitle>Stagecoach Kid,</unittitle>
+				<unitdate>1949</unitdate>
+				<physdesc><extent>6 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">10</container> 
+				<container type="folder">1</container> 
+				<unittitle>Star in the Dust,</unittitle>
+				<unitdate>1956</unitdate>
+				<physdesc><extent>4 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">10</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Storm Rider,</unittitle>
+				<unitdate>1957</unitdate>
+				<physdesc><extent>2 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">10</container> 
+				<container type="folder">1</container> 
+				<unittitle>Sundown Valley,</unittitle>
+				<unitdate>1944</unitdate>
+				<physdesc><extent>3 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">10</container> 
+				<container type="folder">1</container> 
+				<unittitle>A Time for Killing (La Poursuite des Tuniques Bleues), France,</unittitle>
+				<unitdate>1967</unitdate>
+				<physdesc><extent>10 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">10</container> 
+				<container type="folder">1</container> 
+				<unittitle>Toughest Gun in Tombstone,</unittitle>
+				<unitdate>1958</unitdate>
+				<physdesc><extent>1 item</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">10</container> 
+				<container type="folder">1</container> 
+				<unittitle>Toughest Man in Arizona,</unittitle>
+				<unitdate>1952</unitdate>
+				<physdesc><extent>8 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">10</container> 
+				<container type="folder">1</container> 
+				<unittitle>Trail of Robin Hood,</unittitle>
+				<unitdate>1950</unitdate>
+				<physdesc><extent>3 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">10</container> 
+				<container type="folder">1</container> 
+				<unittitle>Trail of the Rustlers,</unittitle>
+				<unitdate>1950</unitdate>
+				<physdesc><extent>7 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">10</container> 
+				<container type="folder">1</container> 
+				<unittitle>Trail Street,</unittitle>
+				<unitdate>1947</unitdate>
+				<physdesc><extent>7 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">10</container> 
+				<container type="folder">1</container> 
+				<unittitle>Trigger, Jr.,</unittitle>
+				<unitdate>1950</unitdate>
+				<physdesc><extent>4 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">10</container> 
+				<container type="folder">1</container> 
+				<unittitle>Tucson,</unittitle>
+				<unitdate>1948</unitdate>
+				<physdesc><extent>8 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">10</container> 
+				<container type="folder">1</container> 
+				<unittitle>Under Fiesta Stars,</unittitle>
+				<unitdate>1941</unitdate>
+				<physdesc><extent>2 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">10</container> 
+				<container type="folder">1</container> 
+				<unittitle>Utah Wagon Train,</unittitle>
+				<unitdate>1951</unitdate>
+				<physdesc><extent>1 item</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">10</container> 
+				<container type="folder">1</container> 
+				<unittitle>Wagon Wheels Westward,</unittitle>
+				<unitdate>1945</unitdate>
+				<physdesc><extent>1 item</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">10</container> 
+				<container type="folder">1</container> 
+				<unittitle>War Drums,</unittitle>
+				<unitdate>1945</unitdate>
+				<physdesc><extent>8 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">10</container> 
+				<container type="folder">1</container> 
+				<unittitle>West of Sonora,</unittitle>
+				<unitdate>1948</unitdate>
+				<physdesc><extent>8 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">10</container> 
+				<container type="folder">1</container> 
+				<unittitle>Whirlwind Raiders,</unittitle>
+				<unitdate>1948</unitdate>
+				<physdesc><extent>6 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">10</container> 
+				<container type="folder">1</container> 
+				<unittitle>Wildfire,</unittitle>
+				<unitdate>1945</unitdate>
+				<physdesc><extent>5 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">10</container> 
+				<container type="folder">1</container> 
+				<unittitle>Wild Horse Canyon,</unittitle>
+				<unitdate>1938</unitdate>
+				<physdesc><extent>3 items</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">10</container> 
+				<container type="folder">1</container> 
+				<unittitle>Young Bill Hickok,</unittitle>
+				<unitdate>1940</unitdate>
+				<physdesc><extent>2 items</extent></physdesc>
+			</did> 
+		</c02>
+	</c01>
+	<c01 level="series" id="ser6"> 
+		<did> 
+			<unittitle>Series 6: Still Photographs,</unittitle>
+			<unitdate type="inclusive">1950 – 1977</unitdate>
+		</did>
+		<scopecontent><p>This series is arranged alphabetically by film title and contains both color and black and white promotional stills.</p></scopecontent>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">1</container> 
+				<unittitle>Apache Uprising,</unittitle>
+				<unitdate>1965</unitdate>
+				<physdesc><extent>11 black and white stills</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">2</container> 
+				<unittitle>Arizona Raiders,</unittitle>
+				<unitdate>1965</unitdate>
+				<physdesc><extent>8 color stills</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">3</container> 
+				<unittitle>Blood on the Arrow,</unittitle>
+				<unitdate>1964</unitdate>
+				<physdesc><extent>8 color stills</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">3</container> 
+				<unittitle>Blood on the Arrow,</unittitle>
+				<unitdate>1964</unitdate>
+				<physdesc><extent>8 color stills</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">4</container> 
+				<unittitle>Cry for Me Billy,</unittitle>
+				<unitdate>1977</unitdate>
+				<physdesc><extent>8 color stills</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">5</container> 
+				<unittitle>A Distant Trumpet,</unittitle>
+				<unitdate>1964</unitdate>
+				<physdesc><extent>8 color stills</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">6</container> 
+				<unittitle>Five Guns to Tombstone,</unittitle>
+				<unitdate>1961</unitdate>
+				<physdesc><extent>15 black and white stills</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">7</container> 
+				<unittitle>Fort Yuma,</unittitle>
+				<unitdate>1955</unitdate>
+				<physdesc><extent>8 color stills</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">8</container> 
+				<unittitle>Gunsmoke in Tucson,</unittitle>
+				<unitdate>1958</unitdate>
+				<physdesc><extent>36 black and white stills</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">9</container> 
+				<unittitle>Hombre,</unittitle>
+				<unitdate>1967</unitdate>
+				<physdesc><extent>6 black and white stills, 2 color stills</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">10</container> 
+				<unittitle>Man and Boy,</unittitle>
+				<unitdate>1971</unitdate>
+				<physdesc><extent>3 black and white stills</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">11</container> 
+				<unittitle>Murphy's Romance,</unittitle>
+				<unitdate>1985</unitdate>
+				<physdesc><extent>6 black and white stills</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">12</container> 
+				<unittitle>Santiago,</unittitle>
+				<unitdate>1956</unitdate>
+				<physdesc><extent>2 black and white stills</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">13</container> 
+				<unittitle>Southwest Passage,</unittitle>
+				<unitdate>1954</unitdate>
+				<physdesc><extent>2 black and white stills</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">14</container> 
+				<unittitle>The Stalking Moon,</unittitle>
+				<unitdate>1969</unitdate>
+				<physdesc><extent>8 color stills</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">15</container> 
+				<unittitle>Stay Away, Joe,</unittitle>
+				<unitdate>1968</unitdate>
+				<physdesc><extent>1 black and white still</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">16</container> 
+				<unittitle>Sugarfoot,</unittitle>
+				<unitdate>1951</unitdate>
+				<physdesc><extent>2 black and white stills</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">17</container> 
+				<unittitle>Suppose They Gave a War and Nobody Came,</unittitle>
+				<unitdate>1970</unitdate>
+				<physdesc><extent>1 black and white still</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">18</container> 
+				<unittitle>There was a Crooked Man,</unittitle>
+				<unitdate>1970</unitdate>
+				<physdesc><extent>1 black and white still</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">19</container> 
+				<unittitle>3:10 to Yuma,</unittitle>
+				<unitdate>1957</unitdate>
+				<physdesc><extent>5 black and white stills</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">20</container> 
+				<unittitle>A Thunder of Drums,</unittitle>
+				<unitdate>1961</unitdate>
+				<physdesc><extent>12 color stills</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">21</container> 
+				<unittitle>Thunder over Arizona,</unittitle>
+				<unitdate>1956</unitdate>
+				<physdesc><extent>8 black and white stills</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">22</container> 
+				<unittitle>Toughest Man in Arizona,</unittitle>
+				<unitdate>1952</unitdate>
+				<physdesc><extent>8 color stills</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">23</container> 
+				<unittitle>Walk the Proud Land,</unittitle>
+				<unitdate>1956</unitdate>
+				<physdesc><extent>5 black and white photographs</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">24</container> 
+				<unittitle>Winchester '73,</unittitle>
+				<unitdate>1950</unitdate>
+				<physdesc><extent>9 black and white photographs</extent></physdesc>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">25</container> 
+				<unittitle>Zabriskie Point,</unittitle>
+				<unitdate>1970</unitdate>
+				<physdesc><extent>3 black and white stills</extent></physdesc>
+			</did> 
+		</c02>
+	</c01>
+	<c01 level="series" id="ser7"> 
+		<did> 
+			<unittitle>Series 7: Miniature Posters,</unittitle> 
+			<unitdate type="inclusive">undated</unitdate>
+		</did>
+		<scopecontent><p>This series contains miniature posters which range in size.  These posters typically duplicate the image of a film's one sheet and were commonly printed as advances to generate interest in a film and were usually given away at premiers or special screenings.  This series is arranged alphabetically by film title.  Posters with a foreign title are listed under the American title when determined.</p></scopecontent>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">26</container> 
+				<unittitle>100 Rifles, Spain,</unittitle>
+				<unitdate>undated</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">26</container> 
+				<unittitle>Arizona Colt Returns (Arizona Vuelve),</unittitle>
+				<unitdate>undated</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">26</container> 
+				<unittitle>Arizona Raiders (El Renegado Arizona), Spain,</unittitle>
+				<unitdate>undated</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">26</container> 
+				<unittitle>Bad Man of Brimstone (El Tigre de Arizona),</unittitle>
+				<unitdate>undated</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">26</container> 
+				<unittitle>Blood on the Arrow (Flechas Sangrientas), Spain,</unittitle>
+				<unitdate>undated</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">26</container> 
+				<unittitle>Branded (Marcado a Fuego), Spain,</unittitle>
+				<unitdate>undated</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">26</container> 
+				<unittitle>Doc (Duelo a Muerte en O.K. Corral), Spain,</unittitle>
+				<unitdate>undated</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">26</container> 
+				<unittitle>Escape from Fort Bravo (Flugten fra Fort Bravo), Danish,</unittitle>
+				<unitdate>undated</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">26</container> 
+				<unittitle>Five Thousand Dollars on One Ace (Los Pistoleros de Arizona), Spain,</unittitle>
+				<unitdate>undated</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">26</container> 
+				<unittitle>Frontier Hellcats, (Los Buitres), Spain,</unittitle>
+				<unitdate>undated</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">26</container> 
+				<unittitle>The Gal Who Took the West (To Cowboys Een Pige), Danish,</unittitle>
+				<unitdate>undated</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">26</container> 
+				<unittitle>Geronimo, Spain,</unittitle>
+				<unitdate>undated</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">26</container> 
+				<unittitle>Geronimo (Venganza India), Spain,</unittitle>
+				<unitdate>undated</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">26</container> 
+				<unittitle>Gunfight at the O.K. Corral (Duel de Titantes), Spain,</unittitle>
+				<unitdate>undated</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">26</container> 
+				<unittitle>Guns of the Magnificent Seven (El Desafio de los 7 Magnificos), Spain,</unittitle>
+				<unitdate>undated</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">26</container> 
+				<unittitle>Hombre (Un Hombre), Spain,</unittitle>
+				<unitdate>undated</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">26</container> 
+				<unittitle>Hombre, Danish,</unittitle>
+				<unitdate>undated</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">26</container> 
+				<unittitle>How the West Was Won (La Conquista del Oeste), Spain,</unittitle>
+				<unitdate>undated</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">26</container> 
+				<unittitle>The Last Wagon (Praerievognen), Danish,</unittitle>
+				<unitdate>undated</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">26</container> 
+				<unittitle>Lilies of the Field (Los Lirios del Valle), Spain,</unittitle>
+				<unitdate>undated</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">26</container> 
+				<unittitle>MacKenna's Gold (El Oro de MacKenna),</unittitle>
+				<unitdate>undated</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">26</container> 
+				<unittitle>My Darling Clementine, Danish,</unittitle>
+				<unitdate>undated</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">26</container> 
+				<unittitle>The Plainsmen (El Nations Helte), Danish,</unittitle>
+				<unitdate>undated</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">26</container> 
+				<unittitle>The Stalking Moon (La Noche de los Gigantes), Spain,</unittitle>
+				<unitdate>undated</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">26</container> 
+				<unittitle>There Was a Crooked Man…(El Dia de Los Tramposos), Spain,</unittitle>
+				<unitdate>undated</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">26</container> 
+				<unittitle>A Thunder of Drums (Fort Comanche), Spain,</unittitle>
+				<unitdate>undated</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">26</container> 
+				<unittitle>A Time for Killing (La Cabalgada de los Malditos), Spain,</unittitle>
+				<unitdate>undated</unitdate>
+			</did> 
+		</c02>
+	</c01>
+	<c01 level="series" id="ser8"> 
+		<did> 
+			<unittitle>Series 8: Scripts,</unittitle> 
+			<unitdate type="inclusive">1938, 1950</unitdate>
+		</did>
+		<scopecontent><p>This series is arranged alphabetically by film title and contains final and 2nd drafts of film scripts.</p></scopecontent>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">27</container> 
+				<unittitle>Salomy Jane, Final Draft, by Frances Hyland and Albert Ray,</unittitle>
+				<unitdate>undated</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">27</container> 
+				<unittitle>Stage to Tucson, 2nd Draft, by Bob Williams,</unittitle>
+				<unitdate>1950</unitdate>
+			</did> 
+		</c02>
+	</c01>
+ </dsc> 
+</archdesc></ead>

@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?xml-stylesheet type="text/xsl" href="displaytemplate.xsl"?>
+<?filetitle Opera Guild of Southern Arizona records?>
+<ead relatedencoding="MARC21">
+<eadheader audience="internal" findaidstatus="edited-full-draft"
+ langencoding="iso639-2b">
+	<eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library Special Collections//text(US::AzU::Opera Guild of Southern Arizona
+	 records)//en" "UAMS321.xml"</eadid>
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Opera Guild of Southern Arizona
+		  records, 
+		  <date>1958-1995</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Patricia
+		  Doherty</author>
+	 </titlestmt>
+	 <publicationstmt>
+	 	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+		<address>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address>
+		<date>&#x00A9; 2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p>
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc>
+	 <creation encodinganalog="500">Inventory encoded by Rebecca Hankins 
+		<date>December 4, 2001</date></creation> 
+	 <langusage>Inventory is in<language langcode="en"
+		encodinganalog="546">English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter>
+  <titlepage>
+	 <titleproper encodinganalog="245$a">Opera Guild of Southern Arizona
+		records, 
+		<date>1958-1995</date></titleproper>
+	 <num>Collection Number: MS 321</num>
+  	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher>
+	 <list>
+		<defitem>
+		  <label>Processed by: </label>
+		  <item>Patricia Doherty</item>
+		</defitem>
+		<defitem>
+		  <label>Date completed:</label>
+		  <item>
+			 <date>1995</date></item>
+		</defitem>
+		<defitem>
+		  <label>Encoded by:</label>
+		  <item>Rebecca Hankins</item>
+		</defitem>
+	 </list>
+	 <p>&#x00A9; 2001. Arizona Board of Regents. All rights reserved.</p>
+  </titlepage>
+</frontmatter>
+<archdesc level="collection"> 
+  <did id="a1">
+	 <head>Collection Summary</head>
+	 <unittitle encodinganalog="245" label="Collection Name:">Opera Guild of
+		Southern Arizona records, 
+		<unitdate type="inclusive" normal="">1958-1995</unitdate></unittitle>
+	 <unitid label="Collection Number:" encodinganalog="099"
+	  repositorycode="AzU" countrycode="us">MS 321</unitid> 
+	 <origination label="Creator:"> 
+		<corpname encodinganalog="110">Opera Guild of Southern Arizona Board of
+		  Directors</corpname></origination>
+	 <abstract label="Abstract:">The bulk of the Opera Guild of Southern Arizona records pertains
+		to the its annual activities, especially promotional, educational and
+		fund-raising events. Monthly bulletins, scrapbooks and yearbooks document the
+		many activities of the guild: opera previews, luncheons, dinners, sponsorship
+		of opera students, scholarships, loans and grants, underwriting of annual
+		Metropolitan and San Francisco opera auditions, aid to groups producing opera,
+		and sponsorship of free matinees for school students. </abstract>
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+		encodinganalog="300">7 linear feet</extent></physdesc>
+	 <repository label="Repository:">
+	 	<corpname encodinganalog="110">University of Arizona Libraries, Special Collections</corpname>
+		<address>
+		  <addressline>University of Arizona </addressline>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address></repository>
+  </did> 
+  <accessrestrict encodinganalog="506">
+	 <head>Restrictions</head>
+	 <p>None.</p>
+  </accessrestrict>
+  <userestrict encodinganalog="540">
+	 <head>Copyright</head>
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p>
+  </userestrict>
+  <prefercite encodinganalog="524">
+	 <head>Credit Line</head>
+	 <p>Opera Guild of Southern Arizona records(MS 321). Special Collections, University of Arizona Libraries.</p>
+  </prefercite>
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Historical Note</head>
+	 <p>The Opera Guild of Southern Arizona was conceived in 1957 by Ruth Booth
+		who moved to Arizona that year. Finding no musical organizations dedicated to
+		the promotion and expansion of opera in the area, Ms. Booth obtained the
+		support of the Metropolitan Opera Guild in New York in her efforts to form a
+		guild in Tucson. The charter meeting was held on April 13, 1958, with the
+		stated aim of stimulating interest in and advancing the appreciation of opera
+		as well as encouraging participation and bringing opera performances to
+		audiences of all ages in Southern Arizona. The Opera Guild corporate in 1960
+		and continues its annual sponsorship of Metropolitan and San Francisco opera
+		company auditions, student matinees, and a variety of fund-raising events
+		intended to support community opera in Tucson. The Guild holds four to six
+		regular board meetings annually.</p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>Since the Opera Guild follows a fiscal and opera year calendar which
+		runs from May through April, records which were originally arranged according
+		to this fiscal pattern were retained in that order. Other records are arranged
+		in calendar year order.</p>
+	 <p>This collection is organized into six series:</p> 
+	 <list> 
+		<item>I. Board records,
+		  <date>1958-1991</date></item> 
+		<item>II. Bulletins and Yearbooks, 
+		  <date>1958-1994</date></item>
+		<item>III. Correspondence, 
+		  <date>1957-1995</date></item>
+		<item>IV. Sponsored Events, 
+		  <date>1958-1994</date></item>
+		<item>V. Scrapbooks, 
+		  <date>1958-1994</date></item>
+		<item>VI. Opera Auditions Audio Tapes, 
+		  <date>1978-1981</date></item>
+	 </list> 
+  </arrangement>
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head>
+	 <p>The bulk of the Opera Guild of Southern Arizona records pertains to the
+		its annual activities, especially promotional, educational and fund-raising
+		events. Monthly bulletins, scrapbooks and yearbooks document the many
+		activities of the guild: opera previews, luncheons, dinners, sponsorship of
+		opera students, scholarships, loans and grants, underwriting of annual
+		Metropolitan and San Francisco opera auditions, aid to groups producing opera,
+		and sponsorship of free matinees for school students. </p> 
+	 <p>News clippings and photographs also document these varied activities.
+		Organizational records include board minutes, financial statements, and a
+		history of the guild's development. Additional materials are expected in the
+		future.</p>
+  </scopecontent> 
+  <controlaccess id="a12">
+	 <head>Access Terms</head>
+	 <list>
+		<item>
+		  <persname encodinganalog="100">Booth, Ruth</persname></item>
+	 </list>
+	 <list>
+		<item>
+		  <corpname encodinganalog="110">Opera Guild of Southern
+			 Arizona</corpname></item>
+	 </list>
+	 <list>
+		<item>
+		  <subject>Opera -- Arizona</subject></item>
+	 </list>
+	 <list>
+		<item>
+		  <subject>Music -- Arizona -- Tucson -- 20th Century</subject></item>
+	 </list>
+	 <list>
+		<item>
+		  <subject>Music -- Societies, etc.</subject></item>
+	 </list>
+	 <list>
+		<item>
+		  <geogname>Tucson (Ariz.) -- History</geogname></item>
+	 </list>
+	 <list>
+		<item>
+		  <genreform>Correspondence</genreform></item>
+	 </list>
+	 <list>
+		<item>
+		  <genreform>Photographs</genreform></item>
+	 </list>
+  </controlaccess> 
+  <separatedmaterial encodinganalog="544$2">
+	 <head>Separated Material</head>
+	 <p>Approximately 2.5 linear feet of records were not retained. These
+		consisted primarily of duplicate materials such as board minutes and monthly
+		bulletins. In addition, the contents of photo albums, scrapbooks and notebooks
+		were moved to file folders.</p>
+  </separatedmaterial>
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head>
+	 <c01 level="series" id="ser1">
+		<did>
+		  <unittitle>Series I: Board Records, 
+			 <unitdate type="inclusive"
+			 normal="1958/1991">1958-1991</unitdate></unittitle> 
+		</did> 
+		<c02>
+		  <did><container type="box">1</container><container
+			 type="folder">1</container>
+			 <unittitle>Guild organization history. 
+				<unitdate type="inclusive" normal="NaN">No
+				  Dates</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">1</container><container
+			 type="folder">2</container>
+			 <unittitle>Oraganizational meetings. 
+				<unitdate type="inclusive" normal="NaN">No
+				  Dates</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">1</container><container
+			 type="folder">3</container>
+			 <unittitle>Historical. 
+				<unitdate type="inclusive" normal="NaN">No
+				  Dates</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">1</container><container
+			 type="folder">4</container>
+			 <unittitle>Articles of incorporation. 
+				<unitdate type="inclusive" normal="NaN">No
+				  Dates</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">1</container><container
+			 type="folder">5</container>
+			 <unittitle>Guidelines. 
+				<unitdate type="inclusive" normal="NaN">No
+				  Dates</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">1</container><container
+			 type="folder">6</container>
+			 <unittitle>Constitution and By-laws. 
+				<unitdate type="inclusive" normal="NaN">No
+				  Dates</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">1</container><container
+			 type="folder">7</container>
+			 <unittitle>Board and committee members. 
+				<unitdate type="inclusive" normal="NaN">No
+				  Dates</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">1</container><container
+			 type="folder">8-14</container>
+			 <unittitle>Board and committee minutes. 
+				<unitdate type="inclusive"
+				normal="1958/1991">1958-1991</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">2</container><container
+			 type="folder">1</container>
+			 <unittitle>Board minutes. 
+				<unitdate type="inclusive"
+				normal="1992/1994">1992-1994</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">2</container><container
+			 type="folder">2</container>
+			 <unittitle>Greene bequest and investment. 
+				<unitdate type="inclusive" normal="NaN">No
+				  Dates</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">2</container><container
+			 type="folder">3</container>
+			 <unittitle>Assistance fund. 
+				<unitdate type="inclusive" normal="NaN">No
+				  Dates</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">2</container><container
+			 type="folder">4</container>
+			 <unittitle>Barnes Loan Fund. 
+				<unitdate type="inclusive" normal="NaN">No
+				  Dates</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">2</container><container
+			 type="folder">5</container>
+			 <unittitle>Ruiz donation, University of Arizona School of Music. 
+				<unitdate type="inclusive" normal="NaN">No
+				  Dates</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">2</container><container
+			 type="folder">6</container>
+			 <unittitle>Booth Scholarship. 
+				<unitdate type="inclusive" normal="NaN">No
+				  Dates</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">2</container><container
+			 type="folder">7</container>
+			 <unittitle>Booth Scholarship, Humphrey correspondence. 
+				<unitdate type="inclusive" normal="NaN">No
+				  Dates</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">2</container><container
+			 type="folder">8-9</container>
+			 <unittitle>Financial statements. 
+				<unitdate type="inclusive"
+				normal="1961/1992">1961-1992</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">2</container><container
+			 type="folder">10</container>
+			 <unittitle>Insurance. 
+				<unitdate type="inclusive" normal="NaN">No
+				  Dates</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">2</container><container
+			 type="folder">11</container>
+			 <unittitle>Historian's report. 
+				<unitdate type="inclusive" normal="NaN">No
+				  Dates</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">2</container><container
+			 type="folder">12</container>
+			 <unittitle>Charter members. 
+				<unitdate type="inclusive" normal="NaN">No
+				  Dates</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">3</container><container
+			 type="folder">1</container>
+			 <unittitle>Membership. 
+				<unitdate type="inclusive" normal="NaN">No
+				  Dates</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">3</container><container
+			 type="folder">2</container>
+			 <unittitle>Membership development. 
+				<unitdate type="inclusive" normal="NaN">No
+				  Dates</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">3</container><container
+			 type="folder">3</container>
+			 <unittitle>Helpers. 
+				<unitdate type="inclusive" normal="NaN">No
+				  Dates</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01> 
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series II: Bulletins and Yearbooks, 
+			 <unitdate type="inclusive"
+			  normal="1958/1994">1958-1994</unitdate></unittitle>
+		</did>
+		<c02>
+		  <did><container type="box">3</container><container
+			 type="folder">4-11</container>
+			 <unittitle>Bulletins. 
+				<unitdate type="inclusive"
+				 normal="1958/1994">1958-1994</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">3</container><container
+			 type="folder">12-13</container>
+			 <unittitle>Yearbooks. 
+				<unitdate type="inclusive"
+				 normal="1968/1994">1968-1994</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series III: Correspondence, 
+			 <unitdate type="inclusive"
+			  normal="1957/1995">1957-1995</unitdate></unittitle>
+		</did>
+		<c02>
+		  <did><container type="box">4</container><container
+			 type="folder">1-27</container>
+			 <unittitle>Correspondence. 
+				<unitdate type="inclusive"
+				 normal="1957/1985">1957-1985</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">5</container><container
+			 type="folder">1-11</container>
+			 <unittitle>Correspondence. 
+				<unitdate type="inclusive"
+				 normal="1985/1995">1985-1995</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series IV: Sponsored Events, 
+			 <unitdate type="inclusive"
+			  normal="1958/1994">1958-1994</unitdate></unittitle>
+		</did>
+		<c02>
+		  <did><container type="box">5</container><container
+			 type="folder">12</container>
+			 <unittitle>Publicity materials. 
+				<unitdate type="inclusive" normal="NaN">No
+				  Dates</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">5</container><container
+			 type="folder">13</container>
+			 <unittitle>Student singers, Janice Felty. 
+				<unitdate type="inclusive" normal="NaN">No
+				  Dates</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">5</container><container
+			 type="folder">14</container>
+			 <unittitle>Student singers, Jerry Howell. 
+				<unitdate type="inclusive" normal="NaN">No
+				  Dates</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">5</container><container
+			 type="folder">15</container>
+			 <unittitle>Student singers, Joseph Pinedo. 
+				<unitdate type="inclusive" normal="NaN">No
+				  Dates</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">5</container><container
+			 type="folder">16-17</container>
+			 <unittitle>Opera Dinner. 
+				<unitdate type="inclusive"
+				 normal="1958/1959">1958-1959</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">6</container><container
+			 type="folder">1-10</container>
+			 <unittitle>Opera dinner. 
+				<unitdate type="inclusive"
+				 normal="1960/1977">1960-1977</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">6</container><container
+			 type="folder">11</container>
+			 <unittitle>Tucson Civic Chorus. 
+				<unitdate type="inclusive"
+				 normal="1959">1959</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">6</container><container
+			 type="folder">12</container>
+			 <unittitle>Preview, Othello. 
+				<unitdate type="inclusive"
+				 normal="1964">1964</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">6</container><container
+			 type="folder">13</container>
+			 <unittitle>Preview, Tales of Hoffman. 
+				<unitdate type="inclusive"
+				 normal="1967">1967</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">6</container><container
+			 type="folder">14</container>
+			 <unittitle>Preview, Don Giovanni. 
+				<unitdate type="inclusive"
+				 normal="1972">1972</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">6</container><container
+			 type="folder">15</container>
+			 <unittitle>University of Arizona Artist Series, La Boheme. 
+				<unitdate type="inclusive"
+				 normal="1964">1964</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">6</container><container
+			 type="folder">16</container>
+			 <unittitle>Mad Hatters Brunch. 
+				<unitdate type="inclusive"
+				 normal="1966">1966</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">6</container><container
+			 type="folder">17</container>
+			 <unittitle>Boris Gudunov. 
+				<unitdate type="inclusive"
+				 normal="1970">1970</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">6</container><container
+			 type="folder">18</container>
+			 <unittitle>Luncheon. 
+				<unitdate type="inclusive"
+				 normal="1975">1975</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">6</container><container
+			 type="folder">19</container>
+			 <unittitle>University of Arizona School of Music Benefit. 
+				<unitdate type="inclusive"
+				 normal="1979">1979</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">6</container><container
+			 type="folder">20</container>
+			 <unittitle>Luncheon, Holiday in Italy. 
+				<unitdate type="inclusive"
+				 normal="1980">1980</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">7</container><container
+			 type="folder">1</container>
+			 <unittitle>Goldovsky Concert. 
+				<unitdate type="inclusive"
+				 normal="1981">1981</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">7</container><container
+			 type="folder">2</container>
+			 <unittitle>Tea. 
+				<unitdate type="inclusive"
+				 normal="1985">1985</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">7</container><container
+			 type="folder">3</container>
+			 <unittitle>Western Opera Theater. 
+				<unitdate type="inclusive"
+				 normal="1969/1972">1969-1972</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">7</container><container
+			 type="folder">4</container>
+			 <unittitle>Ditty Bags. 
+				<unitdate type="inclusive"
+				 normal="1968/1971">1968-1971</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">7</container><container
+			 type="folder">5</container>
+			 <unittitle>Miscellaneous Materials. 
+				<unitdate type="inclusive"
+				 normal="1962/1989">1962-1989</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">7</container><container
+			 type="folder">6</container>
+			 <unittitle>Old Pueblo Experiential Repertory Adventure. 
+				<unitdate type="inclusive"
+				 normal="1987/1990">1987-1990</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">7</container><container
+			 type="folder">7</container>
+			 <unittitle>Tours. 
+				<unitdate type="inclusive"
+				 normal="1978/1989">1978-1989</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">7</container><container
+			 type="folder">8</container>
+			 <unittitle>National Endowment for the Humanities Proposal. 
+				<unitdate type="inclusive"
+				 normal="1979">1979</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">7</container><container
+			 type="folder">9-16</container>
+			 <unittitle>Student Matinees. 
+				<unitdate type="inclusive"
+				 normal="1968/1980">1968-1980</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">8</container><container
+			 type="folder">1-9</container>
+			 <unittitle>Student Matinees. 
+				<unitdate type="inclusive"
+				 normal="1980/1994">1980-1994</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">8</container><container
+			 type="folder">10</container>
+			 <unittitle>Student Matinee "Thank You" letters. 
+				<unitdate type="inclusive" normal="NaN">No
+				  Dates</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">8</container><container
+			 type="folder">11</container>
+			 <unittitle>Alliance of Arizona Opera Guilds. 
+				<unitdate type="inclusive"
+				 normal="1970">1970</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">8</container><container
+			 type="folder">12</container>
+			 <unittitle>Regional Auditions History. 
+				<unitdate type="inclusive"
+				 normal="1970">1970</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">9</container><container
+			 type="folder">1</container>
+			 <unittitle>Arizona Opera Auditions. 
+				<unitdate type="inclusive"
+				 normal="1962/1988">1962-1988</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">9</container><container
+			 type="folder">2</container>
+			 <unittitle>Arizona Opera Auditions Fund. 
+				<unitdate type="inclusive"
+				 normal="1961/1970">1961-1970</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">9</container><container
+			 type="folder">3</container>
+			 <unittitle>Arizona Opera Auditions Fund. 
+				<unitdate type="inclusive"
+				 normal="1961/1970">1961-1970</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">9</container><container
+			 type="folder">4</container>
+			 <unittitle>Audition Winners: New York &amp; San Francisco. 
+				<unitdate type="inclusive"
+				 normal="1957/1973">1957-1973</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">9</container><container
+			 type="folder">5-11</container>
+			 <unittitle>Metropolitan Opera Auditions. 
+				<unitdate type="inclusive"
+				 normal="1958/1978">1958-1978</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">10</container><container
+			 type="folder">1-6</container>
+			 <unittitle>Metropolitan Opera Auditions. 
+				<unitdate type="inclusive"
+				 normal="1978/1987">1978-1987</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">10</container><container
+			 type="folder">7-12</container>
+			 <unittitle>San Francisco Opera Auditions: Merola. 
+				<unitdate type="inclusive"
+				 normal="1965/1987">1965-1987</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">10</container><container
+			 type="folder">13</container>
+			 <unittitle>Merola Opera-Guild Sponsorship of David Majors. 
+				<unitdate type="inclusive"
+				 normal="1980">1980</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series V: Scrapbooks, 
+			 <unitdate type="inclusive"
+			  normal="1958/1994">1958-1994</unitdate></unittitle>
+		</did>
+		<c02>
+		  <did><container type="box">10</container><container
+			 type="folder">14-21</container>
+			 <unittitle>Scrapbooks. 
+				<unitdate type="inclusive"
+				 normal="1958/1966">1958-1966</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">11</container><container
+			 type="folder">1-11</container>
+			 <unittitle>Scrapbooks. 
+				<unitdate type="inclusive"
+				 normal="1966/1979">1966-1979</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">12</container><container
+			 type="folder">1-5</container>
+			 <unittitle>Scrapbooks. 
+				<unitdate type="inclusive" normal="">1981-January
+				  1992</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">13</container><container
+			 type="folder">1-4</container>
+			 <unittitle>Scrapbooks. 
+				<unitdate type="inclusive" normal="">February 1992-May
+				  1994</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series VI: Opera Auditions Audio Tapes, 
+			 <unitdate type="inclusive"
+			  normal="1978/1981">1978-1981</unitdate></unittitle>
+		</did>
+		<c02>
+		  <did><container type="box">14</container><container
+			 type="folder">1-2</container>
+			 <unittitle>San Francisco Opera Auditions (7" reels). 
+				<unitdate type="inclusive"
+				normal="1980">1980</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">14</container><container
+			 type="folder">3-6</container>
+			 <unittitle>Metropolitan Opera Auditions (7" reels). 
+				<unitdate type="inclusive"
+				 normal="1981">1981</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">14</container><container
+			 type="folder">7-8</container>
+			 <unittitle>AIDA Preview (audio cassettes). 
+				<unitdate type="inclusive" normal="NaN">No
+				  Dates</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">15</container><container
+			 type="folder">1</container>
+			 <unittitle>Metropolitan Opera Auditions (10.5" reels). 
+				<unitdate type="inclusive"
+				normal="1978">1978</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">15</container><container
+			 type="folder">2-4</container>
+			 <unittitle>Metropolitan Opera Auditions (10.5" reels). 
+				<unitdate type="inclusive"
+				 normal="1979">1979</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+  </dsc> 
+</archdesc></ead>

@@ -1,0 +1,764 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+ audience="internal" id="a0"> 
+  <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library SpecialCollections//text(US::AzU::Papers of Peter Wild//en""MS389.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper>Papers of Peter Wild
+	 		<date normal="1989/2004" era="ce" calendar="gregorian">1989-2004</date></titleproper> 
+	 	<author>Processed by Name of Chrystal Carpenter.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date normal= "2011" era= "ce" calendar = "gregorian">; 2011</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Deborah Weller. 
+		<date era="ce" encodinganalog="date" normal="20110824">August 24, 2001 </date></creation> 
+	 <langusage>Finding aid is in<language> English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+  	<titleproper>Papers of Peter Wild,<date era= "ce" calendar= "gregorian">1989-2004</date></titleproper> 
+	 <num>Collection Number: MS 389</num> 
+  	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Staff.</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date normal="200311">November, 2003 </date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Deborah Weller</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 20011. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name:"> Papers of Peter Wild
+		<unitdate type="inclusive" label="Dates:" normal="1989/2004">1989-2004</unitdate></unittitle>	 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	 repositorycode="AzU" countrycode="us">MS 389</unitid> 
+	 <origination label="Creator:" encodinganalog="100"> 
+		<persname>Wild, Peter</persname> </origination> 
+  	<abstract label="Abstract:">The Papers of Peter Wild consist of research conducted by Wild which explores the life and accomplishments of author,John C. Van Dyke</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent>7 Linear Feet</extent></physdesc>	 
+	 <repository label="Repository:"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository> 
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+	 <p>There are no restrictions on access to this collection.</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>Papers of Peter Wild (MS 389). SpecialCollections, University of Arizona Libraries.</p> 
+  </prefercite>
+	<accruals><p>Furhter accruals are expected</p></accruals>
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+  	<p>Peter Wild is a noted writer of poetry and nonfiction prose. Wild is well-known for his literary works such as Cochise and Easy Victory. His poems have been published in numerous magazines, which include Ironwood, Chicago Review, and The American Poetry Review.  Over the last decade Wild has become the foremost authority on John C. Van Dyke and the Mojave Desert.  His contributions to this field include Daggett: Life in a Mojave Frontier Town; The White Heart of Mojave: an Adventure with the Outdoors of the Desert; and John C. Van Dyke: The Desert.  Peter Wild has been a professor of English and Creative Writing at the University of Arizona since 1971.</p> 
+  </bioghist> 
+  <arrangement id="a4" encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+	 <p>This collection is organized into one series</p>	 
+	 <list> 
+		<item>Research Materials
+		  <unitdate normal="1989/2004">1989-2004</unitdate></item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>Collection consists of research conducted by Peter Wild which explores the life and accomplishments of John C. Van Dyke, author of The Desert. The collection is comprised of Peter Wild’s interviews, notes, correspondence, photographs, research, and poetry on Van Dyke and the Mojave Desert. The collection is organized chronologically by year. Within each year’s addendum the original order created by Wild has been maintained.</p> 
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+  	<list> 
+  		<item> 
+  			<persname encodinganalog="600">Wild, Peter,1940-Archives.</persname></item> 
+  		<item> 
+  			<persname encodinganalog="600">Wild, Peter,1940-Poetry.</persname></item> 
+  		<item> 
+  			<persname encodinganalog="600">Van Dyke, John Charles,1856-1932.</persname></item> 
+  		<item> 
+  			<persname encodinganalog="600">Austin, Mary-Correspondence.</persname></item> 
+  		<item> 
+  			<persname encodinganalog="600">Powell, Lawrence Clark,1906-Research.</persname></item> 
+  		<item> 
+  			<persname encodinganalog="600">Perkins, Edna Brush..</persname></item>  	
+  		<item> 
+  			<persname encodinganalog="600">Van Dyke family-Genealogy.</persname></item> 
+  		<item> 
+  			<geogname encodinganalog= "651">Daggett (Calif.)</geogname></item> 
+  		<item> 
+  			<geogname encodinganalog= "651">Southwest, New-Description and travel.</geogname></item>
+  		<item> 
+  			<geogname encodinganalog= "650">Deserts--Southwest, New --Description and travel.</geogname></item> 
+  	</list> 
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1">  	 		
+	 		<did><unittitle> Series I:  1989</unittitle> 
+	 		</did> 
+	 	<scopecontent> 
+	 		<p>1989 begins the first year of extensive research conducted by Wild on Van Dyke.  It includes the forward for the project, outlining the reasoning and methods behind Wild’s research. The first document and the subsequent addenda include interviews and notes regarding Renee S. House, director of the Gardner A. Sage Library at the New Brunswick Theological Seminary, John W. Beardslee, Professor Emeritus at the New Brunswick Theological Seminary, and an interview conducted with Philip L. Strong, Esq., the second cousin of John C. Van Dyke.  Includes Wild’s notes to himself regarding his published and unpublished manuscripts on Van Dyke and an epilogue.</p></scopecontent>
+	 	<arrangement><p>This Collection is organized into one series: Research materials, 1989-, chronologically arranged.</p></arrangement>
+	 	<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <container type="folder">1</container> 
+		  	<unittitle>Interviews and Notes Regarding John C. Van Dyke 
+		  		<unitdate>"January 2-6, 1989"</unitdate></unittitle>
+		  </did> 
+			</c02>
+			<c02 level="file"> 
+				<did> <container type="box">1</container> 
+					<container type="folder">2</container> 
+					<unittitle>Interview and Notes Regarding John C. Van Dyke, 1989 Addendum 
+						<unitdate type="inclusive" label="Dates:" normal="19890408">April 8, 1989</unitdate></unittitle>
+				</did> 
+			</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">3</container> 
+	 			<unittitle>Peter Wild’s note to himself, 1989 Addendum
+	 				<unitdate type="inclusive" label="Dates:" normal="19890408">April 8, 1989</unitdate></unittitle>
+	 		</did> 
+	 	</c02>
+	 	</c01>
+	 	<c01 level="series"><did><unittitle> Series I: 1990</unittitle> 
+	 	</did> <scopecontent><p>The 1990 addendum sequence contains updated information on Wild’s Van Dyke research and his publications on Van Dyke for the first year.  Also included are notes on Van Dyke in relation to his Reformed Church background and his Dutch heritage. 
+	 	</p></scopecontent>
+	 		<c02 level="file"> 
+	 			<did> <container type="box">1</container> 
+	 				<container type="folder">4</container> 
+	 				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1990 Addendum
+	 					<unitdate type="inclusive" normal= "19900315">March 15, 1990</unitdate></unittitle>
+	 			</did> 
+	 			</c02>
+	 			<c02 level="file"> 
+	 				<did> <container type="box">1</container> 
+	 					<container type="folder">5</container> 
+	 					<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1990 Addendum
+	 						<unitdate type="inclusive" normal= "19900315">March 15, 1990</unitdate></unittitle>
+	 				</did> 
+	 				</c02>
+  	</c01>
+  	<c01 level="series"><did><unittitle> Series I: 1991</unittitle> 
+  	</did> <scopecontent><p>Interviews and Notes Regarding John C. Van Dyke, 1990 Addendum</p></scopecontent>
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1990 Addendum
+  					<unitdate type="inclusive" normal="19910128">January 28, 1991</unitdate></unittitle>
+  			</did> 
+  			</c02>
+  			<c02 level="file"> 
+  				<did> <container type="box">1</container> 
+  					<container type="folder">7</container> 
+  					<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1990 Addendum
+  						<unitdate type="inclusive" normal= "19910716">July 16, 1991</unitdate></unittitle>
+  				</did> 
+  			</c02> 
+  	</c01>
+  	<c01 level="series"><did><unittitle> Series I: 1992</unittitle> 
+  	</did> <scopecontent><p>The 1992 addendum sequence includes updated information regarding the publication of John C. Van Dyke’s autobiography and publications by Peter Wild. Detailed Van Dyke family information is also present. Notes also detail Van Dyke’s faked public image and background information on The Brides of Christ.  Bibliography included.     </p></scopecontent>
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke,  1992 Addendum
+  					<unitdate type="inclusive" normal= "19920226">February 26, 1992</unitdate></unittitle>
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">9</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1992 Addendum
+  					<unitdate type="inclusive" normal="19920830">August 30, 1992</unitdate></unittitle>
+  			</did> 
+  		</c02>
+  	</c01>
+  	<c01 level="series"><did><unittitle> Series I: 1993</unittitle> 
+  	</did> <scopecontent><p>Included in the 1993 addendum sequence is the publication status of the Van Dyke autobiography and Van Dyke research conducted by others.  Article, The Trip Not Taken and responses are also included.</p></scopecontent>
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">10</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke,  1992 Addendum
+  					<unitdate type="inclusive" normal= "19930529">May 20, 1993</unitdate></unittitle>
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">11</container> 
+  					<unittitle>The Journal of Arizona History: The Trip Not Taken: John C. Van Dyke, Heroic Doer or Armchair Seer? 
+  						<unitdate type="inclusive" normal= "1993">Spring 1993</unitdate>"</unittitle>
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">12</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1993 Addendum.  Research Documents (Including correspondence)
+  					<unitdate type="inclusive" normal= "199305/06">April-May 1993</unitdate> "April-May 1993"</unittitle>
+  			</did> 
+  			</c02>
+  			<c02 level="file"> 
+  				<did> <container type="box">1</container> 
+  					<container type="folder">13</container> 
+  					<unittitle>John C. Van Dyke: Our First Politically Correct Desert Writer.
+  						<unitdate type="inclusive" normal= "No date">No date</unitdate></unittitle>
+  				</did> 
+  			</c02>
+  		</c01>
+  			<c01 level="series"><did><unittitle> Series I: 1994</unittitle> 
+  			</did> <scopecontent><p>This 1994 addendum includes: Mary Austin correspondence, Lawrence Clark Powell notes on Van Dyke, updated Van Dyke notes, information on the faked trip article, and the publication status of Van Dyke’s autobiography, Wild’s first trip to Daggett (location of Van Dyke’s brothers’ ranch), notes on Van Dyke’s references to Dwarf Deer, and attachments including correspondence and research documents.  Contains a table of contents.</p>   </scopecontent>
+  				<c02 level="file"> 
+  					<did> <container type="box">1</container> 
+  						<container type="folder">14</container> 
+  						<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1994 Addendum (Pt.1) pgs. 1-262
+  							<unitdate>August 30-31, 1994</unitdate></unittitle> 					
+  					</did> 
+  				</c02>
+  				<c02 level="file"> 
+  				<did> <container type="box">1</container> 
+  					<container type="folder">15</container> 
+  					<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1994 Addendum (Pt.2) pg. 263 and attachments
+  						<unitdate>August 30-31, 1994</unitdate></unittitle> 	
+  				</did> 
+  				</c02>
+  			</c01>
+  	<c01 level="series"><did><unittitle> Series I: 1995</unittitle> 
+  	</did> <scopecontent><p> The 1995 addendum includes information on Theodore Strong Van Dyke and his son Dix, John C. Van Dyke’s older brother and nephew, including John C. Van Dyke’s trips to their ranch in Daggett.  Also included is information on Peter Wild’s 1st, 2nd, and 3rd trips to Daggett and his trip to La Jolla. Included is a table of contents and bibliography.</p>   </scopecontent>
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">16</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1995 Addendum
+  					<unitdate type="inclusive" normal ="19950201">February 1, 1995</unitdate></unittitle> 					
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">17</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1995 Addendum: Appendix: First Trip to Daggett Photographs, May 28-June 2, 1994
+  					<unitdate type="inclusive" normal= "19950301">February 1, 1995</unitdate></unittitle> 					
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">18</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1995 Addendum: Appendix: First Trip to Daggett Photographs, May 28-June 2, 1994
+  					<unitdate type="inclusive" normal= "19950201">February 1, 1995</unitdate></unittitle> 					
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">19</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1995 Part I Addendum (Pt.1) pgs.1-159 
+  					<unitdate type="inclusive" normal= "19951231">December 31,1995</unitdate></unittitle> 					
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">20</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1995 Part I Addendum (Pt.2) pgs.160-296 
+  					<unitdate type="inclusive" normal= "19951231">December 31, 1995</unitdate></unittitle> 					
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">21</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1995 Part I Addendum, Appendix: Trip to La Jolla Photographs May 8-11, 1995
+  					<unitdate type="inclusive" normal=  "19951231">December 31, 1995</unitdate></unittitle> 					
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">22</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1995 Part 2 Addendum 
+  					<unitdate type="inclusive" normal= "19951231">December 31, 1995</unitdate></unittitle> 					
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">23</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1995 Part 2 Addendum, Appendix: Third Trip to Daggett Photographs, December 21-27, 1995
+  					<unitdate type="inclusive" normal= "19951231">December 31, 1995</unitdate></unittitle>
+  			</did> 
+  		</c02>
+  	</c01>
+  	<c01 level="series"><did><unittitle> Series I: 1996</unittitle> 
+  	</did> <scopecontent><p>The 1996 addendum includes Dix Van Dyke’s papers, Peter Wild’s fourth trip to Daggett and his second trip to La Jolla.  It also includes information on the relationships between John C. Van Dyke and Peter Barker, Mary Austin, Mexico, and his brother Theodore. Includes a table of contents and bibliography.</p>   </scopecontent>
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">24</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1996 Addendum (Pt.1) pgs. 1-160
+  					<unitdate type="inclusive" normal= "19961231">December 31, 1996</unitdate></unittitle> 					
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">25</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1996 Addendum (Pt.1) pgs. 161-349
+  					<unitdate type="inclusive" normal= "19961231">December 31, 1996</unitdate></unittitle> 					
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">26</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1996 Addendum, Appendix: Fourth Trip to Daggett Photographs, May 6-10, 1996
+  					<unitdate type="inclusive" normal= "19961231">December 31, 1996</unitdate></unittitle> 					
+  			</did> 
+  			</c02>
+  			<c02 level="file"> 
+  				<did> <container type="box">1</container> 
+  					<container type="folder">27</container> 
+  					<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1996 Addendum, Appendix: Second Trip to La Jolla Photographs, June 12-16, 1996
+  						<unitdate type="inclusive" normal= "19961231">December 31, 1996</unitdate></unittitle> 					
+  				</did> 
+  			</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">28</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1996 Addendum, Appendix: John C. Van Dyke and La Noria Verde, Mexico Photographs, August 1996
+  					<unitdate type="inclusive" normal= "19961231">December 31, 1996</unitdate></unittitle> 					
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">29</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1996 Addendum, Appendix: Sage Library, New Brunswick Theological Seminary, and other sources Photographs, November 1996
+  					<unitdate type="inclusive" normal= "19961231">December 31, 1996</unitdate></unittitle> 					
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">30</container> 
+  				<unittitle> Interviews and Notes Regarding John C. Van Dyke, 1996 Addendum, Appendix: Trip to Goffs Photographs, December 25-30, 1996
+  					<unitdate type="inclusive" normal= "19961231">December 31, 1996</unitdate></unittitle> 					
+  			</did> 
+  		</c02>
+  	</c01>
+  	<c01 level="series"><did><unittitle> Series I: 1997</unittitle> 
+  	</did> <scopecontent><p>The 1997 Sequence: The first addendum includes Peter Wild’s fifth trip to Daggett, information on John C. Van Dyke, Mexico, and Pittsburgh.  Contains a comparison of inaccuracies in various reprints of The Desert as well as notes by Lawrence Clark Powell on the 1918 edition of The Desert.  The second addendum includes more John C. Van Dyke correspondence, mapping of Theodore Van Dyke’s ranch in Daggett, Wild’s sixth trip to Daggett, and more information on May Beal.  Both parts include a table of contents and a bibliography along with research documents and photographs. </p>   </scopecontent>
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">31</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1997 Part I Addendum (Pt.1) pgs. 1-143
+  					<unitdate type="inclusive" normal= "19970612">June 12, 1997</unitdate></unittitle> 					
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">32</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1997 Part I Addendum (Pt.2) pgs. 144-136
+  					<unitdate type="inclusive" normal= "19970612">June 12, 1997</unitdate></unittitle> 				
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1997 Part I Addendum, Appendix: Fifth Trip to Daggett (and Goffs) Photographs
+  					<unitdate type="inclusive" normal= "19970612">June 12, 1997</unitdate></unittitle> 				
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1997 Part I Addendum, Appendix: John C. Van Dyke and Mexico Photographs
+  					<unitdate type="inclusive" normal= "19970612">June 12, 1997</unitdate></unittitle> 				
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">3</container> 
+  				<unittitle> Interviews and Notes Regarding John C. Van Dyke, 1997 Part II Addendum (Pt.1) pgs. 1- 240
+  					<unitdate type="inclusive" normal= "19980106">January 6, 1998</unitdate></unittitle> 			
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">4</container> 
+  				<unittitle> Interviews and Notes Regarding John C. Van Dyke, 1997 Part II Addendum (Pt.2) pgs. 241-422, includes attachments
+  					<unitdate type="inclusive" normal= "19980106">January 6, 1998</unitdate></unittitle> 		
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">5</container> 
+  				<unittitle> Interviews and Notes Regarding John C. Van Dyke, 1997 Part II Addendum, Appendix: Frank Thompson, Sixth Trip to Daggett, and Mary Beal Photographs
+  					<unitdate type="inclusive" normal= "11980106">January 6, 1998</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  	</c01>
+  	<c01 level="series"><did><unittitle> Series I: 1998</unittitle> 
+  	</did> <scopecontent><p>The 1998 Sequence includes continuing research and correspondence regarding John C. Van Dyke, and a transcription of Recollections of Boy Hood Days in San Diego 1880-1995 by Dix Van Dyke.  Also included is Sequence I and II, which contains numerous poems created by Peter Wild.  Both sections of the 1998 addendum have a table of contents, bibliography, research documents, and photographs.   </p>   </scopecontent>
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1998 Part I Addendum (Pt.1) pgs. 1-203
+  					<unitdate type="inclusive" normal= "19980606">June 6, 1998</unitdate></unittitle> 					
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1998 Part I Addendum (Pt.2) pgs. 204-407
+  					<unitdate type="inclusive" normal= "19980606">June 6, 1998</unitdate></unittitle>
+  		</did> 
+  	</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1998 Part I Addendum, Appendix A-B: Includes Research Documents and Seventh Trip to Daggett Photographs
+  					<unitdate type="inclusive" normal= "19980606">June 6, 1998</unitdate></unittitle>
+  			</did> 
+  		</c02>  	
+  		<c02 level="file"> 
+  		<did> <container type="box">2</container> 
+  			<container type="folder">9</container> 
+  			<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1998 Part II Addendum (Pt.1) pgs. 1-204
+  				<unitdate type="inclusive" normal= "19990106">January 6, 1999></unitdate></unittitle>
+  		</did> 
+  		</c02>  	 				
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">10</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1998 Part II Addendum (Pt.2) pgs 205-425
+  					<unitdate type="inclusive" normal= "19990106">January 6, 1999</unitdate></unittitle>
+  			</did> 
+  		</c02>  
+  		<c02 level="file">  		
+  			<did> <container type="box">2</container> 
+  				<container type="folder">11</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1998 Part II Addendum, Appendix: A-B: Includes Research Documents and Eighth Trip to Daggett Photographs 
+  					<unitdate type="inclusive" normal= "19990106">January 6, 1999</unitdate></unittitle>
+  			</did> 
+  		</c02>
+  		</c01>
+  		<c01 level="series"><did><unittitle> Series I: 1999</unittitle> 
+  		</did> <scopecontent><p>Included is updated information of John C. Van Dyke, Daggett, and projects, information on Edna Brush Perkins author of The White Heart of the Mojave, and Peter Wild’s poetry Sequence I, II, and III. The table of contents, bibliography, and appendix can be found in both Part I and Part II of the Addendum.   </p>   </scopecontent>	
+  			<c02 level="file"> 
+  				<did> <container type="box">2</container> 
+  					<container type="folder">12</container> 
+  					<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1999 Part I Addendum (Pt.1) pgs. 1-236
+  						<unitdate type="inclusive" normal= "19990524">May 24, 1999</unitdate>></unittitle> 					
+  				</did> 
+  			</c02>
+  			<c02 level="file"> 
+  				<did> <container type="box">2</container> 
+  					<container type="folder">13</container> 
+  					<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1999 Part I Addendum (Pt.2) pgs. 237-457
+  						<unitdate type="inclusive" normal= "19990524">May 24, 1999</unitdate></unittitle> 	
+  				</did> 
+  			</c02>
+  			<c02 level="file"> 
+  				<did> <container type="box">2</container> 
+  					<container type="folder">14</container> 
+  					<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1999 Part I Addendum, Appendix A: W.S. Van Dyke’s The Lady of Daggett motion picture, 1918
+  						<unitdate type="inclusive" normal= "19990524">May 24, 1999</unitdate></unittitle> 
+  				</did> 
+  			</c02>
+  			<c02 level="file">
+  			<did> <container type="box">2</container>
+  				<container type="folder">15</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1999 Part I Addendum, Appendix B: Ninth Trip to Daggett Photographs
+  					<unitdate type="inclusive" normal= "19990524">May 24, 1999</unitdate></unittitle> 
+  			</did> 
+  			</c02>
+  			<c02 level="file">
+  			<did> <container type="box">2</container>
+  				<container type="folder">16</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1999 Part I Addendum, Appendix C: Research Documents (Includes Correspondence)
+  					<unitdate type="inclusive" normal= "19990524">May 24, 1999</unitdate></unittitle>
+  			</did> 
+  			</c02>	
+  			<c02 level="file">
+  				<did> <container type="box">3</container>
+  					<container type="folder">1</container> 
+  					<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1999 Part II Addendum 
+  						<unitdate type="inclusive" normal= "20000104"> January 4, 2000</unitdate></unittitle>
+  			  		</did> 
+  			</c02>	
+  			<c02 level="file">
+  				<did> <container type="box">3</container>
+  					<container type="folder">2</container> 
+  					<unittitle>Interviews and Notes Regarding John C. Van Dyke, 1999 Part II Addendum, Appendix A: Bodie Ghost Town Frozen in Time and Death Valley Memories motion pictures
+  						<unitdate type="inclusive" normal= "20000104">January 4, 2000</unitdate></unittitle>
+  					</did> 
+  			</c02>	
+  			<c02 level="file">
+  				<did> <container type="box">3</container>
+  					<container type="folder">3</container> 
+  					<unittitle> Interviews and Notes Regarding John C. Van Dyke, 1999 Part II Addendum, Appendix B: Research Documents (Pt.1)
+  						<unitdate type="inclusive" normal= "20000104">January 4, 2000</unitdate></unittitle>
+  				</did> 
+  			</c02>	
+  			<c02 level="file">
+  				<did> <container type="box">3</container>
+  					<container type="folder">4</container> 
+  					<unittitle> Interviews and Notes Regarding John C. Van Dyke, 1999 Part II Addendum, Appendix B: Research Documents (Pt.2)
+  						<unitdate type="inclusive" normal= "20000104">January 4, 2000</unitdate></unittitle>
+  				</did> 
+  			</c02>	
+  			<c02 level="file">
+  				<did> <container type="box">3</container>
+  					<container type="folder">5</container> 
+  					<unittitle> Interviews and Notes Regarding John C. Van Dyke, 1999 Part II Addendum, Appendix C: Jane’s Second House in Tucson (Includes Photographs)
+  						<unitdate type="inclusive" normal= "20000104">January 4, 2000</unitdate></unittitle>
+  			</did> 
+  			</c02>	
+  			<c02 level="file">
+  				<did> <container type="box">3</container>
+  					<container type="folder">6</container> 
+  					<unittitle> Interviews and Notes Regarding John C. Van Dyke, 1999 Part II Addendum, Appendix C: Lenora Helsom Photographs
+  						<unitdate type="inclusive" normal= "20000104">January 4, 2000</unitdate></unittitle>	
+  				</did> 
+  			</c02>	
+  			<c02 level="file">
+  				<did> <container type="box">3</container>
+  					<container type="folder">7</container> 
+  					<unittitle> Interviews and Notes Regarding John C. Van Dyke, 1999 Part II Addendum, Appendix C: Tenth Trip to Daggett Photographs
+  						<unitdate type="inclusive" normal= "20000104">January 4, 2000</unitdate></unittitle>			
+  				</did> 
+  			</c02>
+  			</c01>
+  			<c01 level="series"><did><unittitle> Series I: 2000</unittitle>	
+  			</did> <scopecontent><p>This addendum includes more information on John C. Van Dyke, Daggett, and Edna Brush Perkins as well as information on Wild’s trip to Smith River, and his 11th and 12th trip to Daggett.  The poem sequence III and IV are included. Addendum 2000 contains a table of contents, bibliography, and appendixes.   </p>   </scopecontent>	
+  			<c02 level="file"> 
+  				 <did> <container type="box">3</container> 
+  					<container type="folder">8</container> 
+  				 	<unittitle> Interviews and Notes Regarding John C. Van Dyke, 2000 Addendum (Pt.1) pgs. 1-167
+  				 		<unitdate type="inclusive" normal= "20010104">January 4, 2001</unitdate></unittitle>			
+  				 </did> 
+  			</c02>			
+  				<c02 level="file"> 
+  					<did> <container type="box">3</container> 
+  						<container type="folder">9</container> 
+  						<unittitle>Interviews and Notes Regarding John C. Van Dyke, 2000 Addendum (Pt.2) pgs. 168-344
+  							<unitdate type="inclusive" normal= "20010104">January 4, 2001</unitdate></unittitle>			
+  					</did> 
+  				</c02>				
+  				<c02 level="file"> 
+  					<did> <container type="box">3</container> 
+  						<container type="folder">10</container> 
+  						<unittitle>Interviews and Notes Regarding John C. Van Dyke, 2000 Addendum, Appendix A: Vital and Research Documents (Include Correspondence) (Pt.1)
+  							<unitdate type="inclusive" normal= "20010104">January 4, 2001</unitdate></unittitle>				
+  				 </did> 
+  				</c02>	
+  				<c02 level="file"> 
+  					<did> <container type="box">3</container> 
+  						<container type="folder">10</container> 
+  						<unittitle>Interviews and Notes Regarding John C. Van Dyke, 2000 Addendum, Appendix A: Vital and Research Documents (Include Correspondence) (Pt.1)
+  							<unitdate type="inclusive" normal= "20010104">January 4, 2001</unitdate></unittitle>				
+  					</did> 
+  				</c02>	
+  				<c02 level="file"> 
+  					<did> <container type="box">3</container> 
+  						<container type="folder">11</container> 
+  						<unittitle>Interviews and Notes Regarding John C. Van Dyke, 2000 Addendum, Appendix A: Vital and Research Documents (Includes Correspondence) (Pt.2)
+  							<unitdate type="inclusive" normal= "20010104">January 4, 2001</unitdate></unittitle>				
+  					</did> 
+  				</c02>	
+  				<c02 level="file"> 
+  					<did> <container type="box">3</container> 
+  						<container type="folder">12</container> 
+  						<unittitle>Interviews and Notes Regarding John C. Van Dyke, 2000 Addendum, Appendix B: Smith River, Eleventh, and Twelfth Trips to Daggett Photographs
+  							<unitdate type="inclusive" normal= "20010104">January 4, 2001</unitdate></unittitle>				
+  					</did> 
+  				</c02>
+  			</c01>
+  	<c01 level="series"><did><unittitle> Series I: 2001</unittitle> 
+  	</did> <scopecontent><p>This addendum contains updated information on John C. Van Dyke, Daggett, and Edna Brush Perkins, a discussion of the Second Trip to Smith River and the 15th Trip to Daggett, poetry by Peter Wild in sequence IV and a table of contents, bibliography, and appendixes.  </p>   </scopecontent>	
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">13</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 2001 Addendum 
+  					<unitdate type="inclusive" normal= "20020104">January 4, 2002</unitdate></unittitle> 					
+  			</did> 
+  		</c02>	
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">14</container> 
+  				<unittitle> Interviews and Notes Regarding John C. Van Dyke, 2001 Addendum, Appendix A: Research Documents (Includes Correspondence)
+  					<unitdate type="inclusive" normal= "20020104">January 4, 2002</unitdate></unittitle>				
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">15</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 2001 Addendum, Appendix B: Fourteenth Trip to Daggett Photographs  
+  					<unitdate type="inclusive" normal= "20020104">January 4, 2002</unitdate></unittitle>				
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">16</container> 
+  				<unittitle> Interviews and Notes Regarding John C. Van Dyke, 2001 Addendum, Appendix B: Fifteenth Trip to Daggett and John C. Van Dyke Exhibit at Special Collections Photographs
+  					<unitdate type="inclusive" normal= "20020104">January 4, 2002</unitdate></unittitle>				
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">17</container> 
+  				<unittitle> Interviews and Notes Regarding John C. Van Dyke, 2001 Addendum, Appendix B: Miscellaneous Photographs
+  					<unitdate type="inclusive" normal= "20020104">January 4, 2002</unitdate></unittitle>				
+  			</did> 
+  		</c02>
+  	</c01>
+  	<c01 level="series"><did><unittitle> Series I: 2002</unittitle> 
+  	</did> <scopecontent><p>Included is updated information on John C. Van Dyke, Daggett, and Edna Brush Perkins.  Notes regarding the 16th and 17th trips to Daggett are also included.  Peter Wild’s poetry, Sequence IV continues in this addendum. Addendum 2002 also contains a table of contents, bibliography, and appendixes.      </p></scopecontent>	
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">18</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 2002 Addendum 
+  					<unitdate type="inclusive" normal= "20030110">January 10, 2003</unitdate></unittitle> 					
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">19</container> 
+  				<unittitle> Interviews and Notes Regarding John C. Van Dyke, 2002 Addendum, Appendix A: Warren’s Well Dedication Ceremony video, May 5, 2002
+  					<unitdate type="inclusive" normal= "20030110">January 10, 2003</unitdate></unittitle>				
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">20</container> 
+  				<unittitle> Interviews and Notes Regarding John C. Van Dyke, 2002 Addendum, Appendix A: Marshall South Family on Ghost Mountain video, February 15, 2003
+  					<unitdate type="inclusive" normal= "20030110">January 10, 2003</unitdate></unittitle>				
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 2002 Addendum, Appendix A: Possum Trot video, February 23, 2003 
+  					<unitdate type="inclusive" normal= "20030110">January 10, 2003</unitdate></unittitle>				
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 2002 Addendum, Appendix B: Research Documents (Includes Correspondence) (Pt.1)
+  					<unitdate type="inclusive" normal= "20030110">January 10, 2003</unitdate></unittitle>				
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">3</container> 
+  				<unittitle> Interviews and Notes Regarding John C. Van Dyke, 2002 Addendum, Appendix B: Research Documents (Includes Correspondence) (Pt.2)
+  					<unitdate type="inclusive" normal= "20030110">January 10, 2003</unitdate></unittitle>	
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 2002 Addendum, Appendix C: Sixteenth and Seventeenth Trips to Daggett Photographs
+  					<unitdate type="inclusive" normal= "20030110">January 10, 2003</unitdate></unittitle>	
+  			</did> 
+  		</c02>
+  	</c01>
+  	<c01 level="series"><did><unittitle> Series I: 2003</unittitle> 
+  	</did> <scopecontent><p> This addendum contains: updated materials on John C. Van Dyke, Daggett, and Edna Brush Perkins, notes regarding the 18th trip to Daggett and a trip to Palm Springs, and Wild’s poetry, Sequence IV.  Addendum 2003 also contains a table of contents, bibliography, and Appendixes, A-E.   Appendix A chiefly includes correspondence and photocopied newspaper clippings.  The majority of the correspondence includes email communication between Ann Jopenga and Peter Wild.  Appendix B, Part 1 and 2 include Ann Jopenga’s notes on L.A. Times article of January 6, 2002, her notes regarding Marshall South, and her interview with Rider South in 2001. Appendix C includes a movie on CD of Marshall South’s family around 1945/46. Appendix D includes information on the Historic Daggett Garage and corresponding photographs taken on May 2, 2003.  Appendix E includes photos from the 18th trip to Daggett May 11-21, 2003 and photographs from a trip to Palm Springs on December 19-27, 2003.</p></scopecontent>	
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 2003 Addendum (Pt.1) pgs. 1-129.
+  					<unitdate type="inclusive" normal= "200040105">January 5, 2004</unitdate></unittitle> 					
+  			</did> 
+  		</c02>	
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 2003 Addendum (Pt. 2) pgs 130-240.
+  					<unitdate type="inclusive" normal= "20040105">January 5, 2004</unitdate></unittitle> 					
+  			</did> 
+  		</c02>	
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 2003 Addendum, Appendix A: Research Documents (includes correspondence) (Pt. 1).
+  					<unitdate type="inclusive" normal= "20040105">January 5, 2004</unitdate></unittitle> 
+  			</did> 
+  		</c02>	
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 2003 Addendum, Appendix A: Research Documents (includes correspondence) (Pt. 2).
+  					<unitdate type="inclusive" normal= "20040105">January 5, 2004</unitdate></unittitle>
+  			</did> 
+  		</c02>	
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">9</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 2003 Addendum, Appendix B: Ann Jopenga’s notes (Pt.1).
+  					<unitdate type="inclusive" normal= "20040105">January 5, 2004</unitdate></unittitle>
+  				</did> 
+  		</c02>	
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">10</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 2003 Addendum, Appendix B: Ann Jopenga’s notes (Pt. 2).
+  					<unitdate type="inclusive" normal= "20040105">January 5, 2004</unitdate></unittitle>		
+  			</did>
+  		</c02>	
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">11</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 2003 Addendum, Appendix C: CD movie of the Marshall South Family.
+  					<unitdate type="inclusive" normal= "20040105">January 5, 2004</unitdate></unittitle>	
+  			</did>
+  		</c02>	
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">12</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 2003 Addendum, Appendix D: Historic Daggett Garage (includes photographs). 
+  					<unitdate type="inclusive" normal= "20050105"></unitdate>January 5, 2004></unittitle>	
+  			</did>
+  		</c02>	
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">13</container> 
+  				<unittitle>Interviews and Notes Regarding John C. Van Dyke, 2003 Addendum, Appendix E: 18th trip to Daggett and trip to Palm Springs.
+  					<unitdate type="inclusive" normal= "20040105">January 5, 2004</unitdate></unittitle>		
+  			</did>
+  		</c02>	
+  		</c01>
+  </dsc> 
+</archdesc></ead>

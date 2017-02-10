@@ -1,0 +1,1030 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21">
+<eadheader audience="internal" findaidstatus="edited-full-draft" langencoding="ISO_639-2b"
+      repositoryencoding="iso15511" scriptencoding="iso15924" dateencoding="iso8601"
+      countryencoding="iso3166-1">
+   <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special Collections//text(US::AzU::Francisco Vazques-gomez Collection//en""UAMS450.xml"</eadid>
+<filedesc>
+<titlestmt>
+<titleproper encodinganalog="245">Francisco Vazquez-Gomez Collection<date encodinganalog="245$f" type="1885/1976">1885-1976(bulk 1907-1920)</date>
+<num>MS 450</num>
+</titleproper>
+<author audience="internal">Processed by Helen F. Quihuis</author>
+</titlestmt>
+   <publicationstmt> 
+      <publisher>University of Arizona Libraries, Special Collections</publisher> 
+      <address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		  		</address> 
+      <date normal="2011">&#x00A9; 2011</date> 
+      <p>Arizona Board of Regents. All Rights Reserved.</p> 
+   </publicationstmt> 
+</filedesc>
+<profiledesc>
+         <creation>Machine-readable finding guide and skeletal markup derived via template; markup checked and completed by Helen F. Quihuis, 
+            <date era="ce" calendar="gregorian">February 2011</date>
+         </creation>
+         <langusage>Finding guide is in <language langcode="eng">English.</language>
+         </langusage>
+</profiledesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<unittitle type="">Francisco Vazquez-Gomez Collection
+            <unitdate type="inclusive" normal="1885/1976">1885-1976</unitdate>
+             <unitdate type="bulk" normal="1907/1920">1907-1920</unitdate>
+</unittitle>
+ <unitid encodinganalog="099">Collection Number: MS 450</unitid>
+   <origination label="Creator:"><persname encodinganalog="100">Vazquez-Gomez,Francisco</persname></origination>
+ <physdesc><extent encodinganalog="300">5.0</extent></physdesc>
+ <abstract encodinganalog="520">Personal papers including a Citation Index, news clippings, articles, pamphlets, correspondence, mostly photo stats of materials pertaining to the Mexican Revolution, 1907-1920, during the years of Dr. Francisco Vazquez-Gomez’s political activity. Some original, handwritten materials and 35 millimeter films are included. The bulk of the material consists of copies of newspaper clippings about key figures of the Mexican Revolution, compiled by Dr. Vazquez-Gomez and used in the course of writing his book “Memorias Politicas, 1909-1913”. Biographical material and correspondence of Dr. Francisco Vazquez-Gomez, and his son, Ignacio Vazquez Gomez is included. His son, Dr. Ignacio Vazquez-Gomez continued to add to the research materials through the 1970s. Bulk of the material is in Spanish.
+ </abstract>
+ <langmaterial> Materials are in 
+            <language langcode="eng" encodinganalog="546">English</language> and 
+            <language langcode="spa">Spanish</language>
+ </langmaterial>
+ <repository label="Repository:"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+               <addressline>PO Box 210055</addressline> 
+               <addressline>Tucson, AZ 85721-0055</addressline> 
+               <addressline>Phone: 520-621-6423</addressline> 
+               <addressline>Fax: 520-621-9733</addressline> 
+               <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+</address></repository> 
+</did>
+   <descgrp type="admininfo">
+         <accessrestrict encodinganalog="506">
+            <p>None</p>
+         </accessrestrict>
+         <userestrict encodinganalog="540">
+            <p>It is the responsibility of the user to obtain permission to publish from the owner of the copyright (the institution, the creator of the record, the author or his/her transferees, heirs, legates, or literary executors).  The user agrees to indemnify and hold harmless the Arizona Board of Regents for the University of Arizona, its officers, employees, and agents from and against all claims made by any person asserting that he or she is an owner of copyright.</p>
+         </userestrict>    
+         <prefercite encodinganalog="524">
+            <p>Francisco Vazquez-Gomez Collection (MS 450). Special Collections, University of Arizona Libraries.</p>
+         </prefercite>
+         <relatedmaterial>
+            <p>Francisco Vazquez Gomez Papers 1906-1940, Special Collections Research Center, Southern Illinois University Carbondale.</p>
+         </relatedmaterial>
+   </descgrp>
+  <bioghist><head>Biographical Note</head>
+         <p>Francisco Vazquez-Gomez was born September 23, 1860 in Tula, in the state of Tamaulipas, Mexico, died August 16, 1933 in Mexico City, Mexico. Vazquez-Gomez became a physician in 1889 after attending the National School of Medicine in Mexico City. He served as Minister of Education during the presidency of Porfirio Diaz in addition to being his physician and physician to the Madero family of Coahuila. He married Guadalupe Norma in 1890 and together they had ten children. In 1908 along with his brother, Emilio, he joined the Anti-Reelectionist party that opposed and eventually ousted President Diaz. He supported Francisco Madero and Emiliano Zapata in their respective revolutionary efforts for agrarian reform. He became a candidate for vice-president of Mexico on the 1910 ticket that included Francisco Madero as candidate for president. After a falling out with Madero he was removed as vice-presidential candidate and was assigned as Madero’s representative in Washington, D.C. from 1911 to 1913. He later joined Pascual Orozco and his “Colorados” in their rebellion against Madero. Vazquez-Gomez fell out of favor when Victoriano Huerta had Francisco Madero assassinated and ascended to power.  In 1914 he was exiled by Huerta and settled in Bexar County, Texas in the United States where he practiced medicine until 1923. He returned to Mexico in 1923 where he was a Professor of Pathology at the National School of Medicine. He wrote “Memorias Politicas, 1909-1913” about his experiences in the Mexican Revolution which was published in 1933, the year of his death. </p>
+      </bioghist>
+  <arrangement encodinganalog="351$a">
+         <p>This collection is organized into 4 series.</p>
+     <list><item>Series I: Research Materials<unitdate label="1907/1976">1907-1976</unitdate></item>
+        <item>Subseries 1:  Citation Index <unitdate normal="1906/1958">1906-1958</unitdate></item>
+        <item>Subseries 2:  Mexican Revolution<unitdate normal="1907/1976">1907-1976</unitdate></item>
+        <item>Subseries 3:  People</item>
+        <item>Subseries 4:  Subjects</item>
+        <item>Series II: Correspondence<unitdate normal="1911/1965">1911-1965</unitdate></item>
+        <item>Subseries 1: Francisco Vazquez-Gomez<unitdate normal="1911/1933"> 1911-1933</unitdate></item>
+        <item>Subseries 2: Ignacio Vazquez-Gomez<unitdate normal="1930/1965">1930-1965</unitdate></item>
+        <item>Series III: Biographical Materials<unitdate normal="1882/1965">1882-1965</unitdate></item>
+        <item>Subseries 1: Emilio Vazquez-Gomez<unitdate normal="1909/1924">1909-1924</unitdate></item>
+        <item>Subseries 2: Francisco Vazquez-Gomez<unitdate normal="1909/1965">1909-1965</unitdate></item>
+        <item>Subseries 3: Ignacio Vazquez-Gomez<unitdate normal="1898/1945">1898-1945</unitdate></item>
+        <item>Series IV: Oversize Materials, Films <unitdate normal="1885/1914">1885-1914</unitdate></item>
+   </list>     
+      </arrangement>
+  <scopecontent>
+         <p>Citation Index, Research materials, Correspondence, Biographical materials, 35 millimeter film, pamphlets and broadsides. The bulk of the collection is about the Mexican Revolution during the years 1909-1920 compiled by Dr. Francisco Vazquez-Gomez and used to write his book “Memorias Politicas, 1909-1913” which was published in 1933. Many clippings are copies of correspondence in the form of telegrams, some in code, between revolutionaries and key political figures at the time such as Francisco Madero and Venustiano Carranza. There are also articles by and about prominent advocates for social, educational, and agrarian reform such as Jose Vanconcelos, Jose Limantour and Emiliano Zapata. The original collection is at Special Collections Research Center, Southern Illinois University Carbondale “Francisco Vazquez Gomez Papers 1906-1940”</p>
+      </scopecontent>
+ <controlaccess>
+         <persname encodinganalog="600" source="lcnaf">Carranza, Venustiano, 1859-1920</persname> 
+         <persname encodinganalog="600" source="lcnaf">Diaz, Porfirio, 1830-1915</persname>
+         <persname encodinganalog="600" source="lcanf">Huerta, Victoriano, 1845-1916</persname>
+         <persname encodinganalog="600" source="lcnaf">Madero, Francisco I., 1873-1913</persname>
+         <persname encodinganalog="600" source="local">Vazquez Gomez, Emilio, 1858-1926</persname>
+         <persname encodinganalog="600" source="lcnaf">Vazquez Gomez, Francisco, 1860-1933</persname>
+         <persname encodinganalog="600" source="local">Vazquez Gomez, Ignacio, b. 1898</persname>
+         <persname encodinganalog="600" source="lcnaf">Villa, Pancho, 1878-1923</persname>
+         <persname encodinganalog="600" source="lcnaf">Zapata, Emiliano, 1879-1919</persname>
+         <title encodinganalog="630" source="lcnaf">Plan de Ayala (1911)--Broadsides</title>
+         <title encodinganalog="630" source="local">Plan de la Montana (1885)--Broadsides</title>
+         <geogname encodinganalog="651" source="lcsh">Mexico--History--Decena Tragica, 1913</geogname>
+         <geogname encodinganalog="651" source="lcsh">Mexico--History--Revolution, 1910-1920</geogname>     
+ </controlaccess>
+<dsc type="combined">
+   <head>Container List</head> 
+   <c01 level="series">
+      <did><unittitle>Series I:  Research Materials,</unittitle>
+         <unitdate type="inclusive" normal="1907/1976">1907-1976</unitdate></did>   
+<arrangement><p>This series is arranged chronologically by Citation Index and Research Materials on the Mexican Revolution, then alphabetically by People, Subjects.</p></arrangement>            
+   <c02 level="subseries">
+<did><unittitle>Subseries 1: Citation Index</unittitle>
+   <unitdate type="inclusive" normal="190601/191001">January 1906-1910</unitdate></did>
+<c03 level="file"><did><unittitle>Citation Index, </unittitle>
+   <unitdate normal="190601/191008">January 1906-August 1910</unitdate>
+   <container type="box">1</container>
+   <container type="folder">1</container></did></c03>
+<c03 level="file"><did><unittitle>Citation Index, </unittitle>
+   <unitdate normal="191008/191102">August 1910-February 1911</unitdate>
+   <container type="box">1</container>
+   <container type="folder">2</container></did></c03>
+<c03 level="file"><did><unittitle>Citation Index, </unittitle>
+   <unitdate normal="1914/1952">January 1914-1952</unitdate>
+<unitdate normal="1958">1958</unitdate>   
+   <container type="box">1</container>
+   <container type="folder">3</container></did></c03>
+<c03 level="file"><did><unittitle>Archivo Octavio Magana Cerda, </unittitle>
+   <unitdate normal="191107/191111">July-November 1911</unitdate>
+   <container type="box">1</container>
+   <container type="folder">4</container></did>
+</c03></c02>
+   
+<c02 level="subseries">
+<did><unittitle>Subseries 2: Mexican Revolution</unittitle>
+   <unitdate type="inclusive" normal="1907/1976">1907-1976</unitdate></did>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="190705">May 1907</unitdate>
+   <container type="box">1</container>
+   <container type="folder">5</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="190803">March 1908</unitdate>
+   <container type="box">1</container>
+   <container type="folder">6</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="190908">August 1909</unitdate>
+   <container type="box">1</container>
+   <container type="folder">7</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="190909">September 1909</unitdate>
+   <container type="box">1</container>
+   <container type="folder">8</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="190912">December 1909</unitdate>
+   <container type="box">1</container>
+   <container type="folder">9</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="1910">1910</unitdate>
+   <container type="box">1</container>
+   <container type="folder">10</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="191003">March 1910</unitdate>
+   <container type="box">1</container>
+   <container type="folder">11</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="191004">April 1910</unitdate>
+   <container type="box">1</container>
+   <container type="folder">12</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="191005">May 1910</unitdate>
+   <container type="box">1</container>
+   <container type="folder">13</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="191006">June 1910</unitdate>
+   <container type="box">1</container>
+   <container type="folder">14</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="191007">July 1910</unitdate>
+   <container type="box">1</container>
+   <container type="folder">15</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="191008">August 1910</unitdate>
+   <container type="box">1</container>
+   <container type="folder">16</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <container type="box">1</container>
+   <container type="folder">17</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="191010">October 1910</unitdate>
+   <container type="box">1</container>
+   <container type="folder">18</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="191011">November 1910</unitdate>
+   <container type="box">1</container>
+   <container type="folder">19</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="191012">December 1910</unitdate>
+   <container type="box">1</container>
+   <container type="folder">20</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, </unittitle>
+   <unitdate normal="191101">January 1911</unitdate> 
+   <container type="box">1</container>
+   <container type="folder">21</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, </unittitle>
+   <unitdate normal="191102">February 1911</unitdate>
+   <container type="box">1</container>
+   <container type="folder">22</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="191103">March 1911</unitdate>
+   <container type="box">1</container>
+   <container type="folder">23</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19110401/19110415">April 1-15, 1911</unitdate>
+   <container type="box">1</container>
+   <container type="folder">24</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, </unittitle>
+   <unitdate normal="19110416/19110423">April 16-23, 1911</unitdate>
+   <container type="box">1</container>
+   <container type="folder">25</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19110424/19110430">April 24-30, 1911</unitdate>
+   <container type="box">1</container>
+   <container type="folder">26</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19110501/19110509">May 1-9, 1911</unitdate>
+   <container type="box">1</container>
+   <container type="folder">27</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19110510/19110513">May 10-13, 1911</unitdate>
+   <container type="box">1</container>
+   <container type="folder">28</container></did></c03> 
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19110514/19110519">May 14-19, 1911</unitdate>
+   <container type="box">1</container>
+   <container type="folder">29</container></did></c03>
+
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19110520/19110521">May 20-21, 1911</unitdate>
+   <container type="box">2</container>
+   <container type="folder">1</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19110522/19110525">May 22-25, 1911</unitdate>
+   <container type="box">2</container>
+   <container type="folder">2</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19110526/19110531">May 26-31, 1911</unitdate>
+   <container type="box">2</container>
+   <container type="folder">3</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="191106">June 1911</unitdate>
+   <container type="box">2</container>
+   <container type="folder">4</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,
+</unittitle>
+   <unitdate normal="19110701/19110710">July 1-10, 1911</unitdate>
+   <container type="box">2</container>
+   <container type="folder">5</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19110711">July 11-15, 1911</unitdate>
+   <container type="box">2</container>
+   <container type="folder">6</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19110716/19110719">July 16-19, 1911</unitdate>
+   <container type="box">2</container>
+   <container type="folder">7</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19110720/19110724">July 20-24, 1911</unitdate>
+   <container type="box">2</container>
+   <container type="folder">8</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19110725/19110728">July 25-28, 1911</unitdate>
+   <container type="box">2</container>
+   <container type="folder">9</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19110729/19110731">July 29-31, 1911</unitdate>
+   <container type="box">2</container>
+   <container type="folder">10</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19110801/19110815">August 1-15, 1911</unitdate>
+   <container type="box">2</container>
+   <container type="folder">11</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19110816/19110831">August 16-31, 1911</unitdate>
+   <container type="box">2</container>
+   <container type="folder">12</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19110901/19110903">September 1-3, 1911</unitdate>
+   <container type="box">2</container>
+   <container type="folder">13</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19110904/19110906">September 4-6, 1911</unitdate>
+   <container type="box">2</container>
+   <container type="folder">14</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19110907/19110909">September 7-9, 1911</unitdate>
+   <container type="box">2</container>
+   <container type="fodler">15</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19110910/19110930">September 10-30, 1911</unitdate> 
+   <container type="box">2</container>
+   <container type="folder">16</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19111001/19111004">October 1-4, 1911</unitdate>
+   <container type="box">2</container>
+   <container type="folder">17</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19111005/19111008">October 5-8, 1911</unitdate>
+   <container type="box">2</container>
+   <container type="folder">18</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19111009/19111015">October 9-15, 1911</unitdate>
+   <container type="box">2</container>
+   <container type="folder">19</container></did></c03>
+
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19111016/19111024">October 16-24, 1911</unitdate>
+   <container type="box">3</container>
+   <container type="folder">1</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, </unittitle>
+   <unitdate normal="19111025/19111029">October 25-29, 1911</unitdate>
+   <container type="box">3</container>
+   <container type="folder">2</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19111030/19111031">October 30-31, 1911</unitdate>
+   <container type="box">3</container>
+   <container type="folder">3</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate>November 1911</unitdate>
+   <container type="box">3</container>
+   <container type="folder">4</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19111201/19111209">December 1-9, 1911</unitdate>
+   <container type="box">3</container>
+   <container type="folder">5</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19111210/19111215">December 10-15, 1911</unitdate>
+   <container type="box">3</container>
+   <container type="folder">6</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, </unittitle>
+   <unitdate normal="19111216/19111225">December 16-25, 1911</unitdate>
+   <container type="box">3</container>
+   <container type="folder">7</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19111226/19111231">December 26-31, 1911</unitdate>
+   <container type="box">3</container>
+   <container type="folder">8</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="1912">1912</unitdate>
+   <container type="box">3</container>
+   <container type="folder">9</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, </unittitle>
+   <unitdate normal="191201">January 1912</unitdate>
+   <container type="box">3</container>
+   <container type="folder">10</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, </unittitle>
+   <unitdate normal="191202">February 1912</unitdate>
+   <container type="box">3</container>
+  <container type="folder">11</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="191203">March 1912</unitdate>
+   <container type="box">3</container>
+   <container type="folder">12</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="191204">April 1912</unitdate>
+   <container type="box">3</container>
+   <container type="fodler">13</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="191205">May 1912</unitdate>
+   <container type="box">3</container>
+   <container type="folder">14</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="191206">June 1912</unitdate>
+   <container type="box">3</container>
+   <container type="folder">15</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="191207">July 1912</unitdate>
+   <container type="box">3</container>
+   <container type="folder">16</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="191208">August 1912</unitdate>
+   <container type="box">3</container>
+   <container type="folder">17</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="191209">September 1912</unitdate>
+   <container type="box">3</container>
+   <container type="folder">18</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="191210">October 1912</unitdate>
+   <container type="box">3</container>
+   <container type="folder">19</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="191211">November 1912</unitdate>
+   <container type="box">3</container>
+   <container type="folder">20</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="191212">December 1912</unitdate>
+   <container type="box">3</container>
+   <container type="folder">21</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19130101/19130110">January 1-10, 1913</unitdate>
+   <container type="box">3</container>
+   <container type="folder">22</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19130111/19130131">January 11-31, 1913</unitdate>
+   <container type="box">3</container>
+   <container type="folder">23</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19130201/19130218">February 1-18, 1913</unitdate>
+   <container type="box">3</container>
+   <container type="folder">24</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19130219">February 19, 1913</unitdate>
+   <container type="box">3</container>
+   <container type="folder">25</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19130220/19130224">February 20-24, 1913</unitdate>
+   <container type="box">3</container>
+   <container type="folder">26</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19130225/19130228">February 25-28, 1913</unitdate>
+   <container type="box">3</container>
+   <container type="folder">27</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19130301/19130315">March 1-15, 1913</unitdate>
+   <container type="box">3</container>
+   <container type="folder">28</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19130316/19130331">March 16-31, 1913</unitdate>
+   <container type="box">3</container>
+   <container type="folder">29</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19130401/19130422">April 1-22, 1913</unitdate>
+   <container type="box">3</container>
+   <container type="folder">30</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19130423/19130430">April 23-30, 1913</unitdate>
+   <container type="box">3</container>
+   <container type="folder">31</container></did></c03>
+
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19130501/19130515">May 1-15, 1913</unitdate>
+   <container type="box">4</container>
+   <container type="folder">1</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19130516/19130531">May 16-31, 1913</unitdate>
+   <container type="box">4</container>
+   <container type="folder">2</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19130601/19130615">June 1-15, 1913</unitdate>
+   <container type="box">4</container>
+   <container type="folder">3</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19130516/19130630">June 16-30, 1913</unitdate>
+   <container type="box">4</container>
+   <container type="folder">4</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="191307">July 1913</unitdate>
+   <container type="box">4</container>
+   <container type="folder">5</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="19130801/19130820">August 1-20, 1913</unitdate>
+   <container type="box">4</container>
+   <container type="folder">6</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>August 21-31, 1913</unitdate></unittitle>
+   <container type="box">4</container>
+   <container type="folder">7</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="191309">September 1913</unitdate>
+   <container type="box">4</container>
+   <container type="folder">8</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="191310">October 1913</unitdate>
+   <container type="box">4</container>
+   <container type="folder">9</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate normal="191311">November 1913</unitdate>
+   <container type="box">4</container>
+   <container type="folder">10</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution,</unittitle>
+   <unitdate>December 1913</unitdate>
+   <container type="box">4</container>
+   <container type="folder">11</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>January 1914</unitdate></unittitle>
+   <container type="box">4</container>
+   <container type="folder">12</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>February 1914</unitdate></unittitle>
+   <container type="box">4</container>
+   <container type="folder">13</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>March 1914</unitdate></unittitle>
+   <container type="box">4</container>
+   <container type="folder">14</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>April 1-23, 1914</unitdate></unittitle>
+   <container type="box">4</container>
+   <container type="folder">15</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>April 24-25,1914</unitdate></unittitle>
+   <container type="box">4</container>
+   <container type="folder">16</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>April 26-28, 1914</unitdate></unittitle>
+   <container type="box">4</container>
+   <container type="folder">17</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>April 29-30, 1914</unitdate></unittitle>
+   <container type="box">4</container>
+   <container type="folder">18</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>May 1914</unitdate></unittitle>
+   <container type="box">4</container>
+   <container type="folder">19</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>June 1914</unitdate></unittitle>
+   <container type="box">4</container>
+   <container type="folder">20</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>July 1914</unitdate></unittitle>
+   <container type="box">4</container>
+   <container type="folder">21</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>August 1914</unitdate></unittitle>
+   <container type="box">4</container>
+   <container type="folder">22</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>September 1914</unitdate></unittitle>
+   <container type="box">4</container>
+   <container type="folder">23</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>October 1914</unitdate></unittitle>
+   <container type="box">4</container>
+   <container type="folder">24</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>November 1914</unitdate></unittitle>
+   <container type="box">4</container>
+   <container type="folder">25</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>December 1914</unitdate></unittitle>
+   <container type="box">4</container>
+   <container type="folder">26</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>January 1915</unitdate></unittitle>
+   <container type="box">4</container>
+   <container type="folder">27</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>February 1915</unitdate></unittitle>
+   <container type="box">4</container>
+   <container type="folder ">28</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>March 1915</unitdate></unittitle>
+   <container type="box">4</container>
+   <container type="folder">29</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>April 1915</unitdate></unittitle>
+   <container type="box">4</container>
+   <container type="folder">30</container></did></c03>
+
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>May 1915</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">1</container></did></c03>   
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>June 1915</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">2</container></did></c03>    
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>July 1915</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">3</container></did></c03>   
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>October 1915</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">4</container></did></c03>   
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>March 1916</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">5</container></did></c03>   
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>April 1916</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">6</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>May 1916</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">7</container></did></c03>   
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>June 1916</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">8</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>July 1916</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">9</container></did></c03>   
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>August 1916</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">10</container></did></c03>   
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>September 1916</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">11</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>October 1916</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">12</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>November 1916</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">13</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>December 1916</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">14</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>January 1917</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">15</container></did></c03>  
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>February 1917</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">16</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>March 1917</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">17</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>April 1917</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">18</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>May 1917</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">19</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>July 1917</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">20</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>September 1917</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">21</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>October 1917</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">22</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>November-December 1917</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">23</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>1918</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">24</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>February-April 1918</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">25</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>July-August 1918</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">26</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>October-November 1918</unitdate>
+</unittitle><container type="box">5</container>
+   <container type="folder">27</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>December 1918</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">28</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>January 1919</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">29</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>February 1919</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">30</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>April 1919</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">31</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>May-June 1919</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">32</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>July 1919</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">33</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>August 1919</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">34</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>September 1919</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">35</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>October-December 1919</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">36</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>January 1920</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">37</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>February 1920</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">38</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>March-April 1920</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">39</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>May 1920</unitdate></unittitle>
+   <container type="box">5</container>
+   <container type="folder">40</container></did></c03>
+
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>June, August 1920</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">1</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>October, December 1920</unitdate>
+</unittitle><container type="box">6</container>
+   <container type="folder">2</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>January-February 1921</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">3</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>April-May 1921</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">4</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>June-July 1921</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">5</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>August-October, December 1921</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">6</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>January, May, October, November 1922</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">7</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>December 1923</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">8</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>January, August 1924</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">9</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>August 1927</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">10</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>October 1928</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">11</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>July 1929</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">12</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>August, September, November, December 1930</unitdate>
+</unittitle><container type="box">6</container>
+   <container type="folder">13</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>February 1931</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">14</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>November 1932</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">15</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>February, March-June 1933</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">16</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>April 1934</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">17</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>June-July, December 1935</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">18</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>December 1937</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">19</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>February 1939</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">20</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>February 1940</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">21</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>June 1944</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">22</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>1945</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">23</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>1946</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">24</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>June 1949</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">25</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>November 1951</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">26</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>November 1952</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">27</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>July 1953</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">28</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>April, June 1954</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">29</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>July-August 1955</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">30</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>May-June, October 1958</unitdate>
+</unittitle><container type="box">6</container>
+   <container type="folder">31</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>1959</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">32</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>July-October 1960</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">33</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>November 1961</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">34</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>February-March, August-September 1962</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">35</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>February-March, August 1963</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">36</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>June, September, November 1964</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">37</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>October 1965</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">38</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>1966</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">39</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>January-February 1967</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">40</container></did></c03>   
+   <c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>January-February, June, August-October 1969</unitdate></unittitle>
+      <container type="box">6</container>
+      <container type="folder">41</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>March, May 1970</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">42</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>June-August 1970</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">43</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>September 1970</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">44</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>October 1970</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">45</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>November 1970</unitdate>
+</unittitle><container type="box">6</container>
+   <container type="folder">46</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>December 1970</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">47</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>January-March 1971</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">48</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>April 1971</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">49</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>June 1971</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">50</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>July-November 1971</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">51</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>March 1973</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">52</container></did></c03>
+<c03 level="file"><did><unittitle>Mexican Revolution, <unitdate>1976</unitdate></unittitle>
+   <container type="box">6</container>
+   <container type="folder">53</container></did></c03>
+</c02>      
+<c02 level="subseries">
+   <did><unittitle>Subseries 3:  People</unittitle></did>
+   <c03 level="file"><did><unittitle>Almazan, Juan Andreu,<unitdate>1891-1965</unitdate></unittitle>
+      <container type="box">6</container>
+      <container type="folder">54</container></did></c03>
+   <c03 level="file"><did><unittitle>Barra, Francisco L. de la (Francisco Leon),<unitdate>1863-1939</unitdate></unittitle>
+      <container type="box">6</container>
+      <container type="folder">55</container></did></c03>
+   <c03 level="file"><did><unittitle>Barreda, Gabino<unitdate>1818-1881</unitdate></unittitle>
+      <container type="box">6</container>
+      <container type="folder">56</container></did></c03>
+   <c03 level="file"><did><unittitle>Beteta, Ramon</unittitle><container type="box">6</container>
+      <container type="folder">57</container></did></c03>
+   <c03 level="file"><did><unittitle>Cabrera, Luis<unitdate>1876-1954</unitdate></unittitle>
+      <container type="box">6</container>
+      <container type="folder">58</container></did></c03>
+   <c03 level="file"><did><unittitle>Calero, Manuel,<unitdate>1868-1929</unitdate></unittitle>
+      <container type="box">6</container>
+      <container type="folder">59</container></did></c03>
+   <c03 level="file"><did><unittitle>Carranza, Venustiano,<unitdate>1859-1920</unitdate></unittitle>
+      <container type="box">6</container>
+      <container type="folder">60</container></did></c03>
+   <c03 level="file"><did><unittitle>Caso, Antonio<unitdate>1883-1946</unitdate></unittitle>
+      <container type="box">6</container>
+      <container type="folder">61</container></did></c03>
+   <c03 level="file"><did><unittitle>Cosio Robelo, Francisco,<unitdate>b. 1880</unitdate></unittitle>
+      <container type="box">6</container>
+      <container type="folder">62</container></did></c03>
+     <c03 level="file"><did><unittitle>Huerta, Jorge</unittitle>
+      <container type="box">7</container>
+      <container type="folder">1</container></did></c03>
+   <c03 level="file"><did><unittitle>Limantour, Jose Ives,<unitdate>1854-1935</unitdate></unittitle>
+      <container type="box">7</container>
+      <container type="folder">2</container></did></c03>
+   <c03 level="file"><did><unittitle>Madero, Francisco I.,<unitdate>1873-1913</unitdate></unittitle>
+      <container type="box">7</container>
+      <container type="folder">3-4</container></did></c03>
+   <c03 level="file"><did><unittitle>Magana, Gildardo,<unitdate>1891-1939</unitdate></unittitle>
+      <container type="box">7</container>
+      <container type="folder">5</container></did></c03>
+   <c03 level="file"><did><unittitle>Martinez, Paulino,<unitdate>1860-1914</unitdate></unittitle>
+      <container type="box">7</container>
+      <container type="folder">6</container></did></c03>
+   <c03 level="file"><did><unittitle>Navarro, Candido,<unitdate>1871-1933</unitdate></unittitle>
+      <container type="box">7</container>
+      <container type="folder">7</container></did></c03>
+   <c03 level="file"><did><unittitle>Obregon, Alvaro,<unitdate>1880-1928</unitdate></unittitle>
+      <container type="box">7</container>
+      <container type="folder">8</container></did></c03>
+   <c03 level="file"><did><unittitle>Reyes, Alfonso,<unitdate>1889-1959</unitdate></unittitle>
+      <container type="box">7</container>
+      <container type="folder">9</container></did></c03>
+   <c03 level="file"><did><unittitle>Sanchez Azcona, Juan<unitdate>1876-1938</unitdate></unittitle>
+      <container type="box">7</container>
+      <container type="folder">10</container></did></c03>
+   <c03 level="file"><did><unittitle>Taracena, Alfonso,<unitdate>1896-1995</unitdate></unittitle>
+      <container type="box">7</container>
+      <container type="folder">11</container></did></c03>
+   <c03 level="file"><did><unittitle>Valades, Jose C.,<unitdate>1901-1976</unitdate></unittitle>
+      <container type="box">7</container>
+      <container type="folder">12</container></did></c03>
+   <c03 level="file"><did><unittitle>Vasconcelos, Jose,<unitdate>1881-1959</unitdate></unittitle>
+      <container type="box">7</container>
+      <container type="folder">13</container></did></c03>
+   <c03 level="file"><did><unittitle>Vazquez-Gomez, Emilio and Francisco,<unitdate>1860-1933</unitdate></unittitle>
+      <container type="box">7</container>
+      <container type="folder">14</container></did></c03>
+   <c03 level="file"><did><unittitle>Zapata, Emiliano,<unitdate>1879-1919</unitdate></unittitle>
+      <container type="box">7</container>
+      <container type="folder">15</container></did></c03>
+</c02>
+<c02 level="subseries">
+   <did><unittitle>Subseries 4:  Subjects</unittitle></did>
+   <c03 level="file"><did><unittitle>Agrarianism</unittitle>
+      <container type="box">7</container>
+      <container type="folder">16-17</container></did></c03>
+   <c03 level="file"><did><unittitle>Ateneo de la Juventud</unittitle>
+      <container type="box">7</container>
+      <container type="folder">18</container></did></c03>
+   <c03 level="file"><did><unittitle>Ciudadela</unittitle>
+      <container type="box">7</container>
+      <container type="folder">19</container></did></c03>
+   <c03 level="file"><did><unittitle>Conferencias de Paz</unittitle>
+      <container type="box">7</container>
+      <container type="folder">20</container></did></c03>
+   <c03 level="file"><did><unittitle>Corridos</unittitle>
+      <container type="box">7</container>
+      <container type="folder">21</container></did></c03>
+   <c03 level="file"><did><unittitle>Constitution of 1917</unittitle>
+      <container type="box">7</container>
+      <container type="folder">22</container></did></c03>
+   <c03 level="file"><did><unittitle>Decena Tragica</unittitle>
+      <container type="box">7</container>
+      <container type="folder">23</container></did></c03>
+   
+   <c03 level="file"><did><unittitle>Education<unitdate>1910-1959</unitdate></unittitle>
+      <container type="box">8</container>
+      <container type="folder">1</container></did></c03>
+   <c03 level="file"><did><unittitle>Education<unitdate>1960-1971</unitdate></unittitle>
+      <container type="box">8</container>
+      <container type="folder">2</container></did></c03>
+   <c03 level="file"><did><unittitle>Plan de Texcoco<unitdate>(1911)</unitdate></unittitle>
+      <container type="box">8</container>
+      <container type="folder">3</container></did></c03>
+   <c03 level="file"><did><unittitle>Positivism</unittitle><container type="box">8</container>
+      <container type="folder">4-7</container></did></c03>
+   <c03 level="file"><did><unittitle>Reservas del Tesoro (Treasury Reserves)</unittitle>
+      <container type="box">8</container>
+      <container type="folder">8</container></did></c03>
+</c02>
+</c01>
+  <c01 level="series">
+   <did><unittitle>Series II:  Correspondence, <unitdate>1911-1965</unitdate></unittitle></did>
+   <arrangement><p>This series is arranged alphabetically by name, then chronologically</p></arrangement>
+   <c02 level="subseries">
+      <did><unittitle>Subseries 1:  Francisco Vazquez-Gomez</unittitle></did>
+      <c03 level="file"><did><unittitle>Francisco Vazquez-Gomez, <unitdate>1911-1912</unitdate></unittitle>
+         <container type="box">8</container>
+         <container type="folder">9</container></did></c03>
+      <c03 level="file"><did><unittitle>Francisco Vazquez-Gomez, <unitdate>1914</unitdate></unittitle>
+         <container type="box">8</container>
+         <container type="folder">10</container></did></c03>
+      <c03 level="file"><did><unittitle>Francisco Vazquez-Gomez, <unitdate>1926</unitdate></unittitle>
+         <container type="box">8</container>
+         <container type="folder">11</container></did></c03>
+      <c03 level="file"><did><unittitle>Francisco Vazquez-Gomez, <unitdate>1929-1933</unitdate></unittitle>
+         <container type="box">8</container>
+         <container type="folder">12</container></did></c03>
+</c02>
+   <c02 level="subseries">
+      <did><unittitle>Subseries 2:  Ignacio Vazquez-Gomez</unittitle></did>
+   <c03 level="file"><did><unittitle>Ignacio Vazquez-Gomez, <unitdate>1930-1933</unitdate></unittitle>
+      <container type="box">8</container>
+      <container type="folder">13</container></did></c03>
+   <c03 level="file"><did><unittitle>Ignacio Vazquez-Gomez, <unitdate>1935-1936</unitdate></unittitle>
+      <container type="box">8</container>
+      <container type="folder">14</container></did></c03>
+   <c03 level="file"><did><unittitle>Ignacio Vazquez-Gomez, <unitdate>1938-1939</unitdate></unittitle>
+      <container type="box">8</container>
+      <container type="folder">15</container></did></c03>
+   <c03 level="file"><did><unittitle>Ignacio Vazquez-Gomez, <unitdate>1949-1954</unitdate></unittitle>
+      <container type="box">8</container>
+      <container type="folder">16</container></did></c03>
+   <c03 level="file"><did><unittitle>Ignacio Vazquez-Gomez, <unitdate>1955</unitdate></unittitle>
+      <container type="box">8</container>
+      <container type="folder">17</container></did></c03>
+   <c03 level="file"><did><unittitle>Ignacio Vazquez-Gomez, <unitdate>1956</unitdate></unittitle>
+      <container type="box">8</container><container type="folder">18</container></did></c03>
+   <c03 level="file"><did><unittitle>Ignacio Vazquez-Gomez, <unitdate>1957, 1959</unitdate></unittitle>
+      <container type="box">8</container>
+      <container type="folder">19</container></did></c03>
+   <c03 level="file"><did><unittitle>Ignacio Vazquez-Gomez, <unitdate>1964-1965</unitdate></unittitle>
+      <container type="box">8</container>
+      <container type="folder">20</container></did></c03>
+</c02>
+</c01>
+   <c01 level="series">
+   <did><unittitle>Series III:  Biographical Materials, <unitdate>1882-1965</unitdate></unittitle></did>
+    <arrangement><p>This series is arranged alphabetically by name, personal, professional, then chronological.</p></arrangement>
+   <c02 level="subseries">
+   <did><unittitle>Subseries 1:  Emilio Vazquez-Gomez</unittitle></did>
+   <c03 level="file"><did><unittitle>Various persona documents, <unitdate>1909-1924</unitdate></unittitle>
+      <container type="box">8</container>
+      <container type="folder">21</container></did></c03>
+</c02>
+   <c02 level="subseries">
+   <did><unittitle>Subseries 2:  Francisco Vazquez-Gomez</unittitle></did>
+   <c03 level="file"><did><unittitle>Personal biographical data (no dates)</unittitle>
+      <container type="box">8</container>
+      <container type="folder">22</container></did></c03>
+   <c03 level="file"><did><unittitle>Professional certifications <unitdate>1882-1928</unitdate></unittitle>
+      <container type="box">8</container>
+      <container type="folder">23</container></did></c03>
+   <c03 level="file"><did><unittitle>Various professional material, <unitdate>1911-1965</unitdate></unittitle>
+      <container type="box">8</container>
+      <container type="folder">24</container></did></c03>
+</c02>
+<c02 level="subseries">
+      <did><unittitle>Subseries 3:  Ignacio Vazquez-Gomez</unittitle></did>
+      <c03 level="file"><did><unittitle>Various personal documents, <unitdate>1898-1945</unitdate></unittitle></did></c03>
+</c02>
+</c01>
+   <c01 level="series">
+   <did><unittitle>Series IV:  Oversize Materials, Films <unitdate>1885-1914</unitdate></unittitle></did>
+   <arrangement><p>This series consists of 35 millimeter film about the Mexican Revolution and two braodsides of the Plan de la Montana and the Plan de Ayala.</p></arrangement>
+<c02 level="file">
+      <did><unittitle>Oversize Broadside: Plan de la Montana (1885)</unittitle>
+         <container type="box">9</container></did>
+</c02>
+      <c02 level="file">
+         <did><unittitle> Oversize Broadside: Plan de Ayala (1911)</unittitle>
+         <container type="box">9</container></did>
+      </c02>   
+      <c02 level="file">
+   <did><unittitle>Twelve 35 millimeter films about the Mexican Revolution, <unitdate>1910-1914</unitdate></unittitle>
+      <container type="box">9</container></did>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

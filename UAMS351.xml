@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?filetitle Henley, William Ernest Memorial Correspondence?>
+<ead relatedencoding="MARC21"> 
+<eadheader audience="internal" findaidstatus="edited-full-draft"
+ langencoding="iso639-2b"> 
+  <eadid encodinganalog="856$u"> PUBLIC "-//University of Arizona Library
+	 Special Collections//text(US::AzU::William Ernest Henley Memorial
+	 Correspondence)//en" "UAMS351.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">William Ernest Henley Memorial
+		  Correspondence, 
+		  <date>1904-1907</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Staff.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+		<publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		  Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+</address> 
+		<date>&#x00A9; 2006</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation encodinganalog="500">Inventory encoded by Charles Wommack. 
+		<date>June 12, 2006</date></creation> 
+	 <langusage>Inventory is in<language langcode="en"
+		encodinganalog="546">English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper encodinganalog="245$a">William Ernest Henley Memorial
+		Correspondence, 
+		<date>1904-1907</date></titleproper> 
+	 <num>Collection Number: MS 351</num> 
+	 <publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Staff</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>June, 2006</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Charles Wommack</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 2006. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name:">William Ernest
+		Henley Memorial Correspondence, 
+		<unitdate type="inclusive"
+		 normal="1904/1907">1904-1907</unitdate></unittitle> 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	  repositorycode="AzU" countrycode="us">MS 351</unitid> 
+	 <origination label="Creator:">Gift of 
+		<persname encodinganalog="100">T.E. Hanley, </persname>
+		1987</origination> 
+	 <abstract label="Abstract:">Contains letters (1904-1907) documenting the
+		creation of a committee to oversee the installation of a memorial bust in honor
+		of William Ernest Henley in St. Paul's Cathedral (England).</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+		encodinganalog="300">.75 linear feet</extent></physdesc> 
+	 <repository label="Repository:"> 
+		<corpname encodinganalog="110">University of Arizona Libraries, Special
+		  Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+	</address></repository> 
+  </did> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Restrictions</head> 
+	 <p>None.</p> 
+  </accessrestrict> 
+  <userestrict encodinganalog="540"> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Credit Line</head> 
+	 <p>William Ernest Henley Memorial Correspondence (MS 351). Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p>William Ernest Henley 
+		<date>(1849-1903)</date> was a poet and editor of the weekly journal 
+	 <title>London,</title> of 
+	 <title>Magazine of Art,</title> 
+	 <date>(1882-1886), </date> 
+	 <title>National Observer </title> 
+	 <date>(1889-1891), </date>and the 
+	 <title>New Review </title> 
+	 <date>(1894-1898). </date>He was the author of various volumes of verse,
+	 including 
+	 <title>Book of Verses </title> 
+	 <date>(1888), </date> 
+	 <title>For England's Sake </title> 
+	 <date>(1900), </date> and 
+	 <title>Hawthorne and Lavender </title> 
+	 <date>(1901).</date> His best known poem is 
+	 <title>Invictus. </title>Henley collaborated with Robert Louis Stevenson on
+	 four plays: 
+	 <title>Deacon Brodie, </title> 
+	 <title>Beau Austin, </title> 
+	 <title>Admiral Guinea, </title>and 
+	 <title>Macaire. </title>Henley also collaborated with John S. Farmer in
+	 compiling 
+	 <title>A Dictionary of Slang and its Analogues. </title></p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into one unnumbered series, </p> 
+	 <list> 
+		<item>William Ernest Henley Memorial Correspondence, 
+		  <unitdate type="inclusive" normal="1904/1907">1904-1907.
+			 </unitdate></item> 
+	 </list> 
+  </arrangement> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Henley, William Ernest, 1849-1903 --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Archer, William --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100"> Arnold-Forster, H. O. (Hugh Oakeley),
+			 1855-1909 -- Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100"> Crawford, David Lindsay, Earl of, (Lord
+			 Balcarres), 1871-1940 -- Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100"> Balfour, Arthur James Balfour, Earl of,
+			 1848-1930 -- Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Bell, R. Fitzroy --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Blaikie, Walter B. --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100"> Butcher, S.H. --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Cable, George Washington, 1844-1925 --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Clyde, James Avon --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Colomb, John R. --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Conford, L. Cope --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100"> Craik, Henry, Sir, 1846-1927 --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Curzon, Lord --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Cust, Henry John Cockayne, 1861-1917 --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Donald, C. S. --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Donkin, J. T. H. --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100"> Doyle, Arthur Conan, Sir, 1859-1930 --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Fusse, Charles W. --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Greenwood, Fredrick --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Halkett, George R. (George Roland),
+			 1855-1915 -- Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Henderson, T. F. (Thomas Finlayson),
+			 1844-1923 -- Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Henley, Anne --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Howells, William Dean, 1837-1920 --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100"> Lang, Andrew, 1844-1912 --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Iwan-Miller, S. B. --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100"> James, Henry, 1843-1916 --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100"> James, William, 1842-1910 --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Ker, W. P. (William Paton), 1855-1923 --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Low, A. Maverick --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Meredith, George, 1828-1909 --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Miller, J. H. --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Morrison, Arthur, 1863-1945 --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100"> Nicholson, William, Sir, 1872-1949 --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Parry, C. Hubert H. (Charles Hubert
+			 Hastings), 1848-1918 -- Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100"> Parker, Gilbert, 1862-1932 --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Perry, F. W. (Frederick William) --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Pollack, Sir S. --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100"> Quller-Couch, A. T. --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Roberts, Field Marshall Lord --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100"> Saintsbury, George, 1845-1933 --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Seaman, Owen, Sir, 1861-1936 --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Sinclair, William --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Stephen, Herbert, Sir, 1857-1932. --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Stepney, C. S. --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Tweed, John -- Correspondence</persname>
+		  </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Walls, G. F. --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Watson, H. B. Marriott --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Watt, G. F. -- Correspondence</persname>
+		  </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Wells, H. G. (Herbert George), 1866-1946
+			 -- Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100"> Whibley, Charles, 1859-1930 --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100"> Whibley, Leonard, 1862 or 3-1941 --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Willeby, Charles, b. 1865 --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Windsor, Lord --
+			 Correspondence</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Wyndham, George, 1863-1913 --
+			 Correspondence</persname> </item> 
+	 </list> 
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+		  <unittitle> Series 1: William Ernest Henley Memorial Correspondence, 
+			 <unitdate type="inclusive"
+			  normal="1904/1907">1904-1907</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Planning journal</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Committee Lists</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Archer, William</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Arnold-Forster, H. O. (2)</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Balcarres, Lord</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Balfour, A. J.</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Bell, R. Fitzroy, (4)</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Blaikie, Walter, B. (4/5 sheets)</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Butcher, S. H. (2)</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Cable, George, W.</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Clyde, James Avon</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Colomb, John R.</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Conford, L. Cope (5)</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Craik, Sir Henry (3)</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Curzon, Lord</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Cust, Henry, C.</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Donald, C. S. (4)</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Donkin, J. T. H. (2)</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Doyle, Sir Arthur Conan</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Fusse, Charles W.</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Greenwood, Fredrick (2)</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Halkett, George R.</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Henderson, T. F.</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Henley, Anne (2/3 items)</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Howells, William Dean</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Lang, Andrew</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Iwan-Miller, S. B.</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>James, Henry</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>James, William</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Ker, W. P.</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Low, A. Maverick</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Meredith, George</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Miller, J. H. (2)</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Morrison, Arthur</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Nicholson, William</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Parry, C. Hubert H.</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Parker, Gilbert (6 sheets)</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Perry, F. W.</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Pollack, Sir S.</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Quller-Couch, A. T. </unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Roberts, Field Marshall Lord</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Saintsbury,, George</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Seaman, Owen</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Sinclair, William</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Stephen, Sir Herbert</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Stepney, C. S.</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Tweed, John, (2)</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Walls, G. F.</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Watson, H. B. Marriott</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Watt, G. F.</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Wells, H. G. 3rd party (2)</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Whibley, Charles</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Whibley, Leonard (2)</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Willeby, Charles</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Windsor, Lord (3)</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Wyndham, George, (4)</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Unidentified, (2)</unittitle> 
+		  </did> 
+		</c02>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Unveiling acceptance/regrets (13)</unittitle> 
+		  </did> 
+		</c02>
+	 </c01> 
+  </dsc> 
+</archdesc></ead>

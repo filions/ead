@@ -1,0 +1,305 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+ audience="internal" id="a0"> 
+	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special
+		Collections//text(US::AzU::The Horseless Carriage Collection of Automobile History)//en""UAMS035.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper> The Horseless Carriage, a collection of automobile history, 
+	 		<date normal="1893/1965" era="ce" calendar="gregorian" >1893-1965</date>
+	 		<date normal="1938/1955" type="bulk">bulk 1938-1955</date></titleproper> 
+	 	<author>Processed by TST.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date normal= "2013" era= "ce" calendar = "gregorian">; 2013</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Anne Martinez. 
+  		<date era="ce" encodinganalog="date" normal="20130410">April 10, 2013</date></creation> 
+	 <langusage>Finding aid is in<language> English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+  	<titleproper>The Horseless Carriage Collection of Automobile History,
+  		<date normal="1893/1965" era="ce" calendar="gregorian">1893-1965</date>
+  		<date normal="1938/1955" type="bulk">(bulk 1938-1955)</date></titleproper> 
+	 <num>Collection Number: MS 035</num> 
+  	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>TST</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>March 2013</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Anne Martinez</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 20012. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name:"> The Horseless Carriage Collection of Automobile History
+  		<unitdate normal="1893/1965" era="ce" calendar="gregorian">1893-1965</unitdate>
+  		<unitdate normal="1938/1955" type="bulk">(bulk 1938-1955)</unitdate></unittitle>	 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	 repositorycode="AzU" countrycode="us">MS 035</unitid> 
+	 <origination label="Creator:"> 
+	 	<persname source="lcnaf" encodinganalog="100">Smith, Steadman. Collector</persname> </origination> 
+  	<abstract label="Abstract:">The Horseless Carriage Collection of Automobile History consist of pamphlets, magazines, promotional reports, newspaper articles, advertisements, calendars, newsletters, photographs, and other pictorial items relating to the history and development of the automobile, dated 1893 to 1965.  Most are items distributed by car-related businesses in the 1940s and 1950s.  Earlier materials are nostalgic reprints of turn-of-the-century materials.</abstract> 
+  	<physdesc encodinganalog="300$a" label="Physical Description:"><extent>.9  linear feet</extent></physdesc>	 
+	 <repository label="Repository:"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository>
+  	<langmaterial>Materials in <language encodinganalog="546" langcode="eng"
+  		scriptcode="Latin">English</language></langmaterial>
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+	 <p>None</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>Horseless Carriage Collection of Automobile History (MS 035). Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+  	<p>An attorney and a car enthusiast from Southern California; Steadman Smith was active in antique automobile clubs and gathered these materials related to his interests.</p> 
+  </bioghist> 
+  <arrangement id="a4" encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+  	<p>This collection is organized into one series.</p>	 
+	 <list> 
+	 	<item>Series I: Automobile history,
+	 		<unitdate normal="1893/1965" era="ce" calendar="gregorian">1893-1965</unitdate>
+	 		<unitdate normal="1938/1955" type="bulk">bulk 1938-1955</unitdate></item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>Collection of printed materials and photographs relating to cars, from their early development in the 1890s through the contemporary trends of the 1960s including pamphlets, magazines, promotional reports, newspaper articles, advertisements, calendars, newsletters, pictorial items and photographs.  The turn-of-the-century items are nostalgic reprints; the earliest original item is a 1924 Automobile Trade Journal.  Most of the items date from the 1940s and 1950s, and were distributed by car and tire dealerships, auto manufacturers, petroleum and motor oil corporations, automobile clubs, and the specialty publisher Floyd Clymer.</p> 
+  	<p>There are newsletters, clippings and notices of activities, mostly from 1938 to 1949, for the Horseless Carriage Club.  Some publicity brochures describe particular makes of cars.   Most of the material relates to the United States but a small amount is about the British and German automobile industries.  Brochures and clippings commemorate special events such as the 1908 New York to Paris race, J. Frank Duryea’s winning of America’s first automobile race in 1895 and its fiftieth anniversary in 1945, and the automobile industry’s celebration of its Golden Jubilee in 1946.  Black-and-white photographs are present, 1938 to 1940, of collectors with their antique cars, and there are several original drawings by Alexander G. Telatco.  Calendars from 1946 and 1953 have color reprints of early cars in Americana settings by artists such as Norman Rockwell.</p>
+  </scopecontent> 
+	<relatedmaterial id="a6" encodinganalog="5441"><p>A longer and more complete run of <title render="italic">Horseless Carriage Club Gazette</title> is cataloged in the Library’s main collection</p></relatedmaterial>
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+			<persname encodinganalog="600" source="lcnaf" role="subject">Duryea, J. Frank (James Frank), 1869-1967</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+			<subject encodinganalog="650" source="lcsh">Horseless Carriage Club</subject> </item> 
+	 </list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Antique and classic cars</subject> </item> 
+  	</list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Automobile rallies—History</subject> </item> 
+  	</list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Automobile industry and trade—History</subject> </item> 
+  	</list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Automobiles—Societies, etc.</subject> </item> 
+  	</list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Automobiles—Pictorial works</subject> </item> 
+  	</list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Automobiles—Collectors and collecting—United States</subject> </item> 
+  	</list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Automobiles—Social aspects—History</subject> </item> 
+  	</list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Automobiles—Design and construction—History</subject> </item> 
+  	</list> 
+  	<list> 
+  		<item> 
+  			<persname encodinganalog="600" source="lcnaf" role="subject">Smith, Steadman, collector</persname> </item> 
+  	</list> 
+	  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+  	<c01 level="series" id="ser1">
+  		<did>
+  			<unittitle>Automobile history materials</unittitle>
+  			<unitdate normal="1893/1965" era="ce" calendar="gregorian">1893-1965</unitdate>
+  			<unitdate normal="1938/1955" type="bulk">bulk 1938-1955</unitdate>
+  		</did>
+  		<arrangement>
+  			<p>This series is arranged by type of material.</p>
+  		</arrangement>
+  		<c02 level="file">
+  			<did>
+  				<container type="box">1</container>
+  				<container type="folder">1</container>
+  				<unittitle>Historical articles</unittitle>
+  			</did>
+  		</c02>
+  		<c02 level="file">
+  			<did>
+  				<container type="box">1</container>
+  				<container type="folder">2</container>
+  				<unittitle>Historical photographs</unittitle>
+  			</did>
+  		</c02>
+  		<c02 level="file">
+  			<did>
+  				<container type="box">1</container>
+  				<container type="folder">3</container>
+  				<unittitle><title render="italic">Automobile Trade Journal</title>, (historical issue)</unittitle>
+  				<unitdate>December 1, 1924</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file">
+  			<did>
+  				<container type="box">1</container>
+  				<container type="folder">4</container>
+  				<unittitle>Advertisements (magazine)</unittitle>
+  			</did>
+  		</c02>
+  		<c02 level="file">
+  			<did>
+  				<container type="box">1</container>
+  				<container type="folder">5</container>
+  				<unittitle>Floyd Clymer’s “Independent Test Report and Investigation of [various] cars”</unittitle>
+  				<unitdate>1940's</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file">
+  			<did>
+  				<container type="box">1</container>
+  				<container type="folder">6</container>
+  				<unittitle>Mobilgas Economy Run, (Grand Canyon)</unittitle>
+  				<unitdate>1950</unitdate>
+  				<unitdate>1952</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file">
+  			<did>
+  				<container type="box">2</container>
+  				<container type="folder">1</container>
+  				<unittitle>Frank Duryea and America’s First Automobile Race</unittitle>
+  			</did>
+  		</c02>
+  		<c02 level="file">
+  			<did>
+  				<container type="box">2</container>
+  				<container type="folder">2</container>
+  				<unittitle>Horseless Carriage Club, Los Angeles (Misc. materials)</unittitle>
+  			</did>
+  		</c02>
+  		<c02 level="file">
+  			<did>
+  				<container type="box">2</container>
+  				<container type="folder">3</container>
+  				<unittitle><title render="italic">Horseless Carriage Club Gazette</title>, v.1-9</unittitle>
+  				<unitdate>1938-1947</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file">
+  			<did>
+  				<container type="box">2</container>
+  				<container type="folder">4</container>
+  				<unittitle>Antique Automobile Club of America  (Misc. materials)</unittitle>
+  			</did>
+  		</c02>
+  		<c02 level="file">
+  			<did>
+  				<container type="box">2</container>
+  				<container type="folder">5</container>
+  				<unittitle>Pictorial items and cartoons</unittitle>
+  			</did>
+  		</c02>
+  		<c02 level="file">
+  			<did>
+  				<container type="box">2</container>
+  				<container type="folder">6</container>
+  				<unittitle>Tours, races and club activities (various)</unittitle>
+  			</did>
+  		</c02>
+  		<c02 level="file">
+  			<did>
+  				<container type="box">2</container>
+  				<container type="folder">7</container>
+  				<unittitle>Automobile Industry Golden Anniversary, commemorative publicatons</unittitle>
+  				<unitdate>1946</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file">
+  			<did>
+  				<container type="box">2</container>
+  				<container type="folder">8</container>
+  				<unittitle>Miscellaneous items, <title render="italic">The Times (London)</title>, Survey of the British Motor-Car Industry</unittitle>
+  				<unitdate>1951</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file">
+  			<did>
+  				<container type="box">3</container>
+  				<unittitle>Brochures about various automobiles</unittitle>
+  			</did>
+  		</c02>
+  		<c02 level="file">
+  			<did>
+  				<container type="box">3</container>
+  				<unittitle>Two pictorial calendars</unittitle>
+  			</did>
+  		</c02>
+  		<c02 level="file">
+  			<did>
+  				<container type="box">3</container>
+  				<unittitle>1st Annual Revival, Glidden tour, (reprint of newspaper publicity)</unittitle>
+  				<unitdate>1946</unitdate>
+  			</did>
+  		</c02>
+  	</c01>
+  </dsc> 
+</archdesc></ead>

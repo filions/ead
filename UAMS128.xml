@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+   <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0"> 
+      <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special Collections//text
+		(US::AzU::Ledger and tally book)//en""UAMS128.xml"
+      </eadid> 
+      <filedesc> 
+         <titlestmt> 
+         	<titleproper encodinganalog="title">Ledger and tally book
+	 	       <date normal="1883" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">1883</date>
+	 	       <!-- BE SURE TO POPULATE "date normal= "YYYY/YYYY" attribute. PLACE ATTRIBUTE DATES BETWEEN "   " -->
+	 	    </titleproper>
+         	<titleproper type="filing" altrender="nodisplay"> Ledger and tally book
+	 	    <!-- [IF AN INDIVIDUAL IS ASSOCIATED LIST LAST NAME, (FIRST NAME MIDDLE INITIAL.) i.e. Flannery, (John S.) COLLECTION DESCRIPTION] OR 
+	 	    [IF NO SPECIFIC PERSON IS ASSOCIATED LIST THE COLLECTION NAME AND DESCRIPTION (i.e. International Student Council general files) -->
+            </titleproper>
+	        <author>Processed by Staff.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date normal= "2016" era= "ce" calendar = "gregorian">; 2016</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+            <date era="ce" encodinganalog="date" normal="20160421">April 21, 2016</date>
+  	     </creation><!-- BE SURE TO POPULATE "date normal= YYYYMMDD" attribute. PLACE ATTRIBUTE DATES BETWEEN "  " -->
+	     <langusage>Finding aid encoded in<language> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc>
+   </eadheader> 
+   <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+      <did id="a1"> 
+         <head>Collection Summary</head> 
+      	<unittitle encodinganalog="245" label="Collection Name:"> Ledger and tally book
+            <unitdate type="inclusive" label="Dates:" normal="1883">1883</unitdate>
+  	     </unittitle><!-- BE SURE TO POPULATE "Dates normal= yyyy/yyyy" attribute.  PLACE ATTRIBUTE DATES BETWEEN "  " -->	 
+	     <unitid label="Collection Number:" encodinganalog="099" repositorycode="AzU" countrycode="us">MS 128</unitid>
+	     <origination label="Creator:"> 
+            <persname source="lcnaf" encodinganalog="100"><!-- PERSNAME--></persname> </origination> <!-- CHANGE TAG TO CORPNAME, IF CREATOR IS A COROPORATION/ BUSINESS ETC.  CHANGE "100" ATTRIBUTE TO 110-->
+      	
+      	<!-- Trent: No Creator on MARC/library record **Steven -->
+      	
+      	<abstract label="Abstract:">Bound ledger used for several different purposes; the last third of the book is blank. The first 29 pages contain financial entries for the 
+      								grocery business of J.A. Lyons and Company in 1883. Incoming payments are registered, as are outgoing payments for store rent, office supplies, 
+      								and the clerk&apos;s salary. Prices and quantities for groceries bought and sold are given.</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description:"><extent>.1 linear feet</extent></physdesc>	 
+	     <repository label="Repository:"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng" scriptcode="Latin">English.</language></langmaterial>
+   	        <!-- CHANGE OR ADD FIELD IF MATERIALS ARE IN OTHER LANGUAGES. BE SURE TO CHANGE langcode "" ATTRIBUTE-->
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+         <p>There are no restrictions on this collection.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+      	<p>Ledger and tally book (MS 128). Special Collections, University of Arizona Libraries.</p>
+      </prefercite> 
+   	<acqinfo>
+   		<head>Acquisition Information</head>
+   		<p>Acquired as purchase, 1976.</p>
+   	</acqinfo>
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Staff.</p>
+      </processinfo>
+      <bioghist id="a2" encodinganalog="545"> 
+         <head>Biographical Note</head> 
+      	<p>R.A. Lewis entered store accounts in Notre Dame, Indiana, from January 1 to April 26, 1883. On May 1, he formed a partnership in Cincinnati, Ohio, with J.A. Lyons and T.E. 
+      	Howard furnishing the capital. The purpose of the J.A. Lyons and Company mercantile firm was to conduct a grocery and domestic shipping business; the entries here document 
+      	it for the next three months. They shipped goods, often by steamboat, to New Orleans, Galveston, Pittsburgh, New York, and Chicago. The Cincinnati accounts end on May 30; on 
+      	June 1, business was being conducted in St. Louis, Missouri. The last entry is July 22, 1883.</p> 
+      </bioghist> 
+      <arrangement id="a4" encodinganalog="351$a"> 
+         <head>Arrangement</head> 
+  	     <p>This collection is organized chronologically.</p>
+      </arrangement> 
+      <scopecontent id="a3" encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>Bound ledger used for several different purposes; the last third of the book is blank. The first 29 pages contain financial entries for the grocery business of J.A. Lyons 
+      	and Company in 1883. Incoming payments are registered, as are outgoing payments for store rent, office supplies, and the clerk&apos;s salary. Prices and quantities for groceries 
+      	bought and sold are given. The most common items are flour, sugar, wheat, corn, salt, silk, calico, dry apples, bacon, coffee, tea, codfish, and butter. Reference is made to the
+      	loss of one of their shipments to Galveston, when the steamboat sank in the Gulf of Mexico.</p> 
+      	<p>The rest of the ledger entries are from New Mexico, possibly associated with Antonio Lucero. Two short accounts from 1888, in Peralta, regard lambing, wine, and 
+      	cash transactions. Two pages of an inspector&apos;s log follow,of sheep shipped &quot;out of the territory.&quot; Earmarks are drawn. A more substantial section, 
+      	from p.40 to p.69, is a tally of cattle slaughtered in Gallup and Bernallilo, New Mexico, possibly from 1898 to 1899. It gives the number of animals, brands and earmarks, 
+      	as well as company names and addresses. Those from Arizona selling cattle for slaughter include J. Phelan, Fowler Brothers, Goldman and Company, Brigham and Hicks, M. 
+      	Smith, Tom Hagen, William Christy, C.P. Mullen, Babbitt Brothers, Alker Company, W.A. Bolton, R.L. Mullen, and J. Norton.</p>
+      	<p>Names inscribed on recto of front endpaper: R.A. Lewis and Antonio Lucero.</p>
+      </scopecontent>
+      <controlaccess>
+         <head>Access Terms</head>
+         <list type="simple"> <!-- USE SOURCE OR RULES ELEMENT Source=lcnaf or lcsh; Rules=aacr2 or dacs or local.  BE SURE TO CHANGE encodinganalog="  " ATTRIBUTE. ALSO, BE SURE TO DELETE ANY TAGS YOU DO NOT USE-->
+            <item>
+               <persname encodinganalog="600" source= "lcnaf">Lewis, R. A.</persname><!-- 600 Creator; 700 Contributor -->
+  		    </item>
+         	<item>
+         		<persname encodinganalog="600" source= "lcnaf">Lucero, Antonio.</persname><!-- 600 Creator; 700 Contributor -->
+         	</item>
+  		    <item>
+  			   <corpname encodinganalog="610" source= "lcnaf">J.A. Lyons and Company.</corpname><!-- 610 regular; 611 conference; 710 contributor; 711 conference contributor -->
+  		    </item>
+  		    <item>
+  			   <subject encodinganalog="650" source= "lcsh">Cattle brands -- Southwest, New -- History -- Sources.</subject>
+  		    </item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Cattle trade -- Southwest, New -- History -- Sources.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Earmarks -- Southwest, New -- History -- Sources.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Mercantile system -- United States -- History -- 19th century.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Sheep industry -- New Mexico -- History -- Sources.</subject>
+         	</item>
+         </list>
+      </controlaccess>
+   </archdesc>
+</ead>

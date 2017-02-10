@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?filetitle Bayless Family Papers?>
+<ead relatedencoding="MARC21"> 
+<eadheader audience="internal" findaidstatus="edited-full-draft"
+ langencoding="iso639-2b"> 
+  <eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
+	 Special Collections//text(US::AzU::Bayless Family papers)//en"
+	 "UAAZ228.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Bayless family papers, 
+		  <date>1851-1952 (bulk 1880-1910)</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Phyllis Ball
+		  </author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+		<publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		  Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date>&#x00A9; 2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation encodinganalog="500">Inventory encoded by Jennie Stapp 
+		<date>July 23, 2002</date></creation> 
+	 <langusage>Inventory is in<language langcode="en"
+		encodinganalog="546">English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper encodinganalog="245$a">Bayless family papers, 
+		<date>1851-1952 (bulk 1880-1910)</date></titleproper> 
+	 <num>Collection Number: AZ 228</num> 
+	 <publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Phyllis Ball</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>1971</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Jennie Stapp</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 2001. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name:">Bayless family
+		papers, 
+		<unitdate type="inclusive" normal="">1851-1952 (bulk
+		  1880-1910)</unitdate></unittitle> 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	  repositorycode="AzU" countrycode="us"> AZ 228</unitid> 
+	 <origination label="Creator:"> 
+		<famname encodinganalog="100">Bayless family</famname></origination> 
+	 <abstract label="Abstract:">This collection includes correspondence, legal
+		papers, financial records, land patents, and account books of William Henry
+		Bayless and his sons relating to cattle and sheep ranching operations in
+		Kansas, Nebraska, South Dakota, and Arizona. Also includes letters written to
+		J.F. Shields during the Civil War, poetry written by Shields during the war,
+		and later letters to his daughter from her husband, John Bayless. Personal
+		materials consist of photographs and personal papers, including estate
+		documents.</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+		encodinganalog="300">3.3 linear feet</extent></physdesc> 
+	 <repository label="Repository:"> 
+		<corpname encodinganalog="110">University of Arizona Libraries, Special
+		  Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address></repository> 
+  </did> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Restrictions</head> 
+	 <p>None.</p> 
+  </accessrestrict> 
+  <userestrict encodinganalog="540"> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Credit Line</head> 
+	 <p>Bayless family papers(AZ 228). Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p>The Bayless family were pioneers in Arizona. William H. Bayless and his
+		sons, Charles and John, were involved in cattle and sheep ranching in Kansas,
+		Nebraska and South Dakota before coming to Arizona in 1883. With Jehiel W.
+		Berkalew, they established Bayless and Berkalew to manage land holdings and
+		ranching operations in southern Arizona. J. F. Shields was a Civil War officer
+		with the 13th Kansas Volunteers. His daughter, Elizabeth, married John
+		Bayless.</p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into six series:</p> 
+	 <list> 
+		<item>Series I: Personal Material, 1890-1952</item> 
+		<item>Series II: Business Correspondence and Papers, 1870-1923</item> 
+		<item>Series III: Shields family Material, 1862-1926</item> 
+		<item>Series IV: Bayless family Letter Books, 1899-1919</item> 
+		<item>Series V: Tax and Legal Papers, 1870-1923</item> 
+		<item>Series VI: Business, Financial and Livestock Records, 1851-
+		  1931</item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>This collection includes correspondence, legal papers, financial
+		records, land patents, and account books of William Henry Bayless and his sons
+		relating to cattle and sheep ranching operations in Kansas, Nebraska, South
+		Dakota, and Arizona. Also includes letters written to J.F. Shields during the
+		Civil War, poetry written by Shields during the war, and later letters to his
+		daughter from her husband, John Bayless. Personal materials consist of
+		photographs and personal papers, including estate documents.</p> 
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Bayless, William Henry,
+			 1829-1926</persname></item> 
+		<item> 
+		  <persname encodinganalog="100">Bayless, Charles Henry,
+			 1863-1938</persname></item> 
+		<item> 
+		  <persname encodinganalog="100">Bayless, John Stuart</persname></item> 
+		<item> 
+		  <persname encodinganalog="100">Berkalew, Jehiel W. </persname></item> 
+		<item> 
+		  <persname encodinganalog="100">Shields, John F., d.
+			 1909</persname></item> 
+		<item> 
+		  <famname encodinganalog="100">Bayless family --
+			 Archives</famname></item> 
+		<item> 
+		  <corpname encodinganalog="110">Bayless and Berkalew Company -- Records
+			 and correspondence</corpname></item> 
+		<item> 
+		  <subject>Cattle trade -- West (U. S.) -- History --
+			 Sources</subject></item> 
+		<item> 
+		  <subject>Cattle trade -- Arizona -- History -- Sources</subject></item>
+		
+		<item> 
+		  <subject>Sheep industry -- Arizona -- History --
+			 Sources</subject></item> 
+		<item> 
+		  <subject>Land titles -- Arizona</subject></item> 
+		<item> 
+		  <geogname>Carlink Ranch (Ariz.) </geogname></item> 
+		<item> 
+		  <geogname>United States -- History -- Civil War, 1861-1865 --
+			 Sources</geogname></item> 
+		<item> 
+		  <genreform>Correspondence</genreform></item> 
+		<item> 
+		  <genreform>Account books</genreform></item> 
+		<item> 
+		  <genreform>Photographs</genreform></item> 
+	 </list> 
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+		  <unittitle>Series I: Personal Material, 
+			 <unitdate type="inclusive"
+			  normal="1890/1952">1890-1952</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Miscellaneous personal material including photographs. 
+				<unitdate type="inclusive"
+				 normal="1890/1952">1890-1952</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series II: Business Correspondence and Papers, 
+			 <unitdate type="inclusive"
+			  normal="1870/1923">1870-1923</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2-7</container> 
+			 <unittitle>Correspondence. 
+				<unitdate type="inclusive"
+				 normal="1870/1920">1870-1920</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">8</container> 
+			 <unittitle>Miscellaneous livestock papers including sales,
+				inventories, pedigree receipts, shipping bills, etc. 
+				<unitdate type="inclusive" normal="">1872-1902,
+				  1923</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series III: Shields family Material, 
+			 <unitdate type="inclusive"
+			  normal="1862/1926">1862-1926</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">1</container> 
+			 <unittitle>J. F. Shields: Correspondence from family and friends. 
+				<unitdate type="inclusive"
+				 normal="1862/1871">1862-1871</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">2</container> 
+			 <unittitle>J. F. Shields: Correspondence with his fiance, Ludie. 
+				<unitdate type="inclusive" normal="1881">1867,
+				  1881</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">3</container> 
+			 <unittitle>J. F. Shields and family: Miscellaneous materials
+				including photographs, a diary and correspondence. 
+				<unitdate type="inclusive" normal="">1886-1887,
+				  1902-1903</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">4</container> 
+			 <unittitle>J. F. Shields: Poetry including original poetry written
+				during the Civil War. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">5</container> 
+			 <unittitle>J. F. Shields: Scrapbook. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">6</container> 
+			 <unittitle>John S. Bayless and Elizabeth Shields Bayless material. 
+				<unitdate type="inclusive" normal="">1897-1903,
+				  1925-1926</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series IV: Bayless family Letter Books, 
+			 <unitdate type="inclusive"
+			  normal="1899/1919">1899-1919</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">3</container> 
+			 <unittitle>Letter Book. 
+				<unitdate type="inclusive" normal="">1899-1906,
+				  1914-1919</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">3</container> 
+			 <unittitle>Letter Book. 
+				<unitdate type="inclusive"
+				 normal="1905/1909">1905-1909</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series V: Tax and Legal Papers, 
+			 <unitdate type="inclusive"
+			  normal="1870/1923">1870-1923</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Territorial and Cochise County taxes. 
+				<unitdate type="inclusive" normal="NaN/1905">1894,
+				  1902-1905</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Territorial and Graham County taxes. 
+				<unitdate type="inclusive"
+				 normal="1902">1902</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Territorial, State and Pinal County taxes. 
+				<unitdate type="inclusive"
+				 normal="1885/1918">1885-1918</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Territorial, State and Pima County taxes. 
+				<unitdate type="inclusive"
+				 normal="1900/1917">1900-1917</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">4</container> 
+			 <unittitle>State, Pima County and City taxes. 
+				<unitdate type="inclusive"
+				 normal="1918/1923">1918-1923</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Tucson city taxes. 
+				<unitdate type="inclusive"
+				 normal="1906/1907">1906-1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">6</container> 
+			 <unittitle>U. S. Land Patents. 
+				<unitdate type="inclusive" normal="">1885, 1889-1893, 1895,
+				  1898-1899, 1904, 1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">7</container> 
+			 <unittitle>Legal papers: Kansas. 
+				<unitdate type="inclusive"
+				 normal="1870/1896">1870-1896</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">8</container> 
+			 <unittitle>Legal papers: Arizona land and real estate. 
+				<unitdate type="inclusive"
+				 normal="1885/1899">1885-1899</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">9</container> 
+			 <unittitle>Legal papers: Arizona land and real estate. 
+				<unitdate type="inclusive"
+				 normal="1900/1922">1900-1922</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">10</container> 
+			 <unittitle>Legal papers: Arizona livestock. 
+				<unitdate type="inclusive" normal="">1884-1901, 1906-1907,
+				  1914</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">11</container> 
+			 <unittitle>Legal papers: Arizona water rights. 
+				<unitdate type="inclusive"
+				 normal="1880/1902">1880-1902</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">12</container> 
+			 <unittitle>Legal papers: Miscellaneous. </unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series VI: Business, Financial and Livestock Records, 
+			 <unitdate type="inclusive" normal="1851/1931">1851-
+				1931</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">5</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Financial Statements: Kansas and Nebraska. 
+				<unitdate type="inclusive"
+				 normal="1892/1897">1892-1897</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">5</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Bills and Receipts: Kansas and Nebraska. 
+				<unitdate type="inclusive" normal="">1877-1878,
+				  1882-1897</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">5</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Bills and Receipts: Kansas, books and subscriptions. 
+				<unitdate type="inclusive"
+				 normal="1889/1897">1889-1897</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">5</container> <container
+			 type="folder">4</container> 
+			 <unittitle>Financial Statements: Arizona. 
+				<unitdate type="inclusive" normal="">1884-1894, 1903-1905,
+				  1909</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">5</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Bills and Receipts: Arizona. 
+				<unitdate type="inclusive" normal="">1883-1898, 1900-1909,
+				  1913-1918</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">5</container> <container
+			 type="folder">6</container> 
+			 <unittitle>Bills and Receipts: Personal, miscellaneous. 
+				<unitdate type="inclusive" normal="">1877-1884,
+				  1909</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">6</container> 
+			 <unittitle>Ledger. 
+				<unitdate type="inclusive"
+				 normal="1851/1897">1851-1897</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">6</container> 
+			 <unittitle>Ledger. 
+				<unitdate type="inclusive"
+				 normal="1892/1898">1892-1898</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">6</container> 
+			 <unittitle>Ledger. 
+				<unitdate type="inclusive"
+				 normal="1895/1896">1895-1896</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">6</container> 
+			 <unittitle>Ledger. 
+				<unitdate type="inclusive"
+				 normal="1917/1931">1917-1931</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">6</container> 
+			 <unittitle>Cash Book. 
+				<unitdate type="inclusive" normal="">September 1889-September
+				  1892</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">6</container> 
+			 <unittitle>Cash Book. 
+				<unitdate type="inclusive" normal="">September 1892-July
+				  1899</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">6</container> 
+			 <unittitle>Cash Book. 
+				<unitdate type="inclusive" normal="NaN/1901">September
+				  1899-1901</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">6</container> 
+			 <unittitle>Cash Book. 
+				<unitdate type="inclusive"
+				 normal="1899/1901">1899-1901</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">6</container> 
+			 <unittitle>Cash Book "Oracle, Arizona." 
+				<unitdate type="inclusive"
+				 normal="1895/1897">1895-1897</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">6</container> 
+			 <unittitle>Cash Book "Oracle, Arizona." 
+				<unitdate type="inclusive"
+				 normal="1897/1901">1897-1901</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">7</container> 
+			 <unittitle>Account Book: Journal. 
+				<unitdate type="inclusive"
+				 normal="1887/1897">1887-1897</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">7</container> 
+			 <unittitle>Account Book: Ledger. 
+				<unitdate type="inclusive"
+				 normal="1884/1885">1884-1885</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">7</container> 
+			 <unittitle>Account Book: Day book. 
+				<unitdate type="inclusive"
+				 normal="1887/1888">1887-1888</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">7</container> 
+			 <unittitle>Account Book: Livestock records. 
+				<unitdate type="inclusive"
+				 normal="1893/1899">1893-1899</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">7</container> 
+			 <unittitle>Account Book. 
+				<unitdate type="inclusive" normal="">1879-1880,
+				  1890-1897</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">7</container> 
+			 <unittitle>Account Book. 
+				<unitdate type="inclusive"
+				 normal="1887/1893">1887-1893</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">7</container> 
+			 <unittitle>Account Book: Accounts. 
+				<unitdate type="inclusive"
+				 normal="1890/1891">1890-1891</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">7</container> 
+			 <unittitle>Account Book: Cattle records. 
+				<unitdate type="inclusive"
+				 normal="1896/1898">1896-1898</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">7</container> 
+			 <unittitle>Account Book: Miscellaneous accounts. 
+				<unitdate type="inclusive"
+				 normal="1892/1897">1892-1897</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">7</container> 
+			 <unittitle>Account Book and Mexico cattle records. 
+				<unitdate type="inclusive"
+				 normal="1884/1885">1884-1885</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">7</container> 
+			 <unittitle>Account Book: Accounts. 
+				<unitdate type="inclusive"
+				 normal="1886/1894">1886-1894</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">7</container> 
+			 <unittitle>Account Book: Livestock records. 
+				<unitdate type="inclusive" normal="">1885-1886,
+				  1901-1906</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">7</container> 
+			 <unittitle>Account Book: "Provisions from Oracle." 
+				<unitdate type="inclusive" normal="1897">January
+				  1897</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">7</container> 
+			 <unittitle>Accounts and shearing records. 
+				<unitdate type="inclusive"
+				 normal="1904/1906">1904-1906</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">7</container> 
+			 <unittitle>Lumber Book for Store. 
+				<unitdate type="inclusive"
+				 normal="1885">1885</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">7</container> 
+			 <unittitle>W. H. Bayless Pass Books (2). 
+				<unitdate type="inclusive" normal="NaN">No
+				  Dates</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">7</container> 
+			 <unittitle>W. H. Bayless Pass Book. 
+				<unitdate type="inclusive" normal="1850/1860">ca.
+				  1855</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">7</container> 
+			 <unittitle>Journal. 
+				<unitdate type="inclusive"
+				 normal="1897/1904">1897-1904</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">8</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Miscellaneous bank records including promissory notes,
+				deposit slips, etc. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">8</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Bank Statements. 
+				<unitdate type="inclusive" normal="">1896-1901, 1903,
+				  1905</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">8</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Checks. 
+				<unitdate type="inclusive"
+				 normal="1898/1905">1898-1905</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">8</container> 
+			 <unittitle>Book of check stubs (3). 
+				<unitdate type="inclusive"
+				 normal="1896/1907">1896-1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+  </dsc> 
+</archdesc></ead>

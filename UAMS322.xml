@@ -1,0 +1,1259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?xml-stylesheet type="text/xsl" href="displaytemplate.xsl"?>
+<?filetitle Hubbell, Roman Family Papers?>
+<ead relatedencoding="MARC21">
+<eadheader audience="internal" findaidstatus="edited-full-draft"
+ langencoding="iso639-2b">
+	<eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library Special Collections//text(US::AzU::Roman Hubbell family papers)//en" "UAMS322.xml"</eadid>
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Roman Hubbell family papers, 
+		  <date>1899-1982</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Roger Myers, Lynn
+		  D'Antonio, and Patricia Doherty </author>
+	 </titlestmt>
+	 <publicationstmt>
+	 	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+		<address>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address>
+		<date>&#x00A9; 2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p>
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc>
+	 <creation encodinganalog="500">Inventory encoded by Linda A. Whitaker 
+		<date>January 2002</date></creation> 
+	 <langusage>Inventory is in<language langcode="en"
+		encodinganalog="546">English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter>
+  <titlepage>
+	 <titleproper encodinganalog="245$a">Roman Hubbell family papers, 
+		<date>1899-1982</date></titleproper>
+	 <num>Collection Number: MS 322</num>
+  	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher>
+	 <list>
+		<defitem>
+		  <label>Processed by:</label>
+		  <item>Roger Myers, Lynn D'Antonio, and Patricia Doherty</item>
+		</defitem>
+		<defitem>
+		  <label>Date completed:</label>
+		  <item>
+			 <date>1995</date></item>
+		</defitem>
+		<defitem>
+		  <label>Encoded by:</label>
+		  <item>Linda A. Whitaker</item>
+		</defitem>
+	 </list>
+	 <p>&#x00A9; 2001. Arizona Board of Regents. All rights reserved.</p>
+  </titlepage>
+</frontmatter>
+<archdesc level="collection"> 
+  <did id="a1">
+	 <head>Collection Summary</head>
+	 <unittitle encodinganalog="245" label="Collection Name:">Roman Hubbell
+		family papers, 
+		<unitdate type="inclusive"
+		normal="1899/1982">1899-1982</unitdate></unittitle>
+	 <unitid label="Collection Number:" encodinganalog="099"
+	 repositorycode="AzU" countrycode="us"> MS 322</unitid> 
+	 <origination label="Creator:"> 
+		<famname encodinganalog="100">Roman Hubbell
+		  Family</famname></origination>
+	 <abstract label="Abstract:">The papers in this collection are arranged in five series: Family
+		History and Reminiscences, Correspondence, Business and Financial Records,
+		Photographs, and Printed Materials. The bulk of the collection consists of
+		correspondence to and from Roman and Dorothy Hubbell relating to their family,
+		friends and business ventures. Primary correspondents include anthropologist,
+		Gladys Reichard, and Commissioner of Indian Affairs, John Collier. </abstract>
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+		encodinganalog="300">6 linear feet</extent></physdesc>
+	 <repository label="Repository:">
+	 	<corpname encodinganalog="110">University of Arizona Libraries, Special Collections</corpname>
+		<address>
+		  <addressline>University of Arizona</addressline>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address></repository>
+  </did> 
+  <accessrestrict encodinganalog="506">
+	 <head>Restrictions</head>
+	 <p>None.</p>
+  </accessrestrict>
+  <userestrict encodinganalog="540">
+	 <head>Copyright</head>
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p>
+  </userestrict>
+  <prefercite encodinganalog="524">
+	 <head>Credit Line</head>
+	 <p>Roman Hubbell family papers(MS 322). Special
+		Collections, University of Arizona Libraries.</p>
+  </prefercite>
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head>
+	 <p>Roman Hubbell (1891-1957) was the second son of John Lorenzo Hubbell
+		(1853-1930), noted pioneer Indian trader and founder of the J. L. Hubbell
+		Trading Post at Ganado in Arizona Territory, 1876. The area surrounding the
+		trading post eventually became part of the Navajo Reservation. Over the years
+		Don Lorenzo, as he came to be called, opened additional trading post locations
+		in New Mexico and Arizona and gained fame as a trader in Navajo rugs. </p>
+	 <p>Don Lorenzo's two sons, Lorenzo, Jr. (1883-1942) and Roman succeeded
+		their father in carrying on his trading post operations; and Roman developed a
+		reputation as an advocate for the Indians in their relations with the federal
+		government. After the death of Roman's first wife, he married Dorothy Smith
+		(1899-1993) who assisted in the management of the family's business interests.
+		Dorothy continued to run the trading post as a museum after Roman's death in
+		1957, until it was purchased by the National Park Service as a designated
+		National Historic Site in 1965.</p>
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into five series.</p> 
+	 <list>
+		<item>Series I: Family History and Reminiscences, 
+		  <date>1930-1971</date></item>
+		<item>Series II: Correspondence, 
+		  <date>1899-1979</date> </item>
+		<item>Series III: Business and Financial Records, 
+		  <date>1919-1982</date></item>
+		<item>Series IV: Photographs, 
+		  <date>ca. 1900-1965</date></item>
+		<item>Series V: Printed Materials, 
+		  <date>1928-1970s</date></item> 
+	 </list> 
+  </arrangement>
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head>
+	 <p>The papers in this collection are arranged in five series: Family
+		History and Reminiscences, Correspondence, Business and Financial Records,
+		Photographs, and Printed Materials. The bulk of the collection consists of
+		correspondence to and from Roman and Dorothy Hubbell relating to their family,
+		friends and business ventures. Primary correspondents include anthropologist,
+		Gladys Reichard, and Commissioner of Indian Affairs, John Collier. </p>
+	 <p>The Personal Correspondence Series contains the transcript of an
+		interview with Dorothy Hubbell by Frank McNitt which relates to Mrs. Hubbell's
+		recollections of Don Lorenzo Hubbell during her early years at the Post. There
+		is also a series of interviews with Mrs. Hubbell in the Hubbell Trading Post as
+		National Historic Site Series which reconstructs the history of the trading
+		post and its collection of art, furnishings, and Indian crafts. Photographs in
+		the collection include members of the Hubbell family, portraits of individuals
+		visiting the Post such as Theodore Roosevelt, Howard Pyle, Gladys Reichard, and
+		John Collier. There are also photographs of Ganado and other trading posts,
+		other Hubbell business operations, and Navajo weavers and participants in
+		traveling exhibitions to Texas and New York.</p> 
+  </scopecontent> 
+  <controlaccess id="a12">
+	 <head>Access Terms</head>
+	 <list>
+		<item>
+		  <persname encodinganalog="100">Hubbell, Roman, 1891-1957
+			 </persname></item>
+	 </list>
+	 <list>
+		<item>
+		  <persname encodinganalog="100">Hubbell, Dorothy Smith</persname></item>
+	 </list>
+	 <list>
+		<item>
+		  <famname encodinganalog="100">Hubbell family --
+			 Archives</famname></item>
+	 </list>
+	 <list>
+		<item>
+		  <subject>Merchants -- Arizona -- History -- Sources</subject></item>
+	 </list>
+	 <list>
+		<item>
+		  <subject>Trading posts</subject></item>
+	 </list>
+	 <list>
+		<item>
+		  <subject>Trading posts -- Arizona -- Ganado Region</subject></item>
+	 </list>
+	 <list>
+		<item>
+		  <geogname>Ganado (Ariz.) -- History -- Sources</geogname></item>
+	 </list>
+	 <list>
+		<item>
+		  <geogname>Hubbell Trading Post National Historic Site (Ganado, Ariz.)
+			 -- Archives</geogname></item>
+	 </list>
+	 <list>
+		<item>
+		  <geogname>Navajo Indian Reservation -- History --
+			 Sources</geogname></item>
+	 </list>
+	 <list>
+		<item>
+		  <geogname>Southwest, New -- History -- 1848 --
+			 Sources</geogname></item>
+	 </list>
+	 <list>
+		<item>
+		  <genreform>Correspondence</genreform></item>
+	 </list>
+	 <list>
+		<item>
+		  <genreform>Photographs</genreform></item>
+	 </list>
+  </controlaccess> 
+  <relatedmaterial encodinganalog="544$1">
+	 <head>Related Materials</head>
+	 <p>Hubbell Trading Post Records (AZ 375) are also located at the University
+		of Arizona Library Special Collections.</p>
+  </relatedmaterial>
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head>
+	 <c01 level="series" id="ser1">
+		<did>
+		  <unittitle>Series I: Family History and Reminiscences, 
+			 <unitdate type="inclusive"
+			 normal="1930/1971">1930-1971</unitdate></unittitle> 
+		</did> 
+		<scopecontent>
+		  <p>Contains family record of births and deaths, a genealogical chart
+			 for the Hubbell family, reminiscences by John Lorenzo Hubbell, titled "Fifty
+			 Years an Indian Trader" (15 pages) and by Madge W. Hubbell, titled "As It Was
+			 Then" (56 pages).</p>
+		</scopecontent>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">1</container>
+			 <unittitle>Family History and Reminiscences. 
+				<unitdate type="inclusive"
+				normal="1930/1971">1930-1971</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01> 
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series II: Correspondence, 
+			 <unitdate type="inclusive"
+			 normal="1899/1979">1899-1979</unitdate></unittitle>
+		</did>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Family, 
+				<unitdate type="inclusive"
+				normal="1933/1962">1933-1962</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Family correspondence includes letters to and from Dorothy
+				Hubbell, Lorenzo Hubbell, John L. Hubbell, Roman Hubbell, and LaCharles Eckel
+				concerning activities at Ganado, education of the Hubbell children, and
+				condolences on the deaths of Lorenzo Hubbell, Jr. and Roman Hubbell.</p>
+		  </scopecontent>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">2</container>
+				<unittitle>Eckel, LaCharles. 
+				  <unitdate type="inclusive"
+				  normal="1933/1953">1933-1953</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">3</container>
+				<unittitle>Hubbell family. 
+				  <unitdate type="inclusive"
+				  normal="1937/1942">1937-1942</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">4</container>
+				<unittitle>Hubbell, Lorenzo, Jr., condolences.
+				  <unitdate type="inclusive"
+				  normal="1942">1942</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">5</container>
+				<unittitle>Hubbell, John L. 
+				  <unitdate type="inclusive"
+				  normal="1934/1962">1934-1962</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">6</container>
+				<unittitle>Hubbell, Roman, Jr. 
+				  <unitdate type="inclusive"
+				  normal="1945/1947">1945-1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">7</container>
+				<unittitle>Hubbell, Roman, condolences. 
+				  <unitdate type="inclusive"
+				  normal="1957">1957</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Personal, 
+				<unitdate type="inclusive"
+				normal="1899/1975">1899-1975</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Consists primarily of incoming letters and carbons of some
+				outgoing, from personal and professional friends of Roman and Dorothy Hubbell.
+				Many of the correspondents visited the Hubbell Trading Post to enjoy the scenic
+				beauty of the area and to purchase rugs, ceramic vessels, and other trading
+				post items. Of note are letters from Laura Armer concerning the exhibition of a
+				movie, "The Mountain Chant;" from Witter Bynner about the United China Relief
+				Fund donation drives during World War II; from Carl Hayden on military and
+				education appointments for Hubbell children (additional Hayden letters in
+				Hubbell Post National Historic Site folder); from Ruth Knight about the airing
+				of a CBS radio series "Death Valley Days" segment titled "White Medicine Man"
+				based on Roman Hubbell's assistance to the Navajos during a snow storm; with
+				Frank McNitt concerning his research on the Hubbells including an interview
+				with Dorothy Hubbell regarding Don Lorenzo Hubbell and life at Ganado; with
+				anthropologist, Gladys Reichard on mutual friends, travels, and her projects;
+				and artist, Frederic Allen Williams on his travels and exhibitions of
+				sculptures. </p>
+		  </scopecontent>
+		  <c03>
+			 <did><container type="box">2</container><container
+				type="folder">1</container>
+				<unittitle>A. 
+				  <unitdate type="inclusive"
+				  normal="1935/1969">1935-1969</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">2</container><container
+				type="folder">2</container>
+				<unittitle>American Red Cross. 
+				  <unitdate type="inclusive"
+				  normal="1941/1942">1941-1942</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">2</container><container
+				type="folder">3</container>
+				<unittitle>Armer, Laura Adams &amp; Sidney. 
+				  <unitdate type="inclusive"
+				  normal="1928/1964">1928-1964</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">2</container><container
+				type="folder">4</container>
+				<unittitle>B. 
+				  <unitdate type="inclusive"
+				  normal="1934/1967">1934-1967</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">2</container><container
+				type="folder">5</container>
+				<unittitle>Bynner, Witter. 
+				  <unitdate type="inclusive"
+				  normal="1930/1943">1930-1943</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">2</container><container
+				type="folder">6-11</container>
+				<unittitle>C-H. 
+				  <unitdate type="inclusive"
+				  normal="1899/1967">1899-1967</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">2</container><container
+				type="folder">12</container>
+				<unittitle>Hayden, Carl. 
+				  <unitdate type="inclusive"
+				  normal="1938/1962">1938-1962</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">2</container><container
+				type="folder">13</container>
+				<unittitle>I-K. 
+				  <unitdate type="inclusive"
+				  normal="1938/1965">1938-1965</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">2</container><container
+				type="folder">14</container>
+				<unittitle>Knight, Ruth Adams. 
+				  <unitdate type="inclusive"
+				  normal="1941/1946">1941-1946</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">2</container><container
+				type="folder">15-16</container>
+				<unittitle>L-M. 
+				  <unitdate type="inclusive"
+				  normal="1927/1974">1927-1974</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">2</container><container
+				type="folder">17</container>
+				<unittitle>McNitt, Frank. 
+				  <unitdate type="inclusive"
+				  normal="1958/1972">1958-1972</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">2</container><container
+				type="folder">18-19</container>
+				<unittitle>N-Q. 
+				  <unitdate type="inclusive"
+				  normal="1931/1974">1931-1974</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">3</container><container
+				type="folder">1</container>
+				<unittitle>R-T. 
+				  <unitdate type="inclusive"
+				  normal="1931/1975">1931-1975</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">3</container><container
+				type="folder">2-3</container>
+				<unittitle>Reichard, Gladys. 
+				  <unitdate type="inclusive"
+				  normal="1934/1955">1934-1955</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">3</container><container
+				type="folder">4</container>
+				<unittitle>Republican Party. 
+				  <unitdate type="inclusive"
+				  normal="1935/1952">1935-1952</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">3</container><container
+				type="folder">5</container>
+				<unittitle>U-Z. 
+				  <unitdate type="inclusive"
+				  normal="1934/1963">1934-1963</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">3</container><container
+				type="folder">6</container>
+				<unittitle>Wiliams, Ferderic Allen. 
+				  <unitdate type="inclusive"
+				  normal="1942/1959">1942-1959</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">3</container><container
+				type="folder">7</container>
+				<unittitle>Miscellaneous. 
+				  <unitdate type="inclusive"
+				  normal="1928/1949">1928-1949</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Roman Hubbell Navajo Tours, 
+				<unitdate type="inclusive"
+				normal="1931/1965">1931-1965</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Contains letters from travel agencies, journalists, hotels, guest
+				ranches, and tourists regarding coming to the area, the Hubbell Trading Post,
+				lodging, sightseeing, or purchasing goods from the Post. Roman Hubbell operated
+				this tour service in the late 1930s and early 1940s. Of note are letters from
+				movie director, Fritz Lang of Universal Studios, and artist, William R.
+				Leigh.</p>
+		  </scopecontent>
+		  <c03>
+			 <did><container type="box">4</container><container
+				type="folder">1</container>
+				<unittitle>A. 
+				  <unitdate type="inclusive"
+				  normal="1938/1960">1938-1960</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">4</container><container
+				type="folder">2</container>
+				<unittitle>Atchison, Topeka &amp; Santa Fe. 
+				  <unitdate type="inclusive"
+				  normal="1931/1965">1931-1965</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">4</container><container
+				type="folder">3-5</container>
+				<unittitle>B-C. 
+				  <unitdate type="inclusive"
+				  normal="1936/1956">1936-1956</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">4</container><container
+				type="folder">6</container>
+				<unittitle>Coapman, Wall G. 
+				  <unitdate type="inclusive"
+				  normal="1940/1947">1940-1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">4</container><container
+				type="folder">7-12</container>
+				<unittitle>D-J. 
+				  <unitdate type="inclusive"
+				  normal="1938/1963">1938-1963</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">5</container><container type="folder"> 1-2
+				  </container>
+				<unittitle>K-L. 
+				  <unitdate type="inclusive" normal="1934/1952">
+					 1934-1952</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">5</container><container type="folder">
+				  3</container>
+				<unittitle>Lang, Fritz. 
+				  <unitdate type="inclusive" normal="1938/1940">
+					 1938-1940</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">5</container><container type="folder">
+				  4</container>
+				<unittitle>Leigh, William R. and Traphagen, Ethel. 
+				  <unitdate type="inclusive" normal="1938/1958">1938-1958
+					 </unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">5</container><container type="folder">
+				  5</container>
+				<unittitle>Luckie, Dorothy P. 
+				  <unitdate type="inclusive" normal="1939/1949">
+					 1939-1949</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">5</container><container type="folder">
+				  6-7</container>
+				<unittitle>M. 
+				  <unitdate type="inclusive" normal="1937/1946">
+					 1937-1946</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">5</container><container type="folder">
+				  8</container>
+				<unittitle>McFie, Amelia. 
+				  <unitdate type="inclusive" normal="1938">
+					 1938</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">5</container><container type="folder">
+				  9</container>
+				<unittitle>Motor News. 
+				  <unitdate type="inclusive" normal="1941/1942">
+					 1941-1942</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">5</container><container type="folder">
+				  10-12</container>
+				<unittitle>N-P. 
+				  <unitdate type="inclusive" normal="1938/1950">
+					 1938-1950</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">5</container><container type="folder">
+				  13</container>
+				<unittitle>Page, Katherine. 
+				  <unitdate type="inclusive" normal="1934/1950">
+					 1934-1950</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">6</container><container
+				type="folder">1-3</container>
+				<unittitle>Q-S. 
+				  <unitdate type="inclusive"
+				  normal="1934/1957">1934-1957</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">6</container><container
+				type="folder">4</container>
+				<unittitle>Santa Fe Trailways. 
+				  <unitdate type="inclusive"
+				  normal="1939/1942">1939-1942</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">6</container><container
+				type="folder">5-6</container>
+				<unittitle>T-U. 
+				  <unitdate type="inclusive"
+				  normal="1938/1949">1938-1949</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">6</container><container
+				type="folder">7</container>
+				<unittitle>Universal Studios. 
+				  <unitdate type="inclusive"
+				  normal="1944">1944</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">6</container><container
+				type="folder">8-9</container>
+				<unittitle>V-W. 
+				  <unitdate type="inclusive"
+				  normal="1938/1965">1938-1965</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">6</container><container
+				type="folder">10</container>
+				<unittitle>Ward Hicks Advertising. 
+				  <unitdate type="inclusive"
+				  normal="1938/1946">1938-1946</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">6</container><container
+				type="folder">11</container>
+				<unittitle>Werntz, Carl. 
+				  <unitdate type="inclusive"
+				  normal="1940/1941">1940-1941</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">6</container><container
+				type="folder">12</container>
+				<unittitle>X-Z. 
+				  <unitdate type="inclusive"
+				  normal="1933/1950">1933-1950</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">6</container><container
+				type="folder">13</container>
+				<unittitle>Unidentified and Miscellaneous. 
+				  <unitdate type="inclusive"
+				  normal="1941/1942">1941-1942</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>J.L. Hubbell Trading Post, 
+				<unitdate type="inclusive"
+				normal="1923/1969">1923-1969</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Miscellaneous letters sent from the Post on a wide variety of
+				issues including merchandise inquiries, impounded goods, accounts owed, and
+				letters from employees. Of special note are letters from artist, E. A. Burbank,
+				and four folders of correspondence relating to the Commissioner of Indian
+				Affairs, John Collier, and the American Indian Defense Association; issues such
+				as state congressional delegations; relief funds for Navajo stock; Navajo
+				religion and ceremonies; land use; traders; schools; events leading up to
+				Collier's appointment as Commissioner; Collier's resignation; and the
+				appointment of succeeding commissioner, John R. Nichols.</p>
+		  </scopecontent>
+		  <c03>
+			 <did><container type="box">7</container><container
+				type="folder">1-2</container>
+				<unittitle>A-H. 
+				  <unitdate type="inclusive"
+				  normal="1935/1965">1935-1965</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">7</container><container
+				type="folder">3</container>
+				<unittitle>Burbank, E.A. 
+				  <unitdate type="inclusive"
+				  normal="1935/1947">1935-1947</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">7</container><container
+				type="folder">4</container>
+				<unittitle>Employee Letters. 
+				  <unitdate type="inclusive"
+				  normal="1935/1967">1935-1967</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">7</container><container
+				type="folder">5-7</container>
+				<unittitle>I-Z. 
+				  <unitdate type="inclusive"
+				  normal="1923/1969">1923-1969</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">7</container><container
+				type="folder">8-11</container>
+				<unittitle>U.S. Commissioner Indian Affairs, John Collier. 
+				  <unitdate type="inclusive"
+				  normal="1924/1950">1924-1950</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">7</container><container
+				type="folder">12</container>
+				<unittitle>Miscellaneous. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Hubbell Trading Post as National Historic Site, 
+				<unitdate type="inclusive"
+				normal="1957/1979">1957-1979</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>The first two folders contain correspondence including letters
+				from visitors to the Post expressing their views on its historical importance
+				and support for the establishment of a National Historic Site. The next three
+				folders document the struggle in the early 1960s to obtain National Historic
+				Site status for the Post which was achieved in 1965. Selected correspondents
+				include Clinton P. Anderson, Paul Fanin, Carl Hayden, Morris K. Udall, the
+				National Park Service, and personnel at Hubbell Trading Post National Historic
+				Site. Additional information and clippings on this topic are located in the
+				Printed Materials series of this collection. The last three folders contain
+				inventories which serve to document the physical condition and artifacts of the
+				Post at the time it was acquired by the National Park Service and an interview
+				with Dorothy Hubbell by a National Park Service curator. </p>
+		  </scopecontent>
+		  <c03>
+			 <did><container type="box">8</container><container
+				type="folder">1</container>
+				<unittitle>Tourist letters/history. 
+				  <unitdate type="inclusive"
+				  normal="1957/1964">1957-1964</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">8</container><container
+				type="folder">2</container>
+				<unittitle>Interest in National Historic Site Bill. 
+				  <unitdate type="inclusive"
+				  normal="1957/1976">1957-1976</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">8</container><container
+				type="folder">3-5</container>
+				<unittitle>Correspondence. 
+				  <unitdate type="inclusive"
+				  normal="1959/1979">1959-1979</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">8</container><container
+				type="folder">6</container>
+				<unittitle>Furnishing plans for Hubbell home. 
+				  <unitdate type="inclusive"
+				  normal="1973">1973</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">8</container><container
+				type="folder">7</container>
+				<unittitle>Inventories of Hubbell Trading Post. 
+				  <unitdate type="inclusive"
+				  normal="1975/1982">1975-1982</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">8</container><container
+				type="folder">8</container>
+				<unittitle>Interview: Dorothy Hubbell by David M. Brugge. 
+				  <unitdate type="inclusive"
+				  normal="1969">1969</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+	 </c01>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series III: Business and Financial Records, 
+			 <unitdate type="inclusive"
+			 normal="1919/1982">1919-1982</unitdate></unittitle>
+		</did>
+		<scopecontent>
+		  <p>Contains financial and legal records relating to land and buildings
+			 purchased by the Hubbell family, stocks, leases, personal tax returns, and
+			 estate and bankruptcy proceedings.</p>
+		</scopecontent>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Personal, 
+				<unitdate type="inclusive"
+				normal="1919/1982">1919-1982</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Contains financial and legal records relating to land and
+				buildings purchased by the Hubbell family, stocks, leases, personal tax
+				returns, and estate and bankruptcy proceedings.</p>
+		  </scopecontent>
+		  <c03>
+			 <did><container type="box">8</container><container
+				type="folder">9</container>
+				<unittitle>Contracts and deeds. 
+				  <unitdate type="inclusive"
+				  normal="1919/1968">1919-1968</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">8</container><container
+				type="folder">10</container>
+				<unittitle>Lease, Standard Oil Company, 
+				  <unitdate type="inclusive"
+				  normal="1961/1982">1961-1982</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">8</container><container
+				type="folder">11</container>
+				<unittitle>Stocks. 
+				  <unitdate type="inclusive"
+				  normal="1931/1934">1931-1934</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">8</container><container
+				type="folder">12</container>
+				<unittitle>Taxes. 
+				  <unitdate type="inclusive"
+				  normal="1944/1965">1944-1965</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">8</container><container
+				type="folder">13</container>
+				<unittitle>General. 
+				  <unitdate type="inclusive"
+				  normal="1919/1974">1919-1974</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Roman Hubbell Navajo Tours, 
+				<unitdate type="inclusive"
+				normal="1934/1946">1934-1946</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Contains correspondence, legal and financial records relative to
+				the operation of a tour company, including state and federal regulations, and
+				tariff and rate charges filed with these agencies.</p>
+		  </scopecontent>
+		  <c03>
+			 <did><container type="box">9</container><container
+				type="folder">1</container>
+				<unittitle>Apache County Assessor. 
+				  <unitdate type="inclusive"
+				  normal="1938/1941">1938-1941</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">9</container><container
+				type="folder">2</container>
+				<unittitle>Arizona Corporation Commission. 
+				  <unitdate type="inclusive"
+				  normal="1938/1943">1938-1943</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">9</container><container
+				type="folder">3</container>
+				<unittitle>Arizona Highway Department. 
+				  <unitdate type="inclusive"
+				  normal="1938/1941">1938-1941</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">9</container><container
+				type="folder">4</container>
+				<unittitle>Banking Records. 
+				  <unitdate type="inclusive"
+				  normal="1936/1945">1936-1945</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">9</container><container
+				type="folder">5</container>
+				<unittitle>Equipment leases. 
+				  <unitdate type="inclusive"
+				  normal="1939/1942">1939-1942</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">9</container><container
+				type="folder">6</container>
+				<unittitle>Insurance. 
+				  <unitdate type="inclusive"
+				  normal="1938/1943">1938-1943</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">9</container><container
+				type="folder">7</container>
+				<unittitle>Interstate Commerce Commission.
+				  <unitdate type="inclusive"
+				  normal="1937/1943">1937-1943</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">9</container><container
+				type="folder">8</container>
+				<unittitle>New Mexico Corporation Commission. 
+				  <unitdate type="inclusive"
+				  normal="1934/1946">1934-1946</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">9</container><container
+				type="folder">9</container>
+				<unittitle>New Mexico Motor Vehicle Division. 
+				  <unitdate type="inclusive"
+				  normal="1934/1942">1934-1942</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">9</container><container
+				type="folder">10</container>
+				<unittitle>Transportation Rules &amp; Regulations. 
+				  <unitdate type="inclusive"
+				  normal="1937/1942">1937-1942</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">9</container><container
+				type="folder">11</container>
+				<unittitle>Miscellaneous. 
+				  <unitdate type="inclusive" normal="NaN/1942">ca.
+					 1938-1942</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>J.L. Hubbell Trading Post, 
+				<unitdate type="inclusive"
+				normal="1931/1975">1931-1975</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Contains correspondence, receipts, invoices, and tax returns for
+				Hubbell Trading Post. Also includes three files on other family business
+				ventures, the largest of which documents the activities of the Hubbell Truck
+				Line under three subfiles, Gallup-Farmington Freight Line, 1931-1939; Mail
+				Service, 1933-1937; and Fort Wingate Project, 1941.</p>
+		  </scopecontent>
+		  <c03>
+			 <did><container type="box">10</container><container
+				type="folder">1</container>
+				<unittitle>Accountants. 
+				  <unitdate type="inclusive"
+				  normal="1946/1975">1946-1975</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">10</container><container
+				type="folder">2</container>
+				<unittitle>Insurance. 
+				  <unitdate type="inclusive"
+				  normal="1956/1969">1956-1969</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">10</container><container
+				type="folder">3</container>
+				<unittitle>General. 
+				  <unitdate type="inclusive"
+				  normal="1941/1967">1941-1967</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">10</container><container
+				type="folder">4-5</container>
+				<unittitle>Tax returns. 
+				  <unitdate type="inclusive"
+				  normal="1951/1966">1951-1966</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">10</container><container
+				type="folder">6</container>
+				<unittitle>Casa Don Lorenzo. 
+				  <unitdate type="inclusive"
+				  normal="1950">1950</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">10</container><container
+				type="folder">7</container>
+				<unittitle>Hubbell Truck Lines. 
+				  <unitdate type="inclusive"
+				  normal="1931/1941">1931-1941</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">10</container><container
+				type="folder">8</container>
+				<unittitle>Lorenzo Hubbell Motor Company. 
+				  <unitdate type="inclusive"
+				  normal="1946/1952">1946-1952</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+	 </c01>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series IV: Photographs, 
+			 <unitdate type="inclusive" normal="NaN/1965">ca.
+				1900-1965</unitdate></unittitle>
+		</did>
+		<scopecontent>
+		  <p>Contains mostly black and white, with some color photographs, and a
+			 few negatives of people and places on the reservation. The bulk of the
+			 photographs document the Hubbell family, especially Roman Hubbell's activities
+			 with Navajo Indians in the promotion of Arizona as a tourist attraction; the
+			 Hubbell Post at Ganado; and Roman Hubbell Navajo Tours. In the family
+			 photographs are portraits of three generations of Hubbells. Of interest are a
+			 photograph of J. L. Hubbell with Theodore Roosevelt at Walpi in 1914, and Roman
+			 Hubbell with John Collier at Window Rock, c. 1940s. There are photographs of
+			 Ganado and Little Bridge Trading Post. Politicians campaigning or officiating
+			 at ceremonies in the area include Barry Goldwater, Stewart Udall, Robert Taft
+			 and Howard Pyle. Navajo medicine men, leaders, weavers, and families are also
+			 represented. </p>
+		</scopecontent>
+		<c02>
+		  <did><container type="box">11</container><container
+			 type="folder">1</container>
+			 <unittitle>Texas Frontier Centennial. 
+				<unitdate type="inclusive"
+				normal="1936">1936</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">11</container><container
+			 type="folder">2</container>
+			 <unittitle>Hubbell family. 
+				<unitdate type="inclusive" normal="NaN/1936">ca.
+				  1900-1936</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">11</container><container
+			 type="folder">3</container>
+			 <unittitle>Portraits. 
+				<unitdate type="inclusive" normal="NaN/1962">ca.
+				  1928-1962</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">11</container><container
+			 type="folder">4</container>
+			 <unittitle>Marble Canyon. 
+				<unitdate type="inclusive"
+				normal="1938">1938</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">11</container><container
+			 type="folder">5</container>
+			 <unittitle>Navajo National Monument dedication. 
+				<unitdate type="inclusive" normal="1960/1970">ca.
+				  1965</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">11</container><container
+			 type="folder">6</container>
+			 <unittitle>Places, unidentified. 
+				<unitdate type="inclusive" normal="NaN/1960">ca.
+				  1940-1960</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">11</container><container
+			 type="folder">7</container>
+			 <unittitle>Portraits, unidentified. 
+				<unitdate type="inclusive" normal="NaN/NaN">ca.
+				  1910s-1950s</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">11</container><container
+			 type="folder">8</container>
+			 <unittitle>Little Bridge Trading Post. 
+				<unitdate type="inclusive" normal="1945/1955">ca.
+				  1950</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">11</container><container
+			 type="folder">9</container>
+			 <unittitle>Ganado. 
+				<unitdate type="inclusive"
+				normal="">1930s-1960s</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">11</container><container
+			 type="folder">10</container>
+			 <unittitle>Arizona Unlimited Exhibition. 
+				<unitdate type="inclusive"
+				normal="1948">1948</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">11</container><container
+			 type="folder">11</container>
+			 <unittitle>Colorado River Boat Trip. 
+				<unitdate type="inclusive"
+				normal="NaN">1950s</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">11</container><container
+			 type="folder">12</container>
+			 <unittitle>Portraits, Navajos. 
+				<unitdate type="inclusive" normal="NaN/NaN">ca.
+				  1920s-1950s</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">11</container><container
+			 type="folder">13</container>
+			 <unittitle>Navajo weavers and rugs. 
+				<unitdate type="inclusive" normal="NaN/NaN">ca.
+				  1920s-1960s</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">11</container><container
+			 type="folder">14</container>
+			 <unittitle>Roman Hubbell Navajo Tours. 
+				<unitdate type="inclusive"
+				normal="">1938-1940s</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">11</container><container
+			 type="folder">15</container>
+			 <unittitle>Navajo weavers and rug. 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series V: Printed Materials, 
+			 <unitdate type="inclusive"
+			 normal="">1928-1970s</unitdate></unittitle>
+		</did>
+		<scopecontent>
+		  <p>Contains advertisements for various businesses and miscellaneous
+			 matters on topics relating to Navajos, Ganado, and Arizona. Of note in the
+			 general file is a copy of Father Berard Haile's essay, "Some Cultural Aspects
+			 of the Navajo Mission," c. 1934; and "Pageant of Navajo History," presented by
+			 Navajo schools at the Navajo Tribal Fair in 1940. The bulk of this series
+			 consists of newspaper clippings on Ganado and feature stories on the Hubbell
+			 Post and family.</p>
+		</scopecontent>
+		<c02>
+		  <did><container type="box">11</container><container
+			 type="folder">16</container>
+			 <unittitle>Advertisements. 
+				<unitdate type="inclusive"
+				normal="">1940s-1960s</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">11</container><container
+			 type="folder">17</container>
+			 <unittitle>Advertisements and news clippings. 
+				<unitdate type="inclusive"
+				normal="">1930s-1940s</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">11</container><container
+			 type="folder">18</container>
+			 <unittitle>Clippings on Establishment of Hubbell National Historic
+				Site. 
+				<unitdate type="inclusive"
+				normal="">1960s-1970s</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">11</container><container
+			 type="folder">19</container>
+			 <unittitle>Clippings. 
+				<unitdate type="inclusive"
+				normal="">1930s-1970s</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">11</container><container
+			 type="folder">20</container>
+			 <unittitle>General. 
+				<unitdate type="inclusive"
+				normal="">1928-1950s</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">11</container><container
+			 type="folder">21</container>
+			 <unittitle>General: Navajo, Hubbell, Arizona. 
+				<unitdate type="inclusive"
+				normal="">1930s-1940s</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+  </dsc> 
+</archdesc></ead>

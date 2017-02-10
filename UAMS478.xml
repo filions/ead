@@ -1,0 +1,802 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+ audience="internal" id="a0"> 
+	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library SpecialCollections//text(US::AzU::Emile Cyrus Houle Collection//en""UAMS478.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper> Emile Cyrus Houle Collection
+	 		<date normal="1896/2010" era="ce" calendar="gregorian" type="inclusive">1896-2010</date>
+	 	<date type="bulk" normal="1910/1927">(bulk 1910-1927)</date></titleproper> 
+	 	<author>Processed by Jerron Rice.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date normal= "2011" era= "ce" calendar = "gregorian">; 2011</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Jerron Rice. 
+  		<date era="ce" encodinganalog="date" normal="20111121">November 21, 2011</date></creation> 
+	 <langusage>Finding aid is in<language> English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+  	<titleproper>Emile Cyrus Houle Collection,<date era= "ce" calendar= "gregorian" type="inclusive" normal="1896/2010">1896-2010,</date><date type="bulk" normal="1910-1927">(bulk 1910-1927)</date></titleproper> 
+	 <num>Collection Number: MS 478</num> 
+  	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by: </label> 
+		  <item>Jerron Rice.</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>November 17, 2011</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Jerron Rice</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 20011. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name:"> Emile Cyrus Houle Collection
+		<unitdate type="inclusive" label="Dates:" normal="1986/2010">1896-2010,</unitdate>
+	 <unitdate type="bulk" label="Dates:" normal="1910/1927">(bulk 1910-1927)</unitdate></unittitle>	 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	 repositorycode="AzU" countrycode="us">MS 478</unitid> 
+	 <origination label="Creator:"> 
+		<persname  encodinganalog="100">Houle, Emile Cyrus</persname> </origination> 
+	 <abstract label="Abstract:">
+	 		Photographs, scrapbooks, and printed materials, 1896-2010 (bulk 1910-1927). 
+	 		This collection is comprised of photo albums, scrapbooks, loose photographs, 
+	 		and printed materials documenting the life and travels of Emile Cyrus Houle. 
+	 		The bulk of the material relates to his medical career as a surgeon for the 
+	 		S. P. de Mexico Railroad Company and USA Medical Corps in France during WWI, 
+	 		and archaeological excavations undertaken in Mexico and the American southwest.
+	 		Topics of interest include the Mexican Revolution, WWI, and medical research 
+	 		and publications on a number of topics including yellow fever on the northwest 
+	 		coast of Mexico in the early-mid 1920s.
+	 </abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent>7.75 linear feet</extent></physdesc>	 
+	 <repository label="Repository:"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository> 
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+  	<p>There are no restrictions on this collection.</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>Emile Cyrus Houle Collection (MS 478). Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+  	<p>Emile Cyrus Houle was born June 5th, 1881 in Michigamme, Michigan and graduated, 
+  		M. D., from the University of Michigan in 1904.  Following brief stays at the 
+  		Tamarack Hospital in Calumet, Michigan and the Mohak and Wolverine mines in 
+  		Kearsarge, Michigan as Assistant Surgeon from 1904-1905 and 1905-1907 respectively, 
+  		Houle became the Assistant Surgeon of the Sud Pacifico (S. P.) de Mexico Railroad 
+  		Company on the west coast of Mexico in 1907 where he worked under George Emory 
+  		Goodfellow, M. D.  Over the next 10 years, Houle advanced from Assistant Surgeon to 
+  		Chief Surgeon of the S. P. de Mexico Railroad Company before enlisting in the 
+  		U. S. A. Medical Corps in 1917 for the WWI war effort.  His military service 
+  		included service in the 1st Battalion 20th Engineers, Dax, France and the Surgeon 
+  		Camp, Dax, France, and a commission to Major, M. C., before discharge after 13 
+  		months of service in 1919.  After his military service, Houle returned as Chief 
+  		Surgeon of the S. P. de Mexico Railroad Company in 1919 where he stayed before 
+  		resigning in 1926.  His medical career continued as a general practitioner in his 
+  		home, Nogales, until the 1950s.  During his medical career, Houle contributed to 
+  		and wrote a number of published research articles on a variety of topics, including 
+  		yellow fever on the Mexican west coast from 1921-1925, and is credited with aiding 
+  		in the eradication of malaria in Sonora, Mexico.</p>
+  	<p>Houle was married to Loretta Fitzpatrick Houle and had two sons, Alan and Peter.  
+  		Apart from his medical career, Houle was also an amateur archaeologist, his excavations 
+  		having resulted in a collection of pre-Columbian statues which have since been donated 
+  		to a state museum, many photographs documenting his finds, and a written narrative of 
+  		his travels.  His time with the S. P. de Mexico Railroad Company also offered Houle a 
+  		unique perspective of the Mexican Revolution as it proceeded in Empalme, Sonora Mexico.  
+  		This perspective is reflected in research gathered in conjunction with the superintendent 
+  		of the railway and friend, Victor W. Bennett.</p>
+  	<p>Emile Cyrus Houle passed away October 21st, 1966.</p>
+  	
+  </bioghist> 
+  <arrangement id="a4" encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+	 <p>This collection is organized into 5 series.</p>	 
+	 <list> 
+		<item>Series I: Archaeological Scrapbooks
+		  <unitdate>circa 1910-1950s</unitdate></item>
+	 	<item>Series II: Photographs
+	 	  <unitdate>1902-1920, 1927-1931</unitdate></item>
+	 	<item>Subseries 1: Photo Albums</item>
+	 	<item>Subseries 2: Loose Photos</item>
+	 	<item>Series III: Printed Materials
+	 	  <unitdate>1907-1971, 2008-2010</unitdate></item>
+	 	<item>Series IV: Genealogy
+	 	  <unitdate>1896-1982</unitdate></item>
+	 	<item> Series V: Oversize Materials
+	 	  <unitdate>1904-1948</unitdate></item>	
+	 </list> 
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>Photographs, scrapbooks, and printed materials, 1896-2010 (bulk 1910-1927). This collection 
+  		is comprised of photo albums, scrapbooks, loose photographs, and printed materials documenting 
+  		the life and travels of Emile Cyrus Houle. The bulk of the material relates to his medical 
+  		career as a surgeon for the S. P. de Mexico Railroad Company and USA Medical Corps in France 
+  		during WWI, and archaeological excavations undertaken in Mexico and the American southwest.  
+  		Working as a surgeon for the S. P. de Mexico Railroad Company on the west coast of Mexico from 
+  		1907-1920’s, Houle was present for events related to the Mexican Revolution, which are documented 
+  		in photographs, journal entries, and research printed materials in the collection.  Well 
+  		represented events include the Banquet Massacre of Yaqui Chiefs and the Imuris Incident.  His 
+  		medical career also included 13 months of service in the U.S.A. Medical Corps in France during 
+  		WWI from 1917-1919 with promotion to Major, M. C., U.S.A, which is documented primarily in 
+  		correspondences, journal entries, and other documents.</p> 
+  	<p>Houle’s time in Mexico and the American southwest also allowed for a career as an amateur 
+  		archaeologist with excavations in Ixtlán del Río, Mazatlán, and Tepic, Mexico, and Nogales and 
+  		Tuba City, AZ, among other locations.  These archaeological excavations are greatly represented 
+  		in two scrapbooks and loose items of mainly photographic material depicting sculpture figurines 
+  		and rock art.  The two scrapbooks include copies of a potential future publication documenting 
+  		Houle archaeological career, with the inclusion of notes, rough drafts, and final versions of a 
+  		five chapter personal narrative describing it. The narrative can be found in the printed materials. 
+  		Apart from his professional careers, his personal life is represented in early photographs starting 
+  		from 1902 and correspondences and photographs from later in life mainly during the 1950s and 1960s.</p>
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+			<persname role="subject " encodinganalog="600" source="lcnaf">Goodfellow, George Emory, 1855-1910</persname> </item> 
+	 	<item>
+	 		<subject encodinganalog="650" source="lcsh">Ixtlán del Río (Nayarit, Mexico) -- Antiquities </subject>
+	 	</item>
+	 	<item>
+	 		<subject encodinganalog="650" source="lcsh">Mexico -- Antiquities</subject>
+	 	</item>
+	 	<item>
+	 		<subject encodinganalog="650" source="lcsh">Mexico -- History -- Revolution, 1910-1920</subject>
+	 	</item>
+	 	<item>
+	 		<subject encodinganalog="650" source="lcsh">Railroads -- Mexico</subject>
+	 	</item>
+	 	<item>
+	 		<subject encodinganalog="650" source="lcsh">World War, 1914-1918</subject>
+	 	</item>
+	 	<item>
+	 		<subject encodinganalog="650" source="lcsh">Yellow fever -- Mexico</subject>
+	 	</item>
+	 	<item>
+	 		<genreform encodinganalog="655" source="lcsh">Photographs</genreform>
+	 	</item>
+	 </list>  
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+		  <unittitle> Series I: Archaeological Scrapbooks
+			 <unitdate type="inclusive" certainty="approximate">circa 1910-1960s</unitdate></unittitle> 
+		</did><scopecontent>
+			<p>This series contains two scrapbooks document Emile Cyrus Houle’s archaeological 
+			findings and travels.  They contain photographs and descriptions of pre-Columbian archaeological 
+			finds, including statuettes, figurines, rock art, pottery, and other ceramics from locations such 
+			as Manzanillo, Guaymas, and Ixtlán del Río along the west coast of Mexico.  These scrapbooks may 
+			have been layouts for intended publications and thus loose items have been documented by the pages 
+			they were originally found on or between.  Scrapbook 1 is more complete than Scrapbook 2.</p>
+		</scopecontent> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container>
+		  	 <unittitle>Scrapbook 1,
+		  	 	<unitdate>circa 1910-1950s</unitdate></unittitle>
+		  </did>
+		</c02> 
+	 	<c02 level="file"> 
+	 	  <did> <container type="box">2</container> 
+	 		<unittitle>Scrapbook 2,
+	 			<unitdate>circa 1910-1960s</unitdate></unittitle> 
+	 	  </did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 	  <did> <container type="box">3</container> 
+	 		<container type="folder">1</container> 
+	 		<unittitle>Scrapbook 1 - Loose Items by Page, Cover – p. 83,
+	 			<unitdate>circa 1910-1950s</unitdate></unittitle> 
+	 	  </did> 
+	 	</c02> 
+	 	<c02 level="file">
+	 	  <did> <container type="box">3</container> 
+	 		<container type="folder">2</container> 
+	 		<unittitle>Scrapbook 1 – Loose Items by Page, p. 84 – 127,
+	 			<unitdate>circa 1910-1950s</unitdate></unittitle> 
+	 	  </did> 
+	 	</c02> 
+	 	<c02 level="file">
+	 		<did> <container type="box">3</container> 
+	 			<container type="folder">3</container> 
+	 			<unittitle>Scrapbook 2 – Loose Cover Items – Maps and Other,
+	 				<unitdate>circa 1910-1960s</unitdate></unittitle> 
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file">
+	 		<did> <container type="box">3</container> 
+	 			<container type="folder">4</container> 
+	 			<unittitle>Scrapbook 2 – Loose Cover Items – Notes,
+	 				<unitdate>circa 1910-1960s</unitdate></unittitle> 
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file">
+	 		<did> <container type="box">3</container> 
+	 			<container type="folder">5</container> 
+	 			<unittitle>Scrapbook 2 – Loose Cover Items – Photographs and Negatives,
+	 				<unitdate>circa 1910-1960s</unitdate></unittitle> 
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file">
+	 		<did> <container type="box">3</container> 
+	 			<container type="folder">6</container> 
+	 			<unittitle>Scrapbook 2 – Loose Items by Page
+	 				<unitdate>circa 1910-1960s</unitdate></unittitle> 
+	 		</did> 
+	 	</c02> 
+	 </c01>
+  	<c01 level="series" id="ser2"> 
+  		<did> 
+  			<unittitle> Series II: Photographs,
+  				<unitdate type="inclusive">circa 1900-1960s</unitdate></unittitle> 
+  		</did><scopecontent>
+  			<p>This series contains photographic material including photo albums and loose photographs found in the collection.</p>
+  		</scopecontent> 
+  		<c02 level="subseries" id="sbser1">
+  		  <did>
+  		  	<unittitle>Subseries 1:Photo Albums</unittitle>
+  		  </did>
+  		    <c03 level="file">
+  			<did> <container type="box">3</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Photo Album Digital Scans</unittitle> 
+  			</did>
+  		    </c03>
+  			<c03 level="file">
+  				<did> <container type="box">3</container> 
+  					<container type="folder">8</container> 
+  					<unittitle>Photo Album 1 – Loose Items,
+  						<unitdate>1902-1907</unitdate></unittitle> 
+  				</did> 
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">3</container> 
+  					<container type="folder">9</container> 
+  					<unittitle>Photo Album 2 – Loose Items,
+  						<unitdate>1907-1910</unitdate></unittitle> 
+  				</did> 
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">3</container> 
+  					<container type="folder">10</container> 
+  					<unittitle>Photo Album 3 – Loose Items,
+  						<unitdate>1910-1917</unitdate></unittitle> 
+  				</did> 
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">3</container> 
+  					<container type="folder">11</container> 
+  					<unittitle>Photo Album 4 – Loose Items,
+  						<unitdate>1915-1920, 1928, 1931</unitdate></unittitle> 
+  				</did> 
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">3</container> 
+  					<container type="folder">12</container> 
+  					<unittitle>Photo Album 5 – Loose Items,
+  						<unitdate>1916, 1920-1927</unitdate></unittitle> 
+  				</did> 
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">4</container> 
+  					<unittitle>Photo Album 1,
+  						<unitdate>1902-1907</unitdate></unittitle> 
+  				</did> 
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">5</container> 
+  					<unittitle>Photo Album 2,
+  						<unitdate>1907-1910</unitdate></unittitle> 
+  				</did> 
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">6</container>
+  					<unittitle>Photo Album 3,
+  						<unitdate>1910-1917</unitdate></unittitle> 
+  				</did> 
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">7</container> 
+  					<unittitle>Photo Album 4,
+  						<unitdate>1915-1920, 1928, 1931</unitdate></unittitle> 
+  				</did> 
+  			</c03> 
+  			<c03 level="file">
+  				<did> <container type="box">8</container>
+  					<unittitle>Photo Album 5,
+  						<unitdate>1916, 1920-1927</unitdate></unittitle>
+  				</did> 
+  			</c03>
+  		</c02>
+  		<c02 level="subseries" id="sbser2">
+  			<did>
+  				<unittitle> Subseries 2: Loose Photographs</unittitle>
+  			</did>
+  			<c03 level="file">
+  				<did> <container type="box">9</container> 
+  					<container type="folder">1</container> 
+  					<unittitle>Archaeology and Anthropology,
+  						<unitdate>circa 1912-1957, undated</unitdate></unittitle> 
+  				</did> 
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">9</container> 
+  					<container type="folder">2</container> 
+  					<unittitle>Archaeology and Anthropology,
+  						<unitdate>circa 1920s-1957, undated</unitdate></unittitle> 
+  				</did> 
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">9</container> 
+  					<container type="folder">3</container> 
+  					<unittitle>Arizona,
+  						<unitdate>circa 1940s, undated</unitdate></unittitle> 
+  				</did> 
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">9</container> 
+  					<container type="folder">4</container> 
+  					<unittitle>Family and Friends,
+  						<unitdate>circa 1910-1940s</unitdate></unittitle> 
+  				</did> 
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">9</container> 
+  					<container type="folder">5</container> 
+  					<unittitle>Family and Friends,
+  						<unitdate>circa 1950s-1960s, undated</unitdate></unittitle> 
+  				</did> 
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">9</container> 
+  					<container type="folder">6</container> 
+  					<unittitle>Houle Gate Nogales,
+  						<unitdate>1940, 1950-1954, 1961</unitdate></unittitle> 
+  				</did> 
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">9</container> 
+  					<container type="folder">7</container> 
+  					<unittitle>Island of San Torin,
+  						<unitdate>1956</unitdate></unittitle> 
+  				</did> 
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">9</container> 
+  					<container type="folder">8</container> 
+  					<unittitle>Mexico,
+  						<unitdate>circa 1910-1957, undated</unitdate></unittitle> 
+  				</did> 
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">9</container> 
+  					<container type="folder">9</container> 
+  					<unittitle>US,
+  						<unitdate>1919, 1940s, undated</unitdate></unittitle> 
+  				</did> 
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">9</container> 
+  					<container type="folder">10</container> 
+  					<unittitle>Unknown Location,
+  						<unitdate>1915, 1940, undated</unitdate></unittitle> 
+  				</did> 
+  			</c03>
+  			<c03 level="file">
+  				<did> <container type="box">9</container> 
+  					<container type="folder">11</container> 
+  					<unittitle>Unknown People,
+  						<unitdate>1925, 1937, undated</unitdate></unittitle> 
+  				</did> 
+  			</c03>
+  		</c02>
+  	</c01>
+  	<c01 level="series" id="ser3"> 
+  		<did> 
+  			<unittitle> Series III: Printed Materials, 1907-1971, 2008-2010</unittitle> 
+  		</did><scopecontent>
+  			<p>This series contains printed materials from Houle’s professional and personal lives including 
+  				correspondences, journal entries, and research files.  Materials of interest include journal 
+  				entries during his military service in WWI, a five chapter narrative of his archaeological 
+  				travels and excavations, and research regarding the Mexican Revolution and yellow fever on 
+  				the Mexican west coast in the 1920s.</p>
+  		</scopecontent>
+  		<c02 level="file">
+  			<did> <container type="box">10</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Archaeology and Anthropology
+  					<unitdate>circa 1950s, undated</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file">
+  			<did> <container type="box">10</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Archaeology Narrative,
+  					<unitdate>undated</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file">
+  			<did> <container type="box">10</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Certificates,
+  					<unitdate>1919-1925, 1936, 1966</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file">
+  			<did> <container type="box">10</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Correspondences,
+  					<unitdate>1907-1937, 1947-1966, undated</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file">
+  			<did> <container type="box">10</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Correspondences – Family and Friends,
+  					<unitdate>1932-1935, 1953-1959</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file">
+  			<did> <container type="box">10</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>Correspondences – Family and Friends,
+  					<unitdate>1960-1971, 2008-2010, undated</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file">
+  			<did> <container type="box">10</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Correspondences – Victor W. Bennett,
+  					<unitdate>1953-1956</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file">
+  			<did> <container type="box">10</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>Correspondences – Victor W. Bennett,
+  					<unitdate>1957-1962</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file">
+  			<did> <container type="box">10</container> 
+  				<container type="folder">9</container> 
+  				<unittitle>Correspondences – Victor W. Bennett,
+  					<unitdate>undated</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file">
+  			<did> <container type="box">10</container> 
+  				<container type="folder">10</container> 
+  				<unittitle>Correspondences – George Goodfellow, M. D.,
+  					<unitdate>1908-1910</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file">
+  			<did> <container type="box">10</container> 
+  				<container type="folder">11</container> 
+  				<unittitle>Deeds,
+  					<unitdate>1937</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file">
+  			<did> <container type="box">10</container> 
+  				<container type="folder">12</container> 
+  				<unittitle>Houle Biography,
+  					<unitdate>circa 1920s, 1960, undated</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file">
+  			<did> <container type="box">10</container> 
+  				<container type="folder">13</container> 
+  				<unittitle>Houle Dayplanners,
+  					<unitdate>1953, 1956</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file">
+  			<did> <container type="box">10</container> 
+  				<container type="folder">14</container> 
+  				<unittitle>Journals
+  					<unitdate>Spring 1907-Nov. 1917, May 1919-Jan. 1922</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file">
+  			<did> <container type="box">11</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Journals – WWI,
+  					<unitdate>Nov. 1917-May 1919</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file">
+  			<did> <container type="box">11</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Newspaper Clippings
+  					<unitdate>circa 1940-1960s, undated</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file">
+  			<did> <container type="box">11</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Research,
+  					<unitdate>circa 1920s, 1950s, undated</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file">
+  			<did> <container type="box">11</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Research – Biographies,
+  					<unitdate>circa 1920s, 1940s, undated</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file">
+  			<did> <container type="box">11</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Research – George Goodfellow, M. D.,
+  					<unitdate>1932, circa 1950-1960s, undated</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file">
+  			<did> <container type="box">11</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>Index Cards, A-W</unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file">
+  			<did> <container type="box">11</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Research – Medical
+  					<unitdate>1925, 1944, 1964, undated</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file">
+  			<did> <container type="box">11</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>Research – Medical – “The Balmis Expedition For Control of Smallpox by Vaccination”,
+  					<unitdate>circa 1930s, undated</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file">
+  			<did> <container type="box">11</container> 
+  				<container type="folder">9</container> 
+  				<unittitle>Research – Medical – “Belated Serum Treatment of Sequelae of Diphtheria”,
+  					<unitdate>1933</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file">
+  			<did> <container type="box">11</container> 
+  				<container type="folder">10</container> 
+  				<unittitle>Research – Medical – “Bone Metabolism in Relation to Industrial Surgery”,
+  					<unitdate>circa 1930s, undated</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file">
+  			<did> <container type="box">11</container> 
+  				<container type="folder">11</container> 
+  				<unittitle>Research – Medical – “Calcium in Therapeutics”
+  					<unitdate>1935, undated</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file">
+  			<did> <container type="box">11</container> 
+  				<container type="folder">12</container> 
+  				<unittitle>Research – Medical – “Evaluation of Factors in Bone Union”
+  					<unitdate>1938, undated</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file">
+  			<did> <container type="box">11</container> 
+  				<container type="folder">13</container> 
+  				<unittitle>Research – Medical – “Metabolism in Relation to Fractures”
+  					<unitdate>circa 1930s, undated</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file">
+  			<did> <container type="box">11</container> 
+  				<container type="folder">14</container> 
+  				<unittitle>Research – Medical – “Yellow Fever – West Coast 1921-1925”
+  					<unitdate>1923-1925, 1930</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file">
+  			<did> <container type="box">11</container> 
+  				<container type="folder">15</container> 
+  				<unittitle>Research – Mexican Revolution
+  					<unitdate>1913-1915, 1921, undated</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file">
+  			<did> <container type="box">11</container> 
+  				<container type="folder">16</container> 
+  				<unittitle>Research – Mexican Revolution – Banquet Massacre of Yaqui Chiefs
+  					<unitdate>1921, 1953, 1957</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file">
+  			<did> <container type="box">12</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Research – Mexican Revolution – Imuris Incident
+  					<unitdate>circa 1910-1920s, 1950s, undated</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file">
+  			<did> <container type="box">12</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Research – Poetry, Songs, and Stories
+  					<unitdate>1909, 1958, 1961, undated</unitdate></unittitle> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file">
+  			<did> <container type="box">12</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Sketches
+  					<unitdate>1914, undated</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  	</c01>
+  	<c01 level="series" id="ser4"> 
+  		<did> 
+  			<unittitle> Series IV: Genealogy
+  				<unitdate type="inclusive">1896-1982</unitdate></unittitle> 
+  		</did><scopecontent>
+  			<p>This series contains materials of various formats as they were collected by Houle 
+  				and later descendants in order to document their genealogy.  Formats include photographs 
+  				and printed materials, including correspondences, family histories, maps, newspaper 
+  				clippings, and notes.</p>
+  		</scopecontent>
+  		<c02 level="file">
+  			<did> <container type="box">12</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Albert J. Houle
+  					<unitdate>1896-1917, 1964, undated</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file">
+  			<did> <container type="box">12</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Alice Houle (Alice Sturgeon)
+  					<unitdate>1950, undated</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file">
+  			<did> <container type="box">12</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>Arthur Houle
+  					<unitdate>1912, 1923-1962, undated</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file">
+  			<did> <container type="box">12</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Borbeau Family
+  					<unitdate>1954-1958, undated</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file">
+  			<did> <container type="box">12</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>Eugene Houle
+  					<unitdate>1949-1965, undated</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file">
+  			<did> <container type="box">12</container> 
+  				<container type="folder">9</container> 
+  				<unittitle>Louise Exilia and Cyrille Houle III
+  					<unitdate>1900, 1925-1927, undated</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file">
+  			<did> <container type="box">12</container> 
+  				<container type="folder">10</container> 
+  				<unittitle>Fitzpatrick Family
+  					<unitdate>1913-1938, 1955-1963, undated</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file">
+  			<did> <container type="box">12</container> 
+  				<container type="folder">11</container> 
+  				<unittitle>Fitzpatrick Family
+  					<unitdate>undated</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file">
+  			<did> <container type="box">13</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Fred Houle
+  					<unitdate>1905, 1943-1965, undated</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file">
+  			<did> <container type="box">13</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>George Houle
+  					<unitdate>1918, 1926, undated</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file">
+  			<did> <container type="box">13</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Josephine Houle (Josephine Hanna)
+  					<unitdate>1941-1964, 1978-1982, undated</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file">
+  			<did> <container type="box">13</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Louis Houle
+  					<unitdate>1924, 1957-1959, undated</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  		<c02 level="file">
+  			<did> <container type="box">13</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Newspaper Clippings with People Named Houle
+  					<unitdate>undated</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  	</c01>
+  	<c01 level="series" id="ser5"> 
+  		<did> 
+  			<unittitle> Series V: Oversize Materials
+  				<unitdate type="inclusive">1904-1948</unitdate></unittitle> 
+  		</did><scopecontent>
+  			<p>This series contains oversized materials, including degrees, certificates, 
+  				photographs, maps, and other printed materials.</p>
+  		</scopecontent>
+  		<c02>
+  			<did> <container type="box">14</container> 
+  				<unittitle>Oversize Materials
+  					<unitdate>1904-1948, undated</unitdate></unittitle> 
+  			</did> 
+  		</c02>
+  	</c01>
+  </dsc> 
+</archdesc></ead>

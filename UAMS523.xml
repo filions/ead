@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+ audience="internal" id="a0"> 
+	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library SpecialCollections//text(US::AzU::Broadsides by Jose Guadalupe Posada,)//en""UAMS523.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper>Broadsides by Jose Guadalupe Posada 
+	 		<date normal="1884/1920" era="ce" calendar="gregorian">1884-1920</date></titleproper>
+	 	<titleproper type="filing" altrender="nodisplay">Posada, Jose Guadalupe Broadsides</titleproper>
+	 	<author>Processed by Deborah Weller.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://www.library.arizona.edu/speccoll/</addressline>
+		</address> 
+		<date normal= "2014" era= "ce" calendar = "gregorian">; 2014</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Deborah Weller. 
+		<date era="ce" encodinganalog="date" normal="20140716">July 14, 2014</date></creation> 
+	 <langusage>Finding aid is in<language> English and Spanish.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+  	<titleproper>Broadsides by Jose Guadalupe Posada,<date era= "ce" calendar= "gregorian">1884-1920</date></titleproper> 
+	 <num>Collection Number: MS 523</num> 
+  	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Deborah Weller.</item> 
+		</defitem> 
+		<defitem> 
+			<label>Date completed:</label> 
+		  <item> 
+			 <date>July 14, 2014</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Deborah Weller</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 20014. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name:">Broadsides by Jose Guadalupe Posada, 
+		<unitdate type="inclusive" label="Dates:" normal="1884/1920">1884-1920</unitdate></unittitle>	 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	 repositorycode="AzU" countrycode="us">MS 523</unitid> 
+	 <origination label="Creator:"> 
+	 	<persname encodinganalog="100" source="lcnaf">Posada, José Guadalupe 1852-1913</persname> </origination> 
+  	<abstract label="Abstract:">A Collection of 50 broadsides(news sheets)or “Hojas Volantes”; many with José Guadalupe Posada illustrations on political topics, crime, bullfighters, corridos and humorous subjects.</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent>2 linear ft.</extent></physdesc>	 
+	 <repository label="Repository:"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://www.library.arizona.edu/speccoll</addressline>		  
+		</address></repository> 
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+	 <p>There are no restrictions on this collection.</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>Broadsides by Jose Guadalupe Posada,(MS 523). Special
+  		Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+  	<p>Jose Guadalupe Posada was a Mexican political illustrator, printmaker and engraver.  He was born February 2, 1852 in Aguascalientes, Mexico to a poor family of nine children.   Posada was taught to read, write, and draw by his older brother Cirilo, a country school teacher.</p> 
+  	<p>He learned engraving and lithography in Trinidad Pedroso’s Workshop of Popular Graphics. In his late teens Posada began his career as a political cartoonist for El Jicote the local newspaper in Aguascalientes owned by Trinidad Pedroso.  Jose G. Posada then moved to the city of Leon, Guanajuato, where he married Maria de Jesus Vela on September 20, 1875.  In Leon, Posada and Pedroso ran a small printing and commercial illustration shop which concentrated on commercial and advertising work, illustration of books, and the printing of posters of historical and religious figures.  In 1883 Jose G. Posada became a teacher of lithography at the local Preparatory School.  In 1888 he moved to Mexico City after a disastrous flood devastated the city of Leon. In 1889 he began working as s a draughtsman at Antonio Vanegas Arroyo’s printing house.  In a career that lasted over 40 years he created thousands and thousands of images.  Posada is best known for his costumed skeleton characters or Calaveras which he used as a source for his political and social satire.  His skeletons have become associated with the Mexican holiday Día de los Muertos, the "Day of the Dead".
+  	</p>
+  	<p>Jose G. Posada was largely forgotten by the end of his life.  He died penniless and out of favor with local officials on January 20, 1913 in Mexico City. He was buried in an unmarked grave.</p>
+  	<p>Posada's illustrations were brought to a wider fan base in the 1920s by the French artist Jean Charlot who called him the “printmaker to the Mexican people.”  His work has gone on to influence many modern day Latin American artists and cartoonist.</p>
+  </bioghist> 
+  <arrangement id="a4" encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+	 <p>This collection is organized into 1 box with 50 broadsides.</p>	   
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>Jose G. Posada worked with the publisher Vanegas Arroyo during the years 1889-1912.  This collection is a selection of news sheets from that tumultuous but fascinating period of Mexican history.  The gamut of topics covered are:  Sensationalized crime accounts, bullfighters accused of rape, politics - including two rare broadsides relating to Fransisco I. Madero, the Mexican Revolution, exploits of particular military leaders, natural disasters, humorous, verse, religious miracles and the like.</p> 
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+			<persname encodinganalog="600" role="subject" source="lcsh">Posada, Jose Guadalupe, 1852-1913.</persname></item>
+			</list> 
+  	<list>
+		<item>
+		  <persname encodinganalog="600" role="subject" source="lcsh">Vanegas, Antonio.</persname></item>
+	 </list> 
+	 <list> 
+	 	<item> 
+	 		<corpname encodinganalog="610" source="lcnaf" role="subject">Antonio Vanegas Arroyo (Firm), publisher.</corpname></item>
+	 </list>
+  	<list>
+  	<item><geogname encodinganalog="651" source="lcsh" role="subject">Mexico--Politics and government.</geogname></item>
+  </list>
+		<list>
+			<item><subject encodinganalog="650" source="lsch">Broadsides--Mexican.</subject></item></list> 
+	 <list> 
+			<item><subject encodinganalog="650" source="lsch">Broadsides--Mexico.</subject></item></list>
+  	<list> 
+  		<item><subject encodinganalog="650" source="lsch">Engraving, Mexican.</subject></item></list>
+  	<list>
+  			<item><geogname encodinganalog="651" source="lcsh" role="subject">Mexico--Politics and government.</geogname></item>
+  	</list>
+  	<list>
+  		<item><geogname encodinganalog="651" source="lcsh" role="subject">Mexico--History.</geogname></item>
+	 </list> 
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+			<unittitle>A list of 50 broadsides, many with Posada illustrations and dates if printed on items: 
+		  	<unitdate type="inclusive">1884-1920</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <container type="folder">1</container> 
+		  	<unittitle>Libertad Caucional Del Famoso Diestro Rodolfo Gaona.</unittitle>
+		  	<unitdate>[1910]</unitdate>
+		  	<physdesc><dimensions>12 x 16 inches.</dimensions></physdesc>
+		  	<physdesc><physfacet> Uncut double sheet with two printing of the two sided broadsheet.</physfacet></physdesc>
+		  </did>
+			<scopecontent><p> Story of a famous bullfighter accused of taking advantage of an inebriated young female fan (Miss Maria Luisa Noecker), the girl ended up committing suicide after some other perpetrator apparently raped her,</p></scopecontent>
+		</c02> 
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">2</container>
+	 			<unittitle>Marieta. Cancion Moderna. Tiempo De Polka.</unittitle>
+	 			<unitdate>1914</unitdate>
+	 			<physdesc><physfacet>Uncut double sheet.</physfacet></physdesc>
+	 		</did>
+	 	</c02>
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">3</container>
+	 			<unittitle>Despedida Del General Diaz.</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did>
+	 		<scopecontent><p> A "good bye - farewell" to General Diaz.</p></scopecontent>
+	 	</c02>
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 		<container type="folder">4</container>
+	 			<unittitle>Asalto Al Tren De Cuenavac Por Los Excecrables Bandidos Zapatistas. 82 Muertos Y 17 Heridos!</unittitle>
+	 			<unitdate>undated</unitdate>
+	 			<physdesc><physfacet>Uncut double signed sheet.</physfacet></physdesc>
+	 		</did>
+	 		<scopecontent><p>Describes violent train holdup in Cuernavaca by Zapatistas.</p></scopecontent>
+	 	</c02>
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 		<container type="folder">5</container>
+	 			<unittitle>Espantosismo Crimen! Estrangulados la noche del 2 de Diciembre del presente. año en la casa num. 2 de la 1a. Calle de Matias Romero una cuadra antes de la penitenciarla.</unittitle>
+	 			<unitdate> 1905</unitdate>
+	 		</did>
+	 		<scopecontent><p>Unsolved crime story about the strangulation of two poor children.</p></scopecontent>
+	 		
+	 	</c02>
+	 	<c02 level="file">
+	 		<did ><container type="box">1</container>
+	 			<container type="folder">6</container>
+	 			<unittitle> Las Derrotas de los Alzado Carrancistas.</unittitle>
+	 			<unitdate>1913</unitdate>
+	 		</did>
+	 		<scopecontent><p>Illustration of the "Una Mujer degollda" [decapitated] plus la muerte de chche campos a los separatistas Sonorenses.  "Cheche campos fue uno de los rebeldes que mas simpatias inspiraba,  por haberse lanzado de una manera desinteresada a la revuelta contra el gobierno  del nefasto Francisco I. Madero</p></scopecontent>
+	 	</c02>
+	 	<c02 level="file" >
+	 		<did><container type="box">1</container>
+	 		<container type="folder">7</container>
+	 			<unittitle> Verdaderos versos de Macario Romero.</unittitle>
+	 			<unitdate>1911</unitdate>
+	 			<physdesc><physfacet>Uncut double sheet.</physfacet></physdesc>
+	 		</did>
+	 		<scopecontent><p>"Valgame Dios, que veo!  Cuanteo yaqui con guarache, y cuanto maldito apache con sus flechas de trofeo!" plus Corrido Del Zenzontle en verso.  Corrido about Macario Romero who disobeyed General Plata and attended a dance where he was shot dead, </p></scopecontent>
+	 	</c02>
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">8</container>
+	 			<unittitle>Ligitimos versos de lino zamora.  Traidos del real de zacatecas.</unittitle>
+	 			<unitdate>1911</unitdate>
+	 			<physdesc><physfacet> Uncut double sheet.</physfacet></physdesc>
+	 		</did>
+	 	</c02>
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">9</container>
+	 			<unittitle>Adios, Adio!  El Ultimo corrido de la despedida de chonforo vico.</unittitle>
+	 			<unitdate>1909</unitdate>
+	 			<physdesc><physfacet>Uncut double sheet.</physfacet></physdesc>
+	 		</did>
+	 	</c02>
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">10</container>
+	 			<unittitle> El Sr. Presidente interino, la Candidatura del senor Don Franciso Leon de la Barra.</unittitle>
+	 			<unitdate>undated</unitdate>
+	 			<physdesc><physfacet> Photo portrait.</physfacet></physdesc>
+	 		</did>
+	 	</c02>
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">11</container>
+	 			<unittitle> Gaceta Callejera. Esta hoja se publicara cuando los acontecimientos de sensacion los requieren. Grande y sorprendente simulacro,</unittitle>
+	 			<unitdate>Abril, 1894</unitdate>
+	 		</did>
+	 	</c02>
+	 	<c02 level="file">
+	 	<did><container type="box">1</container>
+	 		<container type="folder">12</container>
+	 		<unittitle>Instrucciones militares para los voluntarios que deseen tomar las armas,</unittitle>
+	 		<unitdate>undated</unitdate>
+	 		</did>
+	 	</c02>
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">13</container>
+	 			<unittitle>Jesus Bruno Martinez en las Barotolinas de Belen. Ultimas noticias de S. Juan De Ulua, las alhajas de treffiel,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did>
+	 	</c02>
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">14</container>
+	 			<unittitle>Don Francisco I. Madero ante el peligro +Terrible mortandad, 75 muertos y cuarenta y dos heridos en la ciudad de Puebla,</unittitle>
+	 			<unitdate>la noche del 12 Julio de 1911</unitdate>
+	 		</did>
+	 	</c02>
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">15</container>
+	 			<unittitle>Impresiones del discurso del Senor Madero en Puebla + Noche Triste,</unittitle>
+	 			<unitdate>del 12 de Julio de 1911</unitdate>
+	 		</did>
+	 	</c02>
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">16</container>
+	 			<unittitle>El Sargento Juan Diaz condenado a muerte.  No hay esperanza de Salvacion para el reo.</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did>
+	 		<scopecontent><p> Details of the crimes commited by the cruel sargent during the Mexican Revolution.</p></scopecontent>
+	 	</c02>
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">17</container>
+	 			<unittitle>La Mujer de cien maridos como alfileres prendidos,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did>
+	 	</c02> 		
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">18</container>
+	 			<unittitle>El Novio de mil mujeres les da dinero y placeres,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did>
+	 	</c02> 		
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">19</container>
+	 			<unittitle>Versos legitimos del tipico Jarabe Morellano,</unittitle>
+	 			<unitdate>1918</unitdate>
+	 		</did>
+	 	</c02> 		
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">20</container>
+	 			<unittitle>La inundacion de Guanajuato y su causa verdadera,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did>
+	 	</c02> 		
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">21</container>
+	 			<unittitle>La Despedida de un Pachuqueno,</unittitle>
+	 			<unitdate>1920</unitdate>
+	 		</did>
+	 	</c02> 		
+	 	<c02 level="file">
+	 	<did><container type="box">1</container>
+	 		<container type="folder">22</container>
+	 		<unittitle>Valentina,</unittitle>
+	 		<unitdate>1920</unitdate>
+	 	</did>
+	 	</c02> 		
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">23</container>
+	 			<unittitle>Memorias y recepcion en los profundisimos infiernos del bandido Nicolas Torres,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did>
+	 	</c02> 		
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">24</container>
+	 			<unittitle>Los Huelguistas de Orizaba, corrido,</unittitle>
+	 			<unitdate>1920</unitdate>
+	 		</did>
+	 	</c02> 		
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">25</container>
+	 			<unittitle>La Continuacion, senores de los Pronosticos va; aprendanselos de memoria que ya se van a acabar.</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did>
+	 	</c02> 		
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">26</container>
+	 			<unittitle>Horrorosa noticia, robo sacrilego y aseinato del Senor Cura en la Iglesia Parroquial del pubelo de Zahuaya, cometidos por un impio llamado Celso Flores,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did>
+	 	</c02> 		
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">27</container>
+	 			<unittitle>El Valiente Costeno,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did>
+	 	</c02> 		
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">28</container>
+	 			<unittitle>El General Don Pasqual Orozco sale para el norte a batir los traidores separatistas,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did>
+	 	</c02> 			
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">29</container>
+	 			<unittitle>Aventuras de un catrin por amar un casada,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did>
+	 	</c02> 			
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">30</container>
+	 			<unittitle>Gran alarma escandalosa que se vio alla por Chihuahua, al oir los tristes lamentos de un patito con teresa que no llena su barriga por causa de la pobreze,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did>
+	 	</c02> 				
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">31</container>
+	 			<unittitle>El Cadaver de Antonio Montes convertido en carbon en el deposito panteon  Espanol de la captial de Mexico,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did>
+	 	</c02> 			
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">32</container>
+	 			<unittitle> Ya la vieja de mi suegra no mas quiere reganar, de a tiro la corta verde no la deja Madurar,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did>
+	 	</c02> 		
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">33</container>
+	 			<unittitle>Loa dicha por un petatero y un tortillera, en honor del Senor de las Maravillas,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did>
+	 	</c02> 		
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">34</container>
+	 			<unittitle>Corrido Guanajuatense del horrible descarrilamiento de Silao,</unittitle>
+	 			<unitdate>1920</unitdate>
+	 		</did>
+	 	</c02> 		
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">35</container>
+	 			<unittitle>Marrieta,</unittitle>
+	 			<unitdate>1920</unitdate>
+	 		</did>
+	 	</c02> 		
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">36</container>
+	 			<unittitle>Corrido de Juan Dimio (del estado de Morelos),</unittitle>
+	 			<unitdate>1918</unitdate>
+	 		</did>
+	 	</c02> 		
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">37</container>
+	 			<unittitle>Una Huerfana se lamenta y llora sobre la Tumba de las Madre,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did>
+	 	</c02> 		
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">38</container>
+	 			<unittitle>Triste que tuvo en Mexico pues fue presto fusilado, Don Gustavo el Fatidico , El famoso Ojo Parado,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did>
+	 	</c02> 		
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">39</container>
+	 			<unittitle>Corrido de petrita,</unittitle>
+	 			<unitdate>1918</unitdate>
+	 		</did>
+	 	</c02> 		
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">40</container>
+	 			<unittitle>Legitimos versos de Lino Zamora traidos del real de Zacatecas,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did>
+	 	</c02> 		
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">41</container>
+	 			<unittitle>El Valiente de Guadalajara,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did>
+	 	</c02> 	
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 		<container type="folder">42</container>
+	 			<unittitle>Horrible asesinato! Una ama de llaves  que mata al Cura De S. Geronimo Distrito de Otumba,</unittitle>
+	 	<unitdate>undated</unitdate>
+	 		</did>
+	 	</c02>
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">43</container>
+	 			<unittitle>Milagro patene!  La imagen de Sagrado Corazon de Jesus, de aparece en una hostia consagrada,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did>
+	 	</c02>		
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">44</container>
+	 			<unittitle> Lamentos del gral D. Benardo Reyes in la prision militar de Santiago Tlaltelolco,</unittitle>
+	 			<unitdate>1912</unitdate>
+	 		</did>
+	 	</c02>			
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">45</container>
+	 			<unittitle> Proximo fin del mundo.  La horrible catastrofe del Domingo 14 de Abril de 1907 en Chilpancingo, Chilapa, Tixtla y Acapulco en el estado de Guerrero. Destruccion del Colegio Salesiano en la capital de Mexico,</unittitle>
+	 			<unitdate>Domingo 14 de Abril de 1907</unitdate>
+	 		</did>
+	 	</c02>			
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">46</container>
+	 			<unittitle>Reciente pleito de casados que si no rinen Estan Enojados,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 			<physdesc><physfacet>Double sheet uncut.</physfacet></physdesc>
+	 		</did>
+	 	</c02>			
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">47</container>
+	 			<unittitle>La nunca vista Nevada del dia 11 de Febrero del presente ano,</unittitle>
+	 			<unitdate>1907</unitdate>
+	 		</did>
+	 	</c02>	
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">48</container>
+	 			<unittitle>Loa dicha por una cocinera y un aguador, en honor de nuestra Senora del Rosario,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did>
+	 	</c02>	
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">49</container>
+	 			<unittitle>Vista y despedimiento al Senor de Ixtapalapa. Que se venera en dicho Pueblo,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did>
+	 	</c02>	
+	 	<c02 level="file">
+	 		<did><container type="box">1</container>
+	 			<container type="folder">50</container>
+	 			<unittitle>Ay, que Chula Eres, pachita! Me da ganas de besarte no mas no quieras platitas porque puedo hasta patearte y te iras con tu nanita a echar pulgas a otra parte. Amigo, voy a contarte lo que me paso en Morelia, que ya me corrio silveria a echar pulgas a otra parte,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did>
+	 	</c02>	
+	 </c01>	
+  </dsc> 
+</archdesc></ead>

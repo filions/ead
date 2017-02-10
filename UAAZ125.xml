@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+   <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0"> 
+      <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special Collections//text
+		(US::AzU::Papers of Valentin Felix)//en""UAAZ125.xml"
+      </eadid> 
+      <filedesc> 
+         <titlestmt> 
+         	<titleproper encodinganalog="title">Papers of Valentin Felix,
+	 	       <date normal="1886/1952" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">1886-1952</date>
+	 	       <date normal="1921/1944" type="bulk">(bulk 1921-1944)</date>
+	 	    </titleproper>
+	 	    <titleproper type="filing" altrender="nodisplay"> Felix, (Valentin) Papers of,
+            </titleproper>
+	        <author>Processed by Staff.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date normal= "2015" era= "ce" calendar = "gregorian">; 2015</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+            <date era="ce" encodinganalog="date" normal="20151204">December 04, 2015</date>
+  	     </creation>
+	     <langusage>Finding aid encoded in<language> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+      <did id="a1"> 
+         <head>Collection Summary</head> 
+      	<unittitle encodinganalog="245" label="Collection Name:"> Papers of Valentin Felix,
+            <unitdate type="inclusive" label="Dates:" normal="1886/1952">1886-1952</unitdate>
+            <unitdate type="bulk" label="Dates:" normal="1921/1944">(bulk 1921-1944)</unitdate>
+  	     </unittitle>	 
+	     <unitid label="Collection Number:" encodinganalog="099" repositorycode="AzU" countrycode="us">AZ 125</unitid>
+	     <origination label="Creator:"> 
+            <persname source="lcnaf" encodinganalog="100">Felix, Valentin.</persname> </origination>
+      	<abstract label="Abstract:">Valentin Felix was a merchant in Tucson, Arizona and owner of the Roof Garden Grocery and Meat Market, 
+      								later the Roof Garden Fish Company. This collection contains correspondence, financial accounts and bills, 
+      								insurance papers, and other materials chiefly concerning the store and other Tucson real estate. </abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description:"><extent>.4 linear feet</extent></physdesc>	 
+	     <repository label="Repository:"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng" scriptcode="Latin">English;</language> with some
+         	letters in <language encodinganalog="546" langcode="spa" scriptcode="Latin">Spanish.</language></langmaterial>
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+         <p>There are no restrictions on this collection.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+      	<p>Papers of Valentin Felix (AZ 125). Special Collections, University of Arizona Libraries.</p>
+      </prefercite> 
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Staff.</p>
+      </processinfo>
+      <bioghist id="a2" encodinganalog="545"> 
+         <head>Biographical Note</head> 
+      	<p>Merchants, Tucson, Ariz.; owner of the Roof Garden Grocery and Meat Market, later the Roof Garden Fish Company.</p> 
+      </bioghist> 
+      <arrangement id="a4" encodinganalog="351$a"> 
+         <head>Arrangement</head> 
+  	     <p>This collection is organized into 3 series. Materials are in chronological arrangement.</p>	 
+         <list>
+            <item>Series I:Personal and family papers,
+  			   <unitdate>1886-1944</unitdate></item>
+  		    <item>Series II:Tucson property papers,
+  			   <unitdate>1893-1931</unitdate></item>
+         	<item>Series III:Miscellaneous financial records,
+         		<unitdate>1920-1952</unitdate></item>
+         </list>
+      </arrangement> 
+      <scopecontent id="a3" encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>Correspondence, financial accounts and bills, insurance 
+      	papers, and other materials chiefly concerning the store 
+      	and other Tucson real estate. Includes a large amount of 
+      	bills for supplies from Tucson merchants. Also includes 
+      	one photograph of the market interior, 1915; and a 
+      	certification of a ranch brand, 1891.</p> 
+      </scopecontent>
+      <controlaccess>
+         <head>Access Terms</head>
+         <list type="simple">
+  		    <item>
+  			   <corpname encodinganalog="610" source= "lcnaf">Roof Garden Grocery and Meat Market -- Records and correspondence.</corpname>
+  		    </item>
+  		    <item>
+  			   <subject encodinganalog="650" source= "lcsh">Merchants -- Arizona -- History -- Sources.</subject>
+  		    </item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Real property -- Arizona -- Tucson.</subject>
+         	</item>
+         </list>
+      </controlaccess>
+   </archdesc>
+</ead>

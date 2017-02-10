@@ -1,0 +1,1839 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21">
+   <eadheader audience="internal" findaidstatus="edited-full-draft" langencoding="ISO_639-2b"
+      repositoryencoding="iso15511" scriptencoding="iso15924" dateencoding="iso8601"
+      countryencoding="iso3166-1">
+      <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special Collections//text(US::AzU::Paul Bigelo Sears Collection//en""UAMS455.xml"</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper encodinganalog="245">Paul Bigelow Sears Collection,<date encodinganalog="245$f">1832-1969 (bulk 1930-1966)</date>
+               <num>MS 455</num>
+            </titleproper>
+            <titleproper encodinganalog="title" altrender="nodisplay" type="filing">Paul Bigelow Sears collection</titleproper>
+             
+           <author audience="internal">Processed by Donna Rowe</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>University of Arizona</publisher>
+            <date era="ce" calendar="gregorian">2010</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Machine-readable finding guide and skeletal markup derived via template; markup checked and completed by Donna Rowe, 
+            <date era="ce" calendar="gregorian">March 2011</date>
+         </creation>
+         <langusage>Finding guide is in <language langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Paul Bigelow Sears Collection
+            <unitdate type="inclusive" normal="1832/1969">1832-1969 </unitdate>
+            <unitdate type="bulk" normal="1930/1966">1930-1966 (bulk)</unitdate></unittitle>
+         <unitid encodinganalog="099">Collection Number: MS 455</unitid>
+         <origination><persname encodinganalog="100">Sears, Paul B. (Paul Bigelow), 1891-1990</persname></origination>
+         <physdesc><extent encodinganalog="300">6.5 Linear Feet</extent></physdesc>
+         <abstract encodinganalog="520">The collection consists of correspondence, manuscripts, grant proposals, reports, photographs, 
+            subject files, field notes, pollen samples and data relating to desert ecology which document Paul Sear's career as a botanist, 
+            ecologist and educator. The bulk of the collection is comprised of correspondence between Sears and other researchers. 
+            Ecology was the central interest of Paul B. Sears' professional life. Understanding an ecosystem includes understanding 
+            its history.  Sears used pollen analysis data of bog sediments as a tool, as a means to reconstruct past vegetation and to 
+            infer climate which is included in this collection.</abstract>
+        
+         <langmaterial>
+            <language langcode="eng" encodinganalog="546">English.</language>
+         </langmaterial>
+         <repository label="Repository:"> 
+            <corpname>Special Collections, University Libraries</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+               <addressline>PO Box 210055</addressline> 
+               <addressline>Tucson, AZ 85721-0055</addressline> 
+               <addressline>Phone: 520-621-6423</addressline> 
+               <addressline>Fax: 520-621-9733</addressline> 
+               <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+            </address></repository> 
+      </did>
+      <descgrp type="admininfo">
+         <accessrestrict encodinganalog="506">
+            <p>None</p>
+         </accessrestrict>
+         <prefercite encodinganalog="524">
+            <p>Paul Bigelow Sears Collection (MS 455). Special Collections, UA Libraries.</p>
+         </prefercite>
+
+         </descgrp>
+      <bioghist><head>Biographical Note</head>
+         <p>Paul Bigelow Sears, educator, botanist, ecologist and conservationist was born on December 17, 1891, in Bucyrus, Ohio, to 
+            Rufus Victor and Sallie Harris Sears. He attended Ohio Wesleyan University, receiving a B.S. degree in 1913 and a B.A. 
+            in 1914. From there he went to the University of Nebraska and received an M.A. in 1915, after which he studied at the 
+            University of Chicago, earning his Ph.D. in botany in 1922. Sears married Marjorie Lea McCutcheon on June 22, 1917, and 
+            served in the United States Army from 1917-1918. The Sears’ had three children, Paul McCutcheon, Catherine Louise (Mrs. Arthur Frazer), 
+            and Sallie Harris Sears.</p>
+         <p>Sears began his teaching career as an instructor in botany at Ohio State University (1915-1919). He then served as assistant and 
+            associate professor of botany at the University of Nebraska (1919-1927). From 1928 to 1938 Sears taught at the University of Oklahoma 
+            and was head of the Botany Department. He also served as a botanist for the State Biological Survey of Oklahoma. His books from these 
+            years presented issues in the study of ecology to the public. These included Deserts On The March (1935), for which Sears received 
+            a Book of the Month award, This Is Our World (1937), and Who Are These Americans (1939). Sears also produced ecology study guides and 
+            textbooks for science teachers and their students.</p>
+         <p>From 1938 until 1950, Sears served as professor of botany at Oberlin College. In Ohio, Sears was active in local conservation groups 
+            and was instrumental in the founding of Friends of the Land in Ohio. In 1946 he was named to the Ohio Conservation Commission and worked 
+            to create an Ohio Department of Natural Resources. Sears was also active in the Ecological Society of America and was elected president 
+            of the society in 1948.</p>
+         <p>In 1950 Sears was named professor of conservation and chairman of the Conservation Program at Yale University. The Conservation Program 
+            at Yale was the country's first graduate program in the conservation of natural resources. From 1953 - 1955 Sears also served as chairman 
+            of the Plant Science Department at Yale. In 1952 Sears received the Conservation medal from the Garden Club of America and in 1956 he 
+            was named Eminent Botanist by the Botanical Society of America. Sears served as president of the American Association for the Advancement 
+            of Science (1956), Sigma Xi national lecturer (1956), chairman of the board the National Audubon Society (1956-1959), and president of 
+            the American Society of Naturalists (1959). From 1958 - 1964, Sears was a member of the National Science Board and from 1959 - 1972 he 
+            served on the Plowshare Advisory Committee of the Atomic Energy Commission.</p>
+         <p>In 1960 Sears retired from Yale and was named professor emeritus. Subsequently he served as visiting professor in the Tom Wallace Chair 
+            of Conservation at the University of Louisville and was a visiting faculty member at the University of Hawaii, Carleton College, Wake 
+            Forest College, and the University of Southern Illinois. From 1963 - 1965 Sears chaired the commission on science education of the 
+            American Association for the Advancement of Science. In 1965 Sears was named Eminent Ecologist by the Ecological Society of America. 
+            During the decade of the 1960s Sears published Where There Is Life (1962), The Living Landscape (1966), and Lands Beyond the Forest 
+            (1969), as well as writing articles of technical and general interest on applied ecology.</p>
+         <p>Paul B. Sears, perhaps more than any other person, epitomized American plant ecology. In a professional career spanning almost 7 
+            decades, he made major contributions to vegetation mapping, paleoecology and Pleistocene history, vegetation studies, conservation, 
+            human ecology and our use of land; and particularly, the varied roles of scientists in modern society. He was one of the most respected 
+            and honored ecologists in North America. He died in the medical center at Plaza de Retiro in Taos , New Mexico on April 30, 1990.</p>
+      </bioghist>
+      <arrangement>
+         <head>Organization</head> 
+         <p>This collection is organized into three series.</p>
+         <list><head>Series List</head>
+            <item>Series I: Correspondence,<date>1925-1969</date></item>
+            <item>Subseries 1: Incoming,<date>1927-1969</date></item>
+            <item>Subseries 2: Outgoing,<date>1927-1969</date></item>
+            <item>Subseries 3: Others,<date>1925-1968</date></item>
+            <item>Series II: Manuscripts and Publications,<date>1934-1967</date></item>
+            <item>Series III: Research Files,<date>1832-1967</date></item>
+            <item>Subseries 1: Geographic Locations – State,<date>1915-1966</date></item>
+            <item>Subseries 2: Geographic Locations – Country,<date>1948-1967</date></item>
+            <item>Subseries 3: Subjects,<date>1832-1960</date></item>
+            <item> Subseries 4: Activity Files,<date>1945-1966</date></item>
+            <item>Subseries 5: People,<date>1911-1959</date></item>
+            <item>Subseries 6: Field Notes,<date>1916-1961</date></item>
+         </list>
+      </arrangement>
+      <scopecontent>
+         <p>The collection consists of correspondence, manuscripts, grant proposals, reports, photographs, subject files, field notes, pollen 
+            samples and data relating to desert ecology which document Paul Sear's career as a botanist, ecologist and educator. The bulk of the 
+            collection is comprised of correspondence between Sears and other researchers. The collection also includes research reports and 
+            manuscripts written by Sears and other researchers; activity files of various meetings and conferences attended by Sears and field 
+            notes of peat and pollen data collected and analyzed in different states, Mexico and Canada.</p>
+      </scopecontent>
+      <controlaccess id="a12">
+         <head>Access Terms</head>
+          <list>
+            <item>
+         <persname encodinganalog="600">Sears, Paul B. (Paul Bigelow), 1891-1990 - Correspondence</persname>
+            </item>
+         </list>
+         <list>
+            <item>
+            <subject  encodinganalog="650">Botany – Research – United States</subject>
+            </item>
+         </list>
+         <list>
+            <item>
+         <subject encodinganalog="650">Botany – Research – Mexico</subject>
+            </item>
+         </list>
+         <list>
+            <item>
+         <subject encodinganalog="650">Botany – Research – Canada</subject>
+            </item>
+         </list>
+         <list>
+            <item>
+         <subject encodinganalog="650">Ecology – Research – United States</subject>
+            </item>
+         </list>
+         <list>
+            <item>
+         <subject encodinganalog="650">Ecology – Research – Mexico</subject>
+            </item>
+         </list>
+         <list>
+            <item>
+         <subject encodinganalog="650">Ecology – Research – Canada</subject>
+            </item>
+         </list>
+         <list>
+            <item>
+         <subject encodinganalog="650">Desert ecology – United States</subject>
+            </item>
+         </list>
+         <list>
+            <item>
+         <subject encodinganalog="650">Pollen – Research – United States</subject>
+            </item>
+         </list>
+         <list>
+            <item>
+         <subject encodinganalog="650">Pollen – Research – Mexico</subject>
+            </item>
+         </list>
+         <list>
+            <item>
+         <subject encodinganalog="650">Pollen – Research – Canada</subject>
+            </item>
+         </list>
+      </controlaccess>
+      <dsc type="combined" id="a23">
+         <c01 level="series">
+         <did><unittitle>Series I: Correspondence,1920-1969</unittitle></did>
+         <arrangement><p>This series is subdivided alphabetically by outgoing, incoming and other correspondence. It contains letters to and from 
+            Paul Sears and letters regarding Paul Sears written by others.</p></arrangement>
+         <c02 level="subseries">
+            <did><unittitle>Subseries 1: Incoming,1927-1969</unittitle></did>
+            <c03 level="file">
+               <did><unittitle>A,</unittitle>
+                  <unitdate normal="1935-1962"></unitdate>
+                  <container type="box">1</container>
+                  <container type="folder">1</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>B,</unittitle>
+                  <unitdate normal="1931/1963">1931-1963</unitdate>
+                  <container type="box">1</container>
+                  <container type="folder">2</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Ca-Cl,</unittitle>
+                  <unitdate normal="1935/1960">1935-1960</unitdate>
+               <container type="box">1</container>
+                  <container type="folder">3</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Co-Cu,</unittitle>
+                  <unitdate normal="1931/1965">1931-1965</unitdate>
+               <container type="box">1</container>
+                  <container type="folder">4</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>D,</unittitle>
+                  <unitdate normal="1927/1960">1927-1960</unitdate>
+                  <container type="box">1</container>
+                  <container type="folder">5</container>
+                  </did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>E,</unittitle>
+                  <unitdate normal="1934/1966">1934-1966</unitdate>
+               <container type="box">1</container>
+                <container type="folder">6</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>F,</unittitle>
+                  <unitdate normal="1934/1967">1934-1967</unitdate>
+               <container type="box">1</container>
+                  <container type="folder">7</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>G,</unittitle>
+                  <unitdate normal="1931/1966">1931-1966</unitdate>
+                  <container type="box">1</container>
+                  <container type="folder">8</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>H,</unittitle>
+                  <unitdate normal="1934/1966">1934-1966</unitdate>
+                  <container type="box">1</container>
+                  <container type="folder">9</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>I,</unittitle>
+                  <unitdate normal="1937/1960">1937-1960</unitdate>
+                  <container type="box">1</container>
+                  <container type="folder">10</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>J,</unittitle>
+                  <unitdate normal="1935-1960">1935-1960</unitdate>
+                  <container type="box">1</container>
+                  <container type="folder">11</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>K,</unittitle>
+                  <unitdate normal="1932-1968">1932-1968</unitdate>
+                  <container type="box">1</container>
+                  <container type="folder">12</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>L,</unittitle>
+                  <unitdate normal="1928-1963">1928-1963</unitdate>
+                  <container type="box">1</container>
+                  <container type="folder">13</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>M,</unittitle>
+                  <unitdate normal="1931-1966">1931-1966</unitdate>
+                  <container type="box">1</container>
+                  <container type="folder">14</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>N,</unittitle>
+                  <unitdate normal="1931-1969">1931-1969</unitdate>
+                  <container type="box">1</container>
+                  <container type="folder">15</container></did>
+            </c03>
+            <c03>
+               <did><unittitle>O,</unittitle>
+                  <unitdate normal="1939-1966">1939-1966</unitdate>
+                  <container type="box">1</container>
+                  <container type="folder">16</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>P,</unittitle>
+                  <unitdate normal="1935-1965">1935-1965</unitdate>
+                  <container type="box">1</container>
+                  <container type="folder">17</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>R,</unittitle>
+                  <unitdate normal="1931-1966">1931-1966</unitdate>
+                  <container type="box">1</container>
+                  <container type="folder">18</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Sa-Sh,</unittitle>
+                  <unitdate normal="1934-1964">1934-1964</unitdate>
+                  <container type="box">1</container>
+                  <container type="folder">19</container></did>
+            </c03> 
+            <c03 level="file">
+               <did><unittitle>Sm-Sz,</unittitle>
+                  <unitdate normal="1935-1967">1935-1967</unitdate>
+                  <container type="box">1</container>
+                  <container type="folder">20</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>T,</unittitle>
+                  <unitdate normal="1931-1967">1931-1967</unitdate>
+                  <container type="box">1</container>
+                  <container type="folder">21</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>V,</unittitle>
+                  <unitdate normal="1934-1961">1934-1961</unitdate>
+                  <container type="box">1</container>
+                  <container type="folder">22</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>W,</unittitle>
+                  <unitdate normal="1927-1961">1927-1961</unitdate>
+                  <container type="box">1</container>
+                  <container type="folder">23</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Z,</unittitle>
+                  <unitdate normal="1948-1959">1948-1959</unitdate>
+                  <container type="box">1</container>
+                  <container type="folder">23</container></did>
+            </c03>
+         </c02>
+         <c02 level="subseries">
+            <did><unittitle> Subseries 2: Outgoing, 1927-1969</unittitle></did>
+            <c03 level="file">
+               <did><unittitle>A,</unittitle>
+                  <unitdate normal="1935/1968">1935-1968</unitdate>
+               <container type="box">2</container>
+                  <container type="folder">1</container>
+               </did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>B,</unittitle>
+                  <unitdate normal="1934/1967">1934-1967</unitdate>
+               <container type="box">2</container>
+                  <container type="fodler">2</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Ca-Ch,</unittitle>
+                  <unitdate normal="1927-1967">1927-1967</unitdate>
+                  <container type="box">2</container>
+                  <container type="folder">3</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>D,</unittitle>
+                  <unitdate normal="1935/1961">1935-1961</unitdate>
+                  <container type="box">2</container>
+                  <container type="folder">4</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>E,</unittitle>
+                  <unitdate normal="1936/1962">1936-1962</unitdate>
+                  <container type="box">2</container>
+                  <container type="folder">5</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>F,</unittitle>
+                  <unitdate normal="1928/1962">1928-1962</unitdate>
+                  <container type="box">2</container>
+                  <container type="folder">6</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>G,</unittitle>
+                  <unitdate normal="1932/1967">1932-1967</unitdate>
+                  <container type="box">2</container>
+                  <container type="folder">7</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>H,</unittitle>
+                  <unitdate normal="1932/1967">1932-1967</unitdate>
+                  <container type="box">2</container>
+                  <container type="folder">7</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>I,</unittitle>
+                  <unitdate normal="1952/1963">1952-1963</unitdate>
+                  <container type="box">2</container>
+                  <container type="folder">10</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>J,</unittitle>
+                  <unitdate normal="1931/1966">1931-1966</unitdate>
+                  <container type="box">2</container>
+                  <container type="folder">11</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>K,</unittitle>
+                  <unitdate normal="1933/1967">1933-1967</unitdate>
+                  <container type="box">2</container>
+                  <container type="folder">12</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>L,</unittitle>
+                  <unitdate normal="1933/1965">1933-1965</unitdate>
+                  <container type="box">2</container>
+                  <container type="folder">13</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>M,</unittitle>
+                  <unitdate normal="1935/1968">1935-1968</unitdate>
+                  <container type="box">2</container>
+                  <container type="folder">14</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>N,</unittitle>
+                  <unitdate normal="1936/1968">1936-1968</unitdate>
+                  <container type="box">2</container>
+                  <container type="folder">15</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>O,</unittitle>
+                  <unitdate normal="1939/1968">1939-1968</unitdate>
+                  <container type="box">2</container>
+                  <container type="folder">15</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>P,</unittitle>
+                  <unitdate normal="1935/1968">1935-1968</unitdate>
+                  <container type="box">2</container>
+                  <container type="folder">16</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>R,</unittitle>
+                  <unitdate normal="1934/1966">1934-1966</unitdate>
+                  <container type="box">2</container>
+                  <container type="folder">16</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Sa-Sl,</unittitle>
+                  <unitdate normal="1935/1968">1935-1968</unitdate>
+                  <container type="box">2</container>
+                  <container type="folder">17</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Sm-Sz,</unittitle>
+                  <unitdate normal="1939/1961">1939-1961</unitdate>
+                  <container type="box">2</container>
+                  <container type="folder">18</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>T,</unittitle>
+                  <unitdate normal="1934/1964">1934-1964</unitdate>
+                  <container type="box">2</container>
+                  <container type="folder">19</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>U,</unittitle>
+                  <unitdate normal="1937/1960">1937-1960</unitdate>
+                  <container type="box">2</container>
+                  <container type="folder">20</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>V,</unittitle><unitdate normal="1935-1965">1935-1965</unitdate>
+                  <container type="box">2</container>
+                  <container type="folder">22</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>W,</unittitle>
+                  <unitdate normal="1928-1969">1928-1969</unitdate>
+                  <container type="box">2</container>
+                  <container type="folder">23</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Y,</unittitle>
+                  <unitdate normal="1958-1959">1958-1959</unitdate>
+                  <container type="box">2</container>
+                  <container type="folder">24</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Z,</unittitle>
+                  <unitdate normal="1952-1968">1952-1968</unitdate>
+                  <container type="box">2</container>
+                  <container type="folder">25</container></did>
+            </c03>
+         </c02>
+         <c02 level="subseries">
+            <did><unittitle>Subseries 3: Others,1925-1968</unittitle>
+            </did>
+            <c03 level="file">
+               <did><unittitle>A,</unittitle><unitdate normal="1936/1951">1936-1951</unitdate>
+                  <container type="box">3</container><container type="folder">1</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>B,</unittitle><unitdate normal="1935/1958">1935-1958</unitdate>
+                  <container type="box">3</container><container type="folder">2</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>C,</unittitle><unitdate normal="1935/1958">1935-1958</unitdate>
+                  <container type="box">3</container><container type="folder">3</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>D,</unittitle><unitdate normal="1936/1961">1936-1961</unitdate>
+                  <container type="box">3</container><container type="folder">4</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>E,</unittitle><unitdate normal="1938-1955">1938-1955</unitdate>
+                  <container type="box">3</container><container type="folder">5</container></did>
+            </c03>
+            <c03  level="file">
+               <did><unittitle>F,</unittitle><unitdate normal="1938-1967">1938-1967</unitdate>
+                  <container type="box">3</container><container type="folder">6</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>G,</unittitle><unitdate normal="1935">1935</unitdate>
+                  <container type="box">3</container><container type="folder">7</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>H,</unittitle><unitdate normal="1937/1956">1937-1956</unitdate>
+                  <container type="box">3</container><container type="folder">8</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>I,</unittitle><unitdate normal="1958">1958</unitdate>
+                  <container type="box">3</container><container type="folder">9</container></did>
+            </c03>
+            <c03  level="file">
+               <did><unittitle>J,</unittitle><unitdate normal="1939">1939</unitdate>
+                  <container type="box">3</container><container type="folder">10</container></did>
+            </c03>
+            <c03 level="file"  >
+               <did><unittitle>K,</unittitle><unitdate normal="1933/1961">1933-1961</unitdate>
+                  <container type="box">3</container><container type="folder">11</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>L,</unittitle><unitdate normal="1935/1958">1935-1958</unitdate>
+                  <container type="box">3</container><container type="folder">12</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>M,</unittitle><unitdate normal="1952/1962">1952-1962</unitdate>
+                  <container type="box">3</container><container type="folder">13</container></did>
+            </c03>
+            <c03  level="file">
+               <did><unittitle>N,</unittitle><unitdate normal="1939-1955">1939-1955</unitdate>
+                  <container type="box">3</container><container type="folder">14</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>O,</unittitle><unitdate normal="1925/1961">1925-1961</unitdate>
+                  <container type="box">3</container><container type="folder">15</container></did>
+            </c03>
+            <c03  level="file">
+               <did><unittitle>P,</unittitle><unitdate normal="1937/1961">1937-1961</unitdate>
+                  <container type="box">3</container><container type="folder">16</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>R,</unittitle><unitdate normal="1939/1955">1939-1955</unitdate>
+                  <container type="box">3</container><container type="folder">17</container></did>
+            </c03>
+            <c03  level="file">
+               <did><unittitle>S,</unittitle><unitdate normal="1936/1958">1936-1958</unitdate>
+                  <container type="box">3</container><container type="folder">18</container></did>
+            </c03>
+            <c03  level="file">
+               <did><unittitle>T,</unittitle><unitdate normal="1936/1964">1936-1964</unitdate>
+                  <container type="box">3</container><container type="folder">19</container></did>
+            </c03>
+            <c03  level="file">
+               <did><unittitle>U,</unittitle><unitdate normal="1947">1947</unitdate>
+                  <container type="box">3</container><container type="folder">20</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>V,</unittitle><unitdate normal="1936/1943">1936-1943</unitdate>
+                  <container type="box">3</container><container type="folder">21</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>W,</unittitle><unitdate normal="1939/1968">1939-1968</unitdate>
+                  <container type="box">3</container><container type="folder">22</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Y,</unittitle><unitdate normal="1954">1954</unitdate>
+                  <container type="box">3</container><container type="folder">23</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Z,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">3</container><container type="folder">24</container></did>
+            </c03>
+         </c02>
+      </c01>
+      <c01 level="series">
+         <did><unittitle>Series II: Manuscripts and Publications,<unitdate type="inclusive" normal="1934/1967">1934-1967</unitdate></unittitle></did>
+         <arrangement><p>This series contains written reports and publications by Paul Sears regarding his research and studies on pollen, palynology, climatic changes and plant ecology.
+         </p></arrangement>
+         <c02 level="file">
+            <did><unittitle>Bog Formation (Moor–Bildung) in Mexico,</unittitle>
+            <unitdate>undated</unitdate>
+            <container type="box">3</container><container type="folder">25</container></did>
+         </c02>
+         <c02 level="file">
+            <did><unittitle>Botany - Plant Ecology,</unittitle>
+               <unitdate>undated</unitdate>
+               <container type="box">3</container><container type="folder">26</container></did>
+         </c02>
+         <c02 level="file" >
+            <did><unittitle>Climatic Changes in the Basin of Mexico,</unittitle>
+               <unitdate normal="19550704">July 4, 1955</unitdate>
+               <container type="box">3</container><container type="folder">27</container></did>
+         </c02>
+         <c02 level="file">
+            <did><unittitle>Constructive Evidence of Climatic Change in the Prairie States,</unittitle>
+               <unitdate>undated</unitdate>
+               <container type="box">3</container><container type="folder">28</container></did>
+         </c02>
+         <c02 level="file">
+            <did><unittitle>Euphorbia Marginata,</unittitle>
+               <unitdate>undated</unitdate>
+               <container type="box">3</container><container type="folder">29</container></did>
+         </c02>
+         <c02 level="file" >
+            <did><unittitle>Evidences of Recent Climatic Changes in Arkansas,</unittitle>
+               <unitdate>undated</unitdate>
+               <container type="box">3</container><container type="folder">30</container></did>
+         </c02>
+         <c02  level="file">
+            <did><unittitle>Determination of World Plant Formations from Simple Climatic Data</unittitle>
+               <unitdate normal="19340401">April 1, 1934</unitdate>
+               <container type="box">3</container><container type="folder">31</container></did>
+         </c02>
+         <c02  level="file">
+            <did><unittitle>Evidences of Climatic Changes in Oklahoma,</unittitle>
+               <unitdate>undated</unitdate>
+               <container type="box">3</container><container type="folder">32</container></did>
+         </c02>
+         <c02 level="file" >
+            <did><unittitle>The Green World of Charles Darwin,</unittitle>
+               <unitdate normal="19590824">August 24, 1959</unitdate>
+               <container type="box">3</container><container type="folder">33</container></did>
+         </c02>
+         <c02 level="file"><did><unittitle>Literature,</unittitle>
+               <unitdate>undated</unitdate>
+               <container type="box">3</container>
+            <container type="folder">35</container></did>
+         </c02>
+         <c02 level="file" >
+            <did><unittitle>NRC Committee on Paleobotany</unittitle>
+               <unitdate normal="1952/1953">1952-1953</unitdate>
+               <container type="box">3</container><container type="folder">36</container></did>
+         </c02>
+         <c02  level="file">
+            <did><unittitle>Paleobotanical Publications,</unittitle>
+               <unitdate normal="1961">1961</unitdate>
+               <container type="box">3</container><container type="folder">37</container></did>
+         </c02>
+         <c02  level="file">
+            <did><unittitle>Palynologie Report,</unittitle>
+               <unitdate normal="19590731">July 31, 1959</unitdate>
+               <container type="box">3</container><container type="folder">38</container></did>
+         </c02>
+         <c02 level="file" >
+            <did><unittitle>Palynology in North America – A Current  Report,</unittitle>
+               <unitdate normal="1961">1961</unitdate>
+               <container type="box">3</container><container type="fodler">39</container></did>
+         </c02>
+         <c02 level="file" >
+            <did><unittitle>Palynology in Southern North America II-V,</unittitle>
+               <unitdate>undated</unitdate>
+               <container type="box">3</container><container type="folder">40</container></did>
+         </c02>
+         <c02 level="file" >
+            <did><unittitle>Plenary Sessions of Palynologists at the 8th International Congress of Botany, Paris,</unittitle>
+               <unitdate normal="19540702/19540714">2-14 July, 1954</unitdate>
+               <container type="box">3</container><container type="folder">41</container></did>
+         </c02>
+         <c02 level="file" >
+            <did><unittitle>Pollen and Spore Circular No. 13</unittitle>
+               <unitdate normal="194612">December 1946</unitdate>
+               <container type="box">3</container><container type="folder">42</container></did>
+         </c02>
+         <c02 level="file" >
+            <did><unittitle>Pollen Spectra Associated with the Madison County Mastodon Site,</unittitle>
+               <unitdate>undated</unitdate>
+               <container type="box">3</container><container type="folder">43</container></did>
+         </c02>
+         <c02 level="file">
+            <did><unittitle>Pollens Frequent in Post Wisconsin Bogs</unittitle>
+               <unitdate>undated</unitdate>
+               <container type="box">3</container><container type="folder">44</container></did>
+         </c02>
+         <c02 level="file" >
+            <did><unittitle>A Preliminary Report on Fossil Pollen of the Pleistocene in Mexico and New Mexico,</unittitle>
+               <unitdate>undated</unitdate>
+               <container type="box">3</container><container type="folder">45</container></did>
+         </c02>
+         <c02 level="file" >
+            <did><unittitle>Report on the Ecology of Door Peninsula, Wisconsin,</unittitle>
+               <unitdate>undated</unitdate>
+               <container type="box">3</container><container type="folder">46</container></did>
+         </c02>
+         <c02 level="file" >
+            <did><unittitle>Soil – A Basic Resource,</unittitle>
+               <unitdate>undated</unitdate>
+               <container type="box">3</container><container type="folder">47</container></did>
+         </c02>
+         <c02 level="file" >
+            <did><unittitle>World Report on Paleobotany,</unittitle>
+               <unitdate normal="1961/1967">1961-1967</unitdate>
+               <container type="box">3</container><container type="folder">48</container></did>
+         </c02>
+      </c01>
+         <c01 level="series">
+            <did><unittitle>Series III: Research Files</unittitle></did>
+            <arrangement><p>This series is subdivided by geographic locations, subjects, activity files, people and field notes. 
+               All but field notes are arranged alphabetically. Field notes are arranged chronologically. It contains pollen 
+               analysis, pollen and bog counts, reports written by researchers, conferences and meetings attended by Paul Sears 
+               and field notebooks containing pollen data.</p></arrangement>
+         <c02 level="subseries">
+            <did><unittitle>Subseries 1: Geographic Locations – State,</unittitle><unitdate normal="1915/1966">1915-1966</unitdate></did>
+            <c03 level="file">
+               <did><unittitle>Arizona – Correspondence,</unittitle><unitdate>undated</unitdate>
+               <container type="box">3</container><container type="folder">49</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Arizona – Counts</unittitle><unitdate normal="1928/1936">1928-1936</unitdate>
+                  <container type="box">3</container><container type="folder">50</container></did>
+            </c03> 
+            <c03 level="file" >
+               <did><unittitle>Arizona – Diagrams,</unittitle><unitdate normal="1934/1956">1934-1956</unitdate>
+                  <container type="box">3</container><container type="folder">51</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Arizona - Tucson,</unittitle><unitdate normal="1955/1957">1955-1957</unitdate>
+                  <container type="box">3</container><container type="folder">52</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Arkansas - Counts</unittitle><unitdate normal="1931">1931</unitdate>
+                  <container type="box">3</container><container type="folder">53</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Arkansas – Diagrams,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">3</container><container type="folder">54</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>California – Counts,</unittitle><unitdate normal="1958">1958</unitdate>
+                  <container type="box">3</container><container type="folder">55</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>California – Diagrams,</unittitle><unitdate normal="1958">1958</unitdate>
+                  <container type="box">3</container><container type="folder">56</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Colorado – Correspondence,</unittitle><unitdate normal="1936/1939">1936-1939</unitdate>
+                  <container type="box">3</container><container type="folder">57</container></did>
+            </c03>
+            <c03  level="file">
+               <did><unittitle>Colorado – Counts,</unittitle><unitdate normal="1925/1936">1925-1936</unitdate>
+                  <container type="box">3</container><container type="folder">58</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Colorado – Diagrams,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">3</container><container type="folder">59</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Connecticut – Counts,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">3</container><container type="folder">60</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Connecticut – Diagrams</unittitle><unitdate normal="1952">1952</unitdate>
+                  <container type="box">3</container><container type="folder">61</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Connecticut – Guilford,</unittitle><unitdate normal="1960/1963">1960-1963</unitdate>
+                  <container type="box">3</container><container type="folder">62</container></did>
+            </c03>
+            <c03  level="file">
+               <did><unittitle>Florida – Counts,</unittitle><unitdate normal="1935">1935</unitdate>
+                  <container type="box">3</container><container type="folder">63</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Florida – Diagrams and Correspondence,</unittitle><unitdate normal="1965">1965</unitdate>
+                  <container type="box">3</container><container type="folder">64</container></did>
+            </c03>
+            <c03  level="file">
+               <did><unittitle>Georgia – Diagrams and Correspondence,</unittitle><unitdate normal="1965">1965</unitdate>
+                  <container type="box">3</container><container type="folder">65</container></did>
+            </c03>
+            <c03  level="file">
+               <did><unittitle>Georgia – Report on Excavation at Irensmound,</unittitle><unitdate normal="1938">1938</unitdate>
+                  <container type="box">3</container><container type="folder">66</container></did>
+            </c03>
+            <c03  level="file">
+               <did><unittitle>Illinois – Counts,</unittitle><unitdate normal="19651214">December 14, 1965</unitdate>
+                  <container type="box">3</container><container type="folder">67</container></did>
+            </c03>
+            <c03  level="file">
+               <did><unittitle>Illinois – Diagrams,</unittitle><unitdate normal="1935/1960">1935-1960</unitdate>
+                  <container type="box">3</container><container type="folder">68</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Illinois – Gray’s Lake,</unittitle><unitdate normal="1935-1956">1935-1956</unitdate>
+                  <container type="box">3</container><container type="folder">69</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Illinois – Gray’s Lake,</unittitle><unitdate normal="1929">1929</unitdate>
+                  <container type="box">3</container><container type="folder">70</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Illinois – Gray’s Lake – Pollen Analysis,</unittitle><unitdate normal="1963">1963</unitdate>
+                  <container type="box">3</container><container type="folder">71</container></did>
+            </c03>
+            <c03  level="file">
+               <did><unittitle>Illinois – Gray’s Lake,</unittitle><unitdate normal="1955">1955</unitdate>
+                  <container type="box">3</container><container type="folder">72</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Indiana – Counts,</unittitle><unitdate normal="1933/1935">1933-1935</unitdate>
+                  <container type="box">3</container><container type="folder">73</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Indiana – Manuscripts,</unittitle><unitdate normal="19370311">March 11, 1937</unitdate>
+                  <container type="box">3</container><container type="folder">74</container></did>
+            </c03>
+            <c03 level="file"  >
+               <did><unittitle>Iowa – Correspondence,</unittitle><unitdate normal="19560615">June 15, 1956</unitdate>
+                  <container type="box">3</container><container type="folder">75</container></did>
+            </c03>
+               <c03  level="file">
+               <did><unittitle>Iowa – Counts,</unittitle><unitdate normal="1934/1958">1934-1958</unitdate>
+                  <container type="box">3</container><container type="folder">76</container></did>
+            </c03>
+               <c03 level="file" >
+               <did><unittitle>Iowa – Diagrams,</unittitle><unitdate normal="1934">1934</unitdate>
+                  <container type="box">3</container><container type="folder">77</container></did>
+            </c03>
+               <c03 level="file" >
+               <did><unittitle>Kansas – Correspondence,</unittitle><unitdate normal="193902">February, 1939</unitdate>
+                  <container type="box">3</container><container type="folder">78</container></did>
+            </c03>
+               <c03 level="file" >
+               <did><unittitle>Massachusetts – Correspondence,</unittitle><unitdate normal="1958">1958</unitdate>
+                  <container type="box">3</container><container type="folder">79</container></did>
+            </c03>
+               <c03 level="file"  >
+               <did><unittitle>Massachusetts – Diagrams – Tables – Counts,</unittitle><unitdate normal="1939/1958">1939/1958</unitdate>
+                  <container type="box">3</container><container type="folder">80</container></did>
+            </c03>
+               <c03 level="file" >
+               <did><unittitle>Michigan – Counts,</unittitle><unitdate normal="1931/1935">1931-1935</unitdate>
+                  <container type="box">3</container><container type="folder">81</container></did>
+            </c03>
+               <c03 level="file" >
+               <did><unittitle>Michigan – Diagrams,</unittitle><unitdate normal="1930/1935">1930-1935</unitdate>
+                  <container type="box">3</container><container type="folder">82</container></did>
+            </c03>
+               <c03 level="file" >
+               <did><unittitle>Michigan – Manuscripts,</unittitle><unitdate normal="1932">1932</unitdate>
+                  <container type="box">3</container><container type="folder">83</container></did>
+            </c03>
+               <c03 level="file" >
+               <did><unittitle>Minnesota – Correspondence,</unittitle><unitdate normal="1937/1946">1937-1946</unitdate>
+                  <container type="box">3</container><container type="folder">84</container></did>
+            </c03>
+               <c03 level="file" >
+               <did><unittitle>Minnesota – Counts,</unittitle><unitdate normal="1931/1935">1931-1935</unitdate>
+                  <container type="box">3</container><container type="folder">85</container></did>
+            </c03>
+               <c03 level="file" >
+               <did><unittitle>Minnesota – Counts,</unittitle><unitdate normal="1931/1935">1931-1935</unitdate>
+                  <container type="box">3</container><container type="folder">86</container></did>
+            </c03>
+               <c03 level="file" >
+               <did><unittitle>Minnesota – Diagrams,</unittitle><unitdate normal="1931/1935">1931-1935</unitdate>
+                  <container type="box">3</container><container type="folder">87</container></did>
+            </c03>
+               <c03 level="file" >
+               <did><unittitle>Nebraska – Correspondence,</unittitle><unitdate normal="1927">1927</unitdate>
+                  <container type="box">3</container><container type="folder">88</container></did>
+            </c03>
+               <c03 level="file"  >
+               <did><unittitle>Nebraska – Counts – Notes,</unittitle><unitdate normal="1960">1960</unitdate>
+                  <container type="box">3</container><container type="file">89</container></did>
+            </c03>
+               <c03 level="file" >
+               <did><unittitle>Nebraska – Crane Lake,</unittitle><unitdate normal="19590121">January 21, 1959</unitdate>
+                  <container type="box">3</container><container type="folder">90</container></did>
+            </c03>
+               <c03 level="file"  >
+               <did><unittitle>Nebraska – Diagrams and Tables,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">3</container><container type="folder">91</container></did>
+            </c03>
+               <c03 level="file" >
+               <did><unittitle>Nebraska – Hackberry Lake,</unittitle><unitdate normal="19590124">January 24, 1959</unitdate>
+                  <container type="box">3</container><container type="folder">92</container></did>
+            </c03>
+               <c03 level="file" >
+               <did><unittitle>Nebraska – Krause Bog,</unittitle><unitdate normal="1962/1963">1962-1963</unitdate>
+                  <container type="box">3</container><container type="folder">93</container></did>
+            </c03>
+               <c03 level="file" >
+               <did><unittitle>Nevada – Caves – Counts,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">3</container><container type="folder">94</container></did>
+            </c03>
+               <c03 level="file" >
+               <did><unittitle>Nevada – Caves – Diagrams,</unittitle><unitdate normal="1960/1961">1960-1961</unitdate>
+                  <container type="box">3</container><container type="folder">95</container></did>
+            </c03>
+               <c03  level="file">
+               <did><unittitle>Nevada – Caves – Notes and Correspondence,</unittitle><unitdate normal="1955">1955</unitdate>
+                  <container type="box">4</container><container type="folder">1</container></did>
+            </c03>
+               <c03 level="file" >
+               <did><unittitle>Nevada – Summary Counts – Checked,</unittitle><unitdate normal="1960">1960</unitdate>
+                  <container type="box">4</container><container type="folder">2</container></did>
+            </c03>
+               <c03 level="file"  >
+               <did><unittitle>New Hampshire – Correspondence and Counts,</unittitle><unitdate normal="1933/1935">1933-1935</unitdate>
+                  <container type="box">4</container><container type="folder">3</container></did>
+            </c03>
+               <c03 level="file" >
+               <did><unittitle>New Mexico – Correspondence,</unittitle><unitdate normal="1959-1962">1959-1962</unitdate>
+                  <container type="box">4</container><container type="folder">4</container></did>
+            </c03>
+               <c03 level="file" >
+               <did><unittitle>New Mexico – Counts – Valle Grande – San Augustin,</unittitle><unitdate normal="1950/1956">1950-1956</unitdate>
+                  <container type="box">4</container><container type="file">5</container></did>
+            </c03>
+               <c03 level="file" >
+               <did><unittitle>New Mexico – Data,</unittitle><unitdate normal="1955/1960">1955-1960</unitdate>
+                  <container type="box">4</container><container type="folder">6</container></did>
+            </c03>
+               <c03 level="file" >
+               <did><unittitle>New Mexico – Diagrams – Tables,</unittitle><unitdate normal="1956">1956</unitdate>
+                  <container type="box">4</container><container type="folder">7</container></did>
+            </c03>
+               <c03 level="file" >
+               <did><unittitle>New Mexico – General Correspondence,</unittitle><unitdate normal="1952/1954">1952-1954</unitdate>
+                  <container type="box">4</container><container type="folder">8</container></did>
+            </c03>
+               <c03 level="file" >
+               <did><unittitle>New York – Correspondence  - Manuscript,</unittitle><unitdate normal="1941/1956">1941-1956</unitdate>
+                  <container type="box">4</container><container type="folder">9</container></did>
+            </c03>
+               <c03 level="file" >
+               <did><unittitle>New York – Long Island - Peat Deposit – G. B. Sowers and C. Franc Letters, etc.,</unittitle><unitdate normal="1941/1956">1941-1956</unitdate>
+                  <container type="box">4</container><container type="folder">10</container></did>
+            </c03>
+               <c03 level="file" >
+               <did><unittitle>North Carolina – Correspondence,</unittitle><unitdate normal="1946">1941-1956</unitdate>
+                  <container type="box">4</container><container type="folder">11</container></did>
+            </c03>
+               <c03 level="file">
+               <did><unittitle>Ohio – Bucyrus – Diagrams,</unittitle><unitdate normal="1935/1955">1935-1955</unitdate>
+                  <container type="box">4</container><container type="folder">12</container></did>
+            </c03>
+               <c03  level="file">
+               <did><unittitle>Ohio – Castalla,</unittitle><unitdate normal="1952/1966">1952-1966</unitdate>
+                  <container type="box">4</container><container type="folder">13</container></did>
+            </c03>
+               <c03 level="file" >
+               <did><unittitle>Ohio – Castalia – Counts,</unittitle><unitdate normal="1952/1966">1952-1966</unitdate>
+                  <container type="box">4</container><container type="folder">14</container></did>
+            </c03>
+               <c03 level="file" >
+               <did><unittitle>Ohio – Castalia – Diagrams,</unittitle><unitdate normal="1955/1965">1955-1965</unitdate>
+                  <container type="box">4</container><container type="folder">15</container></did>
+            </c03>
+               <c03 level="file" >
+               <did><unittitle>Ohio – Castalia - Maps,</unittitle><unitdate normal="1965">1965</unitdate>
+                  <container type="box">4</container><container type="folder">16</container></did>
+            </c03>
+               <c03 level="file" >
+               <did><unittitle>Ohio – Castalia – Notes,</unittitle><unitdate normal="1915/1966">1915-1966</unitdate>
+                  <container type="box">4</container><container type="folder">17</container></did>
+            </c03>
+               <c03 level="file" >
+               <did><unittitle>Ohio - Correspondence,</unittitle><unitdate normal="1955">1955</unitdate>
+                  <container type="box">4</container><container type="folder">18</container></did>
+            </c03>
+               <c03 level="file" >
+               <did><unittitle>Ohio – Counts,</unittitle><unitdate normal="1935/1965">1935-1965</unitdate>
+                  <container type="box">4</container><container type="folder">19</container></did>
+            </c03>
+               <c03 level="file" >
+               <did><unittitle>Ohio – Data,</unittitle><unitdate normal="1955/1956">1955-1956</unitdate>
+                  <container type="box">4</container><container type="folder">20</container></did>
+            </c03>
+               <c03  level="file">
+               <did><unittitle>Oklahoma – Counts,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">4</container><container type="folder">21</container></did>
+            </c03>
+               <c03 level="file" >
+               <did><unittitle>Oklahoma – Diagrams,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">4</container><container type="folder">22</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Pacific Coast – Counts,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">4</container><container type="file">23</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Pennsylvania – Counts,</unittitle><unitdate normal="1932">1932</unitdate>
+                  <container type="box">4</container><container type="folder">24</container></did>
+            </c03>
+            <c03  level="file">
+               <did><unittitle>Pennsylvania – Diagrams,</unittitle><unitdate normal="1931/1932">1931-1932</unitdate>
+                  <container type="box">4</container><container type="folder">25</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Rhode Island – Maps,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">4</container><container type="folder">26</container></did>
+            </c03>
+            <c03  level="file">
+               <did><unittitle>South Dakota – Correspondence – Counts,</unittitle><unitdate normal="1957/1958">1957-1958</unitdate>
+                  <container type="box">4</container><container type="folder">27</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Tennessee – Counts,</unittitle><unitdate normal="1934/1935">1934-1935</unitdate>
+                  <container type="box">4</container><container type="folder">28</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Tennessee – Diagrams and Tables,</unittitle><unitdate normal="1934-1951">1934-1951</unitdate>
+                  <container type="box">4</container><container type="folder">29</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Texas – Correspondence,</unittitle><unitdate normal="1935">1935</unitdate>
+                  <container type="box">4</container><container type="folder">30</container></did>
+            </c03>
+            <c03  level="file"  >
+               <did><unittitle>Texas – Counts,</unittitle><unitdate normal="1934">1934</unitdate>
+                  <container type="box">4</container><container type="folder">31</container></did>
+            </c03>
+            <c03  level="file">
+               <did><unittitle>Utah – Ogden – Correspondence, etc.,</unittitle><unitdate normal="1958/1959">1958-1959</unitdate>
+                  <container type="box">4</container><container type="folder">32</container></did>
+            </c03>
+            <c03 level="file" >
+            <did><unittitle>Virginia – Counts,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">4</container><container type="folder">33</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>West Virginia – Counts,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">4</container><container type="folder">34</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Wisconsin – Counts,</unittitle><unitdate normal="1933/1934">1933-1934</unitdate>
+                  <container type="box">4</container><container type="folder">35</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Wyoming – Counts,</unittitle><unitdate normal="1933/1935">1933-1935</unitdate>
+                  <container type="box">4</container><container type="folder">36</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Wyoming – Diagrams,</unittitle><unitdate normal="1933/1937">1933-1937</unitdate>
+                  <container type="box">4</container><container type="folder">37</container></did>
+            </c03>
+         </c02> 
+         <c02 level="subseries">
+            <did><unittitle>Subseries 2: Geographic Locations – Country,</unittitle><unitdate normal="1948/1967">1948-1967</unitdate></did>
+            <c03 level="file" >
+               <did><unittitle>Canada – Counts,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">4</container><container type="folder">38</container></did>
+            </c03> 
+            <c03 level="file"  >
+               <did><unittitle>Canada – Diagrams,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">4</container><container type="folder">39</container></did>
+            </c03> 
+            <c03  level="file">
+               <did><unittitle>Central America and Mexico – Correspondence,</unittitle><unitdate normal="1959">1959</unitdate>
+                  <container type="box">4</container><container type="folder">40</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Greenland – Correspondence,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">4</container><container type="folder">41</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Jordan – Pella – Counts,</unittitle><unitdate normal="1967">1967</unitdate>
+                  <container type="box">4</container><container type="folder">42</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Mexico – Counts,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">4</container><container type="folder">43</container></did>
+            </c03>
+            <c03  level="file">
+               <did><unittitle>Mexico – Diagrams and Tables,</unittitle><unitdate normal="1950/1962">1950-1962</unitdate>
+                  <container type="box">4</container><container type="folder">44</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Mexico – General correspondence,</unittitle><unitdate normal="1955">1955</unitdate>
+                  <container type="box">4</container><container type="folder">45</container></did>
+            </c03>
+            <c03  level="file">
+               <did><unittitle>Mexico – General correspondence,</unittitle><unitdate normal="1955">1955</unitdate>
+                  <container type="box">4</container><container type="folder">46</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Mexico – Miscellaneous,</unittitle><unitdate normal="1948/1955">1948-1955</unitdate>
+                  <container type="box">4</container><container type="folder">47</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Mexico and New Mexico – Miscellany,</unittitle><unitdate normal="1953">1953</unitdate>
+                  <container type="box">4</container><container type="folder">48</container></did>
+            </c03>
+            <c03  level="file">
+               <did><unittitle>Mexico – Notes, etc.,</unittitle><unitdate normal="1952/1955">1952-1955</unitdate>
+                  <container type="box">4</container><container type="folder">49</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>South America – Correspondence,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">4</container><container type="folder">50</container></did>
+            </c03>
+         </c02>
+         <c02   level="subseries">
+            <did><unittitle>Subseries 3: Subjects,</unittitle><unitdate normal="1832/1960">1832-1960</unitdate></did>
+            <c03  level="file">
+               <did><unittitle>Bibliographies on Pollen Analysis,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">5</container><container type="folder">1</container></did>
+            </c03>
+            <c03  level="file">
+               <did><unittitle>Bog Development,</unittitle><unitdate normal="1923/1934">1923-1934</unitdate>
+                  <container type="box">5</container><container type="folder">2</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Botanical Gazette,</unittitle><unitdate normal="1938/1943">1938-1943</unitdate>
+                  <container type="box">5</container><container type="folder">3</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Chronology,</unittitle><unitdate normal="1935">1935</unitdate>
+                  <container type="box">5</container><container type="folder">4</container></did>
+            </c03>
+            <c03  level="file">
+               <did><unittitle>Climate,</unittitle><unitdate normal="1931/1933">1931-1933</unitdate>
+                  <container type="box">5</container><container type="folder">5</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Clippings Related to Fossil Pollen,</unittitle><unitdate normal="1937/1951">1937-1951</unitdate>
+                  <container type="box">5</container><container type="folder">6</container></did>
+            </c03>
+            <c03  level="file">
+               <did><unittitle>Collections,</unittitle><unitdate normal="1950/1953">1950-1953</unitdate>
+                  <container type="box">5</container><container type="folder">7</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Collections – Pollen,</unittitle><unitdate normal="1930/1948">1930-1948</unitdate>
+                  <container type="box">5</container><container type="folder">8</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Electronic Flash – Illumination for Photomicrography,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">5</container><container type="folder">9</container></did>
+            </c03>
+            <c03 level="file"  >
+               <did><unittitle>Fossil Pollen in Peat Bogs in Northeastern North America by Preston Smith,</unittitle><unitdate normal="1939/1940">1939-1940</unitdate>
+                  <container type="box">5</container><container type="folder">10</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Geological Survey,</unittitle><unitdate normal="1951/1959">1951-1959</unitdate>
+                  <container type="box">5</container><container type="folder">11</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Ice Profiles,</unittitle><unitdate normal="1953">1953</unitdate>
+                  <container type="box">5</container><container type="folder">12</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>International Committee on Palynology,</unittitle><unitdate normal="1954/1956">1954-1956</unitdate>
+                  <container type="box">5</container><container type="folder">13</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Literature – Pollen,</unittitle><unitdate normal="1908/1933">1908-1933</unitdate>
+                  <container type="box">5</container><container type="folder">14</container></did>
+            </c03>
+            <c03  level="file">
+               <did><unittitle>Map Information,</unittitle><unitdate normal="1947/1958">1947-1958</unitdate>
+                  <container type="box">5</container><container type="folder">15</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Michillinda,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">5</container><container type="folder">16</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>National Science Foundation,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">5</container><container type="folder">17</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Nuclear Science and Engineering Corporation,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">5</container><container type="folder">18</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Owl Swamps – Counts and Correspondence,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">5</container><container type="folder">19</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Peat,</unittitle><unitdate normal="1931/1934">1931-1934</unitdate>
+                  <container type="box">5</container><container type="folder">20</container></did>
+            </c03>
+            <c03  level="file">
+               <did><unittitle>Peat – German Pictures – Sphagum,</unittitle><unitdate normal="1899/1904">1899-1904</unitdate>
+                  <container type="box">5</container><container type="folder">21</container></did>
+            </c03>
+            <c03  level="file">
+               <did><unittitle>Pelargonium Pollen Notes,</unittitle><unitdate normal="1925">1925</unitdate>
+                  <container type="box">5</container><container type="folder">22</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Pleistocene,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">5</container><container type="folder">23</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Pollen,</unittitle><unitdate normal="1932">1932</unitdate>
+                  <container type="box">5</container><container type="folder">24</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Pollen Abstracts,</unittitle><unitdate normal="1922/1926">1922-1926</unitdate>
+                  <container type="box">5</container><container type="folder">25</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Pollen Analysis,</unittitle><unitdate normal="1930">1930</unitdate>
+                  <container type="box">5</container><container type="folder">26</container></did>
+            </c03>
+            <c03 level="file"  >
+               <did><unittitle>Pollen Analysis Circular, no. 1-8,</unittitle><unitdate normal="1943/1944">1943-1944</unitdate>
+                  <container type="box">5</container><container type="folder">27</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Pollen and Spore Circular, 9, 10 and 11,</unittitle><unitdate normal="1944/1945">1944-1945</unitdate>
+                  <container type="box">5</container><container type="folder">28</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Pollen and Spore Circular, 12, 13 and 14,</unittitle><unitdate normal="1945/1952">1945-1952</unitdate>
+                  <container type="box">5</container><container type="folder">29</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Pollen and Spore Circular, 13, 14, 15 and 17,</unittitle><unitdate normal="1948/1949">1948-1949</unitdate>
+                  <container type="box">5</container><container type="folder">30</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Pollen – Bibliography,</unittitle><unitdate normal="1957">1957</unitdate>
+                  <container type="box">5</container><container type="folder">31</container></did>
+            </c03>
+            <c03  level="file">
+               <did><unittitle>Pollen Grants and Requests,</unittitle><unitdate normal="1957">1957</unitdate>
+                  <container type="box">5</container><container type="folder">32</container></did>
+            </c03>
+            <c03  level="file">
+               <did><unittitle>Pollen – Icons,</unittitle><unitdate normal="1832/1927">1832-1927</unitdate>
+                  <container type="box">5</container><container type="folder">33</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Pollen Investigations – Notes – Miscellany,</unittitle><unitdate normal="1920/1959">1920-1959</unitdate>
+                  <container type="box">5</container><container type="folder">34</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Pollen Keys,</unittitle><unitdate normal="1927">1927</unitdate>
+                  <container type="box">5</container><container type="folder">35</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Pollen – Maps – Bog Locations in N.E. North America,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">5</container><container type="folder">36</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Pollen Notes,</unittitle><unitdate normal="1882/1935">1882-1935</unitdate>
+                  <container type="box">5</container><container type="folder">37</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Pollen Notes – Miscellaneous,</unittitle><unitdate normal="1948">1948</unitdate>
+                  <container type="box">5</container><container type="folder">38</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Pollen Photos,</unittitle><unitdate normal="1950/1953">1950-1953</unitdate>
+                  <container type="box">5</container><container type="folder">39</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Pollen – Plant,</unittitle><unitdate normal="1955">1955</unitdate>
+                  <container type="box">5</container><container type="folder">40</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Pollen Profiles,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">5</container><container type="folder">41</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Pollen Research Budget,</unittitle><unitdate normal="1953">1953</unitdate>
+                  <container type="box">5</container><container type="folder">42</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Pollen Structure,</unittitle><unitdate normal="1926/1928">1926-1928</unitdate>
+                  <container type="box">5</container><container type="folder">43</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Pollen Workers – International Address List,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">5</container><container type="folder">44</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Quarternary Climate,</unittitle><unitdate normal="1930">1930</unitdate>
+                  <container type="box">5</container><container type="folder">45</container></did>
+            </c03>
+            <c03  level="file">
+               <did><unittitle>Research,</unittitle><unitdate normal="1953">1953</unitdate>
+                  <container type="box">5</container><container type="folder">46</container></did>
+            </c03>
+            <c03  level="file">
+               <did><unittitle>Sampling – Soil Testing Services, Inc. – MJA Corp.,</unittitle><unitdate normal="1952">1952</unitdate>
+                  <container type="box">5</container><container type="folder">47</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Species Ranges,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">5</container><container type="folder">48</container></did>
+            </c03>
+            <c03 level="file"  >
+               <did><unittitle>S.W. Palynology,</unittitle><unitdate normal="1960">1960</unitdate>
+                  <container type="box">5</container><container type="file">49</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Technique,</unittitle><unitdate normal="1956/1960">1956-1960</unitdate>
+                  <container type="box">6</container><container type="folder">1</container></did>
+            </c03>
+            <c03 level="file"  >
+               <did><unittitle>Tree Rings,</unittitle><unitdate normal="1937">1937</unitdate>
+                  <container type="box">6</container><container type="folder">2</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Western Speleological Institute,</unittitle><unitdate normal="1957/1960">1957-1960</unitdate>
+                  <container type="box">6</container><container type="folder">3</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Yale University and Oberlin – Cooperating,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">6</container><container type="folder">4</container></did>
+            </c03>
+            <c03 level="file" >
+               <did><unittitle>Zempoala Pollen Analysis,</unittitle><unitdate normal="1956">1956</unitdate>
+                  <container type="box">6</container><container type="folder">5</container></did>
+            </c03>
+         </c02>
+         <c02 level="subseries">
+            <did><unittitle>Subseries 4: Activity Files,</unittitle><unitdate normal="1945/1966">1945-1966</unitdate></did>
+            <c03  level="file">
+               <did><unittitle>Friends of Pleistocene Geology 22nd Reunion,</unittitle><unitdate normal="19590515/19590517">May 15-17, 1959</unitdate>
+                  <container type="box">6</container><container type="folder">6</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Friends of Pleistocene Geology Meeting at London, Ontario, 1945 Annual Meetings</unittitle><unitdate normal="1945">1945</unitdate>
+                  <container type="box">6</container><container type="folder">7</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Geological Society of America,</unittitle><unitdate normal="19590516/19590517">May 16-17, 1959</unitdate>
+                  <container type="box">6</container><container type="folder">8</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Geological Society of America – Fifty-Eighth Annual Meeting – Hotel William Penn, Pittsburgh, Pennsylvania,</unittitle><unitdate normal="19451227/19451229">Dec. 27-29, 1945</unitdate>
+                  <container type="box">6</container><container type="folder">9</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>International Conference on Palynology, Tucson, AZ,</unittitle><unitdate normal="196204">April 1962</unitdate>
+                  <container type="box">6</container><container type="folder">10</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>International Conference on Palynology , Utrecht,</unittitle><unitdate normal="19660829/19660903">August 29-September 3, 1966</unitdate>
+                  <container type="box">6</container><container type="folder">11</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Mailing List of Paleobotanists,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">6</container><container type="folder">12</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Members of the Paleobotanical Section, Botanical Society of America,</unittitle><unitdate normal="19570107">January 7, 1957
+               </unitdate>
+                  <container type="box">6</container><container type="folder">13</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Minutes of Annual Business Meeting, Paleobotanical Section, Botanical Society Of America,</unittitle><unitdate normal="19570107">January 7, 1957
+               </unitdate>
+                  <container type="box">6</container><container type="folder">14</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Paleobotanical Section , Fellow Members,</unittitle><unitdate normal="19640406">April 6, 1964
+               </unitdate>
+                  <container type="box">6</container><container type="folder">15</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Paleobotanical Section, Field Trip,</unittitle><unitdate>undated
+               </unitdate>
+                  <container type="box">6</container><container type="folder">16</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Paleobotanical Section of the Botanical Society of America, Membership List,</unittitle><unitdate normal="1959">1959  
+               </unitdate><unitdate normal="1962-1963 ">1962-1963</unitdate>
+                  <container type="box">6</container><container type="folder">17</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Palynology Symposium, Yale University,</unittitle><unitdate normal="19530221">Feb. 21, 1953 
+               </unitdate><container type="box">6</container><container type="folder">18</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Pleistocene Questionnaire,</unittitle><unitdate normal="1953">1953 
+               </unitdate><container type="box">6</container><container type="folder">19</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Pollen Conference,</unittitle><unitdate normal="195608">Aug. 1956
+               </unitdate><container type="box">6</container><container type="folder">20</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Report of a Conference to Plan Coordinated Anthropological Research in the Valley Of Mexico,</unittitle><unitdate normal="1960">1960
+               </unitdate><container type="box">6</container><container type="folder">21</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Second National Pollen Conference,</unittitle><unitdate normal="19531218/19531229">Dec. 28-29, 1953
+               </unitdate><container type="box">6</container><container type="folder">22</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Third National Pollen Conference, Oberlin,</unittitle><unitdate normal="195605">May 1956
+               </unitdate><container type="box">6</container><container type="folder">23</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Wenner-G ren Foundation,</unittitle><unitdate normal="1952">1952
+               </unitdate><container type="box">6</container><container type="folder">24</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Yale University and Oberlin Cooperating, Grant Applications,</unittitle><unitdate normal="1953">1953
+               </unitdate><container type="box">6</container><container type="folder">25</container></did>
+            </c03>
+         </c02>
+         <c02 level="subseries">
+            <did><unittitle>Subseries 5: People,</unittitle><unitdate normal="1911/1959">1911-1959</unitdate></did>
+            <c03 level="file">
+               <did><unittitle>Antevs, Ernst,</unittitle><unitdate>undated</unitdate>
+               <container type="box">6</container><container type="folder">26</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Barkley, Fred A.,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">6</container><container type="folder">27</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Boyko, Hugo,</unittitle><unitdate normal="1921/1943">1921-1943</unitdate>
+                  <container type="box">6</container><container type="folder">28</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Campbell, Thomas D.,</unittitle><unitdate normal="1948">1948</unitdate>
+                  <container type="box">6</container><container type="folder">29</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Clisby, Kathryn H.,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">6</container><container type="folder">30</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Clisby, P. J. and Kathryn.,</unittitle><unitdate normal="1911/1953">1911-1953</unitdate>
+                  <container type="box">6</container><container type="folder">31</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Conner, Ruth Ann,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">6</container><container type="folder">32</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Eckerson, S. H.,</unittitle><unitdate normal="1926">1926</unitdate>
+                  <container type="box">6</container><container type="folder">33</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Ennis, David B.,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">6</container><container type="folder">34</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Fanshawe, John R.,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">6</container><container type="folder">35</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Folger and Thomson,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">6</container><container type="folder">36</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Fuechsel, C. F.,</unittitle><unitdate normal="1957">1957</unitdate>
+                  <container type="box">6</container><container type="folder">37</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Grayson, John F.,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">6</container><container type="folder">38</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Hafsten, Ulf,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">6</container><container type="folder">39</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Hammen, T. van der,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">6</container><container type="folder">40</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Hansen, Henry P.,</unittitle><unitdate normal="1944">1944</unitdate>
+                  <container type="box">6</container><container type="folder">41</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Harrison, A. E.,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">6</container><container type="folder">42</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Iverson, Johannes,</unittitle><unitdate normal="1955">1955</unitdate>
+                  <container type="box">6</container><container type="folder">43</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Johnson, L. E.,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">6</container><container type="folder">44</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Kaiser, M.,</unittitle><unitdate normal="1955">1955</unitdate>
+                  <container type="box">6</container><container type="folder">45</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle> Kapp, R. O.,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">6</container><container type="folder">46</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Kezerian, Stephen,</unittitle><unitdate normal="1952">1952</unitdate>
+                  <container type="box">6</container><container type="file">47</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Lawrence and Elson,</unittitle><unitdate normal="1953">1953</unitdate>
+                  <container type="box">6</container><container type="folder">48</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Lawrence, Donald B.,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">6</container><container type="folder">49</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Leopold, Estella B.,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">6</container><container type="folder">50</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Lyon, Charles J.,</unittitle><unitdate normal="1935">1935</unitdate>
+                  <container type="box">6</container><container type="folder">51</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>MacClintock, Paul,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">6</container><container type="folder">52</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Martin, Paul S.,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">6</container><container type="folder">53</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Parsons, Elsie Clews,</unittitle><unitdate normal="1939">1939</unitdate>
+                  <container type="box">6</container><container type="folder">54</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Potter, L.,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">6</container><container type="folder">55</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Ralska, M.,</unittitle><unitdate normal="1957">1957</unitdate>
+                  <container type="box">6</container><container type="folder">56</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Smiley, Terah L.,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">6</container><container type="folder">57</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Smith, C. C.,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">6</container><container type="folder">58</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Smith, E. R.,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">6</container><container type="folder">59</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Smith, John B.,</unittitle><unitdate normal="1959">1959</unitdate>
+                  <container type="box">6</container><container type="folder">60</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Smith, Preston,</unittitle><unitdate normal="1933/1939">1933-1939</unitdate>
+                  <container type="box">6</container><container type="folder">61</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Taber, Stephen,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">6</container><container type="folder">62</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Terra, Helmut de,</unittitle><unitdate normal="1952">1952</unitdate>
+                  <container type="box">6</container><container type="folder">63</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Thomas, H. H.,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">6</container><container type="folder">64</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Tsukada, Matsuo,</unittitle><unitdate normal="1959">1959</unitdate>
+                  <container type="box">6</container><container type="folder">65</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Wells, B. W.,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">6</container><container type="folder">66</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Wendorf, Fred,</unittitle><unitdate normal="1958">1958</unitdate>
+                  <container type="box">6</container><container type="folder">65</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Whitaker, Thomas, Cutter, Hugh C. and MacNeish, Richard S.</unittitle><unitdate normal="1957">1957</unitdate>
+                  <container type="box">6</container><container type="folder">68</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Whitton, E. S.,</unittitle><unitdate normal="1927">1927</unitdate>
+                  <container type="box">6</container><container type="folder">69</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Wilcox, Arthur N.,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">6</container><container type="folder">70</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Wilson, L. R.,</unittitle><unitdate normal="1945/1963">1945-1963</unitdate>
+                  <container type="box">6</container><container type="folder">71</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Winder, C. G.,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">6</container><container type="folder">72</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Wright, H. E.,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">6</container><container type="folder">73</container></did>
+            </c03>
+            <c03 level="file">
+               <did><unittitle>Zimmermann, Prof. Dr.,</unittitle><unitdate>undated</unitdate>
+                  <container type="box">6</container><container type="folder">74</container></did>
+            </c03>
+         </c02>
+            <c02 level="subseries">
+               <did><unittitle>Subseries 6: Field Notes,</unittitle>
+               <unitdate normal="1916/1961">1916-1961</unitdate></did>
+               <c03 level="file">
+                  <did><unittitle>1916-1919 - Logs</unittitle>
+                  <container type="box">6</container>
+                   <container type="folder">75</container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>1921 – Logs</unittitle>
+                     <container type="box">6</container>
+                     <container type="folder">76</container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>1925 – Logs</unittitle>
+                     <container type="box">6</container>
+                     <container type="folder">77</container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>1926-1928 – Logs</unittitle>
+                     <container type="box">6</container>
+                     <container type="folder">78</container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>1927-1929 – Pollen</unittitle>
+                     <container type="box">6</container>
+                     <container type="folder">79</container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>1928-1930 – Logs</unittitle>
+                     <container type="box">6</container>
+                     <container type="folder">80</container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>1930 – Logs</unittitle>
+                     <container type="box">6</container>
+                     <container type="folder">81</container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>1930-1965 – Peat Collections</unittitle>
+                     <container type="box">6</container>
+                     <container type="folder">82</container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle></unittitle>
+                     <container type="box"></container>
+                     <container type="folder"></container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>1931-1933 – Logs</unittitle>
+                     <container type="box">7</container>
+                     <container type="folder">1</container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>1934 – Logs</unittitle>
+                     <container type="box">7</container>
+                     <container type="folder">2</container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>1935 – Logs</unittitle>
+                     <container type="box">7</container>
+                     <container type="folder">3</container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>1936-1941 – Pollen Analysis</unittitle>
+                     <container type="box">7</container>
+                     <container type="folder">4</container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>1938 – Logs</unittitle>
+                     <container type="box">7</container>
+                     <container type="folder">5</container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>1942-1948 – Mexico Core Notes</unittitle>
+                     <container type="box">7</container>
+                     <container type="folder">6</container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>1946-1947 – Logs</unittitle>
+                     <container type="box">7</container>
+                     <container type="folder">7</container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>1948 – Logs</unittitle>
+                     <container type="box">7</container>
+                     <container type="folder">8</container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>1948 – Mexican Pollen Counts</unittitle>
+                     <container type="box">7</container>
+                     <container type="folder">9</container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>1948 – Peat Log – Mexico</unittitle>
+                     <container type="box">7</container>
+                     <container type="folder">10</container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>1948-1955 – Fossil Pollen Collections</unittitle>
+                     <container type="box">7</container>
+                     <container type="folder">11</container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>1950-1953 – Logs</unittitle>
+                     <container type="box">7</container>
+                     <container type="folder">12</container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>1953 – Castalia – Techniques – Logs</unittitle>
+                     <container type="box">7</container>
+                     <container type="folder">13</container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>1953 – Logs</unittitle>
+                     <container type="box">7</container>
+                     <container type="folder">14</container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>1955-1960 – Procedure Records </unittitle>
+                     <container type="box">7</container>
+                     <container type="folder">15</container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>1956 – Herbarium Records</unittitle>
+                     <container type="box">7</container>
+                     <container type="folder">16</container>
+                  </did>
+               </c03> 
+               <c03 level="file">
+                  <did><unittitle>1956 – Notes on Pollen Structure</unittitle>
+                     <container type="box">7</container>
+                     <container type="folder">17</container>
+                  </did>
+               </c03>             
+               <c03 level="file">
+                  <did><unittitle>1956-1960- Michellinda – Miscellaneous Notes</unittitle>
+                     <container type="box">7</container>
+                     <container type="folder">18</container>
+                  </did>
+               </c03>                    
+               <c03 level="file">
+                  <did><unittitle>1959 – Logs</unittitle>
+                     <container type="box">7</container>
+                     <container type="folder">19</container>
+                  </did>
+               </c03>                    
+               <c03 level="file">
+                  <did><unittitle>1959 – Pollen Samples At Gibbs</unittitle>
+                     <container type="box">7</container>
+                     <container type="folder">20</container>
+                  </did>
+               </c03>                    
+               <c03 level="file">
+                  <did><unittitle>1961 – Logs</unittitle>
+                     <container type="box">7</container>
+                     <container type="folder">21</container>
+                  </did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Logs – Castalia, undated</unittitle>
+                     <container type="box">7</container>
+                     <container type="folder">22</container>
+                  </did>
+               </c03>            
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

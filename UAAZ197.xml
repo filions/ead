@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?filetitle Palmer, Edward Manuscripts?>
+<ead relatedencoding="MARC21"> 
+<eadheader audience="internal" findaidstatus="edited-full-draft"
+ langencoding="iso639-2b"> 
+  <eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
+	 Special Collections//text(US::AzU::Edward Palmer
+	 Manuscripts)//en""UAAZ197.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Edward Palmer manuscripts, 
+		  <date>1861-1889</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Staff</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+		<publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		  Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		 <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date>&#x00A9; 2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation encodinganalog="500">Inventory encoded by Jennie Stapp 
+		<date>July 23, 2002</date></creation> 
+	 <langusage>Inventory is in<language langcode="en"
+		encodinganalog="546">English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper encodinganalog="245$a">Edward Palmer manuscripts, 
+		<date>1861-1889</date></titleproper> 
+	 <num>Collection Number: AZ 197</num> 
+	 <publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Staff</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>1959</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Jennie Stapp</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 2001. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name:">Edward Palmer
+		manuscripts, 
+		<unitdate type="inclusive"
+		 normal="1861/1889">1861-1889</unitdate></unittitle> 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	  repositorycode="AzU" countrycode="us"> AZ 197</unitid> 
+	 <origination label="Creator:"> 
+		<persname encodinganalog="100">Palmer, Edward,
+		  1831-1911</persname></origination> 
+	 <abstract label="Abstract:">This collection includes original manuscripts
+		concerning Native Americans, Arizona military posts, and journeys in the
+		Southwest. Holograph manuscripts in various hands include observations of
+		Apaches while stationed at Camp Grant, 1866-1867; life and events at Camp
+		Lincoln (Camp Verde), 1865-1866; observations made while living among the Pima
+		Indians, 1885; Yuma Indians, 1867, 1885-1889; a journey from Fort Mohave to
+		Williams Fork copper mines, 1870; a journey from Prescott to La Paz, 1869;
+		Montezuma Well, ca 1866; and Civil War notes, 1861-1866.</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+		encodinganalog="300">.4 linear feet</extent></physdesc> 
+	 <repository label="Repository:"> 
+		<corpname encodinganalog="110">University of Arizona Libraries, Special
+		  Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		  </address></repository> 
+  </did> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Restrictions</head> 
+	 <p>None.</p> 
+  </accessrestrict> 
+  <userestrict encodinganalog="540"> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Credit Line</head> 
+  	<p>Edward Palmer manuscripts (AZ 197). Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p>Edward Palmer was an Acting Assistant Surgeon in the U. S. Army, and was
+		later employed by the U. S. Dept. of Agriculture from 1865-1889. He was an
+		amateur ethnologist, anthropologist, geologist and meteorologist. </p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into three series: </p> 
+	 <list> 
+		<item>Series I: Apache and Camp Grant Material, 1866-1867 </item> 
+		<item>Series II: Life at Camp Lincoln (Camp Verde), 1865-1866</item> 
+		<item>Series III: Miscellaneous Material, 1861-1889</item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>This collection includes original manuscripts concerning Native
+		Americans, Arizona military posts, and journeys in the Southwest. Holograph
+		manuscripts in various hands include observations of Apaches while stationed at
+		Camp Grant, 1866-1867; life and events at Camp Lincoln (Camp Verde), 1865-1866;
+		observations made while living among the Pima Indians, 1885; Yuma Indians,
+		1867, 1885-1889; a journey from Fort Mohave to Williams Fork copper mines,
+		1870; a journey from Prescott to La Paz, 1869; Montezuma Well, ca 1866; and
+		Civil War notes, 1861-1866.</p> 
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+		  <subject>Apache Indians -- History -- 19th century</subject></item> 
+		<item> 
+		  <subject>Pima Indians -- History -- 19th century</subject></item> 
+		<item> 
+		  <subject>Military bases -- Arizona -- History</subject></item> 
+		<item> 
+		  <subject>Fort Verde (Ariz.) -- History</subject></item> 
+		<item> 
+		  <geogname>Fort Verde (Ariz.) -- History</geogname></item> 
+		<item> 
+		  <geogname>Fort Grant (Ariz.) -- History</geogname></item> 
+		<item> 
+		  <geogname>Montezuma Well (Yavapai County, Ariz.) --
+			 History</geogname></item> 
+		<item> 
+		  <geogname>Arizona -- History -- To 1912 -- Sources</geogname></item> 
+		<item> 
+		  <geogname>Arizona -- Description and travel</geogname></item> 
+		<item> 
+		  <genreform>Holographic Manuscripts</genreform></item> 
+	 </list> 
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+		  <unittitle>Series I: Apache and Camp Grant Material, 
+			 <unitdate type="inclusive" normal="1866/1867">1866-1867
+				</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Camp Grant Material. 
+				<unitdate type="inclusive" normal="1866/1867">1866-1867
+				  </unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Details of military interaction with the Apaches observed while
+				Edward Palmer was stationed at Fort Grant. Observations includes the military
+				defense of the Guido Igles Treaty, Indian Ration Day at Camp Grant, personal
+				impression of the effect of the military on the Apaches and remarks made by
+				Col. Chittenden to the Apaches at a preliminary meeting on March 31, 1867. </p>
+			 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Apache Material. 
+				<unitdate type="inclusive"
+				 normal="1866/1867">1866-1867</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Includes Edward Palmer's observations of Apache courtship,
+				marriage, adultery, dress, dancing and other customs.</p> 
+		  </scopecontent> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series II: Life at Camp Lincoln (Camp Verde), 
+			 <unitdate type="inclusive"
+			 normal="1865/1866">1865-1866</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Arizona Notes. 
+				<unitdate type="inclusive"
+				normal="1865/1866">1865-1866</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Includes three pencil sketches and notes about Camp Lincoln, and
+				excursions taken to the Clear Creek Ruins, Beaver Creek, etc. </p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Camp Lincoln and Camp Verde. 
+				<unitdate type="inclusive"
+				normal="1865/1866">1865-1866</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Describes life at Camp Lincoln which was moved to a new location
+				on the Rio Verde River and became known as Camp Verde. Included are
+				descriptions of Apache attacks, commissary prices, information about military
+				companies stationed at the fort, meteorological notes, etc.</p> 
+		  </scopecontent> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series III: Miscellaneous Material, 
+			 <unitdate type="inclusive"
+			 normal="1861/1889">1861-1889</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Pima Indian Material. 
+				<unitdate type="inclusive"
+				normal="1885">1885</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Cultural observations made be Palmer while he was living with the
+				Pima Indians in 1885. This includes descriptions of "witchery," Indian doctors
+				and their cures, construction of homes and burial customs. </p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Montezuma Well. 
+				<unitdate type="inclusive"
+				normal="NaN">1866?</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Description of Montezuma Well on Beaver Creek with a pencil
+				drawing.</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Arizona War News. 
+				<unitdate type="inclusive"
+				normal="1861/1866">1861-1866</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p> Includes original army orders.</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Trip from Fort Mohave to Williams Fork Copper Mines. 
+				<unitdate type="inclusive"
+				normal="1870">1870</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Yuma Indian Material. 
+				<unitdate type="inclusive" normal="NaN/1889">1867,
+				  1885-1889</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Describes Yuma Indian customs including dress, the availability of
+				temporary wives for guests, food and burial customs. </p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Trip from Prescott to La Paz. 
+				<unitdate type="inclusive"
+				normal="1869">1869</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Includes notes on the killing of Indians near La Paz.</p> 
+		  </scopecontent> 
+		</c02> 
+	 </c01> 
+  </dsc> 
+</archdesc></ead>

@@ -1,0 +1,2825 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21">
+   <eadheader audience="internal" findaidstatus="edited-full-draft" langencoding="ISO_639-2b"
+      repositoryencoding="iso15511" scriptencoding="iso15924" dateencoding="iso8601"
+      countryencoding="iso3166-1">
+      <eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library Special Collections//text(US::AzU::Arthur Frank Wetheim papers)//en""UAMS438.xml"</eadid> 
+      <filedesc>
+         <titlestmt>
+            <titleproper encodinganalog="245">Arthur Frank Wertheim Papers, <date encodinganalog="245$f">1862-2005 (bulk 1895-1929)</date>
+                <num>MS 438</num>
+            </titleproper>
+            <author audience="internal">Processed by Michele Saunders and Georgean Sabarese</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>University of Arizona Library Special Collections</publisher>
+            <date era="ce" calendar="gregorian">2010</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Machine-readable finding guide and skeletal markup derived via template; markup checked and completed by Michele Saunders, 
+            <date era="ce" calendar="gregorian">May 2010</date>
+         </creation>
+         <langusage>Finding guide is in <language langcode="eng">English</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Arthur Frank Wertheim Papers
+            <unitdate type="inclusive" normal="1862/2005">1862-2005</unitdate>
+            <unitdate type="bulk" normal="1895/1929"></unitdate>(bulk 1895-1929)</unittitle>
+         <unitid encodinganalog="099">MS 438</unitid>
+         <origination label="Creator:"><persname encodinganalog="100" source="lcnaf"> Wertheim, Arthur Frank, 1935-  </persname></origination>
+         <abstract encodinganalog="520">Printed material and photographs, 1862-2005 (bulk 1895-1929). The bulk of the material is photocopies of printed materials, primarily newspaper and journal articles, collected by Wertheim while researching the writing of his book, Vaudeville Wars. The collection contains information on many aspects of Vaudeville including; performers, theater and circuit owners and managers, theater and circuit management and organization, professional associations and unions, theater buildings, legal activities, and the history of vaudeville as an industry. Photographs contain images of people, organizations and places associated with vaudeville.</abstract>
+         <physdesc><extent encodinganalog="300">14 linear feet</extent></physdesc>
+         <langmaterial>
+            <language langcode="eng" encodinganalog="546">English</language>
+         </langmaterial>
+         <repository label="Repository:"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+               <addressline>PO Box 210055</addressline> 
+               <addressline>Tucson, AZ 85721-0055</addressline> 
+               <addressline>Phone: 520-621-6423</addressline> 
+               <addressline>Fax: 520-621-9733</addressline> 
+               <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+            </address></repository> 
+      </did>
+      <descgrp type="admininfo">
+         <accessrestrict encodinganalog="506">
+            <p>None</p></accessrestrict>
+         <userestrict encodinganalog="540">
+            <p>It is the responsibility of the user to obtain permission to publish
+               from the owner of the copyright (the institution, the creator of the record,
+               the author or his/her transferees, heirs, legates, or literary executors). The
+               user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+               University of Arizona, its officers, employees, and agents from and against all
+               claims made by any person asserting that he or she is an owner of
+               copyright.</p>
+         </userestrict>         
+         <prefercite encodinganalog="524">
+            <p>Arthur Frank Wertheim Papers (MS 438). Special Collections, University of Arizona Libraries.</p>
+         </prefercite>
+         <relatedmaterial>
+            <p>University of Arizona Libraries Special Collections, Vaudeville collection, MS 421</p>
+            <p>University of Arizona Libraries Special Collections, Goelet Family papers, MS 432</p>
+            <p>University of Arizona Libraries Special Collections, Kathryn Beals papers, MS 440</p></relatedmaterial>
+      </descgrp>
+      <bioghist encodinganalog="545"><head>Biographical Note</head>
+         <p>Arthur Frank Wertheim was born December 22, 1935, in New York, N.Y.  Son of Albert (a stockbroker) and Ruth (Weisberg) Wertheim. He married Carol J. Youngberg, February 4, 1972; they have one son, Jason Albert. </p>
+         <p>Arthur Frank Werthheim received his B.A. in 1957 from Yale University. He then went to New York University where he got his M.A. in 1967 and his Ph.D. in 1970. From 1971-78 he was an assistant professor of American Studies at the University of Southern California, Los Angeles. Arthur then went to the University of Indonesia, Jakarta where he was a Fulbright professor of American studies for one year, 1978-79.</p>
+         <p>He has written several books on 20th Century American culture, including The New York Little Renaissance and Radio Comedy. He has also co-edited with Barbara Bair three volumes of the Papers of Will Rogers and edited Will Rogers at the Ziegfeld Follies and American Popular Culture. He was a former professor of American History at the University of Southern California and other universities, as well as an administrator at the University of California, Los Angeles. His awards include a Fulbright grant to teach at the University of Indonesia.</p>
+      </bioghist>
+      <arrangement encodinganalog="351$a">
+         <p>This Collection is organized into 9 series.</p>
+         <list>
+            <item>Series I: Managers/Owners/Theatres, <unitdate>1851-1998</unitdate></item>
+            <item>Series II: Unions, <unitdate>1895-1994 (bulk 1895-1939)</unitdate></item>
+            <item>Series III: Legal, <unitdate>1914-1939 (bulk 1914-1920)</unitdate></item>
+            <item>Series IV: Performers, <unitdate>1894-2003 (bulk 1905-1960)</unitdate></item>
+            <item>Series V: Pre-Vaudeville, <unitdate>1862-1991 (bulk 1862-1929)</unitdate></item>
+            <item>Series VI: Circuits<list><item>Subseries 1: Orpheum Circuit, <unitdate>1883-2005 (bulk 1883-1940)</unitdate></item>
+               <item>Subseries 2: Keith-Albee Circuit, <unitdate>1885-2005 (bulk 1885-1930)</unitdate></item></list></item>  
+            <item>Series VII: Subject Files, <unitdate>1884-2004 (bulk 1884-1929)</unitdate></item>
+            <item>Series VIII: News and Events, <unitdate>1895-1929</unitdate></item>
+            <item>Series IX: Photographs, <unitdate>1895-1928</unitdate></item>
+         </list>
+      </arrangement>
+      <scopecontent encodinganalog="520">
+         <p>Printed material and photographs, 1862-2005 (bulk 1895-1929). The bulk of the material is photocopies of printed material, primarily newspaper and journal articles, collected by Wertheim while researching the writing of his book, Vaudeville Wars. The collection contains information on many aspects of Vaudeville including performers, theater and circuit owners and managers; theater and circuit management and organization; professional associations and unions; theater buildings; legal activities; and the history of vaudeville as an industry. Photographs contain images of people, organizations and places associated with vaudeville.</p>
+      </scopecontent>
+      <controlaccess>
+         <subject encodinganalog="650" source="lcsh">Actors – Labor Unions – United States.</subject>
+         <corpname encodinganalog="610" source="lcnaf">Actors' Equity Association. </corpname>
+         <persname encodinganalog="600" source="lcnaf">Albee, Edward, 1928- </persname>
+         <corpname encodinganalog="610" source="lcnaf">Associated Actors and Artists of America. </corpname>
+         <persname encodinganalog="600" source="lcnaf">Beck, Martin, 1868?-1940.</persname> 
+         <persname encodinganalog="600" source="lcnaf">Considine, John W., 1863-1943.</persname>
+         <subject encodinganalog="650" source="lcsh">Entertainers -- United States.</subject>
+         <persname encodinganalog="600" source="lcnaf">Fox, William, 1879-1952. </persname>
+         <persname encodinganalog="600" source="lcnaf">Golden, George Fuller, 1868-1912.</persname>
+         <persname encodinganalog="600" source="lcnaf">Hammerstein, Oscar, 1895-1960. </persname>
+         <persname encodinganalog="600" source="lcnaf">Hammerstein, Oscar, 1846-1919.</persname>
+         <persname encodinganalog="600" source="lcnaf">Hammerstein, William. </persname>
+         <persname encodinganalog="600" source="lcnaf">Keith, B. F. (Benjamin Franklin), 1846-1914. </persname>
+         <subject encodinganalog="650" source="lcsh">Labor Unions – United States. </subject>
+         <persname encodinganalog="600" source="lcnaf">Leavitt, M. B. (Michael B.), 1843-1935. </persname>
+         <persname encodinganalog="600" source="lcnaf">Loew, Marcus, 1870-1927.</persname>
+         <persname encodinganalog="600" source="lcnaf">Miner, Henry Clay, 1865 or 6-1950. </persname>
+         <persname encodinganalog="600" source="lcnaf">Morris, William, 1873-1932. </persname>
+         <subject encodinganalog="650" source="lcsh">Music-halls (Variety-theaters, cabarets, etc.). </subject>
+         <subject encodinganalog="650" source="lcsh">Pantages Circuit of Vaudeville Theatres.</subject>
+         <persname encodinganalog="600" source="lcnaf">Pantages, Alexander, 1876-1936.</persname>
+         <persname encodinganalog="600" source="lcnaf">Pastor, Tony.</persname>
+         <persname encodinganalog="600" source="lcnaf">Poli, Sylvester Z.</persname>
+         <persname encodinganalog="600" source="lcnaf">Proctor, F. F., (Frederick Freeman), 1851-1929.</persname>
+         <corpname encodinganalog="610" source="lcnaf">Radio-Keith-Orpheum Corporation.</corpname>
+         <subject encodinganalog="650" source="lcsh">Shubert Brothers Archive – Lee, Jacob, &amp; Sam.</subject>
+         <persname encodinganalog="600" source="lcnaf">Sullivan, Timothy D., 1863-1913.</persname>
+         <subject encodinganalog="650" source="lcsh">Theater management – United States.</subject>
+         <subject encodinganalog="650" source="lcsh">Theaters -- United States.</subject>
+         <subject encodinganalog="650" source="lcsh">Theatrical managers -- United States.</subject>
+         <corpname encodinganalog="610" source="lcnaf">United Booking Offices of America (Organization). </corpname>
+         <corpname encodinganalog="610" source="lcnaf">Variety (New York, N.Y.).</corpname>
+         <subject encodinganalog="650" source="lcsh">Revues.</subject>
+         <subject encodinganalog="650" source="lcsh">Vaudeville</subject>
+         <subject encodinganalog="650" source="lcsh">Vaudeville – Employees – Labor Unions – United States.</subject>
+         <subject encodinganalog="650" source="lcsh">Vaudeville—History.</subject>
+         <subject encodinganalog="650" source="lcsh">White Rats of America.</subject>
+         <persname encodinganalog="600" source="lcnaf">Williams, Percy G., 1857-1923.</persname>
+        </controlaccess>
+      <dsc type="combined" id="a23">
+         <c01 level="series">
+            <did><unittitle>Series I: Managers/Owners/Theaters, <unitdate>1851-1998</unitdate></unittitle></did>
+            <arrangement><p>Series note: This series is arranged alphabetically by last name.</p></arrangement> 
+            <scopecontent><p>It contains photocopies from various sources of information related to individuals, as a manager, owner, or of various theaters between 1851 - 1998.</p></scopecontent>
+            <c02 level="file">
+               <did><unittitle>Anderson, Max C., 1860 or 1-1915 <unitdate>1900- 1922, undated</unitdate></unittitle>
+               <container type="Box">1</container>
+               <container type="Folder">1</container></did>
+            </c02>
+            <c02>
+               <did><unittitle>Casey, Pat, (P.J.), d.1962.<unitdate>1908-09, 1914, undated</unitdate></unittitle>
+               <container type="Box">1</container>
+               <container type="Folder">2</container></did>
+            </c02>
+            <c02>
+               <did><unittitle>Chase, P. B., (Plimpton B.), 1860-1938.<unitdate>1902, 1938, undated</unitdate></unittitle>
+                  <container type="Box">1</container>
+                  <container type="Folder">3</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Considine, John W., 1863-1943.<unitdate>1905-1910, 1943, undated</unitdate></unittitle>
+                  <container type="Box">1</container>
+                  <container type="Folder">4</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Cordray, John F.<unitdate>1851- 1895, undated</unitdate></unittitle>
+                  <container type="Box">1</container>
+                  <container type="Folder">5</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Cort, John, 1859-1929.<unitdate>1891-1913, undated</unitdate></unittitle>
+                  <container type="Box">1</container>
+                  <container type="Folder">6</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Cox, George Barnsdale, 1853-1916.<unitdate>1912, 1916, undated</unitdate></unittitle>
+                  <container type="Box">1</container>
+                  <container type="Folder">7</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Davis, Harry.<unitdate>1904-1910</unitdate></unittitle>
+                  <container type="Box">1</container>
+                  <container type="Folder">8</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Erlanger, A. L., (Abraham Lincoln), 1860-1930.<unitdate>1908- 1930, undated</unitdate></unittitle>
+                  <container type="Box">1</container>
+                  <container type="Folder">9</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Fox, William, 1879-1952.<unitdate>1910- 1941, undated</unitdate></unittitle>
+                  <container type="Box">1</container>
+                  <container type="Folder">10</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Frohman, Charles, 1860-1915.<unitdate>undated</unitdate></unittitle>
+                  <container type="Box">1</container>
+                  <container type="Folder">11</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Fynes, J. Austin, (James Austin), b.1859 or 60<unitdate>1898-1905, 1915</unitdate></unittitle>
+                  <container type="Box">1</container>
+                  <container type="Folder">12</container></did>
+            </c02>           
+            <c02 level="file">
+               <did><unittitle>Grauman, Sid, 1880-1950.<unitdate>1909, undated</unitdate></unittitle>
+                  <container type="Box">1</container>
+                  <container type="Folder">13</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Hammerstein, Arthur, 1872-1955.<unitdate>1930, 1955, 1976</unitdate></unittitle>
+                  <container type="Box">1</container>
+                  <container type="Folder">14</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Hammerstein, Oscar, 1846-1919.<unitdate>1906, 1919, undated</unitdate></unittitle>
+                  <container type="Box">1</container>
+                  <container type="Folder">15</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Hammerstein, Oscar, 1895-1960. <unitdate>Dissertation by Carroll, John F. c.1998
+               </unitdate></unittitle>
+                  <container type="Box">1</container>
+                  <container type="Folder">16</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Hammerstein, William (Willie), 1874-1914.<unitdate>1913-1919, 1953</unitdate></unittitle>
+                  <container type="Box">1</container>
+                  <container type="Folder">17</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Hammerstein’s Olympia Theatre.<unitdate>1895, undated</unitdate></unittitle>
+                  <container type="Box">1</container>
+                  <container type="Folder">18</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Hammerstein’s Victoria Theatre.<unitdate>1898- 1934, undated</unitdate></unittitle>
+                  <container type="Box">1</container>
+                  <container type="Folder">19</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Hart, Max, 1874-1950.<unitdate>1918-1928, 1950, undated</unitdate></unittitle>
+                  <container type="Box">2</container>
+                  <container type="Folder">1</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Hooley, Richard M. (Uncle Dick), 1822-1893.<unitdate>1893</unitdate></unittitle>
+                  <container type="Box">2</container>
+                  <container type="Folder">2</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Jacobs, H. R. (Henry).	<unitdate>1886- 1915</unitdate></unittitle>
+                  <container type="Box">2</container>
+                  <container type="Folder">3</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Kernan, James.<unitdate>1905</unitdate></unittitle>
+                  <container type="Box">2</container>
+                  <container type="Folder">4</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Klaw, Marc, 1858-1936.<unitdate>1908, 1936, undated</unitdate></unittitle>
+                  <container type="Box">2</container>
+                  <container type="Folder">5</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Levitt, Michael B., 1843-1935.<unitdate>1887- 1920, 1940, undated</unitdate></unittitle>
+                  <container type="Box">2</container>
+                  <container type="Folder">6</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Loew, Marcus, 1870-1927.<unitdate>1910- 1927, undated</unitdate></unittitle>
+                  <container type="Box">2</container>
+                  <container type="Folder">7</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Loew, Sullivan &amp; Considine War.<unitdate>1911-1915</unitdate></unittitle>
+                  <container type="Box">2</container>
+                  <container type="Folder">8</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Loew’s Theatres.<unitdate>1910-1976, 1983, undated</unitdate></unittitle>
+                  <container type="Box">2</container>
+                  <container type="Folder">9</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Miner, Henry Clay, (Harry), 1865 or 6-1950.<unitdate>1842-1900</unitdate></unittitle>
+                  <container type="Box">2</container>
+                  <container type="Folder">10</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Miner’s Theatres.<unitdate>1876-1913, undated</unitdate></unittitle>
+                  <container type="Box">2</container>
+                  <container type="Folder">11</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Moore, James.<unitdate>1898, 1909</unitdate></unittitle>
+                  <container type="Box">2</container>
+                  <container type="Folder">12</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Morris, William, (Bill), 1873-1932. (1)<unitdate>1908- 1953, 1995, undated</unitdate></unittitle>
+                  <container type="Box">3</container>
+                  <container type="Folder">1</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Morris, William, (Bill), 1873-1932. (2) <unitdate>1908- 1932, undated</unitdate></unittitle>
+                  <container type="Box">3</container>
+                  <container type="Folder">2</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Morrison, Patsy.<unitdate>undated</unitdate></unittitle>
+                  <container type="Box">3</container>
+                  <container type="Folder">3</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Pantages, Alexander, 1876-1936.<unitdate>1907 - 1936, 1960-1964, undated</unitdate></unittitle>
+                  <container type="Box">3</container>
+                  <container type="Folder">4</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Pantages Circuit of Vaudeville Theatres.<unitdate>1909- 1929, 1966-1971, undated</unitdate></unittitle>
+                  <container type="Box">3</container>
+                  <container type="Folder">5</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Pastor, Antonio, (Tony), 1836-1911.<unitdate>1899-1911, 1931, undated</unitdate></unittitle>
+                  <container type="Box">3</container>
+                  <container type="Folder">6</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Poli, Sylvester Z., 1859-1937.<unitdate>1860-1920</unitdate></unittitle>
+                  <container type="Box">3</container>
+                  <container type="Folder">7</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Poli, Sylvester Z. <unitdate>Dissertation by: Oberdeck, Kathryn Jane, 1991
+               </unitdate></unittitle>
+                  <container type="Box">3</container>
+                  <container type="Folder">8</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Poli Theatres.<unitdate>1906, undated</unitdate></unittitle>
+                  <container type="Box">3</container>
+                  <container type="Folder">9</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Proctor, F.F., (Frederick Freeman), 1851-1929.<unitdate>1901-1953, 1991, undated</unitdate></unittitle>
+                  <container type="Box">4</container>
+                  <container type="Folder">1</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Proctor Enterprises.<unitdate>1888-1905, 1912, 1986-1987, 1990, undated
+               </unitdate></unittitle>
+                  <container type="Box">4</container>
+                  <container type="Folder">2</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Proctor’s Fifth Ave. Theatre.<unitdate>1873- 1906, 1938, undated</unitdate></unittitle>
+                  <container type="Box">4</container>
+                  <container type="Folder">3</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Proctor’s Newark Theatre (Park Place).<unitdate>1898</unitdate></unittitle>
+                  <container type="Box">4</container>
+                  <container type="Folder">4</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Proctor’s Pleasure Palace Theatre.<unitdate>1895- 1903, undated</unitdate></unittitle>
+                  <container type="Box">4</container>
+                  <container type="Folder">5</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Proctor’s Theatre 23rd Street.<unitdate>1891-1904, undated</unitdate></unittitle>
+                  <container type="Box">4</container>
+                  <container type="Folder">6</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Proctor’s Theatre, Troy, NY, 4th Street.<unitdate>1990, undated</unitdate></unittitle>
+                  <container type="Box">4</container>
+                  <container type="Folder">7</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Rhinock, Joseph L., d. 1926.<unitdate>1926, 1988</unitdate></unittitle>
+                  <container type="Box">4</container>
+                  <container type="Folder">8</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Rothafel, Samuel Lionel, (Roxy), 1882-1936.<unitdate>1927, undated</unitdate></unittitle>
+                  <container type="Box">4</container>
+                  <container type="Folder">9</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Scribner, Samuel A., d. 1941.<unitdate>1908, undated</unitdate></unittitle>
+                  <container type="Box">4</container>
+                  <container type="Folder">10</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Shea, Mauarice A., (Mort), 1880-1940.<unitdate>1940, undated</unitdate></unittitle>
+                  <container type="Box">4</container>
+                  <container type="Folder">11</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Shea, Michael, 1859-1934.<unitdate>1934, undated</unitdate></unittitle>
+                  <container type="Box">4</container>
+                  <container type="Folder">12</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Shea, P.F., (Pat).<unitdate>1899, 1915</unitdate></unittitle>
+                  <container type="Box">4</container>
+                  <container type="Folder">13</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Shubert Brothers Archive (Lee, Jacob, Sam).<unitdate>1905- 1925, 1989- 1996, undated</unitdate></unittitle>
+                  <container type="Box">4</container>
+                  <container type="Folder">14</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Shubert, Lee, 1875-1953.<unitdate>1953, undated</unitdate></unittitle>
+                  <container type="Box">4</container>
+                  <container type="Folder">15</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Shubert, Lee &amp; Albee/Keith—Correspondence.<unitdate>1910-1922</unitdate></unittitle>
+                  <container type="Box">4</container>
+                  <container type="Folder">16</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Sullivan and Considine Theatre Circuit.<unitdate>1886-1914, undated</unitdate></unittitle>
+                  <container type="Box">4</container>
+                  <container type="Folder">17</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Sullivan, Timothy D., (Big Tim), 1862-1913.<unitdate>1896- 1914, undated</unitdate></unittitle>
+                  <container type="Box">5</container>
+                  <container type="Folder">1</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Sun, Gus, (Gustave Ferdinand), 1868-1959.<unitdate>1907 - 1939, undated</unitdate></unittitle>
+                  <container type="Box">5</container>
+                  <container type="Folder">2</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Theatres, Atlantic City.<unitdate>1980</unitdate></unittitle>
+                  <container type="Box">5</container>
+                  <container type="Folder">3</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Theatres, Boston.<unitdate>1982-1987, undated</unitdate></unittitle>
+                  <container type="Box">5</container>
+                  <container type="Folder">4</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Theatres, Chicago Includes Auditorium.<unitdate>1883-1906, 1972, 1986-87, undated
+               </unitdate></unittitle>
+                  <container type="Box">5</container>
+                  <container type="Folder">5</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Theatres, Hippodrome, New York City.<unitdate>1904- 1912, 1972- 1993, undated</unitdate></unittitle>
+                  <container type="Box">5</container>
+                  <container type="Folder">6</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Theatres, Los Angeles.<unitdate>1982-83, undated</unitdate></unittitle>
+                  <container type="Box">5</container>
+                  <container type="Folder">7</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Theatres, Miscellanous.<unitdate>1895-1913,1971- 1987, 1989- 1993, undated
+               </unitdate></unittitle>
+                  <container type="Box">5</container>
+                  <container type="Folder">8</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Theatres, New York City.<unitdate>1892-1910, 1973, 1986-1995, undated</unitdate></unittitle>
+                  <container type="Box">5</container>
+                  <container type="Folder">9</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Theatres, Radio City Music Hall.<unitdate>undated</unitdate></unittitle>
+                  <container type="Box">5</container>
+                  <container type="Folder">10</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Theatres, San Francisco.<unitdate>1903-1907, 1983-1991</unitdate></unittitle>
+                  <container type="Box">5</container>
+                  <container type="Folder">11</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Theatres, Time Square.<unitdate>1977- 1992</unitdate></unittitle>
+                  <container type="Box">5</container>
+                  <container type="Folder">12</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Theatres, Ziegfeld.<unitdate>1927, 1973</unitdate></unittitle>
+                  <container type="Box">5</container>
+                  <container type="Folder">13</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Williams, Percy G., 1857-1923.<unitdate>1857-1929</unitdate></unittitle>
+                  <container type="Box">5</container>
+                  <container type="Folder">14</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Williams Alhambra Harlem Theatre.<unitdate>1904, undated</unitdate></unittitle>
+                  <container type="Box">5</container>
+                  <container type="Folder">15</container></did>
+            </c02>
+         </c01>
+ 
+         <c01 level="series">
+            <did><unittitle>Series II: Unions, <unitdate type="inclusive">1895-1994</unitdate> <unitdate type="bulk">(bulk 1895-1939)</unitdate></unittitle></did>
+            <arrangement><p>Series note: This series is arranged alphabetically by name.</p></arrangement>
+            <scopecontent><p>It contains photocopies from various sources of information related to the history of Actors Union’s including primary leaders of a union between 1895 - 1994. </p></scopecontent>
+            <c02 level="file">
+               <did><unittitle>Actors Equity Association.<unitdate>1913- 1924, Undated</unitdate></unittitle>
+                  <container type="Box">6</container>
+                  <container type="Folder">1</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Actors National Protective Union.<unitdate>1895-1910</unitdate></unittitle>
+                  <container type="Box">6</container>
+                  <container type="Folder">2</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Associated Actors and Artists of America (Four A’s).<unitdate>1909- 1939, undated
+               </unitdate></unittitle>
+                  <container type="Box">6</container>
+                  <container type="Folder">3</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Associated Actresses of America (Women’s Branch of the White Rats).<unitdate>1907- 1914</unitdate></unittitle>
+                  <container type="Box">6</container>
+                  <container type="Folder">4</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Comedy Club.<unitdate>1906-1914</unitdate></unittitle>
+                  <container type="Box">6</container>
+                  <container type="Folder">5</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Friars Club, Friars National Association, Inc.<unitdate>undated</unitdate></unittitle>
+                  <container type="Box">6</container>
+                  <container type="Folder">6</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Golden, George Fuller, 1868-1912.<unitdate>1897- 1912</unitdate></unittitle>
+                  <container type="Box">6</container>
+                  <container type="Folder">7</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Lights Club of Freeport.<unitdate>undated</unitdate></unittitle>
+                  <container type="Box">6</container>
+                  <container type="Folder">8</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Mountford, Harry, 1871-1950.<unitdate>1920-21, 1950</unitdate></unittitle>
+                  <container type="Box">6</container>
+                  <container type="Folder">9</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>National Vaudeville Artists, Inc.<unitdate>1916- 1925, undated</unitdate></unittitle>
+                  <container type="Box">6</container>
+                  <container type="Folder">10</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Silverman, Sime, 1873-1933.<unitdate>1905-1950, undated</unitdate></unittitle>
+                  <container type="Box">6</container>
+                  <container type="Folder">11</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Variety (Magazine)<unitdate>1905-1956, 1980, undated
+               </unitdate></unittitle>
+                  <container type="Box">6</container>
+                  <container type="Folder">12</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Variety and Vaudeville: Sime Silverman’s influence on the organization of Vaudeville Artists. Dissertation by Lowell Stewart Harris
+                  <unitdate>1994</unitdate></unittitle>
+                  <container type="Box">6</container>
+                  <container type="Folder">13</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>White Rats Actors Union.<unitdate>1901, -1937, undated</unitdate></unittitle>
+                  <container type="Box">7</container>
+                  <container type="Folder">1</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>White Rats Actors Union—A historical study of the White Rats. Dissertation by Thomas Colley<unitdate>1967</unitdate></unittitle>
+                  <container type="Box">7</container>
+                  <container type="Folder">2</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>White Rats Actors Union- The White Rats versus The Czars of Vaudeville 
+                  <unitdate>1971</unitdate></unittitle>
+                  <container type="Box">7</container>
+                  <container type="Folder">3</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>White Rats Bullentin, 1901.<unitdate>1901</unitdate></unittitle>
+                  <container type="Box">7</container>
+                  <container type="Folder">4</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>White Rats Bullentin, 1902.<unitdate>1902</unitdate></unittitle>
+                  <container type="Box">7</container>
+                  <container type="Folder">5</container></did>
+            </c02>
+         </c01>
+
+         <c01 level="series">
+            <did><unittitle>Series III: Legal, <unitdate>1914-1939</unitdate></unittitle></did>
+            <arrangement><p>Series note: This series is arranged alphabetically by name.</p></arrangement>
+            <scopecontent><p>It contains photocopies of Legal documents and correspondence summoned by the court, of the case between the Federal Trade Commission and Vaudeville Managers, Owners and Unions between 1914 – 1920. Also contains photocopies of articles from various newspapers and magazines covering the hearings between 1918 -1920. Includes other legal hearings between 1921-1939.</p></scopecontent>
+            <c02 level="file">
+               <did><unittitle>Federal Trade Commission vs. Vaudeville … (1)<unitdate>1914-1920</unitdate></unittitle>
+                  <container type="Box">8</container>
+                  <container type="Folder">1</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Federal Trade Commission vs. Vaudeville … (2)<unitdate>1914-1920</unitdate></unittitle>
+                  <container type="Box">8</container>
+                  <container type="Folder">2</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Federal Trade Commission vs. Vaudeville … (3)<unitdate>1914-1920</unitdate></unittitle>
+                  <container type="Box">8</container>
+                  <container type="Folder">3</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Federal Trade Commission vs. Vaudeville … (4)<unitdate>1914-1920</unitdate></unittitle>
+                  <container type="Box">8</container>
+                  <container type="Folder">4</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Federal Trade Commission vs. Vaudeville … (5)<unitdate>1914-1920</unitdate></unittitle>
+                  <container type="Box">8</container>
+                  <container type="Folder">5</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Federal Trade Commission vs. Vaudeville … News related from Billboard
+                  <unitdate>1918-1920</unitdate></unittitle>
+                  <container type="Box">8</container>
+                  <container type="Folder">6</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Federal Trade Commission vs. Vaudeville News related from New York ‘Clipper’ 
+                  <unitdate>1919-1920</unitdate></unittitle>
+                  <container type="Box">9</container>
+                  <container type="Folder">1</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Federal Trade Commission vs. Vaudeville News related from Variety.  
+                  <unitdate>1919-1920</unitdate></unittitle>
+                  <container type="Box">9</container>
+                  <container type="Folder">2</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Hart vs Keith.<unitdate>1921-1926</unitdate></unittitle>
+                  <container type="Box">9</container>
+                  <container type="Folder">3</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Miscellaneous.<unitdate>1921- 1939</unitdate></unittitle>
+                  <container type="Box">9</container>
+                  <container type="Folder">4</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Senate Hearings – Stock Exchange Practices.<unitdate>1932, 1934</unitdate></unittitle>
+                  <container type="Box">9</container>
+                  <container type="Folder">5</container></did>
+            </c02> 
+         </c01>
+         
+         
+         <c01 level="series">
+            <did><unittitle>Series IV: Performers, <unitdate type="inclusive">1894-2003</unitdate> <unitdate type="bulk">(bulk 1905-1960)</unitdate></unittitle></did>
+            <arrangement><p>Series note: This series is arranged alphabetically by surname.</p></arrangement>
+            <scopecontent><p>This series contains printed material including entries from encyclopedias and other reference resources, newspaper clippings, journal and magazine articles and book chapters. The information about the performers includes biographical information, performance and work history, research on individual performers or acts, and performers’ impact on vaudeville as an industry. The series contains material from the time of vaudeville as well as material from retrospectives and research done after the end of vaudeville.</p></scopecontent>
+            <c02 level="file">
+               <did><unittitle>Allen, Fred<unitdate>1923, undated</unitdate></unittitle>
+                  <container type="Box">10</container>
+                  <container type="Folder">1</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Bergere, Valerie<unitdate>1938, undated</unitdate></unittitle>
+                  <container type="Box">10</container>
+                  <container type="Folder">2</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Barrymore, Ethel<unitdate>1958</unitdate></unittitle>
+                  <container type="Box">10</container>
+                  <container type="Folder">3</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Bayes, Nora<unitdate>1911-1928, undated</unitdate></unittitle>
+                  <container type="Box">10</container>
+                  <container type="Folder">4</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Burke, Ethel (Billie)<unitdate>1908</unitdate></unittitle>
+                  <container type="Box">10</container>
+                  <container type="Folder">5</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Byers, Chester<unitdate>1910-1916, undated</unitdate></unittitle>
+                  <container type="Box">10</container>
+                  <container type="Folder">6</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Bernhardt, Sarah<unitdate>undated</unitdate></unittitle>
+                  <container type="Box">10</container>
+                  <container type="Folder">7</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Brice, Fanny<unitdate>undated</unitdate></unittitle>
+                  <container type="Box">10</container>
+                  <container type="Folder">8</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Butt, Alfred<unitdate>1908-16, 1962, undated</unitdate></unittitle>
+                  <container type="Box">10</container>
+                  <container type="Folder">9</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Carlisle, Gertie<unitdate>1925</unitdate></unittitle>
+                  <container type="Box">10</container>
+                  <container type="Folder">10</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Carrillo, Leopoldo Antonio (Leo)<unitdate>1906-1909, undated</unitdate></unittitle>
+                  <container type="Box">10</container>
+                  <container type="Folder">11</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Carter, Lincoln J.<unitdate>1926, undated</unitdate></unittitle>
+                  <container type="Box">10</container>
+                  <container type="Folder">12</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Casey, Patrick (Pat)<unitdate>undated</unitdate></unittitle>
+                  <container type="Box">10</container>
+                  <container type="Folder">13</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Castle, Irene and Vernon<unitdate>1913-1918, 1969, undated</unitdate></unittitle>
+                  <container type="Box">10</container>
+                  <container type="Folder">14</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Cherry Sisters<unitdate>1934, 1942, 1944, undated</unitdate></unittitle>
+                  <container type="Box">10</container>
+                  <container type="Folder">15</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Chevalier, Albert (Chivvy)<unitdate>undated</unitdate></unittitle>
+                  <container type="Box">10</container>
+                  <container type="Folder">16</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Clarke, Harry<unitdate>1908, 1923, undated</unitdate></unittitle>
+                  <container type="Box">10</container>
+                  <container type="Folder">17</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Cline, Margaret (Maggie)<unitdate>undated</unitdate></unittitle>
+                  <container type="Box">10</container>
+                  <container type="Folder">18</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Cohan, George M.<unitdate>1908, 1917</unitdate></unittitle>
+                  <container type="Box">10</container>
+                  <container type="Folder">19</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Corbett, James J.<unitdate>1908</unitdate></unittitle>
+                  <container type="Box">10</container>
+                  <container type="Folder">20</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Dausset, Carmen<unitdate>1923-1994, undated</unitdate></unittitle>
+                  <container type="Box">10</container>
+                  <container type="Folder">21</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Davies, Reine<unitdate>1913-1922, 1938, 1975</unitdate></unittitle>
+                  <container type="Box">10</container>
+                  <container type="Folder">22</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Dickinson, Richard<unitdate>undated</unitdate></unittitle>
+                  <container type="Box">10</container>
+                  <container type="Folder">23</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Dolly Sisters (Rosika (Rose) and Jansci (Jenny) Deutsch)<unitdate>undated</unitdate></unittitle>
+                  <container type="Box">10</container>
+                  <container type="Folder">24</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>D’orsay, Fifi<unitdate>undated</unitdate></unittitle>
+                  <container type="Box">10</container>
+                  <container type="Folder">25</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Dresser, Louise<unitdate>1907-1936, 1965-1994, undated</unitdate></unittitle>
+                  <container type="Box">10</container>
+                  <container type="Folder">26</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Dressler, Marie<unitdate>1908, 1934, undated</unitdate></unittitle>
+                  <container type="Box">10</container>
+                  <container type="Folder">27</container></did>
+            </c02>
+         
+            <c02 level="file">
+               <did><unittitle>Edwards, Gus (Augustus Edwards Simon)<unitdate>1909-1948, 1979-1988, undated</unitdate></unittitle>
+                  <container type="Box">11</container>
+                  <container type="Folder">1</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Eltinge, Julian<unitdate>1905-1941, 1976-1992</unitdate></unittitle>
+                  <container type="Box">11</container>
+                  <container type="Folder">2</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Fogarty, Frank<unitdate>1914, 1925, 1976, undated</unitdate></unittitle>
+                  <container type="Box">11</container>
+                  <container type="Folder">3</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Foy, Eddie (Edwin Fitzgerald)<unitdate>1908, 1914, 1938, undated</unitdate></unittitle>
+                  <container type="Box">11</container>
+                  <container type="Folder">4</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Franklin, Irene<unitdate>1914-1941, 1981-1993, undated</unitdate></unittitle>
+                  <container type="Box">11</container>
+                  <container type="Folder">5</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Friganza, Trixie<unitdate>1908, undated</unitdate></unittitle>
+                  <container type="Box">11</container>
+                  <container type="Folder">6</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Frisco, Joe (Louis Wilson Joseph)<unitdate>undated</unitdate></unittitle>
+                  <container type="Box">11</container>
+                  <container type="Folder">7</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Green, Burton (James)<unitdate>1922, undated</unitdate></unittitle>
+                  <container type="Box">11</container>
+                  <container type="Folder">8</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Harrigan, Edward<unitdate>1894</unitdate></unittitle>
+                  <container type="Box">11</container>
+                  <container type="Folder">9</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Hart, Billy (William Lenhart) and Hart, Marie (Mabel Markwith)
+                  <unitdate>1935, 1983, undated</unitdate></unittitle>
+                  <container type="Box">11</container>
+                  <container type="Folder">10</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Hart, Joseph<unitdate>1906-1909, 1921, undated</unitdate></unittitle>
+                  <container type="Box">11</container>
+                  <container type="Folder">11</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Hastings, Ned<unitdate>1969</unitdate></unittitle>
+                  <container type="Box">11</container>
+                  <container type="Folder">12</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Held, Anna<unitdate>1908</unitdate></unittitle>
+                  <container type="Box">11</container>
+                  <container type="Folder">13</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Henry, Louise<unitdate>1904-1905, 1970, 1994</unitdate></unittitle>
+                  <container type="Box">11</container>
+                  <container type="Folder">14</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Hite, Mabel<unitdate>1908</unitdate></unittitle>
+                  <container type="Box">11</container>
+                  <container type="Folder">15</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Hitchcock, Raymond<unitdate>1908</unitdate></unittitle>
+                  <container type="Box">11</container>
+                  <container type="Folder">16</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Hoffman, Gertrude<unitdate>1910, 1955-1966</unitdate></unittitle>
+                  <container type="Box">11</container>
+                  <container type="Folder">17</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Hogan, Ernest<unitdate>1903-1905, 1973, undated</unitdate></unittitle>
+                  <container type="Box">11</container>
+                  <container type="Folder">18</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Hope, Bob<unitdate>2003</unitdate></unittitle>
+                  <container type="Box">11</container>
+                  <container type="Folder">19</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Houdini, Harry<unitdate>1906-1926, 1962-1979, undated</unitdate></unittitle>
+                  <container type="Box">11</container>
+                  <container type="Folder">20</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Janis, Elsie<unitdate>1908, 1932, undated</unitdate></unittitle>
+                  <container type="Box">11</container>
+                  <container type="Folder">21</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Jessel, George<unitdate>1950, 1981, undated</unitdate></unittitle>
+                  <container type="Box">11</container>
+                  <container type="Folder">22</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Jolson, Al<unitdate>1988-1994</unitdate></unittitle>
+                  <container type="Box">11</container>
+                  <container type="Folder">23</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Kajiyama, Tameo<unitdate>1921</unitdate></unittitle>
+                  <container type="Box">12</container>
+                  <container type="Folder">1</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Kalich, Bertha<unitdate>1905-1939, 1971-1983, undated</unitdate></unittitle>
+                  <container type="Box">12</container>
+                  <container type="Folder">2</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Keaton, Buster<unitdate>1906-1966, 1993-1995, undated</unitdate></unittitle>
+                  <container type="Box">12</container>
+                  <container type="Folder">3</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Kelly, Harry<unitdate>1908</unitdate></unittitle>
+                  <container type="Box">12</container>
+                  <container type="Folder">4</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>La Rue, Grace<unitdate>1914-1956, 1971-1983, undated</unitdate></unittitle>
+                  <container type="Box">12</container>
+                  <container type="Folder">5</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Latell, Al<unitdate>1924</unitdate></unittitle>
+                  <container type="Box">12</container>
+                  <container type="Folder">6</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Mackaye, Perry Wallace<unitdate>1908</unitdate></unittitle>
+                  <container type="Box">12</container>
+                  <container type="Folder">7</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Mann, Louis<unitdate>1908-1931, 1961-1983, undated</unitdate></unittitle>
+                  <container type="Box">12</container>
+                  <container type="Folder">8</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Mann, Sam<unitdate>1965-1966, undated</unitdate></unittitle>
+                  <container type="Box">12</container>
+                  <container type="Folder">9</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Marlowe, Julia<unitdate>1908</unitdate></unittitle>
+                  <container type="Box">12</container>
+                  <container type="Folder">10</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>May, George<unitdate>1956</unitdate></unittitle>
+                  <container type="Box">12</container>
+                  <container type="Folder">11</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>McIntyre and Health (James McIntyre and Thomas Health)<unitdate>1925, 1938, undated</unitdate></unittitle>
+                  <container type="Box">12</container>
+                  <container type="Folder">12</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>McKee, Buck<unitdate>1910-1941, 1977-1992, undated</unitdate></unittitle>
+                  <container type="Box">12</container>
+                  <container type="Folder">13</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Mitchell, Abbie<unitdate>1960, 1973, 1980</unitdate></unittitle>
+                  <container type="Box">12</container>
+                  <container type="Folder">14</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Montgomery, David<unitdate>1905, 1909-1910, undated</unitdate></unittitle>
+                  <container type="Box">12</container>
+                  <container type="Folder">15</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Morris, Nina<unitdate>1905-1918, 1975, undated</unitdate></unittitle>
+                  <container type="Box">12</container>
+                  <container type="Folder">16</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Morton Family (Sam, Kitty, Clara, Paul)<unitdate>1905-1912</unitdate></unittitle>
+                  <container type="Box">12</container>
+                  <container type="Folder">17</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Morton, James J.<unitdate>1938, undated</unitdate></unittitle>
+                  <container type="Box">12</container>
+                  <container type="Folder">18</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Niblo, Fred<unitdate>1906-1948, 1972-1992, undated</unitdate></unittitle>
+                  <container type="Box">12</container>
+                  <container type="Folder">19</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>North, Bob (Harold Young)<unitdate>1936, 1983, undated</unitdate></unittitle>
+                  <container type="Box">12</container>
+                  <container type="Folder">20</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Norton, Ruby<unitdate>1906, undated</unitdate></unittitle>
+                  <container type="Box">12</container>
+                  <container type="Folder">21</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Norworth, Jack<unitdate>1930-1959, 1974-1983, undated</unitdate></unittitle>
+                  <container type="Box">12</container>
+                  <container type="Folder">22</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Rice, Fanny<unitdate>1906-1913, 1936, undated</unitdate></unittitle>
+                  <container type="Box">13</container>
+                  <container type="Folder">1</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Ring, Blanche<unitdate>1908-1916, 1961-1988, undated</unitdate></unittitle>
+                  <container type="Box">13</container>
+                  <container type="Folder">2</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Robinson, Bill (Bojangles)<unitdate>undated</unitdate></unittitle>
+                  <container type="Box">13</container>
+                  <container type="Folder">3</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Rogers Brothers (Gus and Max Solomon)<unitdate>1908</unitdate></unittitle>
+                  <container type="Box">13</container>
+                  <container type="Folder">4</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Romaine, Martin<unitdate>1917, 1927, undated</unitdate></unittitle>
+                  <container type="Box">13</container>
+                  <container type="Folder">5</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Rooney, Pat<unitdate>1909-1952, 1962-1981, undated</unitdate></unittitle>
+                  <container type="Box">13</container>
+                  <container type="Folder">6</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Roshanara, (Olive Craddock)<unitdate>1926</unitdate></unittitle>
+                  <container type="Box">13</container>
+                  <container type="Folder">7</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Russell, Lillian<unitdate>1922</unitdate></unittitle>
+                  <container type="Box">13</container>
+                  <container type="Folder">8</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Sandow, Eugen<unitdate>1995</unitdate></unittitle>
+                  <container type="Box">13</container>
+                  <container type="Folder">9</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Sargent, Epes Winthrop<unitdate>undated</unitdate></unittitle>
+                  <container type="Box">13</container>
+                  <container type="Folder">10</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Stahl, Rose<unitdate>1905-1916, 1975, undated</unitdate></unittitle>
+                  <container type="Box">13</container>
+                  <container type="Folder">11</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Stevens, Ashton<unitdate>1951, undated</unitdate></unittitle>
+                  <container type="Box">13</container>
+                  <container type="Folder">12</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Stone, Fred (1)<unitdate>1914-1959, 1975-1992, undated</unitdate></unittitle>
+                  <container type="Box">13</container>
+                  <container type="Folder">13</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Stone, Fred (2)<unitdate>1914-1959, 1975-1992, undated</unitdate></unittitle>
+                  <container type="Box">13</container>
+                  <container type="Folder">14</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Tanguay, Eva<unitdate>1908-1947, 1971-1989, undated</unitdate></unittitle>
+                  <container type="Box">14</container>
+                  <container type="Folder">1</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Tiller Girls<unitdate>undated</unitdate></unittitle>
+                  <container type="Box">14</container>
+                  <container type="Folder">2</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Tilley, Vesta<unitdate>1902, 1952, 1956, undated</unitdate></unittitle>
+                  <container type="Box">14</container>
+                  <container type="Folder">3</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Tinney, Frank<unitdate>undated</unitdate></unittitle>
+                  <container type="Box">14</container>
+                  <container type="Folder">4</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Trix, Helen<unitdate>1948-1956, 1976, undated</unitdate></unittitle>
+                  <container type="Box">14</container>
+                  <container type="Folder">5</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Tucker, Sophie<unitdate>1945, 1981</unitdate></unittitle>
+                  <container type="Box">14</container>
+                  <container type="Folder">6</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Van Alstyne, Egbert<unitdate>1928, 1966-1991, undated</unitdate></unittitle>
+                  <container type="Box">14</container>
+                  <container type="Folder">7</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Van and Schenck (Gus Van and Joe Schenck)<unitdate>1914-1919, 1968, undated</unitdate></unittitle>
+                  <container type="Box">14</container>
+                  <container type="Folder">8</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Walton, Florence<unitdate>1919, 1953, 1975, undated</unitdate></unittitle>
+                  <container type="Box">14</container>
+                  <container type="Folder">9</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Weber and Fields (Joe Weber	and Lew Fields)<unitdate>1904, 1908, 1989, 1995, undated</unitdate></unittitle>
+                  <container type="Box">14</container>
+                  <container type="Folder">10</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Williams, Bert (Egbert, Austins)<unitdate>1918-1922, 1981, 1992, undated</unitdate></unittitle>
+                  <container type="Box">14</container>
+                  <container type="Folder">11</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Williams, Gus (Gustave Wilhelm Leweck)<unitdate>1986</unitdate></unittitle>
+                  <container type="Box">14</container>
+                  <container type="Folder">12</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Wills, Nat<unitdate>undated</unitdate></unittitle>
+                  <container type="Box">14</container>
+                  <container type="Folder">13</container></did>
+            </c02>             
+         </c01>
+         
+         <c01 level="series">
+            <did><unittitle>Series V: Pre-Vaudeville, <unitdate type="inclusive">1862-1991</unitdate> <unitdate type="bulk">(bulk 1862-1929)</unitdate></unittitle></did>
+            <arrangement><p>Series note: This series is arranged alphabetically.</p></arrangement>
+            <scopecontent><p>This series contains printed material including newspaper clippings, advertisements, journal and magazine articles and book chapters. This series includes information on variety theaters, management and circuits, and the transition from variety to vaudeville. Information about other entertainment venues like circuses, medicine shows, concert salons and early museums is also included. </p></scopecontent>
+            <c02 level="file">
+               <did><unittitle>Circus shows<unitdate>1890, 1918</unitdate></unittitle>
+                  <container type="Box">15</container>
+                  <container type="Folder">1</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Concert saloons<unitdate>1862-1868, 1968-1991</unitdate></unittitle>
+                  <container type="Box">15</container>
+                  <container type="Folder">2</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Early variety combinations<unitdate>1888-1896, 1907, 1913</unitdate></unittitle>
+                  <container type="Box">15</container>
+                  <container type="Folder">3</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Early variety general<unitdate>1888-1915, 1927-1929</unitdate></unittitle>
+                  <container type="Box">15</container>
+                  <container type="Folder">4</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Early variety managers<unitdate>1877-1896, 1906-1912</unitdate></unittitle>
+                  <container type="Box">15</container>
+                  <container type="Folder">5</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Early variety theaters<unitdate>1878-1901, 1981</unitdate></unittitle>
+                  <container type="Box">15</container>
+                  <container type="Folder">6</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Medicine shows<unitdate>1889, 1974</unitdate></unittitle>
+                  <container type="Box">15</container>
+                  <container type="Folder">7</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Museums<unitdate>1889-1915, 1959</unitdate></unittitle>
+                  <container type="Box">15</container>
+                  <container type="Folder">8</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Theatrical Managers Association<unitdate>1889-1894</unitdate></unittitle>
+                  <container type="Box">15</container>
+                  <container type="Folder">9</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Variety and vaudeville<unitdate>1864-1907, 1940</unitdate></unittitle>
+                  <container type="Box">15</container>
+                  <container type="Folder">10</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Variety circuits<unitdate>1889-1890, undated</unitdate></unittitle>
+                  <container type="Box">15</container>
+                  <container type="Folder">11</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Variety in New York	<unitdate>1879-1910</unitdate></unittitle>
+                  <container type="Box">15</container>
+                  <container type="Folder">12</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Variety in San Francisco<unitdate>1881-1910</unitdate></unittitle>
+                  <container type="Box">15</container>
+                  <container type="Folder">13</container></did>
+            </c02>
+         </c01>
+        
+         <c01 level="series">
+            <did><unittitle>Series VI: Circuits</unittitle></did>
+            <arrangement><p>This series is divided into two subseries the Orpheum Circuit and the Keith-Albee Circuit.</p></arrangement>
+            <c02 level="subseries">
+               <did><unittitle>Subseries 1: Orpheum Circuit,<unitdate type="inclusive">1883-2005</unitdate> <unitdate type="bulk">(bulk 1883-1940)</unitdate></unittitle></did>
+               <arrangement><p>Subseries note: This subseries is arranged alphabetically.</p></arrangement>
+               <scopecontent><p>This series contains printed material including newspaper clippings, advertisements, journal and magazine articles and book chapters. This series includes information on the operations and history of the Orpheum Circuit, Orpheum Circuit executives and employees, management of the theaters, the theater buildings, and interactions with managers’ associations, unions and performers.</p></scopecontent>
+               <c03>
+                  <did><unittitle>1909<unitdate>1909, undated</unitdate></unittitle>
+                     <container type="Box">16</container>
+                     <container type="Folder">1</container></did>
+               </c03>
+               <c03>
+                  <did><unittitle>1920<unitdate>1920</unitdate></unittitle>
+                     <container type="Box">16</container>
+                     <container type="Folder">2</container></did>
+               </c03>
+               <c03>
+                  <did><unittitle>1922<unitdate>1922, undated</unitdate></unittitle>
+                     <container type="Box">16</container>
+                     <container type="Folder">3</container></did>
+               </c03>
+               <c03>
+                  <did><unittitle>Ackerman, Charles L.<unitdate>1903, 1909 </unitdate></unittitle>
+                     <container type="Box">16</container>
+                     <container type="Folder">4</container></did>
+               </c03>
+               <c03>
+                  <did><unittitle>Beck, Martin<unitdate>1908-1940, undated</unitdate></unittitle>
+                     <container type="Box">16</container>
+                     <container type="Folder">5</container></did>
+               </c03>
+               <c03>
+                  <did><unittitle>Boston Orpheum theater<unitdate>undated</unitdate></unittitle>
+                     <container type="Box">16</container>
+                     <container type="Folder">6</container></did>
+               </c03>
+               <c03>
+                  <did><unittitle>Castle, George and Kohl, Charles E. <unitdate>1883, 1910-1918, undated</unitdate></unittitle>
+                     <container type="Box">16</container>
+                     <container type="Folder">7</container></did>
+               </c03>
+               <c03>
+                  <did><unittitle>Early Orpheum and Walters, Gustav (1)<unitdate>1893-1899</unitdate></unittitle>
+                     <container type="Box">16</container>
+                     <container type="Folder">8</container></did>
+               </c03>
+               <c03>
+                  <did><unittitle>Early Orpheum and Walters, Gustav (2)<unitdate>1893-1899</unitdate></unittitle>
+                     <container type="Box">16</container>
+                     <container type="Folder">9</container></did>
+               </c03>
+               <c03>
+                  <did><unittitle>Death of Gustav Walters<unitdate>1891-1898</unitdate></unittitle>
+                     <container type="Box">17</container>
+                     <container type="Folder">1</container></did>
+               </c03>
+               <c03>
+                  <did><unittitle>Des Moines Orpheum theater<unitdate>1951, undated</unitdate></unittitle>
+                     <container type="Box">17</container>
+                     <container type="Folder">2</container></did>
+               </c03>
+               <c03>
+                  <did><unittitle>Denver Orpheum theater<unitdate>1932, 1955, undated</unitdate></unittitle>
+                     <container type="Box">17</container>
+                     <container type="Folder">3</container></did>
+               </c03>
+               <c03>
+                  <did><unittitle>Duluth Orpheum theater<unitdate>1940-1941, undated</unitdate></unittitle>
+                     <container type="Box">17</container>
+                     <container type="Folder">4</container></did>
+               </c03>
+               <c03>
+                  <did><unittitle>General history<unitdate>1907-1928, undated</unitdate></unittitle>
+                     <container type="Box">17</container>
+                     <container type="Folder">5</container></did>
+               </c03>
+               <c03>
+                  <did><unittitle>Heiman, Marcus<unitdate>1920, 1927</unitdate></unittitle>
+                     <container type="Box">17</container>
+                     <container type="Folder">6</container></did>
+               </c03>
+               <c03>
+                  <did><unittitle>Hopkins, Col. John D.	<unitdate>1895-1909, undated</unitdate></unittitle>
+                     <container type="Box">17</container>
+                     <container type="Folder">7</container></did>
+               </c03>
+               <c03>
+                  <did><unittitle>Lansburgh, Gustave Albert architect<unitdate>2005</unitdate></unittitle>
+                     <container type="Box">17</container>
+                     <container type="Folder">8</container></did>
+               </c03>
+               <c03>
+                  <did><unittitle>Lehman, Martin<unitdate>1917</unitdate></unittitle>
+                     <container type="Box">17</container>
+                     <container type="Folder">9</container></did>
+               </c03>
+               <c03>
+                  <did><unittitle>Los Angeles Orpheum theater<unitdate>1908-1926, 1989-1999, undated</unitdate></unittitle>
+                     <container type="Box">17</container>
+                     <container type="Folder">10</container></did>
+               </c03>
+               <c03>
+                  <did><unittitle>Memphis Orpheum theater<unitdate>undated</unitdate></unittitle>
+                     <container type="Box">17</container>
+                     <container type="Folder">11</container></did>
+               </c03>
+               <c03>
+                  <did><unittitle>Meyerfeld, Morris<unitdate>1908, 1935, undated</unitdate></unittitle>
+                     <container type="Box">17</container>
+                     <container type="Folder">12</container></did>
+               </c03>
+               <c03>
+                  <did><unittitle>Middleton, George<unitdate>1901, 1928</unitdate></unittitle>
+                     <container type="Box">17</container>
+                     <container type="Folder">13</container></did>
+               </c03>
+               <c03>
+                  <did><unittitle>Minneapolis Orpheum theater	<unitdate>1993, undated</unitdate></unittitle>
+                     <container type="Box">17</container>
+                     <container type="Folder">14</container></did>
+               </c03>
+               <c03>
+                  <did><unittitle>Morrisey, John<unitdate>1897-1903</unitdate></unittitle>
+                     <container type="Box">17</container>
+                     <container type="Folder">15</container></did>
+               </c03>
+               <c03>
+                  <did><unittitle>New Orleans Orpheum theater<unitdate>1989, 1993, undated</unitdate></unittitle>
+                     <container type="Box">17</container>
+                     <container type="Folder">16</container></did>
+               </c03>
+               <c03>
+                  <did><unittitle>Oakland Orpheum theater<unitdate>1907, 1925, 1967</unitdate></unittitle>
+                     <container type="Box">17</container>
+                     <container type="Folder">17</container></did>
+               </c03>
+               <c03>
+                  <did><unittitle>Omaha Orpheum theater<unitdate>1925-1926, 1988, undated</unitdate></unittitle>
+                     <container type="Box">17</container>
+                     <container type="Folder">18</container></did>
+               </c03>
+               <c03>
+                  <did><unittitle>Orpheum theaters (1)<unitdate>1925</unitdate></unittitle>
+                     <container type="Box">17</container>
+                     <container type="Folder">19</container></did>
+               </c03>
+               <c03>
+                  <did><unittitle>Orpheum theaters (2)<unitdate>1971-1987, undated</unitdate></unittitle>
+                     <container type="Box">18</container>
+                     <container type="Folder">1</container></did>
+               </c03>
+               <c03>
+                  <did><unittitle>San Francisco Orpheum theater<unitdate>1901-1938, 1971-1975</unitdate></unittitle>
+                     <container type="Box">18</container>
+                     <container type="Folder">2</container></did>
+               </c03>
+               <c03>
+                  <did><unittitle>Sioux City Orpheum theater<unitdate>1924, 1979, 1982, undated</unitdate></unittitle>
+                     <container type="Box">18</container>
+                     <container type="Folder">3</container></did>
+               </c03>
+               <c03>
+                  <did><unittitle>Singer, Mort<unitdate>1911, 1920, 1944</unitdate></unittitle>
+                     <container type="Box">18</container>
+                     <container type="Folder">4</container></did>
+               </c03>
+               <c03>
+                  <did><unittitle>South Bend Orpheum theater<unitdate>1973, undated</unitdate></unittitle>
+                     <container type="Box">18</container>
+                     <container type="Folder">5</container></did>
+               </c03>
+               <c03>
+                  <did><unittitle>St. Paul Orpheum theater<unitdate>1975-1981, undated</unitdate></unittitle>
+                     <container type="Box">18</container>
+                     <container type="Folder">6</container></did>
+               </c03>
+               <c03>
+                  <did><unittitle>Vancouver Orpheum theater<unitdate>1999, undated</unitdate></unittitle>
+                     <container type="Box">18</container>
+                     <container type="Folder">7</container></did>
+               </c03>
+               <c03>
+                  <did><unittitle>Western circuit vaudeville theaters<unitdate>1897-1900</unitdate></unittitle>
+                     <container type="Box">18</container>
+                     <container type="Folder">8</container></did>
+               </c03>
+               <c03>
+                  <did><unittitle>Western Vaudeville Manager’s Association<unitdate>1908-1914, undated</unitdate></unittitle>
+                     <container type="Box">18</container>
+                     <container type="Folder">9</container></did>
+               </c03>
+            </c02>
+            <c02 level="subseries">
+               <did><unittitle>Subseries 2: Keith-Albee Circuit,<unitdate type="inclusive">1885-2005</unitdate> <unitdate type="bulk">(bulk 1885-1930)</unitdate></unittitle></did>
+               <arrangement><p>Subseries note: This subseries is arranged alphabetically.</p></arrangement>
+               <scopecontent><p>This series contains printed material including newspaper clippings, advertisements, journal and magazine articles and book chapters. This series includes information on the operations and history of the Keith-Albee Circuit, Keith-Albee Circuit executives and employees, management of the theaters, the theater buildings, and interactions with managers’ associations, unions and performers. Information about Edward F. Albee and Benjamin F. Keith and their families is included.</p></scopecontent>
+               <c03>
+                  <did><unittitle>Albee, Edward F.<unitdate>1891-1930, 1953, undated</unitdate></unittitle>
+                     <container type="Box">19</container>
+                     <container type="Folder">1</container> </did>
+               </c03>
+               <c03>
+                  <did><unittitle>Albee, Ethel and Albee, Reed<unitdate>1914-1924</unitdate></unittitle>
+                     <container type="Box">19</container>
+                     <container type="Folder">2</container> </did>
+               </c03>
+               <c03>
+                  <did><unittitle>Albee Jr., Edward playwright<unitdate>1997-2005</unitdate></unittitle>
+                     <container type="Box">19</container>
+                     <container type="Folder">3</container> </did>
+               </c03>
+               <c03>
+                  <did><unittitle>Batcheller, George H.<unitdate>1885-1913</unitdate></unittitle>
+                     <container type="Box">19</container>
+                     <container type="Folder">4</container> </did>
+               </c03>
+               <c03>
+                  <did><unittitle>Boston Herald news clippings (1)<unitdate>1883-1884 </unitdate></unittitle>
+                     <container type="Box">19</container>
+                     <container type="Folder">5</container> </did>
+               </c03>
+               <c03>
+                  <did><unittitle>Boston Herald news clippings (2)<unitdate>1885</unitdate></unittitle>
+                     <container type="Box">19</container>
+                     <container type="Folder">6</container> </did>
+               </c03>
+               <c03>
+                  <did><unittitle>Boston Herald news clippings (3)<unitdate>1887-1888</unitdate></unittitle>
+                     <container type="Box">19</container>
+                     <container type="Folder">7</container> </did>
+               </c03>
+               <c03>
+                  <did><unittitle>Bunnell Museum<unitdate>1887-1906</unitdate></unittitle>
+                     <container type="Box">19</container>
+                     <container type="Folder">8</container> </did>
+               </c03>
+               <c03>
+                  <did><unittitle>Continuous performance and the Princess Theater <unitdate>1900</unitdate></unittitle>
+                     <container type="Box">19</container>
+                     <container type="Folder">9</container> </did>
+               </c03>
+               <c03>
+                  <did><unittitle>Death of E.F. Albee<unitdate>1930</unitdate></unittitle>
+                     <container type="Box">19</container>
+                     <container type="Folder">10</container> </did>
+               </c03>
+               <c03>
+                  <did><unittitle>Early Keith<unitdate>1888-1921</unitdate></unittitle>
+                     <container type="Box">19</container>
+                     <container type="Folder">11</container> </did>
+               </c03>
+               <c03>
+                  <did><unittitle>Europe trip<unitdate>1895-1897</unitdate></unittitle>
+                     <container type="Box">19</container>
+                     <container type="Folder">12</container> </did>
+               </c03>
+               <c03>
+                  <did><unittitle>Female Varieties: Gender and cultural hierarchy on the Keith vaudeville circuit, 1890-1925 (dissertation)
+                     <unitdate>1994</unitdate></unittitle>
+                     <container type="Box">19</container>
+                     <container type="Folder">13</container> </did>
+               </c03>
+               <c03>
+                  <did><unittitle>General (1)<unitdate>1907-1929, undated </unitdate></unittitle>
+                     <container type="Box">20</container>
+                     <container type="Folder">1</container> </did>
+               </c03>
+               <c03>
+                  <did><unittitle>General (2)<unitdate>1960-1982</unitdate></unittitle>
+                     <container type="Box">20</container>
+                     <container type="Folder">2</container> </did>
+               </c03>
+               <c03>
+                  <did><unittitle>Goodman, Maurice general counsel<unitdate>1914, 1929</unitdate></unittitle>
+                     <container type="Box">20</container>
+                     <container type="Folder">3</container> </did>
+               </c03>
+               <c03>
+                  <did><unittitle>Growth of Keith’s theaters<unitdate>1898-1899</unitdate></unittitle>
+                     <container type="Box">20</container>
+                     <container type="Folder">4</container> </did>
+               </c03>
+               <c03>
+                  <did><unittitle>Hennessy, Daniel<unitdate>1910-1923, undated</unitdate></unittitle>
+                     <container type="Box">20</container>
+                     <container type="Folder">5</container> </did>
+               </c03>
+               <c03>
+                  <did><unittitle>Hillsboro, New Hampshire<unitdate>1885, 2001-2002</unitdate></unittitle>
+                     <container type="Box">20</container>
+                     <container type="Folder">6</container> </did>
+               </c03>
+               <c03>
+                  <did><unittitle>Hodgdon, Samuel K.<unitdate>1896-1898, 1912, 1922</unitdate></unittitle>
+                     <container type="Box">20</container>
+                     <container type="Folder">7</container> </did>
+               </c03>
+               <c03>
+                  <did><unittitle>Independents versus United Booking Offices (UBO) <unitdate>1909</unitdate></unittitle>
+                     <container type="Box">20</container>
+                     <container type="Folder">8</container> </did>
+               </c03>
+               <c03>
+                  <did><unittitle>Keith’s will (A. Paul Keith)<unitdate>1918-1920</unitdate></unittitle>
+                     <container type="Box">20</container>
+                     <container type="Folder">9</container> </did>
+               </c03>
+               <c03>
+                  <did><unittitle>Keith’s Bijou Theater Philadelphia<unitdate>1889-1896, 1967</unitdate></unittitle>
+                     <container type="Box">20</container>
+                     <container type="Folder">10</container> </did>
+               </c03>
+               <c03>
+                  <did><unittitle>Keith’s theater Chestnut Street Philadelphia<unitdate>1900-1910</unitdate></unittitle>
+                     <container type="Box">20</container>
+                     <container type="Folder">11</container> </did>
+               </c03>
+               <c03>
+                  <did><unittitle>Keith’s theater Union Square<unitdate>1882-1915, 1983-1993</unitdate></unittitle>
+                     <container type="Box">20</container>
+                     <container type="Folder">12</container> </did>
+               </c03>
+               <c03>
+                  <did><unittitle>Keith’s theaters Boston (1)<unitdate>1892-1929, 1975-1983</unitdate></unittitle>
+                     <container type="Box">20</container>
+                     <container type="Folder">13</container> </did>
+               </c03>
+               <c03>
+                  <did><unittitle>Keith’s theaters Boston (2)<unitdate>1892-1929, 1975-1983</unitdate></unittitle>
+                     <container type="Box">20</container>
+                     <container type="Folder">14</container> </did>
+               </c03>
+               <c03>
+                  <did><unittitle>Keith’s theaters Cleveland and Columbus<unitdate>1907-1908</unitdate></unittitle>
+                     <container type="Box">21</container>
+                     <container type="Folder">1</container> </did>
+               </c03>
+               <c03>
+                  <did><unittitle>Keith’s theaters Philadelphia<unitdate>1900-1914, undated</unitdate></unittitle>
+                     <container type="Box">21</container>
+                     <container type="Folder">2</container> </did>
+               </c03>
+               <c03>
+                  <did><unittitle>Keith’s theaters Providence<unitdate>1898-1903, undated</unitdate></unittitle>
+                     <container type="Box">21</container>
+                     <container type="Folder">3</container> </did>
+               </c03>
+               <c03>
+                  <did><unittitle>McElfatrick and Sons architects<unitdate>1966, undated</unitdate></unittitle>
+                     <container type="Box">21</container>
+                     <container type="Folder">4</container> </did>
+               </c03>
+               <c03>
+                  <did><unittitle>Murdock, John J.<unitdate>1909-1915, 1948</unitdate></unittitle>
+                     <container type="Box">21</container>
+                     <container type="Folder">5</container> </did>
+               </c03>
+               <c03>
+                  <did><unittitle>New York Star photos of Keith executives<unitdate>undated</unitdate></unittitle>
+                     <container type="Box">21</container>
+                     <container type="Folder">6</container> </did>
+               </c03>
+               <c03>
+                  <did><unittitle>News and events 1885-1886<unitdate>1885-1886 </unitdate></unittitle>
+                     <container type="Box">21</container>
+                     <container type="Folder">7</container> </did>
+               </c03>
+               <c03>
+                  <did><unittitle>Palace Theater New York<unitdate>1912-1913, 1977-1991</unitdate></unittitle>
+                     <container type="Box">21</container>
+                     <container type="Folder">8</container> </did>
+               </c03>
+               <c03>
+                  <did><unittitle>Theatrical syndicate<unitdate>1896-1903, 1924, 1940</unitdate></unittitle>
+                     <container type="Box">21</container>
+                     <container type="Folder">9</container> </did>
+               </c03>
+               <c03>
+                  <did><unittitle>United Booking Offices (UBO)<unitdate>1908-1916</unitdate></unittitle>
+                     <container type="Box">21</container>
+                     <container type="Folder">10</container> </did>
+               </c03>
+               <c03>
+                  <did><unittitle>Vaudeville West: To Los Angeles and the final Stages of Vaudeville (dissertation)
+                     <unitdate>1987</unitdate></unittitle>
+                     <container type="Box">21</container>
+                     <container type="Folder">11</container> </did>
+               </c03>
+               <c03>
+                  <did><unittitle>Willard, Frances E.<unitdate>1896-1897</unitdate></unittitle>
+                     <container type="Box">21</container>
+                     <container type="Folder">12</container> </did>
+               </c03>
+            </c02>
+         </c01>   
+        
+         <c01 level="series">
+            <did><unittitle>Series VII: Subject Files, <unitdate type="inclusive">1884-2004</unitdate> <unitdate type="bulk">(bulk 1884-1929)</unitdate></unittitle></did>
+            <arrangement><p>Series note: This series is arranged alphabetically.</p></arrangement>
+            <scopecontent><p>This series contains printed material including newspaper clippings, journal and magazine articles, book chapters and dissertations, as well as Wertheim’s research notes. A variety of topics are covered including vaudeville audiences and salaries, agents, theater critics, industry publications, censorship, racial and ethnic diversity in vaudeville, and the transition from vaudeville to radio and film.</p></scopecontent>
+            <c02 level="file">
+               <did><unittitle>African Americans in vaudeville<unitdate>1906-1927, 1996-2000, undated</unitdate></unittitle>
+                  <container type="Box">22</container>
+                  <container type="Folder">1</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>American performers abroad<unitdate>1897-1912</unitdate></unittitle>
+                  <container type="Box">22</container>
+                  <container type="Folder">2</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>American vaudeville managers: their organization and influence (dissertation)
+                  <unitdate>1981</unitdate></unittitle>
+                  <container type="Box">22</container>
+                  <container type="Folder">3</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Audience studies<unitdate>1896-1914, 1960-1993</unitdate></unittitle>
+                  <container type="Box">22</container>
+                  <container type="Folder">4</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Correspondence to Michael Shea<unitdate>1899-1904, undated </unitdate></unittitle>
+                  <container type="Box">22</container>
+                  <container type="Folder">5</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Early agents<unitdate>1884-1910</unitdate></unittitle>
+                  <container type="Box">22</container>
+                  <container type="Folder">6</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Ethnic humor<unitdate>1902, 1971-1992</unitdate></unittitle>
+                  <container type="Box">22</container>
+                  <container type="Folder">7</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>European vaudeville<unitdate>1894-1914</unitdate></unittitle>
+                  <container type="Box">22</container>
+                  <container type="Folder">8</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Houdini notes from abroad<unitdate>1902-1903</unitdate></unittitle>
+                  <container type="Box">22</container>
+                  <container type="Folder">9</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Industry publications<unitdate>1888-1923</unitdate></unittitle>
+                  <container type="Box">22</container>
+                  <container type="Folder">10</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Jewish comedians<unitdate>1910-1911, undated</unitdate></unittitle>
+                  <container type="Box">22</container>
+                  <container type="Folder">11</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Miscellaneous circuits<unitdate>1903-1912</unitdate></unittitle>
+                  <container type="Box">23</container>
+                  <container type="Folder">1</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Miscellaneous topics (1)<unitdate>1883-1898, 1901-1949</unitdate></unittitle>
+                  <container type="Box">23</container>
+                  <container type="Folder">2</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Miscellaneous topics (2)<unitdate>1971-1992</unitdate></unittitle>
+                  <container type="Box">23</container>
+                  <container type="Folder">3</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Playlets<unitdate>1897, 1910-1917</unitdate></unittitle>
+                  <container type="Box">23</container>
+                  <container type="Folder">4</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Research notes from Joseph P. Kennedy collection at the JFK Library
+                  <unitdate>2000-2002</unitdate></unittitle>
+                  <container type="Box">23</container>
+                  <container type="Folder">5</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Rise and fall of the racial comics (dissertation)<unitdate>1963</unitdate></unittitle>
+                  <container type="Box">23</container>
+                  <container type="Folder">6</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Sunday crusades and censorship<unitdate>1906-1923</unitdate></unittitle>
+                  <container type="Box">23</container>
+                  <container type="Folder">7</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>The Vaudeville Wars: William Morris, E.F. Albee, the White Rats and the Business of Entertainment (dissertation)
+                  <unitdate>2004</unitdate></unittitle>
+                  <container type="Box">24</container>
+                  <container type="Folder">1</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Theater critics<unitdate>1977, undated</unitdate></unittitle>
+                  <container type="Box">24</container>
+                  <container type="Folder">2</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Theatrical hotels<unitdate>1913</unitdate></unittitle>
+                  <container type="Box">24</container>
+                  <container type="Folder">3</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Transition from vaudeville to radio and film (1)<unitdate>1901-1929</unitdate></unittitle>
+                  <container type="Box">24</container>
+                  <container type="Folder">4</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Transition from vaudeville to radio and film (2)<unitdate>1930-1982, undated</unitdate></unittitle>
+                  <container type="Box">24</container>
+                  <container type="Folder">5</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Vaudeville and motion picture shows a study of theaters in Portland, Oregon
+                  <unitdate>1914</unitdate></unittitle>
+                  <container type="Box">24</container>
+                  <container type="Folder">6</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Vaudeville salaries<unitdate>1906-1915, 1923</unitdate></unittitle>
+                  <container type="Box">24</container>
+                  <container type="Folder">7</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Vaudeville - theater in a package<unitdate>1990, 1916, 1971</unitdate></unittitle>
+                  <container type="Box">24</container>
+                  <container type="Folder">8</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Wertheim research notes<unitdate>undated</unitdate></unittitle>
+                  <container type="Box">24</container>
+                  <container type="Folder">9</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Who’s who in music and drama <unitdate>1914</unitdate></unittitle>
+                  <container type="Box">24</container>
+                  <container type="Folder">10</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Who’s who in vaudeville 1911<unitdate>1911</unitdate></unittitle>
+                  <container type="Box">24</container>
+                  <container type="Folder">11</container></did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did><unittitle>Series VIII: News and Events, <unitdate>1895-1929</unitdate></unittitle></did>
+            <arrangement><p>Series note: This series is arranged chronologically.</p></arrangement>
+            <scopecontent><p>This series contains printed material consisting primarily of newspaper clippings, and journal articles that chronicle the news and events of each year. Much of the material comes from industry publications like Variety and the New York Star. Other documents include business records such as legal agreements, union and association meeting minutes and correspondence.</p></scopecontent>
+            <c02 level="file">
+               <did><unittitle>1895 - General<unitdate>1895</unitdate></unittitle>
+                  <container type="Box">25</container>
+                  <container type="Folder">1</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1896 - General<unitdate>1896</unitdate></unittitle>
+                  <container type="Box">25</container>
+                  <container type="Folder">2</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1896 - Legitimate actors in vaudeville<unitdate>1896</unitdate></unittitle>
+                  <container type="Box">25</container>
+                  <container type="Folder">3</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1899 - General<unitdate>1899</unitdate></unittitle>
+                  <container type="Box">25</container>
+                  <container type="Folder">4</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1900 – Formation of the Association of	 the Vaudeville Managers of the United States
+                  <unitdate>1900</unitdate></unittitle>
+                  <container type="Box">25</container>
+                  <container type="Folder">5</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1900 - Formation of White Rats<unitdate>1900</unitdate></unittitle>
+                  <container type="Box">25</container>
+                  <container type="Folder">6</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1900 - General<unitdate>1900</unitdate></unittitle>
+                  <container type="Box">25</container>
+                  <container type="Folder">7</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1901 - General<unitdate>1901</unitdate></unittitle>
+                  <container type="Box">25</container>
+                  <container type="Folder">8</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1901 - White Rats strike<unitdate>1901</unitdate></unittitle>
+                  <container type="Box">25</container>
+                  <container type="Folder">9</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1902 - General<unitdate>1902</unitdate></unittitle>
+                  <container type="Box">25</container>
+                  <container type="Folder">10</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1903 - General<unitdate>1903</unitdate></unittitle>
+                  <container type="Box">25</container>
+                  <container type="Folder">11</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1903 - Orpheum<unitdate>1903</unitdate></unittitle>
+                  <container type="Box">25</container>
+                  <container type="Folder">12</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1903 - Percy Williams/Association of Vaudeville Managers (AVM) feud
+                  <unitdate>1903</unitdate></unittitle>
+                  <container type="Box">25</container>
+                  <container type="Folder">13</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1904 - Formation of Western Vaudeville Association<unitdate>1904</unitdate></unittitle>
+                  <container type="Box">25</container>
+                  <container type="Folder">14</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1904 - General<unitdate>1904</unitdate></unittitle>
+                  <container type="Box">25</container>
+                  <container type="Folder">15</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1904 - Keith expands<unitdate>1904</unitdate></unittitle>
+                  <container type="Box">25</container>
+                  <container type="Folder">16</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1905 - Five and ten cent vaudeville<unitdate>1905</unitdate></unittitle>
+                  <container type="Box">25</container>
+                  <container type="Folder">17</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1905 - General<unitdate>1905</unitdate></unittitle>
+                  <container type="Box">25</container>
+                  <container type="Folder">18</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1905 - Keith circuit<unitdate>1905</unitdate></unittitle>
+                  <container type="Box">25</container>
+                  <container type="Folder">19</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1905 - Orpheum<unitdate>1905</unitdate></unittitle>
+                  <container type="Box">25</container>
+                  <container type="Folder">20</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1905 - Sullivan and Considine small time<unitdate>1905</unitdate></unittitle>
+                  <container type="Box">25</container>
+                  <container type="Folder">21</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1906 - Combinations<unitdate>1906</unitdate></unittitle>
+                  <container type="Box">26</container>
+                  <container type="Folder">1</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1906 - Earthquake and New Orpheum<unitdate>1906</unitdate></unittitle>
+                  <container type="Box">26</container>
+                  <container type="Folder">2</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1906 - General<unitdate>1906</unitdate></unittitle>
+                  <container type="Box">26</container>
+                  <container type="Folder">3</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1906 - Hammerstein<unitdate>1906</unitdate></unittitle>
+                  <container type="Box">26</container>
+                  <container type="Folder">4</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1906 - Keith<unitdate>1906</unitdate></unittitle>
+                  <container type="Box">26</container>
+                  <container type="Folder">5</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1906 - Morris<unitdate>1906</unitdate></unittitle>
+                  <container type="Box">26</container>
+                  <container type="Folder">6</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1906 - Poli joins the United Booking Offices<unitdate>1906</unitdate></unittitle>
+                  <container type="Box">26</container>
+                  <container type="Folder">7</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1906 - United Booking Offices (UBO)<unitdate>1906</unitdate></unittitle>
+                  <container type="Box">26</container>
+                  <container type="Folder">8</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1906 - Variety Why Artists Should Organize<unitdate>1906</unitdate></unittitle>
+                  <container type="Box">26</container>
+                  <container type="Folder">9</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1906 - Williams<unitdate>1906</unitdate></unittitle>
+                  <container type="Box">26</container>
+                  <container type="Folder">10</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1907 - Advanced Vaudeville (1)<unitdate>1907</unitdate></unittitle>
+                  <container type="Box">26</container>
+                  <container type="Folder">11</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1907 - Advanced Vaudeville (2)<unitdate>1907</unitdate></unittitle>
+                  <container type="Box">26</container>
+                  <container type="Folder">12</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1907 - Advanced Vaudeville legal agreements	<unitdate>1907</unitdate></unittitle>
+                  <container type="Box">26</container>
+                  <container type="Folder">13</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1907 - Orpheum<unitdate>1907</unitdate></unittitle>
+                  <container type="Box">26</container>
+                  <container type="Folder">14</container></did>
+            </c02>
+            
+            <c02 level="file">
+               <did><unittitle>1907 - Variety<unitdate>1907</unitdate></unittitle>
+                  <container type="Box">27</container>
+                  <container type="Folder">1</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1908 - Beck and Orpheum<unitdate>1908</unitdate></unittitle>
+                  <container type="Box">27</container>
+                  <container type="Folder">2</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1908 - General<unitdate>1908</unitdate></unittitle>
+                  <container type="Box">27</container>
+                  <container type="Folder">3</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1908 - Morris, William<unitdate>1908</unitdate></unittitle>
+                  <container type="Box">27</container>
+                  <container type="Folder">4</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1908 - United Booking Office (UBO)<unitdate>1908</unitdate></unittitle>
+                  <container type="Box">27</container>
+                  <container type="Folder">5</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1908 - Variety<unitdate>1908</unitdate></unittitle>
+                  <container type="Box">27</container>
+                  <container type="Folder">6</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1908 - White Rats<unitdate>1908</unitdate></unittitle>
+                  <container type="Box">27</container>
+                  <container type="Folder">7</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1909 - Beck, Morris, Keith feud<unitdate>1909</unitdate></unittitle>
+                  <container type="Box">27</container>
+                  <container type="Folder">8</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1909 - Film and vaudeville<unitdate>1909</unitdate></unittitle>
+                  <container type="Box">27</container>
+                  <container type="Folder">9</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1909 - General	<unitdate>1909</unitdate></unittitle>
+                  <container type="Box">27</container>
+                  <container type="Folder">10</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1909 - Kellermann, Annette<unitdate>1909</unitdate></unittitle>
+                  <container type="Box">27</container>
+                  <container type="Folder">11</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1909 - Morris, William<unitdate>1909</unitdate></unittitle>
+                  <container type="Box">27</container>
+                  <container type="Folder">12</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1909 - Orpheum<unitdate>1909</unitdate></unittitle>
+                  <container type="Box">27</container>
+                  <container type="Folder">13</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1909 - Variety<unitdate>1909</unitdate></unittitle>
+                  <container type="Box">27</container>
+                  <container type="Folder">14</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1909 - United Booking Offices and Keith<unitdate>1909</unitdate></unittitle>
+                  <container type="Box">27</container>
+                  <container type="Folder">15</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1909 - Voss Agency Bill and blacklisting<unitdate>1909</unitdate></unittitle>
+                  <container type="Box">27</container>
+                  <container type="Folder">16</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1909 - White Rats<unitdate>1909</unitdate></unittitle>
+                  <container type="Box">27</container>
+                  <container type="Folder">17</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1909 - World Circuit<unitdate>1909</unitdate></unittitle>
+                  <container type="Box">27</container>
+                  <container type="Folder">18</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1910 - Cox, George and Rhinock, Joseph<unitdate>1910</unitdate></unittitle>
+                  <container type="Box">28</container>
+                  <container type="Folder">1</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1910 - Fox, William<unitdate>1910</unitdate></unittitle>
+                  <container type="Box">28</container>
+                  <container type="Folder">2</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1910 - General<unitdate>1910</unitdate></unittitle>
+                  <container type="Box">28</container>
+                  <container type="Folder">3</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1910 - Hammerstein<unitdate>1910</unitdate></unittitle>
+                  <container type="Box">28</container>
+                  <container type="Folder">4</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1910 - International activities<unitdate>1910</unitdate></unittitle>
+                  <container type="Box">28</container>
+                  <container type="Folder">5</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1910 - Orpheum and Beck<unitdate>1910</unitdate></unittitle>
+                  <container type="Box">28</container>
+                  <container type="Folder">6</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1910 - United Booking Offices (UBO)<unitdate>1910</unitdate></unittitle>
+                  <container type="Box">28</container>
+                  <container type="Folder">7</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1910 - White Rats<unitdate>1910</unitdate></unittitle>
+                  <container type="Box">28</container>
+                  <container type="Folder">8</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1911 - Actors Society<unitdate>1911</unitdate></unittitle>
+                  <container type="Box">28</container>
+                  <container type="Folder">9</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1911 - Fox, William<unitdate>1911</unitdate></unittitle>
+                  <container type="Box">28</container>
+                  <container type="Folder">10</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1911 - General<unitdate>1911</unitdate></unittitle>
+                  <container type="Box">28</container>
+                  <container type="Folder">11</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1911 - Hammerstein and the Victoria Theater<unitdate>1911</unitdate></unittitle>
+                  <container type="Box">28</container>
+                  <container type="Folder">12</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1911 - Keith-Proctor dissolution<unitdate>1911</unitdate></unittitle>
+                  <container type="Box">28</container>
+                  <container type="Folder">13</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1911 - Orpheum<unitdate>1911</unitdate></unittitle>
+                  <container type="Box">28</container>
+                  <container type="Folder">14</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1911 - Vaudeville Managers Protective Association<unitdate>1911</unitdate></unittitle>
+                  <container type="Box">28</container>
+                  <container type="Folder">15</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1911 - White Rats<unitdate>1911</unitdate></unittitle>
+                  <container type="Box">28</container>
+                  <container type="Folder">16</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1911 - Williams, Percy and Tanguay, Eva<unitdate>1911</unitdate></unittitle>
+                  <container type="Box">28</container>
+                  <container type="Folder">17</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1911 - United Booking Offices and Keith<unitdate>1911</unitdate></unittitle>
+                  <container type="Box">28</container>
+                  <container type="Folder">18</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1912 - General<unitdate>1912</unitdate></unittitle>
+                  <container type="Box">29</container>
+                  <container type="Folder">1</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1912 - Hammerstein, Oscar<unitdate>1912</unitdate></unittitle>
+                  <container type="Box">29</container>
+                  <container type="Folder">2</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1912 - Keith and United Booking Offices (UBO)<unitdate>1912</unitdate></unittitle>
+                  <container type="Box">29</container>
+                  <container type="Folder">3</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1912 - Orpheum and Bernhardt, Sarah<unitdate>1912</unitdate></unittitle>
+                  <container type="Box">29</container>
+                  <container type="Folder">4</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1912 - Proctor and Keith, Fifth Avenue Theater<unitdate>1912</unitdate></unittitle>
+                  <container type="Box">29</container>
+                  <container type="Folder">5</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1912 - Small time growth<unitdate>1912</unitdate></unittitle>
+                  <container type="Box">29</container>
+                  <container type="Folder">6</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1912 - Shuberts<unitdate>1912</unitdate></unittitle>
+                  <container type="Box">29</container>
+                  <container type="Folder">7</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1912 - Western Vaudevillle Managers Association<unitdate>1912</unitdate></unittitle>
+                  <container type="Box">29</container>
+                  <container type="Folder">8</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1912 - White Rats<unitdate>1912</unitdate></unittitle>
+                  <container type="Box">29</container>
+                  <container type="Folder">9</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1912 - Williams, Percy sale of Williams’ theaters<unitdate>1912</unitdate></unittitle>
+                  <container type="Box">29</container>
+                  <container type="Folder">10</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1912 - 1913 - Palace controversy<unitdate>1912-1913</unitdate></unittitle>
+                  <container type="Box">29</container>
+                  <container type="Folder">11</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1912 - 1915 - Hammerstein, Oscar<unitdate>1912-1915</unitdate></unittitle>
+                  <container type="Box">29</container>
+                  <container type="Folder">12</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1913 - General<unitdate>1913</unitdate></unittitle>
+                  <container type="Box">29</container>
+                  <container type="Folder">13</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1913 - Keith and United Booking Offices (UBO)<unitdate>1913</unitdate></unittitle>
+                  <container type="Box">29</container>
+                  <container type="Folder">14</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1913 - Loews<unitdate>1913</unitdate></unittitle>
+                  <container type="Box">29</container>
+                  <container type="Folder">15</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1913 - Martinelli controversy<unitdate>1913</unitdate></unittitle>
+                  <container type="Box">29</container>
+                  <container type="Folder">16</container></did>
+            </c02>
+            
+            <c02 level="file">
+               <did><unittitle>1913 - Variety blacklist<unitdate>1913</unitdate></unittitle>
+                  <container type="Box">30</container>
+                  <container type="Folder">1</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1913 - Western Vaudeville Managers Association (WVMA)<unitdate>1913</unitdate></unittitle>
+                  <container type="Box">30</container>
+                  <container type="Folder">2</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1913 - White Rats and The Player<unitdate>1913</unitdate></unittitle>
+                  <container type="Box">30</container>
+                  <container type="Folder">3</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1913 - 1916 - Proctor, F.F.<unitdate>1913-1916</unitdate></unittitle>
+                  <container type="Box">30</container>
+                  <container type="Folder">4</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1914 - Beck, Martin and the Orpheum<unitdate>1914</unitdate></unittitle>
+                  <container type="Box">30</container>
+                  <container type="Folder">5</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1914 - Death of Hammerstein, William<unitdate>1914</unitdate></unittitle>
+                  <container type="Box">30</container>
+                  <container type="Folder">6</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1914 - Death of Keith, Benjamin F.<unitdate>1914</unitdate></unittitle>
+                  <container type="Box">30</container>
+                  <container type="Folder">7</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1914 - General<unitdate>1914</unitdate></unittitle>
+                  <container type="Box">30</container>
+                  <container type="Folder">8</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1914 - Keith and United Booking Offices (UBO)<unitdate>1914</unitdate></unittitle>
+                  <container type="Box">30</container>
+                  <container type="Folder">9</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1914 - Tanguay, Eva<unitdate>1914</unitdate></unittitle>
+                  <container type="Box">30</container>
+                  <container type="Folder">10</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1914 - White Rats<unitdate>1914</unitdate></unittitle>
+                  <container type="Box">30</container>
+                  <container type="Folder">11</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1914 - 1915 - Film houses takeover<unitdate>1914-1915</unitdate></unittitle>
+                  <container type="Box">30</container>
+                  <container type="Folder">12</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1914 - 1916 - World War I<unitdate>1914 - 1916</unitdate></unittitle>
+                  <container type="Box">30</container>
+                  <container type="Folder">13</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1915 - Fischer suits<unitdate>1915</unitdate></unittitle>
+                  <container type="Box">30</container>
+                  <container type="Folder">14</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1915 - General<unitdate>1915</unitdate></unittitle>
+                  <container type="Box">30</container>
+                  <container type="Folder">15</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1915 - Keith and United Booking Offices (UBO)<unitdate>1915</unitdate></unittitle>
+                  <container type="Box">30</container>
+                  <container type="Folder">16</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1915 - Orpheum circuit and Beck<unitdate>1915</unitdate></unittitle>
+                  <container type="Box">30</container>
+                  <container type="Folder">17</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1915 - Pantages and Loews<unitdate>1915</unitdate></unittitle>
+                  <container type="Box">30</container>
+                  <container type="Folder">18</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1915 - White Rats<unitdate>1915</unitdate></unittitle>
+                  <container type="Box">30</container>
+                  <container type="Folder">19</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1916 - Beck, Martin and Orpheum circuit<unitdate>1916</unitdate></unittitle>
+                  <container type="Box">30</container>
+                  <container type="Folder">20</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1916 - General<unitdate>1916</unitdate></unittitle>
+                  <container type="Box">30</container>
+                  <container type="Folder">21</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1916 - Loews circuit<unitdate>1916</unitdate></unittitle>
+                  <container type="Box">30</container>
+                  <container type="Folder">22</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1916 - Morris returns<unitdate>1916</unitdate></unittitle>
+                  <container type="Box">30</container>
+                  <container type="Folder">23</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1916 - National Vaudeville Artists (NVA)and Vaudeville Managers Protective Association 
+                  (VMPA) reorganize<unitdate>1916</unitdate></unittitle>
+                  <container type="Box">30</container>
+                  <container type="Folder">24</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1917 - General<unitdate>1917</unitdate></unittitle>
+                  <container type="Box">31</container>
+                  <container type="Folder">1</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1917 - Keith and United Booking Offices (UBO)<unitdate>1917</unitdate></unittitle>
+                  <container type="Box">31</container>
+                  <container type="Folder">2</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1917 - Loews circuit<unitdate>1917</unitdate></unittitle>
+                  <container type="Box">31</container>
+                  <container type="Folder">3</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1917 - Orpheum circuit<unitdate>1917</unitdate></unittitle>
+                  <container type="Box">31</container>
+                  <container type="Folder">4</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1917 - Vaudeville Managers Protective Association (VMPA)<unitdate>1917</unitdate></unittitle>
+                  <container type="Box">31</container>
+                  <container type="Folder">5</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1917 - 1918 - White Rats<unitdate>1917</unitdate></unittitle>
+                  <container type="Box">31</container>
+                  <container type="Folder">6</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1917 - White Rats strike (1)<unitdate>1917</unitdate></unittitle>
+                  <container type="Box">31</container>
+                  <container type="Folder">7</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1917 - White Rats strike (2)<unitdate>1917</unitdate></unittitle>
+                  <container type="Box">31</container>
+                  <container type="Folder">8</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1917 - White Rats strike (3)<unitdate>1917</unitdate></unittitle>
+                  <container type="Box">31</container>
+                  <container type="Folder">9</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1917 - White Rats strike (4)<unitdate>1917</unitdate></unittitle>
+                  <container type="Box">31</container>
+                  <container type="Folder">10</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1917 - World War I<unitdate>1917</unitdate></unittitle>
+                  <container type="Box">31</container>
+                  <container type="Folder">11</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1918 - General<unitdate>1918</unitdate></unittitle>
+                  <container type="Box">32</container>
+                  <container type="Folder">1</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1918 - Keith Vaudeville Exchange<unitdate>1918</unitdate></unittitle>
+                  <container type="Box">32</container>
+                  <container type="Folder">2</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1918 - Loews circuit<unitdate>1918</unitdate></unittitle>
+                  <container type="Box">32</container>
+                  <container type="Folder">3</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1918 - Pantages<unitdate>1918</unitdate></unittitle>
+                  <container type="Box">32</container>
+                  <container type="Folder">4</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1918 - Paul Keith dies<unitdate>1918</unitdate></unittitle>
+                  <container type="Box">32</container>
+                  <container type="Folder">5</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1918 - New York Star<unitdate>1918</unitdate></unittitle>
+                  <container type="Box">32</container>
+                  <container type="Folder">6</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1919 - General<unitdate>1919</unitdate></unittitle>
+                  <container type="Box">32</container>
+                  <container type="Folder">7</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1919 - Keith, United Booking Offices and Vaudeville Managers Protective Association <unitdate>1919</unitdate></unittitle>
+                  <container type="Box">32</container>
+                  <container type="Folder">8</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1919 - Loews circuit<unitdate>1919</unitdate></unittitle>
+                  <container type="Box">32</container>
+                  <container type="Folder">9</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1919 - Orpheum <unitdate>1919</unitdate></unittitle>
+                  <container type="Box">32</container>
+                  <container type="Folder">10</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1919 - Pantages, Alexander<unitdate>1919</unitdate></unittitle>
+                  <container type="Box">32</container>
+                  <container type="Folder">11</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1919 - New York Star<unitdate>1919</unitdate></unittitle>
+                  <container type="Box">32</container>
+                  <container type="Folder">12</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1919 - White Rats<unitdate>1919</unitdate></unittitle>
+                  <container type="Box">32</container>
+                  <container type="Folder">13</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1920 - General<unitdate>1920</unitdate></unittitle>
+                  <container type="Box">32</container>
+                  <container type="Folder">14</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1920 - Loews and Pantages<unitdate>1920</unitdate></unittitle>
+                  <container type="Box">32</container>
+                  <container type="Folder">15</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1920- Orpheum and Beck<unitdate>1920</unitdate></unittitle>
+                  <container type="Box">32</container>
+                  <container type="Folder">16</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1920 - New York Star<unitdate>1920</unitdate></unittitle>
+                  <container type="Box">32</container>
+                  <container type="Folder">17</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1920 - White Rats, American Artists’ Association and Equity<unitdate>1920</unitdate></unittitle>
+                  <container type="Box">32</container>
+                  <container type="Folder">18</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1920 - 1921 - Shubert Advanced Vaudeville<unitdate>1920-1921</unitdate></unittitle>
+                  <container type="Box">33</container>
+                  <container type="Folder">1</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1921 - General<unitdate>1921</unitdate></unittitle>
+                  <container type="Box">33</container>
+                  <container type="Folder">2</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1921 - Keith<unitdate>1921</unitdate></unittitle>
+                  <container type="Box">33</container>
+                  <container type="Folder">3</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1921 - Loews circuit<unitdate>1921</unitdate></unittitle>
+                  <container type="Box">33</container>
+                  <container type="Folder">4</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1921 - New York Star<unitdate>1921</unitdate></unittitle>
+                  <container type="Box">33</container>
+                  <container type="Folder">5</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1921 - Orpheum<unitdate>1921</unitdate></unittitle>
+                  <container type="Box">33</container>
+                  <container type="Folder">6</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1922 - General<unitdate>1922</unitdate></unittitle>
+                  <container type="Box">33</container>
+                  <container type="Folder">7</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1922 - Keith<unitdate>1922</unitdate></unittitle>
+                  <container type="Box">33</container>
+                  <container type="Folder">8</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1922 - Loews circuit<unitdate>1922</unitdate></unittitle>
+                  <container type="Box">33</container>
+                  <container type="Folder">9</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1922 - New York Star<unitdate>1922</unitdate></unittitle>
+                  <container type="Box">33</container>
+                  <container type="Folder">10</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1922 - Orpheum<unitdate>1922</unitdate></unittitle>
+                  <container type="Box">33</container>
+                  <container type="Folder">11</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1922-1926 - Impact of radio<unitdate>1922-1926</unitdate></unittitle>
+                  <container type="Box">33</container>
+                  <container type="Folder">12</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1923 - Equity<unitdate>1923</unitdate></unittitle>
+                  <container type="Box">33</container>
+                  <container type="Folder">13</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1923 - General<unitdate>1923</unitdate></unittitle>
+                  <container type="Box">33</container>
+                  <container type="Folder">14</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1923 - Keith<unitdate>1923</unitdate></unittitle>
+                  <container type="Box">33</container>
+                  <container type="Folder">15</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1923 - Orpheum<unitdate>1923</unitdate></unittitle>
+                  <container type="Box">33</container>
+                  <container type="Folder">16</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1923 - New York Star<unitdate>1923</unitdate></unittitle>
+                  <container type="Box">33</container>
+                  <container type="Folder">17</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1924 - General<unitdate>1924</unitdate></unittitle>
+                  <container type="Box">34</container>
+                  <container type="Folder">1</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1924 - Keith<unitdate>1924</unitdate></unittitle>
+                  <container type="Box">34</container>
+                  <container type="Folder">2</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1924 - New York Star<unitdate>1924</unitdate></unittitle>
+                  <container type="Box">34</container>
+                  <container type="Folder">3</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1925 - General<unitdate>1925</unitdate></unittitle>
+                  <container type="Box">34</container>
+                  <container type="Folder">4</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1925 - Keith<unitdate>1925</unitdate></unittitle>
+                  <container type="Box">34</container>
+                  <container type="Folder">5</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1925 - Loews circuit<unitdate>1925</unitdate></unittitle>
+                  <container type="Box">34</container>
+                  <container type="Folder">6</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1925 - New York Star<unitdate>1925</unitdate></unittitle>
+                  <container type="Box">34</container>
+                  <container type="Folder">7</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1925 - Orpheum<unitdate>1925</unitdate></unittitle>
+                  <container type="Box">34</container>
+                  <container type="Folder">8</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1925 - Pantages<unitdate>1925</unitdate></unittitle>
+                  <container type="Box">34</container>
+                  <container type="Folder">9</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1926 - Fox, Loews and Pantages<unitdate>1926</unitdate></unittitle>
+                  <container type="Box">34</container>
+                  <container type="Folder">10</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1926 - General<unitdate>1926</unitdate></unittitle>
+                  <container type="Box">34</container>
+                  <container type="Folder">11</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1926 - Keith and Albee<unitdate>1926</unitdate></unittitle>
+                  <container type="Box">34</container>
+                  <container type="Folder">12</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1926 - New York Star<unitdate>1926</unitdate></unittitle>
+                  <container type="Box">34</container>
+                  <container type="Folder">13</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1926 - Orpheum<unitdate>1926</unitdate></unittitle>
+                  <container type="Box">34</container>
+                  <container type="Folder">14</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1927 - Fox, William<unitdate>1927</unitdate></unittitle>
+                  <container type="Box">34</container>
+                  <container type="Folder">15</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1927 - General<unitdate>1927</unitdate></unittitle>
+                  <container type="Box">34</container>
+                  <container type="Folder">16</container></did>
+            </c02>
+            
+            <c02 level="file">
+               <did><unittitle>1927 - Keith and Albee<unitdate>1927</unitdate></unittitle>
+                  <container type="Box">35</container>
+                  <container type="Folder">1</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1927 - Merger of vaudeville and film companies<unitdate>1927</unitdate></unittitle>
+                  <container type="Box">35</container>
+                  <container type="Folder">2</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1927 - Poli circuit<unitdate>1927</unitdate></unittitle>
+                  <container type="Box">35</container>
+                  <container type="Folder">3</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1928 - Darling, Edward V.<unitdate>1928</unitdate></unittitle>
+                  <container type="Box">35</container>
+                  <container type="Folder">4</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1927-1929 - Decline of vaudeville<unitdate>1927-1929</unitdate></unittitle>
+                  <container type="Box">35</container>
+                  <container type="Folder">5</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1928 - Fox and Poli<unitdate>1928</unitdate></unittitle>
+                  <container type="Box">35</container>
+                  <container type="Folder">6</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1928 - Formation of Keith-Albee corporation (1)<unitdate>1928</unitdate></unittitle>
+                  <container type="Box">35</container>
+                  <container type="Folder">7</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1928 - Formation of Keith-Albee corporation (2)<unitdate>1928</unitdate></unittitle>
+                  <container type="Box">35</container>
+                  <container type="Folder">8</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1928 - Formation of Keith-Albee corporation (3)<unitdate>1928</unitdate></unittitle>
+                  <container type="Box">35</container>
+                  <container type="Folder">9</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1928 - Formation of Keith-Albee corporation (4)<unitdate>1928</unitdate></unittitle>
+                  <container type="Box">35</container>
+                  <container type="Folder">10</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1928 - General<unitdate>1928</unitdate></unittitle>
+                  <container type="Box">35</container>
+                  <container type="Folder">11</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1928 - Keith-Albee-Orpheum (KAO) agreement<unitdate>1928</unitdate></unittitle>
+                  <container type="Box">35</container>
+                  <container type="Folder">12</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1928 - Keith-Albee-Orpheum (KAO) film trade<unitdate>1928</unitdate></unittitle>
+                  <container type="Box">36</container>
+                  <container type="Folder">1</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1928 - Pathe Exchange and DeMille, Cecil B.<unitdate>1928</unitdate></unittitle>
+                  <container type="Box">36</container>
+                  <container type="Folder">2</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1928 - Pathe Exchange and Murdock, John J.<unitdate>1928</unitdate></unittitle>
+                  <container type="Box">36</container>
+                  <container type="Folder">3</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1929 - Albee, National Variety Artists (NVA), Vaudeville Mangers Protective Association (VMPA) <unitdate>1929</unitdate></unittitle>
+                  <container type="Box">36</container>
+                  <container type="Folder">4</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1929 - Fox buys Loews<unitdate>1929</unitdate></unittitle>
+                  <container type="Box">36</container>
+                  <container type="Folder">5</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1929 - General<unitdate>1929</unitdate></unittitle>
+                  <container type="Box">36</container>
+                  <container type="Folder">6</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1929 - Keith and Proctors<unitdate>1929</unitdate></unittitle>
+                  <container type="Box">36</container>
+                  <container type="Folder">7</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1929 - Pantages and RKO (Radio-Keith-Orpheum)<unitdate>1929</unitdate></unittitle>
+                  <container type="Box">36</container>
+                  <container type="Folder">8</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>1929 - RKO (Radio-Keith-Orpheum)<unitdate>1929</unitdate></unittitle>
+                  <container type="Box">36</container>
+                  <container type="Folder">9</container></did>
+            </c02>    
+         </c01>   
+         <c01 level="series">
+            <did><unittitle>Series IX: Photographs, <unitdate>1895-1928</unitdate></unittitle></did>
+            <arrangement><p>Series note: This series is arranged alphabetically.</p></arrangement>
+            <scopecontent><p>This series contains images of performers, owners, managers, the founders of the White Rats union, theaters, booking offices, and association members and events. Some images come from the book the Papers of Will Rogers.</p></scopecontent>
+            <c02 level="file">
+               <did><unittitle>Images from the Papers of Will Rogers (1)<unitdate>1904-1908, 1925-1928, undated</unitdate></unittitle>
+                  <container type="Box">37</container>
+                  <container type="Folder">1</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Images from the Papers of Will Rogers (2)<unitdate>1904-1910, undated</unitdate></unittitle>
+                  <container type="Box">37</container>
+                  <container type="Folder">2</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Miner, Henry (Harry)<unitdate>1898-1902, undated</unitdate></unittitle>
+                  <container type="Box">37</container>
+                  <container type="Folder">3</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Organizations<unitdate>1900, 1920, undated</unitdate></unittitle>
+                  <container type="Box">37</container>
+                  <container type="Folder">4</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Pastor, Antonio (Tony)<unitdate>1880, 1927, undated</unitdate></unittitle>
+                  <container type="Box">37</container>
+                  <container type="Folder">5</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>People<unitdate>1900-1913, undated</unitdate></unittitle>
+                  <container type="Box">37</container>
+                  <container type="Folder">6</container></did>
+               <scopecontent><p>Note:101 Ranch Season of 1913 is filed with panoramas above the Arizona/Southwest photo collection.</p></scopecontent>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Places<unitdate>1895-1924, undated</unitdate></unittitle>
+                  <container type="Box">37</container>
+                  <container type="Folder">7</container></did>
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Program of the first performance in any Orpheum theater<unitdate>undated</unitdate></unittitle>
+                  <container type="Box">37</container>
+                  <container type="Folder">8</container></did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

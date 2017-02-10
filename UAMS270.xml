@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?filetitle Commonwealth Mine Records?>
+<ead relatedencoding="MARC21">
+<eadheader audience="internal" findaidstatus="edited-full-draft"
+ langencoding="iso639-2b">
+	<eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
+		Special Collections//text(US::AzU::Commonwealth Mine, Cochise County, Arizona
+	 Records)//en" "UAMS270.xml"</eadid>
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Commonwealth Mine records
+		  <date>1895-1938</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Shelley Olson and
+		  Roger Myers</author>
+	 </titlestmt>
+	 <publicationstmt>
+	 	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collection</publisher> 
+		<address>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address>
+		<date>&#x00A9; 2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p>
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc>
+	 <creation encodinganalog="500">Finding aid encoded by Jan Marie Payne 
+		<date>October 7, 2001</date></creation> 
+	 <langusage>Finding aid is in<language langcode="en"
+		encodinganalog="546">English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter>
+  <titlepage>
+	 <titleproper encodinganalog="245$a">Commonwealth Mine records,
+		<date>1895-1938</date></titleproper>
+	 <num>Collection Number: MS 270</num>
+  	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collection</publisher>
+	 <list>
+		<defitem>
+		  <label>Processed by:</label>
+		  <item>Shelley Olson and Roger Myers</item>
+		</defitem>
+		<defitem>
+		  <label>Date completed:</label>
+		  <item>
+			 <date>1989</date></item>
+		</defitem>
+		<defitem>
+		  <label>Encoded by:</label>
+		  <item>Jan Marie Payne</item>
+		</defitem>
+	 </list>
+	 <p>&#x00A9; 2001. Arizona Board of Regents. All rights reserved.</p>
+  </titlepage>
+</frontmatter>
+<archdesc level="collection"> 
+  <did id="a1">
+	 <head>Collection Summary</head>
+	 <unittitle encodinganalog="245" label="Collection Name:">Commonwealth Mine,
+		Cochise County, Arizona records, 
+		<unitdate type="inclusive"
+		 normal="1895/1938">1895-1938</unitdate></unittitle>
+	 <unitid label="Collection Number:" encodinganalog="099"
+	  repositorycode="AzU" countrycode="us">MS 270</unitid> 
+	 <origination label="Creator:"> 
+		<corpname encodinganalog="110">Commonwealth Mine</corpname></origination>
+	 <abstract label="Abstract:">The bulk of the Commonwealth Mine records document its activities
+		from 1910 until 1930. Many of its earlier and later records were lost or
+		destroyed between the closing of the mine in the 1940s and the salvaging of the
+		records in 1960. Many of the remaining records are fragile and fragmentary;
+		several important series, such as Board of Directors minutes, contain only
+		scarred and scattered remnants of their original contents.</abstract>
+	 <physdesc encodinganalog="300$a" label="Physical Decsription:"><extent
+		encodinganalog="300">4.2 linear feet</extent></physdesc>
+	 <repository label="Repository:">
+	 	<corpname encodinganalog="110">University of Arizona Libraries, Special Collection</corpname>
+		<address>
+		  <addressline>University of Arizona</addressline>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address></repository>
+  </did> 
+  <accessrestrict encodinganalog="506">
+	 <head>Restrictions</head>
+	 <p>None.</p>
+  </accessrestrict>
+  <userestrict encodinganalog="540">
+	 <head>Copyright</head>
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p>
+  </userestrict>
+  <prefercite encodinganalog="524">
+	 <head>Credit Line</head>
+	 <p>Commonwealth Mine records(MS 270).Special Collections, University of Arizona Libraries.</p>
+  </prefercite>
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Historical Note</head>
+	 <p>Located in the Pearce Mining District, Cochise County, Arizona, the
+		Commonwealth Mine was discovered by John Pearce in 1895. Later that year he
+		formed a partnership with John Brockman, R.A.F. Penrose, and D.M. Barringer and
+		organized Commonwealth Mining and Milling Company. Stock was issued and sold in
+		America and Europe. A 60 stamp mill was built in 1898; it burned down in June
+		1900 and was replaced by a 80 stamp mill by January 1901. By 1905, the
+		high-grade ore had played out and the shaft collapsed. The company leased the
+		tailings to D.T. Swatling (-1910) and A.Y. Smith (-1931). They constructed a
+		cyanide leaching plant and worked the tailings for several years.</p> 
+	 <p>The mine was purchased by Montana Tonopah Mines Company in 1910. The new
+		officers of the Commonwealth were Charles E. Know, A.Y. Smith, and Frank L.
+		Bryant. A new mill was constructed in 1913 and operated until 1917 when the ore
+		was again too poor to support a profitable operation. A.Y. Smith then leased
+		the mine under the name of Commonwealth Development Company which had been
+		operating earlier as the Worlds Fair Mine Development Company with properties
+		in Patagonia, Arizona.</p>
+	 <p>The later records seem to indicate that the mine was controlled by the
+		Commonwealth Owners, Fred and Thomas F. Cole (-1939), during the 1930s and
+		early 1940s. The Pearce Mining Company leased the operations from them during
+		those years.</p>
+	 <p>During its forty year existence, the mine produced $8 million worth of
+		silver and $2.5 million in gold at a time when silver was priced around 50
+		cents an ounce, and gold was $20 an ounce. The state statistics relating to the
+		production of the mine were often included with those for the Turquoise Mining
+		District.</p>
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into two subgroups:</p> 
+	 <list> 
+		<item>Subgroup I: Commonwealth Mine</item> 
+	 </list> 
+	 <list> 
+		<item>Subgroup II: Supplemental Companies and Activities</item> 
+	 </list>
+  </arrangement>
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head>
+	 <p>The bulk of the Commonwealth Mine records document its activities from
+		1910 until 1930. Many of its earlier and later records were lost or destroyed
+		between the closing of the mine in the 1940s and the salvaging of the records
+		in 1960. Many of the remaining records are fragile and fragmentary; several
+		important series, such as Board of Directors minutes, contain only scarred and
+		scattered remnants of their original contents. When the records finally arrived
+		for processing, they were totally disorganized and housed in forty-one
+		cardboard cartons of sundry sizes. The present arrangement is by record types,
+		and some overlap is evident in the manager's and supplies correspondence. </p> 
+	 <p>These remaining records best characterize the daily operations of the
+		mine and its managers between 1910 and 1930 as they leased the tailings and
+		attempted to develop additional shafts. Unfortunately, the period during which
+		the richest veins were worked, 1896 to 1905, is not represented in these
+		records. Documentation of the last decade of the operation of the mine is also
+		poor. The broad themes of this collection outline the managerial and financial
+		skills which kept the mine operating. Balancing the shifting market prices of
+		silver, gold, and oil, of railroad fright charges, and of smelting costs, the
+		operators strove to pay interest charges on bond indebtedness while assuring
+		that the leasing activities and milling equipment functioned smoothly. </p>
+	 <p>The managers correspondence highlights the business acumen of Charles
+		Knox, A.Y. Smith, Frank Bryant and others. The interplay between Knox, as an
+		executive of the parent Montana Tonopah organization, and the executives of the
+		Commonwealth is rich with decisive memos and directives aimed at continuing
+		operations. Knox was in constant contact with Smith and Bryant. Topics of
+		ongoing concern were discovery of new veins, richness of ore beds, development
+		of the physical plant, payment of bond interest, equipment problems and
+		purchases, discussions of monthly reports, market conditions, labor problems
+		and the reorganization of the Montana Tonopah Company in 1929. Legal and tax
+		matters between Commonwealth and Montana Tonopah are discussed in the
+		correspondence with Montana Tonopah's lawyer, Hugh Brown. Other correspondence
+		reflects business communications with smelters and refining companies in
+		Douglas, Arizona; bankers, lawyers, state and county officials, and nearby
+		mining company officials. Later correspondence between T.B. Smith, mine
+		operator, and Fred Cole, mine owner, pertains to the operations, leasing, and
+		financial condition of the mine.</p>
+	 <p>There are also several subject files, titled Automobiles, Cyanide, and
+		Insurance which may represent the original filing systems used in the office. A
+		sample of correspondence with suppliers from 1906 to 1935 was retained. These
+		routine letters delineate shipments, prices, and purveyors of equipment and
+		goods to the mine, its leaching operation, and its power plant and mill. Of
+		interest are a file of equipment and supplies advertisements and brochures, ca.
+		1905-1936, and equipment inventories, ca. 1908 to 1912, of machinery used in
+		the mine and mill. </p>
+	 <p>The financial files are mainly monthly account statements designating
+		debits and credits for the company which outline the cash flow of the mine and
+		its operational status. A small sample of the insurance paperwork for employee
+		accidents was retained. Included are correspondence and reports between the
+		mine and its insurance companies outlining the nature of the accident, and
+		prognostications for recovery. There are also copies of various insurance
+		policies, some containing itemized lists of buildings and structures covered by
+		the policy.</p>
+	 <p>The legal files consist largely of contracts, agreements, and deeds
+		relating to structural improvements at the mine, railroad right-of ways,
+		leasing operations, smelting arrangements, equipment purchases, and mining
+		claims.</p>
+	 <p>The tax files consist of annual and monthly reporting forms from the
+		mine to the federal, state, and county offices. There is correspondence
+		relating to audits by the Treasury Department on allowances and depletions
+		claimed by the mine and the mine operators defense of those claims. The 1926
+		audit provides some information on the relationships and activities of the
+		Worlds Fair Mine and the Commonwealth. Correspondence relating to the filing of
+		the new tax forms is found in the manager's correspondence files.</p>
+	 <p>The directors of the Commonwealth Mine ventured into several other
+		businesses in Pearce and the nearby communities. Fragments of records
+		pertaining to the B.S.B. Egg Farm, Coronado Cattle Company, Glenn Land and
+		Cattle Company, Midwest Sugar Company, and Worlds Fair Mine are present. Most
+		of the records for each company occupy one folder and consist of
+		correspondence, financial, and legal records. Although the Commonwealth
+		provided water for the town of Pearce, there are little evidence of that
+		activity in the records.</p>
+	 <p>A.Y. Smith was active on the Cochise County Highway Commission in 1919.
+		The files contain minutes, reports, and correspondence of the Commission
+		relating to a $1 million bond issue to construct and repair various roads in
+		Cochise County.</p>
+	 <p>Additional files document the activities of the Sulfur Springs branch of
+		the American National Red Cross, 1923-1927, and a Pearce social and
+		recreational association, the Town and Country Club, 1914 to 1922.</p>
+  </scopecontent> 
+  <controlaccess id="a12">
+	 <head>Access Terms</head>
+	 <list>
+		<item>
+		  <persname encodinganalog="100">Cole, Thomas F., d.
+			 1939</persname></item>
+	 </list>
+	 <list>
+		<item>
+		  <persname encodinganalog="100">Pearce, John</persname></item>
+	 </list>
+	 <list>
+		<item>
+		  <persname encodinganalog="100">Swatling, D. T., d.
+			 1910</persname></item>
+	 </list>
+	 <list>
+		<item>
+		  <persname encodinganalog="100">Smith, Andrew Y., d.
+			 1931</persname></item>
+	 </list>
+	 <list>
+		<item>
+		  <persname encodinganalog="100">Knox, Charles E.</persname></item>
+	 </list>
+	 <list>
+		<item>
+		  <corpname encodinganalog="110">Cochise County (Ariz.) -- Highway
+			 Commission</corpname></item>
+	 </list>
+	 <list>
+		<item>
+		  <corpname encodinganalog="110">Commonwealth Mine (Pearce,
+			 Ariz.)</corpname></item>
+	 </list>
+	 <list>
+		<item>
+		  <corpname encodinganalog="110">Montana Tonopah Mines
+			 Co.</corpname></item>
+	 </list>
+	 <list>
+		<item>
+		  <corpname encodinganalog="110">Commonwealth Development Co.
+			 (Ariz.)</corpname></item>
+	 </list>
+	 <list>
+		<item>
+		  <corpname encodinganalog="110">Worlds Fair Mine Development
+			 Co.</corpname></item>
+	 </list>
+	 <list>
+		<item>
+		  <subject>Cattle trade -- Arizona</subject></item>
+	 </list>
+	 <list>
+		<item>
+		  <subject>Mines and mineral resources - Arizona -- Cochise
+			 County</subject></item>
+	 </list>
+	 <list>
+		<item>
+		  <subject>Roads -- Arizona -- Cochise County</subject></item>
+	 </list>
+	 <list>
+		<item>
+		  <geogname>Pearce (Ariz.) -- History</geogname></item>
+	 </list>
+	 <list>
+		<item>
+		  <genreform>Correspondence</genreform></item>
+	 </list>
+	 <list>
+		<item>
+		  <genreform>Minutes</genreform></item>
+	 </list>
+	 <list>
+		<item>
+		  <geogname>Reports</geogname></item>
+	 </list>
+  </controlaccess> 
+  <relatedmaterial encodinganalog="544$1"> 
+	 <head>Related Material</head>
+	 <p>Other materials on mining in Cochise County, Arizona are located in the
+		Papers of the Monmonier family, call number AZ 371. </p>
+  </relatedmaterial>
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head>
+	 <c01 level="subgrp">
+		<did>
+		  <unittitle>Subgroup I: Commonwealth Mine</unittitle> 
+		</did> 
+		<c02 level="series">
+		  <did>
+			 <unittitle>Series I: Board of Director's Minutes, 
+				<unitdate type="inclusive" normal="">1912-1913,
+				  1927</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Contains minutes from a few of the board meetings.</p>
+		  </scopecontent>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">1</container>
+				<unittitle>Minutes. 
+				  <unitdate type="inclusive" normal="">1912-1913,
+					 1927</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="series">
+		  <did>
+			 <unittitle>Series II: Stockholders lists and correspondence, 
+				<unitdate type="inclusive"
+				 normal="1909/1932">1909-1932</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Contains names of investors in the mine and correspondence
+				relating to meetings, payments of obligations, and dividends.</p>
+		  </scopecontent>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">2</container>
+				<unittitle>Lists. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">3-6</container>
+				<unittitle>Correspondence. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="series">
+		  <did>
+			 <unittitle>Series III: Correspondence, 
+				<unitdate type="inclusive"
+				 normal="1907/1934">1907-1934</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Contains incoming and outgoing letters documenting daily
+				activities of the mine, its physical plant, and its administration and
+				management.</p>
+		  </scopecontent>
+		  <c03 level="subseries">
+			 <did>
+				<unittitle>Manager's Correspondence</unittitle>
+			 </did>
+			 <c04 level="file">
+				<did><container type="box">1</container><container
+				  type="folder">7</container>
+				  <unittitle>Unidentified. 
+					 <unitdate type="inclusive" normal="NaN">No
+						Date</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container type="box">1</container><container
+				  type="folder">8</container>
+				  <unittitle>A. 
+					 <unitdate type="inclusive" normal="NaN">No
+						Date</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container type="box">1</container><container
+				  type="folder">9</container>
+				  <unittitle>Anglo and London Paris National Bank (Calif.). 
+					 <unitdate type="inclusive"
+					 normal="1914/1920">1914-1920</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container type="box">1</container><container
+				  type="folder">10</container>
+				  <unittitle>Arizona Eastern Railroad. 
+					 <unitdate type="inclusive"
+					 normal="1919/1921">1919-1921</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container type="box">1</container><container
+				  type="folder">11</container>
+				  <unittitle>Arizona state agencies. 
+					 <unitdate type="inclusive"
+					 normal="1910/1931">1910-1931</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container type="box">1</container><container
+				  type="folder">12</container>
+				  <unittitle>Ashurst, Henry F. 
+					 <unitdate type="inclusive"
+					 normal="1922">1922</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container type="box">1</container><container
+				  type="folder">13</container>
+				  <unittitle>B. 
+					 <unitdate type="inclusive" normal="NaN">No
+						Date</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container type="box">1</container><container
+				  type="folder">14</container>
+				  <unittitle>C. 
+					 <unitdate type="inclusive" normal="NaN">No
+						Date</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container type="box">1</container><container
+				  type="folder">15</container>
+				  <unittitle>Calumet and Arizona Mining Co. 
+					 <unitdate type="inclusive"
+					 normal="1909/1930">1909-1930</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container type="box">1</container><container
+				  type="folder">16</container>
+				  <unittitle>Chautauqua. 
+					 <unitdate type="inclusive"
+					 normal="1920/1924">1920-1924</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container type="box">1</container><container
+				  type="folder">17</container>
+				  <unittitle>Cole, Fred L. and Thomas. 
+					 <unitdate type="inclusive"
+					 normal="1922/1936">1922-1936</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container type="box">2</container><container
+				  type="folder">1</container>
+				  <unittitle>Commonwealth Development Co. 
+					 <unitdate type="inclusive"
+					 normal="1918/1934">1918-1934</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container type="box">2</container><container
+				  type="folder">2-4</container>
+				  <unittitle>Commonwealth Mining and Milling Co. 
+					 <unitdate type="inclusive"
+					 normal="1910/1931">1910-1931</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container type="box">2</container><container
+				  type="folder">5</container>
+				  <unittitle>D, E, F. 
+					 <unitdate type="inclusive" normal="NaN">No
+						Date</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container type="box">2</container><container
+				  type="folder">6</container>
+				  <unittitle>Employment inquiries. 
+					 <unitdate type="inclusive" normal="NaN">No
+						Date</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container type="box">2</container><container
+				  type="folder">7</container>
+				  <unittitle>G, H. 
+					 <unitdate type="inclusive" normal="NaN">No
+						Date</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container type="box">2</container><container
+				  type="folder">8</container>
+				  <unittitle>I, J, K. 
+					 <unitdate type="inclusive" normal="NaN">No
+						Date</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container type="box">2</container><container
+				  type="folder">9</container>
+				  <unittitle>Insurance. 
+					 <unitdate type="inclusive"
+					 normal="1910/1932">1910-1932</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container type="box">2</container><container
+				  type="folder">10-12</container>
+				  <unittitle>Knox, Charles E. 
+					 <unitdate type="inclusive"
+					 normal="1910/1925">1910-1925</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container type="box">2</container><container
+				  type="folder">13</container>
+				  <unittitle>L, M. 
+					 <unitdate type="inclusive" normal="NaN">No
+						Date</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container type="box">2</container><container
+				  type="folder">14</container>
+				  <unittitle>Montana Tonopah Mines Co. 
+					 <unitdate type="inclusive"
+					 normal="1912/1919">1912-1919</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container type="box">3</container><container
+				  type="folder">1</container>
+				  <unittitle>Montana Tonopah Mines Co. 
+					 <unitdate type="inclusive"
+					 normal="1920/1929">1920-1929</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container type="box">3</container><container
+				  type="folder">2</container>
+				  <unittitle>Montana Tonopah Mines Co. Lawyer. 
+					 <unitdate type="inclusive"
+					 normal="1920/1929">1920-1929</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container type="box">3</container><container
+				  type="folder">3</container>
+				  <unittitle>N, O. 
+					 <unitdate type="inclusive" normal="NaN">No
+						Date</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container type="box">3</container><container
+				  type="folder">4</container>
+				  <unittitle>P. 
+					 <unitdate type="inclusive" normal="NaN">No
+						Date</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container type="box">3</container><container
+				  type="folder">5</container>
+				  <unittitle>R. 
+					 <unitdate type="inclusive" normal="NaN">No
+						Date</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container type="box">3</container><container
+				  type="folder">6</container>
+				  <unittitle>S. 
+					 <unitdate type="inclusive" normal="NaN">No
+						Date</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container type="box">3</container><container
+				  type="folder">7</container>
+				  <unittitle>T, U, V. 
+					 <unitdate type="inclusive" normal="NaN">No
+						Date</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container type="box">3</container><container
+				  type="folder">8</container>
+				  <unittitle>W, Y, Z. 
+					 <unitdate type="inclusive" normal="NaN">No
+						Date</unitdate></unittitle>
+				</did>
+			 </c04>
+		  </c03>
+		  <c03 level="subseries">
+			 <did>
+				<unittitle>Supplies Correspondence</unittitle>
+			 </did>
+			 <c04 level="file">
+				<did><container type="box">3</container><container
+				  type="folder">9</container>
+				  <unittitle>Supplies/equipment advertisements. 
+					 <unitdate type="inclusive"
+					 normal="1905/1936">1905-1936</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container type="box">3</container><container
+				  type="folder">10</container>
+				  <unittitle>Equipment/inventories/drawings. 
+					 <unitdate type="inclusive"
+					 normal="1908/1918">1908-1918</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container type="box">3</container><container
+				  type="folder">11</container>
+				  <unittitle>Automobiles. 
+					 <unitdate type="inclusive"
+					 normal="1906/1910">1906-1910</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container type="box">3</container><container
+				  type="folder">12</container>
+				  <unittitle>Cyanide. 
+					 <unitdate type="inclusive"
+					 normal="1908/1917">1908-1917</unitdate></unittitle>
+				</did>
+			 </c04>
+			 <c04 level="file">
+				<did><container type="box">3</container><container
+				  type="folder">13-29</container>
+				  <unittitle>Supplies. 
+					 <unitdate type="inclusive"
+					 normal="1906/1935">1906-1935</unitdate></unittitle>
+				</did>
+			 </c04>
+		  </c03>
+		</c02>
+		<c02 level="series">
+		  <did>
+			 <unittitle>Series IV: Financial files, 
+				<unitdate type="inclusive"
+				normal="1911/1935">1911-1935</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Bulk are monthly trial balances and operating statements for the
+				mine, some are annual statements or summary statements of receipts and
+				disbursements. There are many gaps in all types of documents, and there are no
+				summary ledgers available for operations.</p>
+		  </scopecontent>
+		  <c03 level="file">
+			 <did><container type="box">4</container><container
+				type="folder">1-4</container>
+				<unittitle>Statements. 
+				  <unitdate type="inclusive"
+				  normal="1911/1935">1911-35</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="series">
+		  <did>
+			 <unittitle>Series V: Legal files, 
+				<unitdate type="inclusive"
+				normal="1895/1938">1895-1938</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Contains insurance files relating to employee accidents and
+				policies on the mine and its physical plant with listings of existing buildings
+				and their valuations; legal documents including contracts, agreements, and
+				deeds; and tax statements required by federal and state agencies.</p>
+		  </scopecontent>
+		  <c03 level="file">
+			 <did><container type="box">4</container><container
+				type="folder">5</container>
+				<unittitle>Employee accidents. 
+				  <unitdate type="inclusive"
+				  normal="1913/1935">1913-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">4</container><container
+				type="folder">6</container>
+				<unittitle>Insurance policies. 
+				  <unitdate type="inclusive" normal="NaN/1930">1913,
+					 1925-1930</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">4</container><container
+				type="folder">7-10</container>
+				<unittitle>Legal documents. 
+				  <unitdate type="inclusive"
+				  normal="1895/1938">1895-1938</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">4</container><container
+				type="folder">11-12</container>
+				<unittitle>Tax statements. 
+				  <unitdate type="inclusive"
+				  normal="1909/1937">1909-1937</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="series">
+		  <did>
+			 <unittitle>Series VI: Operations reports, 
+				<unitdate type="inclusive"
+				normal="1906/1937">1906-1937</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Contains selected samples of assay reports, bullion reports, churn
+				drill reports, cyanide reports, mine inspector's report, mill report, smelter
+				reports, payroll ledgers, and time books; and larger samples of weekly mine
+				operating reports, and ore settlements.</p>
+		  </scopecontent>
+		  <c03 level="file">
+			 <did><container type="box">4</container><container
+				type="folder">13-14</container>
+				<unittitle>Reports, sampled. 
+				  <unitdate type="inclusive"
+					normal="1906/1935">1906-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">4</container><container
+				type="folder">15</container>
+				<unittitle>Mine operating reports, weekly. 
+				  <unitdate type="inclusive"
+					normal="1912/1916">1912-1916</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">4</container><container
+				type="folder">16</container>
+				<unittitle>Ore settlements. 
+				  <unitdate type="inclusive"
+					normal="1914/1931">1914-1931</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">4</container><container
+				type="folder">17</container>
+				<unittitle>Ore settlements, Black Diamond. 
+				  <unitdate type="inclusive"
+					normal="1929/1930">1929-1930</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">4</container><container
+				type="folder">18</container>
+				<unittitle>Payroll ledgers. 
+				  <unitdate type="inclusive"
+					normal="1915/1916">1915-1916</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">4</container><container
+				type="folder">19</container>
+				<unittitle>Smelting department. 
+				  <unitdate type="inclusive"
+					normal="1912/1921">1912-1921</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">4</container><container
+				type="folder">20</container>
+				<unittitle>Time books. 
+				  <unitdate type="inclusive" normal="1916">1914,
+					 1916</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="series">
+		  <did>
+			 <unittitle>Series VII: Vouchers, 
+				<unitdate type="inclusive"
+				 normal="1905/1926">1905-1926</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Contains selected samples of vouchers for purchases over $100, the
+				bulk of which pertain to storehouse acquisitions, fuels, payroll, equipment and
+				construction.</p>
+		  </scopecontent>
+		  <c03 level="file">
+			 <did><container type="box">5</container><container
+				type="folder">1</container>
+				<unittitle>Commonwealth Development Co., 1918-25
+				  <unitdate type="inclusive"
+					normal="1918/1925">1918-1925</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">5</container><container
+				type="folder">2-5</container>
+				<unittitle>Commonwealth Mining and Milling Co. 
+				  <unitdate type="inclusive"
+					normal="1905/1926">1905-1926</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">5</container><container
+				type="folder">6</container>
+				<unittitle>Swatling and Smith. 
+				  <unitdate type="inclusive"
+					normal="1905/1908">1905-1908</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+	 </c01> 
+	 <c01 level="subgrp"> 
+		<did>
+		  <unittitle>Subgroup II: Supplemental Companies and
+			 Activities</unittitle> 
+		</did> 
+		<scopecontent>
+		  <p>Contains board of directors minutes and meetings, correspondence,
+			 legal, and financial documents relating to the businesses, several of which
+			 were operated by the directors of the Commonwealth Mine.</p>
+		</scopecontent>
+		<c02 level="series">
+		  <did>
+			 <unittitle>Series I: American National Red Cross. Sulphur Springs
+				Valley Branch, 
+				<unitdate type="inclusive"
+				 normal="1923/1927">1923-1927</unitdate></unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container type="box">6</container><container
+				type="folder">1</container>
+				<unittitle>American National Red Cross. Sulphur Springs Valley
+				  Branch. 
+				  <unitdate type="inclusive"
+					normal="1923/1927">1923-1927</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="series">
+		  <did>
+			 <unittitle>Series II: B.S.B. Egg Farm, 
+				<unitdate type="inclusive"
+				 normal="1924/1927">1924-1927</unitdate></unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container type="box">6</container><container
+				type="folder">2</container>
+				<unittitle>B.S.B. Egg Farm. 
+				  <unitdate type="inclusive"
+					normal="1924/1927">1924-1927</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="series">
+		  <did>
+			 <unittitle>Series III: Cochise County Highway Commission, 
+				<unitdate type="inclusive"
+				 normal="1919">1919</unitdate></unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container type="box">6</container><container
+				type="folder">3</container>
+				<unittitle>Cochise Highway Commission. 
+				  <unitdate type="inclusive"
+					normal="1919">1919</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="series">
+		  <did>
+			 <unittitle>Series IV: Coronado Cattle Company, 
+				<unitdate type="inclusive"
+				 normal="1909/1922">1909-1922</unitdate></unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container type="box">6</container><container
+				type="folder">4</container>
+				<unittitle>Coronado Cattle Company. 
+				  <unitdate type="inclusive"
+					normal="1909/1922">1909-1922</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="series">
+		  <did>
+			 <unittitle>Series V: Glenn Land and Cattle Company, 
+				<unitdate type="inclusive"
+				 normal="1914/1930">1914-1930</unitdate></unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container type="box">6</container><container
+				type="folder">5-7</container>
+				<unittitle>Glenn Land and Cattle Company. 
+				  <unitdate type="inclusive"
+					normal="1914/1930">1914-1930</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="series">
+		  <did>
+			 <unittitle>Series VI: Midwest Sugar Company, 
+				<unitdate type="inclusive"
+				 normal="1917/1924">1917-1924</unitdate></unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container type="box">6</container><container
+				type="folder">8</container>
+				<unittitle>Midwest Sugar Company. 
+				  <unitdate type="inclusive"
+					normal="1917/1924">1917-1924</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="series">
+		  <did>
+			 <unittitle>Series VII: Town and Country Club (Pearce, Ariz.), 
+				<unitdate type="inclusive"
+				 normal="1914/1922">1914-1922</unitdate></unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container type="box">6</container><container
+				type="folder">9</container>
+				<unittitle>Town and Country Club (Pearce, Ariz.). 
+				  <unitdate type="inclusive"
+					normal="1914/1922">1914-1922</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="series">
+		  <did>
+			 <unittitle>Series VIII: Worlds Fair Mine Development Company, 
+				<unitdate type="inclusive"
+				 normal="1914/1920">1914-1920</unitdate></unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container type="box">6</container><container
+				type="folder">10</container>
+				<unittitle>Worlds Fair Mine Development Company. 
+				  <unitdate type="inclusive"
+					normal="1914/1920">1914-1920</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+	 </c01>
+  </dsc> 
+</archdesc></ead>

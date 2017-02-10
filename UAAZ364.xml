@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+   <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0"> 
+      <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special Collections//text
+		(US::AzU::Eugene B. Hale Correspondence)//en""UAAZ364.xml"
+      </eadid> 
+      <filedesc> 
+         <titlestmt> 
+         	<titleproper encodinganalog="title">Eugene B. Hale Correspondence
+	 	       <date normal="1913" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">1913</date>
+	 	       
+	 	    </titleproper>
+	 	    <titleproper type="filing" altrender="nodisplay"> Hale, (Eugene B.) Correspondence
+	 	    
+            </titleproper>
+	        <author>Processed by Staff.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date normal= "2016" era= "ce" calendar = "gregorian">; 2016</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+            <date era="ce" encodinganalog="date" normal="20160330">March 30, 2016</date>
+  	     </creation>
+	     <langusage>Finding aid encoded in<language> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc>
+   </eadheader> 
+   <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+      <did id="a1"> 
+         <head>Collection Summary</head> 
+      	<unittitle encodinganalog="245" label="Collection Name:"> Eugene B. Hale Correspondence
+            <unitdate type="inclusive" label="Dates:" normal="1913">1913</unitdate>
+  	     </unittitle>	 
+	     <unitid label="Collection Number:" encodinganalog="099" repositorycode="AzU" countrycode="us">AZ 364</unitid>
+	     <origination label="Creator:"> 
+            <persname source="lcnaf" encodinganalog="100">Hale, Eugene B.</persname> </origination> 
+      	<abstract label="Abstract:">Collection includes Correspondence between Eugene B Hale, pharmacist, his wife Lela, his parents, and his sister Laura Hale Scott. 
+      								Collection consists of letters to family members in Ohio, regarding their experiences as new arrivals in Arizona, and their endeavors 
+      								to settle in Parker, Mesa, and Phoenix, from January, 1913-May 1913. 
+      								Includes descriptions of community life, housing, and employment conditions.</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description:"><extent>.1 linear feet</extent></physdesc>	 
+	     <repository label="Repository:"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng" scriptcode="Latin">English.</language></langmaterial>
+   	        
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+         <p>There are no restrictions on this collection.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+      	<p>Eugene B. Hale Correspondence (AZ 364). Special Collections, University of Arizona Libraries.</p>
+      </prefercite> 
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Staff.</p>
+      </processinfo>
+      <bioghist id="a2" encodinganalog="545"> 
+         <head>Biographical Note</head> 
+      	<p>Eugene B Hale, pharmacist, his wife Lela, his parents, and his sister Laura Hale Scott.</p> 
+      </bioghist> 
+      <arrangement id="a4" encodinganalog="351$a"> 
+         <head>Arrangement</head> 
+  	     <p>This collection is organized chronologically.</p>
+      </arrangement> 
+      <scopecontent id="a3" encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>Letters to family members in Ohio, regarding their experiences as new arrivals in Arizona, and their 
+      	endeavors to settle in Parker, Mesa, and Phoenix, from January, 1913-May, 1913. 
+      	Includes descriptions of community life, housing, and employment conditions.</p> 
+      </scopecontent> 
+      <controlaccess>
+         <head>Access Terms</head>
+         <list type="simple"> 
+            <item>
+               <persname encodinganalog="600" source= "lcnaf">Hale family -- Correspondence.</persname>
+  		    </item>
+  		    <item>
+  			   <subject encodinganalog="650" source= "lcsh">Pharmacists -- Arizona.</subject>
+  		    </item>
+         	<item>
+         		<geogname encodinganalog="651" source="lcsh">Arizona -- History, Local -- Sources.</geogname>
+         	</item>
+  		    <item>
+  			   <geogname encodinganalog="651" source="lcsh">Mesa (Ariz.) -- History -- Sources.</geogname>
+  		    </item>
+         	<item>
+         		<geogname encodinganalog="651" source="lcsh">Parker (Ariz.) -- History -- Sources.</geogname>
+         	</item>
+         	<item>
+         		<geogname encodinganalog="651" source="lcsh">Phoenix (Ariz.) -- History -- Sources.</geogname>
+         	</item>
+         </list>
+      </controlaccess>
+   </archdesc>
+</ead>

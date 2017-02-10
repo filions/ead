@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?filetitle Bene, Frank Papers?>
+<ead relatedencoding="MARC21"> 
+<eadheader audience="internal" findaidstatus="edited-full-draft"
+ langencoding="iso639-2b"> 
+  <eadid encodinganalog="856$u"> PUBLIC "-//University of Arizona Library
+	 Special Collections//text(US::AzU::Frank Ben&#x00E9; Papers) //en"
+	 "UAMS386.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Frank Ben&#x00E9; papers, 
+		  <date>1905-1943</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Cody Aune.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+		<publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		  Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline></address> 
+		<date>&#x00A9; 2005</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation encodinganalog="500">Inventory encoded by C. Wommack. 
+		<date>November 2005</date></creation> 
+	 <langusage>Inventory is in<language langcode="en" encodinganalog="546">
+		English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper encodinganalog="245$a">Frank Ben&#x00E9; papers, 
+		<date>1905-1943</date></titleproper> 
+	 <num>Collection Number: MS 386</num> 
+	 <publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Cody Aune</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>March 2003</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>C. Wommack</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 2005. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name:">Frank
+		Ben&#x00E9; papers, 
+		<unitdate type="inclusive"
+		 normal="1905/1943">1905-1943</unitdate></unittitle> 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	  repositorycode="AzU" countrycode="us">MS 386</unitid> 
+	 <origination label="Creator:"> 
+		<persname encodinganalog="100">Ben&#x00E9;, Frank, 1905-1943</persname>
+		</origination> 
+	 <abstract label="Abstract:">This collection consists chiefly of
+		photographs, published works, and research materials related to or collected by
+		Frank Ben&#x00E9; regarding his observations and writings on hummingbirds in
+		Arizona. The collection also includes professional and biographical materials
+		as well as correspondence.</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+		encodinganalog="300">1 linear foot </extent></physdesc> 
+	 <repository label="Repository:"> 
+		<corpname encodinganalog="110">University of Arizona Libraries, Special
+		  Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline></address></repository> 
+  </did> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Restrictions</head> 
+	 <p>None.</p> 
+  </accessrestrict> 
+  <userestrict encodinganalog="540"> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Credit Line</head> 
+	 <p>Frank Ben&#x00E9; papers (MS 386). Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p>Frank Ben&#x00E9; was born June 11, 1905 in Isaszeg, Hungary and came to
+		the U.S. just over a year later. His family settled in Bethlehem, Pennsylvania
+		where Ben&#x00E9; attended grade school and high school. After spending some
+		time out west, he returned to Pennsylvania and graduated with honors from
+		Lehigh University in 1933, and eventually received a Masters degree in
+		Education from the same institution. In June 1933, he was married to Katharine
+		Johnson. Ben&#x00E9; worked as an instructor in social studies in the Adult
+		Evening School in Bethlehem for one year and in 1935 was named county
+		supervisor of Americanization in charge of literacy and citizenship for
+		foreign-born residents of Northampton County. For the following four years he
+		taught, published, and worked in the field of citizenship training while
+		pursing his interest in adult education.</p> 
+	 <p>As a result of failing health, Frank Ben&#x00E9; moved to Phoenix,
+		Arizona in 1937. It was at this time that a serious interest in ornithology
+		began. Over the next five years, he read, investigated, and wrote a number of
+		articles, particularly short papers for 
+	 <title>The Condor</title> (1940, 1941, 1945) along with the memoir entitled
+	 
+	 <title>The Feeding and Related Behavior of Hummingbirds</title>, which won
+	 the Walker Prize of the Boston Society of Natural History in 1942.</p> 
+	 <p>An improvement in health permitted Frank to teach science for a year in
+		New Jersey. In January, 1943, he returned to Arizona and took a faculty
+		position at Arizona State Teachers College in Tempe, instructing U.S. Army
+		cadets at the Pre-Flight School. However, the inadequately diagnosed tubercular
+		illness Frank suffered from became increasingly acute and he resigned his
+		position in October and died in Phoenix on December 18, 1943.</p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into six series.</p> 
+	 <list> 
+		<item>Series I: Biographical, 
+		  <unitdate type="inclusive"
+			normal="1923/1943">1923-1943</unitdate></item> 
+		<item>Series II: Correspondence, 
+		  <unitdate type="inclusive"
+			normal="1943/1956">1943-1956</unitdate></item> 
+		<item>Series III: Published Writings, 
+		  <unitdate type="inclusive"
+			normal="1939/1945">1939-1945</unitdate></item> 
+		<item>Series IV: Collected Writings, 
+		  <unitdate type="inclusive"
+			normal="1905/1946">1905-1946</unitdate></item> 
+		<item>Series V: Photographs, 
+		  <unitdate type="inclusive"
+			normal="1939/1943">1939-1943</unitdate></item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>This collection consists chiefly of biographical materials, photographs,
+		published works, and research materials relating to observations and writings
+		on hummingbirds in Arizona. </p> 
+	 <p>The collection includes a box of envelopes of photographs and negatives
+		of hummingbirds. The envelopes are dated and include descriptions of
+		photographs that are not always consistent with the contents. Ben&#x00E9; named
+		several of the hummingbirds he studied (Battlescar, Long-neck, and Sally) and
+		these names appear in some of the descriptions. </p> 
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="600">Ben&#x00E9;, Frank,
+			 1905-1943.</persname> </item> 
+		<item> 
+		  <subject encodinganalog="650">Ornithology.</subject> </item> 
+		<item> 
+		  <subject encodinganalog="650">Hummingbirds -- Arizona.</subject> </item> 
+		<item> 
+		  <subject encodinganalog="650">Birds -- Arizona.</subject> </item></list>
+ </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+		  <unittitle>Series I: Biographical Materials, 
+			 <unitdate type="inclusive"
+			  normal="1923/1943">1923-1943</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Photographs-Frank Ben&#x00E9; Katherine Ben&#x00E9; (?), 
+				<unitdate type="inclusive" normal="NaN">March 3, 1939;
+				  unknown</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Diploma, Bethlehem High School, 
+				<unitdate type="inclusive" normal="1923">June 21,
+				  1923</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Lehigh Commencement program, 
+				<unitdate type="inclusive" normal="1933">June 13,
+				  1933</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Diploma, Lehigh University, B.A., 
+				<unitdate type="inclusive" normal="1933">June 13,
+				  1933</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Contract for teaching position at Lehigh University, 
+				<unitdate type="inclusive" normal="1935">September 3,
+				  1935</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Diploma, Lehigh University, M.A., 
+				<unitdate type="inclusive" normal="1938">October 5,
+				  1938</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Description of the Walker Prize in Natural History, 
+				<unitdate type="inclusive"
+				 normal="1942">1942</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Lehigh University Teacher's Credentials document, 
+				<unitdate type="inclusive" normal="1942">April, 8,
+				  1942</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">1</container> 
+			 <unittitle> 
+				<title>Dayton News</title>, 
+				<unitdate type="inclusive" normal="1942"> November 23,
+				  1942</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Official transcripts, Lehigh University, 
+				<unitdate type="inclusive" normal="1943"> January 8,
+				  1943</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Letter of recommendation from L.Tennent Lee Jr., 
+				<unitdate type="inclusive" normal="1943">July 24,
+				  1943</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Newspaper article on Walker Prize, 
+				<unitdate type="inclusive" normal="1942">October 16,
+				  1942</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Newspaper article on Walker Prize, 
+				<unitdate type="inclusive" normal="1942">November 12,
+				  1942</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Excerpts from letters of recommendation, 
+				<unitdate type="inclusive" normal="NaN">No
+				  date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Obituary, 
+				<unitdate type="inclusive" normal="1943">December 20,
+				  1943</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series" id="ser2"> 
+		<did> 
+		  <unittitle>Series II: Correspondence, 
+			 <unitdate type="inclusive"
+			 normal="1943/1956">1943-1956</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Margaret Baker to Frank Ben&#x00E9;, 
+				<unitdate type="inclusive" normal="1943">August 26,
+				  1943</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Amy Tuttle (?) to Kitty and Frank Ben&#x00E9;, 
+				<unitdate type="inclusive" normal="1943">September 27,
+				  1943</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Warren W. Halsey to Frank Ben&#x00E9;, 
+				<unitdate type="inclusive" normal="1943"> September 27,
+				  1943</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Margaret Baker to Frank Ben&#x00E9;, 
+				<unitdate type="inclusive" normal="1943"> October 27,
+				  1943</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Harold P. Thomas to Frank Ben&#x00E9;, 
+				<unitdate type="inclusive" normal="1943"> November 12,
+				  1943</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Harry V. Ben&#x00E9; to Frank Ben&#x00E9;, 
+				<unitdate type="inclusive" normal="1943"> November 24,
+				  1943</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Thank you card, 
+				<unitdate type="inclusive" normal="NaN"> No
+				  date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Sympathy card from Frank Drigiani, 
+				<unitdate type="inclusive" normal="NaN"> No
+				  date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Horace D. Hontz to Mrs. C. Ben&#x00E9;, 
+				<unitdate type="inclusive" normal="1943"> December 22,
+				  1943</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Alden H. Miller to Katherine Johnson Ben&#x00E9;, 
+				<unitdate type="inclusive" normal="1944"> February 11,
+				  1944</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Margaret Baker to Mrs. Frank Ben&#x00E9;, 
+				<unitdate type="inclusive" normal="1944">February 15,
+				  1944</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Margaret Baker to Mrs. Frank Ben&#x00E9;, 
+				<unitdate type="inclusive" normal="1944">August 31,
+				  1944</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Margaret Baker to Mrs. Frank Ben&#x00E9;, 
+				<unitdate type="inclusive" normal="1944">December 13,
+				  1944</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Mrs. Frank Ben&#x00E9; to Miss Margaret Baker, 
+				<unitdate type="inclusive" normal="1945">January 17,
+				  1945</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Martha Morrow to Frank Ben&#x00E9;, 
+				<unitdate type="inclusive" normal="1945">February 27,
+				  1945</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Alden H. Miller to Martha Morrow, 
+				<unitdate type="inclusive" normal="1945">March 23,
+				  1945</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>M.J.R. Morris to Frank Ben&#x00E9;, 
+				<unitdate type="inclusive" normal="1945">June 21,
+				  1945</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Hilda W. Grinnell to Mrs. Frank Ben&#x00E9;, 
+				<unitdate type="inclusive" normal="1945">December 9,
+				  1945</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Martha Morrow to Mrs. Wallace Haverty, 
+				<unitdate type="inclusive" normal="1945">December 17,
+				  1945</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Hilda W. Grinnell to Mrs. Haverty, 
+				<unitdate type="inclusive" normal="1945">December 23,
+				  1945</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>David L. Garrison to Mrs. Wallace Haverty, 
+				<unitdate type="inclusive" normal="1946">May 23,
+				  1946</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>David L. Garrison to Mrs. Wallace Haverty, 
+				<unitdate type="inclusive" normal="1946">June 12,
+				  1946</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>David L. Garrison to Mrs. Wallace Haverty, 
+				<unitdate type="inclusive" normal="1946">July 10,
+				  1946</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Dora (?) to Kitty, 
+				<unitdate type="inclusive" normal="1948">December 22,
+				  1948</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Christina Lopes to Mrs. W. G. Haverty, 
+				<unitdate type="inclusive" normal="1950">June 7,
+				  1950</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Robert J. Niedrach to Mrs. Wallace G. Haverty, 
+				<unitdate type="inclusive" normal="1951">May 1,
+				  1951</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Harold E. Edgerton to Mr. and Mrs. Wallace G. Haverty, 
+				<unitdate type="inclusive" normal="1951">August 2,
+				  1951</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Harold E. Edgerton to Mrs. Wallace G. Haverty, 
+				<unitdate type="inclusive" normal="1952">March 5,
+				  1952</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Alice Atkinson to Mrs. Wallace, 
+				<unitdate type="inclusive" normal="NaN">[July 7,
+				  1952]</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Lovie M. Whitaker to Mr. Ben&#x00E9;, 
+				<unitdate type="inclusive" normal="1953">May 6,
+				  1953</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Don Bleitz to Mrs. Haverty, 
+				<unitdate type="inclusive" normal="1954">March 24,
+				  1954</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Don Bleitz to Mrs. Haverty, 
+				<unitdate type="inclusive" normal="1954">June 18,
+				  1954</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Don Bleitz to Mrs. Haverty, 
+				<unitdate type="inclusive" normal="1954">September 2,
+				  1954</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Jean and Peter O'Blevis (?) to Mr. and Mrs. Haverty, 
+				<unitdate type="inclusive" normal="1955">April 26,
+				  1955</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Don Bleitz to Mrs. Haverty, 
+				<unitdate type="inclusive" normal="1955">May 31,
+				  1955</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Don Bleitz to Mrs. Haverty, 
+				<unitdate type="inclusive" normal="1955">June 16,
+				  1955</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Crawford H. Greenewalt to Mrs. Wallace G. Haverty, 
+				<unitdate type="inclusive" normal="1956">May 29,
+				  1956</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Jean and Peter O'Blevis (?) to Mr. and Mrs. Haverty, 
+				<unitdate type="inclusive" normal="NaN">No
+				  date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series" id="ser3"> 
+		<did> 
+		  <unittitle>Series III: Published Writings, 
+			 <unitdate type="inclusive"
+			 normal="1939/1945">1939-1945</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle> 
+				<title>The Condor</title>, 
+				<unitdate type="inclusive" normal="">July-August,
+				  1940</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle> 
+				<title>The Condor</title>, 
+				<unitdate type="inclusive" normal="">September-October,
+				  1941</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle> 
+				<title>The Condor</title>, 
+				<unitdate type="inclusive" normal="">November-December,
+				  1942</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle> 
+				<title>The Condor</title>, 
+				<unitdate type="inclusive" normal="">January-February,
+				  1945</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle> 
+				<title>People's Magazine of Arizona</title> (photocopy), 
+				<unitdate type="inclusive" normal="1939">July,
+				  1939</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle> 
+				<title>People's Magazine of Arizona</title>, 
+				<unitdate type="inclusive" normal="1939">October,
+				  1939</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle> 
+				<title>People's Magazine of Arizona</title>, 
+				<unitdate type="inclusive" normal="1939">November,
+				  1939</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle> 
+				<title>The Desert Magazine</title>, 
+				<unitdate type="inclusive" normal="1941">October,
+				  1941</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle> 
+				<title>Science New Letter</title>, 
+				<unitdate type="inclusive" normal="1945">June 9,
+				  1945</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">4</container> 
+			 <unittitle> 
+				<title>The Feeding and Related Behavior of Hummingbirds</title>, by
+				Frank Ben&#x00E9;, 
+				<unitdate type="inclusive" normal="1905/1943">no
+				  date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series" id="ser4"> 
+		<did> 
+		  <unittitle>Series IV: Collected Writings, 
+			 <unitdate type="inclusive"
+			  normal="1905/1946">1905-1946</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Black and white illustrations of birds, 
+				<unitdate type="inclusive" normal="NaN">No
+				  dates</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">6</container> 
+			 <unittitle>Misc. magazine pages, 
+				<unitdate type="inclusive" normal="NaN">No
+				  dates</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">7</container> 
+			 <unittitle>Misc. photocopies of articles, photos, etc., 
+				<unitdate type="inclusive" normal="NaN">No
+				  dates</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">8</container> 
+			 <unittitle> 
+				<title>The Zoological Quarterly Bulletin</title>, 
+				<unitdate type="inclusive" normal="1905">May 15,
+				  1905</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">8</container> 
+			 <unittitle> 
+				<title>National League for Woman's Service Magazine</title>, 
+				<unitdate type="inclusive" normal="1946">January,
+				  1946</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">9</container> 
+			 <unittitle> 
+				<title>Ben&#x00E9;: The Hummingbird Man</title>, by Mary Estes, 
+				<unitdate type="inclusive" normal="NaN">No
+				  date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series" id="ser5"> 
+		<did> 
+		  <unittitle>Series V: Photographs, 
+			 <unitdate type="inclusive"
+			 normal="1939/1943">1939-1943</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">1</container> 
+			 <unittitle>6 envelopes of hummingbird bird photographs and negatives,
+				
+				<unitdate type="inclusive"
+				normal="1939">1939</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">2</container> 
+			 <unittitle>15 envelopes of hummingbird photographs and negatives, 
+				<unitdate type="inclusive"
+				normal="1940">1940</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">3</container> 
+			 <unittitle>9 envelopes of hummingbird photographs and negatives, 
+				<unitdate type="inclusive"
+				normal="1941">1941</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">4</container> 
+			 <unittitle>2 envelopes of hummingbird photographs and negatives, 
+				<unitdate type="inclusive"
+				normal="1942/1943">1942-1943</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">5</container> 
+			 <unittitle>3 envelopes of hummingbird photographs and negatives, 
+				<unitdate type="inclusive"
+				normal="1939/1943">1939-1943</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">6</container> 
+			 <unittitle>Misc. photographs of Arizona landscapes, plants, birds, 
+				<unitdate type="inclusive" normal="NaN">No
+				  dates</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+  </dsc> 
+</archdesc></ead>

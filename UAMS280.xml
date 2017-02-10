@@ -1,0 +1,1446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd"> 
+<?filetitle Smith, George E. P. Papers?>
+<ead relatedencoding="MARC21">
+<eadheader audience="internal" findaidstatus="edited-full-draft"
+ langencoding="iso639-2b"> 
+	<eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
+		Special Collections//text(US::AzU::George E. P. Smith Papers)//en"
+	 "UAMS280.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">George E. P. Smith papers, 
+		  <date>1895-1972</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Anne Pieszak and
+		  Roger Myers.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date>&#x00A9; 2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation encodinganalog="500">Finding aid encoded by Jan Marie Payne. 
+		<date>November 5, 2001</date></creation> 
+	 <langusage>Finding aid is in<language langcode="en"
+		encodinganalog="546">English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper encodinganalog="245$a">George E.P. Smith papers, 
+		<date>1895-1972</date></titleproper> 
+	 <num>Collection Number: MS 280</num> 
+  	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Anne Pieszak and Roger Myers</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>December 1988</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Jan Marie Payne</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 2001. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage>
+</frontmatter>
+<archdesc level="collection"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name:">George E.P. Smith
+		papers, 
+		<unitdate type="inclusive"
+		 normal="1895/1972">1895-1972</unitdate></unittitle> 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	  repositorycode="AzU" countrycode="us">MS 280</unitid> 
+	 <origination label="Creator:"> 
+		<persname encodinganalog="100">Smith, George E. P.,
+		  1873-1975</persname></origination> 
+	 <abstract label="Abstract:">This collection is organized into two subgroups and seven series,
+		which include, Biographical Information, 1895-1955. Diaries, 1908- 1909,
+		1949-1954. Correspondence, 1900-1963. Articles and Addresses, 1908- 1972.
+		Project Files, 1899-1944. Supplemental Papers, 1904-1941. Photographs,
+		1906-1953. arrangement varies by series. Contains mainly correspondence,
+		1915-1958, regarding his professional interest in the development and
+		utilization of underground and surface water in Arizona. Correspondents include
+		Carl Hayden, Barry Goldwater, John R. Murdock, and other state and local
+		leaders. Also includes his articles and addresses, project files, and
+		photographs concerning irrigation engineering, agriculture, and water supply
+		projects.</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+		encodinganalog="300">12.5 linear feet</extent></physdesc> 
+	 <repository label="Repository:"> 
+	 	<corpname encodinganalog="110">University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona </addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address></repository> 
+  </did> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Restrictions</head> 
+	 <p>None.</p> 
+  </accessrestrict> 
+  <userestrict encodinganalog="540"> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Credit Line</head> 
+	 <p>George E.P. Smith papers(MS 280).Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p>George Edson Philip Smith was born 29 December 1873 in Lyndonville,
+		Vermont, the son of Franklin H. Smith and his wife Harriet Lovisa Powers. Both
+		parents died by the time Smith was 12, and he spent the rest of his youth
+		living with his grandparents.</p> 
+	 <p>In 1893, he entered the University of Vermont at Burlington, graduating
+		in 1897 with a B.S. in Civil Engineering. He taught at the University of
+		Vermont for three years before coming to Tucson and the University of Arizona.
+		On 1 October 1904, Smith married Maude North, a teacher. They had one son,
+		George Edson Philip Smith, Jr., born 31 October 1905.</p> 
+	 <p>From 1900-1906, Smith served as Professor of Engineering, teaching
+		physics, engineering, hydraulics, and surveying at the University of Arizona.
+		In 1906, he became both Professor of Irrigation Engineering and head of the
+		Agricultural Engineering Department. He remained in that field until his
+		retirement in 1955 , at which time he was appointed Professor Emeritus in
+		Agricultural Engineering and continued his active interest in the field of
+		water resources development. Smith's career at the University spanned 54
+		years.</p> 
+	 <p>Smith revolutionized the field of water resources. He was an authority
+		on irrigation and a pioneer in the development of the underground and surface
+		waters of the state of Arizona. Instrumental in Arizona's fight for water
+		supply rights, Smith wrote many argumentative letters to state officials and
+		Arizona Senator Carl Hayden advising against Arizona's involvement in the
+		Colorado River Compact. He was the first to advocate a state water code and
+		wrote the first code, which was enacted by the Arizona legislature in 1919.</p>
+	 
+	 <p>The writer of Tucson's first city water code, Smith gave early and
+		continuous warnings to Tucson city officials of the need to secure a future and
+		more permanent water supply. He advised of the eventual disaster which would
+		result if areas with accumulations of groundwater having little annual recharge
+		were overpumped.</p> 
+	 <p>The author of over 100 technical bulletins and professional papers in
+		the field of water supply and irrigation, Smith also wrote numerous articles in
+		related fields. In addition to his professional involvements, Smith had a
+		profound influence in civic affairs and politics. Active in the Arizona
+		Pioneers Historical Society, he chaired a committee for preservation of
+		geographic and historic names within the state. When George Edson Philip Smith
+		died in 1975, he was 10l.</p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into two subgroups:</p> 
+	 <list> 
+		<item>Subgroup I: Papers, 
+		  <date>1895-1972</date></item> 
+		<item>Subgroup II: Photographic materials, 
+		  <date>1906-1953</date></item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>This collection is organized into two subgroups: Papers and
+		Photographs.</p> 
+	 <p>The Papers in the first subgroup include biographical information;
+		George Edson Philip Smith's diary from March 1949-March 1954, detailing times,
+		places, and statistical information relevant to his vocational activities; a
+		second diary containing a record of his trips taken in 1908-1909 to survey
+		Arizona sites, including Rillito, Canada del Oro, the Rincon Valley, and the
+		San Pedro Valley; correspondence, chiefly regarding Smith's vocational and
+		political concerns over a sixty-three year period in Arizona's history;
+		articles and addresses written by Smith, including publications in technical
+		journals, semi-technical articles, annual forecasts of irrigation water supply,
+		letters to the editor on miscellaneous subjects, and articles on municipal
+		engineering subjects such as water supply and zoning problems; files on
+		agriculture, irrigation, and water projects in Arizona, Sonora, Mexico, and
+		Antofagasta, Chile, for which Smith served as a consultant; and supplemental
+		papers which include printed materials on various types of machinery used for
+		irrigation and agriculture, Smith's participation in programs sponsored by the
+		Agricultural Extension Service, his advocation of Sentinel Peak ("A" Mountain)
+		as a city park, and his involvement on various University of Arizona faculty
+		committees.</p> 
+	 <p>The black and white photographs in the second subgroup cover the years
+		1906-1953. They are organized by subject or place. Within those areas, most are
+		grouped according to the labels and dates which Smith had on the original
+		photograph envelopes. The bulk of the photographs deal with Smith's
+		agricultural, irrigation, water supply, and conservation efforts in Arizona.
+		The collection also includes photographs taken by Smith and others in
+		California, Idaho, India, Nevada, New Mexico, and Utah.</p> 
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Smith, George E. P., 1873-1975 --
+			 Archives</persname></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Goldwater, Barry M. (Barry Morris),
+			 1909- -- Correspondence</persname></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Hayden, Carl Trumbull, 1877-1972 --
+			 Correspondence</persname></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Murdock, John Robert, 1885-1972 --
+			 Correspondence</persname></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <corpname encodinganalog="110">American Society of Civil Engineers --
+			 Arizona Section</corpname></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <corpname encodinganalog="110">Cananea Consolidated Copper
+			 Co</corpname></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <corpname encodinganalog="110">Rillito Water Users'
+			 Association</corpname></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <corpname encodinganalog="110">Salt River Valley Water Users'
+			 Association</corpname></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <corpname encodinganalog="110">University of Arizona -- Dept. of
+			 Agricultural Engineering</corpname></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <corpname encodinganalog="110">University of Arizona --
+			 Faculty</corpname></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject>Water -- Law and legislation -- Arizona</subject></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject>Groundwater -- Arizona</subject></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject>Tamarix -- Utilization -- Arizona</subject></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject>Cement -- Arizona</subject></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject>Irrigation -- Arizona</subject></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <geogname>Colorado River (Colo.-Mexico) -- Water
+			 rights</geogname></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <geogname>Continental (Ariz.) -- History</geogname></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <geogname>Sentinel Peak (Ariz.) -- History</geogname></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <genreform>Correspondence</genreform></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <genreform>Journals</genreform></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <genreform>Diaries</genreform></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <genreform>Photographs</genreform></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <genreform>Articles</genreform></item> 
+	 </list> 
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="subgrp"> 
+		<did> 
+		  <unittitle>Subgroup I: Papers, 
+			 <unitdate type="inclusive"
+			 normal="1895/1972">1895-1972</unitdate></unittitle> 
+		</did> 
+		<c02 level="series"> 
+		  <did> 
+			 <unittitle>Series I: Biographical Information, 
+				<unitdate type="inclusive"
+				normal="1895/1955">1895-1955</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contains Smith's College of Agriculture Faculty Statistics Sheet
+				(December 1923) along with a pamphlet of his publications (1955). Also contains
+				Smith's typewritten biography for the 1937 edition of 
+			 <title>Who's Who in Engineering</title>as well as other miscellaneous
+			 personal materials.</p> 
+		  </scopecontent> 
+		  <c03 level="file"> 
+			 <did><container type="box">1</container><container
+				type="folder">1</container> 
+				<unittitle>Biographical material. 
+				  <unitdate type="inclusive"
+					normal="1895/1955">1895-1955</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="series"> 
+		  <did> 
+			 <unittitle>Series II: Diaries, 
+				<unitdate type="inclusive"
+				 normal="1908/1954">1908-1954</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contains 90 handwritten sheets of notes taken by Smith on trips to
+				survey Arizona sites in 1908-1909. Smith traveled to Rillito and Canada del
+				Oro, Casa Grande and Florence, Rillito Station and the Tortolita Mountains, the
+				Rincon Valley, the San Pedro Valley, and the Phoenix-Mesa area. The notes
+				discuss such topics as ranchers, water sources and structures, and geological
+				and floral observations. The bulk of his daily diaries were lost before the
+				collection was given to the library.</p> 
+		  </scopecontent> 
+		  <c03 level="file"> 
+			 <did><container type="box">1</container><container
+				type="folder">2</container> 
+				<unittitle>Diary. 
+				  <unitdate type="inclusive"
+					normal="1908/1909">1908-1909</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">1</container><container
+				type="folder">3</container> 
+				<unittitle>Diary. 
+				  <unitdate type="inclusive"
+					normal="1949/1954">1949-1954</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="series"> 
+		  <did> 
+			 <unittitle>Series III: Correspondence, 
+				<unitdate type="inclusive"
+				 normal="1900/1963">1900-1963</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p> Contains letters to and from George E.P. Smith, chiefly regarding
+				his professional pursuits during his career at the University of Arizona.
+				During the course of his lifetime, Smith also maintained a reciprocal
+				correspondence with several local, state and national officials, including
+				Senator Carl Hayden, Senator Barry Goldwater, and Senator Warren Austin, U.S.
+				delegate to the United Nations. These letters are interfiled in the
+				correspondence.</p> 
+			 <p>Please notice that there are gaps for some years. Also, be advised
+				that incoming letters are often filed alphabetically by sender so that
+				individuals writing as employees of a local, state, or federal agency are
+				mostly found under their personal names rather than under the corporate
+				institution that employed them. </p> 
+			 <p>Other correspondents include Tucson Mayor Henry Jaastad,
+				Representative John R. Murdock, Arizona pioneers Will C. Barnes and J. A.
+				Rockfellow, and University of Arizona Presidents and Deans Paul Burgess, Alfred
+				Atkinson, James McCormick, and Gurdon Butler. Additional correspondence is also
+				found in some of the folders in the series, Project Files.</p> 
+		  </scopecontent> 
+		  <c03> 
+			 <did><container type="box">2</container><container
+				type="folder">1</container> 
+				<unittitle>A-Z. 
+				  <unitdate type="inclusive"
+					normal="1900/1913">1900-1913</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did><container type="box">2</container><container
+				type="folder">2-12</container> 
+				<unittitle>A-Z. 
+				  <unitdate type="inclusive"
+					normal="1915/1916">1915-1916</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did><container type="box">2</container><container
+				type="folder">13-19</container> 
+				<unittitle>A-Z. 
+				  <unitdate type="inclusive"
+					normal="1916/1917">1916-1917</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">3</container><container
+				type="folder">1-7</container> 
+				<unittitle>A-Z. 
+				  <unitdate type="inclusive"
+					normal="1917/1918">1917-1918</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">3</container><container
+				type="folder">8-14</container> 
+				<unittitle>A-Z. 
+				  <unitdate type="inclusive"
+					normal="1918/1919">1918-1919</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">3</container><container
+				type="folder">15-18</container> 
+				<unittitle>A-L. 
+				  <unitdate type="inclusive"
+					normal="1919/1920">1919-1920</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">4</container><container
+				type="folder">1-3</container> 
+				<unittitle>M-Z. 
+				  <unitdate type="inclusive"
+					normal="1919/1920">1919-1920</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">4</container><container
+				type="folder">4-10</container> 
+				<unittitle>A-Z. 
+				  <unitdate type="inclusive"
+					normal="1920/1921">1920-1921</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">4</container><container
+				type="folder">11-15</container> 
+				<unittitle>A-N. 
+				  <unitdate type="inclusive"
+					normal="1922/1924">1922-1924</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">5</container><container
+				type="folder">1-4</container> 
+				<unittitle>O-Z. 
+				  <unitdate type="inclusive"
+					normal="1922/1924">1922-1924</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">5</container><container
+				type="folder">5-14</container> 
+				<unittitle>A-Z. 
+				  <unitdate type="inclusive"
+					normal="1924/1926">1924-1926</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">5</container><container
+				type="folder">15-20</container> 
+				<unittitle>A-Z. 
+				  <unitdate type="inclusive"
+					normal="1926/1927">1926-1927</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">6</container><container
+				type="folder">1-6</container> 
+				<unittitle>A-Z. 
+				  <unitdate type="inclusive"
+					normal="1927/1928">1927-1928</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">6</container><container
+				type="folder">7-12</container> 
+				<unittitle>A-Z. 
+				  <unitdate type="inclusive"
+					normal="1928/1929">1928-1929</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">6</container><container
+				type="folder">13-19</container> 
+				<unittitle>A-Z. 
+				  <unitdate type="inclusive"
+					normal="1929/1930">1929-1930</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">6</container><container
+				type="folder">20-23</container> 
+				<unittitle>A-Z. 
+				  <unitdate type="inclusive"
+					normal="1930/1931">1930-1931</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">7</container><container
+				type="folder">1</container> 
+				<unittitle>A-Z. 
+				  <unitdate type="inclusive"
+					normal="1932">1932</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">7</container><container
+				type="folder">2-4</container> 
+				<unittitle>A-Z. 
+				  <unitdate type="inclusive"
+					normal="1933/1934">1933-1934</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">7</container><container
+				type="folder">5-12</container> 
+				<unittitle>A-Z. 
+				  <unitdate type="inclusive"
+					normal="1934/1936">1934-1936</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">7</container><container
+				type="folder">13-16</container> 
+				<unittitle>A-Z. 
+				  <unitdate type="inclusive"
+					normal="1936/1937">1936-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">7</container><container
+				type="folder">17-18</container> 
+				<unittitle>A-H. 
+				  <unitdate type="inclusive"
+					normal="1937/1938">1937-1938</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">8</container><container
+				type="folder">1-2</container> 
+				<unittitle>I-Z. 
+				  <unitdate type="inclusive"
+					normal="1937/1938">1937-1938</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">8</container><container
+				type="folder">3-6</container> 
+				<unittitle>A-Z. 
+				  <unitdate type="inclusive"
+					normal="1938/1939">1938-1939</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">8</container><container
+				type="folder">7-9</container> 
+				<unittitle>A-W. 
+				  <unitdate type="inclusive"
+					normal="1939/1940">1939-1940</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">8</container><container
+				type="folder">10-12</container> 
+				<unittitle>A-Z. 
+				  <unitdate type="inclusive"
+					normal="1940/1941">1940-1941</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">8</container><container
+				type="folder">13-14</container> 
+				<unittitle>A-I. 
+				  <unitdate type="inclusive"
+					normal="1941/1942">1941-1942</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">9</container><container
+				type="folder">1-2</container> 
+				<unittitle>J-Z. 
+				  <unitdate type="inclusive"
+					normal="1941/1942">1941-1942</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">9</container><container
+				type="folder">3</container> 
+				<unittitle>Correspondence with O.C. Williams, Carl Hayden, and A.E.
+				  Moritz on the Carson Report. 
+				  <unitdate type="inclusive"
+					normal="1944">1944</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">9</container><container
+				type="folder">4</container> 
+				<unittitle>A-Z. 
+				  <unitdate type="inclusive"
+					normal="1944/1947">1944-1947</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">9</container><container
+				type="folder">5-7</container> 
+				<unittitle>A-Z. 
+				  <unitdate type="inclusive"
+					normal="1949/1950">1949-1950</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">9</container><container
+				type="folder">8-14</container> 
+				<unittitle>A-Z. 
+				  <unitdate type="inclusive"
+					normal="1951/1953">1951-1953</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">9</container><container
+				type="folder">15-25</container> 
+				<unittitle>A-Z. 
+				  <unitdate type="inclusive"
+					normal="1953/1958">1953-1958</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">9</container><container
+				type="folder">26</container> 
+				<unittitle>A-Z. 
+				  <unitdate type="inclusive"
+					normal="1963">1963</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="series"> 
+		  <did> 
+			 <unittitle>Series IV: Articles and Addresses, 
+				<unitdate type="inclusive"
+				 normal="1908/1972">1908-1972</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contains original typed and handwritten published and unpublished
+				articles and addresses by Smith. Much of his writing is concerned with
+				irrigation, rivers, and groundwater and covers such topics as pump irrigation,
+				sewage disposal by direct use for irrigation, effect of irrigation upon soil
+				temperature, irrigation and grapefruit, irrigation water supply, the Colorado
+				River Company, the Boulder Canyon Project, the physiography of Arizona valleys,
+				the determination of a groundwater supply, water conservation, farm machinery,
+				cement pipe, the production of tamarisk for use as a fine cabinet wood, the
+				repaving of city streets, letters to the editor on miscellaneous subjects, and
+				a series of reminiscences of his early life in Tucson, Arizona.</p> 
+			 <p>For a more complete list of Smith's written work, see the
+				pamphlet, "Publications of George E.P. Smith, C.E., D. Engr." located in
+				Biographical Information series in Box 1, Folder 1.</p> 
+		  </scopecontent> 
+		  <c03 level="file"> 
+			 <did><container type="box">10</container><container
+				type="folder">1</container> 
+				<unittitle>Articles and Addresses. 
+				  <unitdate type="inclusive" normal="NaN/1909">No Date,
+					 1908-1909</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">10</container><container
+				type="folder">2</container> 
+				<unittitle>Articles and Addresses. 
+				  <unitdate type="inclusive"
+				  normal="1910/1916">1910-1916</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">10</container><container
+				type="folder">3</container> 
+				<unittitle>Articles and Addresses. 
+				  <unitdate type="inclusive"
+				  normal="1917/1919">1917-1919</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">10</container><container
+				type="folder">4</container> 
+				<unittitle>Articles and Addresses. 
+				  <unitdate type="inclusive"
+				  normal="1920/1924">1920-1924</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">10</container><container
+				type="folder">5</container> 
+				<unittitle>Articles and Addresses. 
+				  <unitdate type="inclusive"
+				  normal="1925/1927">1925-1927</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">10</container><container
+				type="folder">6</container> 
+				<unittitle>Articles and Addresses. 
+				  <unitdate type="inclusive"
+				  normal="1928/1929">1928-1929</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">10</container><container
+				type="folder">7</container> 
+				<unittitle>Articles and Addresses. 
+				  <unitdate type="inclusive"
+				  normal="1930/1932">1930-1932</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">10</container><container
+				type="folder">8</container> 
+				<unittitle>Articles and Addresses. 
+				  <unitdate type="inclusive"
+				  normal="1933/1935">1933-1935</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">10</container><container
+				type="folder">9</container> 
+				<unittitle>Articles and Addresses. 
+				  <unitdate type="inclusive"
+				  normal="1936/1939">1936-1939</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">10</container><container
+				type="folder">10</container> 
+				<unittitle>Articles and Addresses. 
+				  <unitdate type="inclusive"
+				  normal="1940/1949">1940-1949</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">10</container><container
+				type="folder">11</container> 
+				<unittitle>Articles and Addresses. 
+				  <unitdate type="inclusive"
+				  normal="1950/1959">1950-1959</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">10</container><container
+				type="folder">12</container> 
+				<unittitle>Brochures 1-26. 
+				  <unitdate type="inclusive"
+				  normal="1964/1972">1964-1972</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">10</container><container
+				type="folder">13</container> 
+				<unittitle>Clippings about George E. P. Smith. 
+				  <unitdate type="inclusive"
+				  normal="1916/1950">1916-1950</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="series"> 
+		  <did> 
+			 <unittitle>Series V: Project Files, 
+				<unitdate type="inclusive"
+				normal="1899/1944">1899-1944</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contains chiefly information pertaining to various irrigation,
+				reservoir, and water supply projects for which Smith served as a consultant. In
+				addition to Smith's data and papers, some of the files also include blueprints
+				and specifications for wells, well test information, and geological and
+				topographical maps.</p> 
+		  </scopecontent> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container
+				type="folder">1</container> 
+				<unittitle>American Society of Civil Engineers Development
+				  Propaganda. 
+				  <unitdate type="inclusive"
+					normal="1918/1921">1918-1921</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container
+				type="folder">2</container> 
+				<unittitle>Apache County (Ariz.) - Lyman Dam. 
+				  <unitdate type="inclusive"
+					normal="NaN/1933">1920s-1933</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container
+				type="folder">3</container> 
+				<unittitle>Cananea Consolidated Copper Company, Sonora, Mex.. 
+				  <unitdate type="inclusive"
+					normal="1942/1943">1942-1943</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container
+				type="folder">4</container> 
+				<unittitle>Canoa Ranch - Guayule Rubber Plantation Project,
+				  Agricultural Products Corp. 
+				  <unitdate type="inclusive"
+					normal="1916/1917">1916-1917</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container
+				type="folder">5</container> 
+				<unittitle>Chandler (Ariz.) - Higley District. 
+				  <unitdate type="inclusive"
+					normal="1912/1916">1912-1916</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container
+				type="folder">6</container> 
+				<unittitle>Citizens Water Committee (Tucson, Ariz.). 
+				  <unitdate type="inclusive"
+					normal="1951/1953">1951-1953</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container
+				type="folder">7</container> 
+				<unittitle>Colorado River. 
+				  <unitdate type="inclusive"
+					normal="1902/1928">1902-1928</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container
+				type="folder">8</container> 
+				<unittitle>Clippings and Printed Material. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container
+				type="folder">9</container> 
+				<unittitle>Swing-Johnson Bill. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container
+				type="folder">10-11</container> 
+				<unittitle>Cordillera - Penon Pipeline Project (Antofagasta,
+				  Chile). 
+				  <unitdate type="inclusive"
+					normal="1920">1920</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container
+				type="folder">12</container> 
+				<unittitle>Navajo County - St. Joseph; Lonesome Pine Dam. 
+				  <unitdate type="inclusive"
+					normal="1925/1938">1925-1938</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container
+				type="folder">13</container> 
+				<unittitle>Prison (Florence, Ariz.). 
+				  <unitdate type="inclusive"
+					normal="1930/1931">1930-1931</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container
+				type="folder">14</container> 
+				<unittitle>Reservoir Projects Reports - Sabino Canyon, Pantano
+				  Wash, Tanque Verde, Canada del Oro, Santa Cruz River. 
+				  <unitdate type="inclusive"
+					normal="1899/1916">1899-1916</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container
+				type="folder">15</container> 
+				<unittitle>Rillito River Bridge - Includes correspondence with El
+				  Paso Bridge and Iron Co. 
+				  <unitdate type="inclusive"
+					normal="1908">1908</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container
+				type="folder">16</container> 
+				<unittitle>Rillito Water User's Association - Blueprints,
+				  Specifications, Correspondence with Charles C. Moore and Co. Engineers. 
+				  <unitdate type="inclusive"
+				  normal="1908/1909">1908-1909</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container
+				type="folder">17</container> 
+				<unittitle>Rillito Water User's Association - Special Irrigation
+				  Committee. 
+				  <unitdate type="inclusive"
+					normal="1909">1909</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container
+				type="folder">18</container> 
+				<unittitle>Roosevelt Irrigation District. 
+				  <unitdate type="inclusive"
+					normal="1935">1935</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container
+				type="folder">1</container> 
+				<unittitle>Salt River Valley. 
+				  <unitdate type="inclusive"
+					normal="1921/1928">1921-1928</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container
+				type="folder">2</container> 
+				<unittitle>Santa Cruz Valley #1. 
+				  <unitdate type="inclusive"
+					normal="1914/1926">1914-1926</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container
+				type="folder">3</container> 
+				<unittitle>Sentinel Peak "A" Mountain Park. 
+				  <unitdate type="inclusive"
+					normal="1924/1929">1924-1929</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container
+				type="folder">4</container> 
+				<unittitle>Spain and Travelogue. 
+				  <unitdate type="inclusive"
+					normal="1927">1927</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container
+				type="folder">5</container> 
+				<unittitle>Steering Committee for Water Conservation Study, Tucson.
+				  
+				  <unitdate type="inclusive"
+					normal="1951">1951</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container
+				type="folder">6</container> 
+				<unittitle>Tucson Area Flood Control Committee. 
+				  <unitdate type="inclusive"
+					normal="1944">1944</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container
+				type="folder">7</container> 
+				<unittitle>Tucson (Ariz.) - Rainfall Data. 
+				  <unitdate type="inclusive"
+					normal="1875/1924">1875-1924</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container
+				type="folder">8</container> 
+				<unittitle>Tucson City Water Department. 
+				  <unitdate type="inclusive"
+					normal="1941/1942">1941-1942</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container
+				type="folder">9</container> 
+				<unittitle>Water Conservation Commission. 
+				  <unitdate type="inclusive"
+					normal="1914">1914</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container
+				type="folder">10</container> 
+				<unittitle>Yavapai County-Chino Mutual Water Users' Association. 
+				  <unitdate type="inclusive"
+				  normal="1923">1923</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container
+				type="folder">11</container> 
+				<unittitle>Yuma County. 
+				  <unitdate type="inclusive"
+				  normal="1915/1931">1915-1931</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container
+				type="folder">12</container> 
+				<unittitle>Yuma Irrigation District. 
+				  <unitdate type="inclusive"
+				  normal="1932/1934">1932-1934</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="series"> 
+		  <did> 
+			 <unittitle>Series VI: Supplemental Papers, 
+				<unitdate type="inclusive"
+				normal="1904/1941">1904-1941</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contains blueprints, contracts, estimates, and other information
+				regarding the construction of George E. P. Smith's residence at 1195 E.
+				Speedway. Also contains various printed materials, including miscellaneous
+				programs presented by the Agricultural Extension Service, pamphlets about the
+				machinery used for irrigation and agriculture, a copy of the legal document
+				detailing court findings in the case of the Smithville Canal Co. vs. Oregon
+				Irrigation, 
+			 <title>A Textbook of Geometrical Drawings</title>, by William
+			 Minifie, plans and specifications for a reinforced concrete water tank for the
+			 University of Arizona, and material indicating Smith's involvement on various
+			 University of Arizona faculty committees.</p> 
+		  </scopecontent> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container
+				type="folder">13</container> 
+				<unittitle>House (1195 E. Speedway) - Blueprints. 
+				  <unitdate type="inclusive" normal="1930">1904,
+					 1930</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container
+				type="folder">14</container> 
+				<unittitle>House (1195 E. Speedway) - Contracts &amp; estimates. 
+				  <unitdate type="inclusive" normal="1930">1904,
+					 1930</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container
+				type="folder">15</container> 
+				<unittitle>Miscellaneous Programs. 
+				  <unitdate type="inclusive"
+				  normal="1915/1934">1915-1934</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container
+				type="folder">16</container> 
+				<unittitle>Printed Materials. 
+				  <unitdate type="inclusive"
+				  normal="1905/1928">1905-1928</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container
+				type="folder">17</container> 
+				<unittitle>Smithville Canal Co. vs. Oregon Irrigation (Graham
+				  County, Ariz.). 
+				  <unitdate type="inclusive"
+				  normal="1906">1906</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container
+				type="folder">18</container> 
+				<unittitle> 
+				  <title>A Textbook of Geometrical Drawings</title>. 
+				  <unitdate type="inclusive"
+				  normal="1859">1859</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container
+				type="folder">19</container> 
+				<unittitle>University of Arizona. 
+				  <unitdate type="inclusive"
+				  normal="1909/1941">1909-1941</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+	 </c01> 
+	 <c01 level="subgrp"> 
+		<did> 
+		  <unittitle>Subgroup II: Photographic materials, 
+			 <unitdate type="inclusive"
+			 normal="1906/1953">1906-1953</unitdate></unittitle> 
+		</did> 
+		<c02 level="series"> 
+		  <did> 
+			 <unittitle>Series I: Photographs, 
+				<unitdate type="inclusive"
+				normal="1906/1953">1906-1953</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contains 1178 black-and-white photographs, most of which were
+				taken by Smith. Categorized by subject or place, most are grouped according to
+				the labels and dates which Smith had on his original photograph envelopes.
+				These photographs deal primarily with agriculture, irrigation, rivers, tamarisk
+				trees, and water in Arizona. All of them measure 4" X 5" or less, with the
+				exception of one hand-colored photograph of Dean Talbot, Smith, and Stevens,
+				which measures 9" X 12". Included are photographs taken by Smith and others in
+				California, Idaho, India, Nevada, New Mexico, and Utah. Many of the photographs
+				contain annotations by Smith. Please notice that some envelopes do not contain
+				all the places or subjects that were listed on the envelope. Twenty-two
+				photographs were developed during the processing of the collection. All
+				negatives were nitrate based and were not retained. </p> 
+		  </scopecontent> 
+		  <c03 level="file"> 
+			 <did><container type="box">13</container><container
+				type="folder">1</container> 
+				<unittitle>Agriculture. 
+				  <unitdate type="inclusive"
+				  normal="1907/1944">1907-1944</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">13</container><container
+				type="folder">2</container> 
+				<unittitle>Arroyos. 
+				  <unitdate type="inclusive" normal="1943">1922,
+					 1943</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">13</container><container
+				type="folder">3</container> 
+				<unittitle>Bridges. 
+				  <unitdate type="inclusive"
+				  normal="1915/1921">1915-1921</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">13</container><container
+				type="folder">4</container> 
+				<unittitle>Building, Adobe. 
+				  <unitdate type="inclusive"
+				  normal="1932">1932</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">13</container><container
+				type="folder">5</container> 
+				<unittitle>Caissons. 
+				  <unitdate type="inclusive"
+				  normal="1912/1915">1912-1915</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">13</container><container
+				type="folder">6</container> 
+				<unittitle>California. 
+				  <unitdate type="inclusive"
+				  normal="1930">1930</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">13</container><container
+				type="folder">7</container> 
+				<unittitle>Continental (Ariz.). 
+				  <unitdate type="inclusive"
+				  normal="1916/1918">1916-1918</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">13</container><container
+				type="folder">8</container> 
+				<unittitle>Dams. 
+				  <unitdate type="inclusive"
+				  normal="1906/1939">1906-1939</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">13</container><container
+				type="folder">9</container> 
+				<unittitle>Dwellings. 
+				  <unitdate type="inclusive"
+				  normal="1934">1934</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">13</container><container
+				type="folder">10</container> 
+				<unittitle>Engine charts and water charts. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">13</container><container
+				type="folder">11</container> 
+				<unittitle>Fences. 
+				  <unitdate type="inclusive" normal="1942">1935,
+					 1942</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">13</container><container
+				type="folder">12</container> 
+				<unittitle>Flood control. 
+				  <unitdate type="inclusive"
+				  normal="1933">1933</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">13</container><container
+				type="folder">13</container> 
+				<unittitle>Floods. 
+				  <unitdate type="inclusive"
+				  normal="1906/1929">1906-1929</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">13</container><container
+				type="folder">14</container> 
+				<unittitle>Geology. 
+				  <unitdate type="inclusive"
+				  normal="1913/1939">1913-1939</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">13</container><container
+				type="folder">15</container> 
+				<unittitle>Idaho. 
+				  <unitdate type="inclusive"
+				  normal="1937">1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">13</container><container
+				type="folder">16</container> 
+				<unittitle>Irrigation. 
+				  <unitdate type="inclusive"
+				  normal="1906/1936">1906-1936</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">13</container><container
+				type="folder">17</container> 
+				<unittitle>Machinery. 
+				  <unitdate type="inclusive"
+				  normal="1908/1939">1908-1939</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container
+				type="folder">1</container> 
+				<unittitle>Miscellaneous places. 
+				  <unitdate type="inclusive"
+				  normal="1921">1921</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container
+				type="folder">2</container> 
+				<unittitle>Nevada. 
+				  <unitdate type="inclusive"
+				  normal="1937">1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container
+				type="folder">3</container> 
+				<unittitle>New Mexico. 
+				  <unitdate type="inclusive"
+				  normal="1935">1935</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container
+				type="folder">4</container> 
+				<unittitle>Northern Arizona. 
+				  <unitdate type="inclusive"
+				  normal="1908/1940">1908-1940</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container
+				type="folder">5</container> 
+				<unittitle>People. 
+				  <unitdate type="inclusive"
+				  normal="1919/1941">1919-1941</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container
+				type="folder">6</container> 
+				<unittitle>Phoenix (Ariz.). 
+				  <unitdate type="inclusive"
+				  normal="1911/1936">1911-1936</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container
+				type="folder">7</container> 
+				<unittitle>Pipes. 
+				  <unitdate type="inclusive"
+				  normal="1907/1925">1907-1925</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container
+				type="folder">8</container> 
+				<unittitle>Ranches. 
+				  <unitdate type="inclusive"
+				  normal="1907/1942">1907-1942</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container
+				type="folder">9</container> 
+				<unittitle>Rivers. 
+				  <unitdate type="inclusive"
+				  normal="1936">1936</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container
+				type="folder">10</container> 
+				<unittitle>Road construction. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container
+				type="folder">11</container> 
+				<unittitle>San Pedro Valley (Ariz.). 
+				  <unitdate type="inclusive" normal="1942">1938,
+					 1942</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container
+				type="folder">12</container> 
+				<unittitle>San Simon (Ariz.). 
+				  <unitdate type="inclusive" normal="1919">1912,
+					 1919</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container
+				type="folder">13</container> 
+				<unittitle>Silos. 
+				  <unitdate type="inclusive"
+				  normal="1915">1915</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container
+				type="folder">14</container> 
+				<unittitle>Snow. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container
+				type="folder">15</container> 
+				<unittitle>Southeastern Arizona. 
+				  <unitdate type="inclusive"
+				  normal="1911/1943">1911-1943</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container
+				type="folder">16</container> 
+				<unittitle>Tamarisk #1. 
+				  <unitdate type="inclusive"
+				  normal="1940/1948">1940-1948</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container
+				type="folder">17</container> 
+				<unittitle>Tamarisk #2. 
+				  <unitdate type="inclusive"
+				  normal="1936/1953">1936-1953</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container
+				type="folder">18</container> 
+				<unittitle>Tucson (Ariz.). 
+				  <unitdate type="inclusive"
+				  normal="1906/1937">1906-1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container
+				type="folder">19</container> 
+				<unittitle>Utah. 
+				  <unitdate type="inclusive"
+				  normal="1937">1937</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container
+				type="folder">20</container> 
+				<unittitle>Weirs. 
+				  <unitdate type="inclusive"
+				  normal="1908/1940">1908-1940</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container
+				type="folder">21</container> 
+				<unittitle>Wells. 
+				  <unitdate type="inclusive"
+				  normal="1914/1935">1914-1935</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+	 </c01> 
+  </dsc> 
+</archdesc></ead>

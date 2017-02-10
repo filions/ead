@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+ audience="internal" id="a0"> 
+	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library SpecialCollections//text(US::AzU::Original drawings of Hazel McFeely Fontana)//en""UAAZ219.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper> Original drawings of Hazel McFeely Fontana
+	 		<date normal="1961/1962" era="ce" calendar="gregorian">1961-1962</date></titleproper> 
+	 	<author>Processed by Staff.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date normal= "2012" era= "ce" calendar = "gregorian">; 2012</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Deborah Weller. 
+  		<date era="ce" calendar="gregorian">September 11,2012</date></creation>  
+	 <langusage>Finding aid is in<language> English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+  	<titleproper>Original drawings of Hazel McFeely Fontana,
+  		<date era= "ce" calendar= "gregorian">1961-1962</date></titleproper> 
+	 <num>Collection Number: AZ 219</num> 
+  	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Staff</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+		  	<date era="ce" calendar="gregorian">November 1994</date></item>  
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Deborah Weller</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 2012. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name:">Original drawings of Hazel McFeely Fontana,
+  		<unitdate type="inclusive" label="Dates:" era="ce" calendar="gregorian">1961-1962</unitdate></unittitle>	 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	 repositorycode="AzU" countrycode="us">AZ 219</unitid> 
+	 <origination label="Creator:"> 
+	 	<persname source="lcnaf" encodinganalog="100">Fontana, Hazel McFeely, 1931-</persname></origination> 
+  	<abstract label="Abstract:">60 original pen and ink drawings for Edward H. Spicer's <title render="italic">Cycles of Conquest</title>, published by the University of Arizona Press, 1962.</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent>.1 linear ft.</extent></physdesc>	 
+	 <repository label="Repository:"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository> 
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+	 <p>There are no restrictions on the collection</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>Original drawings of Hazel McFeely Fontana,(AZ 219). Special
+  		Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+  	<head>Biographical Note</head>
+  	<p>Hazel McFeely Fontana was an Arizona artist who was born in 1931 in Yuba City, California. Her father was an orchard farmer and at an early age she learned to do budding and grafting on the fruit and nut trees.  Hazel was valedictorian of her high class and graduated with honors from the University of California, Berkeley with majors in art and literature. In 1954 she married her high school sweetheart Bernard “Bunny” Fontana. She was talented in multiple media artist; making detailed pencil drawings of missions, re-creating lush landscapes out of vibrant opaque watercolors, infusing ink-and-paper sketches with Asian influences, silk-screening greeting cards and combining the styles of African tribal artists with the disjointed geometrics of Picasso when she painted self-portraits. Hazel Fontana died in 2009.</p> 
+  </bioghist> 
+  <arrangement id="a4" encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+	 <p>This collection is organized into one series</p>	 
+	 <list> 
+		<item>Drawings
+		  <unitdate>1961-1962</unitdate></item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>60 original pen and ink drawings for Edward H. Spicer's Cycles of Conquest, published by the University of Arizona Press, 1962.  Includes some drawings not used in the published work.  Chiefly Southwest and Native American subjects including pottery, homes, people, and scenery.</p> 
+  </scopecontent> 
+	<relatedmaterial id="a6" encodinganalog="5441"><p>Bernard Fontana Papers, MS 434</p></relatedmaterial>
+	<controlaccess id="a12">
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+			<persname encodinganalog="600" source="lcnaf" role="subject">Fontana, Hazel McFeely, 1931-</persname> </item> 
+	 </list> 
+		<list> 
+			<item> 
+				<persname encodinganalog="600" source="lcnaf" role="subject">Spicer, Edward Holland, 1906- -- 1906--Cycles of conquest.</persname> </item> 
+		</list> 
+	 <list> 
+		<item> 
+			<subject encodinganalog="650" source="lcsh">Indians of North America--Arizona--Pictorial works.</subject> </item> 
+	 </list>
+		<list> 
+			<item> 
+				<geogname encodinganalog="651" source="lcsh">Southwest, New--History--Pictorial works.</geogname> </item> </list>	 
+  </controlaccess> 
+</archdesc></ead>

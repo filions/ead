@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?filetitle Empire Ranch Records?>
+<ead relatedencoding="MARC21"> 
+<eadheader audience="internal" findaidstatus="edited-full-draft"
+ langencoding="iso639-2b"> 
+  <eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
+	 Special Collections//text(US::AzU::Empire Ranch records)//en"
+	 "UAAZ246.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Empire Ranch records, 
+		  <date>1874-1944 (bulk 1880-1916)</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Phyllis Ball
+		  </author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+		<publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		  Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		 <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date>&#x00A9; 2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation encodinganalog="500">Inventory encoded by Jennie Stapp 
+		<date>July 24, 2002</date></creation> 
+	 <langusage>Inventory is in<language langcode="en"
+		encodinganalog="546">English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper encodinganalog="245$a">Empire Ranch records, 
+		<date>1874-1944 (bulk 1880-1916)</date></titleproper> 
+	 <num>Collection Number: AZ 246</num> 
+	 <publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Phyllis Ball</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>1968</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Jennie Stapp</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 2001. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name:">Empire Ranch
+		records, 
+		<unitdate type="inclusive" normal="">1874-1944 (bulk
+		  1880-1916)</unitdate></unittitle> 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	  repositorycode="AzU" countrycode="us"> AZ 246</unitid> 
+	 <origination label="Creator:"> 
+		<corpname encodinganalog="110">Empire Ranch (Ariz.)
+		  </corpname></origination> 
+	 <abstract label="Abstract:">This collection includes correspondence, legal
+		documents, financial records, livestock records, and other materials relating
+		to the history, development, and operation of ranch property in Southern
+		Arizona and California. Includes records of cattle companies associated with
+		the Empire Ranch. Some ranches covered are Onyx Ranch, Bonita Ranch, El Dorado
+		Ranch, Rosemont Ranch, Pantano Ranch, and Rancho Corral de Quati. </abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+		encodinganalog="300">7 linear feet</extent></physdesc> 
+	 <repository label="Repository:"> 
+		<corpname encodinganalog="110">University of Arizona Libraries, Special
+		  Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		 <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		  
+		</address></repository> 
+  </did> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Restrictions</head> 
+	 <p>None.</p> 
+  </accessrestrict> 
+  <userestrict encodinganalog="540"> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Credit Line</head> 
+	 <p>Empire Ranch records (AZ 249). Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Historical Note</head> 
+	 <p>Empire Ranch is located east of Tucson. Started in 1876 by Walter L.
+		Vail, founder of the Empire Land and Cattle Company, it became one of the
+		largest cattle ranches in Arizona. In 1886, Vail formed a partnership with
+		Carrol W. Gates. Soon after Vail and Gates expanded land and cattle operations
+		to California, Kansas, and Oklahoma. Their headquarters were the Empire Ranch
+		and Warner's Ranch in California. Chiricahua Ranches Company purchased the
+		Empire Ranch operations in 1928.</p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into eight series:</p> 
+	 <list> 
+		<item>Series I: Papers of the 1870's and Personal Material,
+		  1874-1916</item> 
+		<item>Series II: Empire Land and Cattle Co. Records, 1880-1934</item> 
+		<item>Series III: Miscellaneous Property Records, 1876-1916</item> 
+		<item>Series IV: Crittenden Cattle Co. Records, 1881-1938</item> 
+		<item>Series V: Chiricahua Cattle Co. Records, 1885-1911</item> 
+		<item>Series VI: Boice-Gates-Johnson Cattle Co. Records, 1917-1928</item>
+		
+		<item>Series VII: Doyle Cattle Co. Records, 1926-1929</item> 
+		<item>Series VIII: Chiricahua Ranches Co. Records, 1927-1944</item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>This collection includes correspondence, legal documents, financial
+		records, livestock records, and other materials relating to the history,
+		development, and operation of ranch property in Southern Arizona and
+		California. Includes records of cattle companies associated with the Empire
+		Ranch. Some ranches covered are Onyx Ranch, Bonita Ranch, El Dorado Ranch,
+		Rosemont Ranch, Pantano Ranch, and Rancho Corral de Quati. Also present are
+		land and mining papers including Arizona land patents, land grant materials,
+		abstracts of titles, and papers relating to mines such as the Total Wreck Mine.
+		Abstracts of title involve land of the Whetstone and San Pedro Land and Cattle
+		Co., Arivaca Land and Cattle Co., Las Jarillas Cattle Co. and others.</p> 
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Vail, Walter L.,
+			 1852-1906</persname></item> 
+		<item> 
+		  <persname encodinganalog="100">Vail, Edward L.,
+			 1849-1936</persname></item> 
+		<item> 
+		  <persname encodinganalog="100">Gates, Carrol W., d.
+			 1920</persname></item> 
+		<item> 
+		  <corpname encodinganalog="110">Empire Land and Cattle Company --
+			 Records and correspondence</corpname></item> 
+		<item> 
+		  <corpname encodinganalog="110">Crittenden Cattle Company -- Records and
+			 correspondence</corpname></item> 
+		<item> 
+		  <corpname encodinganalog="110">Chiricahua Cattle Company -- Records and
+			 correspondence</corpname></item> 
+		<item> 
+		  <corpname encodinganalog="110">Boice-Gates-Johnson Cattle Company --
+			 Records and correspondence</corpname></item> 
+		<item> 
+		  <corpname encodinganalog="110">Chiricahua Ranches Company -- Records
+			 and correspondence</corpname></item> 
+		<item> 
+		  <corpname encodinganalog="110">Doyle Cattle Company -- Records and
+			 correspondence</corpname></item> 
+		<item> 
+		  <corpname encodinganalog="110">Whetstone and San Pedro Land and Cattle
+			 Company (Ariz.) </corpname></item> 
+		<item> 
+		  <corpname encodinganalog="110">Arivaca Land and Cattle
+			 Company</corpname></item> 
+		<item> 
+		  <corpname encodinganalog="110">Las Jarillas Cattle
+			 Company</corpname></item> 
+		<item> 
+		  <corpname encodinganalog="110">Vail and Gates (Firm) -- Records and
+			 correspondence</corpname></item> 
+		<item> 
+		  <corpname encodinganalog="110">United States. Forest Service. Sierra
+			 Forest Reserve</corpname></item> 
+		<item> 
+		  <corpname encodinganalog="110">Warner's Ranch (Calif.)
+			 </corpname></item> 
+		<item> 
+		  <subject> Total Wreck Mine (Ariz.) </subject></item> 
+		<item> 
+		  <subject>Cattle trade -- Arizona -- History -- Sources</subject></item>
+		
+		<item> 
+		  <subject>Sheep industry -- Arizona -- History --
+			 Sources</subject></item> 
+		<item> 
+		  <subject>Cattle trade -- Arizona -- History -- Sources</subject></item>
+		
+		<item> 
+		  <subject>Cattle trade -- California -- History --
+			 Sources</subject></item> 
+		<item> 
+		  <subject>Forest reserves -- Arizona -- History --
+			 Sources</subject></item> 
+		<item> 
+		  <subject>Land titles -- Arizona -- History -- Sources</subject></item> 
+		<item> 
+		  <subject>Land grants -- Arizona</subject></item> 
+		<item> 
+		  <subject>Ranches -- Arizona -- Records and
+			 correspondence</subject></item> 
+		<item> 
+		  <geogname>Babocamari Land Grant</geogname></item> 
+		<item> 
+		  <geogname>San Jose de Sonoita Land Grant</geogname></item> 
+		<item> 
+		  <genreform>Correspondence</genreform></item> 
+		<item> 
+		  <genreform>Account books</genreform></item> 
+		<item> 
+		  <genreform>Ledgers</genreform></item> 
+		<item> 
+		  <genreform>Land grants</genreform></item> 
+	 </list> 
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+		  <unittitle>Series I: Papers of the 1870's and Personal Material, 
+			 <unitdate type="inclusive"
+			  normal="1874/1916">1874-1916</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Papers of the 1870's including legal papers and live stock
+				sales. 
+				<unitdate type="inclusive" normal="1869/1879">ca.
+				  1874</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Membership receipts in American National Live Stock
+				Association. 
+				<unitdate type="inclusive"
+				normal="1902/1913">1902-1913</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Associated Charities of Los Angeles. 
+				<unitdate type="inclusive"
+				normal="1896/1906">1896-1906</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>YMCA Committee of Safety, Los Angeles. 
+				<unitdate type="inclusive"
+				normal="1900/1901">1900-1901</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Papers of the Arizona Cattle Grower's Association. 
+				<unitdate type="inclusive"
+				 normal="1904/1912">1904-1912</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Appointment of Walter L. Vail as Live Stock Sanitary
+				Commissioner of Arizona by Governor N. O. Murphy. 
+				<unitdate type="inclusive" normal="1893">February 15,
+				  1893</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3-4</container> 
+			 <unittitle>Personal correspondence. 
+				<unitdate type="inclusive"
+				 normal="1887/1916">1887-1916</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series II: Empire Land and Cattle Co. Records, 
+			 <unitdate type="inclusive"
+			  normal="1880/1934">1880-1934</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Empire Land &amp; Cattle Co.: Letter Book (Edward L.
+				Vail). 
+				<unitdate type="inclusive"
+				 normal="1898/1900">1898-1900</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Empire Land &amp; Cattle Co.: Letter Book (Carroll W.
+				Gates). 
+				<unitdate type="inclusive"
+				 normal="1898/1900">1898-1900</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <unittitle>Empire Land &amp; Cattle Co.: Letter Book (Edward L.
+				Vail). 
+				<unitdate type="inclusive"
+				 normal="1899">1899</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="volume">2</container> 
+			 <unittitle>Empire Land &amp; Cattle Co.: Ledger no. 2. 
+				<unitdate type="inclusive"
+				 normal="1894/1898">1894-1898</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="volume">3</container> 
+			 <unittitle>Empire Land &amp; Cattle Co.: Ledger no. 3. 
+				<unitdate type="inclusive"
+				 normal="1899/1905">1899-1905</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="volume">4</container> 
+			 <unittitle>Empire Land &amp; Cattle Co.: Ledger no. 4. 
+				<unitdate type="inclusive"
+				 normal="1899/1905">1899-1905</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="volume">5</container> 
+			 <unittitle>Empire Land &amp; Cattle Co.: Index to Ledger no. 4 (2
+				copies). 
+				<unitdate type="inclusive"
+				 normal="1899/1905">1899-1905</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="volume">31</container> 
+	 			<unittitle>Empire Land and Cattle Co.: Rainfall
+	 				<unitdate type="inclusive"
+	 					normal="1899/1905">1908</unitdate></unittitle> 
+	 		</did> 
+	 	</c02>
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Empire Land &amp; Cattle Co. Livestock Papers and
+				Financial Records, 
+				<unitdate type="inclusive"
+				 normal="1880/1928">1880-1928</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container type="box">6</container> <container
+				type="folder">1</container> 
+				<unittitle>Livestock sales (legal papers). 
+				  <unitdate type="inclusive"
+					normal="1880/1920">1880-1920</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">6</container> <container
+				type="folder">2</container> 
+				<unittitle>Miscellaneous livestock papers including various papers
+				  of the Live Stock Sanitary Board of Arizona. 
+				  <unitdate type="inclusive"
+					normal="1885/1914">1885-1914</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">6</container> <container
+				type="folder">3-4</container> 
+				<unittitle>Miscellaneous financial papers. 
+				  <unitdate type="inclusive" normal="">1880-1910,
+					 1915</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">6</container> <container
+				type="folder">5</container> 
+				<unittitle>Promissory notes. 
+				  <unitdate type="inclusive"
+					normal="1880/1918">1880-1918</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">6</container> <container
+				type="folder">6</container> 
+				<unittitle>Bank records including checks, deposit slips, etc. 
+				  <unitdate type="inclusive"
+					normal="1881/1928">1881-1928</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">6</container> <container
+				type="folder">7</container> 
+				<unittitle>Assessments and taxes. 
+				  <unitdate type="inclusive" normal="">1884-1891, 1893,
+					 1900-1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">6</container> 
+				<unittitle>Rosemont Ranch Ledger (Edward L. Vail). 
+				  <unitdate type="inclusive"
+					normal="1900/1905">1900-1905</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">7</container> 
+			 <unittitle>Empire Land &amp; Cattle Co.: Abstract of Lands.
+				</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">8</container> 
+			 <unittitle>Empire Land &amp; Cattle Co.: Abstract of Titles.
+				</unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Documents relating to land involved in the history, development
+				and operation of the Empire Ranch, including: 
+				<list> 
+				  <item>Arivaca Land &amp; Cattle Company</item> 
+				  <item>Las Jarillas Cattle Company</item> 
+				  <item>Crittenden Cattle Company</item> 
+				  <item>Chiricahua Ranches Company</item> 
+				  <item>Vail and Ashburn</item> 
+				  <item>Southern Arizona Mining Company</item> 
+				</list></p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">9</container> 
+			 <unittitle>Empire Land &amp; Cattle Co.: Abstract of Titles
+				(continued from Box 8). </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">9</container> <container
+			 type="volume">1</container> 
+			 <unittitle>Empire Land &amp; Cattle Co.: Minutes of Board of
+				Directors Meetings. 
+				<unitdate type="inclusive"
+				 normal="1883/1884">1883-1884</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">9</container> <container
+			 type="volume">2</container> 
+			 <unittitle>Empire Land &amp; Cattle Co.: Minutes of Board of
+				Directors Meetings. 
+				<unitdate type="inclusive"
+				 normal="1889/1908">1889-1908</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">9</container> <container
+			 type="volume">3</container> 
+			 <unittitle>Empire Land &amp; Cattle Co.: Minutes of Board of
+				Directors Meetings. 
+				<unitdate type="inclusive"
+				 normal="1909/1934">1909-1934</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series III: Miscellaneous Property Records, 
+			 <unitdate type="inclusive"
+			  normal="1876/1916">1876-1916</unitdate></unittitle> 
+		</did> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Legal Papers, Financial Records, etc., 
+				<unitdate type="inclusive"
+				 normal="1884/1928">1884-1928</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container type="box">10</container> <container
+				type="folder">1</container> 
+				<unittitle>Babocomari Land Grant. 
+				  <unitdate type="inclusive"
+					normal="1896/1908">1896-1908</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">10</container> <container
+				type="folder">2</container> 
+				<unittitle>California Development Company. 
+				  <unitdate type="inclusive"
+					normal="1901">1901</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">10</container> <container
+				type="folder">3</container> 
+				<unittitle>Various California Property. </unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">10</container> <container
+				type="folder">4</container> 
+				<unittitle>Gage Tract, Warner's Ranch. 
+				  <unitdate type="inclusive"
+				  normal="1901/1910">1901-1910</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">10</container> <container
+				type="folder">5</container> 
+				<unittitle>Muleshoe Cattle Company. 
+				  <unitdate type="inclusive"
+				  normal="1922/1926">1922-1926</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">10</container> <container
+				type="folder">6</container> 
+				<unittitle>Pantano Ranch (Vosburg and Vail). 
+				  <unitdate type="inclusive"
+				  normal="1884/1890">1884-1890</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">10</container> <container
+				type="folder">7</container> 
+				<unittitle>Rancho Corral de Quati, etc., California (O. M. Potts). 
+				  <unitdate type="inclusive"
+				  normal="1902/1904">1902-1904</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">10</container> <container
+				type="folder">8</container> 
+				<unittitle>San Jose de Sonoita Land Grant. 
+				  <unitdate type="inclusive"
+				  normal="1903/1907">1903-1907</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">10</container> <container
+				type="folder">9</container> 
+				<unittitle>Vail and Ashburn Papers. 
+				  <unitdate type="inclusive"
+				  normal="1908/1928">1908-1928</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Land and Mining Papers, 
+				<unitdate type="inclusive"
+				normal="1876/1916">1876-1916</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did> <container type="box">11</container> <container
+				type="folder">1</container> 
+				<unittitle>U. S. General Land Office: Arizona Land Patents. 
+				  <unitdate type="inclusive"
+				  normal="1876/1898">1876-1898</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">11</container> <container
+				type="folder">2</container> 
+				<unittitle>U. S. General Land Office, Sierra Forest Reserve: Legal
+				  papers, correspondence, etc. 
+				  <unitdate type="inclusive"
+				  normal="1898/1915">1898-1915</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">11</container> <container
+				type="folder">3</container> 
+				<unittitle>U. S. General Land Office, Sierra Forest Reserve: Land
+				  Patents. 
+				  <unitdate type="inclusive" normal="">1899-1902,
+					 1912</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">11</container> <container
+				type="folder">4</container> 
+				<unittitle>U. S. Forest Service Permits: Correspondence, receipts,
+				  etc. 
+				  <unitdate type="inclusive"
+				  normal="1903/1911">1903-1911</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">11</container> <container
+				type="folder">5</container> 
+				<unittitle>Arizona Land: Legal papers. </unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">11</container> <container
+				type="folder">6</container> 
+				<unittitle>Miscellaneous land papers. </unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did> <container type="box">11</container> <container
+				type="folder">7</container> 
+				<unittitle>Miscellaneous Mining Papers: Total Wreck Mine, etc. 
+				  <unitdate type="inclusive" normal="">1879-1881,
+					 1908</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series IV: Crittenden Cattle Co. Records, 
+			 <unitdate type="inclusive"
+			 normal="1881/1938">1881-1938</unitdate></unittitle> 
+		</did> 
+		<scopecontent> 
+		  <p>Formerly Crittenden Land and Cattle Co.</p> 
+		</scopecontent> 
+		<c02 level="file"> 
+		  <did> <container type="box">12</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Crittenden Cattle Co.: Legal Papers including deeds,
+				leases of school lands. 
+				<unitdate type="inclusive"
+				normal="1881/1909">1881-1909</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">12</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Crittenden Cattle Co.: Legal Papers. 
+				<unitdate type="inclusive"
+				normal="1896/1923">1896-1923</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">12</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Crittenden Cattle Co.: Financial Records. 
+				<unitdate type="inclusive"
+				normal="1901/1915">1901-1915</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">12</container> <container
+			 type="folder">4</container> 
+			 <unittitle>Crittenden Cattle Co.: Correspondence. 
+				<unitdate type="inclusive"
+				normal="1901/1916">1901-1916</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">12</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Crittenden Cattle Co.: Miscellaneous Papers including
+				Articles of Incorporation, Abstract of Title to lands, stock certificates, etc.
+				</unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">12</container> 
+			 <unittitle>Canceled Bonds. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">12</container> <container
+			 type="volume">1</container> 
+			 <unittitle>Minutes of Board of Directors Meetings. 
+				<unitdate type="inclusive"
+				normal="1886/1887">1886-1887</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">12</container> <container
+			 type="volume">2</container> 
+			 <unittitle>Minutes of Board of Directors Meetings. 
+				<unitdate type="inclusive"
+				normal="1887/1901">1887-1901</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">12</container> <container
+			 type="volume">3</container> 
+			 <unittitle>Minutes of Board of Directors Meetings. 
+				<unitdate type="inclusive"
+				normal="1903/1938">1903-1938</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series V: Chiricahua Cattle Co. Records, 
+			 <unitdate type="inclusive"
+			 normal="1885/1911">1885-1911</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="volume">13</container> 
+			 <unittitle>Chiricahua Cattle Co.: Minutes of meetings of Directors
+				and Shareholders. 
+				<unitdate type="inclusive"
+				normal="1885/1909">1885-1909</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="volume">14</container> 
+			 <unittitle>Chiricahua Cattle Co.: Ledger. 
+				<unitdate type="inclusive"
+				normal="1890/1907">1890-1907</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="volume">15</container> 
+			 <unittitle>Chiricahua Cattle Co.: Ledger. 
+				<unitdate type="inclusive"
+				normal="1907/1909">1907-1909</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="volume">16</container> 
+			 <unittitle>Chiricahua Cattle Co.: Ledger. 
+				<unitdate type="inclusive"
+				normal="">1907-1908?</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="volume">17</container> 
+			 <unittitle>Chiricahua Cattle Co.: Journal-Day Book. 
+				<unitdate type="inclusive"
+				normal="1889/1909">1889-1909</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="volume">18</container> 
+			 <unittitle>Chiricahua Cattle Co.: Cash Book. 
+				<unitdate type="inclusive"
+				normal="1897/1902">1897-1902</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="volume">19</container> 
+			 <unittitle>Chiricahua Cattle Co.: Cash Book. 
+				<unitdate type="inclusive"
+				normal="1910/1911">1910-1911</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="volume">20</container> 
+			 <unittitle>Chiricahua Cattle Co.: Stock Transfer Book. 
+				<unitdate type="inclusive"
+				normal="1885/1909">1885-1909</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="volume">21</container> 
+			 <unittitle>Chiricahua Cattle Co.: Certificates of Stock. 
+				<unitdate type="inclusive"
+				normal="1885/1909">1885-1909</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="volume">22</container> 
+			 <unittitle>Chiricahua Cattle Co.: Certificates of Stock. 
+				<unitdate type="inclusive"
+				normal="1885/1908">1885-1908</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="volume">23</container> 
+			 <unittitle>Chiricahua Cattle Co.: Livestock Book. 
+				<unitdate type="inclusive"
+				normal="1895/1906">1895-1906</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series VI: Boice-Gates-Johnson Cattle Co. Records, 
+			 <unitdate type="inclusive"
+			 normal="1917/1928">1917-1928</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="volume">24</container> 
+			 <unittitle>Boice-Gates-Johnson Cattle Co.: Stock Ledger and Journal. 
+				<unitdate type="inclusive"
+				normal="1917/1920">1917-1920</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="volume">25</container> 
+			 <unittitle>Boice-Gates-Johnson Cattle Co.: Certificates of Stock. 
+				<unitdate type="inclusive"
+				normal="1917/1919">1917-1919</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">26</container> 
+			 <unittitle>Boice-Gates-Johnson Cattle Co.: Financial Accounts. 
+				<unitdate type="inclusive"
+				normal="1917/1928">1917-1928</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series VII: Doyle Cattle Co. Records, 
+			 <unitdate type="inclusive"
+			 normal="1926/1929">1926-1929</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">27</container> 
+			 <unittitle>Doyle Cattle Co.: Ledger. 
+				<unitdate type="inclusive"
+				normal="1926/1929">1926-1929</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">27</container> 
+			 <unittitle>Doyle Cattle Co.: Journal (Onyx Ranch, California). 
+				<unitdate type="inclusive"
+				normal="1926/1929">1926-1929</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">27</container> 
+			 <unittitle>Doyle Cattle Co.: Financial Records (Onyx Ranch,
+				California). </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">27</container> 
+			 <unittitle>Doyle Cattle Co.: Cash Book (Onyx Ranch, California). 
+				<unitdate type="inclusive"
+				normal="1926/1929">1926-1929</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">27</container> 
+			 <unittitle>Doyle Cattle Co.: Miscellaneous financial papers.
+				</unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series VIII: Chiricahua Ranches Co. Records, 
+			 <unitdate type="inclusive"
+			 normal="1927/1944">1927-1944</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="volume">28</container> 
+			 <unittitle>Chiricahua Ranches Co.: Journal. 
+				<unitdate type="inclusive"
+				normal="1927/1929">1927-1929</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="volume">29</container> 
+			 <unittitle>Chiricahua Ranches Co.: Minutes of Board of Directors
+				Meetings. 
+				<unitdate type="inclusive"
+				normal="1927/1929">1927-1929</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="volume">30</container> 
+			 <unittitle>Chiricahua Ranches Co.: Certificates of Stock. 
+				<unitdate type="inclusive"
+				normal="1933/1934">1933-1934</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+  </dsc> 
+</archdesc></ead>

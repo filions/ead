@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?filetitle Davidson, Miriam Papers?>
+<ead relatedencoding="MARC21">
+<eadheader relatedencoding="marc" langencoding="iso639-2b"
+ scriptencoding="iso15924" repositoryencoding="iso15511"
+ countryencoding="iso3166-1" dateencoding="iso8601" audience="internal" id="a0">
+  <eadid countrycode="US" mainagencycode="AzU"
+	publicid="-//University of Arizona Library Special 
+ Collections//text(US::AzU::Miriam Davidson Papers) //en">PUBLIC "-//University
+	 of Arizona Library Special Collections//text(US::AzU::Miriam Davidson Papers)
+	 //en" "UAMS433.xml"</eadid>
+  <filedesc>
+	 <titlestmt>
+		<titleproper>Miriam Davidson Papers,
+		  <date>1979-1989</date></titleproper>
+		<author>Inventory prepared by Natalia Fernandez</author>
+	 </titlestmt>
+	 <publicationstmt>
+		<publisher>University of Arizona Libraries, Special Collections</publisher>
+		<address>
+		  <addressline>PO Box 210055</addressline>
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address>
+		<date>&#x00A9;2009</date>
+		<p>Arizona Board of Regents. All Rights Reserved.</p>
+	 </publicationstmt>
+  </filedesc>
+  <profiledesc>
+	 <creation>Inventory encoded by Natalia Fernandez.
+		<date>February 2009</date></creation>
+	 <langusage>Inventory is in<language> English.</language></langusage>
+  </profiledesc>
+  <revisiondesc>
+	 <change>
+		<date>November 20, 2009</date>
+		<item>EAD v1.0 finding aid converted to EAD 2002 using UC Berkeley's
+		  eadv1to2002.pl perl script.</item>
+	 </change>
+  </revisiondesc>
+</eadheader>
+<frontmatter>
+  <titlepage>
+	 <titleproper>Miriam Davidson Papers,
+		<date>1979-1989</date></titleproper>
+	 <num>Collection Number: MS 433</num>
+	 <publisher>University of Arizona Libraries, Special Collections</publisher>
+	 <list>
+		<defitem>
+		  <label>Processed by:</label>
+		  <item>Natalia Fernandez</item>
+		</defitem>
+		<defitem>
+		  <label>Date completed:</label>
+		  <item>
+			 <date>February 2009</date></item>
+		</defitem>
+		<defitem>
+		  <label>Encoded by:</label>
+		  <item>Natalia Fernandez</item>
+		</defitem>
+	 </list>
+	 <p>
+		<date>&#x00A9;2009</date> Arizona Board of Regents. All rights
+		reserved.</p>
+  </titlepage>
+</frontmatter>
+<archdesc level="collection" type="inventory">
+  <did id="a1">
+	 <head>Collection Summary</head>
+	 <unittitle encodinganalog="245" label="Collection Name:">Miriam Davidson
+		Papers,
+		<unitdate label="Dates:"
+		type="inclusive">1979-1989</unitdate></unittitle>
+	 <unitid encodinganalog="099" label="Collection Number:" countrycode="us">MS
+		433</unitid>
+	 <origination label="Creator:">
+		<persname>Miriam Davidson</persname></origination>
+	 <abstract label="Abstract:">Papers, 1979-1989. This collection contains
+		Miriam Davidson's manuscripts and research files for her 1988 book,<emph render="italic">Convictions
+		of the Heart</emph> regarding the 1980's Sanctuary Movement and Trial.
+		Materials include several drafts of the book and Davidson's research materials,
+		the bulk of which include: news clippings, Davidson's trial notes, Sanctuary
+		Movement materials, and cassette tape recordings of Davidson's interviews with
+		various members of the Movement and Trial. The majority of the material is in
+		English, some is in Spanish.</abstract>
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent>5
+		linear feet</extent></physdesc>
+	 <repository label="Repository:">
+		<corpname>University of Arizona Libraries, Special Collections</corpname>
+		<address>
+		  <addressline>University of Arizona</addressline>
+		  <addressline>PO Box 210055</addressline>
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address></repository><langmaterial
+	 label="Languages Represented"><language
+	 langcode="eng">English</language></langmaterial>
+  </did>
+  <accessrestrict>
+	 <head>Restrictions</head>
+	 <p>There are no restrictions for this collection.</p>
+  </accessrestrict>
+  <prefercite>
+	 <head>Credit Line</head>
+	 <p>Miriam Davidson papers(MS 433). Special Collections, University of Arizona Libraries. </p>
+  </prefercite>
+  <userestrict>
+	 <head>Copyright</head>
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p>
+  </userestrict>
+  <bioghist encodinganalog="545" id="a2">
+	 <head>Biographical and Historical Note</head>
+	 <p>Miriam Davidson (b.1960) grew up in the Boston, Massachusetts, area and
+		became a Quaker when she was eleven years old. She graduated from Yale
+		University in 1982 with a B.A. in English and later earned her master's degree
+		in international journalism from the University of Southern California.
+		Davidson has worked as a reporter, editor, journalism professor, freelance
+		writer, and author. In 1982 she moved to Texas and worked as a reporter and
+		Lifestyle editor for the <emph render="italic">Laredo News</emph> and later
+		served as managing editor of <emph render="italic">Third Coast</emph> magazine.
+		Davidson was a University of Arizona, Tucson, AZ, adjunct professor of
+		journalism, 1988-89. From 1993-1996, she worked for the <emph
+		render="italic">Arizona Republic</emph> in Phoenix, Arizona, as a correspondent
+		covering Tucson and Nogales. As a freelance journalist her work has appeared in
+		the <emph render="italic">New York Times</emph>, the <emph
+		render="italic">Christian Science Monitor</emph>, <emph render="italic">The
+		Nation</emph>, the <emph render="italic">NACLA Report on the Americas</emph>,
+		and <emph render="italic">The Progressive</emph>. Davidson's three books
+		include <emph render="italic">Convictions of the Heart: Jim Corbett and the
+		Sanctuary Movement</emph> (1988), <emph render="italic">Changing Childhood
+		Prejudice: the Caring Work of the Schools </emph>written with Florence H.
+		Davidson (1994) and <emph render="italic">Lives on the Line: Dispatches from
+		the U.S.-Mexico Border </emph> with photographs by Jeffry Scott (2000). </p>
+	 <p>The bulk of Davidson's work has been on the U.S.-Mexico border. In 1985,
+		she moved from Texas to Tucson, Arizona, to cover the Sanctuary Movement and
+		subsequent trial. She covered the trial for the <emph render="italic">Christian
+		Science Monitor</emph> and the Religious News Service; her book,
+		<emph render="italic">Convictions of the Heart </emph>was published by the
+		University of Arizona press in 1988. The Sanctuary Movement originated in
+		Tucson, Arizona, during the early 1980s as a means of aid to Central American
+		refugees, especially people fleeing from the political violence in El Salvador
+		and Guatemala. Jim Corbett (1933-2001) along with the Tucson Ecumenical
+		Council, Rev. John Fife (b. 1940), and his congregation declared sanctuary for
+		the refugees. The grass roots movement soon became a national movement with
+		churches all over the United States declaring sanctuary. In 1985, sixteen
+		activists were indicted, eleven - including Corbett and Fife - went to trial
+		and eight were convicted of alien smuggling and other charges. Although the
+		trial ended in 1986, the movement itself has continued and evolved over the
+		past twenty-five years in its original mission to aid refugees. </p>
+  </bioghist>
+  <arrangement encodinganalog="351$a" id="a4">
+	 <head>Organization</head>
+	 <p>This collection is organized into 4 series</p>
+	 <list>
+		<item>Series I: Writings,
+		  <unitdate>1987</unitdate></item>
+		<item>Series II: Research Files,
+		  <unitdate>1979-1989</unitdate></item>
+		<item>subseries 1: Printed Materials,
+		  <unitdate>1980-1989</unitdate></item>
+		<item>subseries 2: Subject Files,
+		  <unitdate>1979-1987</unitdate></item>
+		<item>Series III: Audio Materials,
+		  <unitdate>1982-1987</unitdate></item>
+		<item>Series IV: Oversize Materials,
+		  <unitdate>1984-1986</unitdate></item>
+	 </list>
+  </arrangement>
+  <scopecontent encodinganalog="520" id="a3">
+	 <head>Scope and Content Note</head>
+	 <p>Papers, 1979-1989. This collection contains Miriam Davidson's
+		manuscripts and research files for her 1988 book, <emph
+		render="italic">Convictions of the Heart: Jim Corbett and the Sanctuary
+		Movement</emph> regarding the early 1980's Sanctuary Movement, which aided
+		Central American political refugees, and the 1985-1986 Trial held in Tucson,
+		Arizona. Materials include several drafts of the book and Davidson's research
+		materials, the bulk of which include: news clippings, Davidson's trial notes,
+		Sanctuary Movement materials, and cassette tape recordings of Davidson's
+		interviews with various members of the Movement and Trial; the bulk of the
+		interviews are with Jim Corbett. The majority of the material is in English,
+		some is in Spanish.</p>
+  </scopecontent>
+  <relatedmaterial>
+	 <relatedmaterial encodinganalog="544$1">
+		<head>Related Material</head>
+		<p>Papers of the Sanctuary Movement Trial, 1982-1988 - MS 362</p>
+	 </relatedmaterial>
+  </relatedmaterial>
+  <controlaccess id="a12">
+	 <head>Access Terms</head>
+	 <list>
+		<item>
+		  <persname>Davidson, Miriam</persname> </item>
+	 </list>
+	 <list>
+		<item>
+		  <persname>Corbett, Jim, 1933-2001</persname> </item>
+	 </list>
+	 <list>
+		<item>
+		  <persname>Fife, John M. (John Macmillan), 1940-</persname> </item>
+	 </list>
+	 <list>
+		<item>
+		  <subject>Sanctuary movement--Arizona--Tucson</subject> </item>
+	 </list>
+	 <list>
+		<item>
+		  <subject>Sanctuary movement--United States</subject> </item>
+	 </list>
+	 <list>
+		<item>
+		  <subject>Church work with refugees--United States</subject> </item>
+	 </list>
+	 <list>
+		<item>
+		  <subject>Political refugees--Central America</subject> </item>
+	 </list>
+  </controlaccess>
+  <dsc type="combined" id="a23">
+	 <head>Container List</head>
+	 <c01 level="series" id="ser1">
+		<did>
+		  <unittitle>Writings,
+			 <unitdate type="inclusive">1987</unitdate></unittitle>
+		</did>
+		<scopecontent>
+		  <list>
+			 <item>Arrangement: Chronological. This series contains four drafts of
+				Davidson's book <emph render="italic">Convictions of the Heart</emph> as well
+				as her early book notes. </item>
+		  </list>
+		</scopecontent>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">1-2</container>
+			 <unittitle> Early Book Notes - <emph render="italic">Convictions of
+				the Heart</emph>.
+				<unitdate>undated</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">3-4</container>
+			 <unittitle> Manuscripts - <emph render="italic">Convictions of the
+				Heart</emph> Draft 1.
+				<unitdate>undated</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">5-6</container>
+			 <unittitle> Manuscripts - <emph render="italic">Convictions of the
+				Heart</emph> Draft 2.
+				<unitdate>undated</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">7</container>
+			 <unittitle> Manuscripts - <emph render="italic">Convictions of the
+				Heart</emph> Draft 3.
+				<unitdate>undated</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">8-9</container>
+			 <unittitle> Manuscripts - <emph render="italic">Convictions of the
+				Heart</emph> Draft 4.
+				<unitdate>1987</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series" id="ser2">
+		<did>
+		  <unittitle>Research Files,
+			 <unitdate type="inclusive">1979-1989</unitdate></unittitle>
+		</did>
+		<scopecontent>
+		  <list>
+			 <item> <emph render="bold">Subseries 1: Printed Materials,
+				1980-1989</emph> Arrangement: Alphabetical. This subseries contains printed
+				materials such as essays/statements, government documents, magazine and news
+				clippings, as well as newsletters and pamphlets pertaining to the Sanctuary
+				Movement and Trial as well as materials relating to Central America and
+				immigration issues in general. More printed materials, specifically magazines
+				and newspapers, can be found in Series IV: Oversize Materials. </item>
+			 <item><emph render="bold">Subseries 2: Subject Files,
+				1979-1987</emph> Arrangement: Alphabetical. This subseries contains materials
+				grouped by topic based on Davidson's original organization. Materials include
+				Davidson's notes, news clippings, articles, newsletters, some legal materials,
+				and information packets regarding refugee stories. The bulk of the material is
+				Davison's Trial Notes; she was in court for the duration of the Sanctuary
+				Trial. In most cases, original folder titles have been retained. More subject
+				files materials, specifically regarding John Fife, can be found in Series IV:
+				Oversize Materials. </item>
+		  </list>
+		</scopecontent>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Printed Materials,
+				<unitdate type="inclusive">1980-1989</unitdate></unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">10</container>
+				<unittitle> Essays/Statements.
+				  <unitdate>undated</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">11</container>
+				<unittitle> Essays/Statements - "The Covenant as Sanctuary" by Jim
+				  Corbett.
+				  <unitdate>undated</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">12</container>
+				<unittitle> Essays/Statements - "Dear Friends."
+				  <unitdate>1981-1982</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">13</container>
+				<unittitle> Essays/Statements - Defendants' Statement Following
+				  Their Arraignment.
+				  <unitdate>1985</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">14</container>
+				<unittitle> Essays/Statements - "Education Strategy" by Tim Nonn to
+				  the TEC Task Force for Central America.
+				  <unitdate>1985</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">15</container>
+				<unittitle> Essays/Statements - "Military Operations: What is Legal
+				  and What is Illegal" by Karen Parker.
+				  <unitdate>1984</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">16</container>
+				<unittitle> Essays/Statements - "Obligation of United States to
+				  Political Refugees" by Gary MacEoin.
+				  <unitdate>undated</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">17</container>
+				<unittitle> Essays/Statements - "Pilgrim's update - - - October,
+				  '83."
+				  <unitdate>1983</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">18</container>
+				<unittitle> Essays/Statements - "The Politics of Sanctuary" by
+				  Miriam Davidson.
+				  <unitdate>1985</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">19</container>
+				<unittitle> Essays/Statements - "Some Proposals for Integrating
+				  Smuggling, Refuge, Relay, Sanctuary, and Bailbond Networks, January-February,
+				  '84 (for consideration by the Tucson refugee support groups)."
+				  <unitdate>1984</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">20</container>
+				<unittitle> Essays/Statements - Talk in Austin, Oct. 28, 1982.
+				  <unitdate>1982</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">21</container>
+				<unittitle> Essays/Statements - "Unindicted co-Conspirators: A
+				  Position Paper."
+				  <unitdate>1985</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">22</container>
+				<unittitle> Essays/Statements - "A View from the Border."
+				  <unitdate>1984</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">23</container>
+				<unittitle> Government Materials - Bill - Central American Studies
+				  and Temporary Relief Act.
+				  <unitdate>1987</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">24</container>
+				<unittitle> Government Materials - Briefing Reports - Asylum and
+				  Illegal Aliens.
+				  <unitdate>1987</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">25</container>
+				<unittitle> Government Materials - Congressional Records - House.
+				  <unitdate>1987-1988</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">26</container>
+				<unittitle> Government Materials - Correspondence.
+				  <unitdate>undated, 1987-1988</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">27</container>
+				<unittitle> Government Materials - Miscellaneous.
+				  <unitdate>undated, 1980-1989 </unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">28</container>
+				<unittitle> Magazines.
+				  <unitdate>1984-1987 </unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">29</container>
+				<unittitle> Magazine Articles and Clippings.
+				  <unitdate> undated, 1984-1988</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">30</container>
+				<unittitle> News Clippings.
+				  <unitdate> undated, 1983-1985</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">31</container>
+				<unittitle> News Cippings.
+				  <unitdate>1986-1989</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">32</container>
+				<unittitle> Newsletters.
+				  <unitdate>undated, 1984-1988</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">33</container>
+				<unittitle> Pamphlets.
+				  <unitdate>undated, 1984-1986 </unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">34</container>
+				<unittitle> Seasonal Missalette - Lent.
+				  <unitdate>1986</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Subject Files,
+				<unitdate type="inclusive">1979-1987</unitdate></unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">35</container>
+				<unittitle> Arrest at Naco, Ariz.
+				  <unitdate>1986</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">36</container>
+				<unittitle> Corbett, Jim - Desert - Goats.
+				  <unitdate>undated, 1979</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">37</container>
+				<unittitle> Corbett, Jim - International Law and Refugees.
+				  <unitdate> undated, 1981-1987</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">38</container>
+				<unittitle> Fife, John - Southside.
+				  <unitdate> undated, 1985-1986</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">39</container>
+				<unittitle> Government Informant - Frank Varelli - Dallas FBI.
+				  <unitdate>1983-1987</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">40</container>
+				<unittitle> Miscellaneous Materials and Notes.
+				  <unitdate>undated</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">41</container>
+				<unittitle> Nonn, Tim - TEC - Sanc.
+				  <unitdate>undated, 1982-1984</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">42</container>
+				<unittitle> Opposition to Sanc. - Carroll, Reno, and the Gov't.
+				  <unitdate>undated, 1985-1986</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">2</container><container
+				type="folder">1</container>
+				<unittitle> Refugee Stories.
+				  <unitdate>undated, 1982-1985</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">2</container><container
+				type="folder">2</container>
+				<unittitle> Salvadorans - Organ Pipe National Monument.
+				  <unitdate> undated, 1984-1985 </unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">2</container><container
+				type="folder">3</container>
+				<unittitle> Sanctuary Related Burglaries.
+				  <unitdate> undated, 1985-1986 </unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">2</container><container
+				type="folder">4</container>
+				<unittitle> Trial - Defendants.
+				  <unitdate> undated </unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">2</container><container
+				type="folder">5</container>
+				<unittitle> Trial - Defense and Reno - openings and closings.
+				  <unitdate> undated, 1985-1986 </unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">2</container><container
+				type="folder">6</container>
+				<unittitle> Trial - Government Informant - Jesus Cruz.
+				  <unitdate> undated, 1985-1986</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">2</container><container
+				type="folder">7</container>
+				<unittitle> Trial - Government Informant - John Nixon.
+				  <unitdate> 1986</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">2</container><container
+				type="folder">8</container>
+				<unittitle> Trial - House Arrest.
+				  <unitdate>undated, 1986</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">2</container><container
+				type="folder">9</container>
+				<unittitle> Trial - Jury.
+				  <unitdate> undated, 1985-1986</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">2</container><container
+				type="folder">10</container>
+				<unittitle> Trial - Pre-Trial.
+				  <unitdate> undated, 1985-1986 </unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">2</container><container
+				type="folder">11</container>
+				<unittitle> Trial - Trial Notes.
+				  <unitdate> undated, 1985</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">2</container><container
+				type="folder">12</container>
+				<unittitle> Trial - Trial Notes.
+				  <unitdate>1985-1986</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">2</container><container
+				type="folder">13</container>
+				<unittitle> Trial - Trial Notes.
+				  <unitdate> 1986</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">2</container><container
+				type="folder">14</container>
+				<unittitle> Trial - Refugee Testimony - Jose Rene Argueta.
+				  <unitdate> 1986</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">2</container><container
+				type="folder">15</container>
+				<unittitle> Trial - Refugee Testimony - Juana.
+				  <unitdate> 1985-1986</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">2</container><container
+				type="folder">16</container>
+				<unittitle> Trial - Refugee Testimony - Rodriguez and Ana B.
+				  <unitdate> 1986</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">2</container><container
+				type="folder">17</container>
+				<unittitle> Trial - Verdict.
+				  <unitdate> undated, 1986</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+	 </c01>
+	 <c01 level="series" id="ser3">
+		<did>
+		  <unittitle>Audio Materials,
+			 <unitdate type="inclusive">1982-1987</unitdate></unittitle>
+		</did>
+		<scopecontent>
+			 <p>Arrangement: Alphabetical. This series contains the taped
+				interviews conducted by Davidson of various members involved in the Sanctuary
+				Movement and Trial. The majority of the tapes are Davidson's interviews with
+				Jim Corbett. Two tapes include a recording of a service that took place on
+				March 24, 1982 in Southside United Presbyterian Church.</p>
+			 <p>Although most of the tapes are undated, the interviews took place
+				at some point between 1985-1987. The alphabetical arrangement is based on the
+				interviewee's last name; although two different people may be on the same tape,
+				the arrangement is based on the interview recorded on Tape Side A. Note that
+				the <emph render="italic">titles</emph> listed are based on the overall subject
+				matter discussed during the interview and do not necessarily reflect the tapes'
+				original titles. Also note, the job positions listed were those at the time of
+				the interview or positions of significance during the early 1980's Sanctuary
+				Movement. </p>
+		</scopecontent>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="item">1</container>
+			 <unittitle> Tape 1 Sides A and B Jim Corbett <emph
+				render="italic">Life Pre-Sanctuary Movement</emph>.
+				<unitdate>1986</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="item">2</container>
+			 <unittitle>Tape 2 Sides A and B Jim Corbett <emph
+				render="italic">Life Pre-Sanctuary Movement</emph> &amp; <emph
+				render="italic">May 4, 1981 Events</emph>.
+				<unitdate>1986</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="item">3</container>
+			 <unittitle>Tape 3 Sides A and B Jim Corbett <emph
+				render="italic">Life Pre-Sanctuary Movement </emph> &amp; <emph
+				render="italic">Sanctuary Movement Activities and Services.</emph>
+				<unitdate>undated</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="item">4</container>
+			 <unittitle>Tape 4 Side A Jim Corbett <emph render="italic">El Centro
+				Detention Center - Regarding the May 30, 1981 Events</emph> &amp;<emph
+				render="italic">Sanctuary Movement Activities and Services</emph>Interview
+				date: May 1986. Side B Lupe Castillo, paralegal for the Manzo Area Council
+				<emph render="italic">Manzo Area Council and Sanctuary Movement Activities and
+				Services </emph>Interview date: June/July 1986.
+				<unitdate>1986</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="item">5</container>
+			 <unittitle>Tape 5 Sides A and B Jim Corbett <emph
+				render="italic">Visits to Central America</emph> Interview date: August 1986.
+				<unitdate>1986</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="item">6</container>
+			 <unittitle>Tape 6 Sides A and B Jim Corbett Side A<emph
+				render="italic">Sanctuary Movement Activities and Services </emph>Side B<emph
+				render="italic">Sanctuary Movement Activities and Services</emph> &amp;<emph
+				render="italic">Thoughts on the Trial</emph> Interview date: Summer 1986.
+				<unitdate>1986</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="item">7</container>
+			 <unittitle>Tape 7 Sides A and B Jim Corbett Side A<emph
+				render="italic">Sanctuary Movement - various topics </emph>Side B<emph
+				render="italic">Thoughts on the Trial</emph>.
+				<unitdate>undated</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="item">8</container>
+			 <unittitle>Tape 8 Side A Jim Corbett <emph render="italic">Thoughts
+				on US-Central America</emph> Side B Blank.
+				<unitdate>1987</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="item">9</container>
+			 <unittitle>Tape 9 Sides A and B Jim Dudley, Quaker - friend of
+				Corbett and Shutts &amp; high-school math teacher from Albuquerque<emph
+				render="italic">Regarding the May 4,1981 Events, Quaker Organizations, &amp;
+				Immigration Experiences </emph> Interview date: August 1, 1985 Last Third of
+				Side B Jim Corbett <emph render="italic">Topics: Jesus Cruz and Judge Carroll
+				</emph>Interview date: undated.
+				<unitdate>undated, 1985</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="item">10</container>
+			 <unittitle>Tape 10 Sides A and B John Fife, pastor of Southside
+				United Presbyterian Church <emph render="italic">Life Pre-Sanctuary Movement
+				&amp; Sanctuary Movement Activities and Services</emph>.
+				<unitdate>undated</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="item">11</container>
+			 <unittitle>Tape 11 Sides A and B John Fife, pastor of Southside
+				United Presbyterian Church <emph render="italic">Life Pre-Sanctuary Movement,
+				Sanctuary Movement Activities and Services, Thoughts on US-Central America
+				Policy &amp; Thoughts on the Trial </emph>Interview date: February 3, 1987
+				Second Half of Side B Jim Corbett <emph render="italic">Sanctuary Movement -
+				various topics </emph>Interview date: undated.
+				<unitdate>undated, 1987</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="item">12</container>
+			 <unittitle>Tape 12 Sides A and B Marianne Fife, John Fife's wife and
+				sanctuary worker <emph render="italic">Life Pre-Sanctuary Movement, Sanctuary
+				Movement Activities and Services, &amp; Thoughts on the Trial</emph>.
+				<unitdate>undated</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="item">13</container>
+			 <unittitle>Tape 13 Sides A and B Robert Hirsh, defense attorney for
+				John Fife <emph render="italic">Thoughts on the Trial </emph>Interview Date:
+				1987.
+				<unitdate>1987</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="item">14</container>
+			 <unittitle>Tape 14 Sides A and B Ken Kennon, pastor of Broadway
+				Christian Church and Tucson Ecumenical Council (TEC) Task Force on Central
+				America member <emph render="italic">TEC and Sanctuary Movement Activities and
+				Services </emph> Interview date: June/July 1986 Second Half of Side B<emph
+				render="italic">March 24, 1982 Southside Church Service </emph>Last Third of
+				Tape is Blank.
+				<unitdate>1982,1986</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="item">15</container>
+			 <unittitle>Tape 15 Side A Barry Lazarus, Tucson jeweler - friend of
+				Corbett <emph render="italic">Regarding the "Naco Five" Incident on February 2,
+				1986 in Naco, Az </emph>Interview date: November 1986 Side B Jim Corbett<emph
+				render="italic">Sanctuary Movement - various topics </emph>Interview date:
+				undated.
+				<unitdate>undated,1986</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="item">16</container>
+			 <unittitle>Tape 16 Side A Tim Nonn, seminary student at St. Mark's
+				and TEC Task Force on Central America project director 1981-1982<emph
+				render="italic">TEC and Sanctuary Movement Activities and
+				Services</emph>Interview date: August 26, 1985 Last Third of the Tape is Blank
+				Side B Gary MacEoin, journalist, lawyer, and author <emph
+				render="italic">Sanctuary Movement Activities and Services</emph> Interview
+				date: undated.
+				<unitdate>undated,1985</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="item">17</container>
+			 <unittitle>Tape 17 Side A <emph render="italic">March 24, 1982
+				Southside Church Service</emph> Side B Dave Sholin, chief pastor at St.
+				Mark&#x2019;s Presbyterian Church and TEC member <emph render="italic">TEC and
+				Sanctuary Movement Activities and Services</emph> Interview date: undated.
+				<unitdate>undated,1982</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="item">18</container>
+			 <unittitle>Tape 18 Sides A and B Frank Shutts, member of the
+				Claremont, California, Friends Meeting <emph render="italic">Regarding the May
+				4, 1981 Events </emph> Interview Date: July/August 1985 Side B: Bill Johnston,
+				Director of the Tucson INS <emph render="italic">Regarding the June 26, 1981
+				Events, INS Policy, &amp; Thoughts on the Sanctuary Movement </emph>Interview
+				Date: June 1986.
+				<unitdate>1985-1986</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="item">19</container>
+			 <unittitle>Tape 19 Sides A and B Mike Smith, assistant pastor at St.
+				Mark's and president of the TEC in 1981 and appointed chairman of the TEC Task
+				Force on CA <emph render="italic">TEC and Sanctuary Movement Activities and
+				Services</emph> Note: Side B is Mostly Blank.
+				<unitdate>undated</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series" id="ser4">
+		<did>
+		  <unittitle>Oversize Materials,
+			 <unitdate type="inclusive">1984-1987</unitdate></unittitle>
+		</did>
+		<scopecontent>
+		  <list>
+			 <item>Arrangement: Alphabetical. This series contains materials
+				pertaining to Davidson's Research Files; contents include oversize magazines
+				and newspapers. </item>
+		  </list>
+		</scopecontent>
+		<c02 level="file">
+		  <did><container type="box">4</container><container
+			 type="folder">1</container>
+			 <unittitle>Research Files; Printed Materials: Magazines.
+				<unitdate>1985-1986</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">4</container><container
+			 type="folder">2</container>
+			 <unittitle>Research Files; Printed Materials: Newspapers.
+				<unitdate>1984-1986</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">4</container><container
+			 type="folder">3</container>
+			 <unittitle>Research Files; Subject Files: Fife, John - Southside.
+				<unitdate>1985</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+  </dsc>
+</archdesc></ead>

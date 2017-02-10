@@ -1,0 +1,162 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+ audience="internal" id="a0"> 
+	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library SpecialCollections//text(US::AzU::Seleciónes del Archivo de Hidalgo del Parral)//en""UAMS215.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper>Seleciónes del Archivo de Hidalgo del Parral,
+	 		<date normal="1634/1776" era="ce" calendar="gregorian">1634-1776</date></titleproper> 
+	 	<titleproper altrender="nodisplay" type="filing">Seleciónes del Archivo de Hidalgo del Parral</titleproper>
+	 	<author>Processed by Staff.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://www.library.arizona.edu/speccoll/</addressline>
+		</address> 
+		<date normal= "2012" era= "ce" calendar = "gregorian">; 2012</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Deborah Weller. 
+		<date era="ce" encodinganalog="date" normal="20120502">May 2,2012</date></creation> 
+	 <langusage>Finding aid is in<language> English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+  	<titleproper>Seleciónes del Archivo de Hidalgo del Parral,<date era= "ce" calendar= "gregorian">1634-1776</date></titleproper> 
+	 <num>Collection Number: MS 215</num> 
+  	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Staff</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>1999</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Deborah Weller</item> 
+		</defitem> 
+	 </list> 
+	 <p> 2012. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name:">Seleciónes del Archivo de Hidalgo del Parral, 
+  		<unitdate type="inclusive" label="Dates:" normal="1634/1776" era="ce" calendar="gregorian">1634-1776</unitdate></unittitle>	 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	 repositorycode="AzU" countrycode="us">MS 215</unitid> 
+	 <origination label="Creator:"> 
+	 	<corpname source="lcnaf" encodinganalog="110" >Hidalgo del Parral (Mexico). Archivo. </corpname></origination> 
+  	<abstract label="Abstract:">Nine bound volumes of Xeroxed copies of selected transcripts from the Archivo de Hidalgo del Parral, 1634-1776</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent>1.0 linear feet</extent></physdesc>	 
+	 <repository label="Repository:"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://www.library.arizona.edu/speccoll</addressline>		  
+		</address></repository> 
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+	 <p>There are no restrictions on this collection</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>Seleciónes del Archivo de Hidalgo del Parral, (MS 215). Special
+  		Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+	<originalsloc><p>Originals are located in Archivo Histórico del Hidalgo Parral, Chihuahua, Mexico.</p></originalsloc>
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Historial Note</head> 
+  	<p> The materials were compiled by Jose G. Rocha and translated  by and typed by Campbell W. Pennington, May 1955. The set was a gift from Paul McLennan Roca.</p> 
+  </bioghist> 
+  <arrangement id="a4" encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+  	<p>This collection is organized into 9 bound volumes.</p>	 
+	 <list> 
+	 	<item>Volumes 1-4:  English translations by Campbell W. Pennington.</item> 
+	 </list> 
+  	<list> 
+  		<item>Volume 5:  Guia, 1632 to 1749, translated by José G. Rocha, and typed by Campbell W.
+  			Pennington.  
+  		</item>
+  	</list> 
+  	<list> 
+  		<item>Volumes 6-9:  Spanish transcriptions by Campbell W. Pennington.   
+  		</item>
+  		</list>
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>Xeroxed copies of typescript transcriptions of documents related to administration, war, civil and criminal cases, mines and land claims in Hidalgo del Parral, Chichuahua,  Mexico. The materials were compiled by Jose G. Rocha and translated  by and typed by Campbell W. Pennington, May 1955.  The set was a gift from Paul McLennan Roca.</p> 
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+			<subject encodinganalog="650" source="lcsh">Mines and mineral resources--New Spain.</subject> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+			<subject encodinganalog="650" source="lcsh">Law--New Spain--History.</subject></item> 
+	 </list>  
+  		<list>
+  			<item>
+  				<subject encodinganalog="650" source="lcsh">Local government--New Spain--History.</subject>
+  				</item>
+  		</list> 
+	 <list> 
+		<item> 
+			<subject encodinganalog="650" source="lcsh">Land titles--Mexico--History.</subject> </item> 
+	 </list> 
+  	<list> 
+  		<item>
+  			<subject encodinganalog="650" source="lcsh">Indians of Mexico--Wars.</subject></item></list> 
+  	<list>
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Indians of Mexico--Missions.</subject> </item> 
+  	</list> 
+  	<list>
+  		<item> 
+  			<geogname encodinganalog="651" role="subject" source="lcsh">Mexico--Church history.</geogname> </item> 
+  	</list> 
+  	<list>
+  		<item> 
+  			<geogname encodinganalog="651" role="subject" source="lcsh">Hidalgo del Parral (Mexico)--History.</geogname> </item> 
+  	</list> 
+  	<list>
+  		<item> 
+  			<geogname encodinganalog="651" role="subject" source="lcsh">Mexico—History--Spanish colony, 1540-1810--Sources.</geogname> </item> 
+  	</list> 
+  </controlaccess> 
+</archdesc>
+</ead>

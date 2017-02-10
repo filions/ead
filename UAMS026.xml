@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+    <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+        audience="internal" id="a0"> 
+        <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library SpecialCollections//text(US::AzU::Records of the Comisionado de Mineria//en""MS026.xml"</eadid> 
+        <filedesc> 
+            <titlestmt> 
+                <titleproper> Records of the Comisionado de Mineria
+                    <date normal="1825/1826" era="ce" calendar="gregorian">1825-1826</date></titleproper> 
+                <author>Processed by Staff.</author> 
+            </titlestmt> 
+            <publicationstmt> 
+                <publisher>University of Arizona Libraries, Special Collections</publisher> 
+                <address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+                <date normal= "2012" era= "ce" calendar = "gregorian">; 2012</date> 
+                <p>Arizona Board of Regents. All Rights Reserved.</p> 
+            </publicationstmt> 
+        </filedesc> 
+        <profiledesc> 
+            <creation>Inventory encoded in Oxygen XML editor by Anne Martinez. 
+                <date era="ce" encodinganalog="date" normal="20120829">August 29, 2012</date></creation> 
+            <langusage>Finding aid is in<language> English.</language></langusage> 
+        </profiledesc> 
+    </eadheader> 
+    <frontmatter> 
+        <titlepage> 
+            <titleproper>Records of the Comisionado de Mineria,<date era= "ce" calendar= "gregorian">1825-1826</date></titleproper> 
+            <num>Collection Number: MS 026</num> 
+            <publisher>University of Arizona Libraries, Special Collections</publisher> 
+            <list> 
+                <defitem> 
+                    <label>Processed by:</label> 
+                    <item>Staff</item> 
+                </defitem> 
+                <defitem> 
+                    <label>Date completed:</label> 
+                    <item> 
+                        <date>June 1994</date></item> 
+                </defitem> 
+                <defitem> 
+                    <label>Encoded by:</label> 
+                    <item>Anne Martinez</item> 
+                </defitem> 
+            </list> 
+            <p>&#x00A9; 20012. Arizona Board of Regents. All rights reserved.</p> 
+        </titlepage> 
+    </frontmatter> 
+    <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+        <did id="a1"> 
+            <head>Collection Summary</head> 
+            <unittitle encodinganalog="245" label="Collection Name:"> Records of the Comisionado de Mineria
+                <unitdate type="inclusive" label="Dates:" normal="1825/1826">1825-1826</unitdate></unittitle>	 
+            <unitid label="Collection Number:" encodinganalog="099"
+                repositorycode="AzU" countrycode="us">MS 026</unitid> 
+            <origination label="Creator:"> 
+                <corpname source="lcnaf" encodinganalog="110">Sonora (Mexico : State). Comisionado de Mineria</corpname></origination> 
+            <abstract label="Abstract:">Handwritten documents pertaining to the titles of five mining claims for the Santa Ana Mine, San Pedro Vigilia Mine, La Frontaina Mine, Foubacachi Mine, and Bronzisa Mine.</abstract> 
+            <physdesc encodinganalog="300$a" label="Physical Description:"><extent>.2 linear feet</extent></physdesc>	
+            <langmaterial>Materials are in <language>Spanish.</language></langmaterial>
+            <repository label="Repository:"> 
+                <corpname>University of Arizona Libraries, Special Collections</corpname> 
+                <address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository> 
+        </did> 
+        <accessrestrict> 
+            <head>Restrictions</head> 
+            <p>None</p> 
+        </accessrestrict> 
+        <userestrict> 
+            <head>Copyright</head> 
+            <p>It is the responsibility of the user to obtain permission to publish
+                from the owner of the copyright (the institution, the creator of the record,
+                the author or his/her transferees, heirs, legates, or literary executors). The
+                user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+                University of Arizona, its officers, employees, and agents from and against all
+                claims made by any person asserting that he or she is an owner of
+                copyright.</p> 
+        </userestrict> 
+        <prefercite> 
+            <head>Credit Line</head> 
+            <p>Records of the Comisionado de Mineria (MS 026). Special
+                Collections, University of Arizona Libraries.</p> 
+        </prefercite> 
+        <bioghist id="a2" encodinganalog="545"> 
+            <head>Historical Note</head> 
+            <p><?xm-replace_text {Text of Biographical Sketch}?></p> 
+        </bioghist> 
+        <arrangement id="a4" encodinganalog="351$a"> 
+            <head>Arrangement</head> 
+            <p>This collection is organized into 3 books.</p>	 
+            <list> 
+                <item>Book I: Instrucciones Formadas Sobre La Mina De Santa Ana En El Mineral De San Juan Bautista De Sonora
+                    <unitdate era="ce" calendar="gregorian">1825-1826</unitdate></item> 
+            </list> 
+            <list> 
+                <item>Book II: Instrucciones Formadas Sobre Las Minas De San Pedro Vigilia La Frontaina Y Foubacachi En Sonora
+                    <unitdate era="ce" calendar="gregorian">1825-1826</unitdate></item> 
+            </list>
+            <list> 
+                <item>Book III: Mina De La Bronzisa En Sonora
+                    <unitdate era="ce" calendar="gregorian">1825-1826</unitdate></item> 
+            </list>
+        </arrangement> 
+        <scopecontent id="a3" encodinganalog="520"> 
+            <head>Scope and Content Note</head> 
+            <p>Handwritten documents pertaining to the titles of five mining claims for the Santa Ana Mine, San Pedro Vigilia Mine, La Frontaina Mine, Foubacachi Mine, and Bronzisa Mine. The mining claims are located in the judicial district of Moctezuma, Sonora, near the towns of Cumpas and Oposura.</p> 
+        </scopecontent> 
+        <relatedmaterial><p>Digitized files from the collection can be found as part of <extref href="http://content.library.arizona.edu/collections/asdo/" role="text/html" actuate="onrequest" show="new">Arizona-Sonora Documents Online</extref>under<extref href="http://content.library.arizona.edu/collections/asdo/mineria/" role="text/html" actuate="onrequest" show="new">Records of the Comisionado de Mineria</extref></p></relatedmaterial>
+        <controlaccess id="a12"> 
+            <head>Access Terms</head> 
+            <list> 
+                <item> 
+                    <subject encodinganalog="650" source="lcsh">Mines and mineral resources -- Mexico -- Sonora (State)</subject> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <geogname encodinganalog="651" source="lcsh" role="subject">Santa Ana Mine (Sonora, Mexico)</geogname> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <geogname encodinganalog="651" source="lcsh" role="subject">San Pedro Vigilia Mine (Sonora, Mexico)</geogname> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <geogname encodinganalog="651" source="lcsh" role="subject">Frontaina Mine (Sonora, Mexico)</geogname> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <geogname encodinganalog="651" source="lcsh" role="subject">Foubacachi Mine (Sonora, Mexico)</geogname> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <geogname encodinganalog="651" source="lcsh" role="subject">Bronzisa Mine (Sonora, Mexico)</geogname> </item> 
+            </list> 
+        </controlaccess> 
+        <dsc type="combined" id="a23"> 
+            <head>Container List</head> 
+            <c01 level="series" id="ser1"> 
+                <did><container type="box">1</container> 
+                    <container type="book">1</container>  
+                    <unittitle> Book I: Instrucciones Formadas Sobre La Mina De Santa Ana En El Mineral De San Juan Bautista De Sonora
+                        <unitdate type="inclusive">1825-1826</unitdate></unittitle> 
+                </did> 
+            </c01> 
+            <c01 level="series" id="ser2"> 
+                <did> <container type="box">1</container> 
+                    <container type="book">2</container> 
+                    <unittitle>Book II: Instrucciones Formadas Sobre Las Minas De San Pedro Vigilia La Frontaina Y Foubacachi En Sonora 
+                        <unitdate type="inclusive">1825-1826</unitdate></unittitle> 
+                </did> 
+            </c01>
+            <c01 level="series" id="ser3"> 
+                <did> 
+                    <container type="box">1</container> 
+                    <container type="book">3</container> 
+                    <unittitle>Book III: Mina De La Bronzisa En Sonora
+                     <unitdate type="inclusive">1825-1826</unitdate></unittitle> 
+                </did> 
+            </c01> 
+        </dsc> 
+    </archdesc></ead>

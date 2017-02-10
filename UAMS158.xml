@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+ audience="internal" id="a0"> 
+	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special
+		Collections//text(US::AzU:: Records of Kennecott Copper Corporation, Braden Unit)//en""UAMS158.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper>Records of Kennecott Copper Corporation, Braden Unit, 
+	 		<date normal="1938/1953" era="ce" calendar="gregorian" certainty="approximate">1938-1953</date></titleproper>
+	 	<titleproper altrender="nodisplay" type="filing">Records of Kennecott Copper Corporation, Braden Unit</titleproper>
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date normal= "2013" era= "ce" calendar = "gregorian">; 2013</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Trent Purdy. 
+  		<date era="ce" encodinganalog="date" normal="20130823">Sept. 24, 2013</date></creation> 
+	 <langusage>Finding aid is in<language> English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+  	<titleproper>Records of Kennecott Copper Corporation, Braden Unit,<date era= "ce" calendar= "gregorian">1938-1953.</date></titleproper> 
+	 <num>Collection Number:MS 158</num> 
+  	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+	 <list>  
+		 <defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Trent Purdy</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 20013. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name:">Records of Kennecott Copper Corporation, Braden Unit,
+		<unitdate type="inclusive" label="Dates:" normal="1938/1953">1938-1953.</unitdate></unittitle>	 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	 repositorycode="AzU" countrycode="us">MS 158</unitid> 
+	 <origination label="Creator:"> 
+	 	<corpname source="lcnaf" encodinganalog="110">Kennecott Copper Corporation. Braden Unit</corpname> </origination> 
+  	<abstract label="Abstract:">This collection is comprised of three bound volumes.  The first volume, dated 1938 - 1952, describes the history, geology, mining methods and mine safety, complete with accompanying maps, photographs, and charts, of the Braden Unit of the Kennecott Copper Corporation.  The second volume, dated 1943 - 1952, contains a set of blueprints of diamond drilling equipment.  The third volume, which is undated, contains construction plans and calculations for various mining operations and buildings. </abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent>0.4 Linear feet</extent></physdesc>	 
+	 <repository label="Repository:"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository>
+  	<langmaterial>Materials in <language encodinganalog="546" langcode="eng"
+  		scriptcode="Latin">English</language></langmaterial>
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+  	<p>There are no restrictions on this collection.</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>Records of Kennecott Copper Corporation, Braden Unit, 1938-1953 (MS 158). Special
+  		Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Historical Note</head> 
+  	<p>Brandon Sewell and William Branden founded the Braden Cooper Company in 1904.  In 1905 the company purchased the El Teniente copper mine in Chile and built roads for carts to transport the ore as well as a concentrating plant.    In 1915, The Kennecott Copper Corporation secured a controlling interest in the Braden Copper Company.  The Chilean government purchased a 51% stake in the mine in 1967, establishing the Sociedad Minera El Teniente.  Under this agreement, a new concentrator was built which vastly expanded the mine’s daily production.  In 1971, El Teniente became a state owned operation under the Chilean nationalization of copper under President Salvador Allende.</p> 
+  </bioghist> 
+  <arrangement id="a4" encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+  	<p>This collection is organized into 3 series.  Arrangement varies by series.</p>	 
+	 <list> 
+	 	<item>Series I: Historical account,
+		  <unitdate>1938-1953</unitdate></item> 
+	 </list> 
+  	<list> 
+  		<item> Series II: Drilling equipment blueprints,
+  			<unitdate>1943-1952</unitdate></item> 
+  	</list>
+  	<list> 
+  		<item>Series III: Construction plans,
+  			<unitdate>undated</unitdate></item> 
+  	</list>
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>Includes an account of the history, geology, mining methods and mine safety, with accompanying maps, photographs, and charts, of the Braden Unit of the Kennecott Copper Corporation. This was prepared for the American Mining Congress in 1952-1953; the charts are dated from 1938 through 1952, and the six photographs are of equipment. Also includes a set of blueprints of diamond drilling equipment, dated 1943 to 1952; and construction plans and calculations for various mining operations and buildings.</p> 
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+			<corpname encodinganalog="610" source="lcnaf" role="subject">Braden Copper Company</corpname> </item> 
+	 </list> 
+  	<list> 
+  		<item> 
+  			<corpname encodinganalog="610" source="lcnaf" role="subject">Kennecott Copper Corporation</corpname> </item> 
+  	</list>
+	 <list> 
+		<item> 
+			<subject encodinganalog="650" source="lcsh">Mining corporations -- Chile -- History -- 20th century</subject> </item> 
+	 </list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Mine safety -- Chile</subject> </item> 
+  	</list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Mines and mineral resources -- Chile -- History -- 20th century</subject> </item> 
+  	</list> 
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did>
+			<unittitle>Series I: Historical account,
+				<unitdate type="inclusive">1938-1953</unitdate></unittitle> 
+		</did>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+		  	<unittitle>Historical account</unittitle>
+		  	<unitdate>1938-1953</unitdate>
+		  </did> 
+		</c02> 
+	 </c01>
+  	<c01 level="series" id="ser2"> 
+  		<did>
+  			<unittitle>Series II: Drilling equipment blueprints,
+  				<unitdate type="inclusive">1943-1952</unitdate></unittitle> 
+  		</did>
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<unittitle>Drilling equipment blueprints</unittitle>
+  				<unitdate>1943-52</unitdate>
+  			</did> 
+  		</c02>
+  	</c01>
+  	<c01 level="series" id="ser3"> 
+  		<did>
+  			<unittitle>Series III: Construction plans,
+  				<unitdate type="inclusive">undated</unitdate></unittitle> 
+  		</did>
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<unittitle>Construction plans,</unittitle>
+  				<unitdate>undated</unitdate>
+  			</did> 
+  		</c02>
+  	</c01> 
+  </dsc> 
+</archdesc></ead>

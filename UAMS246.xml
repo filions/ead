@@ -1,0 +1,239 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+ audience="internal" id="a0"> 
+	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special
+		Collections//text(US::AzU::Nell McCarthy Photograph Collection)//en""MS246.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper> Nell McCarthy Photograph Collection, 
+	 		<date normal="1918/1925" era="ce" calendar="gregorian" certainty="approximate">circa 1918-1925</date>
+	 		<date normal="1917/1918" type="bulk">1917-1918</date></titleproper> 
+	 	<author>Processed by: Kim Frontz.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date normal= "2013" era= "ce" calendar = "gregorian">; 2013</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Trent Purdy. 
+  		<date era="ce" encodinganalog="date" normal="20130923">Sept. 23, 2013</date></creation> 
+	 <langusage>Finding aid is in<language> English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+  	<titleproper>Nell McCarthy Photograph Collection,<date era= "ce" calendar= "gregorian">circa 1918-1925</date></titleproper> 
+  	<num>Collection Number:MS 246</num> 
+  	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+			<label>Processed by:</label> 
+			<item>Kim Frontz</item> 
+		</defitem> 
+		<defitem> 
+			<label>Date completed:</label> 
+		  <item> 
+		  	<date>January 2013</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Trent Purdy</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 20013. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name:"> Nell McCarthy Photograph Collection, 
+  		<unitdate type="inclusive" label="Dates:" normal="1918/1925" certainty="approximate">circa 1918-1925</unitdate></unittitle>	 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	 	repositorycode="AzU" countrycode="us">MS 246</unitid> 
+	 <origination label="Creator:"> 
+	 	<persname source="lcnaf" encodinganalog="100">McCarthy, Nell</persname></origination> 
+  	<abstract label="Abstract:">170 black-and-white photographs, taken in Douglas, Arizona, ca. 1918 to 1925, of Nell McCarthy's family and friends in addition to  houses, stores, automobiles and motorcycles, and a circus parade.</abstract> 
+  	<physdesc encodinganalog="300$a" label="Physical Description:"><extent>.25 linear feet</extent></physdesc>	 
+	 <repository label="Repository:"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository>
+  	<langmaterial>Materials in <language encodinganalog="546" langcode="eng"
+  		scriptcode="Latin">English</language></langmaterial>
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+  	<p>There are no restrictions on this collection.</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>Nell McCarthy Photograph Collection (MS 246).  Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+  	<p>A high school student, Douglas, Arizona; Nell McCarthy's father, Charles McCarthy worked for the Douglas Vulcanizing Company during World War I.</p> 
+  </bioghist> 
+  <arrangement id="a4" encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+  	<p>This Collection is organized into one series.</p>	 
+	 <list> 
+	 	<item>Series I:  Photographs,
+	 		<unitdate>ca. 1918-1925</unitdate></item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>Photographs are from Nell McCarthy's daily life in Douglas, Arizona and are mostly of family groups, pets, friends, and school groups.   There are photographs of young people clowning around, of excursions and picnics, automobiles and motorcycles, and homes and public buildings.  There are also images of a circus parade and a military parade.  The Phelps Dodge Mercantile can be seen in the parade backdrop.   A few photographs show young girls dressed in white with a red cross on their caps, possibly members of the Junior Red Cross, an auxiliary of the National Red Cross organization, and one image shows small Red Cross signs in a window.  The photographs were removed from an album for preservation but a facsimile of the album is present.  There are also a few pages of handwritten poetry and sketches by B. M. Porter.</p> 
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+			<persname encodinganalog="600" source="lcnaf" role="subject">McCarthy, Nell</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+			<subject encodinganalog="650" source="lcsh">American National Red Cross--Pictorial works</subject> </item> 
+	 </list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Circus wagons--Arizona--Douglas--Pictorial works</subject> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Parades--Arizona--Douglas--Pictorial works</subject> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Motorcycles--Pictorial works</subject> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">School children--Arizona--Douglas--Pictorial works</subject> </item> 
+  	</list>
+	 <list> 
+		<item> 
+			<geogname encodinganalog="651" source="lcsh" role="subject">Douglas (Ariz.)--Pictorial works</geogname> </item> 
+	 </list> 
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+			<unittitle>Series I: Photographs, 
+				<unitdate type="inclusive">circa 1918-1925</unitdate></unittitle> 
+		</did><scopecontent><p>This series is arranged topically.</p></scopecontent>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <container type="folder">1</container> 
+		  	<unittitle>Family groups</unittitle>
+		  </did> 
+		</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">2</container> 
+	 			<unittitle>Family groups - Excursions and picnics</unittitle>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">3</container> 
+	 			<unittitle>Friends</unittitle>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">4</container> 
+	 			<unittitle>Friends in costumes</unittitle>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">5</container> 
+	 			<unittitle>Children and pets</unittitle>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">6</container> 
+	 			<unittitle>School groups</unittitle>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">7</container> 
+	 			<unittitle>Automobiles and motorcycles</unittitle>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">8</container> 
+	 			<unittitle>Parades--Circus and military</unittitle>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">9</container> 
+	 			<unittitle>Homes and public buildings</unittitle>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">10</container> 
+	 			<unittitle>Miscellaneous outdoor scenes</unittitle>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">11</container> 
+	 			<unittitle>Red Cross</unittitle>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">12</container> 
+	 			<unittitle>Album facsimile</unittitle>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">13</container> 
+	 			<unittitle>Loose album pages</unittitle>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">14</container> 
+	 			<unittitle>Poetry and drawings</unittitle>
+	 		</did> 
+	 	</c02>
+	 </c01> 
+  </dsc> 
+</archdesc></ead>

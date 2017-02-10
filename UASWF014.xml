@@ -1,0 +1,316 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+ audience="internal" id="a0"> 
+	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special
+		Collections//text(US::AzU::Southwest Folklore Center Compact Disk Collection)//en""UASWF014.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper>Southwest Folklore Center Compact Disk Collection, 
+	 		<date normal="1992/1997" era="ce" calendar="gregorian" certainty="approximate">1992-1997</date>
+	 		</titleproper> 
+	 	<author>Processed by Staff.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date normal= "2012" era= "ce" calendar = "gregorian">; 2012</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Trent Purdy. 
+  		<date era="ce" encodinganalog="date" normal="20120227">October 7, 2013</date></creation> 
+	 <langusage>Finding aid is in<language> English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+  	<titleproper>Southwest Folklore Center Compact Disk Collection,<date era= "ce" calendar= "gregorian">1992-1997</date></titleproper> 
+	 <num>Collection Number: SWF 014</num> 
+  	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Staff</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>1996</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Trent Purdy</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 20013. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name:">Southwest Folklore Center Compact Disk Collection,
+  		<unitdate type="inclusive" label="Dates:" normal="1931/1964">1992-1997</unitdate></unittitle>	 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	 repositorycode="AzU" countrycode="us">SWF 014</unitid> 
+	 <origination label="Creator:"> 
+	 	<corpname source="lcnaf" encodinganalog="110">University of Arizona. Southwest Folklore Center.</corpname></origination> 
+  	<abstract label="Abstract:">Compact discs of commercially produced recordings.</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent>0.5 linear feet</extent></physdesc>	
+	 <repository label="Repository:"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository>
+  	<langmaterial>Materials in <language encodinganalog="546" langcode="eng"
+  		scriptcode="Latin">English</language></langmaterial>
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+  	<p>There are no restrictions on access to this collection.</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+  	<p>Requests for permission to publish from the collection should be discussed with the coordinator of the Southwest Folklore Center or the University of Arizona Manuscripts Librarian. It is the researcher's responsibility to obtain necessary publication rights and copyright clearances for any planned production. Copying of published sound recordings is prohibited.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>Southwest Folklore Center Compact Disk Collection (SWF014). Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Historical Note</head> 
+  	<p>Since its creation in 1979, the Southwest Folklore Center has served as an archive for folk material. Its activities include actively researching and collecting information about Arizona's folk communities, generating outreach programs, and coordinating folk activities throughout the state. The compact disks located in the Archives have been collected since the early 1990s, and are mostly commercial recordings of various musicians, poets, and musical groups from Mexico and the southwestern United States. Collection activity is ongoing.</p>
+  </bioghist> 
+  <arrangement id="a4" encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+  	<p>Arranged chronologically according to accession date.</p>	 
+	</arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>Commercially produced compact disk recordings of gospel music, country and western music, Native American music, Mexican American music, corridos and cowboy songs. The collection includes several compact disks recorded by Lalo Guerrero.</p>
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Mexican Americans -- Music</subject></item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Navajo Indians -- Music</subject></item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Native Americans -- Music</subject></item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Hualapai Indians -- Music</subject></item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Paiute Indians -- Music</subject></item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Shoshone Indians -- Music</subject></item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Navaho Indians--Music</subject></item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Tohono O’Odham Indians -- Music</subject></item> 
+  	</list>
+	 <list> 
+		<item> 
+			<subject encodinganalog="650" source="lcsh">Corridos</subject> </item> 
+	 </list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Gospel music</subject> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Country music</subject> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Christmas music</subject> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Chupa cabras</subject> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Folk music -- New Mexico</subject> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Folk music -- Arizona</subject> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Mexican Americans -- Folklore.</subject> </item> 
+  	</list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Mexican Americans -- Southwest</subject> </item> 
+  	</list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Indians of North America -- Folklore</subject> </item> 
+  	</list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Indians of North America -- Music</subject> </item> 
+  	</list> 
+	 <list> 
+		<item> 
+			<genreform encodinganalog="655" source="tgm">Folklore -- Arizona</genreform> </item> 
+	 </list> 
+  	<list> 
+  		<item> 
+  			<genreform encodinganalog="655" source="tgm">Folklore -- Southwest, New</genreform> </item> 
+  	</list> 
+  	<list> 
+  		<item> 
+  			<genreform encodinganalog="655" source="tgm">Folklore -- Mexico</genreform> </item> 
+  	</list> 
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01> 
+	 	<did> 
+	 		<unittitle>Navajo songs recorded by Laura Boulton in 1933 and 1940</unittitle>
+	 		<unitdate>1933, 1940</unitdate>
+	 		<physdesc>Smithsonian Folkways, c1992 (SF 40403), 1 compact disk, stereo</physdesc>
+	 		<abstract>CONTENTS: Yeibichei song: talking god’s song -- Yeibichei song: calling god’s song -- [4 yeibichei songs] -- [2 corn grinding songs] -- 6 sway songs -- 6 sway songs -- 4 circle dance songs -- 5 circle dance songs -- 4 moccasin game songs: Yé,iitsoh song, counter stick song, the people of Lukachukai, Pinyon Jay song -- Moccasin game song: wildcat song -- Moccasin game song: chickadee song -- Moccasin game song [in vocables] -- Moccasin game song: cicada or locust song -- Moccasin game song: antelope song -- Moccasin game song: crow song</abstract>
+	 		<unitid label="Local Call Number: ">SWF 95.5/CD.1</unitid>
+	 	</did> 
+	 </c01>
+  	<c01> 
+  		<did> 
+  			<unittitle>Following in the tuneprints, Bayou Seco</unittitle>
+  			<unitdate>undated</unitdate>
+  			<physdesc>UBIK Sound (UBIK 25), 1 compact disk, stereo</physdesc>
+  			<abstract>CONTENTS: Valse a Mexico / Old fashioned two-step -- Un soir -- Same old moon -- First choice two-step -- Rio Frio medley -- Palomita que vienes herida / Goosen -- Flor de las flores -- Polka malabuski -- Lonesome cowgirl’s blues -- Caballo bronco / La favorita -- Valse a ballot -- La vaquera / valse a vachers -- Elliott’s special -- Mary Johnson’s chotis / Blackies polka -- Fleurs de la jeunesse -- Canray’s Copenhagen -- Mad cowboy love -- Peanut shoes / Purple lilies polka</abstract>
+  			<unitid label="Local Call Number: ">SWF 97.19/CD.1</unitid>
+  		</did> 
+  	</c01>
+  	<c01> 
+  		<did> 
+  			<unittitle>El chupa cabras, Los Brillantes del Norte</unittitle>
+  			<unitdate>1996</unitdate>
+  			<physdesc>Alacran Productions, c1996 (ARCD 1064), 1 compact disk, stereo</physdesc>
+  			<abstract>CONTENTS: El chupa cabras -- Juan de la Fuente -- De Texas á California -- Nico Olivares -- El comerciante -- El narco -- Corrido al Gallo de la Sierra -- Mi escuadra del ii -- El leon de la Sierra -- Se lez pelo Baltazar -- Cruzillo Estrada -- La muerte de un federal</abstract>
+  			<unitid label="Local Call Number: ">SWF 97.25/CD.1</unitid>
+  		</did> 
+  	</c01>
+  	<c01> 
+  		<did> 
+  			<unittitle>Recuerdos--Memories, Guerrero, Lalo </unittitle>
+  			<unitdate>circa 1992</unitdate>
+  			<physdesc>Palm Springs, Calif.; 1 compact disk, 3-1/2 in., [1992?]</physdesc>
+  			<abstract>“This recording is a historical survey of the songwriting and singing career of Lalo Guerrero. It was compiled to commemorate the October 11, 1992 tribute at the McCallum Theatre in Palm Desert, California ... Lalo y amigos, produced by Dan Guerrero. [...] Compiled and recorded by Mark Guerrero.
+  				CONTENTS: Pecadoro -- Nunca jamas -- Cancion mexicana -- Barrio Viejo -- Do you believe in reincarnation? -- Hey Mabel -- Elvis Perez -- El güiri güiri -- La minifalda de Reynalda -- Los chucos suaves -- Marihuana boogie -- Vamos a bailar -- Pancho Lopez -- Tacos for two -- Pancho Claus -- There’s no tortillas -- La pollera rota - Tin marin de do pingue -- El corrido de Delano -- El chicano</abstract>
+  			<unitid label="Local Call Number: ">SWF 97.31/CD.1</unitid>
+  		</did> 
+  	</c01>
+  	<c01> 
+  		<did> 
+  			<unittitle>Papa’s dream, Los Lobos with Lalo Guerrero</unittitle>
+  			<physdesc>1 compact disk, 3-1/2 in</physdesc>
+  			<abstract>CONTENTS: La bamba -- Wooly Bully -- Buzz, buzz, buzz -- Route 90 -- Corrido for Papa Lalo -- La Bicicleta -- Cielito lindo -- La Mañanita alegre -- El pato -- De colores -- La Mañanitas tapatias -- La piñata -- La, la, la -- La bamba -- Wooly bully banda (reprise). Not all tracks listed: some tracks consist entirely of narration.</abstract>
+  			<unitid>97.71/CD.1</unitid>
+  		</did> 
+  	</c01>
+  	<c01> 
+  		<did> 
+  			<unittitle>La Navidad con las ardillitas de Lalo Guerrero, Guerrero, Lalo</unittitle>
+  			<physdesc>1 compact disk, 3-1/2 in</physdesc>
+  			<abstract>CONTENTS: Las ardillitas en Navidad -- Mamacita donde esta Santa Claus -- Blanca Navidad -- Si hay Santa Claus -- Noche buena -- Ya viene la navidad -- Noche de paz -- Feliz Navidad -- La tamalada -- Carta a Santa Claus -- Los dientes de Panfilo -- Vi a Santa Claus besando a mi mama -- El reno de la nariz roja -- Rock de los cascabeles</abstract>
+  			<origination label="record label">EMI Music Mexico 077779938223</origination>
+  			<unitid>97.71/CD.2</unitid>
+  		</did> 
+  	</c01>
+  	<c01> 
+  		<did> 
+  			<unittitle>Una nueva Navidad con las ardillitas de Lalo Guerrero, Guerrero, Lalo</unittitle>
+  			<physdesc>1 compact disk, 3-1/2 in</physdesc>
+  			<abstract>CONTENTS: Cancion de Navidad -- Navidad tropical (The Christmas song) -- El Venadito cojo -- Vi a Santa Claus besando a mama -- Mi arbolito -- Navidad norteña -- Navidad en la vecindad (I’ll be home for Christmas) -- Gaspar, Melchor y Baltazar -- El rap de Navidad -- ¿Donde vive Santa Claus?</abstract>
+  			<origination label="record label">EMI Music Mexico 7243 8 36378 2 9</origination>
+  			<unitid>97.71/CD.3</unitid>
+  		</did> 
+  	</c01> 
+  	<c01> 
+  		<did> 
+  			<unittitle>Old time O’Odham fiddle music / Gu-Achi Fiddlers</unittitle>
+  			<physdesc>1 compact disk, 3-1/2 in</physdesc>
+  			<abstract>CONTENTS: Ali Oidak polka -- Bareterro two-step -- Black Mountain mazurka -- Blackie polka -- Sonora church two-step -- Hohokam polka -- Libby Bird Song mazurka -- Memories in Ajo polka -- Pinto beans two-step -- E.J. special polka -- Cababie two-step -- Dawn mazurka</abstract>
+  			<origination label="record label">Canyon Records CR-8082</origination>
+  			<unitid>97.71/CD.4</unitid>
+  		</did> 
+  	</c01>
+  	<c01> 
+  		<did> 
+  			<unittitle>Circle dance songs of the Paiute and Shoshone / Judy Trejo with Delgadina Gonzalez and Christina Gonzalez</unittitle>
+  			<physdesc>1 compact disk, 3-1/2 in</physdesc>
+  			<abstract>“This recording is a collection of circle dance, flag and pinenut blessing songs in the Paiute and Shoshone languages”--Liner notes.</abstract>
+  			<origination label="record label">Canyon Records CR-6283</origination>
+  			<unitid>97.71/CD.5</unitid>
+  		</did> 
+  	</c01>
+  	<c01> 
+  		<did> 
+  			<unittitle>Bird songs of the Hualapai / Keith Mahone</unittitle>
+  			<physdesc>1 compact disk, 3-1/2 in</physdesc>
+  			<abstract>“This collection of 27 bird songs tells musical stories of animals and life and is a quiet journey into the world of the Hualapai people of northwest Arizona.”--Liner notes.</abstract>
+  			<origination label="record label">Canyon Records CR-6280</origination>
+  			<unitid>97.71/CD.6</unitid>
+  		</did> 
+  	</c01>
+  	<c01> 
+  		<did> 
+  			<unittitle>Two world concerto : the music of James DeMars / R. Carlos Nakai; Black Lodge Singers; Canyon Symphony Orchestra</unittitle>
+  			<physdesc>1 compact disk, 3-1/2 in</physdesc>
+  			<abstract>CONTENTS: Two world concerto -- Far from the water -- Native drumming -- Encores</abstract>
+  			<origination label="record label">Canyon Records CR-7016</origination>
+  			<unitid>97.71/CD.7</unitid>
+  		</did> 
+  	</c01>
+  	<c01> 
+  		<did> 
+  			<unittitle>The beauty way / Jay Begaye</unittitle>
+  			<physdesc>1 compact disk, 3-1/2 in</physdesc>
+  			<abstract>CONTENTS: Soldier boys -- Walking in beauty -- Navajo code talkers -- Mother’s honor -- Round dance for Arlie Neskahi -- Youth honoring song -- Our way of dancing -- First song -- My dearest sweetheart -- Diné round dance special</abstract>
+  			<origination label="record label">Canyon Records CR-6282</origination>
+  			<unitid>97.71/CD.8</unitid>
+  		</did> 
+  	</c01>
+  	<c01> 
+  		<did> 
+  			<unittitle>Natay, Navajo singer / Ed Lee Natay</unittitle>
+  			<physdesc>1 compact disk, 3-1/2 in</physdesc>
+  			<abstract>CONTENTS: Sacred mask dance -- Kiowa round dance -- Navajo Squaw dance -- Hopi Harvest dance -- Santa Ana bow and arrow dance -- Tewa turtle dance -- Hopi basket dance -- Zuni sunrise -- Bonus album (Memories of Navajoland, CR-6057): Three trotting songs -- Six sway songs -- Two trotting songs -- Five final social dance songs -- “I’ve gone ahead to a better life” -- Five sway songs -- Navajo baby dance song -- Three round dance songs -- Four sway songs (“Traveling on horseback”) -- Three gift songs -- Three sway songs</abstract>
+  			<origination label="record label">Canyon Records CR-6160</origination>
+  			<unitid>97.71/CD.9</unitid>
+  		</did>
+  	</c01>
+  	</dsc> 
+</archdesc></ead>

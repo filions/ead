@@ -1,0 +1,1348 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?xml-stylesheet type="text/xsl" href="displaytemplate.xsl"?>
+<ead relatedencoding="MARC21">
+   <eadheader audience="internal" findaidstatus="edited-full-draft" langencoding="ISO_639-2b"
+      repositoryencoding="iso15511" scriptencoding="iso15924" dateencoding="iso8601"
+      countryencoding="iso3166-1">
+      <eadid encodinganalog="856$u" countrycode="us" mainagencycode="AzU"
+         publicid="-//University of Arizona Library
+         Special Collections//text us::AzU::Robert Black Civilian Conservation Corps collection, 1930s-2000s//EN"
+         >UAMS445.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper encodinganalog="245">Robert Black Civilian Conservation Corps
+                  collection<date encodinganalog="245$f">1930s-2000s</date>
+               <num>MS445</num>
+            </titleproper>
+            <author audience="internal">Processed by Deborah Weller and Yunzhen Wan</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>University of Arizona</publisher>
+            <date era="ce" calendar="gregorian">2010</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Machine-readable finding guide and skeletal markup derived via template; markup
+            checked and completed by Yunzhen Wan, <date era="ce" calendar="gregorian">August
+               2010</date>
+         </creation>
+         <langusage>Finding guide is in <language langcode="eng">English.</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Robert Black Civilian Conservation Corps <unitdate type="inclusive"
+               normal="1930/2000" certainty="approximate">1930s-2000s</unitdate></unittitle>
+         <unitid encodinganalog="099">MS445</unitid>
+         <origination><persname encodinganalog="100">Black, Robert </persname></origination>
+         <physdesc><extent encodinganalog="300">4 Linear Feet</extent></physdesc>
+         <abstract encodinganalog="520">This collection contains materials documenting of
+            biographies, interviews and photographs of former CCC enrollees. This collection is
+            arranged by its file formats and subjects including biographies of enrollees’ of Arizona
+            CCC camps, personal and group photographs, slides, cassette tapes, VHS videos, and some
+            memorabilia. </abstract>
+
+         <langmaterial>
+            <language langcode="eng" encodinganalog="546">English.</language>
+         </langmaterial>
+         <repository label="Repository:">
+            <corpname>University of Arizona Libraries Special Collections</corpname>
+            <address> 
+               <addressline>University of Arizona</addressline> 
+               <addressline>PO Box 210055</addressline> 
+               <addressline>Tucson, AZ 85721-0055</addressline> 
+               <addressline>Phone: 520-621-6423</addressline> 
+               <addressline>Fax: 520-621-9733</addressline> 
+               <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+            </address></repository>
+      </did>
+      <descgrp type="admininfo">
+         <accessrestrict encodinganalog="506">
+            <p>None</p>
+         </accessrestrict>
+         <userestrict encodinganalog="540">
+            <p>It is the responsibility of the user to obtain permission to publish
+               from the owner of the copyright (the institution, the creator of the record,
+               the author or his/her transferees, heirs, legates, or literary executors). The
+               user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+               University of Arizona, its officers, employees, and agents from and against all
+               claims made by any person asserting that he or she is an owner of
+               copyright.</p>
+         </userestrict>
+         <prefercite encodinganalog="524">
+            <p>Robert Black. Civilian Conservation Corps (CCC) Collection(MS 430). Special Collections, University of Arizona Library.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist>
+         <head>Biographical Note </head>
+         <p>Robert Black was a volunteer historian for the National Park Service assigned to the
+            Chiricahua National Monument. During his time there he began to research NM-2-A one of
+            the many camps in Arizona where young people served in President’s Franklin D.
+            Roosevelt’s “tree army” better known as the Civilian Conservation Corps (CCC). Robert
+            Black accumulated a considerable number of interviews and photographs of former CCC
+            enrollees with the intention of one day publishing a commemorative booklet of the
+            NM-2-A.</p>
+         <p>The Civilian Conservation Corps (CCC) was established by President Franklin Roosevelt in
+            1933. It was a Depression Era program designed to provide jobs and relief for unemployed
+            youth and their families. The majority of jobs were unskilled manual labor for the
+            purpose of developing the natural resources in rural areas of the United States and its
+            territories. From 1933-1942 there were 52,905 enrollees working in Arizona CCC camps.
+            They built 5,783 miles of forest roads, constructed 3,559 miles of telephone lines and
+            developed numerous recreational sites still used by Arizonan’s today. The program ceased
+            to exist in 1942 when the United States Congress eliminated its funding.</p>
+      </bioghist>
+      <arrangement>
+       <head>Series List</head>
+         <p>This Collection is organized into 3 series.</p>
+            <list>
+            <item>Series I: Biographies</item>
+            <item>Subseries 1: Files (alphabetically by last name)</item>
+            <item>Subseries 2: Cassette tapes</item>
+            <item>Subseries 3: VHS tapes</item>
+            <item>Series II: Photographic materials</item>
+            <item>Subseries 1: Prints: persons and group photos, animals, automobiles</item>
+            <item>Subseries 2: Slides: Chiricahua national monument, Lichens, Research images,
+               reunion.</item>
+            <item>Series III: Research files</item>
+            <item>Subseries 1: C.C.C. government data</item>
+            <item>Subseries 2: General files</item>
+         </list>
+      </arrangement>
+      <scopecontent>
+         <p>The collection includes C.C.C. former enrollees’ biographical files and general
+            correspondences, people’s photos, slides, cassette tapes, VHS tapes, memorabilia and
+            C.C.C general government enrollment data. The materials are divided into three series:
+            Files, Photographs and Research file. The first series is arranged alphabetically by
+            files’ format. The second series is divided by its formats into two subseries: prints
+            and slides and negatives. Then each subseries is categorized alphabetically by its
+            subjects. The third series is categorized by files subjects.</p>
+      </scopecontent>
+      <controlaccess>
+         <corpname encodinganalog="610" source="lcnaf">Civilian Conservation Corps (U.S.) - History.</corpname>
+         <corpname encodinganalog="610" source="lcnaf">Civilian Conservation Corps (U.S.) - Newspapers - History - 20th century.</corpname>
+         <corpname encodinganalog="610" source="lcnaf">Civilian Conservation Corps (U.S.) - Officials and employees – History - 20th century.</corpname>
+         <corpname encodinganalog="610" source="lcnaf">Civilian Conservation Corps (U.S.) - Arizona - Wilcox - History.</corpname>
+         <corpname encodinganalog="610" source="lcnaf">Civilian Conservation Corps (U.S.) - Arizona - Chiricahua - History.</corpname>
+         <persname encodinganalog="600" source="lcnaf">Black, Robert.</persname>
+         
+         <subject encodinganalog="650" source="lcsh">Camps - Arizona.</subject>
+         <corpname encodinganalog="610" source="lcnaf">Civilian Conservation Corps (U.S.) - Photograph collections.</corpname>
+         <geogname encodinganalog="651" source="lcsh">Chiricahua National Monument (Ariz.).</geogname>
+         <subject encodinganalog="650" source="lcsh">Historic sites - Arizona - Chiricahua National Monument.</subject>
+         <subject encodinganalog="650" source="lcsh">Lichens - Arizona.</subject>      
+      </controlaccess>
+      <dsc type="combined" id="a23">
+         <c01 level="series">
+            <did><unittitle>Series I: Biographies, 1940, 1982-2002</unittitle></did>
+            <arrangement><p>This series contains three subseries which are categorized by format. The first subseries is print materials which is arranged alphabetically by person’s last name.  It contains personal correspondence, interviews and print remembrances of former enrollees of the Civil Conservation Corps. from 1986 - 2004. The second subseries is cassette tapes which is arranged by person’s last name as well. The third subseries are VHS tapes.</p></arrangement>
+            <c02 level="subseries">
+               <did><unittitle>Subseries 1: Files</unittitle></did>
+               <c03 level="file">
+                  <did><unittitle>Adams, Carrol, 2002	</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">1</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Adams, Howard, 	undated</unittitle>
+                  <container type="Box">1</container>
+                  <container type="Folder">2</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Albert, Dick   		undated</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">3</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Amador, Chile  	undated</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">4</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Anderson, Ruth. 	2002</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">5</container></did>
+               </c03>   
+               <c03 level="file">
+                  <did><unittitle>Andress, Norman  	1999</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">6</container></did>
+               </c03> 
+               <c03 level="file">
+                  <did><unittitle>Andrews, Carl  	1997, 1999</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">7</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Arnell, Henry 		1999</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">8</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Avery, Willie E. 	1997, 1999</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">9</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Baun, A.L. 		 undated</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">10</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Betancourt, Juan A. 	1999</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">11</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Barrbee. Henry  	1999</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">12</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Bennet, Herman 	1990</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">13</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Best, Alfrea  		2002</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">14</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Baglod, Andy and Naomi  1998-1999</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">15</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Bird, Olvis  		1999</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">16</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Black, Bob  		1998-1999</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">17</container></did>
+               </c03>
+               <c03 level="file"><did><unittitle>Boyett, Nell 1997</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">18</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Bracamonte, Laundry  undated.</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">19</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Briggley, Jeff  		undated.</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">20</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Brothers, Larce  	1999</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">21</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Brunson, Larry  	1999</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">22</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Burke, Vestal  		1999</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">23</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Canady, Willis H.   	1999</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">24</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Cannon, Gene  	1999</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">25</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Carolan, Owen 	1999</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">26</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Cary, Donald  		1999</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">27</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Caum, Rothellen  	undated.</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">28</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Clark, Mackie  	1999</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">29</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Colbert, Robert  	1998-1999</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">30</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Colucci, Betty  	1998</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">31</container></did>
+               </c03>
+               <c03 level="file">
+                 <did><unittitle>Cooley, Glenn L.  	1999</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">32</container></did>
+                  </c03>
+                <c03 level="file">
+                   <did><unittitle>Cooper, Bennie 	1999</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">33</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Cozby, Homer 	1999</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">34</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Cortez, Quadalupe 	1999</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">35</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Coy, George R. 	1999</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">36</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Crown, Stanely  	2004</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">37</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Crawford, Ray  	1999</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">38</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Crow, Homer  		1999</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">39</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Cyr, Jerome  		1998-1999</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">40</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Dahif, Janice  		1998</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">41</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Daut, John W.  	1998</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">42</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Deal, Walter  		undated.</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">43</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Delgado, Moises  	1999</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">44</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Divers, Bill  		1998</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">45</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Dixon, Fred 		1999</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">46</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Dojaquez, Henry  	1999</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">47</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Duncan, Henry  	1999</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">48</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Dynneson, Lawarence  1999</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">49</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Ellis, Joe  		undated</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">50</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Espe, Jerry V.  	2002</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">51</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Evenson, Orville  	1999</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">52</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Fehrencamp, George  	undated.</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">53</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Fennelly, Bill  	undated</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">54</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Fields, Joe  1999</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">55</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Flores, Alfred 1997, 1999</unittitle>
+                     <container type="Box">1</container>
+                     <container type="Folder">56</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Flory, Robert 		1999</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">1</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Foges, Steve J.  	1999</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">2</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Foly, Morrison  	1999</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">3</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Ford, Harold  		1999</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">4</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Foster, Jack  		1999</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">5</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Fousell, Vic  		1998</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">6</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Fraijo, Archimedes 	1999</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">7</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Franklin, Olin M.  	1999</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">8</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>French, Larry      undated</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">9</container></did>
+               </c03>
+               <c03 level="file">
+               <did><unittitle>Gadloris, Ann F.  2002</unittitle>
+                  <container type="Box">2</container>
+                  <container type="Folder">10</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Garcia, Fred  1999</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">11</container></did>
+               </c03>
+              <c03 level="file">
+                  <did><unittitle>Garmon, Paul  1999</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">12</container></did>
+               </c03>
+                <c03 level="file">
+                  <did><unittitle>Gastellom, Luis  1986</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">13</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Gerault, Leon  1999</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">14</container></did>
+               </c03>
+               <c03>
+                  <did><unittitle>Gilber, G. Marshall 1999 </unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">15</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Grajalva, Jeanette  undated</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">16</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Grefthen, Daniel W.	 undated</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">17</container></did>
+               </c03>
+               <c03>
+                  <did><unittitle>Grose, James  1999</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">18</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Grubb, Glenn E.  undated</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">19</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Hamilton, Tommie James 1999</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">20</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Hanna, Frank Jr. undated</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">21</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Hansbury, John L. 1998</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">22</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Hansler, Mearl E. 1999</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">23</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Harris, Majorie 2002</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">24</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Harris, Woodie 1988-1989</unittitle>
+                  <container type="Box">2</container>
+                  <container type="Folder">25</container></did>
+                  </c03>
+               <c03 level="file">
+                  <did><unittitle>Harwood, Charles W. 1999</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">26</container></did>
+               </c03>
+              
+               <c03 level="file">
+                  <did><unittitle>Harttrup, Jeri  2002</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">27</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Havacurn, Carlos  undated</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">28</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Heaton, Curt  1998-1999</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">29</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Herrera, Adolph  1999</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">30</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Hester, Floyd E. 1999</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">31</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Hill, Henry Y.  1999</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">32</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Huffman, Roy 	1999, 2002</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">33</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Hunt, Atta B.  2002</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">34</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Hurd, Howard  1999</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">35</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Jackson, Lloyd D. 1999</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">36</container></did>
+               </c03>
+               <c03 level="file">
+                 <did><unittitle>Jimenez, Richard  undated</unittitle>
+                  <container type="Box">2</container>
+                  <container type="Folder">37</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Johnson, Faye 1999</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">38</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Johnson, Keith and Joan 1999</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">39</container></did>
+               </c03>
+               
+               <c03 level="file">
+                  <did><unittitle>Johhson, Lloyd D. 1999</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">40</container></did>
+               </c03>  
+               <c03 level="file">
+                  <did><unittitle>Josefow, Edward 1999</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">41</container></did>
+               </c03>  
+               <c03 level="file">
+                  <did><unittitle>Kase, Ed S. 1998-1999</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">42</container></did>
+               </c03>  
+               <c03 level="file">
+                  <did><unittitle>Keen, Clinton undated</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">43</container></did>
+               </c03>  
+               <c03 level="file">
+                  <did><unittitle>Kirby, Claudia B. 2000</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">44</container></did>
+               </c03>  
+               <c03 level="file">
+                  <did><unittitle>Kirk, Mareanne 1988</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">45</container></did>
+               </c03>  
+               <c03 level="file">
+                  <did><unittitle>Koenig, Leo 1998</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">46</container></did>
+               </c03>  
+               <c03 level="file">
+                  <did><unittitle>Kraft, Randy 1999</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">47</container></did>
+               </c03>  
+               <c03 level="file">
+                  <did><unittitle>Lau, Verna M.</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">48</container></did>
+               </c03>  
+               <c03 level="file">
+                  <did><unittitle>Lee, Judson W. 1997</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">49</container></did>
+               </c03>  
+               <c03 level="file">
+                  <did><unittitle>Leetch, Preston undated</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">50</container></did>
+               </c03>  
+               <c03 level="file">
+                  <did><unittitle>Lindskog, Harvey  1999</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">51</container></did>
+               </c03>  
+               <c03 level="file">
+                  <did><unittitle>Lira, Jouguin  1999</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">52</container></did>
+               </c03>  
+               <c03 level="file">
+                  <did><unittitle>Martan, Earnest 1999</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">53</container></did>
+               </c03>  
+               <c03 level="file">
+                  <did><unittitle>Martin, Robert T. 1999</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">54</container></did>
+               </c03>  
+               <c03 level="file">
+                  <did><unittitle>Masters, Carl 1999</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">55</container></did>
+               </c03>  
+               <c03 level="file">
+                  <did><unittitle>Mathews, Josie undated</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">56</container></did>
+               </c03>  
+               <c03 level="file">
+                  <did><unittitle>Mayfield, Bill 1999</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">57</container></did>
+               </c03>  
+               <c03 level="file">
+                  <did><unittitle>McAllister, Harry and Wife, Shirley 1999</unittitle>
+                     <container type="Box">2</container>
+                     <container type="Folder">58</container></did>
+               </c03>  
+               
+               <c03 level="file">
+                  <did><unittitle>McBride, Bernard J. 1999</unittitle>
+                     <container type="Box">3</container>
+                     <container type="Folder">1</container></did>
+               </c03>  
+               <c03 level="file">
+               <did><unittitle>McBride, Joe P. 1999</unittitle>
+                  <container type="Box">3</container>
+                  <container type="Folder">2</container></did>
+               </c03>  
+               <c03 level="file">
+                  <did><unittitle>McEwen, Jim  1999</unittitle>
+                     <container type="Box">3</container>
+                     <container type="Folder">3</container></did>
+               </c03>  
+               
+               <c03 level="file">
+                  <did><unittitle>McGilvray, John L. 	1999</unittitle>
+                     <container type="Box">3</container>
+                     <container type="Folder">4</container></did>
+               </c03>  
+               <c03 level="file">
+                  <did><unittitle>McLaughlin, Robert L. 1998</unittitle>
+                     <container type="Box">3</container>
+                     <container type="Folder">5</container></did>
+               </c03>  
+               <c03 level="file">
+                  <did><unittitle>McNiel, Uriah L. 1940, 1997, 1999</unittitle>
+                     <container type="Box">3</container>
+                     <container type="Folder">6</container></did>
+               </c03>  
+               <c03 level="file">
+                  <did><unittitle>Melzer, Richard  undated</unittitle>
+                     <container type="Box">3</container>
+                     <container type="Folder">7</container></did>
+               </c03>  
+               <c03 level="file">
+                  <did><unittitle>Miller, Bob undated</unittitle>
+                     <container type="Box">3</container>
+                     <container type="Folder">8</container></did>
+               </c03>  
+               <c03 level="file">
+                  <did><unittitle>Miranda, Eugenio  1999</unittitle>
+                     <container type="Box">3</container>
+                     <container type="Folder">9</container></did>
+               </c03>  
+               <c03 level="file">
+                  <did><unittitle>Mitchell, Charles K. 1999</unittitle>
+                     <container type="Box">3</container>
+                     <container type="Folder">10</container></did>
+               </c03>  
+               <c03 level="file">
+               
+                  <did><unittitle>Moore, Wesley undated</unittitle>
+                     <container type="Box">3</container>
+                     <container type="Folder">11</container></did>
+               </c03> 
+               <c03 level="file">
+                 
+               <did><unittitle>Morgan, Floyd  1999</unittitle>
+                  <container type="Box">3</container>
+                  <container type="Folder">12</container></did>
+               </c03>     
+               <c03 level="file">
+                  
+                  <did><unittitle>Mundt, Alfred  1999</unittitle>
+                     <container type="Box">3</container>
+                     <container type="Folder">13</container></did>
+               </c03>             
+               
+               <c03 level="file">
+                  <did><unittitle>Nettles, Robert L. 1998-1999</unittitle>
+                     <container type="Box">3</container>
+                     <container type="Folder">14</container></did>
+               </c03>             
+               <c03 level="file">
+                  <did><unittitle>Nichols, Adam Miller 1999</unittitle>
+                     <container type="Box">3</container>
+                     <container type="Folder">15</container></did>
+               </c03>             
+               <c03 level="file">
+                  <did><unittitle>Nicholson, James</unittitle>
+                     <unitdate>undated</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">16</container></did>
+               </c03>        
+               <c03 level="file">
+                  <did><unittitle>Nicholson, Richard C.</unittitle>
+                     <unitdate normal="2002">2002</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">17</container></did>
+               </c03>                          
+               <c03 level="file">
+                  <did><unittitle>Noreno, Marcus R. 1999</unittitle>
+                     <container type="Box">3</container>
+                     <container type="Folder">18</container></did>
+               </c03>                         
+               <c03 level="file">
+                  <did><unittitle>Notestine, Jim</unittitle>
+                     <unitdate normal="1999">1999</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">19</container></did>
+               </c03>                                      
+              
+               <c03 level="file">
+                  <did><unittitle>Parrer, Lawarence</unittitle>
+                     <unitdate>undated</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">20</container></did>
+               </c03>            
+               <c03 level="file">
+                  <did><unittitle>Perilloux, Charles J.</unittitle>
+                     <unitdate normal="1998/1999">1998-1999 </unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">21</container></did>
+               </c03>                           
+               <c03 level="file">
+                  <did><unittitle>Peroski, Ellen 1998-1999</unittitle>
+                     <container type="Box">3</container>
+                     <container type="Folder">22</container></did>
+               </c03>     
+               <c03 level="file">
+                  <did><unittitle>Pierce, Loyd Robert</unittitle>
+                     <unitdate normal="1998">1998</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">23</container></did>
+               </c03>     
+               
+               <c03 level="file">
+                  <did><unittitle>Platt, Bradley</unittitle>
+                     <unitdate normal="1999">1999</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">24</container></did>
+               </c03>                              
+               <c03 level="file">
+                  <did><unittitle>Portwood, Mack C.</unittitle>
+                     <unitdate normal="1999">1999</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">25</container></did>
+               </c03> 
+               <c03 level="file">
+                  <did><unittitle>Pursley, Ralph</unittitle>
+                     <unitdate>undated</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">26</container></did>
+               </c03> 
+               
+               <c03 level="file">
+                  <did><unittitle>Purvis, Louis and Marie</unittitle>
+                     <unitdate>1999</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">27</container></did>
+               </c03>                              
+               <c03 level="file">
+                  <did><unittitle>Ringenbach, Ray </unittitle>
+                     <unitdate>undated </unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">28</container></did>
+               </c03>      
+               <c03 level="file">
+                  <did><unittitle>Redo, A.J.</unittitle>
+                     <unitdate>1998</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">29</container></did>
+               </c03>                     
+               
+               <c03 level="file">
+                  <did><unittitle>Riordan, James</unittitle>
+                     <unitdate>undated</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">30</container></did>
+               </c03>            
+              
+               <c03 level="file">
+                  <did><unittitle>Roman, Art</unittitle>
+                     <unitdate normal="1998">1998</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">31</container></did>
+               </c03>        
+               
+               <c03 level="file">
+                  <did><unittitle>Romero, Marlo</unittitle>
+                     <unitdate>undated</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">32</container></did>
+               </c03>     
+              
+               <c03 level="file">
+                  <did><unittitle>Ronquillo, Edward B.</unittitle>
+                     <unitdate normal="1999"> 1999</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">33</container></did>
+               </c03>           
+               <c03 level="file">
+                  <did><unittitle>Rowland, Marvin</unittitle>
+                     <unitdate normal="1986/1987">1986-1987</unitdate>
+                     <unitdate normal="1993">1993</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">34</container></did>
+               </c03>                        
+              
+               <c03 level="file">
+                  <did><unittitle>Rownd, Lionel</unittitle>
+                     <unitdate>undated</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">35</container></did>
+               </c03>                 
+               <c03 level="file">
+                  <did><unittitle>Rust, Donald </unittitle>
+                     <unitdate>undated</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">36</container></did>
+               </c03>                                
+               
+               <c03 level="file">
+                  <did><unittitle>Sanders, Glen J.</unittitle>
+                     <unitdate normal="1998/1999">1998-1999</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">37</container></did>
+               </c03>                                
+               <c03 level="file">
+                  <did><unittitle>Scitticatt, Mary</unittitle>
+                     <unitdate> 1999</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">38</container></did>
+               </c03>                    
+               <c03 level="file">
+                  <did><unittitle>Seaman, Ida</unittitle>
+                     <unitdate>2002</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">39</container></did>
+               </c03>             
+               <c03 level="file">
+                  <did><unittitle>Shackelford, Harvey</unittitle>
+                     <unitdate normal="1999">1999</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">40</container></did>
+               </c03>             
+               
+               <c03 level="file">
+                  <did><unittitle>Simmons, William A </unittitle>
+                     <unitdate normal="1999">1999</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">41</container></did>
+                 </c03>        
+               
+               <c03 level="file">
+                  <did><unittitle>Soto, Miguel D.</unittitle>
+                     <unitdate normal="1999">1999</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">42</container></did>
+               </c03>      
+               <c03 level="file">
+                  <did><unittitle>Stafford, Ja Hu </unittitle>
+                     <unitdate> undated</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">43</container></did>
+               </c03>                   
+               <c03 level="file">
+                  <did><unittitle>Stainsberry, Dickie	</unittitle>
+                     <unitdate normal="1997">1997</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">44</container></did>
+               </c03>            
+               <c03 level="file">
+                  <did><unittitle>Steele, R.J.</unittitle>
+                     <unitdate normal="1999"> 1999</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">45</container></did>
+               </c03> 
+               <c03 level="file">
+                  <did><unittitle>Stricht, John	</unittitle>
+                     <unitdate>undated</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">46</container></did>
+               </c03> 
+               <c03 level="file">
+               <did><unittitle>Swartz, Carl N.</unittitle>
+                  <unitdate normal="1994/1999">1994-1999</unitdate>
+                  <container type="Box">3</container>
+                  <container type="Folder">47</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Tellez, Frank J.</unittitle>
+                     <unitdate normal="1999">1999</unitdate>
+                  <container type="Box">3</container>
+                  <container type="Folder">48</container></did>
+               </c03> 
+               <c03 level="file">
+                  <did><unittitle>Thomason, Jeff P.</unittitle>
+                     <unitdate>undated</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">49</container></did>
+               </c03> 
+               <c03 level="file">
+                  <did><unittitle>Thompson, Perry</unittitle>
+                     <unitdate>undated</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">50</container></did>
+               </c03> 
+               <c03 level="file">
+                  <did><unittitle>Turnee, Joe</unittitle>
+                     <unitdate>1999</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">51</container></did>
+               </c03> 
+               <c03 level="file">
+                  <did><unittitle>Upshaw, Black K.</unittitle>
+                     <unitdate normal="1999">	1999</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">52</container></did>
+               </c03> 
+               <c03 level="file">
+               <did><unittitle>Vaughn, Jack</unittitle>
+                  <unitdate normal="1998">1998</unitdate>
+                  <container type="Box">3</container>
+                  <container type="Folder">53</container></did>
+               </c03> 
+               <c03 level="file">
+                  <did><unittitle>Vesely, George</unittitle>
+                     <unitdate normal="1999">1999</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">54</container></did>
+               </c03> 
+               <c03 level="file">
+                  <did><unittitle>Wallace, Gorden</unittitle>
+                     <unitdate normal="1990">1990</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">55</container></did>
+               </c03> 
+               <c03 level="file">
+                  <did><unittitle>Warren, James</unittitle>
+                     <unitdate>1999</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">56</container></did>
+               </c03> 
+               <c03 level="file">
+                  <did><unittitle>Warren, Roy J.</unittitle>
+                     <unitdate normal="1999"> 1999</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">57</container></did>
+               </c03> 
+               <c03 level="file">
+                  <did><unittitle>Watson, Autumn</unittitle>
+                     <unitdate normal="1998/1999">1998-1999</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">58</container></did>
+               </c03> 
+               <c03 level="file">
+                  <did><unittitle>Welker, Doug</unittitle>
+                     <unitdate>undated</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">59</container></did>
+               </c03> 
+               <c03 level="file">
+                  <did><unittitle>Wells, Burt D. 2002</unittitle>
+                     <container type="Box">3</container>
+                     <container type="Folder">60</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Wenger, Alvin W.</unittitle>
+                     <unitdate normal="1999">1999</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">61</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>West, Mary</unittitle>
+                     <unitdate normal="1998/1999">1998-1999</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">62</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Whitecotton, Norace</unittitle>
+                     <unitdate normal="1999">1999</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">63</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Wildey, Walter</unittitle>
+                     <unitdate> undated</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">64</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Wilkins, Yvonne</unittitle>
+                     <unitdate normal="1999">1999</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">65</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Willett, Gilbert</unittitle>
+                     <unitdate normal="1999">1999</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">66</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Williams, David H.</unittitle>
+                     <unitdate>undated</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">67</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Williams, Horace	</unittitle>
+                     <unitdate>undated</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">68</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Wilson, Donald R.</unittitle>
+                     <unitdate normal="1998">1998</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">69</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Wisner, Robert</unittitle>
+                     <unitdate normal="1999"> 1999</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">70</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Wright, Melvin</unittitle>
+                     <unitdate normal="1975">1975</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">71</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Wright, R.O.</unittitle>
+                     <unitdate normal="1999">1999</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">72</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Wrolstad, Orville K.</unittitle>
+                     <unitdate normal="1999">1999</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">73</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Young, Darrill</unittitle>
+                     <unitdate normal="1982">1982</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">74</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Youngman, Fred</unittitle>
+                     <unitdate normal="1999">1999</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">75</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Zaida, Charles G.</unittitle>
+                     <unitdate>1999</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">76</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Zoller, Richard</unittitle>
+                     <unitdate normal="2002"> 2002</unitdate>
+                     <container type="Box">3</container>
+                     <container type="Folder">77</container></did>
+               </c03>
+            </c02>
+            <c02 level="subseries">
+               <did><unittitle>Subseries 2: Cassette tapes: from former C.C.C. members.</unittitle></did>
+               <c03 level="file">
+                  <did><unittitle>Interviews through A-M</unittitle>
+                  <container type="Box">4</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Interviews through M-R</unittitle>
+                     <container type="Box">5</container></did>
+               </c03>               
+            </c02>
+            <c02 level="subseries">
+               <did><unittitle>Subseries 3: VHS tapes </unittitle></did>
+               <c03 level="file">
+                  <did><unittitle>Interviews.</unittitle>
+                  <container type="Box">6</container></did>
+               </c03>               
+            </c02>               
+         </c01>
+         <c01 level="series">
+            <did><unittitle>Series II: Photographic Materials</unittitle></did>
+            <arrangement><p>This series is subdivided by file formats into two subseries and then arranged alphabetically by content subjects of materials. It contains people’s portraits, group shots, photos with animals and automobiles, and slides.</p></arrangement>
+            <c02 level="subseries">
+               <did><unittitle>Subseries 1: Prints</unittitle></did>
+               <c03 level="file">
+                  <did><unittitle>Animals</unittitle>
+                  <container type="Box">7</container>
+                  <container type="Folder">1</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Automobiles</unittitle>
+                     <container type="Box">7</container>
+                     <container type="Folder">2</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Group shots, oversize group shots see Box 10</unittitle>
+                     <container type="Box">7</container>
+                     <container type="Folder">3</container></did>
+                  </c03>
+                  <c03 level="file">
+                     <did><unittitle>Landscapes</unittitle>
+                        <container type="Box">7</container>
+                        <container type="Folder">4</container></did>
+                  </c03>
+                  <c03 level="file">
+                     <did><unittitle>Miscellaneous</unittitle>
+                        <container type="Box">7</container>
+                        <container type="Folder">5</container></did>
+                  </c03>
+                  <c03 level="file">
+                     <did><unittitle>Portraits</unittitle>
+                        <container type="Box">7</container>
+                        <container type="Folder">6</container></did>
+                  </c03>
+            </c02>
+            <c02 level="subseries">
+               <did><unittitle>Subseries 2: Slides and Negatives</unittitle></did>
+               <c03 level="file">
+                  <did><unittitle>Chiricahua</unittitle>
+                  <container type="Box">7</container>
+                  <container type="Folder">7</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Lichens</unittitle>
+                     <container type="Box">7</container>
+                     <container type="Folder">8</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Research</unittitle>
+                     <container type="Box">7</container>
+                     <container type="Folder">9</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Reunion</unittitle>
+                     <container type="Box">7</container>
+                     <container type="Folder">10</container></did>
+               </c03>               
+            </c02>        
+         </c01>
+         <c01 level="series">
+            <did><unittitle>Series III: Research, 1933-2004</unittitle></did>
+            <arrangement><p>This series is subdivided by broad theme and then arranged alphabetically by folder name. It contains C.C.C. Camps government data, general files and news clippings.</p></arrangement>
+               <c02 level="subseries">
+                  <did><unittitle>Subseries 1: C.C.C. Camps government data</unittitle></did>
+                  <c03 level="file">
+                     <did><unittitle>Camps Approved for Arizona</unittitle>
+                        <unitdate normal="1933/1942">1933-1942</unitdate>
+                     <container type="Boc">8</container>
+                     <container type="Folder">1</container></did>
+                  </c03>
+                  <c03 level="file">
+                     <did><unittitle>Camps buildings/Arizona</unittitle>
+                        <container type="Boc">8</container>
+                        <container type="Folder">2</container></did>
+                  </c03>
+                  <c03 level="file">
+                     <did><unittitle>Camp reports, inspection reports</unittitle>
+                        <unitdate normal="1934/1940">1934-1940 </unitdate>
+                        <container type="Boc">8</container>
+                        <container type="Folder">3</container></did>
+                  </c03>
+                  <c03 level="file">
+                     <did><unittitle>Enrollment data</unittitle>
+                        <unitdate normal="1935/1937">1935-1937</unitdate>
+                        <container type="Boc">8</container>
+                        <container type="Folder">4</container></did>
+                  </c03>
+                  <c03 level="file">
+                     <did><unittitle>Location and strength of C.C.C.C. in the 8th corps area</unittitle>
+                        <unitdate normal="1933/1942">1933-1942</unitdate>
+                        <container type="Boc">8</container>
+                        <container type="Folder">5</container></did>
+                  </c03>
+                  <c03 level="file">
+                     <did><unittitle>Menus/Company 828, camp NM-2-A</unittitle>
+                        <unitdate normal="1934/1936">1934-1936</unitdate>
+                        <container type="Boc">8</container>
+                        <container type="Folder">6</container></did>
+                  </c03>
+                  <c03 level="file">
+                     <did><unittitle>Rosters/Arizona</unittitle>
+                        <unitdate normal="1934/1939"> 1934-1939</unitdate>
+                     <container type="Box">8</container>
+                     <container type="Folder">7</container></did>
+                  </c03>
+               </c02>
+            <c02 level="subseries">
+               <did><unittitle>Subseries 2: General files</unittitle></did>
+               <c03 level="file">
+                  <did><unittitle>Chiricahua pt.1</unittitle>
+                  <container type="Box">8</container>
+                  <container type="Folder">8</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>Chiricahua pt.2</unittitle>
+                     <container type="Box">8</container>
+                     <container type="Folder">9</container></did>
+               </c03>   
+               <c03 level="file">
+                  <did><unittitle>Correspondences</unittitle>
+                     <unitdate normal="1986/1988">1986-1988</unitdate>
+                     <unitdate normal="1996/1999">1996-1999 </unitdate>
+                     <unitdate>2003</unitdate>
+                     <container type="Box">9</container>
+                     <container type="Folder">1</container></did>
+               </c03> 
+               <c03 level="file">
+                  <did><unittitle>General files</unittitle>
+                     <unitdate normal="1934/1948">1934-1948</unitdate>
+                     <container type="Box">9</container>
+                     <container type="Folder">2</container></did>
+               </c03>
+               <c03 level="file">
+                  <did><unittitle>News clippings and newspapers   	1933-1948, 1983-2004</unittitle>
+                     <unitdate normal="1933/1948">1933-1948</unitdate>
+                     <unitdate normal="1983/2004">1983-2004</unitdate>
+                     
+                     <container type="Box">9</container>
+                     <container type="Folder">3</container></did>
+               </c03>                
+            </c02>
+            <c02 level="subseries">
+               <did><unittitle>Subseries 3: Memorabilia</unittitle></did>
+               <c03 level="file">
+                  <did><unittitle>Ephemeral materials including hats, buttons, bricks and certificates.</unittitle>
+                  <container type="Box">10</container></did>
+               </c03>               
+            </c02>           
+         </c01>       
+         
+      </dsc>        
+   </archdesc>
+</ead>

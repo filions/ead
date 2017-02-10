@@ -1,0 +1,1758 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://ead.lib.asu.edu/template.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?filetitle Navarette y Guerrero, Juan Collection?>
+<ead relatedencoding="MARC21">
+<eadheader relatedencoding="marc" langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" audience="internal" id="a0">
+<eadid countrycode="US" mainagencycode="AzU" publicid="-//University of Arizona Library Special 
+ Collections//text(US::AzU::Juan Naverrete y Guerrero Collection)//en">PUBLIC "-//University of Arizona Library Special 
+ Collections//text(US::AzU::Juan Naverrete y Guerrero Collection)//en" 
+ "UAMS423.xml"</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Juan Navarrete y Guerrero collection,
+<date>1912-2000 (bulk 1948-2000)</date></titleproper>
+<author>Inventory prepared by Natalia Fern&#x00E1;ndez and Kelly
+Battese</author>
+</titlestmt>
+<publicationstmt>
+<publisher>University of Arizona Libraries, Special
+Collections</publisher>
+<address>
+<addressline>PO Box 210055</addressline>
+<addressline>Tucson, AZ 85721-0055</addressline>
+<addressline>Phone: 520-621-6423</addressline>
+<addressline>Fax: 520-621-9733</addressline>
+<addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+</address>
+<date>&#x00A9; 2008</date>
+<p>Arizona Board of Regents. All Rights Reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Inventory encoded by Kelly Battese.
+<date>December 2008</date>
+</creation>
+<langusage>Inventory is in<language> English.</language></langusage>
+</profiledesc>
+<revisiondesc>
+<change>
+<date>January 21, 2009</date>
+<item>EAD v1.0 finding aid converted to EAD 2002 using UC Berkeley's eadv1to2002.pl perl script.</item>
+</change>
+</revisiondesc>
+</eadheader>
+<frontmatter>
+<titlepage>
+<titleproper> Juan Navarrete y Guerrero collection,
+<date>1912-2000 (bulk 1948-2000)</date></titleproper>
+<num>Collection Number: MS 423</num>
+<publisher>University of Arizona Library Special Collections</publisher>
+<list>
+<defitem>
+<label>Processed by:</label>
+<item>Natalia Fern&#x00E1;ndez and Kelly Battese</item>
+</defitem>
+<defitem>
+<label>Date completed:</label>
+<item>
+<date>December 2008</date></item>
+</defitem>
+<defitem>
+<label>Encoded by:</label>
+<item>Kelly Battese</item>
+</defitem>
+</list>
+<p>
+<date>&#x00A9; 2008</date> Arizona Board of Regents. All rights reserved.</p>
+</titlepage>
+</frontmatter>
+<archdesc level="collection" type="inventory">
+<did id="a1">
+<head>Collection Summary</head>
+<unittitle encodinganalog="245" label="Collection Name:"> Juan Navarrete
+y Guerrero collection,
+<unitdate label="Dates:" type="inclusive">1912-2000</unitdate></unittitle>
+<unitid encodinganalog="099" label="Collection Number:" countrycode="us">MS 423</unitid>
+<origination label="Creator:">
+<persname>Juan Navarrete y Guerrero</persname>
+</origination>
+<abstract label="Abstract:">Papers, 1912-2000 (bulk 1948-2000). This
+collection contains materials relating to Bishop Juan Navarrete y Guerrero of
+the diocese of Hermosillo, Sonora. Items include biographical materials;
+printed materials including newsletters and pamphlets; audio materials; and
+photographic materials including photographs, slides, and postcards. The bulk
+of the material is a nearly complete set of the El Cat&#x00F3;lico newsletter
+(1948-2000) and over thirty of Navarrete y Guerrero's recorded sermons. All
+materials are in Spanish. </abstract>
+<physdesc encodinganalog="300$a" label="Physical Description:">
+<extent>10
+linear feet</extent>
+</physdesc>
+<repository label="Repository:">
+<corpname>University of Arizona Libraries, Special Collections</corpname>
+<address>
+<addressline>University of Arizona</addressline>
+<addressline>PO Box 210055</addressline>
+<addressline>Tucson, AZ 85721-0055</addressline>
+<addressline>Phone: 520-621-6423</addressline>
+<addressline>Fax: 520-621-9733</addressline>
+<addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+</address>
+</repository>
+<langmaterial label="Languages Represented"> Materials in 
+<language langcode="spa">Spanish</language>
+</langmaterial>
+</did>
+<accessrestrict>
+<head>Restrictions</head>
+<p>None</p>
+</accessrestrict>
+<prefercite>
+<head>Credit Line</head>
+<p>Juan Navarrete y Guerrero collection (MS 423). Special Collections, University of Arizona Libraries.</p>
+</prefercite>
+<userestrict>
+<head>Copyright</head>
+<p>It is the responsibility of the user to obtain permission to publish
+from the owner of the copyright (the institution, the creator of the record,
+the author or his/her transferees, heirs, legates, or literary executors). The
+user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+University of Arizona, its officers, employees, and agents from and against all
+claims made by any person asserting that he or she is an owner of
+copyright.</p>
+</userestrict>
+<bioghist encodinganalog="545" id="a2">
+<head>Biographical Note</head>
+<p>Juan Navarrete y Guerrero was born in 1886 in Oaxaca, Mexico. He began
+his studies at the Seminary Church of Le&#x00F3;n, Guanajuato. In 1904 he traveled to
+Rome to continue his studies at the Colegio P&#x00ED;o Latino Americano de Roma. He
+earned his doctorate of theology in 1909 from the Pontificia Universidad
+Gregoriana. That same year he returned to Aguascalientes, Mexico an ordained
+priest. In 1916 he founded various Catholic organizations including the Acci&#x00F3;n
+Cat&#x00F3;lica de la Juventud Mexicana (A.C.J.M.) which was later active in the
+Cristero Movement. In 1919 he was ordained bishop of Sonora at only 32 years of
+age, becoming the world's youngest bishop.</p>
+<p>In 1926 Navarrete y Guerrero was exiled to Arizona as a result of the
+anti-Catholic persecution implemented by President Plutarco Calles. During this
+time he became involved in the Cristero Movement which was a rebellion against
+the anti-Catholic stance of the Mexican government. Navarrete y Guerrero
+returned to Sonora in 1929 but three years later, in 1932, a warrant was issued
+for his arrest and he was subsequently exiled again for five years. In 1937 he
+returned to Sonora after the new governor granted him amnesty. </p>
+<p>Upon his return to the Sonoran Diocese, he began to help rebuild the
+Catholic community that had suffered during the Cristero Movement. Throughout
+the 1940s to the 1960s he was instrumental in founding hospitals, orphanages,
+and over fifty Catholic schools. In 1959 the Diocese of Sonora was divided in
+two: the Diocese of Hermosillo and the Diocese of Cuidad Obreg&#x00F3;n and in 1964,
+Navarrete y Guerrero was appointed the first archbishop of Hermosillo. He
+retired four years later and was soon after appointed Titular Archbishop of
+Vulturaria. He died in February of 1982, at the age of ninety-five. </p>
+</bioghist>
+<arrangement encodinganalog="351$a" id="a4">
+<head>Organization</head>
+<p>This collection is organized into 6 series </p>
+<list>
+<item>Series I: Biographical Files,
+<unitdate>1964-1969</unitdate></item>
+<item>Series II: Subject Files,
+<unitdate>1936-1969</unitdate></item>
+<item>Series III: Printed Materials,
+<unitdate>1948-2000</unitdate></item>
+<item>Series IV: Photographic Materials,
+<unitdate>1912-1977</unitdate></item>
+<item>Series V: Audio Materials,
+<unitdate>1948-1994</unitdate></item>
+<item>Series VI: Oversize,
+<unitdate>1986-1989</unitdate></item>
+</list>
+</arrangement>
+<scopecontent encodinganalog="520" id="a3">
+<head>Scope and Content Note</head>
+<p>Papers, 1912-2000 (bulk 1948-2000). This collection contains materials
+relating to Bishop Juan Navarrete y Guerrero of the diocese of Hermosillo,
+Sonora. Materials include; Navarrete y Guerrero biographies, community
+histories of the Sonoran Diocese, a nearly complete set of the El Cat&#x00F3;lico
+newsletter (1948-2000), over thirty of Navarrete y Guerrero's recorded sermons,
+recordings of religious songs, as well as recorded sermons and lectures by
+others, photographs of Navarrete y Guerrero and members of the Sonoran Diocese
+including the El Cat&#x00F3;lico staff, and slide sets of La Tierra Santa (The Holy
+Land) and the Vatican. All materials are in Spanish.</p>
+</scopecontent>
+<relatedmaterial>
+<relatedmaterial encodinganalog="544$1">
+<head>Related Material</head>
+<p>de la Torre Family Papers, (1874-1994), MS 420</p>
+</relatedmaterial>
+</relatedmaterial>
+<controlaccess id="a12">
+<head>Access Terms</head>
+<list>
+<item>
+<persname encodinganalog="600">Navarrete y Guerrero, Juan, 1886-1982 --
+Archives.</persname> </item>
+</list>
+<list>
+<item>
+<subject encodinganalog="650" >Bishops -- Mexico -- Sonora (State) -- Biography.</subject>
+</item>
+</list>
+<list>
+<item>
+<corpname encodinganalog="610">Catholic Church -- Bishops -- Biography.</corpname> </item>
+</list>
+<list>
+<item>
+<corpname encodinganalog="610">Catholic Church. Diocese of Hermosillo (Mexico).</corpname>
+</item>
+</list>
+<list>
+<item>
+<corpname encodinganalog="610">Catholic Church. Diocese of Sonora -- History.</corpname>
+</item>
+</list>
+<list>
+<item>
+<geogname encodinganalog="651">Sonora (Mexico: State).</geogname> </item>
+</list>
+</controlaccess>
+<dsc type="combined" id="a23">
+<head>Container List</head>
+<c01 level="series" id="ser1">
+<did>
+<unittitle>Biographical Files.
+<unitdate type="inclusive">1964-1969</unitdate></unittitle>
+</did>
+<scopecontent>
+<p>Arrangement: Alphabetical. This series contains biographical
+information on Juan Navarrete y Guerrero. One biography also includes a brief
+history of the Sonoran Diocese. All materials in this series are in Spanish.</p>
+</scopecontent>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">1</container>
+<unittitle> Navarrete y Guerrero, Juan History –
+<emph render="italic">El Semenario Perseguido 1932-1937</emph>.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">2</container>
+<unittitle> Navarrete y Guerrero, Juan History (album recuerdo) –
+<emph render="italic">Juan Navarrete y Guerrero</emph>.
+<unitdate>1964</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">3</container>
+<unittitle> Navarrete y Guerrero, Juan and Sonoran Diocese History
+– <emph render="italic">Esfuerzo</emph>.
+<unitdate>1969</unitdate></unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series" id="ser2">
+<did>
+<unittitle>Subject Files.
+<unitdate type="inclusive">1936-1969</unitdate></unittitle>
+</did>
+<scopecontent>
+<p>Arrangement: Alphabetical. This series contains a handwritten
+newsletter, El Gran Cues., from 1936, an incomplete set of martyr cards
+relating the biographical and historical information of Mexican martyrs mostly
+from the 1920's and 30's, and two documents regarding the community of Sonora:
+Sonora a su Reina y Madre, an "album recuerdo" pertaining to the history of the
+Diocese of Sonora and Distinguidas personas desaparecidas de la vida sonorense
+which contains brief biographical information on notable deceased citizens of
+Hermosillo, Sonora. All Subject Files materials are in Spanish. </p>
+</scopecontent>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">4</container>
+<unittitle> <emph render="italic">El Gran Cues</emph>. Peri&#x00F3;dico
+Semenal.
+<unitdate>1936</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">5</container>
+<unittitle>Mexican Martyrs.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">6</container>
+<unittitle> Sonora Community History.
+<unitdate>1938-1969</unitdate></unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series" id="ser3">
+<did>
+<unittitle>Printed Materials.
+<unitdate type="inclusive">1948-2000</unitdate></unittitle>
+</did>
+<scopecontent>
+<p>Arrangement: Alphabetical. This series contains newsletters and
+pamphlets. The bulk of the series is a nearly complete set of the religious
+newsletter, El Cat&#x00F3;lico, published by the Diocese of Hermosillo, Sonora. The
+remainder of the series consists of three religious pamphlets. All Printed
+Materials are in Spanish. Note: Some materials are located in Series VI:
+Oversize Materials.</p>
+</scopecontent>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">7</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1948-1950</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">8</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1954-1956</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">9</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1957</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">10</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1958</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">11</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1959</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">12</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1960</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">13</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1961</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">14</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1962</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">15</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1963</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">16</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1964</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">17</container>
+<unittitle> Newsletters – El Cat&#x00F3;lico.
+<unitdate>1965</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">1</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1966</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">2</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1967</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">3</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1968</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">4</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1970</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">5</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1971</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">6</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1972</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">7</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1973</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">8</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1974</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">9</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1975</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">10</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1976</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">11</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1977</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">1</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1978</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">2</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1979</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">3</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1980</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">4</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1981</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">5</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1982</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">6</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1987</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">7-8</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1988</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">9-10</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1989</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">11-12</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1990</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">13-14</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1991</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">15-16</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1992</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">17</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1993</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">1</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1993</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">2-3</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1994</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">4-5</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1995</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">6-7</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1996</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">8-9</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1997</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">10-11</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1998</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">12-13</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>1999</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">14-15</container>
+<unittitle> Newsletters – <emph render="italic">El Cat&#x00F3;lico</emph>.
+<unitdate>2000</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">16</container>
+<unittitle> Newsletters – <emph render="italic">La Cruz</emph>.
+<unitdate>1968</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">17</container>
+<unittitle>Newsletters – <emph render="italic">Iglesia Cat&#x00F3;lica de
+San Juan Evangelista</emph>.
+<unitdate>1999</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">18</container>
+<unittitle>Pamphlets – <emph render="italic">Primera Ultreya
+Mundial Roma 1966 Resumen de Vivencias</emph>.
+<unitdate>1966</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">19</container>
+<unittitle>Pamphlets – <emph render="italic">La Provocaci&#x00F3;n de los
+Jesuitas y del Clero Pol&#x00ED;tico</emph>.
+<unitdate>1972</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">20</container>
+<unittitle>Pamphlets – Tu cita con Dios: La Misa (Liturgy).
+<unitdate>1965</unitdate></unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series" id="ser4">
+<did>
+<unittitle>Photographic Materials.
+<unitdate type="inclusive">1912-1977</unitdate></unittitle>
+</did>
+<scopecontent>
+<p>Arrangement: Alphabetical. This series contains photographs of
+Navarrete y Guerrero and photographs of members of the Sonoran Diocese
+including the El Cat&#x00F3;lico staff. Also included are two travel souvenir slide
+collections of La Tierra Santa (the Holy Land) and the Vatican. Among the
+postcards is a marked postcard with the writing of Navarrete y Guerrero. The
+text within this series is in Spanish.</p>
+</scopecontent>
+<c02 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">21</container>
+<unittitle> Photographs – General.
+<unitdate>1912-1977</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">22</container>
+<unittitle>Photographs – Navarrete y Guerrero, Juan.
+<unitdate>undated, 1963-1970</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">23</container>
+<unittitle>Postcards.
+<unitdate>undated, 1964</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">24</container>
+<unittitle>Slides - La Tierra Santa.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">25</container>
+<unittitle>Slides – Souvenirs of the Vatican.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series" id="ser5">
+<did>
+<unittitle>Audio Materials.
+<unitdate type="inclusive">1948-1994</unitdate></unittitle>
+</did>
+<scopecontent>
+<p>This series contains over thirty of Juan Navarrete y Guerrero's
+sermons (1948-1960). The original copies, recorded on cassette tapes, will be
+transferred to CD format for public use. Other audio materials include
+religious songs as well as other speakers' sermons and lectures. The tapes not
+transferred to CD, located in Box 6, have been arranged alphabetically by
+title. All audio materials are in Spanish.</p>
+</scopecontent>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">1</container>
+<unittitle><emph render="italic"> Charla familiar de
+jueves-Caridad</emph>. Navarrete, Juan.
+<unitdate>1950</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">2</container>
+<unittitle><emph render="italic">Ejercicios Cuaresmales para
+Se&#x00F1;ores. D&#x00ED;a I. Navajoa, Sonora</emph>. Navarrete, Juan.
+<unitdate>1954</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">3</container>
+<unittitle><emph render="italic">Ejercicios Cuaresmales para
+Se&#x00F1;ores. D&#x00ED;a II</emph>. Navarrete, Juan.
+<unitdate>1954</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">4</container>
+<unittitle><emph render="italic">Conferencia. D&#x00ED;a III</emph>.
+Navarrete, Juan.
+<unitdate>1954</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">5</container>
+<unittitle><emph render="italic">Ejercicios Cuaresmales para
+Se&#x00F1;ores. D&#x00ED;a IV</emph>. Navarrete, Juan.
+<unitdate>1954</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">6</container>
+<unittitle><emph render="italic">Ejercicios Cuaresmales para
+Se&#x00F1;ores. D&#x00ED;a V</emph>. Navarrete, Juan.
+<unitdate>1954</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">7</container>
+<unittitle><emph render="italic">Bendici&#x00F3;n de la Capilla del
+Oasis</emph>. Navarrete, Juan.
+<unitdate>1953</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">8</container>
+<unittitle><emph render="italic">La exigencia de vestir
+honestamente en la Iglesia</emph>. Navarrete, Juan.
+<unitdate>1949</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">9</container>
+<unittitle><emph render="italic">Misa de Bonda. Celebraci&#x00F3;n del
+Santo Matrimonio</emph>. Navarrete, Juan.
+<unitdate>1950</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">10</container>
+<unittitle><emph render="italic">Padre nuestro. Venga a nosostros
+Tu reino</emph>. Navarrete, Juan.
+<unitdate>1948</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">11</container>
+<unittitle><emph render="italic">Descuido y Omisiones</emph>.
+Navarrete, Juan.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">12</container>
+<unittitle><emph render="italic">Misa de media noche. Acci&#x00F3;n de
+gracias</emph>. Navarrete, Juan.
+<unitdate>1949</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">13</container>
+<unittitle><emph render="italic">Festividad de Navidad</emph>.
+Navarrete, Juan.
+<unitdate>1948</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">14</container>
+<unittitle><emph render="italic">Navidad. Fin de a&#x00F1;o. Sermon de lo
+misa gallo</emph>. Navarrete, Juan.
+<unitdate>1949</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">15</container>
+<unittitle><emph render="italic">Ejercicios Cuaresmales para
+Se&#x00F1;oras</emph>. Navarrete, Juan.
+<unitdate>1952</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">16</container>
+<unittitle><emph render="italic">Ejercicios Cuaresmales para
+Se&#x00F1;oras. Iglesia</emph>. Navarrete, Juan.
+<unitdate>1952</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">17</container>
+<unittitle><emph render="italic">Ejercicios Cuaresmales para
+Se&#x00F1;oras. Castidad</emph>. Navarrete, Juan.
+<unitdate>1952</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">18</container>
+<unittitle><emph render="italic">Ejercicios Cuaresmales para
+Se&#x00F1;oras Moralidad.</emph>. Navarrete, Juan.
+<unitdate>1952</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">19</container>
+<unittitle><emph render="italic">Ejercicios Cuaresmales para
+Se&#x00F1;oras Justicia Social.</emph>. Navarrete, Juan.
+<unitdate>1952</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">20</container>
+<unittitle><emph render="italic">Abusos en el culto. Devoci&#x00F3;n a los
+Santos</emph>. Navarrete, Juan.
+<unitdate>1948</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">21</container>
+<unittitle><emph render="italic">Jueves santo. Serm&#x00F3;n de la
+instituci&#x00F3;n</emph>. Navarrete, Juan.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">22</container>
+<unittitle><emph render="italic">Jueves santo. Serm&#x00F3;n de la
+instituci&#x00F3;n</emph>. Navarrete, Juan.
+<unitdate>1949</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">23</container>
+<unittitle><emph render="italic">Jueves santo. Serm&#x00F3;n de la
+instituci&#x00F3;n</emph>. Navarrete, Juan. 2nd copy.
+<unitdate>1949</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">24</container>
+<unittitle><emph render="italic">Jueves santo. Serm&#x00F3;n de la
+instituci&#x00F3;n</emph>. Navarrete, Juan.
+<unitdate>1948</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">25</container>
+<unittitle><emph render="italic">Jueves santo. Serm&#x00F3;n de la
+instituci&#x00F3;n </emph>. Navarrete, Juan. 2nd copy.
+<unitdate>1948</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">26</container>
+<unittitle><emph render="italic">Jueves santo. Serm&#x00F3;n del
+mandato</emph>. Navarrete, Juan.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">27</container>
+<unittitle><emph render="italic">Jueves santo. Serm&#x00F3;n del
+mandato</emph>. Navarrete, Juan. 2nd copy.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">28</container>
+<unittitle><emph render="italic">Jueves santo. Oraci&#x00F3;n del
+Huerto</emph>. Navarrete, Juan.
+<unitdate>1952</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">29</container>
+<unittitle><emph render="italic">Jueves santo. Oraci&#x00F3;n del
+Huerto</emph>. Navarrete, Juan.
+<unitdate>1948</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">30</container>
+<unittitle><emph render="italic">Jueves santo. Eucaristia y
+sacerdocio</emph>. Navarrete, Juan.
+<unitdate>1952</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">31</container>
+<unittitle><emph render="italic">Viernes Santo. Serm&#x00F3;n de
+P&#x00E9;same</emph>. Navarrete, Juan.
+<unitdate>1953</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">32</container>
+<unittitle><emph render="italic">Viernes Santo. Serm&#x00F3;n de
+P&#x00E9;same</emph>. Navarrete, Juan.
+<unitdate>1949</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">33</container>
+<unittitle><emph render="italic">Viernes Santo. Serm&#x00F3;n de
+P&#x00E9;same</emph>. Navarrete, Juan.
+<unitdate>1948</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">35</container>
+<unittitle><emph render="italic">Padre, que todos sean uno. Serm&#x00F3;n
+CUM Hermosillo.</emph>. Talavera, Carlos.
+<unitdate>1975</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">36</container>
+<unittitle><emph render="italic">El amor de Cristo nos urge</emph>.
+Monta&#x00F1;o, Hugo.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">37</container>
+<unittitle><emph render="italic">Bienaventuerados los pobres de
+Esp&#x00ED;ritu</emph>. Cepeda, Oneismo.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">38</container>
+<unittitle><emph render="italic">La evangelizaci&#x00F3;n portadora de la
+paz, "Reciben Shalom."</emph> Betancourt, Dario.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">39</container>
+<unittitle><emph render="italic">Mar&#x00ED;a en las Escrituras</emph>.
+Betancourt, Dario.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">40</container>
+<unittitle><emph render="italic">&#x00BF;Por qu&#x00E9; estoy enfermo?</emph>.
+Betancourt, Dario.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">41</container>
+<unittitle><emph render="italic">"Los sacramentos", Fuente de
+Sanci&#x00F3;n.</emph>. Betancourt, Dario.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">42</container>
+<unittitle><emph render="italic">Capilla del Carmen.</emph>.
+Lazaro.
+<unitdate>1994</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">43</container>
+<unittitle><emph render="italic">Sed de agua viva.</emph>. Cordova,
+Jorge.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">44</container>
+<unittitle><emph render="italic">Presencia de la Virgen en el
+mundo</emph>. Cordova, Jorge.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">45</container>
+<unittitle><emph render="italic">El Esp&#x00ED;ritu Santo y Mar&#x00ED;a</emph>.
+Cordova, Jorge.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">46</container>
+<unittitle><emph render="italic">La Iglesia Catolica y las sectas
+Protestantes</emph>. Amatuli, Flaviano.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">47</container>
+<unittitle><emph render="italic">La Iglesia Catolica y las sectas
+Protestantes</emph>. Amatuli, Flaviano. 2nd copy.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">48</container>
+<unittitle><emph render="italic">Vida de fraternidad – III.
+Exigencias Fraternas</emph>. Larra&#x00F1;aga, Ignacio.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">49</container>
+<unittitle><emph render="italic">Vivir en el Esp&#x00ED;ritu
+Santo.</emph>. Segundo, Cano F.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">50</container>
+<unittitle><emph render="italic">El Don de Dios</emph>. Segundo,
+Cano F.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">51</container>
+<unittitle><emph render="italic">Volver al Dios que nos ama.
+Renovaci&#x00F3;n</emph>. Segundo, Cano F.
+<unitdate>1991</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">52</container>
+<unittitle><emph render="italic">Volver al Dios que nos ama.
+Renovaci&#x00F3;n</emph>. Segundo, Cano F. 2nd copy.
+<unitdate>1991</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">53</container>
+<unittitle><emph render="italic">El Padre promote enviar al
+Esp&#x00ED;ritu Santo</emph>. Segundo, Cano F.
+<unitdate>1991</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">54</container>
+<unittitle><emph render="italic">Teolog&#x00ED;a fundamental</emph>.
+Ponce.
+<unitdate>1980</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">55</container>
+<unittitle><emph render="italic">El Rosario, desde el punto de
+vista terap&#x00E9;utico y spiritual</emph>. De Jes&#x00FA;s Bucio, Eduardo.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">56</container>
+<unittitle>Side A:<emph render="italic">Cristo, centro de la
+historia. Mateo, Marcos, Lucas y Juan </emph>. Side B: <emph render="italic">Cristo anuncia Un mundo nuevo</emph>. Sociedad B&#x00ED;blica Cat&#x00F3;lica
+Nac. De M&#x00E9;xico.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">57</container>
+<unittitle>Side A:<emph render="italic">Aspecto humano-divino de la
+Sociedad Fundada por Cristo</emph>. Side B: <emph render="italic">Mientras
+Cristo Regresa</emph>. Sociedad B&#x00ED;blica Cat&#x00F3;lica Nac. De M&#x00E9;xico.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">58</container>
+<unittitle>Los sacramentos. Side A:<emph render="italic">Las
+ordenes sagradas</emph>. Side B: <emph render="italic">El matrimonio</emph>.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">59</container>
+<unittitle>Side A:<emph render="italic">Dios llama a Abraham
+(G&#x00E9;nesis). Colecci&#x00F3;n circulo Biblico</emph>. Side B: <emph render="italic">La
+alianza de Dios con Israel (Exodo)</emph>. Sociedad B&#x00ED;blica Cat&#x00F3;lica Nac. De
+M&#x00E9;xico.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">60</container>
+<unittitle>Side A:<emph render="italic">En marcha hacia la tierra
+prometida</emph>. Side B: <emph render="italic">Israel se establece en
+Caneen</emph>. Sociedad B&#x00ED;blica Cat&#x00F3;lica Nac. De M&#x00E9;xico.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">61</container>
+<unittitle>Side A:<emph render="italic">Los profetas se&#x00F1;alan el
+pedcado y el catigo de Israel</emph>. Side B: <emph render="italic">El perd&#x00F3;n y
+la espera del mesias</emph>. Sociedad B&#x00ED;blica Cat&#x00F3;lica Nac. De M&#x00E9;xico.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">62</container>
+<unittitle><emph render="italic">Mar&#x00ED;a, estrella, de la
+evangelizaci&#x00F3;n</emph>. Sevillano, Lino.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">63</container>
+<unittitle><emph render="italic">Oraci&#x00F3;n de la noche</emph>. Ruiz,
+Blanca.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">64</container>
+<unittitle><emph render="italic">Un poco m&#x00E1;s. Venid a mi los que
+esteis fatigados por la carga, que yo os aliviare</emph>. Ruiz, Blanca.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">65</container>
+<unittitle><emph render="italic">Le llave de oro de la sanaci&#x00F3;n el
+perdon</emph>. Ruiz, Blanca.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">66</container>
+<unittitle><emph render="italic">Un poco m&#x00E1;s. Venid a mi los que
+esteis fatigados por la carga, que yo os aliviare</emph>. Ruiz, Blanca. 2nd
+copy.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">67</container>
+<unittitle><emph render="italic">De la renovaci&#x00F3;n encuentro en el
+CUM</emph>. Ruiz, Blanca.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">68</container>
+<unittitle><emph render="italic">El amor de Jesus reconstruye las
+relaciones Familiares</emph>. Sangiovani, Mar&#x00ED;a.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">69</container>
+<unittitle><emph render="italic"> El amor de Jesus reconstruye las
+relaciones Familiares</emph>. Sangiovani, Mar&#x00ED;a.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">70</container>
+<unittitle>Side A: <emph render="italic">Los sacramentos en
+general</emph>. Side B: <emph render="italic">El bautismo y la
+confirmaci&#x00F3;n</emph>.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">71</container>
+<unittitle>Los sacramentos. Side A: <emph render="italic">La
+penitencia</emph>. Side B: <emph render="italic">La extrema Unci&#x00F3;n</emph>.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">72</container>
+<unittitle>Side A: <emph render="italic">Del credo-La creaci&#x00F3;n de
+los Angeles</emph>. Side B: <emph render="italic">Creaci&#x00F3;n y ca&#x00ED;da del
+hombre</emph>.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">73</container>
+<unittitle>Side A: <emph render="italic">Del credo-El Esp&#x00ED;ritu
+Santo y la gracia</emph>. Side B: <emph render="italic">Del credo-La santa
+Iglesia Cat&#x00F3;lico</emph>.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">74</container>
+<unittitle>Side A: <emph render="italic">Del credo-Dios y sus
+perfecciones</emph>. Side B: <emph render="italic">Del credo-La sant&#x00ED;sima
+Trinidad</emph>.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">75</container>
+<unittitle>Side A: <emph render="italic">Del credo-La Com. de los
+Santos</emph>. Side B: <emph render="italic">La Resurrecci&#x00F3;n y la vida
+Sempiterna</emph>.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">76</container>
+<unittitle>Side A: <emph render="italic">Los mandamientos en
+general</emph>. Side B: <emph render="italic">Los mandamientos de la
+Iglesia</emph>.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">77</container>
+<unittitle><emph render="italic">El primer mandamiento de la ley de
+Dios</emph>.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">78</container>
+<unittitle>Side A: <emph render="italic">Segundo y tercer mandates
+de la ley de Dios</emph>. Side B: <emph render="italic">El cuarto mandamiento
+de la ley de Dios</emph>.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">79</container>
+<unittitle>Side A: <emph render="italic">El quinto mandamiento de
+la ley de Dios</emph>. Side B: <emph render="italic">El octavo mandamiento de
+la ley de Dios</emph>.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">80</container>
+<unittitle>Side A: <emph render="italic">Sexto y novena
+mandamientos de la ley de Dios</emph>. Side B: <emph render="italic">S&#x00E9;ptimo y
+d&#x00E9;cimo mandamientos de la ley de Dios</emph>.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">81</container>
+<unittitle><emph render="italic">El santo sacrificio de la
+misa</emph>.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">82</container>
+<unittitle><emph render="italic">La Sagrada Eucarist&#x00ED;a</emph>.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">83</container>
+<unittitle>Side A: <emph render="italic">La muerte de Cristo es
+nuestra liberaci&#x00F3;n (Mateo, Marcos, Lucas y Juan)</emph>. Side B:
+<emph render="italic">La resurrecci&#x00F3;n de Cristo es prenda de Nuestra
+immortalidad</emph>.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">84</container>
+<unittitle> <emph render="italic">La confianza en Dios y en Mar&#x00ED;a
+logra Maravillas</emph>. Marychel y Fernando.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">85</container>
+<unittitle> <emph render="italic">Predeicaci&#x00F3;n</emph>. L&#x00E1;zaro, Ma.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">86</container>
+<unittitle> <emph render="italic">Visita del delegado apostolic
+cena</emph>. Navarrete, Juan y Lopez Legaz.
+<unitdate>1960</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">1</container>
+<unittitle> <emph render="italic">El Amor de Dios Tema II de la
+Renovaci&#x00F3;n</emph>.
+<unitdate>1991</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">2</container>
+<unittitle> Side A: <emph render="italic">Cantos de Misa</emph>.
+Side B: <emph render="italic">Cantos de Mensaje y Recreativos</emph>.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">3</container>
+<unittitle> <emph render="italic">Cantos de la misa con
+guitarras</emph>.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">4</container>
+<unittitle> <emph render="italic">Coro de la Capilla de Santa
+Eduwiges</emph>.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">5</container>
+<unittitle> Side A: <emph render="italic">del Credo, La Encarnaci&#x00F3;n
+(La Navidad)</emph>. Side B: <emph render="italic">del Credo La
+Redenci&#x00F3;n</emph>.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">6</container>
+<unittitle> <emph render="italic">Ex-Testigo de Jehova</emph>.
+Antonio Carrea.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">7</container>
+<unittitle> <emph render="italic">La eucaristia, vida de unidad con
+Cristo y los hermanos </emph>. P.J. C&#x00F3;rdova. Encuentro en Phoenix.
+<unitdate>1991</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">8</container>
+<unittitle> <emph render="italic">La eucaristia y los
+j&#x00F3;venes</emph>.Guillermo Valencia. Encuentro en Phoenix.
+<unitdate>1991</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">9</container>
+<unittitle> <emph render="italic">Huesos secos</emph>. Salvador
+G&#x00F3;mez.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">10</container>
+<unittitle> <emph render="italic">La intimidad. Caso 8 a&#x00F1;os</emph>.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">11</container>
+<unittitle> <emph render="italic">Mar&#x00ED;a Intercesora. Jes&#x00FA;s tambi&#x00E9;n
+puede cambiar nuestra agua en vino</emph>.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">12</container>
+<unittitle> <emph render="italic">Me abandonaron a m&#x00ED;, fuente de
+agua viva</emph>. P. Andr&#x00E9;s D&#x00E1;vila Encuentro en Los Angeles.
+<unitdate>1991</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">13</container>
+<unittitle> <emph render="italic">Mi Cristo roto</emph>, de Ram&#x00F3;n
+Cu&#x00E9;, S.J. Voz de Jos&#x00E9; Antonio Cossio.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">14-25</container>
+<unittitle> <emph render="italic">Monje trapense. Rafael su vida,
+sus escritos</emph>. No. 011 – No. 022.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">26</container>
+<unittitle> <emph render="italic">Pensando en Dios. Cantos de
+Renovaci&#x00F3;n</emph>.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">27</container>
+<unittitle> Side A: <emph render="italic">El Rosario, desde el
+punto de vista Terap&#x00E9;utico y espiritual</emph>. Eduardo de Jes&#x00FA;s Bucio. Side B:
+<emph render="italic">Las Quince Promesa </emph>
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">28</container>
+<unittitle> <emph render="italic">Testimonio de Vicky Davis. "Yo
+soy el pan de vida"</emph>. Encuentro en Phoenix.
+<unitdate>1991</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">29</container>
+<unittitle> <emph render="italic">En Tierra Santa</emph>.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">30</container>
+<unittitle> <emph render="italic">A la vuelta al mundo en 80 ritmos
+</emph>.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series" id="ser6">
+<did>
+<unittitle>Oversize.
+<unitdate type="inclusive">1986-1989</unitdate></unittitle>
+</did>
+<scopecontent>
+<p>This series contains an oversize item from the Printed Materials
+series: En Marcha, a religious newsletter from Hermosillo, Sonora. All
+materials are in Spanish. </p>
+</scopecontent>
+<c02 level="file">
+<did>
+<container type="box">7</container>
+<container type="folder">1</container>
+<unittitle> Printed Materials: Newsletters – <emph render="italic">En Marcha</emph>.
+<unitdate>1986</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">7</container>
+<container type="folder">2</container>
+<unittitle> Printed Materials: Newsletters – <emph render="italic">En Marcha</emph>.
+<unitdate>1987</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">7</container>
+<container type="folder">3</container>
+<unittitle> Printed Materials: Newsletters – <emph render="italic">En Marcha</emph>.
+<unitdate>1988</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">7</container>
+<container type="folder">4</container>
+<unittitle> Printed Materials: Newsletters – <emph render="italic">En Marcha</emph>.
+<unitdate>1989</unitdate></unittitle>
+</did>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

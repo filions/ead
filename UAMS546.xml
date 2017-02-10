@@ -1,0 +1,5076 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+   <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0"> 
+      <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special Collections//text
+      	(US::AzU::Wieslaw Z. Wisniewski Papers)//en""UAMS546.xml"
+      </eadid> 
+      <filedesc> 
+         <titlestmt> 
+         	<titleproper encodinganalog="title">Wieslaw Z. Wisniewski Papers,
+	 	       <date normal="1939/1994" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">1939-1994</date>
+	 	       <date normal="1976/1990" type="bulk">(bulk 1976-1990)</date>
+	 	    </titleproper>
+         	<titleproper type="filing" altrender="nodisplay"> Wisniewski, (Wieslaw Z.) Papers,
+            </titleproper>
+         	<author>Processed by Ofelia Zepeda and Debbie Weller.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date normal= "2015" era= "ce" calendar = "gregorian">; 2015</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+            <date era="ce" encodinganalog="date" normal="20151214">December 14, 2015</date>
+  	     </creation>
+	     <langusage>Finding aid encoded in<language> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+      <did id="a1"> 
+         <head>Collection Summary</head> 
+      	<unittitle encodinganalog="245" label="Collection Name:"> Wieslaw Z. Wisniewski Papers,
+            <unitdate type="inclusive" label="Dates:" normal="1939/1994">1939-1994</unitdate>
+            <unitdate type="bulk" label="Dates:" normal="1976/1990">(bulk 1976-1990)</unitdate>
+  	     </unittitle>	 
+	     <unitid label="Collection Number:" encodinganalog="099" repositorycode="AzU" countrycode="us">MS 546</unitid>
+	     <origination label="Creator:"> 
+            <persname source="lcnaf" encodinganalog="100">Wisniewski, Wieslaw Z.</persname></origination>
+      	<abstract label="Abstract:">The Wieslaw Z. Wisniewski Papers document the University of Arizona Lunar and Planetary 
+      								Laboratory astronomer&apos;s research in the field of comets, stars, extra-galactic objects, 
+      								and asteroids. This collection includes observational findings, research, and correspondence 
+      								related to his research endeavors. The bulk of his research focused on near-Earth objects, especially asteroids.</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description:"><extent>9 linear feet</extent></physdesc>	 
+	     <repository label="Repository:"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng" scriptcode="Latin">English.</language></langmaterial>
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+         <p>There are no restrictions on this collection.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+      	<p>Wieslaw Z. Wisniewski Papers (MS 546). Special Collections, University of Arizona Libraries.</p>
+      </prefercite> 
+      <processinfo>
+         <head>Processing History</head>
+      	<p>Processed by Ofelia Zepeda and Debbie Weller.</p>
+      </processinfo>
+      <bioghist id="a2" encodinganalog="545"> 
+         <head>Biographical Note</head> 
+      	<p>Lunar and Planetary Laboratory astronomer Dr. Wieslaw Z. Wisniewksi (1931-1994) was a notable expert on photometric standards, 
+      	CCD photometry and photomultipliers. He focused on light curves of comets and minor planets, especially Earth-approaching objects. 
+      	He was born on May 2, 1931 in Poland. In his correspondence he writes of how he lost his father to starvation and he himself nearly 
+      	died from hunger while dealing with a Nazi occupied country. He was saved from starvation with the ending of the Second World War. 
+      	Wisniewski also endured the communist regime in Poland. Despite the strife of a politically unstable country, he was successful. 
+      	Wisniewski was a high school mathematics teacher from 1951-1953 while simultaneously working on an M.A. in Astronomy from Poznan 
+      	University which he received in 1952. He secured a job as a research assistant at the Cracow Observatory of Jagiellonian University 
+      	where he eventually moved up to the position of lecturer in 1954. He also participated as a Scientist of the International Geophysical 
+      	Year Expedition from 1957-1959. Wisniewski resumed his position at Cracow Observatory as a senior lecturer in 1959. He received his 
+      	D.Sc. in Astronomy from Jagiellonian University in 1962. </p> 
+      	<p>In 1963, Wisniewski took a leave of absence from Cracow Observatory to work as a research associate at the Lunar Planetary Laboratory 
+      	at the University of Arizona. He worked extensively with Dr. Harold Johnson, who at the time was breaking new ground by using the UBV photometric 
+      	system. Both scientists worked on a landmark study of over 5000 bright stars in UBV which they published in 1966. They also recorded observations 
+      	of Seyfert Galaxies, RR Lyrae stars and supernovae. Wisniewski moved up in ranks as an assistant professor.  During this time he was also to confirm 
+      	that both comets Wolf and Harrington were in fact the same object resulting in the comet named P/Wolf-Harrington. He remained at the Lunar 
+      	Planetary Laboratory until 1967.</p>
+      	<p>After a brief four year homecoming to Cracow Observatory, he returned in 1971 to the Lunar Planetary Laboratory for the duration of his career.  
+      	As his career progressed, Wisniewski&apos;s research did as well. He moved to using charge-coupled devices or CCD detectors which detect the UV, visible 
+      	and near-infra light. He made hundreds of observations using this method. Wisniewski spent over three hundred nights per year observing on a variety 
+      	of telescopes. He used the 28&quot; and 61&quot; telescopes on Mt. Bigelow, the 60&quot; telescopes on Mt. Lemmon and Kitt Peak National Observatory, and even made 
+      	the trek to Cerro Tololo in Chile. He collaborated extensively with many other astronomers including Theodore Faÿ, George Coyne, Dave Tholen, Tom Gehrels, 
+      	and many other notable astronomers of his time.  He worked on the light curve and taxonomic observations of hundreds of asteroids and multi-color photometry, 
+      	participated in global observations such as International Halley Watch and 243 Ida and 951 Gaspra as part of the Galileo spacecraft&apos;s journey to Jupiter. 
+      	He contributed early images of P/Shoemaker-Levy 9 to the astronomy community. Wisniewski has a minor planet named after him, (2256) Wisniewski. Wieslaw Z. 
+      	Wisniewski died on Monday February 28, 1994.</p>
+      </bioghist> 
+      <arrangement id="a4" encodinganalog="351$a"> 
+         <head>Arrangement</head> 
+  	     <p>This collection is organized into 3 series.</p>	 
+         <list>
+         	<item>Series I: Correspondence Files,
+         		<unitdate>1966-1994</unitdate></item>
+         	<item>Series II: Research Files,
+         		<unitdate>1939-1994</unitdate></item>
+         			<item>Subseries 1: Comets,
+         				<unitdate>1970-1991</unitdate></item>
+         			<item>Subseries 2: Stars and Extra Galactic Objects,
+         				<unitdate>1939-1993</unitdate></item>
+         			<item>Subseries 3: Asteroids,
+         				<unitdate>1974-1994</unitdate></item>
+         			<item>Subseries 4: Proposals and Grants,
+         				<unitdate>1977-1994</unitdate></item>
+         			<item>Subseries 5: Miscellaneous Research,
+         				<unitdate>1975-1994</unitdate></item>
+         	<item>Series III: Scholarly Files,
+         		<unitdate>1975-1993</unitdate></item>
+         			<item>Subseries 1: Publications,
+         				<unitdate>1975-1993</unitdate></item>
+         			<item>Subseries 2: Book Reviews,
+         				<unitdate>1986-1993</unitdate></item>
+         			<item>Subseries 3: Conferences and Meetings,
+         				<unitdate>1988-1993</unitdate></item>
+         </list>
+      </arrangement> 
+      <scopecontent id="a3" encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>Papers 1939-1994: This collection documents Wisniewski&apos;s astronomical research through the use of photometric standards, 
+      	CCD photometry and photomultipliers. Wisniewski focused on light curves of comets and minor planets, especially Earth-approaching 
+      	objects. The collection includes observations of comets, stars, extra-galactic objects, and asteroids as well as correspondence 
+      	documenting the personal and professional relationships between Wisniewski and other scientists. The collection follows Wisniewski&apos;s 
+      	original order. Materials include, but are not limited to letters, CCD photometry results, observation charts, black and white 
+      	photos of CCD captures, and proposals at various research levels.</p> 
+      </scopecontent>
+      <controlaccess>
+         <head>Access Terms</head>
+         <list type="simple">
+            <item>
+            	<persname encodinganalog="600" source= "lcnaf">Coyne, George.</persname>
+  		    </item>
+         	<item>
+         		<persname encodinganalog="600" source= "lcnaf">Faÿ, Theodore.</persname>
+         	</item>
+         	<item>
+         		<persname encodinganalog="600" source= "lcnaf">Gehrels, Tom.</persname>
+         	</item>
+         	<item>
+         		<persname encodinganalog="600" source= "lcnaf">Johnson, Harold.</persname>
+         	</item>
+         	<item>
+         		<persname encodinganalog="600" source= "lcnaf">Tholen, David.</persname>
+         	</item>
+         	<item>
+         		<persname encodinganalog="600" source= "lcnaf">Zellner, Benjamin.</persname>
+         	</item>
+  		    <item>
+  		    	<corpname encodinganalog="610" source= "lcnaf">American Astronomical Society.</corpname>
+  		    </item>
+         	<item>
+         		<corpname encodinganalog="610" source= "lcnaf">Cerro Tololo Inter-American Observatory.</corpname>
+         	</item>
+         	<item>
+         		<corpname encodinganalog="610" source= "lcnaf">International Astronomical Union.</corpname>
+         	</item>
+         	<item>
+         		<corpname encodinganalog="610" source= "lcnaf">National Science Foundation.</corpname>
+         	</item>
+         	<item>
+         		<corpname encodinganalog="610" source= "lcnaf">Planetarium I Obserwatorium Astronomiczne.</corpname>
+         	</item>
+         	<item>
+         		<corpname encodinganalog="610" source= "lcnaf">University of Arizona. Lunar and Planetary Laboratory.</corpname>
+         	</item>
+  		    <item>
+  			   <subject encodinganalog="650" source= "lcsh">Asteroids.</subject>
+  		    </item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Astronomy.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Comets -- Observations.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Galaxies.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Photometry.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Space.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Stars.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Telescopes.</subject>
+         	</item>
+  		    <item>
+  		    	<geogname encodinganalog="651" source="lcsh">Cerro Tololo Inter-American Observatory.</geogname>
+  		    </item>
+         	<item>
+         		<geogname encodinganalog="651" source="lcsh">Kitt Peak National Observatory.</geogname>
+         	</item>
+         	<item>
+         		<geogname encodinganalog="651" source="lcsh">Mt. Lemmon Observatory.</geogname>
+         	</item>
+         	<item>
+         		<geogname encodinganalog="651" source="lcsh">Steward Observatory.</geogname>
+         	</item>
+         	<item>
+         		<geogname encodinganalog="651" source="lcsh">University of Arizona.</geogname>
+         	</item>
+         </list>
+      </controlaccess>
+      <dsc type="combined" id="a23"> 
+        	<head>Container List</head> 
+        <c01 level="series" id="ser1"> 
+        <did> 
+        <unittitle>Series 1: Correspondence,</unittitle> 
+		<unitdate type="inclusive">1966-1994</unitdate>
+		</did>
+	 	<scopecontent>
+	 	<p>Contains personal and professional correspondence maintained by Wisniewski and varies from professional 
+	 	colleagues and organizations to personal topics of interest.</p>
+	 	</scopecontent>
+		    
+         		<c02 level="file"> 
+                <did> 
+			    <container type="box">1</container> 
+			    <container type="folder">1</container> 
+			    <unittitle>A&apos;Hearn, Michael F.,</unittitle>
+			    <unitdate>1983-1987</unitdate>
+		        </did> 
+		   		</c02>
+        	
+        		<c02 level="file"> 
+        		<did> 
+        		<container type="box">1</container> 
+        		<container type="folder">2</container> 
+        		<unittitle>American Astronomical Society,</unittitle>
+        		<unitdate>1977-1991</unitdate>
+        		</did> 
+        		</c02> 
+        	
+        		<c02 level="file"> 
+        		<did> 
+        		<container type="box">1</container> 
+        		<container type="folder">3</container> 
+        		<unittitle>American Astronomical Society Report, Draft Lunar Planetary Laboratory Report,</unittitle>
+        		<unitdate>1981, 1987</unitdate>
+        		</did> 
+        		</c02> 
+        	
+        		<c02 level="file"> 
+        		<did> 
+        		<container type="box">1</container> 
+        		<container type="folder">4</container> 
+        		<unittitle>Banachiewicz, Tadeusz,</unittitle>
+        		<unitdate>1993</unitdate>
+        		</did> 
+        		</c02> 
+        	
+        		<c02 level="file"> 
+        		<did> 
+        		<container type="box">1</container> 
+        		<container type="folder">5</container> 
+        		<unittitle>B,</unittitle>
+        		<unitdate>1982-1992</unitdate>
+        		</did> 
+        		</c02> 
+        	
+        		<c02 level="file"> 
+        		<did> 
+        		<container type="box">1</container> 
+        		<container type="folder">6</container> 
+        		<unittitle>Candon, Pierre,</unittitle>
+        		<unitdate>1980-1983</unitdate>
+        		</did> 
+        		</c02> 
+        	
+        		<c02 level="file"> 
+        		<did> 
+        		<container type="box">1</container> 
+        		<container type="folder">7</container> 
+        		<unittitle>Cerro Tololo International Observatory,</unittitle>
+        		<unitdate>1978-1987</unitdate>
+        		</did> 
+        		</c02> 
+        	
+        		<c02 level="file"> 
+        		<did> 
+        		<container type="box">1</container> 
+        		<container type="folder">8</container> 
+        		<unittitle>Coyne, George,</unittitle>
+        		<unitdate>1972-1986</unitdate>
+        		</did> 
+        		</c02> 
+        	
+        		<c02 level="file"> 
+        		<did> 
+        		<container type="box">1</container> 
+        		<container type="folder">9</container> 
+        		<unittitle>C,</unittitle>
+        		<unitdate>1979-1983</unitdate>
+        		</did> 
+        		</c02> 
+        	
+        		<c02 level="file"> 
+        		<did> 
+        		<container type="box">1</container> 
+        		<container type="folder">10</container> 
+        		<unittitle>Echevarría, Juan,</unittitle>
+        		<unitdate>1984-1986</unitdate>
+        		</did> 
+        		</c02> 
+        	
+        		<c02 level="file"> 
+        		<did> 
+        		<container type="box">1</container> 
+        		<container type="folder">11</container> 
+        		<unittitle>Gehrels, Tom,</unittitle>
+        		<unitdate>1983-1986</unitdate>
+        		</did> 
+        		</c02> 
+        	
+        		<c02 level="file"> 
+        		<did> 
+        		<container type="box">1</container> 
+        		<container type="folder">12</container> 
+        		<unittitle>International Astronomical Union, XVII General Assembly,</unittitle>
+        		<unitdate>1979</unitdate>
+        		</did> 
+        		</c02> 
+        	
+        		<c02 level="file"> 
+        		<did> 
+        		<container type="box">1</container> 
+        		<container type="folder">13</container> 
+        		<unittitle>H,</unittitle>
+        		<unitdate>1978-1991</unitdate>
+        		</did> 
+        		</c02> 
+        	
+        		<c02 level="file"> 
+        		<did> 
+        		<container type="box">1</container> 
+        		<container type="folder">14</container> 
+        		<unittitle>International Astronomical Union Commission 15,</unittitle>
+        		<unitdate>1980-1992</unitdate>
+        		</did> 
+        		</c02> 
+        	
+        		<c02 level="file"> 
+        		<did> 
+        		<container type="box">1</container> 
+        		<container type="folder">15</container> 
+        		<unittitle>Johnson, Harold,</unittitle>
+        		<unitdate>1976-1980, 1992</unitdate>
+        		</did> 
+        		</c02> 
+        	
+        		<c02 level="file"> 
+        		<did> 
+        		<container type="box">1</container> 
+        		<container type="folder">16</container> 
+        		<unittitle>Kitt Peak National Observatory,</unittitle>
+        		<unitdate>1986</unitdate>
+        		</did> 
+        		</c02> 
+        	
+        		<c02 level="file"> 
+        		<did> 
+        		<container type="box">1</container> 
+        		<container type="folder">17</container> 
+        		<unittitle>K,</unittitle>
+        		<unitdate>1987-1988</unitdate>
+        		</did> 
+        		</c02> 
+        	
+        		<c02 level="file"> 
+        		<did> 
+        		<container type="box">1</container> 
+        		<container type="folder">18</container> 
+        		<unittitle>L,</unittitle>
+        		<unitdate>1974-1989</unitdate>
+        		</did> 
+        		</c02> 
+        	
+        		<c02 level="file"> 
+        		<did> 
+        		<container type="box">1</container> 
+        		<container type="folder">19</container> 
+        		<unittitle>Maslowski, Josef,</unittitle>
+        		<unitdate>1981-1983</unitdate>
+        		</did> 
+        		</c02> 
+        	
+        		<c02 level="file"> 
+        		<did> 
+        		<container type="box">1</container> 
+        		<container type="folder">20</container> 
+        		<unittitle>Mufson, Stuart,</unittitle>
+        		<unitdate>1978-1989</unitdate>
+        		</did> 
+        		</c02> 
+        	
+        		<c02 level="file"> 
+        		<did> 
+        		<container type="box">1</container> 
+        		<container type="folder">21</container> 
+        		<unittitle>M,</unittitle>
+        		<unitdate>1980-1990</unitdate>
+        		</did> 
+        		</c02> 
+        	
+        		<c02 level="file"> 
+        		<did> 
+        		<container type="box">1</container> 
+        		<container type="folder">22</container> 
+        		<unittitle>National Research Council,</unittitle>
+        		<unitdate>1973-1974</unitdate>
+        		</did> 
+        		</c02> 
+        	
+        		<c02 level="file"> 
+        		<did> 
+        		<container type="box">1</container> 
+        		<container type="folder">23</container> 
+        		<unittitle>National Science Foundation,</unittitle>
+        		<unitdate>1966-1985</unitdate>
+        		</did> 
+        		</c02> 
+        	
+        		<c02 level="file"> 
+        		<did> 
+        		<container type="box">1</container> 
+        		<container type="folder">24</container> 
+        		<unittitle>Planetarium I Obserwatorium Astronomiczne,</unittitle>
+        		<unitdate>1984-1994</unitdate>
+        		</did> 
+        		</c02> 
+        	
+        		<c02 level="file"> 
+        		<did> 
+        		<container type="box">1</container> 
+        		<container type="folder">25</container> 
+        		<unittitle>Planetary Science Institute (Polskie Towarzystwo Astronomiczne),</unittitle>
+        		<unitdate>1981-1993</unitdate>
+        		</did> 
+        		</c02> 
+        	
+        		<c02 level="file"> 
+        		<did> 
+        		<container type="box">1</container> 
+        		<container type="folder">26</container> 
+        		<unittitle>Probst, Ronald G.,</unittitle>
+        		<unitdate>1981, 1982, 1989</unitdate>
+        		</did> 
+        		</c02> 
+        	
+        		<c02 level="file"> 
+        		<did> 
+        		<container type="box">1</container> 
+        		<container type="folder">27</container> 
+        		<unittitle>P,</unittitle>
+        		<unitdate>1982-1990</unitdate>
+        		</did> 
+        		</c02>
+        	
+        		<c02 level="file"> 
+        		<did> 
+        		<container type="box">1</container> 
+        		<container type="folder">28</container> 
+        		<unittitle>Strittmatter, Peter,</unittitle>
+        		<unitdate>1983-1992</unitdate>
+        		</did> 
+        		</c02>
+        	
+        		<c02 level="file"> 
+        		<did> 
+        		<container type="box">1</container> 
+        		<container type="folder">29</container> 
+        		<unittitle>S,</unittitle>
+        		<unitdate>1974-1989</unitdate>
+        		</did> 
+        		</c02> 
+        	
+        		<c02 level="file"> 
+        		<did> 
+        		<container type="box">1</container> 
+        		<container type="folder">30</container> 
+        		<unittitle>T,</unittitle>
+        		<unitdate>1980-1991</unitdate>
+        		</did> 
+        		</c02> 
+        	
+        		<c02 level="file"> 
+        		<did> 
+        		<container type="box">1</container> 
+        		<container type="folder">31</container> 
+        		<unittitle>Wisniewski, Wieslaw Z.,</unittitle>
+        		<unitdate>1984-1987</unitdate>
+        		</did> 
+        		</c02>
+        	
+        		<c02 level="file"> 
+        		<did> 
+        		<container type="box">1</container> 
+        		<container type="folder">32</container> 
+        		<unittitle>W,</unittitle>
+        		<unitdate>1976-1990</unitdate>
+        		</did> 
+        		</c02>
+        	
+        		<c02 level="file"> 
+        		<did> 
+        		<container type="box">1</container> 
+        		<container type="folder">33</container> 
+        		<unittitle>Zellner, Benjamin,</unittitle>
+        		<unitdate>1977-1988</unitdate>
+        		</did> 
+        		</c02>
+        	
+        		<c02 level="file"> 
+        		<did> 
+        		<container type="box">1</container> 
+        		<container type="folder">34</container> 
+        		<unittitle>Miscellaneous,</unittitle>
+        		<unitdate>undated</unitdate>
+        		</did> 
+        		</c02>
+        	
+	    </c01>
+      	
+      	<c01 level="series" id="ser2"> 
+      	<did> 
+      	<unittitle>Series 2: Research Files,</unittitle> 
+      	<unitdate type="inclusive">1939-1994</unitdate>
+      	</did>
+      		
+      			<c02 level="subseries">
+      			<did> 
+      			<unittitle>Subseries 1: Comets,</unittitle> 
+      			<unitdate type="inclusive">1970-1991</unitdate>
+      			</did> 
+      			<scopecontent>
+      			<p>Contains cometary observations made using the UBVRI process through CCD photometry. Files contain data charts, 
+      			correspondence related specifically to the object, and some photos of the objects themselves. Additionally, 
+      			any associated research proposals and articles are filed with the comet.</p>
+      			</scopecontent>
+      		
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">1</container> 
+      					<container type="folder">35</container> 
+      					<unittitle>P/Arend-Rigaux Comet Observations and Ephemerides,</unittitle>
+      					<unitdate>1976, 1984, 1985</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">1</container> 
+      					<container type="folder">36</container> 
+      					<unittitle>P/Ashbrook-Jackson,</unittitle>
+      					<unitdate>1985</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">1</container> 
+      					<container type="folder">37</container> 
+      					<unittitle>P/Brooks 2,</unittitle>
+      					<unitdate>1987</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">1</container> 
+      					<container type="folder">38</container> 
+      					<unittitle>P/Borrelly and P/Kohoutek,</unittitle>
+      					<unitdate>1987</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">1</container> 
+      					<container type="folder">39</container> 
+      					<unittitle>Comet Chernicki,</unittitle>
+      					<unitdate>1977</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">1</container> 
+      					<container type="folder">40</container> 
+      					<unittitle>Comet Encke,</unittitle>
+      					<unitdate>1970, 1980</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">1</container> 
+      					<container type="folder">41</container> 
+      					<unittitle>P/Giacobini-Zinner,</unittitle>
+      					<unitdate>1985, 1988</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">1</container> 
+      					<container type="folder">42</container> 
+      					<unittitle>Comet Grigg-Skjellerup,</unittitle>
+      					<unitdate>1970-1991</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">1</container> 
+      					<container type="folder">43</container> 
+      					<unittitle>Halley Filters,</unittitle>
+      					<unitdate>1970, 1973</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">1</container> 
+      					<container type="folder">44</container> 
+      					<unittitle>P/Halley Observations,</unittitle>
+      					<unitdate>1985, 1986</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">1</container> 
+      					<unittitle>International Halley Watch,</unittitle>
+      					<unitdate>1981-1986</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">2</container> 
+      					<unittitle>P/Helin,</unittitle>
+      					<unitdate>1987</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">3</container> 
+      					<unittitle>P/Klemola Compared to P/Brooks 2,</unittitle>
+      					<unitdate>1987</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">4</container> 
+      					<unittitle>P/Kopff,</unittitle>
+      					<unitdate>1989-1990</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">5</container> 
+      					<unittitle>P/Neujmin 1: Ephemerides 1,</unittitle>
+      					<unitdate>1983-1984</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">6</container> 
+      					<unittitle>P/Neujmin 1: Ephemerides 2,</unittitle>
+      					<unitdate>1984</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">7</container> 
+      					<unittitle>P/Neujmin 1: Data,</unittitle>
+      					<unitdate>1984-1985</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">8</container> 
+      					<unittitle>Comet Kohoutek,</unittitle>
+      					<unitdate>1972-1973</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">9</container> 
+      					<unittitle>P/Shoemaker-Holmes,</unittitle>
+      					<unitdate>1989-1990</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">10</container> 
+      					<unittitle>121 P/Shoemaker-Holt,</unittitle>
+      					<unitdate>1988</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">11</container> 
+      					<unittitle>121 P/Shoemaker-Levy,</unittitle>
+      					<unitdate>1993</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">12</container> 
+      					<unittitle>Future Comets Observation Data,</unittitle>
+      					<unitdate>undated</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">13</container> 
+      					<unittitle>&quot;The Light Curve of the Nucleus of the Comet d&apos;Arrest&quot;,</unittitle>
+      					<unitdate>1977</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">14</container> 
+      					<unittitle>&quot;Standard Stars for Cometary Photometry&quot;,</unittitle>
+      					<unitdate>1982-1985</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">15</container> 
+      					<unittitle>Ground-Based Support,</unittitle>
+      					<unitdate>1984-1987</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">16</container> 
+      					<unittitle>The Rotation Periods of Hyperion and Comet Gunn,</unittitle>
+      					<unitdate>1982-1984</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">17</container> 
+      					<unittitle>Miscellaneous Comets,</unittitle>
+      					<unitdate>1976-1977</unitdate>
+      					</did>
+      					</c03>
+      			</c02>
+      			
+      			<c02 level="subseries">
+      			<did> 
+      			<unittitle>Subseries 2: Stars and Extra Galactic Objects,</unittitle> 
+      			<unitdate type="inclusive">1939-1993</unitdate>
+      			</did> 
+      			<scopecontent>
+      			<p>Contains observations of stars and extra galactic objects made using the UBVRI process through 
+      			CCD photometry. Files contain data charts, correspondence related specifically to the object, and 
+      			some photos of the objects themselves. Additionally, any associated research proposals and articles 
+      			are filed with the comet.</p>
+      			</scopecontent>
+      			
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">18</container> 
+      					<unittitle>Elliptical Galaxies Observations/Photographs,</unittitle>
+      					<unitdate>1979-1980</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">19</container> 
+      					<unittitle>NGC 7469 23&quot; 02+08,</unittitle>
+      					<unitdate>undated</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">20</container> 
+      					<unittitle>&quot;Spectrum Variability of B2 0738+31 (OI 363)&quot;,</unittitle>
+      					<unitdate>1972, 1979-1982</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">21</container> 
+      					<unittitle>BL LAC Color Changes,</unittitle>
+      					<unitdate>1976-1981</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">22</container> 
+      					<unittitle>Various Quasar (QSO) Finding Charts and Observations,</unittitle>
+      					<unitdate>1970, 1976</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">23</container> 
+      					<unittitle>Uranus Observations,</unittitle>
+      					<unitdate>1978</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">24</container> 
+      					<unittitle>Various Finding Charts,</unittitle>
+      					<unitdate>1973</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">25</container> 
+      					<unittitle>Various Spectra (Alf Lyr),</unittitle>
+      					<unitdate>1975-1976</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">26</container> 
+      					<unittitle>Star Observations for Chile-Cerro Telolo,</unittitle>
+      					<unitdate>1977-1980</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">27</container> 
+      					<unittitle>Vega: Correspondence, Observations and Papers,</unittitle>
+      					<unitdate>1977-1981</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">28</container> 
+      					<unittitle>M CEP 8316,</unittitle>
+      					<unitdate>1970-1972</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">29</container> 
+      					<unittitle>RW CEP,</unittitle>
+      					<unitdate>1970-1972</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">30</container> 
+      					<unittitle>XX PER,</unittitle>
+      					<unitdate>1970-1972</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">31</container> 
+      					<unittitle>ST CEP,</unittitle>
+      					<unitdate>1970-1972</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">32</container> 
+      					<unittitle>S PER,</unittitle>
+      					<unitdate>1970-1972</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">33</container> 
+      					<unittitle>BU GEM,</unittitle>
+      					<unitdate>1970-1972</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">34</container> 
+      					<unittitle>WY Gem 42474,</unittitle>
+      					<unitdate>1970-1972</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">35</container> 
+      					<unittitle>M Supergiants,</unittitle>
+      					<unitdate>1970-1974</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">36</container> 
+      					<unittitle>RS Per,</unittitle>
+      					<unitdate>1970-1972</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">37</container> 
+      					<unittitle>BU Per,</unittitle>
+      					<unitdate>1970-1972</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">38</container> 
+      					<unittitle>FZ Per,</unittitle>
+      					<unitdate>1970-1972</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">39</container> 
+      					<unittitle>U LAC,</unittitle>
+      					<unitdate>1970-1972</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">40</container> 
+      					<unittitle>CE Tau-1845,</unittitle>
+      					<unitdate>1970-1972</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">41</container> 
+      					<unittitle>TV GEM 2190,</unittitle>
+      					<unitdate>1970-1972</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">42</container> 
+      					<unittitle>GK Tau,</unittitle>
+      					<unitdate>1983</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">43</container> 
+      					<unittitle>G2 Stars,</unittitle>
+      					<unitdate>undated</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">44</container> 
+      					<unittitle>Cepheid Star Findings and Charts,</unittitle>
+      					<unitdate>1975</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">45</container> 
+      					<unittitle>Reduced Cepheid Observations,</unittitle>
+      					<unitdate>undated</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">46</container> 
+      					<unittitle>ER Aur 40008000161,</unittitle>
+      					<unitdate>1978</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">47</container> 
+      					<unittitle>CY Aur 4000800125,</unittitle>
+      					<unitdate>1978</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">48</container> 
+      					<unittitle>BM Per 4006300090,</unittitle>
+      					<unitdate>1977</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">49</container> 
+      					<unittitle>HW Pup 4006800223,</unittitle>
+      					<unitdate>1976</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">50</container> 
+      					<unittitle>EV Agl 4000500165,</unittitle>
+      					<unitdate>1978</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">51</container> 
+      					<unittitle>AS Vul 4008800072,</unittitle>
+      					<unitdate>1978</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">52</container> 
+      					<unittitle>&quot;RR Arietis-RR-Lyrae variability star in Ecliping system&quot;,</unittitle>
+      					<unitdate>1971</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">53</container> 
+      					<unittitle>VV 280 Cyg 1085850280,</unittitle>
+      					<unitdate>undated</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">54</container> 
+      					<unittitle>KX Cyg 4003100257,</unittitle>
+      					<unitdate>undated</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">55</container> 
+      					<unittitle>BI Cas 4001800087,</unittitle>
+      					<unitdate>1976-1980, 1993</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">56</container> 
+      					<unittitle>V 396 Cyg 4003100396,</unittitle>
+      					<unitdate>1977</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">57</container> 
+      					<unittitle>CN Sct 4007500114,</unittitle>
+      					<unitdate>1979</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">58</container> 
+      					<unittitle>V 1828 Sgr 4007201828,</unittitle>
+      					<unitdate>1979</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">59</container> 
+      					<unittitle>V 1996 Sgr 4007201996,</unittitle>
+      					<unitdate>1979</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">60</container> 
+      					<unittitle>GQ Vul 4008800199,</unittitle>
+      					<unitdate>1978</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">61</container> 
+      					<unittitle>CN Cep 400200114,</unittitle>
+      					<unitdate>1976</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">62</container> 
+      					<unittitle>V 438 Cyg 4003100438,</unittitle>
+      					<unitdate>1972</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">63</container> 
+      					<unittitle>V 609 Cyg 4003100609,</unittitle>
+      					<unitdate>undated</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">64</container> 
+      					<unittitle>AA Ser Observe Continuously,</unittitle>
+      					<unitdate>1978-1979</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">65</container> 
+      					<unittitle>AV Sgr 4007200075,</unittitle>
+      					<unitdate>1979</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">66</container> 
+      					<unittitle>V 554 Oph 400590554,</unittitle>
+      					<unitdate>1979</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">67</container> 
+      					<unittitle>V 541 Oph 4005900541,</unittitle>
+      					<unitdate>1979</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">68</container> 
+      					<unittitle>KR Aur Spectra and Stars,</unittitle>
+      					<unitdate>1981-1982</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">69</container> 
+      					<unittitle>KR Aur,</unittitle>
+      					<unitdate>1979-1983</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">70</container> 
+      					<unittitle>V 425 Cas,</unittitle>
+      					<unitdate>1981</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">2</container> 
+      					<container type="folder">71</container> 
+      					<unittitle>V 751 Cyg Like VZ Cet,</unittitle>
+      					<unitdate>1980-1981</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file">
+      					<did>
+      					<container type="box">2</container>
+      					<container type="folder">72</container>
+      					<unittitle>RZ Vul</unittitle>
+      					<unitdate>1980-1981</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">1</container> 
+      					<unittitle>CE Sct,</unittitle>
+      					<unitdate>1980</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">2</container> 
+      					<unittitle>AA Tau,</unittitle>
+      					<unitdate>1981</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">3</container> 
+      					<unittitle>MCW 300,</unittitle>
+      					<unitdate>1978</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">4</container> 
+      					<unittitle>U + Image Intensifier Experiment,</unittitle>
+      					<unitdate>1986</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">5</container> 
+      					<unittitle>CCD Comments,</unittitle>
+      					<unitdate>1986</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">6</container> 
+      					<unittitle>CCD Tests,</unittitle>
+      					<unitdate>1986</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">7</container> 
+      					<unittitle>LPL CCD Cosmetics,</unittitle>
+      					<unitdate>1986</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">8</container> 
+      					<unittitle>BL Lac Objects Energy Distribution,</unittitle>
+      					<unitdate>undated</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">9</container> 
+      					<unittitle>BL Lac Fluxes,</unittitle>
+      					<unitdate>1980</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">10</container> 
+      					<unittitle>Colors Versus Magnitude for BL Lac and Seyferts,</unittitle>
+      					<unitdate>undated</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">11</container> 
+      					<unittitle>BL Lac Observing Schedule,</unittitle>
+      					<unitdate>1978</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">12</container> 
+      					<unittitle>BL Lac,</unittitle>
+      					<unitdate>1977-1978</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">13</container> 
+      					<unittitle>BL Lac 3C120,</unittitle>
+      					<unitdate>1972-1973</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">14</container> 
+      					<unittitle>O -- B Stars,</unittitle>
+      					<unitdate>undated</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">15</container> 
+      					<unittitle>Miscellaneous Star Data,</unittitle>
+      					<unitdate>1939-1984</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">16</container> 
+      					<unittitle>PHL 658,</unittitle>
+      					<unitdate>1981-1983</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">17</container> 
+      					<unittitle>001 040,</unittitle>
+      					<unitdate>1981</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">18</container> 
+      					<unittitle>III Zw 2,</unittitle>
+      					<unitdate>1978-1984</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">19</container> 
+      					<unittitle>0026 + 129 S,</unittitle>
+      					<unitdate>1981</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">20</container> 
+      					<unittitle>0049 + 171,</unittitle>
+      					<unitdate>1987</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">21</container> 
+      					<unittitle>0052 + 252,</unittitle>
+      					<unitdate>1987</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">22</container> 
+      					<unittitle>0106 + 13,</unittitle>
+      					<unitdate>1981</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">23</container> 
+      					<unittitle>NGC 404,</unittitle>
+      					<unitdate>1970</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">24</container> 
+      					<unittitle>0109 22,</unittitle>
+      					<unitdate>1977-1983</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">25</container> 
+      					<unittitle>008 + 171 M,</unittitle>
+      					<unitdate>1977-1983</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">26</container> 
+      					<unittitle>MK 358,</unittitle>
+      					<unitdate>1981-1982</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">27</container> 
+      					<unittitle>MK 1015,</unittitle>
+      					<unitdate>1980-1982</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">28</container> 
+      					<unittitle>3C 66A,</unittitle>
+      					<unitdate>1976-1983</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">29</container> 
+      					<unittitle>MK 1037,</unittitle>
+      					<unitdate>1980-1982</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">30</container> 
+      					<unittitle>229 + 13,</unittitle>
+      					<unitdate>1981</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">31</container> 
+      					<unittitle>3C68.2,</unittitle>
+      					<unitdate>1981</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">32</container> 
+      					<unittitle>A002 35 + 16,</unittitle>
+      					<unitdate>1977-1982</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">33</container> 
+      					<unittitle>NGC 1052,</unittitle>
+      					<unitdate>undated</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">34</container> 
+      					<unittitle>MK 1055,</unittitle>
+      					<unitdate>1980-1984</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">35</container> 
+      					<unittitle>3C29.08,</unittitle>
+      					<unitdate>1981-1983</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">36</container> 
+      					<unittitle>0300 + 470,</unittitle>
+      					<unitdate>1981-1982</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">37</container> 
+      					<unittitle>NGC 1275,</unittitle>
+      					<unitdate>1981-1983</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">38</container> 
+      					<unittitle>HD 21110,</unittitle>
+      					<unitdate>1981</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">39</container> 
+      					<unittitle>0323 + 02 Tapia,</unittitle>
+      					<unitdate>undated</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">40</container> 
+      					<unittitle>0414 + 009,</unittitle>
+      					<unitdate>1984</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">41</container> 
+      					<unittitle>0420 - 01,</unittitle>
+      					<unitdate>1977-1983</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">42</container> 
+      					<unittitle>0422 + 00,</unittitle>
+      					<unitdate>1977-1984</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">43</container> 
+      					<unittitle>0430 + 05 3C120,</unittitle>
+      					<unitdate>1978-1983</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">44</container> 
+      					<unittitle>0459 + 060,</unittitle>
+      					<unitdate>1979-1982</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">45</container> 
+      					<unittitle>E Aur,</unittitle>
+      					<unitdate>1982-1983</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">46</container> 
+      					<unittitle>Ank 120,</unittitle>
+      					<unitdate>1984</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">47</container> 
+      					<unittitle>NGC 2110,</unittitle>
+      					<unitdate>1981</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">48</container> 
+      					<unittitle>0710 + 118,</unittitle>
+      					<unitdate>1981</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">49</container> 
+      					<unittitle>MK 376,</unittitle>
+      					<unitdate>1984</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">50</container> 
+      					<unittitle>0724 + 49,</unittitle>
+      					<unitdate>1987</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">51</container> 
+      					<unittitle>0724 + 496,</unittitle>
+      					<unitdate>1978-1985</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">52</container> 
+      					<unittitle>0735 + 17,</unittitle>
+      					<unitdate>1977-1983</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">53</container> 
+      					<unittitle>0736 + 01,</unittitle>
+      					<unitdate>1982</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">54</container> 
+      					<unittitle>0738 + 031 = OI363,</unittitle>
+      					<unitdate>1979-1981</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">55</container> 
+      					<unittitle>MK 79,</unittitle>
+      					<unitdate>1984</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">56</container> 
+      					<unittitle>0742 + 31,</unittitle>
+      					<unitdate>1981-1983</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">57</container> 
+      					<unittitle>078 + 126,</unittitle>
+      					<unitdate>1979-1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">58</container> 
+      					<unittitle>0750 + 54,</unittitle>
+      					<unitdate>1977-1981</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">59</container> 
+      					<unittitle>0752 + 258,</unittitle>
+      					<unitdate>1981-1982</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">60</container> 
+      					<unittitle>0754 + 104,</unittitle>
+      					<unitdate>1979-1982</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">61</container> 
+      					<unittitle>0804 + 49,</unittitle>
+      					<unitdate>1977-1980</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">62</container> 
+      					<unittitle>0806 + 350,</unittitle>
+      					<unitdate>undated</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">63</container> 
+      					<unittitle>0808 + 019,</unittitle>
+      					<unitdate>1982</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">64</container> 
+      					<unittitle>818 - 12,</unittitle>
+      					<unitdate>1982</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">65</container> 
+      					<unittitle>0823 - 223,</unittitle>
+      					<unitdate>1981</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">66</container> 
+      					<unittitle>0827 + 024,</unittitle>
+      					<unitdate>1979-1984</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">67</container> 
+      					<unittitle>0829 + 046,</unittitle>
+      					<unitdate>1979-1985</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">68</container> 
+      					<unittitle>0837 - 12,</unittitle>
+      					<unitdate>1981-1987</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">69</container> 
+      					<unittitle>847 + 19,</unittitle>
+      					<unitdate>1981-1984</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">70</container> 
+      					<unittitle>OJ 287,</unittitle>
+      					<unitdate>1973-1984</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">71</container> 
+      					<unittitle>0906 + 48,</unittitle>
+      					<unitdate>1984</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">72</container> 
+      					<unittitle>0953 + 25,</unittitle>
+      					<unitdate>1977-1982</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">73</container> 
+      					<unittitle>0952 + 179,</unittitle>
+      					<unitdate>1979-1984</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">74</container> 
+      					<unittitle>955 + 326,</unittitle>
+      					<unitdate>1982-1987</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">75</container> 
+      					<unittitle>C 332 (Wills) 0955 + 326,</unittitle>
+      					<unitdate>1985</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">76</container> 
+      					<unittitle>09570561 double QSO,</unittitle>
+      					<unitdate>1980</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">77</container> 
+      					<unittitle>1001 + 29 for Wills,</unittitle>
+      					<unitdate>1983</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">78</container> 
+      					<unittitle>1004 013,</unittitle>
+      					<unitdate>1981-1987</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">79</container> 
+      					<unittitle>1011025,</unittitle>
+      					<unitdate>1979-1985</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">80</container> 
+      					<unittitle>1012 + 008,</unittitle>
+      					<unitdate>undated</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">81</container> 
+      					<unittitle>1028 + 313,</unittitle>
+      					<unitdate>1981-1985</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">82</container> 
+      					<unittitle>[MK] 421 Aperture Study,</unittitle>
+      					<unitdate>1976-1985</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">83</container> 
+      					<unittitle>1121 + 423,</unittitle>
+      					<unitdate>undated</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">84</container> 
+      					<unittitle>MK 180,</unittitle>
+      					<unitdate>1980-1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">85</container> 
+      					<unittitle>1142 024,</unittitle>
+      					<unitdate>1979-1983</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">86</container> 
+      					<unittitle>1148 - 001,</unittitle>
+      					<unitdate>1982</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">87</container> 
+      					<unittitle>115 + 169,</unittitle>
+      					<unitdate>1979</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">88</container> 
+      					<unittitle>1156 + 295,</unittitle>
+      					<unitdate>1981-1985</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">89</container> 
+      					<unittitle>1202 + 281,</unittitle>
+      					<unitdate>1981-1985</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">90</container> 
+      					<unittitle>NGC 4151,</unittitle>
+      					<unitdate>1977-1983</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">91</container> 
+      					<unittitle>1210 + 121,</unittitle>
+      					<unitdate>1981-1982</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">92</container> 
+      					<unittitle>1211 + 143,</unittitle>
+      					<unitdate>1985-1987</unitdate>
+      					</did>
+      					</c03>
+      					
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">93</container> 
+      					<unittitle>MK 437,</unittitle>
+      					<unitdate>1980-1984</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">94</container> 
+      					<unittitle>11215 + 030,</unittitle>
+      					<unitdate>1978-1985</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">95</container> 
+      					<unittitle>1217 + 023,</unittitle>
+      					<unitdate>1983-1984</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">96</container> 
+      					<unittitle>1218 + 304,</unittitle>
+      					<unitdate>1979-1985</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">97</container> 
+      					<unittitle>ON 231 = W Com,</unittitle>
+      					<unitdate>1978, 1984</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">98</container> 
+      					<unittitle>0912 + 297,</unittitle>
+      					<unitdate>1979-1984</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">99</container> 
+      					<unittitle>1223 + 252,</unittitle>
+      					<unitdate>1981</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">100</container> 
+      					<unittitle>1225 + 317,</unittitle>
+      					<unitdate>1981</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">101</container> 
+      					<unittitle>3C273,</unittitle>
+      					<unitdate>1963-1986</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">102</container> 
+      					<unittitle>1229 - 021,</unittitle>
+      					<unitdate>1982-1984</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">103</container> 
+      					<unittitle>1229 + 204,</unittitle>
+      					<unitdate>1982-1984</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">104</container> 
+      					<unittitle>NGC 4552,</unittitle>
+      					<unitdate>1980</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">105</container> 
+      					<unittitle>104 - 306,</unittitle>
+      					<unitdate>1981-1982</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">106</container> 
+      					<unittitle>MK 228,</unittitle>
+      					<unitdate>1980-1981</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">107</container> 
+      					<unittitle>1250 + 568 = 3C277.1,</unittitle>
+      					<unitdate>1985</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">108</container> 
+      					<unittitle>1253 – 055 = 3C279,</unittitle>
+      					<unitdate>1981-1988</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">109</container> 
+      					<unittitle>Anonymous Galaxy from S.T.,</unittitle>
+      					<unitdate>1983</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">110</container> 
+      					<unittitle>MK 231,</unittitle>
+      					<unitdate>1984</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">111</container> 
+      					<unittitle>1301 + 117,</unittitle>
+      					<unitdate>1982</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">112</container> 
+      					<unittitle>1308 + 326,</unittitle>
+      					<unitdate>1979</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">113</container> 
+      					<unittitle>1308 + 32,</unittitle>
+      					<unitdate>1981-1985</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">114</container> 
+      					<unittitle>Ton 155,</unittitle>
+      					<unitdate>1981</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">115</container> 
+      					<unittitle>Ton 156,</unittitle>
+      					<unitdate>1981</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">116</container> 
+      					<unittitle>1354 + 195,</unittitle>
+      					<unitdate>1981-1984</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">117</container> 
+      					<unittitle>1400 + 162,</unittitle>
+      					<unitdate>1982</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">118</container> 
+      					<unittitle>1402 + 0416,</unittitle>
+      					<unitdate>1983-1985</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">119</container> 
+      					<unittitle>1416 + 067,</unittitle>
+      					<unitdate>1981</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">120</container> 
+      					<unittitle>1418 + 54,</unittitle>
+      					<unitdate>1977-1983</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">121</container> 
+      					<unittitle>1425 + 267,</unittitle>
+      					<unitdate>undated</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">122</container> 
+      					<unittitle>MK 748,</unittitle>
+      					<unitdate>1984</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">123</container> 
+      					<unittitle>1456 - 084,</unittitle>
+      					<unitdate>1977, 1982</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">124</container> 
+      					<unittitle>1510 - 084,</unittitle>
+      					<unitdate>1982-1985</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">125</container> 
+      					<unittitle>1512 + 370,</unittitle>
+      					<unitdate>1982</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">126</container> 
+      					<unittitle>1525 + 227,</unittitle>
+      					<unitdate>1982-1984</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">127</container> 
+      					<unittitle>1538 + 149,</unittitle>
+      					<unitdate>1982</unitdate>
+      					</did>
+      					</c03>
+      					
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">128</container> 
+      					<unittitle>1545 + 21,</unittitle>
+      					<unitdate>1982-1984</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">129</container> 
+      					<unittitle>1546 + 02,</unittitle>
+      					<unitdate>1982-1984</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">130</container> 
+      					<unittitle>159385,</unittitle>
+      					<unitdate>1982</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">131</container> 
+      					<unittitle>1612 + 261,</unittitle>
+      					<unitdate>1982-1985</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">132</container> 
+      					<unittitle>1618 + 177,</unittitle>
+      					<unitdate>1982-1983</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">133</container> 
+      					<unittitle>1635 + 119,</unittitle>
+      					<unitdate>1981</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">134</container> 
+      					<unittitle>164 + 399,</unittitle>
+      					<unitdate>1981-1985</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">135</container> 
+      					<unittitle>MK 501,</unittitle>
+      					<unitdate>1976-1985</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">136</container> 
+      					<unittitle>1717 + 178,</unittitle>
+      					<unitdate>1984</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">137</container> 
+      					<unittitle>1720 + 246,</unittitle>
+      					<unitdate>1982-1985</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">138</container> 
+      					<unittitle>1721 + 343,</unittitle>
+      					<unitdate>1982-1985</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">139</container> 
+      					<unittitle>I Zw 1727 + 50,</unittitle>
+      					<unitdate>1978-1982</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">140</container> 
+      					<unittitle>1741 - 038,</unittitle>
+      					<unitdate>1992</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">141</container> 
+      					<unittitle>Galactic Center,</unittitle>
+      					<unitdate>1982</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">142</container> 
+      					<unittitle>3C371,</unittitle>
+      					<unitdate>undated</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">143</container> 
+      					<unittitle>S9313 Lyr,</unittitle>
+      					<unitdate>1980-1981</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">144</container> 
+      					<unittitle>1828 + 480,</unittitle>
+      					<unitdate>1981-1986</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">145</container> 
+      					<unittitle>UV-236,</unittitle>
+      					<unitdate>1982-1984</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">146</container> 
+      					<unittitle>NGC 6814,</unittitle>
+      					<unitdate>undated</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">147</container> 
+      					<unittitle>MK 509,</unittitle>
+      					<unitdate>1978-1980</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">148</container> 
+      					<unittitle>Star &quot;A&quot; Compared to MK 509 Spectrum for Reticon,</unittitle>
+      					<unitdate>undated</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">149</container> 
+      					<unittitle>2128-123,</unittitle>
+      					<unitdate>1981-1983</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">3</container> 
+      					<container type="folder">150</container> 
+      					<unittitle>2135-147,</unittitle>
+      					<unitdate>1981-1982</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">1</container> 
+      					<unittitle>159-125,</unittitle>
+      					<unitdate>1982</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">2</container> 
+      					<unittitle>Cyg V624,</unittitle>
+      					<unitdate>1983</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">3</container> 
+      					<unittitle>BL Lac 1981 Observations,</unittitle>
+      					<unitdate>1981-1984</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">4</container> 
+      					<unittitle>BL Lacertae 200 + 042,</unittitle>
+      					<unitdate>1978-1981</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">5</container> 
+      					<unittitle>2210 + 171,</unittitle>
+      					<unitdate>1981-1982</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">6</container> 
+      					<unittitle>2201 + 310,</unittitle>
+      					<unitdate>1981</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">7</container> 
+      					<unittitle>2216 - 03,</unittitle>
+      					<unitdate>1981-1982</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">8</container> 
+      					<unittitle>2223 - 052 = 3C446,</unittitle>
+      					<unitdate>1981-1984</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">9</container> 
+      					<unittitle>2251 + 178,</unittitle>
+      					<unitdate>1982</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">10</container> 
+      					<unittitle>2251 + 113,</unittitle>
+      					<unitdate>1981-1984</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">11</container> 
+      					<unittitle>2344 + 009,</unittitle>
+      					<unitdate>1981-1984</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">12</container> 
+      					<unittitle>3C454,</unittitle>
+      					<unitdate>1981</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">13</container> 
+      					<unittitle>225407,</unittitle>
+      					<unitdate>1981</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">14</container> 
+      					<unittitle>Blue Galaxy,</unittitle>
+      					<unitdate>1981</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">15</container> 
+      					<unittitle>B Star Project,</unittitle>
+      					<unitdate>1985-1986</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">16</container> 
+      					<unittitle>Miscellaneous Stars and Extra Galactic Objects,</unittitle>
+      					<unitdate>1982-1984</unitdate>
+      					</did>
+      					</c03>
+      				
+      			</c02>
+      		
+      			<c02 level="subseries">
+      			<did> 
+      			<unittitle>Subseries 3: Asteroids,</unittitle> 
+      			<unitdate type="inclusive">1974-1994</unitdate>
+      			</did> 
+      			<scopecontent>
+      			<p>Contains correspondence, asteroid charts, CCD photometry analysis of asteroids, articles 
+      			and proposals related to the specific asteroids. Files are labeled according to Wisniewski’s original file label.</p>
+      			</scopecontent>
+      			
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">17</container> 
+      					<unittitle>4 Vesta,</unittitle>
+      					<unitdate>1977</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">18</container> 
+      					<unittitle>30 Urania,</unittitle>
+      					<unitdate>1987-1992</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">19</container> 
+      					<unittitle>109 Felicitas,</unittitle>
+      					<unitdate>1993</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">20</container> 
+      					<unittitle>127 Johanna,</unittitle>
+      					<unitdate>1985-1991</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">21</container> 
+      					<unittitle>132 Aethra,</unittitle>
+      					<unitdate>1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">22</container> 
+      					<unittitle>149 Medusa,</unittitle>
+      					<unitdate>1989-1992</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">23</container> 
+      					<unittitle>199 Byblis,</unittitle>
+      					<unitdate>1986</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">24</container> 
+      					<unittitle>243 Ida,</unittitle>
+      					<unitdate>1990-1993</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">25</container> 
+      					<unittitle>243 Ida I, II, III,</unittitle>
+      					<unitdate>September, 1990-November, 1990</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">26</container> 
+      					<unittitle>243 Ida,</unittitle>
+      					<unitdate>1990-1992</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">27</container> 
+      					<unittitle>298 Baptistina,</unittitle>
+      					<unitdate>1989-1992</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">28</container> 
+      					<unittitle>347 Pariana,</unittitle>
+      					<unitdate>1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">29</container> 
+      					<unittitle>367 Amicitia,</unittitle>
+      					<unitdate>1992</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">30</container> 
+      					<unittitle>391 Ingeborg,</unittitle>
+      					<unitdate>1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">31</container> 
+      					<unittitle>428 Monachia,</unittitle>
+      					<unitdate>1988-1993</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">32</container> 
+      					<unittitle>433 Eros Photometry,</unittitle>
+      					<unitdate>1974-1975</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">33</container> 
+      					<unittitle>449 Hamburga,</unittitle>
+      					<unitdate>1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">34</container> 
+      					<unittitle>453 Tea,</unittitle>
+      					<unitdate>1990</unitdate>
+      					</did>
+	      				</c03>
+	      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">35</container> 
+      					<unittitle>458 Hercynia,</unittitle>
+      					<unitdate>1987</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">36</container> 
+      					<unittitle>486 Cremona,</unittitle>
+      					<unitdate>1992</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">37</container> 
+      					<unittitle>532 Herculina,</unittitle>
+      					<unitdate>1978, 1988</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">38</container> 
+      					<unittitle>540 Rosamunde,</unittitle>
+      					<unitdate>1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">39</container> 
+      					<unittitle>587 Hypsipyle,</unittitle>
+      					<unitdate>1988</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">40</container> 
+      					<unittitle>594 Mireille,</unittitle>
+      					<unitdate>1987</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">41</container> 
+      					<unittitle>711 Marmulla,</unittitle>
+      					<unitdate>1990</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">42</container> 
+      					<unittitle>722 Frieda,</unittitle>
+      					<unitdate>1991</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">43</container> 
+      					<unittitle>727 Mette,</unittitle>
+      					<unitdate>1986</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">44</container> 
+      					<unittitle>728 Leonisis,</unittitle>
+      					<unitdate>1990</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">45</container> 
+      					<unittitle>770 Bali,</unittitle>
+      					<unitdate>1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">46</container> 
+      					<unittitle>782 Montefiore,</unittitle>
+      					<unitdate>1988-1992</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">47</container> 
+      					<unittitle>822 Lalage,</unittitle>
+      					<unitdate>1992</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">48</container> 
+      					<unittitle>823 Sisigambis,</unittitle>
+      					<unitdate>1992</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">49</container> 
+      					<unittitle>825 Tanina,</unittitle>
+      					<unitdate>1992</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">50</container> 
+      					<unittitle>851 Zeissia,</unittitle>
+      					<unitdate>1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">51</container> 
+      					<unittitle>853 Nansenia,</unittitle>
+      					<unitdate>1990</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">52</container> 
+      					<unittitle>901 Brunsia,</unittitle>
+      					<unitdate>1991</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">53</container> 
+      					<unittitle>905 Universitas,</unittitle>
+      					<unitdate>1992</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">54</container> 
+      					<unittitle>944 Hidalgo,</unittitle>
+      					<unitdate>1990</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">55</container> 
+      					<unittitle>951 Gaspra: Barucci, Antonella,</unittitle>
+      					<unitdate>1982-1992</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">56</container> 
+      					<unittitle>951 Gaspra: South African Astronomical Observatory,</unittitle>
+      					<unitdate>1985-1991</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">57</container> 
+      					<unittitle>951 Gaspra: CCD,</unittitle>
+      					<unitdate>1989-1990</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">58</container> 
+      					<unittitle>951 Gaspra: Comparisons to Nearby Objects,</unittitle>
+      					<unitdate>1991</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">4</container> 
+      					<container type="folder">59</container> 
+      					<unittitle>951 Gaspra: Observing Report and Data,</unittitle>
+      					<unitdate>1982-1992</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">1</container> 
+      					<unittitle>951 Gaspra: Observations,</unittitle>
+      					<unitdate>1990</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">2</container> 
+      					<unittitle>951 Gaspra, Observations,</unittitle>
+      					<unitdate>1991</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">3</container> 
+      					<unittitle>968 Petunia,</unittitle>
+      					<unitdate>1992</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">4</container> 
+      					<unittitle>1009 Sirene,</unittitle>
+      					<unitdate>1988-1991</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">5</container> 
+      					<unittitle>1025 Riema,</unittitle>
+      					<unitdate>1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">6</container> 
+      					<unittitle>1060 Magnolia,</unittitle>
+      					<unitdate>1992</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">7</container> 
+      					<unittitle>1078 Mentha,</unittitle>
+      					<unitdate>1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">8</container> 
+      					<unittitle>1083 Salvia,</unittitle>
+      					<unitdate>1992</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">9</container> 
+      					<unittitle>1088 Witarka,</unittitle>
+      					<unitdate>1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">10</container> 
+      					<unittitle>1090 Sumida,</unittitle>
+      					<unitdate>1986</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">11</container> 
+      					<unittitle>1103 Sequoia,</unittitle>
+      					<unitdate>1990</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">12</container> 
+      					<unittitle>1117 Reginita,</unittitle>
+      					<unitdate>1988</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">13</container> 
+      					<unittitle>1123 Shaplaya,</unittitle>
+      					<unitdate>1988-1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">14</container> 
+      					<unittitle>1131 Porzia,</unittitle>
+      					<unitdate>1989-1990</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">15</container> 
+      					<unittitle>1139 Atami,</unittitle>
+      					<unitdate>1986-1988</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">16</container> 
+      					<unittitle>1153 Wallenbergia,</unittitle>
+      					<unitdate>1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">17</container> 
+      					<unittitle>1221 Amor,</unittitle>
+      					<unitdate>1988, 1995</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">18</container> 
+      					<unittitle>1235 Schorria,</unittitle>
+      					<unitdate>1988</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">19</container> 
+      					<unittitle>1270 Datura,</unittitle>
+      					<unitdate>1990-1991</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">20</container> 
+      					<unittitle>1322 Copernicus,</unittitle>
+      					<unitdate>1987</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">21</container> 
+      					<unittitle>1374 Isora,</unittitle>
+      					<unitdate>1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">22</container> 
+      					<unittitle>1376 Michelle,</unittitle>
+      					<unitdate>1988</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">23</container> 
+      					<unittitle>1382 Gerti,</unittitle>
+      					<unitdate>1988</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">24</container> 
+      					<unittitle>1419 Danzig,</unittitle>
+      					<unitdate>1988</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">25</container> 
+      					<unittitle>1453 Fennia,</unittitle>
+      					<unitdate>1991</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">26</container> 
+      					<unittitle>1468 Zomba,</unittitle>
+      					<unitdate>1986</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">27</container> 
+      					<unittitle>1504 Lappeenranta,</unittitle>
+      					<unitdate>1986-1988</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">28</container> 
+      					<unittitle>1572 Posnania,</unittitle>
+      					<unitdate>1993</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">29</container> 
+      					<unittitle>1580 Betulia,</unittitle>
+      					<unitdate>April, 1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">30</container> 
+      					<unittitle>1580 Betulia,</unittitle>
+      					<unitdate>May, 1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">31</container> 
+      					<unittitle>Betulia CTIO,</unittitle>
+      					<unitdate>1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">32</container> 
+      					<unittitle>1580 Betulia Observing Report,</unittitle>
+      					<unitdate>1990</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">33</container> 
+      					<unittitle>1583 Antilochus,</unittitle>
+      					<unitdate>1986</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">34</container> 
+      					<unittitle>1593 Fagnes,</unittitle>
+      					<unitdate>1986</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">35</container> 
+      					<unittitle>1613 Smiley,</unittitle>
+      					<unitdate>1988</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">36</container> 
+      					<unittitle>1620 Geographos,</unittitle>
+      					<unitdate>1993-1994</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">37</container> 
+      					<unittitle>1621 Druzhba,</unittitle>
+      					<unitdate>1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">38</container> 
+      					<unittitle>1640 Nemo,</unittitle>
+      					<unitdate>1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">39</container> 
+      					<unittitle>1656 Suomi,</unittitle>
+      					<unitdate>1986, 1992</unitdate>
+      					</did>
+      					</c03>
+      						
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">40</container> 
+      					<unittitle>1657 Roemera,</unittitle>
+      					<unitdate>1990</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">41</container> 
+      					<unittitle>1653 Innes,</unittitle>
+      					<unitdate>1988</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">42</container> 
+      					<unittitle>1667 Pels,</unittitle>
+      					<unitdate>1991</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">43</container> 
+      					<unittitle>1675 Simonida,</unittitle>
+      					<unitdate>1988</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">44</container> 
+      					<unittitle>1777 Gehrels,</unittitle>
+      					<unitdate>1990</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">45</container> 
+      					<unittitle>1865 Cerberus,</unittitle>
+      					<unitdate>1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">46</container> 
+      					<unittitle>1906 Neaf,</unittitle>
+      					<unitdate>1991</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">47</container> 
+      					<unittitle>1917 Cuyo and CCD,</unittitle>
+      					<unitdate>1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">48</container> 
+      					<unittitle>1943 Anteros,</unittitle>
+      					<unitdate>1990</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">49</container> 
+      					<unittitle>1951 Lick,</unittitle>
+      					<unitdate>1988</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">50</container> 
+      					<unittitle>1980 Tezcatlipoca,</unittitle>
+      					<unitdate>1988</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">51</container> 
+      					<unittitle>1981 Midas,</unittitle>
+      					<unitdate>1987</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">52</container> 
+      					<unittitle>1991 Darwin,</unittitle>
+      					<unitdate>1991</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">53</container> 
+      					<unittitle>2017 Wesson,</unittitle>
+      					<unitdate>1987</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">54</container> 
+      					<unittitle>2035 Stearns,</unittitle>
+      					<unitdate>1988</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">5</container> 
+      					<container type="folder">55</container> 
+      					<unittitle>2064 Thomsen,</unittitle>
+      					<unitdate>1987</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">1</container> 
+      					<unittitle>2212 Hephaistos,</unittitle>
+      					<unitdate>1989-1991</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">2</container> 
+      					<unittitle>2253 Espinette,</unittitle>
+      					<unitdate>1987</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">3</container> 
+      					<unittitle>2256 Wisniewski,</unittitle>
+      					<unitdate>1990</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">4</container> 
+      					<unittitle>2049 Grietje,</unittitle>
+      					<unitdate>1986-1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">5</container> 
+      					<unittitle>2059 Baboquivari,</unittitle>
+      					<unitdate>1986-1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">6</container> 
+      					<unittitle>2289 McMillan,</unittitle>
+      					<unitdate>1990</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">7</container> 
+      					<unittitle>2382 Nonie,</unittitle>
+      					<unitdate>1986</unitdate>
+      					</did>
+      					</c03>
+      					
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">8</container> 
+      					<unittitle>2449 Kenos,</unittitle>
+      					<unitdate>1986</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">9</container> 
+      					<unittitle>1977 CB = 2491 Tvashtri,</unittitle>
+      					<unitdate>1988</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">10</container> 
+      					<unittitle>2501 Lohja,</unittitle>
+      					<unitdate>1988</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">11</container> 
+      					<unittitle>2577 Litva,</unittitle>
+      					<unitdate>1986-1988</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">12</container> 
+      					<unittitle>2642 Vesala,</unittitle>
+      					<unitdate>1987</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">13</container> 
+      					<unittitle>2659 Millis,</unittitle>
+      					<unitdate>1991</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">14</container> 
+      					<unittitle>2714 Matti,</unittitle>
+      					<unitdate>1992</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">15</container> 
+      					<unittitle>2794 Kulik,</unittitle>
+      					<unitdate>1986</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">16</container> 
+      					<unittitle>2886 Tinkaping,</unittitle>
+      					<unitdate>1988</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">17</container> 
+      					<unittitle>2954 Delsenme,</unittitle>
+      					<unitdate>1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">18</container> 
+      					<unittitle>3066 McFadden,</unittitle>
+      					<unitdate>1989-1990</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">19</container> 
+      					<unittitle>3101 Goldberger,</unittitle>
+      					<unitdate>1987, 1992</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">20</container> 
+      					<unittitle>3103 1982 BB-I,</unittitle>
+      					<unitdate>1986</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">21</container> 
+      					<unittitle>3103 1982 BB-II,</unittitle>
+      					<unitdate>1987</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">22</container> 
+      					<unittitle>3116 Goodricke,</unittitle>
+      					<unitdate>1988</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">23</container> 
+      					<unittitle>3122 Florence,</unittitle>
+      					<unitdate>1986</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">24</container> 
+      					<unittitle>3149 Okudjeva,</unittitle>
+      					<unitdate>1988</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">25</container> 
+      					<unittitle>3169 Ostro (1981 LA),</unittitle>
+      					<unitdate>1986-1988</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">26</container> 
+      					<unittitle>3199 Nefertiti (1982 RA), Radar Target,</unittitle>
+      					<unitdate>1986</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">27</container> 
+      					<unittitle>3200 Phaethon,</unittitle>
+      					<unitdate>1989-1991</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">28</container> 
+      					<unittitle>3253 Gradia,</unittitle>
+      					<unitdate>1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">29</container> 
+      					<unittitle>3255 Tholen,</unittitle>
+      					<unitdate>1991</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">30</container> 
+      					<unittitle>3268 De Sanctis 90&quot;,</unittitle>
+      					<unitdate>1987</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">31</container> 
+      					<unittitle>3287 Olmstead,</unittitle>
+      					<unitdate>1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">32</container> 
+      					<unittitle>3309 Brorfelde,</unittitle>
+      					<unitdate>1992</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">33</container> 
+      					<unittitle>3317 1984 KF,</unittitle>
+      					<unitdate>1986</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">34</container> 
+      					<unittitle>3350 Scobee,</unittitle>
+      					<unitdate>1987</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">35</container> 
+      					<unittitle>3361 Orpheus (1982 HR),</unittitle>
+      					<unitdate>1986</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">36</container> 
+      					<unittitle>3362 Khufu,</unittitle>
+      					<unitdate>1988</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">37</container> 
+      					<unittitle>3507 Vilas,</unittitle>
+      					<unitdate>1990-1991</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">38</container> 
+      					<unittitle>3554 Amun,</unittitle>
+      					<unitdate>1987</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">39</container> 
+      					<unittitle>3577 Putilin,</unittitle>
+      					<unitdate>1986-1987</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">40</container> 
+      					<unittitle>3581 Alvarez,</unittitle>
+      					<unitdate>1990</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">41</container> 
+      					<unittitle>3594 Scotti,</unittitle>
+      					<unitdate>1989-1991</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">42</container> 
+      					<unittitle>3628 Boznemcova,</unittitle>
+      					<unitdate>1994</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">43</container> 
+      					<unittitle>3638 Davis,</unittitle>
+      					<unitdate>1991</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">44</container> 
+      					<unittitle>3691 Bede,</unittitle>
+      					<unitdate>1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">45</container> 
+      					<unittitle>3753 Cruithne,</unittitle>
+      					<unitdate>1988</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">46</container> 
+      					<unittitle>3824 Brenda Lee,</unittitle>
+      					<unitdate>1988</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">47</container> 
+      					<unittitle>3908,</unittitle>
+      					<unitdate>1988</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">48</container> 
+      					<unittitle>3908 1980 PA,</unittitle>
+      					<unitdate>1988</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">49</container> 
+      					<unittitle>4179 Toutatis,</unittitle>
+      					<unitdate>1989-1992</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">50</container> 
+      					<unittitle>4179 Toutatis,</unittitle>
+      					<unitdate>1993-1994</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">51</container> 
+      					<unittitle>4197 Morpheus,</unittitle>
+      					<unitdate>1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">52</container> 
+      					<unittitle>4272 Entsuji,</unittitle>
+      					<unitdate>1993</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">53</container> 
+      					<unittitle>1983 AG/4435 Holt,</unittitle>
+      					<unitdate>1990-1993</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">54</container> 
+      					<unittitle>1986 RC2 4483,</unittitle>
+      					<unitdate>1988</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">6</container> 
+      					<container type="folder">55</container> 
+      					<unittitle>4503 Cleobulus,</unittitle>
+      					<unitdate>1990-1993</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">1</container> 
+      					<unittitle>1988 NF 4558,</unittitle>
+      					<unitdate>1988</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">2</container> 
+      					<unittitle>1990 SQ/4954 ERIC,</unittitle>
+      					<unitdate>1990-1991</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">3</container> 
+      					<unittitle>1990 DA = 5332,</unittitle>
+      					<unitdate>1990</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">4</container> 
+      					<unittitle>(5693) 1993 EA,</unittitle>
+      					<unitdate>1993</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">5</container> 
+      					<unittitle>(5751) 1992 AC,</unittitle>
+      					<unitdate>1992</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">6</container> 
+      					<unittitle>(5836) 1993 MF,</unittitle>
+      					<unitdate>1993</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">7</container> 
+      					<unittitle>1981 ED35,</unittitle>
+      					<unitdate>1987</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">8</container> 
+      					<unittitle>1981 ET42,</unittitle>
+      					<unitdate>1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">9</container> 
+      					<unittitle>1983 RD Radar Target,</unittitle>
+      					<unitdate>1986</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">10</container> 
+      					<unittitle>1983 PA,</unittitle>
+      					<unitdate>1987</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">11</container> 
+      					<unittitle>1985 RV,</unittitle>
+      					<unitdate>1985-1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">12</container> 
+      					<unittitle>1986 DA,</unittitle>
+      					<unitdate>1986</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">13</container> 
+      					<unittitle>1986 JK,</unittitle>
+      					<unitdate>1986</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">14</container> 
+      					<unittitle>1986 RA,</unittitle>
+      					<unitdate>1986</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">15</container> 
+      					<unittitle>1987 SL,</unittitle>
+      					<unitdate>1987</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">16</container> 
+      					<unittitle>1988 WC,</unittitle>
+      					<unitdate>1988</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">17</container> 
+      					<unittitle>1989 DA,</unittitle>
+      					<unitdate>1989-1993</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">18</container> 
+      					<unittitle>1989 JA,</unittitle>
+      					<unitdate>1989-1991</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">19</container> 
+      					<unittitle>1989 UP (SS-1),</unittitle>
+      					<unitdate>1989-1993</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">20</container> 
+      					<unittitle>1989 VA,</unittitle>
+      					<unitdate>1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">21</container> 
+      					<unittitle>1989 VB,</unittitle>
+      					<unitdate>1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">22</container> 
+      					<unittitle>1990 HA,</unittitle>
+      					<unitdate>1990</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">23</container> 
+      					<unittitle>1990 KA,</unittitle>
+      					<unitdate>1990-1991</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">24</container> 
+      					<unittitle>1990 SA,</unittitle>
+      					<unitdate>1990</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">25</container> 
+      					<unittitle>1990 SS,</unittitle>
+      					<unitdate>1990-1991</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">26</container> 
+      					<unittitle>1990 TR,</unittitle>
+      					<unitdate>1990</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">27</container> 
+      					<unittitle>1990 UA,</unittitle>
+      					<unitdate>1990</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">28</container> 
+      					<unittitle>1990 UP,</unittitle>
+      					<unitdate>1990</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">29</container> 
+      					<unittitle>1991 AQ,</unittitle>
+      					<unitdate>1991</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">30</container> 
+      					<unittitle>1991 EE,</unittitle>
+      					<unitdate>1991</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">31</container> 
+      					<unittitle>1991 EE (SS-48),</unittitle>
+      					<unitdate>1991-1993</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">32</container> 
+      					<unittitle>1991 VA,</unittitle>
+      					<unitdate>1991</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">33</container> 
+      					<unittitle>1991 KD,</unittitle>
+      					<unitdate>1992</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">34</container> 
+      					<unittitle>1992 LR,</unittitle>
+      					<unitdate>1992</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">35</container> 
+      					<unittitle>Long-term Ephemeris of Various Asteroids,</unittitle>
+      					<unitdate>1993</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">36</container> 
+      					<unittitle>A-A-A Asteroids,</unittitle>
+      					<unitdate>1991</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">37</container> 
+      					<unittitle>E Asteroids,</unittitle>
+      					<unitdate>1991</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">38</container> 
+      					<unittitle>Asteroid CCD Test,</unittitle>
+      					<unitdate>1975-1985</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">39</container> 
+      					<unittitle>Photometry Transformation UBVRI,</unittitle>
+      					<unitdate>1986</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">40</container> 
+      					<unittitle>Transformation,</unittitle>
+      					<unitdate>1987-1993</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">41</container> 
+      					<unittitle>UBV Transformation,</unittitle>
+      					<unitdate>1988-1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">42</container> 
+      					<unittitle>Transformations 90&quot;,</unittitle>
+      					<unitdate>1986</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">43</container> 
+      					<unittitle>Transformation Observations,</unittitle>
+      					<unitdate>April, 1986-September, 1986</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">44</container> 
+      					<unittitle>Extinction,</unittitle>
+      					<unitdate>1987-1988</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">45</container> 
+      					<unittitle>Log 90&quot;,</unittitle>
+      					<unitdate>1990</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">46</container> 
+      					<unittitle>8 Color Photometer (Tholen files),</unittitle>
+      					<unitdate>1978, 1985</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">47</container> 
+      					<unittitle>Anonymous Asteroid,</unittitle>
+      					<unitdate>1982</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">48</container> 
+      					<unittitle>Asteroid Observations by Wisniewski, Anderson, and Zellner,</unittitle>
+      					<unitdate>1974</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">7</container> 
+      					<container type="folder">49</container> 
+      					<unittitle>Aspect Data for the Asteroids,</unittitle>
+      					<unitdate>1989-1992</unitdate>
+      					</did>
+      					</c03>
+      				
+      			</c02>
+      		
+      			<c02 level="subseries">
+      			<did> 
+      			<unittitle>Subseries 4: Proposals and Grants,</unittitle> 
+      			<unitdate type="inclusive">1977-1994</unitdate>
+      			</did>
+      			
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">8</container> 
+      					<container type="folder">1</container> 
+      					<unittitle>Stuart Mufson reports,</unittitle>
+      					<unitdate>1977-1979</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">8</container> 
+      					<container type="folder">2</container> 
+      					<unittitle>KR Aurigae papers on X-Rays,</unittitle>
+      					<unitdate>1980</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">8</container> 
+      					<container type="folder">3</container> 
+      					<unittitle>Photometric Standards for Comet Photometry,</unittitle>
+      					<unitdate>1981</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">8</container> 
+      					<container type="folder">4</container> 
+      					<unittitle>Comet Churyumov-Gerasimenko,</unittitle>
+      					<unitdate>1982-1983</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">8</container> 
+      					<container type="folder">5</container> 
+      					<unittitle>Proposal to Space Telescope Science Institute,</unittitle>
+      					<unitdate>1982-1984</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">8</container> 
+      					<container type="folder">6</container> 
+      					<unittitle>Solar Objects proposals,</unittitle>
+      					<unitdate>1982-1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">8</container> 
+      					<container type="folder">7</container> 
+      					<unittitle>Acquisition of TI 800X800 Three Phase CCD Chips,</unittitle>
+      					<unitdate>1985-1994</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">8</container> 
+      					<container type="folder">8</container> 
+      					<unittitle>Precision Photometry of the Nuclear Region of Comets, Evaluation,</unittitle>
+      					<unitdate>1985</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">8</container> 
+      					<container type="folder">9</container> 
+      					<unittitle>Colors and Shapes of Galileo Targets 243 Ida and 951 Gaspra,</unittitle>
+      					<unitdate>1991</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">8</container> 
+      					<container type="folder">10</container> 
+      					<unittitle>Physical Studies of Small Asteroids and Cometary Cores,</unittitle>
+      					<unitdate>1991</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">8</container> 
+      					<container type="folder">11</container> 
+      					<unittitle>Calibration of GaAs Photomultiplier Tubes for Standardization of the SSP Detector,</unittitle>
+      					<unitdate>1993</unitdate>
+      					</did>
+      					</c03>
+      				
+      			</c02>
+      		
+      			<c02 level="subseries" >
+      			<did> 
+      			<unittitle>Subseries 5: Miscellaneous Research,</unittitle> 
+      			<unitdate type="inclusive">1975-1994</unitdate>
+      			</did>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">8</container> 
+      					<container type="folder">12</container> 
+      					<unittitle>Satellites, dark asteroids, and comet observations,</unittitle>
+      					<unitdate>1975-1980</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">8</container> 
+      					<container type="folder">13</container> 
+      					<unittitle>Radio sources,</unittitle>
+      					<unitdate>1982-1987</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">8</container> 
+      					<container type="folder">14</container> 
+      					<unittitle>University of Arizona observatories, Telescope Time proposals,</unittitle>
+      					<unitdate>1984-1988</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">8</container> 
+      					<container type="folder">15</container> 
+      					<unittitle>Radar targets,</unittitle>
+      					<unitdate>1984-1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">8</container> 
+      					<container type="folder">16</container> 
+      					<unittitle>Observing notes,</unittitle>
+      					<unitdate>1986-1993</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">8</container> 
+      					<container type="folder">17</container> 
+      					<unittitle>SUN,</unittitle>
+      					<unitdate>1987</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">8</container> 
+      					<container type="folder">18</container> 
+      					<unittitle>Image Reduction and Analysis facility and SUNOS,</unittitle>
+      					<unitdate>1988-1994</unitdate>
+      					</did>
+      					</c03>
+      				
+      			</c02>
+      	</c01>
+      	
+      	<c01 level="series" id="ser3"> 
+      	<did> 
+      	<unittitle>Series 3: Scholarly Files,</unittitle> 
+      	<unitdate type="inclusive">1975-1993</unitdate>
+      	</did>
+      	<scopecontent>
+      	<p>Includes publications written by Dr. Wisniewski, book reviews by Wisniewski, and meetings.</p>
+      	</scopecontent>
+      		
+      			<c02 level="subseries" >
+      			<did> 
+      			<unittitle>Subseries 1: Publications,</unittitle> 
+      			<unitdate type="inclusive">1975-1993</unitdate>
+      			</did> 
+      			<scopecontent>
+      			<p>Arranged alphabetically and is a partial record of Dr. Wisniewski writing career.</p>
+      			</scopecontent>
+      				
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">8</container> 
+      					<container type="folder">19</container> 
+      					<unittitle>1011 plus 496 and 1217 plus 348: Two New Candidate BL Lacertae Objects,</unittitle>
+      					<unitdate>1985</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">8</container> 
+      					<container type="folder">20</container> 
+      					<unittitle>1367 Nongoma PHO Lag Period,</unittitle>
+      					<unitdate>1985-1988</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">8</container> 
+      					<container type="folder">21</container> 
+      					<unittitle>0.35—35 Micron Photometry of Polarized QSOs,</unittitle>
+      					<unitdate>1981</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">8</container> 
+      					<container type="folder">22</container> 
+      					<unittitle>The Complete Light Curve of 1992,</unittitle>
+      					<unitdate>undated</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">8</container> 
+      					<container type="folder">23</container> 
+      					<unittitle>Ground Based Photometry of Asteroid 951,</unittitle>
+      					<unitdate>1989-1992</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">8</container> 
+      					<container type="folder">24</container> 
+      					<unittitle>Highly Variable Objects in the Solar System,</unittitle>
+      					<unitdate>1990</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">8</container> 
+      					<container type="folder">25</container> 
+      					<unittitle>Minor Planets and Related Objects. XVIII: UBV photometry and surface composition,</unittitle>
+      					<unitdate>1975</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">8</container> 
+      					<container type="folder">26</container> 
+      					<unittitle>On Interstellar Reddening Law in the Taurus Dark Clouds,</unittitle>
+      					<unitdate>1978-1981, 1993</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">8</container> 
+      					<container type="folder">27</container> 
+      					<unittitle>Photometric Observations of the Bright Nuclei of Five X-Ray Globular Clusters,</unittitle>
+      					<unitdate>undated</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">8</container> 
+      					<container type="folder">28</container> 
+      					<unittitle>Physical Studies of Small Asteroids,</unittitle>
+      					<unitdate>1990</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">8</container> 
+      					<container type="folder">29</container> 
+      					<unittitle>P/Tempel 2 CCD and Photometry article,</unittitle>
+      					<unitdate>1988-1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">8</container> 
+      					<container type="folder">30</container> 
+      					<unittitle>P/Tempel 2 final paper (Icarus),</unittitle>
+      					<unitdate>1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">9</container> 
+      					<container type="folder">1</container> 
+      					<unittitle>P/Tempel 2 Observations,</unittitle>
+      					<unitdate>May, 1988</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">9</container> 
+      					<container type="folder">2</container> 
+      					<unittitle>QSO Polarization,</unittitle>
+      					<unitdate>1983-1984</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">9</container> 
+      					<container type="folder">3</container> 
+      					<unittitle>Reflectivity Curve and Photometry of Eros,</unittitle>
+      					<unitdate>1975</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">9</container> 
+      					<container type="folder">4</container> 
+      					<unittitle>Spectrophotometry and Ubvri Photometry of Eros,</unittitle>
+      					<unitdate>1975</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">9</container> 
+      					<container type="folder">5</container> 
+      					<unittitle>Strongly Variable Objects in the Solar System,</unittitle>
+      					<unitdate>1990</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">9</container> 
+      					<container type="folder">6</container> 
+      					<unittitle>A Technique for Measuring the Light Curves of Cometary Nuclei,</unittitle>
+      					<unitdate>undated</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">9</container> 
+      					<container type="folder">7</container> 
+      					<unittitle>The Unusual Light Curve of 1990,</unittitle>
+      					<unitdate>1990</unitdate>
+      					</did>
+      					</c03>
+      			
+      			</c02>
+      		
+      			<c02 level="subseries" >
+      			<did> 
+      			<unittitle>Subseries 2: Book Reviews,</unittitle> 
+      			<unitdate type="inclusive">1986-1993</unitdate>
+      			</did>
+      			
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">9</container> 
+      					<container type="folder">8</container> 
+      					<unittitle>Light Curves,</unittitle>
+      					<unitdate>1986-1993</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">9</container> 
+      					<container type="folder">9</container> 
+      					<unittitle>Small Main-belt Asteroid Light Curvey survey,</unittitle>
+      					<unitdate>1989</unitdate>
+      					</did>
+      					</c03>
+      				
+      			</c02>
+      		
+      			<c02 level="subseries" >
+      			<did> 
+      			<unittitle>Subseries 3: Conferences and Meetings,</unittitle> 
+      			<unitdate type="inclusive">1988-1993</unitdate>
+      			</did>
+      			
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">9</container> 
+      					<container type="folder">10</container> 
+      					<unittitle>Asteroids II Conference, Tucson, Arizona,</unittitle>
+      					<unitdate>March 8, 1988-March 11, 1988</unitdate>
+      					</did>
+      					</c03>
+      				
+      					<c03 level="file"> 
+      					<did> 
+      					<container type="box">9</container> 
+      					<container type="folder">11</container> 
+      					<unittitle>Pluto Meeting,</unittitle>
+      					<unitdate>1993</unitdate>
+      					</did>
+      					</c03>
+      					
+      			</c02>
+      	</c01>
+      </dsc> 
+   </archdesc>
+</ead>

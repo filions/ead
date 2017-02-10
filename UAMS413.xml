@@ -1,0 +1,4677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xm-well_formed path="C:\Program Files\SoftQuad\XMetaL 2\rules\ead.rlx"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?filetitle Drachman-Taylor Family Papers?>
+<ead relatedencoding="MARC21"> 
+<eadheader relatedencoding="marc" langencoding="iso639-2b"
+ scriptencoding="iso15924" repositoryencoding="iso15511"
+ countryencoding="iso3166-1" dateencoding="iso8601" audience="internal" id="a0">
+  <eadid countrycode="US" mainagencycode="AzU"
+	publicid="-//University of Arizona Library Special 
+ Collections//text(US::AzU::Drachman-Taylor family papers, 1875-1996)//en">PUBLIC
+	 "-//University of Arizona Library Special
+	 Collections//text(US::AzU::Drachman-Taylor family papers, 1875-1996)//en"
+	 "UAMS413.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper>Drachman-Taylor family papers, 
+		  <date>1875-1996</date></titleproper> 
+		<author>Inventory prepared by Lisa Duncan</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+		<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		  
+		</address> 
+		<date>©2006</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation>Inventory encoded by Staff. 
+		<date>March 2008</date></creation> 
+	 <langusage>Inventory is in<language> English.</language></langusage> 
+  </profiledesc> 
+  <revisiondesc> 
+	 <change> 
+		<date>October 23, 2008</date> 
+		<item>EAD v1.0 finding aid converted to EAD 2002 using UC Berkeley's
+		  eadv1to2002.pl perl script.</item> 
+	 </change> 
+  </revisiondesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper>Drachman-Taylor family papers, 
+		<date>1875-1996</date></titleproper> 
+	 <num>MS413</num> 
+	 <publisher>University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by: </label> 
+		  <item>Lisa Duncan</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed: </label> 
+		  <item> 
+			 <date>February 2008</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Staff</item> 
+		</defitem> 
+	 </list> 
+	 <p>©2007. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection" type="inventory"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name:">Drachman-Taylor
+		family papers, 
+		<unitdate label="Dates:"
+		type="inclusive">1875-1996</unitdate></unittitle> 
+	 <unitid encodinganalog="099" label="Collection Number"
+	 countrycode="us">Call Number MS 413</unitid> 
+	 <origination label="Creator:"> 
+		<famname>Drachman Family</famname></origination> 
+	 <abstract label="Abstract:">Papers, 1875-1996 (bulk 1920-1975). This
+		collection is comprised of the papers of John and Rosemary (Drachman)
+		Winchcombe-Taylor. The bulk of the material relates to their lengthy literary
+		careers. The collection includes personal and professional correspondence,
+		published and unpublished manuscripts, short stories, adaptations, plays,
+		articles and speeches. Also included ais research material, legal papers,
+		publicity material, business and personal photographs, negatives and slides,
+		business and personal scrapbooks and recordings of literary events, and
+		personal record albums. The collection also contains a small amount of material
+		relating to other members of the Drachman family. </abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent>39
+		linear feet</extent></physdesc> 
+	 <repository label="Repository:"> 
+		<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		  
+		</address></repository><langmaterial
+	 label="Languages Represented"><language
+	 langcode="eng">English</language></langmaterial> 
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+	 <p>There are no restrictions on this collection.</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+	 <p>Drachman-Taylor family papers. University of Arizona Libraries, Special
+		Collections.</p> 
+  </prefercite> 
+  <bioghist encodinganalog="545" id="a2"> 
+	 <head>Biographical Note</head> 
+	 <p>Rosemary (Drachman) Winchcombe-Taylor who came from a prominent Arizona
+		pioneer family was born in Phoenix, Arizona and moved to Tucson, AZ as a child.
+		She attended the University of Arizona and went on to graduate from Stanford
+		University with a Bachelor of Arts in 1922. After graduation she traveled to
+		Europe. There she met Floyd Gibbons, an American war correspondent, who helped
+		her begin her literary career as a war correspondent. She traveled with him to
+		Morocco and covered the Riff War for various newspapers including the Tucson
+		Citizen. Ms. Winchcombe-Taylor wrote throughout her childhood and college, but
+		she began publishing while covering the war. In the 1930s she returned to
+		Tucson, AZ and married author John Winchcombe-Taylor in 1934. </p> 
+	 <p>John Winchcombe-Taylor, born into an acting family, was an American
+		citizen raised in England. He enlisted in the British military in 1914 and
+		retired as a captain in 1919. In 1924 he returned to the United States. He
+		wrote adventure stories for various magazines in the 1920s and 1930s as well as
+		acted under the stage name Jamison Reilly with his brother. </p> 
+	 <p>In 1939 at the start of World War II, Mr. Winchcombe-Taylor joined the
+		Canadian military and served as a training officer before retiring with the
+		rank of Major in 1943. Ms. Winchcombe-Taylor lived alternately between Tucson,
+		AZ and with Mr. Winchcombe-Taylor in Canada. During this time, Ms.
+		Winchcombe-Taylor began work on her first novel, Chicken Every Sunday, which
+		was about her childhood and her mother's business of taking in boarders. The
+		novel became a bestseller and was later adapted for both the stage and film.
+		After the War, the couple returned to Tucson and continued their literary
+		career with Rosemary Winchcombe-Taylor publishing eight novels and a number of
+		short stories and articles. Many were based on her childhood and family. John
+		Winchcombe-Taylor published a historical novel, Ram, and a number of articles,
+		short stories and plays including several based on Ms. Winchcombe-Taylor's
+		books. He also helped organize Vanguard (1944-1948), an association which
+		promoted the interests of Americans who served with British forces in World War
+		I and World War II. Ms. Winchcombe-Taylor wrote under the names of Rosemary
+		Drachman, Rosemary Drake and for her novels, Rosemary Taylor. Mr.
+		Winchcombe-Taylor wrote under the names J. Winchcombe-Taylor and Winchcombe
+		Taylor and acted under the name Jamison Reilly.</p> 
+  </bioghist> 
+  <arrangement encodinganalog="351$a" id="a4"> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into 7 series, with 16 subseries.</p> 
+	 <list> 
+		<item>Series 1: Biographical Files, 
+		  <unitdate>1912-1981</unitdate></item> 
+		<item>Series 2: Correspondence: 
+		  <unitdate>1875-1979</unitdate></item> 
+		<item>Subseries: Business, 
+		  <unitdate>1942-1979</unitdate></item> 
+		<item>Subseries: Personal, 
+		  <unitdate>1875-1979</unitdate></item> 
+		<item>Series 3: Writings, 
+		  <unitdate>1914-1984</unitdate></item> 
+		<item>Subseries: Manuscripts, 
+		  <unitdate>1943-1975</unitdate></item> 
+		<item>Subseries: Adaptations, 
+		  <unitdate>1943-1970</unitdate></item> 
+		<item>Subseries: Short Stories, 
+		  <unitdate>1927-1956</unitdate></item> 
+		<item>Subseries: Plays, 
+		  <unitdate>1921-1959</unitdate></item> 
+		<item>Subseries: Articles, 
+		  <unitdate>1925-1971</unitdate></item> 
+		<item>Subseries: Speeches, 
+		  <unitdate>1951-1972</unitdate></item> 
+		<item>Subseries: Research Files, 
+		  <unitdate>1932-1963</unitdate></item> 
+		<item>Subseries: Publicity Files, 
+		  <unitdate>1925-1972</unitdate></item> 
+		<item>Subseries: Miscellaneous, 
+		  <unitdate>1914-1984</unitdate></item> 
+		<item>Series 4: Photographs, Negatives and Slides, 
+		  <unitdate>1898-1996</unitdate></item> 
+		<item>Subseries: Business, 
+		  <unitdate>1929-1954</unitdate></item> 
+		<item>Subseries: Personal, 
+		  <unitdate>1898-1996</unitdate></item> 
+		<item>Series 5: Audio-Visual Materials, 
+		  <unitdate>1943-1951</unitdate></item> 
+		<item>Series 6: Scrapbooks, 
+		  <unitdate>1903-1996</unitdate></item> 
+		<item>Subseries: Business, 
+		  <unitdate>1943-1962</unitdate></item> 
+		<item>Subseries: Personal, 
+		  <unitdate>1903-1996</unitdate></item> 
+		<item>Series 7: Oversize Materials, 
+		  <unitdate>1902-1981</unitdate></item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent encodinganalog="520" id="a3"> 
+	 <head>Scope and Content Note</head> 
+	 <p>Papers, 1875-1996 (bulk 1920-1975). This collection consists of the
+		papers of authors John and Rosemary (Drachman) Winchcombe-Taylor. The bulk of
+		the papers contains personal and professional correspondence, published and
+		unpublished manuscripts, short stories, plays, articles, speeches, and
+		adaptations of their writings. The collection also includes photographs and
+		scrapbooks relating to their personal lives and literary careers. A small
+		amount of material within the collection is related to additional members of
+		the Drachman family, primarily biographical material, correspondence,
+		photographs and scrapbooks. Manuscripts titles often appear in other forms of
+		writing as Rosemary Winchcombe-Taylor's writings were adapted for the stage,
+		film, radio and serials. </p> 
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+		  <famname encodinganalog="600"> Drachman family -- Archives.</famname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname source="lcnaf" encodinganalog="700"> Taylor, Rosemary, b.
+			 1899 -- Archives.</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <geogname encodinganalog="641">Tucson (Ariz.) -- History -- Sources.</geogname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject source="lcsh" encodinganalog="650">Women war correspondents --
+			 Archives.</subject> </item> 
+	 </list> 
+	 </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+		  <unittitle>Series 1: Biographical Files, 
+			 <unitdate type="inclusive">1912-1981</unitdate></unittitle> 
+		</did> 
+		<scopecontent> 
+		  <p>This series contains biographical materials associated with John and
+			 Rosemary Winchcombe-Taylor. It includes certificates, news clippings, material
+			 relating to their estate as well as materials related to the military career of
+			 John Winchcombe-Taylor. The "Drachman Family-General" folder contains materials
+			 associated with additional members of the Drachman family particularly Rosemary
+			 Winchcombe-Taylor's immediate family including Drachman family trees.</p> 
+		</scopecontent> 
+		<c02 level="file"> 
+		  <did><container type="box">1</container><container type="folder">1-2
+				</container> 
+			 <unittitle>Drachman Family- General. 
+				<unitdate>1914-1972</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">1</container><container type="folder"> 3-4
+				</container> 
+			 <unittitle>Winchcombe-Taylor- Certificates. 
+				<unitdate>1912-1970</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">1</container><container type="folder"> 5-6
+				</container> 
+			 <unittitle>Winchcombe-Taylor- General. 
+				<unitdate>1922-1981</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">1</container><container type="folder"> 7
+				</container> 
+			 <unittitle>Winchcombe-Taylor, John- Estate. 
+				<unitdate>1952-1969</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">1</container><container type="folder"> 8
+				</container> 
+			 <unittitle>Winchcombe-Taylor, John- Military. 
+				<unitdate>1917-1921</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">1</container><container type="folder"> 9
+				</container> 
+			 <unittitle>Winchcombe-Taylor, John- Military. 
+				<unitdate>1939-1951</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series" id="ser2"> 
+		<did> 
+		  <unittitle>Series 2: Correspondence, 
+			 <unitdate type="inclusive">1875-1979</unitdate></unittitle> 
+		</did> 
+		<scopecontent> 
+		  <p>This series is divided into two subseries: </p> 
+		  <p>Business (1942-1978) contains correspondence between the
+			 Winchcombe-Taylors and various publishers, agents, authors, producers and fans
+			 relating to their literary works. Also included is correspondence related to
+			 literary research and promotion. </p> 
+		  <p>Personal (1875-1979) contains correspondence primarily between John
+			 and Rosemary Winchcombe-Taylor and family, friends and political figures. It
+			 also includes correspondence between members of the Drachman family and others.
+			 Of note - is correspondence that Rosemary Winchcombe-Taylor wrote that doubled
+			 as a personal journal. </p> 
+		</scopecontent> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Subseries: Business, 
+				<unitdate>1942-1978</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did><container type="box">1</container><container type="folder">10
+				  </container> 
+				<unittitle>Avon Books. 
+				  <unitdate>1964-1970</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">1</container><container type="folder">11
+				  </container> 
+				<unittitle>Bilby, Kenneth. 
+				  <unitdate>1959</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">1</container><container
+				type="folder">12-14 </container> 
+				<unittitle>Blassingame, Lurton. 
+				  <unitdate>1942-1953</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">1</container><container type="folder">15
+				  </container> 
+				<unittitle>Blassingame, Lurton. 
+				  <unitdate>1954-1959</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">1</container><container type="folder"> 16
+				  </container> 
+				<unittitle>Blassingame, Lurton. 
+				  <unitdate>1960-1978</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">1</container><container type="folder">17
+				  </container> 
+				<unittitle>Caruso, Joseph. 
+				  <unitdate>1960-1961</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">1</container><container type="folder">
+				  18-20 </container> 
+				<unittitle>Crowell Company. 
+				  <unitdate>1947-1960</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">2</container><container type="folder">1
+				  </container> 
+				<unittitle>Dodd, Mead and Company. 
+				  <unitdate>1961-1971</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">2</container><container type="folder">2
+				  </container> 
+				<unittitle>Dodds, John. 
+				  <unitdate>1960</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">2</container><container type="folder"> 3
+				  </container> 
+				<unittitle>Dodge, Mrs. 
+				  <unitdate>1958</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">2</container><container type="folder"> 4
+				  </container> 
+				<unittitle>Epstein, Julius. 
+				  <unitdate>1945-1970</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">2</container><container type="folder"> 5-7
+				  </container> 
+				<unittitle>Fan Mail. 
+				  <unitdate>1942-1949</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">2</container><container type="folder"> 8
+				  </container> 
+				<unittitle>Fan Mail. 
+				  <unitdate>1950-1974</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">2</container><container type="folder"> 9
+				  </container> 
+				<unittitle>Fitzgerald, Louise and Doris West. 
+				  <unitdate>1949-1951</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">2</container><container type="folder">10
+				  </container> 
+				<unittitle>General. 
+				  <unitdate>1943-1951</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">2</container><container type="folder"> 11
+				  </container> 
+				<unittitle>General. 
+				  <unitdate>1925-1951</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">2</container><container type="folder"> 11
+				  </container> 
+				<unittitle>General. 
+				  <unitdate>1952-1972</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">2</container><container type="folder"> 12
+				  </container> 
+				<unittitle>Goodman, Jules. 
+				  <unitdate>1944-1950</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">2</container><container type="folder"> 13
+				  </container> 
+				<unittitle>Gross, Edward. 
+				  <unitdate>1943-1949</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">2</container><container type="folder">14
+				  </container> 
+				<unittitle>Gross, Edward. 
+				  <unitdate>1950-1960</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">2</container><container type="folder"> 15
+				  </container> 
+				<unittitle>Gross, Nelson. 
+				  <unitdate>1948</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">2</container><container type="folder">16
+				  </container> 
+				<unittitle>G.P. Putnam's Sons. 
+				  <unitdate>1957-1959</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">2</container><container type="folder">
+				  17-19 </container> 
+				<unittitle>Harmon, Charlotte. 
+				  <unitdate>1955-1965</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">2</container><container type="folder"> 20
+				  </container> 
+				<unittitle>Henry, Eugene. 
+				  <unitdate>1965</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">2</container><container type="folder"> 21
+				  </container> 
+				<unittitle>Johnston, Albert. 
+				  <unitdate>1965</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">2</container><container type="folder">22
+				  </container> 
+				<unittitle>Lee Keedick. 
+				  <unitdate>1951-1953</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">2</container><container
+				type="folder">23-24 </container> 
+				<unittitle>Lester, William. 
+				  <unitdate>1957-1959</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">2</container><container type="folder">25
+				  </container> 
+				<unittitle>McCormick, Ada. 
+				  <unitdate>1959</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">2</container><container type="folder">26
+				  </container> 
+				<unittitle>National War Fund. 
+				  <unitdate>1944-1945</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">2</container><container type="folder">
+				  27-29 </container> 
+				<unittitle>Needham, Jane. 
+				  <unitdate>1956-1960</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">2</container><container type="folder">30
+				  </container> 
+				<unittitle>Nimmer, Melville. 
+				  <unitdate>1958-1960</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">2</container><container type="folder"> 31
+				  </container> 
+				<unittitle>O'Melveny, John. 
+				  <unitdate>1944-1958</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">2</container><container type="folder"> 32
+				  </container> 
+				<unittitle>Promotion- Fraternity Publications. 
+				  <unitdate>1958-1959</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">2</container><container type="folder"> 33
+				  </container> 
+				<unittitle>Promotion- Looking Up. nd, 
+				  <unitdate>1957-1959</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">3</container><container type="folder">1
+				  </container> 
+				<unittitle>Promotion- Looking Up. 
+				  <unitdate>1957-1959</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">3</container><container type="folder"> 2
+				  </container> 
+				<unittitle>Research. 
+				  <unitdate>1951-1969</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">3</container><container type="folder"> 3
+				  </container> 
+				<unittitle>Samuel French. 
+				  <unitdate>1949-1950</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">3</container><container type="folder"> 4
+				  </container> 
+				<unittitle>Stierhem, Eleanor. 
+				  <unitdate>1947-1955</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">3</container><container type="folder"> 5
+				  </container> 
+				<unittitle>St. Martin's Press. 
+				  <unitdate>1958-1963</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">3</container><container type="folder"> 6
+				  </container> 
+				<unittitle>Strassman, Toni. 
+				  <unitdate>1945-1960</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">3</container><container type="folder"> 7
+				  </container> 
+				<unittitle>Strassman, Toni. 
+				  <unitdate>1961-1975</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">3</container><container type="folder"> 8
+				  </container> 
+				<unittitle>Swanson, H. N. 
+				  <unitdate>1949-1963</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">3</container><container type="folder"> 9
+				  </container> 
+				<unittitle>West-Ways. 
+				  <unitdate>1949-1951</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">3</container><container type="folder">
+				  10-11 </container> 
+				<unittitle>Whittlesey House-McGraw Hill. 
+				  <unitdate>1942-1947</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">3</container><container type="folder"> 12
+				  </container> 
+				<unittitle>Whittlesey House-McGraw Hill. 
+				  <unitdate>1948-1972</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">3</container><container type="folder"> 13
+				  </container> 
+				<unittitle>William Morris Agency. 
+				  <unitdate>1943-1972</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">3</container><container type="folder"> 14
+				  </container> 
+				<unittitle>Wood, Audrey. 
+				  <unitdate>1944-1965</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle>Personal. 
+				<unitdate>1875-1979</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did><container type="box">3</container><container
+				type="folder">15</container> 
+				<unittitle> Alan. 
+				  <unitdate>1963-1969</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">3</container><container type="folder">
+				  16</container> 
+				<unittitle> Arizona Historical Foundation. 
+				  <unitdate>1960-1968</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">3</container><container type="folder">
+				  17</container> 
+				<unittitle> Baldocchi, Maude. 
+				  <unitdate>1960-1969</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">3</container><container type="folder">
+				  18</container> 
+				<unittitle> Bliven, Rose and Bruce. 
+				  <unitdate>1966-1973</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">3</container><container type="folder">
+				  19</container> 
+				<unittitle> Bromiley Family. 
+				  <unitdate>1965-1973</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">3</container><container type="folder">
+				  20</container> 
+				<unittitle> Carlsmith, Peg. 
+				  <unitdate>1940-1975</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">3</container><container type="folder">
+				  21</container> 
+				<unittitle> Correspondence as Journal Entries. 
+				  <unitdate>1951-1959</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">3</container><container type="folder">
+				  22-24</container> 
+				<unittitle> Correspondence as Journal Entries. 
+				  <unitdate>1960-1962</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">3</container><container type="folder">
+				  25-26</container> 
+				<unittitle> Correspondence as Journal Entries. 
+				  <unitdate>1963</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">3</container><container type="folder">
+				  27</container> 
+				<unittitle> Correspondence as Journal Entries. 
+				  <unitdate>1964-1969</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">4</container><container
+				type="folder">1</container> 
+				<unittitle> Correspondence as Journal Entries. 
+				  <unitdate>1964-1969</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">4</container><container type="folder">
+				  2-3</container> 
+				<unittitle> Correspondence as Journal Entries. 
+				  <unitdate>1970-1975</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">4</container><container type="folder">
+				  4</container> 
+				<unittitle> Dede. 
+				  <unitdate>1958</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">4</container><container type="folder">
+				  5</container> 
+				<unittitle> De Vault, Robert. 
+				  <unitdate>1961-1972</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">4</container><container type="folder">
+				  6-7</container> 
+				<unittitle> Drachman, Ethel. 
+				  <unitdate>1875-1945</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">4</container><container type="folder">
+				  8</container> 
+				<unittitle> Drachman Family. 
+				  <unitdate>1923-1925</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">4</container><container type="folder">
+				  9</container> 
+				<unittitle> Drachman, Oliver and Family. 
+				  <unitdate>1936-1971</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">4</container><container type="folder">
+				  10</container> 
+				<unittitle> Drachman, Phil and Betty. 
+				  <unitdate>1915-1971</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">4</container><container type="folder">
+				  11</container> 
+				<unittitle> Fitts, Billy. 
+				  <unitdate>1960</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">4</container><container type="folder">
+				  12</container> 
+				<unittitle> Garfield, Brian. 
+				  <unitdate>1965-1972</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">4</container><container type="folder">
+				  13-14</container> 
+				<unittitle> General. 
+				  <unitdate>1915-1959</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">4</container><container type="folder">
+				  15</container> 
+				<unittitle> General. 
+				  <unitdate>1960-1969</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">4</container><container type="folder">
+				  16</container> 
+				<unittitle> General. 
+				  <unitdate>1970-1979</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">4</container><container type="folder"> 17
+				  </container> 
+				<unittitle>Gibbons, Floyd. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">4</container><container type="folder">
+				  18</container> 
+				<unittitle> Gjelsness, Rudy and Ruth. 
+				  <unitdate>1964</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">4</container><container type="folder">
+				  19</container> 
+				<unittitle> Glick, Carl. 
+				  <unitdate>1958-1970</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">4</container><container type="folder">
+				  20</container> 
+				<unittitle> Hayden, Carl. 
+				  <unitdate>1939-1957</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">4</container><container type="folder">
+				  21</container> 
+				<unittitle> Hundevad, John. 
+				  <unitdate>1960-1969</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">4</container><container type="folder">
+				  22</container> 
+				<unittitle> Icks, Robert. 
+				  <unitdate>1942-1968</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">4</container><container type="folder">
+				  23</container> 
+				<unittitle> McGhee, Joan. 
+				  <unitdate>1960-1964</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">4</container><container type="folder">
+				  24</container> 
+				<unittitle> McGowan, Katherine. 
+				  <unitdate>1959-1971</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">4</container><container type="folder">
+				  25</container> 
+				<unittitle> Ortega, Anna. 
+				  <unitdate>1957-1961</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">4</container><container type="folder">
+				  26</container> 
+				<unittitle> Partridge Family. 
+				  <unitdate>1943-1970</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">4</container><container type="folder">
+				  27</container> 
+				<unittitle> Shirer Family. 
+				  <unitdate>1958-1965</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">4</container><container type="folder">
+				  28</container> 
+				<unittitle> Snell and Co. 
+				  <unitdate>1950</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">4</container><container type="folder">
+				  29</container> 
+				<unittitle> Switten, Lucie. 
+				  <unitdate>1948-1953</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">5</container><container
+				type="folder">1</container> 
+				<unittitle> Turner Family. 
+				  <unitdate>1973-1977</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">5</container><container type="folder">
+				  2</container> 
+				<unittitle> Udall, Morris. 
+				  <unitdate>1967-1972</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">5</container><container type="folder">
+				  3</container> 
+				<unittitle> Whiting Family. 
+				  <unitdate>1960-1971</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">5</container><container type="folder">
+				  4-11</container> 
+				<unittitle> Winchcombe-Taylor, John. 
+				  <unitdate>1939-1948</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">5</container><container type="folder">
+				  12-14</container> 
+				<unittitle> Winchcombe-Taylor, John. 
+				  <unitdate>1950-1967</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">5</container><container type="folder">
+				  15</container> 
+				<unittitle> Winchcombe-Taylor, Josephine and Roberta. 
+				  <unitdate>1953-1976</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">5</container><container type="folder">
+				  16</container> 
+				<unittitle> Winchcombe-Taylor, Kathleen. 
+				  <unitdate>1955-1970</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">5</container><container type="folder">
+				  17</container> 
+				<unittitle> Winchcombe-Taylor, Patricia. 
+				  <unitdate>1943-1975</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">5</container><container type="folder">
+				  18</container> 
+				<unittitle> Winchcombe-Taylor, Robert. 
+				  <unitdate>1938-1950</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series" id="ser3"> 
+		<did> 
+		  <unittitle>Series 3: Writings, 
+			 <unitdate type="inclusive">1914-1984</unitdate></unittitle> 
+		</did> 
+		<scopecontent> 
+		  <p>This series contains the published and unpublished writings of John
+			 and Rosemary Winchcombe-Taylor. The Writings Series is divided into ten
+			 subseries:</p> 
+		  <p>Manuscripts (1943-1975) contains drafts and galleys of unpublished
+			 and published manuscripts. </p> 
+		  <p>Adaptations (1943-1970) contains film, radio, newspaper and magazine
+			 adaptations of several of Rosemary Winchcombe-Taylor's novels. Several
+			 adaptations are in foreign languages including German and Spanish.</p> 
+		  <p>Short Stories (1927-1956) contains published and unpublished short
+			 stories. </p> 
+		  <p>Plays (1921-1959) contains plays written primarily by John
+			 Winchcombe-Taylor. Also included in this subseries are plays adapted from Ms.
+			 Winchcombe-Taylor's novels by Mr. Winchcombe-Taylor and other playwrights.</p> 
+		  <p>Articles (1925-1971) contains published and unpublished articles</p>
+		  
+		  <p>Speeches (1951-1972) contains various speeches given by Rosemary
+			 Winchcombe-Taylor.</p> 
+		  <p>Research Files (1932-1963) contains research materials with the bulk
+			 of the material compiled by John Winchcombe-Taylor.</p> 
+		  <p>Legal Files (1943-1977) contains contracts, copyright and royalty
+			 statements. </p> 
+		  <p>Publicity Files (1925-1972) contains publicity material. It includes
+			 flyers, biographical statements, lectures series information, publisher
+			 catalogs and news clippings. </p> 
+		  <p>Miscellaneous (1914-1984) contains miscellaneous writings,
+			 illustrations, book plates, observations and notes. Also includes Rosemary
+			 Winchcombe- Taylor's journals</p> 
+		</scopecontent> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle> Subseries: Manuscripts, 
+				<unitdate>1943-1975</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did><container type="box">5</container><container
+				type="folder">19-20 .</container> 
+				<unittitle> 
+				  <unitdate>1947</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">5</container><container
+				type="folder">21-23</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Adrienne </title>-10 Chapters. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">6</container><container
+				type="folder">1-2</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Adrienne-</title>10 Chapters. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">6</container><container
+				type="folder">3-9</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Adrienne-</title>11 Chapters. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">6</container><container type="folder">
+				  10-12</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Adrienne. </title> 
+				  <unitdate>1963</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">6</container><container type="folder">
+				  13-15</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Bar Nothing Ranch. </title> 
+				  <unitdate>1947</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">6</container><container type="folder">
+				  16</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Bar Nothing Ranch-Galley. </title> 
+				  <unitdate>1948</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">6</container><container
+				type="folder">17</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Chicken Every Sunday.</title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">6</container><container type="folder">
+				  18-20</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Chicken Every Sunday. </title> 
+				  <unitdate>1943</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">6</container><container
+				type="folder">21</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Come Clean, My Love.</title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">7</container><container
+				type="folder">1</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Come Clean, My Love.</title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">7</container><container
+				type="folder">2-3</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Come Clean, My Love-Second
+					 Draft.</title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">7</container><container
+				type="folder">4</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Could be Right. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">7</container><container
+				type="folder">5-7</container> 
+				<unittitle> 
+				  <title actuate="onrequest">The Guerilla. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">7</container><container
+				type="folder">8-12</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Harem Scare'm. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">7</container><container
+				type="folder">13-14</container> 
+				<unittitle> 
+				  <title actuate="onrequest">The King's Vagabond. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">7</container><container
+				type="folder">15</container> 
+				<unittitle> 
+				  <title actuate="onrequest">The King's Vagabond. </title> 
+				  <unitdate>1962</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">7</container><container
+				type="folder">16</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Laird and Colonel Anne. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">7</container><container type="folder">
+				  17</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Laird and Colonel Anne. </title> 
+				  <unitdate>1963</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">7</container><container
+				type="folder">18</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Laird and Colonel Anne-Version 1.
+					 </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">7</container><container
+				type="folder">19</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Laird and Colonel Anne-Version 3.
+					 </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">7</container><container
+				type="folder">20</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Laird and Colonel Anne-Version
+					 4.</title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">7</container><container
+				type="folder">21</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Little Arthur. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">8</container><container
+				type="folder">1</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest">Little Arthur.
+					 </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">8</container><container
+				type="folder">2</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest">Looking Up. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">8</container><container type="folder">
+				  3-4</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest">Looking Up. </title> 
+				  <unitdate>1957</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">8</container><container type="folder">
+				  5</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest">Looking
+					 Up</title>-Chapters. 
+				  <unitdate>1957</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">8</container><container
+				type="folder">6-10</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest">Memoirs of Monsieur
+					 D'Artagnan. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">8</container><container
+				type="folder">11-13</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest">Memoirs of Monsieur
+					 D'Artagnan. </title> 
+				  <unitdate>1945</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">8</container><container
+				type="folder">14</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Now I'm Mrs. Chicken.</title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">8</container><container type="folder">
+				  15</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Now I'm Mrs. Chicken.
+					 </title> 
+				  <unitdate>1949</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">8</container><container
+				type="folder">16-20</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Penelope. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">9</container><container
+				type="folder">1-3</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Penelope. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">9</container><container type="folder">
+				  4-6</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Penelope. </title> 
+				  <unitdate>1963-1969</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">9</container><container type="folder">
+				  7-8</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Penelope. </title> 
+				  <unitdate>1975</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">9</container><container type="folder">
+				  9-18</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Ram. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">10</container><container
+				type="folder">1-6</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Ram. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">10</container><container type="folder">
+				  7-9</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Ram-Galley. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">10</container><container
+				type="folder">10-13</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Ram-</title>Original.
+				  
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">10</container><container
+				type="folder">14-17</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Ram. </title> 
+				  <unitdate>1960</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">10</container><container
+				type="folder">18</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Ridin' the Rainbow.
+					 </title> 
+				  <unitdate>1943</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container
+				type="folder">1</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Ridin' the Rainbow.
+					 </title> 
+				  <unitdate>1943</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container type="folder">
+				  2-3</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Ridin' the Rainbow.
+					 </title> 
+				  <unitdate>1944</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container type="folder">
+				  4</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Summertime Wives.
+					 </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container type="folder">
+				  5</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> The Town's Coming
+					 This Way. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container type="folder">
+				  6</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Tucson, Tenants and
+					 Typewriters.</title> 
+				  <unitdate>1970</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container type="folder">
+				  7</container> 
+				<unittitle> Untitled. 
+				  <unitdate>1960-1961</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle> Subseries: Adaptations, 
+				<unitdate>1943-1970</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container type="folder">
+				  8-9</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest">Broadway in a Barn.
+					 </title> 
+				  <unitdate>1957</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container type="folder">
+				  10-11</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Chicken Every Sunday. </title> 
+				  <unitdate>1943</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container type="folder">
+				  12</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Chicken Every Sunday-Film. </title> 
+				  <unitdate>1945</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container type="folder">
+				  13-14</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Chicken Every Sunday-German Serial.
+					 </title> 
+				  <unitdate>1969-1970</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container type="folder">
+				  15</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Chicken Every Sunday-Spanish Version.
+					 </title> 
+				  <unitdate>1944</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container type="folder">
+				  16-17</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Chicken Every Sunday </title>-Radio. 
+				  <unitdate>1949</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container type="folder">
+				  18</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Harem Scare'm. </title> 
+				  <unitdate>1951</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container type="folder">
+				  19</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Harem Scare'm-Serial. </title> 
+				  <unitdate>1951</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container type="folder">
+				  20</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Ridin' the Rainbow. </title> 
+				  <unitdate>1944</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container type="folder">
+				  21</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Ridin' the Rainbow</title>-Spanish
+				  Version. 
+				  <unitdate>1946</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container type="folder">
+				  22</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Sunny-The Spirit of '76. </title> 
+				  <unitdate>1947</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle> Subseries: Short Stories, 
+				<unitdate>1927-1956</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container
+				type="folder">23</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Abdel Krim on the American Aviators.
+					 </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container type="folder">
+				  24</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Aces. </title> 
+				  <unitdate>1931</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container type="folder">
+				  25</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Adventure. </title> 
+				  <unitdate>1940</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container type="folder">
+				  26</container> 
+				<unittitle> 
+				  <title actuate="onrequest">An American Affair of Maturity.
+					 </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container
+				type="folder">27</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Air! </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container type="folder">
+				  28</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Alibi. </title> 
+				  <unitdate>1934</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container type="folder">
+				  29</container> 
+				<unittitle> 
+				  <title actuate="onrequest">All-Fiction. </title> 
+				  <unitdate>1931</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container type="folder">
+				  30</container> 
+				<unittitle> 
+				  <title actuate="onrequest">The Ambivalent Mr. Hauser. </title> 
+				  <unitdate>1956</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container
+				type="folder">31</container> 
+				<unittitle> 
+				  <title actuate="onrequest">And so we are Landlords. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container type="folder">
+				  32</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Battle Birds. </title> 
+				  <unitdate>1933</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container type="folder">
+				  33</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Battle Stories. </title> 
+				  <unitdate>1931</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container
+				type="folder">34</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Breakfast with a Cowboy. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container
+				type="folder">35</container> 
+				<unittitle> 
+				  <title actuate="onrequest">But we don't think so Fast. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container
+				type="folder">36</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Caprice Value. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container
+				type="folder">37</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Children for John. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">11</container><container
+				type="folder">38</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Cleopatra and the Asp. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container
+				type="folder">1</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Conflict. </title> 
+				  <unitdate>1933</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container
+				type="folder">2</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Cowboy Lover. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container
+				type="folder">3</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Cowboy Stories. </title> 
+				  <unitdate>1934</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  4</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Daughters of Death. </title> 
+				  <unitdate>1935</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  5</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Deadheads. </title> 
+				  <unitdate>1939</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  6</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Detective Fiction Weekly. </title> 
+				  <unitdate>1934</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  7</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Eagles of the Air. </title> 
+				  <unitdate>1930</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  8</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Farewell to a Soldier. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  9</container> 
+				<unittitle> 
+				  <title actuate="onrequest">A Female Bandit. </title> 
+				  <unitdate>1938</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  10</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Fiesta in the Desert. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  11</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Fifty-Fifty is all Wrong. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  12</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Film Agents. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container
+				type="folder">13</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Film Crowds. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container
+				type="folder">14</container> 
+				<unittitle> 
+				  <title actuate="onrequest">A Flight in Morocco. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container
+				type="folder">15</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Footlights. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  16</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Gabe Blows his Horn. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  17</container> 
+				<unittitle> 
+				  <title actuate="onrequest">General. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container
+				type="folder">18</container> 
+				<unittitle> 
+				  <title actuate="onrequest">The Girl in Soft Focus. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container
+				type="folder">19</container> 
+				<unittitle> 
+				  <title actuate="onrequest">He Trains Fleas. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  20</container> 
+				<unittitle> 
+				  <title actuate="onrequest">High-Seas Adventures. </title> 
+				  <unitdate>1934</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  21</container> 
+				<unittitle> 
+				  <title actuate="onrequest">I give you Iceland, Yank. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  22</container> 
+				<unittitle> 
+				  <title actuate="onrequest">International Detective Magazine.
+					 </title> 
+				  <unitdate>1933</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  23</container> 
+				<unittitle> 
+				  <title actuate="onrequest">It Happened like This. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  24-25</container> 
+				<unittitle> 
+				  <title actuate="onrequest">It's a Nice Clean Business. </title> 
+				  <unitdate>1938-1939</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  26</container> 
+				<unittitle> 
+				  <title actuate="onrequest">John April. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container
+				type="folder">27</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Landlady Plus. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  28</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Laurels for Casey. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  29</container> 
+				<unittitle> 
+				  <title actuate="onrequest">A Life in My Hands. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  30</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Love in a Ghost Town. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  31</container> 
+				<unittitle> 
+				  <title actuate="onrequest">The Lone Eagle. </title> 
+				  <unitdate>1934-1936</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  32</container> 
+				<unittitle> 
+				  <title actuate="onrequest">A Man worth Fighting For. </title> 
+				  <unitdate>1947</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  33</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Meet My Ancestor. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  34</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Men are where you find them. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  35</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Moroccan Moon. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  36</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Mother's Boarders. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  37</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Mrs. Duncan Keeps on Deciding.
+					 </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  38</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Navy Stories. </title> 
+				  <unitdate>1929</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  39</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Old Grumpy. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  40</container> 
+				<unittitle> 
+				  <title actuate="onrequest">On Onions and a Horse Ridden
+					 Backwards. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  41</container> 
+				<unittitle> 
+				  <title actuate="onrequest">One Way to Become and Author. </title>
+				  
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  42</container> 
+				<unittitle> 
+				  <title actuate="onrequest">The Open Road for Boys. </title> 
+				  <unitdate>1927-1928</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  43</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Opus Six. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  44</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Peraltareavis, Baron of Arizona.
+					 </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  45</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Pinafore Pirates. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  46</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Pioneer Love. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  47</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Pirate Stories. </title> 
+				  <unitdate>1935</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  48</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Powder for Lille. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  49</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Pushing Mother out of the Nest.
+					 </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  50</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Rediwill Saves the Boy. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  51-52</container> 
+				<unittitle> 
+				  <title actuate="onrequest">The Royal Tank Corps Journal. </title>
+				  
+				  <unitdate>1931-1934</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  53</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Scotland Yard. </title> 
+				  <unitdate>1931</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">12</container><container type="folder">
+				  54</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Single Standard. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">13</container><container
+				type="folder">1-2</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Sky Fighters. </title> 
+				  <unitdate>1934-1940</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">13</container><container type="folder">
+				  3</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Sky Riders. </title> 
+				  <unitdate>1931</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">13</container><container type="folder">
+				  4</container> 
+				<unittitle> 
+				  <title actuate="onrequest">So Maybe you'd like to be a Mailman.
+					 </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">13</container><container type="folder">
+				  5</container> 
+				<unittitle> 
+				  <title actuate="onrequest">So you want to Rent a House. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">13</container><container type="folder">
+				  6</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Spy Stories. </title> 
+				  <unitdate>1929</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">13</container><container type="folder">
+				  7</container> 
+				<unittitle> 
+				  <title actuate="onrequest">The State I'm In. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">13</container><container type="folder">
+				  8</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Sure-Fire Western. </title> 
+				  <unitdate>1938</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">13</container><container type="folder">
+				  9</container> 
+				<unittitle> 
+				  <title actuate="onrequest">The Taking of Corporal John. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">13</container><container type="folder">
+				  10-11</container> 
+				<unittitle> 
+				  <title actuate="onrequest">The Tank. </title> 
+				  <unitdate>1940-1941</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">13</container><container type="folder">
+				  12-14</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Thrilling Adventures. </title> 
+				  <unitdate>1934-1939</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">13</container><container type="folder">
+				  15-16</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Top-Notch. </title> 
+				  <unitdate>1936</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">13</container><container type="folder">
+				  17-20</container> 
+				<unittitle> 
+				  <title actuate="onrequest">War Novels. </title> 
+				  <unitdate>1928-1930</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">13</container><container type="folder">
+				  21</container> 
+				<unittitle> 
+				  <title actuate="onrequest">War Stories. </title> 
+				  <unitdate>1927-1932</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container
+				type="folder">1-5</container> 
+				<unittitle> 
+				  <title actuate="onrequest">War Stories. </title> 
+				  <unitdate>1927-1932</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container type="folder">
+				  6</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Western Romances. </title> 
+				  <unitdate>1936</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container type="folder">
+				  7</container> 
+				<unittitle> 
+				  <title actuate="onrequest">A Yank with the Terriers. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container type="folder">
+				  8</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Your Husband and your Girlfriend.
+					 </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container type="folder">
+				  9</container> 
+				<unittitle> 
+				  <title actuate="onrequest">You've got to run for first Base.
+					 </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container type="folder">
+				  10</container> 
+				<unittitle> 
+				  <title actuate="onrequest">The Zero Hour. </title> 
+				  <unitdate>1928</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle> Subseries: Plays, 
+				<unitdate>1921-1959</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container type="folder">
+				  11</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Arizona Comedy. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container type="folder">
+				  12</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Bar Nothing Ranch. </title> 
+				  <unitdate>1953</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container type="folder">
+				  13</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Be my Love. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container type="folder">
+				  14</container> 
+				<unittitle> 
+				  <title actuate="onrequest">The Broom-maker. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container type="folder">
+				  15</container> 
+				<unittitle> 
+				  <title actuate="onrequest">The Broom-maker-Johann. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container type="folder">
+				  16-17</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Chicken Every Sunday. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container type="folder">
+				  18</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Come Clean, My Love-Version 1.
+					 </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container type="folder">
+				  19</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Come Clean, My Love-Version 2.
+					 </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container type="folder">
+				  20-21</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Come Clean, My Love-Version 4.
+					 </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container type="folder">
+				  22-23</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Come Clean, My Love. </title> 
+				  <unitdate>1949</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">14</container><container type="folder">
+				  24</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Come Clean, My Love. </title> 
+				  <unitdate>1951</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">15</container><container
+				type="folder">1-2</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Consider the Lily. </title> 
+				  <unitdate>1934</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">15</container><container type="folder">
+				  3</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Dar Tazi. </title> 
+				  <unitdate>1930</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">15</container><container type="folder">
+				  4-5</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Easy Street, West. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">15</container><container type="folder">
+				  6</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Eternal Summer. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">15</container><container type="folder">
+				  7-10</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Eternal Summer. </title> 
+				  <unitdate>1950</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">15</container><container type="folder">
+				  11</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Eternal Summer-Draft 1. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">15</container><container type="folder">
+				  12-18</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Footlights and Sixguns. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">15</container><container type="folder">
+				  19</container> 
+				<unittitle> 
+				  <title actuate="onrequest">General. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">15</container><container type="folder">
+				  20</container> 
+				<unittitle> 
+				  <title actuate="onrequest">A German Soldier. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">15</container><container type="folder">
+				  21</container> 
+				<unittitle> 
+				  <title actuate="onrequest">The Great Conspiracy. </title> 
+				  <unitdate>1922</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">15</container><container type="folder">
+				  22</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Harem Scare'm. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">15</container><container type="folder">
+				  23</container> 
+				<unittitle> 
+				  <title actuate="onrequest">The O'Donoghue. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">15</container><container type="folder">
+				  24</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Porky and Peroxide. </title> 
+				  <unitdate>1921</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">15</container><container type="folder">
+				  25</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Randalin's Crowning. </title> 
+				  <unitdate>1922</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">15</container><container type="folder"> 26
+				  </container> 
+				<unittitle> 
+				  <title actuate="onrequest">Ridin' the Rainbow. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">15</container><container type="folder">
+				  27</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Riding the Rainbow. </title> 
+				  <unitdate>1959</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">15</container><container type="folder">
+				  28</container> 
+				<unittitle> 
+				  <title actuate="onrequest">The Ring of Death. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container
+				type="folder">1</container> 
+				<unittitle> 
+				  <title actuate="onrequest">A Son of his Father. </title> 
+				  <unitdate>1926</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  2</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Sweethearts and Wives. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  3</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Terry of Tralee. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  4</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Up on a Ladder. </title> 
+				  <unitdate>1922</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  5</container> 
+				<unittitle> 
+				  <title actuate="onrequest">You're Never Through. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle> Subseries: Articles, 
+				<unitdate>1925-1971</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  6</container> 
+				<unittitle> 
+				  <title actuate="onrequest">An American Woman in Tangier. </title>
+				  
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  7</container> 
+				<unittitle> 
+				  <title actuate="onrequest">And Why Not? </title> 
+				  <unitdate>1943</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  8</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Cabeza de Vaca: First across the
+					 Continent. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  9</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Chicken comes home to Roost. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  10</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Cinderella on Broadway. </title> 
+				  <unitdate>1952</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  11</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Dogs that have Owned Me. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  12</container> 
+				<unittitle> 
+				  <title actuate="onrequest">England's Rock. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  13</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Entertaining without Money. </title> 
+				  <unitdate> undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container
+				type="folder">14</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Excerpt. </title> 
+				  <unitdate>1971</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  15</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Ex-Spinster Eats Crow. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container
+				type="folder">16</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Feminism in Morocco by War's End.
+					 </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  17</container> 
+				<unittitle> 
+				  <title actuate="onrequest">The First Lady of Fez is an American.
+					 </title> 
+				  <unitdate>1926</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  18</container> 
+				<unittitle> 
+				  <title actuate="onrequest">From Tamales to "Chicken." </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  19</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Girl Describes Land of Riffs. </title>
+				  
+				  <unitdate>1925</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  20</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Harem Episode. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  21</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Harems and Husbands. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  22</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Harems are for Lady Journalists.
+					 </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  23</container> 
+				<unittitle> 
+				  <title actuate="onrequest">1941</title> 
+				  <unitdate> How to Entertain Without Money.</unitdate></unittitle>
+				
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  24</container> 
+				<unittitle> 
+				  <title actuate="onrequest">How to Make your Secretary Love You.
+					 </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  25</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Husbands' Paradise. </title> 
+				  <unitdate>1930</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  26</container> 
+				<unittitle> 
+				  <title actuate="onrequest">I Learned about Husbands in a Harem.
+					 </title> 
+				  <unitdate>1931</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  27</container> 
+				<unittitle> 
+				  <title actuate="onrequest">A Lady Journalist in Morocco. </title>
+				  
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  28</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Last Paradise for Husbands. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  29</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Local Color. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  30</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Lots of Love. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  31</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Nobody's Mad Now. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  32</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Not Running From, But After 'The War.'
+					 </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  33</container> 
+				<unittitle> 
+				  <title actuate="onrequest">On Reading. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  34</container> 
+				<unittitle> 
+				  <title actuate="onrequest">One Woman and Seventeen Thousand Men.
+					 </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  35</container> 
+				<unittitle> 
+				  <title actuate="onrequest">One Woman and 17,000 Men. </title> 
+				  <unitdate>1926</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  36</container> 
+				<unittitle> 
+				  <title actuate="onrequest">“Our” Sunday in the Desert. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  37</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Radiographs. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  38</container> 
+				<unittitle> 
+				  <title actuate="onrequest">The Seamy Side of Glory. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  39</container> 
+				<unittitle> 
+				  <title actuate="onrequest">So You Want to be a Dude. </title> 
+				  <unitdate>1952</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  40</container> 
+				<unittitle> 
+				  <title actuate="onrequest">The Social Radiator. </title> 
+				  <unitdate>1930</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  41</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Tamales for Two. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  42</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Tangier, the Tactful. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  43</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Taos the Unspoiled. </title> 
+				  <unitdate>1953</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  44</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Ten Things I would not do if I were
+					 Married. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  45</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Them was the Days. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  46</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Then and Now or Ex-Spinster Eats Crow.
+					 </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  47</container> 
+				<unittitle> 
+				  <title actuate="onrequest">To Souk, to Souk to buy a Fat
+					 Scorpion. </title> 
+				  <unitdate>1925</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  48-49</container> 
+				<unittitle> 
+				  <title actuate="onrequest">When I Sailed with the Spanish Fleet.
+					 nd, </title> 
+				  <unitdate>1932</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  50</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Wellington's Eye. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  51</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Western Ways. </title> 
+				  <unitdate>1949-1950</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle> Subseries: Speeches, 
+				<unitdate>1951-1972</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  52</container> 
+				<unittitle> Book Club. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  53</container> 
+				<unittitle> Executive Club. 
+				  <unitdate>1952</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  54</container> 
+				<unittitle> General. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  55</container> 
+				<unittitle> Jenny's Class. 
+				  <unitdate>1972</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  56</container> 
+				<unittitle> Literacy Club. 
+				  <unitdate>1951</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  57</container> 
+				<unittitle> New Century Club. 
+				  <unitdate>1951</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  58</container> 
+				<unittitle> Phoenix College. 
+				  <unitdate>1951</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  59</container> 
+				<unittitle> San Diego. 
+				  <unitdate>1958</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  60</container> 
+				<unittitle> Trinity Presbyterian Church. 
+				  <unitdate>1951</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  61</container> 
+				<unittitle> Wives of the National Association of Home Builders. 
+				  <unitdate>1952</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  62</container> 
+				<unittitle> YWCA. 
+				  <unitdate>1957</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle> Subseries: Research Files, 
+				<unitdate>1932-1963</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  63</container> 
+				<unittitle> Adrienne. 
+				  <unitdate>1955</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  64</container> 
+				<unittitle> England. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">16</container><container type="folder">
+				  65-66</container> 
+				<unittitle> General. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">17</container><container
+				type="folder">1-5</container> 
+				<unittitle> General. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">17</container><container type="folder">
+				  6-8</container> 
+				<unittitle> General. 
+				  <unitdate>1932-1949</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">17</container><container type="folder">
+				  9-11</container> 
+				<unittitle> General. 
+				  <unitdate>1940-1954</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">17</container><container type="folder">
+				  12-13</container> 
+				<unittitle> General. 
+				  <unitdate>1950-1963</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">17</container><container type="folder">
+				  14-15</container> 
+				<unittitle> General. 
+				  <unitdate>1962</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">17</container><container type="folder">
+				  16-17</container> 
+				<unittitle> Georgia. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">17</container><container type="folder">
+				  18</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest">Harem Scare'm.
+					 </title> 
+				  <unitdate>1948</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">17</container><container type="folder">
+				  19</container> 
+				<unittitle> Looking Up. 
+				  <title render="italic" actuate="onrequest">1951-1957</title> 
+				  <unitdate></unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">18</container><container
+				type="folder">1</container> 
+				<unittitle> . 
+				  <title render="italic" actuate="onrequest">The Memoirs of
+					 D'Artagnan</title> 
+				  <unitdate>1951-1954</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">18</container><container type="folder">
+				  2-3</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest">Ram. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">18</container><container type="folder">
+				  4-9</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest">Ram. </title> 
+				  <unitdate>1941-1961</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">18</container><container type="folder">
+				  10</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest">Ram</title>-Book I. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">18</container><container type="folder">
+				  11</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest">Ram</title>-Book III. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">18</container><container type="folder">
+				  12</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest">Ram</title>-Book IV. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">18</container><container
+				type="folder">13-14</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest">Ram</title>-Book V. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">18</container><container
+				type="folder">15</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest">Ram</title>-Book VI 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">18</container><container
+				type="folder">16</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest">Ram</title>-BookVII 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">18</container><container
+				type="folder">17</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest">Ram</title>-BookVIII 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">18</container><container
+				type="folder">18</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest">Ram</title>-Book X 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">19</container><container
+				type="folder">1-3</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Ram-Character Index.
+					 </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">19</container><container
+				type="folder">4</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Ram </title>-U.S.
+				  History. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">19</container><container
+				type="folder">5</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Songs. </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle> Subseries: Legal Files, 
+				<unitdate>1943-1977</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did><container type="box">19</container><container type="folder">
+				  6</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Bar Nothing
+					 Ranch</title>-Contracts. 
+				  <unitdate>1944-1948</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">19</container><container type="folder">
+				  7</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Broadway in a
+					 Barn-</title>Contracts. 
+				  <unitdate>1955-1956</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">19</container><container type="folder">
+				  8</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Chicken Every
+					 Sunday</title>-Contracts. 
+				  <unitdate>1943-1977</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">19</container><container type="folder">
+				  9</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Chicken Every
+					 Sunday</title>-Copyright. 
+				  <unitdate>1971</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">19</container><container type="folder">
+				  10</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Chicken Every
+					 Sunday</title>-Royalties. 
+				  <unitdate>1944-1956</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">19</container><container type="folder">
+				  11</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Come Clean, My
+					 Love</title>-Contracts. 
+				  <unitdate>1948-1954</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">19</container><container type="folder">
+				  12</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Eternal
+					 Summer</title>-Contracts. 
+				  <unitdate>1950</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">19</container><container type="folder">
+				  13</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Footlights and
+					 Sixguns</title>-Contracts. 
+				  <unitdate>1944</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">19</container><container type="folder">
+				  14</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Ghost Town
+					 Bonanza</title>-Contracts. 
+				  <unitdate>1953-1954</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">19</container><container type="folder">
+				  15</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Looking Up-Contracts.
+					 </title> 
+				  <unitdate>1958</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">19</container><container type="folder">
+				  163</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest">
+					 Ram</title>-Contracts. 
+				  <unitdate>1958-1963</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">19</container><container type="folder">
+				  17</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Ridin' the
+					 Rainbow</title>-Contracts. 
+				  <unitdate>1943-1944</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">19</container><container type="folder">
+				  18</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Ridin' the
+					 Rainbow</title>-Contracts. 
+				  <unitdate>1949-1966</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">19</container><container type="folder">
+				  19</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Ridin' the
+					 Rainbow</title>-Copyright. 
+				  <unitdate>1971</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle> Subseries: Publicity Files, 
+				<unitdate>1925-1972</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did><container type="box">19</container><container type="folder">
+				  20</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Bar Nothing Ranch.
+					 </title> 
+				  <unitdate>1947-1954</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">19</container><container type="folder">
+				  21</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Broadway in a Barn.
+					 </title> 
+				  <unitdate>1957</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">19</container><container type="folder">
+				  22-23</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Chicken Every Sunday.
+					 </title> 
+				  <unitdate>1943-1965</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">19</container><container type="folder">
+				  24</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Come Clean, My Love.
+					 </title> 
+				  <unitdate>1949</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">19</container><container type="folder">
+				  25-26</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> General. </title> 
+				  <unitdate>1925-1972</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">19</container><container type="folder">
+				  27</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Ghost Town Bonanza.
+					 </title> 
+				  <unitdate>1954-1956</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">19</container><container type="folder">
+				  28</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Harem Scare'm.
+					 </title> 
+				  <unitdate>1951-1952</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">19</container><container type="folder">
+				  29</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Looking Up. </title> 
+				  <unitdate>1953-1962</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">19</container><container type="folder">
+				  30</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Ridin' the Rainbow.
+					 </title> 
+				  <unitdate>1944</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">19</container><container type="folder">
+				  31-32</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Ram. </title> 
+				  <unitdate>1959-1961</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container
+				type="folder">1</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Weekly Book Review.
+					 </title> 
+				  <unitdate>1943-1944</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  2</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Winchcombe-Taylor,
+					 Rosemary-Radio.</title> 
+				  <unitdate>1945</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle> Subseries: Miscellaneous, 
+				<unitdate>1914-1984</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  3-4</container> 
+				<unittitle> American Adventures. 
+				  <unitdate>1931-1932</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  5</container> 
+				<unittitle> Book Review. 
+				  <unitdate>1960</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  6-10</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Chicken Every
+					 Sunday</title>-Plates. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  11-12</container> 
+				<unittitle> Ideas. 
+				  <unitdate>1953-1959</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  13-14</container> 
+				<unittitle> Illustrations- 
+				  <title render="italic" actuate="onrequest"> Bar Nothing Ranch.
+					 </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  15</container> 
+				<unittitle> Illustrations- 
+				  <title render="italic" actuate="onrequest">Chicken Every Sunday.
+					 </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  16</container> 
+				<unittitle> Journal. 
+				  <unitdate>1923</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  17</container> 
+				<unittitle> Journal. 
+				  <unitdate>1926-1948</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  18</container> 
+				<unittitle> Journal-Europe. 
+				  <unitdate>1923-1924</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  19</container> 
+				<unittitle> Journal-Morocco. 
+				  <unitdate>1925</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  20</container> 
+				<unittitle> Maid to Order. 
+				  <unitdate>1921</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  21</container> 
+				<unittitle> Notes. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  22-23</container> 
+				<unittitle> Observations. 
+				  <unitdate>1945-1984</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container
+				type="folder">24</container> 
+				<unittitle> Poems. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  25</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> Right Up Your
+					 Street</title>-Television. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  26</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> This is Your Life.
+					 </title> 
+				  <unitdate>1955</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  27</container> 
+				<unittitle> 
+				  <title render="italic" actuate="onrequest"> The Tucsonian.
+					 </title> 
+				  <unitdate>1914</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series" id="ser4"> 
+		<did> 
+		  <unittitle>Series 4: Photographs, Negatives and Slides, 
+			 <unitdate type="inclusive">1898-1996</unitdate></unittitle> 
+		</did> 
+		<scopecontent> 
+		  <p>This series contains photographs, negatives and slides. It is
+			 divided into two subseries:</p> 
+		  <p> Business (1929-1954) contains photographs, negatives and slides of
+			 John and Rosemary Winchcombe-Taylor including professional headshots, images
+			 from films and plays of several of Ms. Winchcombe-Taylor's novels and publicity
+			 photographs. Also included are photographs of two of Oliver Drachman's
+			 businesses.</p> 
+		  <p>Personal (1898-1996) contains photographs of John and Rosemary
+			 Winchcombe- Taylor and other members of the Drachman and Winchcombe-Taylor
+			 families. Also included are photographs of Alice (West) Drachman's family, the
+			 Colliers and Wests. Also included are images of various Drachman residences and
+			 Rosemary Winchcombe-Taylor's travels in Morocco. </p> 
+		</scopecontent> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle> Subseries: Business, 
+				<unitdate>1929-1954</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  28</container> 
+				<unittitle> Photographs 
+				  <title render="italic" actuate="onrequest">Chicken Every Sunday.
+					 </title> 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  29</container> 
+				<unittitle> Photographs- 
+				  <title render="italic" actuate="onrequest">Chicken Every Sunday.
+					 </title> 
+				  <unitdate>1944</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  30-31</container> 
+				<unittitle> Photographs- 
+				  <title render="italic" actuate="onrequest">Chicken Every Sunday.
+					 </title> 
+				  <unitdate>1946</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  34</container> 
+				<unittitle> Photographs-Drachman Fuel Business. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  35</container> 
+				<unittitle> Photographs-Drachman Fuel Business. 
+				  <unitdate>1929</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  36</container> 
+				<unittitle> Photographs-Drachman Laundry Business. 
+				  <unitdate>1954</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  37-38</container> 
+				<unittitle> Photographs-General. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  39</container> 
+				<unittitle> Photographs-Looking Up. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  40</container> 
+				<unittitle> Photographs-Winchcombe-Taylor, John. 
+				  <unitdate>1950</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  41-43</container> 
+				<unittitle> Photographs-Winchcombe-Taylor, Rosemary. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  44</container> 
+				<unittitle> Photographs-Winchcombe-Taylor, Rosemary. 
+				  <unitdate>1944</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container
+				type="folder">45</container> 
+				<unittitle> Negatives-Bar Nothing Ranch. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  46</container> 
+				<unittitle> Negatives-Winchcombe-Taylor, Rosemary. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  47</container> 
+				<unittitle> Slides-Chicken Every Sunday, Film. 
+				  <unitdate>1948</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  48</container> 
+				<unittitle> Slides-Filming, Unidentified. 
+				  <unitdate>1949</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  49</container> 
+				<unittitle> Slides-General. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  50</container> 
+				<unittitle> Slides-76 Ranch. 
+				  <unitdate>1947</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle> Subseries: Personal, 
+				<unitdate>1898-1996</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  51</container> 
+				<unittitle> Photographs-Collier Family. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  52-54</container> 
+				<unittitle> Photographs-Drachman, Alice West. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  55</container> 
+				<unittitle> Photographs-Drachman, Alice West. 
+				  <unitdate>1905-1946</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  56</container> 
+				<unittitle> Photographs-Drachman, Ann Eve. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  57</container> 
+				<unittitle> Photographs-Drachman, Anne Rodelle. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  58</container> 
+				<unittitle> Photographs-Drachman, Anne Rodelle. 
+				  <unitdate>1942-1955</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  59</container> 
+				<unittitle> Photographs-Drachman, Ethel. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder"> 60
+				  </container> 
+				<unittitle> Photographs-Drachman, Ethel and Rosemary
+				  Winchcombe-Taylor. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">20</container><container type="folder">
+				  61-67</container> 
+				<unittitle> Photographs-Drachman Family. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container
+				type="folder">1-3</container> 
+				<unittitle> Photographs-Drachman Family. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  4</container> 
+				<unittitle> Photographs-Drachman Family. 
+				  <unitdate>1938-1967</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  5</container> 
+				<unittitle> Photographs-Drachman Family Residence. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  6</container> 
+				<unittitle> Photographs-Drachman Family Residence. 
+				  <unitdate>1963</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  7</container> 
+				<unittitle> Photographs-Drachman, James Douglas. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  8</container> 
+				<unittitle> Photographs-Drachman, James Douglas. 
+				  <unitdate>1966-1970</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  9</container> 
+				<unittitle> Photographs-Drachman, James West. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  10</container> 
+				<unittitle> Photographs-Drachman, Mose. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  11-13</container> 
+				<unittitle> Photographs-Drachman, Oliver. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  14</container> 
+				<unittitle> Photographs-Drachman, Oliver. 
+				  <unitdate>1903-1946</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  15</container> 
+				<unittitle> Photographs- Drachman, Oliver and Alice. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  16</container> 
+				<unittitle> Photographs-Drachman, Oliver and Alice. 
+				  <unitdate>1942-1996</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  17</container> 
+				<unittitle> Photographs-Drachman, Oliver and Philip. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  18-20</container> 
+				<unittitle> Photographs-Drachman, Oliver Residence. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  21</container> 
+				<unittitle> Photographs-Drachman, Oliver Residence. 
+				  <unitdate>1958</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  23-23</container> 
+				<unittitle> Photographs-Drachman, Oliver West. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  24</container> 
+				<unittitle> Photographs-Drachman, Philip and Rosa. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  25</container> 
+				<unittitle> Photographs-Gibbons, Floyd. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  26-30</container> 
+				<unittitle> Photographs-General. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  31</container> 
+				<unittitle> Photographs-General. 
+				  <unitdate>1934-1964</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  32</container> 
+				<unittitle> Photographs-General. 
+				  <unitdate>1971</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  33</container> 
+				<unittitle> Photographs-General. 
+				  <unitdate>1972-1976</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  34-40</container> 
+				<unittitle> Photographs-Morocco. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  41</container> 
+				<unittitle> Photographs-West, Alice Amanda I. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container
+				type="folder">42</container> 
+				<unittitle> Photographs-West, West Family. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container
+				type="folder">43</container> 
+				<unittitle> Photographs-West, Harry Linden. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  44</container> 
+				<unittitle> Photographs-West, Harry Linden. 
+				  <unitdate>1900</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  45</container> 
+				<unittitle> Photographs-West, Rhoda Collier. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  46-48</container> 
+				<unittitle> Photographs-Winchcombe-Taylor Family. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  49</container> 
+				<unittitle> Photographs-Winchcombe-Taylor Family. 
+				  <unitdate>1898-1915</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  50-61</container> 
+				<unittitle> Photographs-Winchcombe-Taylor, John. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  62</container> 
+				<unittitle> Photographs-Winchcombe-Taylor, John. 
+				  <unitdate>1914-1915</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  63</container> 
+				<unittitle> Photographs-Winchcombe-Taylor, John. 
+				  <unitdate>1916-1918</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  64</container> 
+				<unittitle> Photographs-Winchcombe-Taylor, John. 
+				  <unitdate>1923-1925</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  65</container> 
+				<unittitle> Photographs-Winchcombe-Taylor, John. 
+				  <unitdate>1928-1929</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  66</container> 
+				<unittitle> Photographs-Winchcombe-Taylor, John. 
+				  <unitdate>1933-1950</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  67-71</container> 
+				<unittitle> Photographs-Winchcombe-Taylor, John and Rosemary. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  72</container> 
+				<unittitle> Photographs-Winchcombe-Taylor, John and Rosemary. 
+				  <unitdate>1941-1969</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  73</container> 
+				<unittitle> Photographs-Winchcombe-Taylor Residence. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  74-77</container> 
+				<unittitle> Photographs-Winchcomeb-Taylor, Rosemary. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  78</container> 
+				<unittitle> Photographs-Winchcombe-Taylor, Rosemary. 
+				  <unitdate>1916-1942</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  79</container> 
+				<unittitle> Photographs-Winchcombe-Taylor, Rosemary. 
+				  <unitdate>1944</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  80</container> 
+				<unittitle> Photographs-Winchcombe-Taylor, Rosemary. 
+				  <unitdate>1946-1976</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  81</container> 
+				<unittitle> Photographs-Winchcombe-Taylor Wedding. 
+				  <unitdate>1934</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  82</container> 
+				<unittitle> Negatives-Drachman, Ethel. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  83</container> 
+				<unittitle> Negatives-Drachman, Ethel. 
+				  <unitdate>1917</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  84</container> 
+				<unittitle> Negatives-General. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">21</container><container type="folder">
+				  85-90</container> 
+				<unittitle> Negatives-Morocco. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">22</container><container type="folder">1-3
+				  </container> 
+				<unittitle>Negatives-Morocco. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">22</container><container type="folder">
+				  4</container> 
+				<unittitle> Negatives-Winchcombe-Taylor Family. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">22</container><container type="folder">
+				  5</container> 
+				<unittitle> Negatives-Winchcombe-Taylor, John. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">22</container><container type="folder">
+				  6</container> 
+				<unittitle> Negatives-Winchcombe-Taylor, Rosemary. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">22</container><container type="folder">
+				  7</container> 
+				<unittitle> Slides-California. 
+				  <unitdate>1948</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">22</container><container type="folder"> 8
+				  </container> 
+				<unittitle>Slides-CC Party. 
+				  <unitdate>1948</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">22</container><container type="folder">
+				  9</container> 
+				<unittitle> Slides-Drachman, Ethel. 
+				  <unitdate>1943</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">22</container><container type="folder">
+				  10</container> 
+				<unittitle> Slides-Drachman Family Residence. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">22</container><container type="folder">
+				  11</container> 
+				<unittitle> Slides-General. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">22</container><container type="folder">
+				  12</container> 
+				<unittitle> Slides-Los Angeles. 
+				  <unitdate>1943</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">22</container><container type="folder">
+				  13</container> 
+				<unittitle> Slides-Navajo Reservation. 
+				  <unitdate>1949</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">22</container><container type="folder">
+				  14</container> 
+				<unittitle> Slides-Parade. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">22</container><container type="folder">
+				  15</container> 
+				<unittitle> Slides-Ranch. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">22</container><container type="folder">
+				  16</container> 
+				<unittitle> Slides-Red Cross First Aid Class. 
+				  <unitdate>1957</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">22</container><container type="folder">
+				  17</container> 
+				<unittitle> Slides-Reservation. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">22</container><container type="folder">
+				  18</container> 
+				<unittitle> Slides-Sabino Canyon. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">22</container><container type="folder">
+				  19</container> 
+				<unittitle> Slides-Tumacacori. 
+				  <unitdate>1947</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">22</container><container type="folder">
+				  20</container> 
+				<unittitle> Slides-Winchcombe-Taylor Dog. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">22</container><container type="folder">
+				  21</container> 
+				<unittitle> Slides-Winchcombe-Taylor, John. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">22</container><container type="folder">
+				  22</container> 
+				<unittitle> Slides-Winchcombe-Taylor, John. 
+				  <unitdate>1943-1947</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">22</container><container type="folder">
+				  22</container> 
+				<unittitle> Slides-Winchcombe-Taylor, Rosemary. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series" id="ser5"> 
+		<did> 
+		  <unittitle>Series VI: Audio-Visual Materials, 
+			 <unitdate type="inclusive">1943-1951</unitdate></unittitle> 
+		</did> 
+		<scopecontent> 
+		  <p> This series (1943-1951) contains records of literary events and
+			 music albums.</p> 
+		</scopecontent> 
+		<c02 level="file"> 
+		  <did><container type="box">23</container><container
+			 type="folder">1</container> 
+			 <unittitle> Because. 
+				<unitdate>1948</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">23</container><container type="folder">
+				2</container> 
+			 <unittitle> Chicken Every Sunday-Review. 
+				<unitdate>1943</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">23</container><container type="folder">
+				3</container> 
+			 <unittitle> Come Clean, My Love-Interview. 
+				<unitdate>1949</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">23</container><container type="folder">
+				4-6</container> 
+			 <unittitle> Come Clean, My Love-Party. 
+				<unitdate>1949</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">23</container><container type="folder">
+				7</container> 
+			 <unittitle> Drachman, Frank. 
+				<unitdate>undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">23</container><container type="folder">
+				8</container> 
+			 <unittitle> Sweet Mystery of Life. 
+				<unitdate>1948</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">23</container><container type="folder">
+				9</container> 
+			 <unittitle> Thine Alone. 
+				<unitdate>1947</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">23</container><container type="folder">
+				10-14</container> 
+			 <unittitle> Winchcombe-Taylor, Rosemary. 
+				<unitdate>1951</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series" id="ser6"> 
+		<did> 
+		  <unittitle>Series V: Scrapbooks, 
+			 <unitdate type="inclusive">1903-1996</unitdate></unittitle> 
+		</did> 
+		<scopecontent> 
+		  <p>This series (1903-1996) contains personal and professional
+			 scrapbooks relating to the Drachman family and John and Rosemary
+			 Winchcombe-Taylor's literary careers. It is divided into two subseries:</p> 
+		  <p> Business (1943-1962) contains scrapbooks of news clippings related
+			 to several of John and Rosemary Winchcombe-Taylor's novels. </p> 
+		  <p> Personal (1903-1974) contains scrapbooks of news clippings,
+			 correspondence and photographs primarily relating to members of the Drachman
+			 Family. </p> 
+		</scopecontent> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle> Subseries: Business, 
+				<unitdate>1943-1962</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did><container type="box">24</container><container
+				type="folder">1</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Chicken Every Sunday. </title> 
+				  <unitdate>1944-1949</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">24</container><container type="folder">
+				  2</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Come Clean, My Love-Play. </title> 
+				  <unitdate>1949</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">24</container><container type="folder">
+				  3</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Ram. </title> 
+				  <unitdate>1960-1962</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">24</container><container type="folder">
+				  4</container> 
+				<unittitle> 
+				  <title actuate="onrequest">Ridin' the Rainbow. </title> 
+				  <unitdate>1940-1945</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">25</container><container type="folder">
+				  1</container> 
+				<unittitle> Winchcombe-Taylor, Rosemary-News Clippings. 
+				  <unitdate>1943-1949</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">25</container><container type="folder">
+				  2</container> 
+				<unittitle> Winchcombe-Taylor, Rosemary-News Clippings. 
+				  <unitdate>1949-1951</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02 level="subseries"> 
+		  <did> 
+			 <unittitle> Subseries: Personal, 
+				<unitdate>1903-1996</unitdate></unittitle> 
+		  </did> 
+		  <c03 level="file"> 
+			 <did><container type="box">26</container><container
+				type="folder">1</container> 
+				<unittitle> Drachman, Alice West. 
+				  <unitdate>1903-1974</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">25</container><container type="folder">2
+				  </container> 
+				<unittitle> Drachman, Alice West. 
+				  <unitdate>1925-1926</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">25</container><container
+				type="folder">3</container> 
+				<unittitle> Drachman, Alice West-Opera Workshop Lecture Series. 
+				  <unitdate>1951-1954</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">27</container><container
+				type="folder">1</container> 
+				<unittitle> Drachman Family. 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">27</container><container type="folder">
+				  2</container> 
+				<unittitle> Drachman, Oliver. 
+				  <unitdate>1926-1935</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">27</container><container type="folder">
+				  3</container> 
+				<unittitle> Drachman, Oliver. 
+				  <unitdate>1946-1996</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03 level="file"> 
+			 <did><container type="box">27</container><container type="folder">
+				  4</container> 
+				<unittitle> Winchcombe-Taylor, John-Military. 
+				  <unitdate>1939-1941</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series" id="ser7"> 
+		<did> 
+		  <unittitle>Series VII: Oversize Materials, 
+			 <unitdate type="inclusive">1902-1981</unitdate></unittitle> 
+		</did> 
+		<scopecontent> 
+		  <p> This series contains oversize items from various series and
+			 subseries including the biographical files, writings series (short stories,
+			 research files, publicity files, illustrations) and photographs both business
+			 and personal.</p> 
+		</scopecontent> 
+		<c02 level="file"> 
+		  <did><container type="box">28</container><container
+			 type="folder">1</container> 
+			 <unittitle> Biographical Files: Drachman Family-General. 
+				<unitdate>1962</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">28</container><container type="folder">
+				2</container> 
+			 <unittitle> Biographical Files: Drachman Family Tree. 
+				<unitdate>1976</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">28</container><container type="folder">
+				3</container> 
+			 <unittitle> Biographical Files: Drachman Family Tree. 
+				<unitdate>1981</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">28</container><container type="folder">
+				4</container> 
+			 <unittitle> Biographical Files: Winchcombe-Taylor, John-Certificates.
+				
+				<unitdate>1915-1939</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">28</container><container type="folder">
+				5-6</container> 
+			 <unittitle> Biographical Files: Winchcombe-Taylor-General. 
+				<unitdate>undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">28</container><container type="folder">
+				7</container> 
+			 <unittitle> Writings: Short Stories-American Boy. 
+				<unitdate>1927</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">28</container><container type="folder">
+				8</container> 
+			 <unittitle> Writings: Short Stories-Boy's Life. 
+				<unitdate>1927-1929</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">28</container><container type="folder">
+				9</container> 
+			 <unittitle> Writings: Research Files-General. 
+				<unitdate>1940-1949</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">28</container><container type="folder">
+				10</container> 
+			 <unittitle> Writings: Publicity Files-Chicken Every Sunday. 
+				<unitdate>1949</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">28</container><container type="folder">
+				11</container> 
+			 <unittitle> Writings: Publicity Files-Looking Up. 
+				<unitdate>1959</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">29</container><container
+			 type="folder">1-5</container> 
+			 <unittitle> Writings: Publicity Files-Posters: Event 
+				<unitdate>undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">29</container><container type="folder">
+				6</container> 
+			 <unittitle> Writings: Miscellaneous-Illustrations: Chicken Every
+				Sunday. 
+				<unitdate>undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">29</container><container type="folder">
+				7-8</container> 
+			 <unittitle> Writings: Miscellaneous-Illustrations: General. 
+				<unitdate>undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">30</container><container
+			 type="folder">1-3</container> 
+			 <unittitle> Writings: Miscellaneous-Illustrations: General. 
+				<unitdate>undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">30</container><container
+			 type="folder">4</container> 
+			 <unittitle> Writings: Miscellaneous-Illustrations: 
+				<title render="italic" actuate="onrequest">Ram. </title> 
+				<unitdate>undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">30</container><container type="folder">
+				5</container> 
+			 <unittitle> Writings: Miscellaneous-Illustrations: Ridin' the
+				Rainbow. 
+				<unitdate>undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">30</container><container type="folder">
+				6</container> 
+			 <unittitle> Photographs, Negatives and Slides: Business-Photographs:
+				Winchcombe- Taylor, Rosemary. 
+				<unitdate>undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">30</container><container type="folder">
+				7</container> 
+			 <unittitle> Photographs, Negatives and Slides: Personal-Photographs:
+				Drachman, Alice West. 
+				<unitdate>undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">30</container><container type="folder">
+				8</container> 
+			 <unittitle> Photographs, Negatives and Slides: Personal-Photographs:
+				Drachman, Ann Rodelle. 
+				<unitdate>undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">31</container><container type="folder">
+				1</container> 
+			 <unittitle> Photographs, Negatives and Slides: Personal-Photographs:
+				Drachman Family. 
+				<unitdate>undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">31</container><container type="folder">
+				2</container> 
+			 <unittitle> Photographs, Negatives and Slides: Personal-Photographs:
+				Drachman Family. 
+				<unitdate>1910</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">31</container><container type="folder">
+				3</container> 
+			 <unittitle> Photographs, Negatives and Slides: Personal-Photographs:
+				Drachman, Oliver. 
+				<unitdate>undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">31</container><container type="folder">
+				4</container> 
+			 <unittitle> Photographs, Negatives and Slides: Personal-Photographs:
+				Drachman, Oliver. 
+				<unitdate>1925-1932</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">31</container><container
+			 type="folder">5</container> 
+			 <unittitle> Photographs, Negatives and Slides: Personal-Photographs:
+				Drachman, Oliver and Alice. 
+				<unitdate>undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">31</container><container
+			 type="folder">6</container> 
+			 <unittitle> Photographs, Negatives and Slides: Personal-Photographs:
+				Drachman, Oliver Residences. 
+				<unitdate>undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">31</container><container
+			 type="folder">7</container> 
+			 <unittitle> Photographs, Negatives and Slides: Personal-Photographs:
+				General. 
+				<unitdate>undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">31</container><container
+			 type="folder">8</container> 
+			 <unittitle> Photographs, Negatives and Slides: Personal-Photographs:
+				Winchcombe-Taylor, John. 
+				<unitdate>undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">31</container><container
+			 type="folder">9</container> 
+			 <unittitle> Photographs, Negatives and Slides: Personal-Photographs:
+				Winchcombe-Taylor, John. 
+				<unitdate>1902-1941</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">31</container><container
+			 type="folder">10</container> 
+			 <unittitle> Photographs, Negatives and Slides: Personal-Photographs:
+				Winchcombe-Taylor, John and Rosemary. 
+				<unitdate>undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did><container type="box">31</container><container
+			 type="folder">11</container> 
+			 <unittitle> Photographs, Negatives and Slides: Personal-Photographs:
+				Winchcombe-Taylor, Rosemary. 
+				<unitdate>undated</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+  </dsc> 
+</archdesc></ead>

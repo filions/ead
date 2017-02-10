@@ -1,0 +1,248 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+ audience="internal" id="a0"> 
+	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special
+		Collections//text(US::AzU:: Records of the Compañia Constructora Richardson, S.A.)//en""MS113.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper>Records of the Compañia Constructora Richardson, S.A.,
+	 		<date normal="1914/1919" era="ce" calendar="gregorian" certainty="approximate">1904-1968</date>
+	 		<date normal="1904/1927" type="bulk">(bulk 1904-1927)</date></titleproper>  
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date normal= "2013" era= "ce" calendar = "gregorian">; 2013</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Trent Purdy. 
+  		<date era="ce" encodinganalog="date" normal="20111004">Sept. 30, 2013</date></creation> 
+	 <langusage>Finding aid is in<language> English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+  	<titleproper>Records of the Compañia Constructora Richardson, S.A.,<date era= "ce" calendar= "gregorian">1904-1968 (bulk 1904-1927)</date></titleproper> 
+	 <num>Collection Number: MS 113</num> 
+  	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Trent Purdy</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 20013. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name:">Records of the Compañia Constructora Richardson, S.A.,
+  		<unitdate type="inclusive" label="Dates:" normal="1904/1968">1904-1968</unitdate>
+  		<unitdate type="bulk" label="Dates:" normal="1904/1927">1904-1927</unitdate></unittitle>	 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	 repositorycode="AzU" countrycode="us">MS 113</unitid> 
+	 <origination label="Creator:"> 
+	 	<corpname source="lcnaf" encodinganalog="110">Compañia Constructora Richardson, S.A.</corpname> </origination> 
+  	<abstract label="Abstract:">Records, 1904-1968 (bulk 1904-1927). Collection consists primarily of photographs, legal papers, and other materials concerning the development of a railroad and irrigation system in the Yaqui River Valley, Sonora, Mexico.</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent>.4 Linear feet</extent></physdesc>	 
+	 <repository label="Repository:"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository>
+  	<langmaterial>Materials in <language encodinganalog="546" langcode="eng"
+  		scriptcode="Latin">English</language> and <language>Spanish</language></langmaterial>
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+	 <p>There are no restrictions on this collection.</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>Records of the Compañia Constructora Richardson, S.A., (MS 113). Special
+  		Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Historical Note</head> 
+  	<p>In 1904, the California-based Richardson Brothers Company and its subsidiary, Richardson Construction Company, established Compañia Constructora Richardson to handle its interests in Sonora, Mexico. W.E. Richardson, Davis Richardson, and H.A. Sibbet were the executives. The purpose of the company was to build a railroad line and develop an irrigation system in the Yaqui River Valley, for agricultural and real estate development.</p> 
+  	<p>The company purchased most of the land from the bankrupt Sinaloa and Sonora Land and Irrigation Company, and sold the rights to build the railroad to the Southern Pacific Railroad Company. Work on the project was stalled during the Mexican Revolution. The contracts previously granted by the president Porfirio Diaz were renegotiated with the new president, Alvaro Obregón. Yaqui Delta Land and Water Company was formed by the Richardsons in 1909 to sell bonds for Compañia Constructora Richardson. The Compañia was acquired by the Mexican government in 1927, and became Irrigadora del Yaqui, S.A.</p>
+  </bioghist> 
+  <arrangement id="a4" encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+	 <p>This collection is organized into four series. </p>	 
+	 <list> 
+	 	<item>Series I: Historical Material,
+	 		<unitdate>1909-1968</unitdate></item> 
+	 </list>
+  	<list> 
+  		<item>Series II: Legal Papers,
+  			<unitdate>ca.1904-1927</unitdate></item> 
+  	</list>
+  	<list> 
+  		<item>Series III: Printed Material,
+  			<unitdate>ca.1904-1925</unitdate></item> 
+  	</list>
+  	<list> 
+  		<item>Series IV:  Photographs, 
+  			<unitdate>1904-1927</unitdate></item> 
+  	</list>
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>Photographs comprise the major part of the collection; legal papers and descriptive material are also included. The photos document the company projects from the excavation stages to completed dams. Also depicted are the port city of Guaymas and other Sonoran locations, Yaqui Indians, petroglyphs, the Richardson family and home, mines, and other subjects of local interest; some concern the Mexican Revolution.</p> 
+  	<p>A report "Background material on irrigation development of the Yaqui Valley, Sonora, Mexico, and the sale of the project to the Mexican government" was written by company attorney Chandler P. Ward in 1968. Original and copied legal papers include tax receipts, information on land sales, stock transfers, and deeds. Printed information includes publicity pamphlets produced by Compañia Constructora Richardson; a stockholder report with map; a booklet "The Land Laws of Mexico;" and several contracts with the Mexican government.</p>
+  </scopecontent> 
+	<relatedmaterial id="a6" encodinganalog="5441"><p>Digitized files from the collection can be found as part of<extref href="http://content.library.arizona.edu/collections/asdo/" role="text/html" actuate="onrequest" show="new">Arizona-Sonora Documents Online</extref> under <extref role="text/html" actuate="onrequest" show="new" href="http://www.library.arizona.edu/contentdm/asdo/richardson/">Records of the Compañia Constructora Richardson, S.A.</extref></p></relatedmaterial>
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+			<persname encodinganalog="600" source="lcnaf" role="subject">Ward, Chandler P</persname> </item> 
+	 </list>
+  	<list> 
+  		<item> 
+  			<persname encodinganalog="600" source="lcnaf" role="subject">Richardson, William Edward, 1870-1942</persname> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<persname encodinganalog="600" source="lcnaf" role="subject">Richardson, Davis, 1862-1909</persname> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<persname encodinganalog="600" source="lcnaf" role="subject">Sibbet, Herbert A</persname> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<corpname encodinganalog="610" source="lcnaf" role="subject">Compañia Constructora Richardson, S.A. -- Archives</corpname> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<corpname encodinganalog="610" source="lcnaf" role="subject">Sinaloa and Sonora Land and Irrigation Company</corpname> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<corpname encodinganalog="610" source="lcnaf" role="subject">Southern Pacific Railroad Company</corpname> </item> 
+  	</list>
+	 <list> 
+		<item> 
+			<subject encodinganalog="650" source="lcsh">Water rights -- Mexico -- Yaqui River</subject> </item> 
+	 </list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Irrigation engineering -- Mexico -- Yaqui River</subject> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Agriculture and state -- Mexico -- Sonora (State)</subject> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Agricultural colonies -- Mexico -- Sonora (State)</subject> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Yaqui Indians -- Photographs</subject> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Indians of Mexico -- Mexico -- Sonora (State) -- Photographs</subject> </item> 
+  	</list>
+	 <list> 
+		<item> 
+			<geogname encodinganalog="651" source="lcsh" role="subject">Mexico -- History -- Revolution, 1910-1920</geogname> </item> 
+	 </list>
+  	<list> 
+  		<item> 
+  			<geogname encodinganalog="651" source="lcsh" role="subject">Sonora (Mexico : State) -- History -- Sources</geogname> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<geogname encodinganalog="651" source="lcsh" role="subject">Yaqui River Valley (Mexico) -- History -- Photographs</geogname> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<geogname encodinganalog="651" source="lcsh" role="subject">Guaymas (Sonora, Mexico) -- History -- Photographs</geogname> </item> 
+  	</list>
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+			<unittitle>Series I: Historical Material, 
+				<unitdate type="inclusive">1909-1968</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <container type="folder">1</container> 
+		  	<unittitle>Historical Material,</unittitle>
+		  	<unitdate>1909-1968</unitdate>
+		  </did> 
+		</c02> 
+	 </c01>
+  	<c01 level="series" id="ser2"> 
+  		<did> 
+  			<unittitle>Series II: Legal Papers, 
+  				<unitdate type="inclusive">ca.1904-1927</unitdate></unittitle> 
+  		</did> 
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Legal Papers,</unittitle>
+  				<unitdate>ca.1904-1927</unitdate>
+  			</did> 
+  		</c02> 
+  	</c01>
+  	<c01 level="series" id="ser3"> 
+  		<did> 
+  			<unittitle>Series III: Printed Material, 
+  				<unitdate type="inclusive">ca.1904-1925</unitdate></unittitle> 
+  		</did> 
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Printed Material,</unittitle>
+  				<unitdate>ca.1904-1925</unitdate>
+  			</did> 
+  		</c02> 
+  	</c01>
+  	<c01 level="series" id="ser4"> 
+  		<did> 
+  			<unittitle>Series IV: Photographs,
+  				<unitdate type="inclusive">1904-1927</unitdate></unittitle> 
+  		</did> 
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Photographs,</unittitle>
+  				<unitdate>1904-1927</unitdate>
+  			</did> 
+  		</c02> 
+  	</c01> 
+  </dsc> 
+</archdesc></ead>

@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+   <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0"> 
+      <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special Collections//text
+		(US::AzU::Book of Memories of the University of Arizona Faculty Women&apos;s Club)//en""UAAZ297.xml"
+      </eadid> 
+      <filedesc> 
+         <titlestmt> 
+         	<titleproper encodinganalog="title">Book of Memories of the University of Arizona Faculty Women&apos;s Club
+	 	       <date normal="1930/1987" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">1930-1987</date>
+	 	       
+	 	    </titleproper>
+         	<titleproper type="filing" altrender="nodisplay"> Book of Memories of the University of Arizona Faculty Women&apos;s Club
+	 	    
+            </titleproper>
+	        <author>Processed by Staff.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date normal= "2016" era= "ce" calendar = "gregorian">; 2016</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+            <date era="ce" encodinganalog="date" normal="20160325">March 25, 2016</date>
+  	     </creation>
+	     <langusage>Finding aid encoded in<language> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc> 
+   </eadheader> 
+   <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+      <did id="a1"> 
+         <head>Collection Summary</head> 
+      	<unittitle encodinganalog="245" label="Collection Name:"> Book of Memories of the University of Arizona Faculty Women&apos;s Club
+            <unitdate type="inclusive" label="Dates:" normal="1930/1987">1930-1987</unitdate>
+  	     </unittitle>	 
+	     <unitid label="Collection Number:" encodinganalog="099" repositorycode="AzU" countrycode="us">AZ 297</unitid>
+	     <origination label="Creator:"> 
+            <corpname source="lcnaf" encodinganalog="110">University of Arizona. Faculty Women&apos;s Club.</corpname> 
+	     </origination> 
+      	<abstract label="Abstract:">Scrapbooks containing photographs, clippings, historical notes, records of activities, lists of officers and members. 
+      								Includes photographs of the 1985 Centennial Quilt.</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description:"><extent>1.3 linear feet</extent></physdesc>	 
+	     <repository label="Repository:"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng" scriptcode="Latin">English.</language></langmaterial>
+   	        
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+         <p>There are no restrictions on this collection.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+      	<p>Book of Memories of the University of Arizona Faculty Women&apos;s Club (AZ 297). Special Collections, University of Arizona Libraries.</p>
+      </prefercite> 
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Staff.</p>
+      </processinfo>
+      <arrangement id="a4" encodinganalog="351$a"> 
+         <head>Arrangement</head> 
+  	     <p>This collection is organized into scrapbooks by date ranges.</p>
+      </arrangement> 
+      <scopecontent id="a3" encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>Scrapbooks containing photographs, clippings, historical notes, records of activities, lists of officers and 
+      	members. Includes photographs of the 1985 Centennial Quilt.</p> 
+      </scopecontent>
+      <controlaccess>
+         <head>Access Terms</head>
+         <list type="simple"> 
+         	<item>
+         		<corpname encodinganalog="610" source= "lcnaf">University of Arizona -- History.</corpname>
+         	</item>
+         	<item>
+         		<corpname encodinganalog="610" source= "lcnaf">University of Arizona -- Societies, etc.</corpname>
+         	</item>
+         </list>
+      </controlaccess>
+   	<dsc type="combined" id="a23"> 
+   		<head>Container List</head>
+   		<p>This collection is organized into scrapbooks by date ranges.</p>
+   		
+   		<c01 level="file"> 
+   		<did> 
+   		<unittitle>Volume 1,</unittitle>
+   		<unitdate>1930-1940</unitdate>
+   		</did> 
+   		</c01>
+   		
+   		<c01 level="file"> 
+   		<did> 
+   		<unittitle>Volume 2,</unittitle>
+   		<unitdate>1940-1960</unitdate>
+   		</did> 
+   		</c01>
+   		
+   		<c01 level="file"> 
+   		<did> 
+   		<unittitle>Volume 3,</unittitle>
+   		<unitdate>1960-1971</unitdate>
+   		</did> 
+   		</c01>
+   		
+   		<c01 level="file"> 
+   		<did> 
+   		<unittitle>Volume 4,</unittitle>
+   		<unitdate>1971-1972</unitdate>
+   		</did> 
+   		</c01>
+   		
+   		<c01 level="file"> 
+   		<did> 
+   		<unittitle>Volume 5,</unittitle>
+   		<unitdate>1980-1981</unitdate>
+   		</did> 
+   		</c01>
+   		
+   		<c01 level="file"> 
+   		<did> 
+   		<unittitle>Volume 6,</unittitle>
+   		<unitdate>1984-1985</unitdate>
+   		</did> 
+   		</c01>
+   		
+   		<c01 level="file"> 
+   		<did> 
+   		<unittitle>Volume 7,</unittitle>
+   		<unitdate>1986-1987</unitdate>
+   		</did> 
+   		</c01>
+   		
+   	</dsc> 
+   </archdesc>
+</ead>

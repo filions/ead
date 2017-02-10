@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+ audience="internal" id="a0"> 
+	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special Collections//text(US::AzU:Papers of the Hein family)//en""UAAZ013.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper>Papers of the Hein family
+	 		<date normal="1860/1900" era="ce" calendar="gregorian" type="inclusive">1860-1900</date>
+	 		<date normal="1880/1900" type="bulk">(bulk 1880-1900)</date></titleproper>
+	 	<author>Processed by Staff.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date normal= "2013" era= "ce" calendar = "gregorian">; 2013</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Deborah Weller. 
+  		<date era="ce" encodinganalog="date" normal="20130408">April 08, 2013</date></creation> 
+	 <langusage>Finding aid is in<language> English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+  	<titleproper>Papers of the Hein family,<date era= "ce" calendar= "gregorian" normal="1860/1900" type="inclusive">1860-1900,</date>
+  		<date normal="1890/1900" type="bulk">(bulk 1890-1900)</date></titleproper> 
+  	<num>Collection Number: AZ 013</num> 
+  	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Staff.</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>April 8, 2013</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Deborah Weller</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 20013. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name:">Papers of the Hein family 
+  		<unitdate type="inclusive" label="Dates:" normal="1860/1900">1860-1900</unitdate>	
+  	<unitdate normal="1890/1900" type="bulk">(bulk 1890-1900)</unitdate></unittitle>	
+	 <unitid label="Collection Number:" encodinganalog="099"
+	 repositorycode="AzU" countrycode="us">AZ 013</unitid> 
+	 <origination label="Creator:"> 
+	 	<famname encodinganalog="100">Hein family</famname> </origination> 
+  	<abstract label="Abstract:"> Letters from the Hein family to the Hagedorn family pertaining to frontier life in Skull Valley, Arizona Territory. Also includes documents from the Prescott Coal Development Company; Hagedorn's passport and ship papers; four photographs of the Hagedorn family in New York; and other miscellaneous documents.</abstract>  
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent> 60 items; 25 cm.</extent></physdesc>	 
+	 <repository label="Repository:"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository> 
+  </did>  
+	<accessrestrict> 
+		<head>Restrictions</head> 
+		<p>None</p> 
+	</accessrestrict>  
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p> Papers of the Hein family (AZ 012). Special
+  		Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+  	<p>The William  Hagedorns family was a German family who came to the United States in the 1880's; one branch settling in Brooklyn, another emigrating to the far-disant Arizona Territory, where they bought part-interest in the Prescott Coal Development Company and established themselves in Skull Valley, Arizona. The Hagedorm prospecting for coal was not sucessful, and it is possible to trace through the letters the rise and  fall of the aspirations of the family  with regard to getting rich off coal production.  The Hagedorn family  returned to their more propsperous hotel business Brooklyn after the unfortunate experience in the Far West.</p></bioghist>      
+  <arrangement id="a4" encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+	 <p>This collection is organized chronologically</p>	  
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>The collection contains the Hien family papers, a Germam American family, who were early settlers in Skull Vallley, Arizona.  The collection consists mainly of letters in English and German with various members of the Hagedorn and Loske families. The letters exchanged between these branches of the family and their Loske relatives gives an extremely interesting portayal of the life in the Arizona Territory , and the letters give a good picture of economic condition during this period. There are fifty nine letters, nineteen documents and four photographs. These materials are in various sizes, principally from Skull Valley and Prescott, Arizona Territory, but with a few other letters from Gewersdorf, Germany, New York, and Galvseston, 1887-1899.</p> 
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head>
+  	<famname encodinganalog="100" role="subject" rules="lcsh">Hein Family</famname>
+  	<persname encodinganalog="600" role="subject" rules="lcsh">Hein, Diederich von--Correspondence.</persname>
+  	<persname encodinganalog="600" role="subject" rules="lcsh">Loske,--Correspondence.</persname>
+  	<subject encodinganalog="650" rules="lcsh">Frontier and pioneer life--Arizona</subject>
+  	<geogname encodinganalog="651" role="subject ">Skull Valley (Ariz.)--History--Sources.</geogname>
+  	<geogname encodinganalog="651" role="subject">Yavapai County (Ariz.)--History--Sources.</geogname>
+  	<geogname encodinganalog="651" role="subject">Arizona--History--Sources.</geogname>
+	 </controlaccess></archdesc></ead>

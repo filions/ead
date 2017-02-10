@@ -1,0 +1,1747 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+ audience="internal" id="a0"> 
+	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library SpecialCollections//text(US::AzU::Trudy Griffin-Pierce and Keith Pierce Papers)//en""UAMS499.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper>Trudy Griffin-Pierce and Keith Pierce Papers
+	 		<date normal="1938/2009" era="ce" calendar="gregorian" type="inclusive">1938-2009</date><date type="bulk" normal="1980/2008">(bulk 1980-2008)</date></titleproper> 
+	 	<author>Processed by Lisa E Duncan.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://www.library.arizona.edu/speccoll/</addressline>
+		</address> 
+		<date normal= "2012" era= "ce" calendar = "gregorian">; 2012</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Lisa E Duncan. 
+  		<date era="ce" encodinganalog="date" normal="20120611">June 11, 2012</date></creation> 
+	 <langusage>Finding aid is in<language> English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+  	<titleproper>Trudy Griffin-Pierce and Keith Pierce Papers,<date era= "ce" calendar= "gregorian" normal="0611201">1938-2009 (bulk 1980-2008)</date></titleproper> 
+	 <num>Collection Number: MS 499</num> 
+  	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Lisa E Duncan</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>June 2012</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Lisa E Duncan</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 20012. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name:"> Trudy Griffin-Pierce and Keith Pierce Papers</unittitle>
+  	<unitdate type="inclusive" label="Dates:" normal="1938/2009">1938-2009</unitdate>
+  	<unitdate type="bulk" label="Dates" normal="1980/2008">(bulk 1980-2008)</unitdate>
+	 <unitid label="Collection Number:" encodinganalog="099"
+	 repositorycode="AzU" countrycode="us">MS 499</unitid> 
+	 <origination label="Creator:"> 
+	 	<persname source="lcnaf" encodinganalog="100">Griffin-Pierce, Trudy, 1949-2009;</persname>
+	 	<persname source="lcnaf" encodinganalog="100">Pierce, Kieth</persname></origination> 
+  	<abstract label="Abstract:">This collection is comprised of the papers of anthropologist Trudy Griffin-Pierce and solar astronomer Keith Pierce.  The bulk of the material relates to Trudy Griffin-Pierce’s career as an anthropologist at the University of Arizona as well as her personal journals. Items include writings, correspondence, academic material as well as some personal material.  Also included are some papers of Keith Pierce, primarily copies of his autobiography.</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent>17 linear ft.</extent></physdesc>	 
+	 <repository label="Repository:"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://www.library.arizona.edu/speccoll</addressline>		  
+		</address></repository> 
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+  	<p>Personal journal volumes 50-104 located in Series V Boxes 9-16 are restricted until 2029.</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>Trudy Griffin-Pierce and Keith Pierce Papers (MS 499). Special
+  		Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+  	<bioghist><p>Trudy Griffin-Pierce was born December 27, 1949 in South Carolina to Ben and Trudy Griffin.  Due to Ben Griffin’s career as an Air Force officer, she spent her childhood travelling including living in Florida, Hawaii, England and California.  When she was 16 her mother died suddenly of an aneurysm which became a pivotal experience in her life.  She earned her Bachelor of Arts degree from Florida State University in printmaking and fine arts.  While she was a student there she wrote to the Navajo Tribal Chairman asking if she could join a traditional Navajo family as a daughter.  After spending time in Many Farms, Arizona with her Navajo family who she maintained a relationship with for the rest of her life, she returned to Florida to finish her degree.  She returned to Arizona and enrolled at the University of Arizona as a graduate student in fine arts but switched to anthropology and earned a Master of Arts in museum studies in 1970.  She worked as a curator at the Indian Pueblo Culture Center as well as at the Kitt Peak National Observatory museum.  There she met Keith Pierce who she married in 1979.  She returned to the University of Arizona and earned a doctorate in anthropology in 1987.</p> 
+  		<p>Dr. Griffin-Pierce specialized in medical anthropology and native cultures with projects.  She was an adjunct lecturer at the University from 1988 to 2003, assistant professor of anthropology from 2003 to 2008 and gained tenure as an associate professor in 2008.  She authored six books including <title render='italic'>Earth is my Mother, Sky is my Father: Space, Time and Astronomy in Navajo Sandpainting</title> (1992), <title render='italic'>Native Americans: Enduring Culture and Traditions</title> (1996), <title render='italic'>The Encyclopedia of Native America</title> (1995), <title render='italic'>Native Peoples of the Southwest</title> (2000) which won the Alice Logan Writing Award in 2000, <title render='italic'>Chiricahua Apache Enduring Power: Naiche’s Puberty Ceremony Paintings</title> (2007) which won the Southern Anthropological Society’s James Mooney Award in 2008 and <title render='italic'>The Colombia Guide to American Indians of the Southwest</title> (2010).  Dr. Griffin-Pierce was also an artist and did much of the art work for her books herself.  She died January 6, 2009.</p></bioghist>
+ <bioghist><p>Austin Keith Pierce was born on October 2, 1918 in Tacoma, Washington to Tracy and Lucy Pierce.  He was introduced early to telescopes as his father, a mathematics professor at the University of Nebraska, Lincoln, who built telescopes at home.  He attended the University of Nebraska, Lincoln, from 1936 to 1938 but eventually moved to Berkeley where he graduated from the University of California, Berkeley with a Bachelor of Science degree in astronomy.  He married Mildred Buell in 1941 and had three children, Barbara, John and Ross.  During World War II he worked on uranium isotope separation at the E.O. Lawrence Radiation Laboratory calutron in Berkeley as well as in Oak Ridge, Tennessee.  He returned to Berkeley in 1945 and earned his doctorate in Astronomy in 1948 under Dr. C.D. Shane.</p>
+<p>After graduation he was recruited by Leo Goldberg from the University of Michigan, Ann Arbor to be a research assistant, he then moved to the McMath-Hulbert Observatory near Pontiac, Michigan.  Dr. McMath found funding to develop the world’s largest solar telescope at Kitt Peak which Dr. Pierce helped site and design.  He was appointed Associate Director in charge of the Solar Division which he held for 16 years.  Dr. Pierce greatly contributed to work on the solar spectrum, especially the ultraviolet and infrared frontiers and was also a pioneer in the use of infrared and photoelectric detectors to make accurate measurements.  At the 30th anniversary of the dedication of the McMath Solar Telescope in 1992 it was renamed the McMath-Pierce Solar Telescope in honor of his contribution to the development of the facility.  He died on March 11, 2005.</p></bioghist>
+  </bioghist> 
+  <arrangement id="a4" encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+	 <p>This collection is organized into 7 series.</p>	 
+	 <list> 
+	 	<item>Series I: Personal Files,
+	 		<unitdate>1961-2008</unitdate></item> 
+	 	<item>Series II: Correspondence,
+	 		<unitdate>1938-2007</unitdate></item>
+	 	<item>Series III: Writings,
+	 		<unitdate>1985-2009</unitdate></item>
+	 	<item>Subseries 1: Manuscripts,
+	 		<unitdate>1985-2007</unitdate></item>
+	 	<item>Subseries 2: Articles,
+	 		<unitdate>1988-1992</unitdate></item>
+	 	<item>Subseries 3: Book Reviews,
+	 		<unitdate>1988-2009</unitdate></item>
+	 	<item>Series IV: Academic Files,
+	 		<unitdate>1976-2008</unitdate></item>
+	 	<item>Series V: Journals,
+	 		<unitdate>1967-2008</unitdate></item>
+	 	<item>Series VI: Keith Pierce Files,
+	 		<unitdate>1964-1982</unitdate></item>
+	 	<item>Series VII: Oversize,
+	 		<unitdate>1992-2008</unitdate></item>
+	 </list> 
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>Papers, 1938-2009 (1980-2008).  This collection consists primarily of the papers of Trudy Griffin-Pierce relating to her professional career as an anthropologist as well as her journals spanning 40 years.  The bulk of the material consists of her writings, academic material including material from her graduate education and teaching career as well as correspondence, personal material and her personal journals.  Also included is material from solar astronomer Keith Pierce primarily drafts of his autobiography as well as astronomy notes.</p> 
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+			<persname encodinganalog="600" source="lcnaf" role="subject">Griffin-Pierce, Trudy, 1949-2009</persname> </item>
+	 	<item><persname encodinganalog="600" source="lcnaf" role="subject">Pierce, A. Keith.</persname> </item>
+	 </list> 
+	 <list> 
+		<item> 
+			<subject encodinganalog="650" source="lcsh">Astronomy.</subject> </item>
+	 	<item> 
+	 		<subject encodinganalog="650" source="lcsh">Indians of North America -- Southwest, New.</subject> </item>
+	 	<item> 
+	 		<subject encodinganalog="650" source="lcsh">Kitt Peak National Observatory.</subject> </item>
+	 	<item> 
+	 		<subject encodinganalog="650" source="lcsh">Navajo Indians.</subject> </item>
+	 	<item> 
+	 		<subject encodinganalog="650" source="lcsh">University of Arizona.</subject> </item>
+	 </list> 
+	 <list> 
+		<item> 
+			<genreform encodinganalog="655" source="tgm">Autobiography.</genreform> </item>
+	 	<item> 
+	 		<genreform encodinganalog="655" source="tgm">Journals.</genreform> </item>
+	 	<item> 
+	 		<genreform encodinganalog="655" source="tgm">Manuscripts.</genreform> </item>
+	 </list> 
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+			<unittitle>Series I: Personal Files,</unittitle>
+			<unitdate type="inclusive">1961-2008</unitdate> 
+		</did><scopecontent><p>This series contains personal material associated with Trudy Griffin-Pierce.  It includes calendars, personal notebooks and ledgers, receipts and correspondence related to her artwork.  This series is arranged alphabetically.</p></scopecontent> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <container type="folder">1-2</container> 
+		  	<unittitle>Artist work,</unittitle>
+		  	<unitdate>1978</unitdate> 
+		  </did> 
+		</c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">3</container> 
+	 			<unittitle>Artist work,</unittitle>
+	 			<unitdate>1979-2006</unitdate> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">4</container> 
+	 			<unittitle>Calendars,</unittitle>
+	 			<unitdate>1971-1989</unitdate> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">5</container> 
+	 			<unittitle>Calendars,</unittitle>
+	 			<unitdate>1990-1999</unitdate> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">6</container> 
+	 			<unittitle>Calendars,</unittitle>
+	 			<unitdate>2000-2009</unitdate> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">7-11</container> 
+	 			<unittitle>Notes,</unittitle>
+	 			<unitdate>1978-2008, undated</unitdate> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">12</container> 
+	 			<unittitle>Professional record,</unittitle>
+	 			<unitdate>1976, 1980</unitdate> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">13</container> 
+	 			<unittitle>School assignments,</unittitle>
+	 			<unitdate>1961-1965</unitdate> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">14</container> 
+	 			<unittitle>Thankfulness notebooks,</unittitle>
+	 			<unitdate>1997-2002</unitdate> 
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">15</container> 
+	 			<unittitle>Thankfulness notebooks,</unittitle>
+	 			<unitdate>2005-2008</unitdate> 
+	 		</did> 
+	 	</c02>
+	 </c01> 
+  	<c01 level="series" id="ser2"> 
+  		<did> 
+  			<unittitle>Series II: Correspondence,</unittitle> 
+  				<unitdate type="inclusive">1938-2007</unitdate> 
+  		</did><scopecontent><p>This series contains personal and professional correspondence including some correspondence between Trudy Griffin-Pierce’s parents, Ben and Trudy.  This series is arranged alphabetically by last name with items in folders arranged chronologically.</p></scopecontent> 
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">16</container> 
+  				<unittitle>A-P,</unittitle>
+  				<unitdate>1982-2007</unitdate> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Pierce, Ben and Trudy,</unittitle>
+  				<unitdate>1944-1970</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Kux, Claudia,</unittitle>
+  				<unitdate>1988-1989</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>NHNZ,</unittitle>
+  				<unitdate>2002</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Pierce, Keith,</unittitle>
+  				<unitdate>1938-1998, undated</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Washburn, Dorothy,</unittitle>
+  				<unitdate>1998-1999</unitdate> 
+  			</did> 
+  		</c02>
+  	</c01> 
+  	<c01 level="series" id="ser3"> 
+  		<did> 
+  			<unittitle>Series III: Writings,</unittitle> 
+  				<unitdate type="inclusive">1985-2009</unitdate> 
+  		</did><scopecontent><p>This series contains published and unpublished writings.  It is divided into 3 subseries, manuscripts, articles, and book reviews.  The material is arranged alphabetically by title.</p></scopecontent> 
+  		<c02 level="subseries" id="sbser1"> 
+  			<did> <unittitle>Manuscripts,</unittitle> 
+  				<unitdate type="inclusive">1985-2007</unitdate> 
+  			</did><scopecontent><p>This sub-series contains drafts of manuscripts.</p></scopecontent>  
+  		 
+  		<c03 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>The Artist as Anthropologist: Achieving a Deeper Understanding of the Creative Process in the Constitution of Navajo Sacred Sandpaintings,</unittitle>
+  				<unitdate>1991</unitdate> 
+  			</did> 
+  		</c03>
+  		<c03 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">7-14</container> 
+  				<unittitle>Ben and Trudy,</unittitle>
+  				<unitdate>1995-2001</unitdate> 
+  			</did> 
+  		</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">2</container> 
+  					<container type="folder">15</container> 
+  					<unittitle>Beyond the Scalpel and the Silver Bear: Bridging the Chasm between Biomedical Research and “Biocolonialism”,</unittitle>
+  					<unitdate>undated</unitdate> 
+  				</did> 
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">2</container> 
+  					<container type="folder">16</container> 
+  					<unittitle>Black God: God of Fire, God of Starlight,</unittitle>
+  					<unitdate>1995</unitdate> 
+  				</did> 
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">2</container> 
+  					<container type="folder">17</container> 
+  					<unittitle>Camel Dreaming,</unittitle>
+  					<unitdate>ca. 1992</unitdate> 
+  				</did> 
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">2</container> 
+  					<container type="folder">18</container> 
+  					<unittitle>Camels in the Outback,</unittitle>
+  					<unitdate>ca. 1992</unitdate> 
+  				</did> 
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">2</container> 
+  					<container type="folder">19</container> 
+  					<unittitle>Challenges to Developing Neuropsychological Instruments for 	Assessing Alzheimer’s Disease in American Indians and Alaska 	Natives,</unittitle>
+  					<unitdate>2006-2007</unitdate> 
+  				</did> 
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">2</container> 
+  					<container type="folder">20</container> 
+  					<unittitle>Chiricahua Apache enduring Power: Naiche’s Puberty Ceremony Paintings,</unittitle>
+  					<unitdate>1999-2007</unitdate> 
+  				</did> 
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">3</container> 
+  					<container type="folder">1-2</container> 
+  					<unittitle>Cognition and Social Memory: The Role of Cultural Models in the Formation of Social Memory in Chiricahua Apache Prisoner of War 	Paintings,</unittitle>
+  					<unitdate>2005-2006</unitdate> 
+  				</did> 
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">3</container> 
+  					<container type="folder">3</container> 
+  					<unittitle>Colombia Guide to American Indians of the Southwest,</unittitle>
+  					<unitdate>2004-2008</unitdate> 
+  				</did> 
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">3</container> 
+  					<container type="folder">4</container> 
+  					<unittitle>Consensus and Variation in Depiction and Interpretation of Constellations in Navajo Sandpaintings,</unittitle>
+  					<unitdate>1987</unitdate> 
+  				</did> 
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">3</container> 
+  					<container type="folder">5</container> 
+  					<unittitle>The Continuous Renewal of Sacred Relations: Navajo Religion,</unittitle>
+  					<unitdate>1996,</unitdate>
+  					<unitdate>2000</unitdate>
+  				</did> 
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">3</container> 
+  					<container type="folder">6</container> 
+  					<unittitle>Creating a Culturally Appropriate Smoking Cessation Program with American Indians and Alaska Natives,</unittitle>
+  					<unitdate>2006</unitdate> 
+  				</did> 
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">3</container> 
+  					<container type="folder">7-12</container> 
+  					<unittitle>Earth is my Mother, Sky is my Father: Space, Time, and Astronomy in Navajo Sandpainting,</unittitle>
+  					<unitdate>1985-1995</unitdate> 
+  				</did> 
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">3</container> 
+  					<container type="folder">13</container> 
+  					<unittitle>The Encyclopedia of Native America,</unittitle>
+  					<unitdate>1992-1996</unitdate> 
+  				</did> 
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">3</container> 
+  					<container type="folder">14</container> 
+  					<unittitle>Hopi and Zuni Prayer Sticks: Magic, Symbolic Texts, Gifts, or Persons?,</unittitle>
+  					<unitdate>1989</unitdate> 
+  				</did> 
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">3</container> 
+  					<container type="folder">15</container> 
+  					<unittitle>How Navajo Sandpaintings Accomplish the Work of Healing,</unittitle>
+  					<unitdate>undated</unitdate> 
+  				</did> 
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">3</container> 
+  					<container type="folder">16</container> 
+  					<unittitle>Learning to see what is Really There: Reconstructing Cultural Models with Navajo Chanters,</unittitle>
+  					<unitdate>undated</unitdate> 
+  				</did> 
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">3</container> 
+  					<container type="folder">17-18</container> 
+  					<unittitle>Microsoft Encarta articles,</unittitle>
+  					<unitdate>2001-2002</unitdate> 
+  				</did> 
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">3</container> 
+  					<container type="folder">19</container> 
+  					<unittitle>Mirindi Mick, the Magical Camel,</unittitle>
+  					<unitdate>1992</unitdate> 
+  				</did> 
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">3</container> 
+  					<container type="folder">20</container> 
+  					<unittitle>Native Peoples of the Southwest,</unittitle>
+  					<unitdate>1999-2000</unitdate> 
+  				</did> 
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">4</container> 
+  					<container type="folder">1</container> 
+  					<unittitle>Navajo Ceremonial Sandpainting: Sacred, Living Entities,</unittitle>
+  					<unitdate>1991</unitdate> 
+  				</did> 
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">4</container> 
+  					<container type="folder">2</container> 
+  					<unittitle>The Navajo Nation and the Unites States Today,</unittitle>
+  					<unitdate>2006-2007</unitdate> 
+  				</did> 
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">4</container> 
+  					<container type="folder">3</container> 
+  					<unittitle>Navajo Sandpaintings of the Heavens,</unittitle>
+  					<unitdate>undated</unitdate> 
+  				</did> 
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">4</container> 
+  					<container type="folder">4</container> 
+  					<unittitle>Navajo Stars: Variation in one domain of Cultural Knowledge,</unittitle>
+  					<unitdate>1987</unitdate> 
+  				</did> 
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">4</container> 
+  					<container type="folder">5</container> 
+  					<unittitle>North America essay,</unittitle>
+  					<unitdate>2001</unitdate> 
+  				</did> 
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">4</container> 
+  					<container type="folder">6</container> 
+  					<unittitle>Photographs as Foci for Informant Interviews in Two Cultures,</unittitle>
+  					<unitdate>1989</unitdate> 
+  				</did> 
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">4</container> 
+  					<container type="folder">7</container> 
+  					<unittitle>Recording and Using Sacred Knowledge: When an Anthropologist and Navajo People work together,</unittitle>
+  					<unitdate>2007</unitdate> 
+  				</did> 
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">4</container> 
+  					<container type="folder">8</container> 
+  					<unittitle>The Sacred Sky: Native American Star Knowledge,</unittitle>
+  					<unitdate>undated</unitdate> 
+  				</did> 
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">4</container> 
+  					<container type="folder">9-10</container> 
+  					<unittitle>Time, Self and Society,</unittitle>
+  					<unitdate>2000-2004</unitdate> 
+  				</did> 
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">4</container> 
+  					<container type="folder">11</container> 
+  					<unittitle>Treasure Mapping,</unittitle>
+  					<unitdate>1991</unitdate> 
+  				</did> 
+  			</c03>
+  			
+  		</c02>
+  		<c02 level="subseries" id="sbser2"> 
+  			<did> <unittitle> Subseries: Articles,</unittitle> 
+  				<unitdate type="inclusive">1988-1992</unitdate> 
+  			</did><scopecontent><p>This series contains published copes of articles.</p></scopecontent> 
+  			<c03 level="file"> 
+  				<did> <container type="box">4</container> 
+  					<container type="folder">12</container> 
+  					<unittitle>The American Anthropological Association on Session “Visions of	the Sky: Studies in North American Ethnoastronomy”,</unittitle>
+  					<unitdate>1988</unitdate> 
+  				</did> 
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">4</container> 
+  					<container type="folder">13</container> 
+  					<unittitle>Cosmological Order as a Model for Navajo Philosophy,</unittitle>
+  					<unitdate>1988</unitdate> 
+  				</did> 
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">4</container> 
+  					<container type="folder">14</container> 
+  					<unittitle>The Hooghan and the Stars,</unittitle>
+  					<unitdate>1992</unitdate> 
+  				</did> 
+  			</c03>
+  		</c02>
+
+  		<c02 level="subseries" id="sbser3"> 
+  			<did> <unittitle>Subseries: Book Reviews,</unittitle> 
+  				<unitdate type="inclusive">1988-2009</unitdate> 
+  			</did><scopecontent><p>This series contains published copies of book reviews,</p></scopecontent> 
+  			
+  			<c03 level="file"> 
+  				<did> <container type="box">4</container> 
+  					<container type="folder">15</container> 
+  					<unittitle>Desert Indian Women: Stories and Dreams,</unittitle>
+  					<unitdate>2002</unitdate> 
+  				</did> 
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">4</container> 
+  					<container type="folder">16</container> 
+  					<unittitle>Living Life’s Circle: Mescalero Apache Cosmovision,</unittitle>
+  					<unitdate>1993-1998</unitdate> 
+  				</did> 
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">4</container> 
+  					<container type="folder">17</container> 
+  					<unittitle>The Multicultural Southwest: A Reader,</unittitle>
+  					<unitdate>2002</unitdate> 
+  				</did> 
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">4</container> 
+  					<container type="folder">18</container> 
+  					<unittitle>Navajo Medicine Bundles or Jish,</unittitle>
+  					<unitdate>1988</unitdate> 
+  				</did> 
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">4</container> 
+  					<container type="folder">19</container> 
+  					<unittitle>Surviving the Conquest: A History of the Yavapai Peoples,</unittitle>
+  					<unitdate>2003</unitdate> 
+  				</did> 
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">4</container> 
+  					<container type="folder">20</container> 
+  					<unittitle>Voice in Clay: Pueblo Pottery from the Edna M. Kelly Collection,</unittitle>
+  					<unitdate>2002</unitdate> 
+  				</did> 
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">4</container> 
+  					<container type="folder">21</container> 
+  					<unittitle>Weaving Women’s Lives: Three Generations in a Navajo Family,</unittitle>
+  					<unitdate>2009</unitdate> 
+  				</did> 
+  			</c03>
+  		</c02>
+  	</c01> 
+  	<c01 level="series" id="ser4"> 
+  		<did> 
+  			<unittitle>Series IV: Academic Files,</unittitle> 
+  				<unitdate type="inclusive">1976-2008</unitdate> 
+  		</did><scopecontent><p>This series contains material related to Trudy Griffin-Pierce's academic career including graduate school notes, teaching material such as lecture notes as well as material from different projects and conferences.</p></scopecontent> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">22-24</container> 
+  				<unittitle>Alzheimer’s Disease research,</unittitle>
+  				<unitdate>2007-2008</unitdate> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">25</container> 
+  				<unittitle>Anthropology 206,</unittitle>
+  				<unitdate>1994</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">26</container> 
+  				<unittitle>Anthropology 206,</unittitle>
+  				<unitdate>1998, 2001</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">27-28</container> 
+  				<unittitle>Anthropology 206 Honors,</unittitle>
+  				<unitdate>1994</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">29</container> 
+  				<unittitle>Anthropology 413,</unittitle>
+  				<unitdate>1980</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">30</container> 
+  				<unittitle>Anthropology 476,</unittitle>
+  				<unitdate>1981</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">31</container> 
+  				<unittitle>Anthropology 478,</unittitle>
+  				<unitdate>1983</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Anthropology 483,</unittitle>
+  				<unitdate>1982</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Anthropology 600,</unittitle>
+  				<unitdate>1980</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Anthropology/History 148,</unittitle>
+  				<unitdate>1995</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Appointments,</unittitle>
+  				<unitdate>1981-2008</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Arizona Lecture Series,</unittitle>
+  				<unitdate>2002</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>Art History 112,</unittitle>
+  				<unitdate>1997</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Art History 233,</unittitle>
+  				<unitdate>1971</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>Clara Lee Tanner talk,</unittitle>
+  				<unitdate>1991-1992</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">9</container> 
+  				<unittitle>Colloquium in honor of Susan Phillips,</unittitle>
+  				<unitdate>2004</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">10</container> 
+  				<unittitle>Colorado River Indian Tribes lecture,</unittitle>
+  				<unitdate>undated</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">11</container> 
+  				<unittitle>Dancing of the Dreaming symposium,</unittitle>
+  				<unitdate>1994</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">12</container> 
+  				<unittitle>Death and Dying conference session abstracts,</unittitle>
+  				<unitdate>undated</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">13</container> 
+  				<unittitle>Departmental correspondence,</unittitle>
+  				<unitdate>2006-2008</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">14</container> 
+  				<unittitle>Dissertation defense notes,</unittitle>
+  				<unitdate>1987</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">15</container> 
+  				<unittitle>Dissertation notebooks,</unittitle>
+  				<unitdate>1985-1986</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">16</container> 
+  				<unittitle>Encouraging Healthy Lifestyles of Diabetic Patients through Native Practitioners,</unittitle>
+  				<unitdate>2004</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">17</container> 
+  				<unittitle>Film requests,</unittitle>
+  				<unitdate>1996-2003</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">18</container> 
+  				<unittitle>Indian Pueblo Culture Center,</unittitle>
+  				<unitdate>1976</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">19-20</container> 
+  				<unittitle>INDV 102,</unittitle>
+  				<unitdate>2000-2002</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">21</container> 
+  				<unittitle>INDV 102,</unittitle>
+  				<unitdate>2008</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">22</container> 
+  				<unittitle>Junior Faculty Professional Development leave,</unittitle>
+  				<unitdate>2003-2007</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">23</container> 
+  				<unittitle>‘Learning to see what is Really There’ Making Neuropsychological Instruments Culturally Important,</unittitle>
+  				<unitdate>2006</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">24</container> 
+  				<unittitle>Miscellaneous class essays,</unittitle>
+  				<unitdate>1981-1982</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">25</container> 
+  				<unittitle>Miscellaneous class notes,</unittitle>
+  				<unitdate>2003, 2008, undated</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">26</container> 
+  				<unittitle>Mountain Lions and other animals,</unittitle>
+  				<unitdate>1989-1992</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">27-28</container> 
+  				<unittitle>Native American art lecture notes,</unittitle>
+  				<unitdate>undated</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">29</container> 
+  				<unittitle>Navajo Code Talker documentary,</unittitle>
+  				<unitdate>1994</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">30</container> 
+  				<unittitle>Navajo medical lectures,</unittitle>
+  				<unitdate>1993-1994</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">31</container> 
+  				<unittitle>Navajo papers,</unittitle>
+  				<unitdate>1981-1983</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">6</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>The Navajo Philosophy of Healing,</unittitle>
+  				<unitdate>undated</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">6</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Navajo Philosophy of life program,</unittitle>
+  				<unitdate>1999</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">6</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Navajo Sandpaintings of the Heavens,</unittitle>
+  				<unitdate>1987-1989</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">6</container> 
+  				<container type="folder">4-6</container> 
+  				<unittitle>Notes,</unittitle>
+  				<unitdate>1985-2008, undated</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">6</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Preliminaries notebook,</unittitle>
+  				<unitdate>1984</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">6</container> 
+  				<container type="folder">8-15</container> 
+  				<unittitle>Sandpaintings,</unittitle>
+  				<unitdate>undated</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Sandpaintings,</unittitle>
+  				<unitdate>undated</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Statement of Accomplishment and Objectives on Research, Teaching, and Service/Outreach,</unittitle>
+  				<unitdate>2007-2008</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Student evaluations,</unittitle>
+  				<unitdate>undated</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Tonga notebook,</unittitle>
+  				<unitdate>1985, 1989</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container> 
+  				<container type="folder">5-6</container> 
+  				<unittitle>Tonga research,</unittitle>
+  				<unitdate>1984-1989</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Undergraduate class notes,</unittitle>
+  				<unitdate>undated</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>Visual Prayers: The Paintings and Drawings of Native American Prisoners of War slides,</unittitle>
+  				<unitdate>undated</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container> 
+  				<container type="folder">9</container> 
+  				<unittitle>Walking in Beauty: The Dennys, a Family of Navajo Chanters,</unittitle>
+  				<unitdate>2007</unitdate> 
+  			</did> 
+  		</c02>
+  	</c01> 
+  	<c01 level="series" id="ser5"> 
+  		<did> 
+  			<unittitle>Series V: Keith Pierce Files,</unittitle>  
+  				<unitdate type="inclusive">1964-1982</unitdate> 
+  		</did><scopecontent><p>This series contains the material of Keith Pierce with drafts of his autobiography making up the majority of the material.  Also included are his notes on astronomy and some memos from the Kitt Peak National Observatory.</p></scopecontent> 
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container> 
+  				<container type="folder">10</container> 
+  				<unittitle>Biographical data,</unittitle>
+  				<unitdate>undated</unitdate> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container> 
+  				<container type="folder">11-14</container> 
+  				<unittitle>The Illustrated Autobiography of Austin Keith Pierce,</unittitle>
+  				<unitdate>undated</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container> 
+  				<container type="folder">15</container> 
+  				<unittitle>Kitt Peak National Observatory,</unittitle>
+  				<unitdate>1964-1966</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container> 
+  				<container type="folder">16</container> 
+  				<unittitle>Miscellaneous,</unittitle>
+  				<unitdate>1970, 1982, undated</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container> 
+  				<container type="folder">17-18</container> 
+  				<unittitle>Notes,</unittitle>
+  				<unitdate>undated</unitdate> 
+  			</did> 
+  		</c02>
+  	</c01> 
+  	<c01 level="series" id="ser6"> 
+  		<did> 
+  			<unittitle>Series VI: Journals,</unittitle> 
+  				<unitdate type="inclusive">1967-2008</unitdate> 
+  		</did><scopecontent><p>This series contains the personal journals of Trudy Griffin-Pierce.  They detail her life from her time on the Navajo Reservation as an adopted daughter until her death in 2009.  She includes all aspects of her life, personally and professionally.  Volumes 1-2 are not included in this collection.  Volumes 50-104 are restricted until 2029.</p></scopecontent> 
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Volume 3,</unittitle>
+  				<unitdate>1967-1968</unitdate> 
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Volume 4,</unittitle>
+  				<unitdate>1968</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Volume 5,</unittitle>
+  				<unitdate>1968</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Volume 6,</unittitle>
+  				<unitdate>1968</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Volume 7,</unittitle>
+  				<unitdate>1968</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>Volume 8,</unittitle>
+  				<unitdate>1968</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Volume 9,</unittitle>
+  				<unitdate>1968-1969</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>Volume 10,</unittitle>
+  				<unitdate>1969</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">9</container> 
+  				<unittitle>Volume 11,</unittitle>
+  				<unitdate>1969</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">10</container> 
+  				<unittitle>Volume 12,</unittitle>
+  				<unitdate>1969</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">11</container> 
+  				<unittitle>Volume 13,</unittitle>
+  				<unitdate>1969</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">12</container> 
+  				<unittitle>Volume 14,</unittitle>
+  				<unitdate>1969</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">13</container> 
+  				<unittitle>Volume 15,</unittitle>
+  				<unitdate>1969-1970</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">14</container> 
+  				<unittitle>Volume 16,</unittitle>
+  				<unitdate>1970</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">15</container> 
+  				<unittitle>Volume 17,</unittitle>
+  				<unitdate>1970</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">16</container> 
+  				<unittitle>Volume 18,</unittitle>
+  				<unitdate>1970</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">17</container> 
+  				<unittitle>Volume 19,</unittitle>
+  				<unitdate>1970</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">18</container> 
+  				<unittitle>Volume 20,</unittitle>
+  				<unitdate>1970-1971</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">19</container> 
+  				<unittitle>Volume 21,</unittitle>
+  				<unitdate>1971</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">20</container> 
+  				<unittitle>Volume 22,</unittitle>
+  				<unitdate>1971</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">21</container> 
+  				<unittitle>Volume 23,</unittitle>
+  				<unitdate>1971-1972</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">22</container> 
+  				<unittitle>Volume 24,</unittitle>
+  				<unitdate>1972</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">23</container> 
+  				<unittitle>Volume 25,</unittitle>
+  				<unitdate>1972</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">24</container> 
+  				<unittitle>Volume 26,</unittitle>
+  				<unitdate>1972</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">25</container> 
+  				<unittitle>Volume 27,</unittitle>
+  				<unitdate>1972</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">26</container> 
+  				<unittitle>Volume 28,</unittitle>
+  				<unitdate>1972-1973</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">27</container> 
+  				<unittitle>Volume 28a,</unittitle>
+  				<unitdate>1973</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">28</container> 
+  				<unittitle>Volume 29,</unittitle>
+  				<unitdate>1973</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">29</container> 
+  				<unittitle>Volume 30,</unittitle>
+  				<unitdate>1973</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">30</container> 
+  				<unittitle>Volume 31,</unittitle>
+  				<unitdate>1973</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">31</container> 
+  				<unittitle>Volume 32,</unittitle>
+  				<unitdate>1973</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">32</container> 
+  				<unittitle>Volume 33,</unittitle>
+  				<unitdate>1973-1974</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">33</container> 
+  				<unittitle>Volume 34,</unittitle>
+  				<unitdate>1974</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">34</container> 
+  				<unittitle>Volume 35,</unittitle>
+  				<unitdate>1974</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">35</container> 
+  				<unittitle>Volume 36,</unittitle>
+  				<unitdate>1974</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">36</container> 
+  				<unittitle>Volume 37,</unittitle>
+  				<unitdate>1974</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">37</container> 
+  				<unittitle>Volume 38,</unittitle>
+  				<unitdate>1974</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">38</container> 
+  				<unittitle>Volume 39,</unittitle>
+  				<unitdate>1974-1975</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">39</container> 
+  				<unittitle>Volume 40,</unittitle>
+  				<unitdate>1975</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Volume 41,</unittitle>
+  				<unitdate>1975</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Volume 42,</unittitle>
+  				<unitdate>1975</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Volume 43,</unittitle>
+  				<unitdate>1975-1976</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Volume 44,</unittitle>
+  				<unitdate>1976</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Volume 45,</unittitle>
+  				<unitdate>1976</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>Volume 46,</unittitle>
+  				<unitdate>1976</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Volume 47,</unittitle>
+  				<unitdate>1977</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>Volume 48,</unittitle>
+  				<unitdate>1977</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">9</container> 
+  				<unittitle>Volume 49,</unittitle>
+  				<unitdate>1977-1978</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">10</container> 
+  				<unittitle>Volume 50,</unittitle>
+  				<unitdate>1978-1979</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">11</container> 
+  				<unittitle>Volume 51,</unittitle>
+  				<unitdate>1979-1980</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">12</container> 
+  				<unittitle>Volume 52,</unittitle>
+  				<unitdate>1980</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">13</container> 
+  				<unittitle>Volume 53,</unittitle>
+  				<unitdate>1980</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">14</container> 
+  				<unittitle>Volume 54,</unittitle>
+  				<unitdate>1981</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">15</container> 
+  				<unittitle>Volume 55,</unittitle>
+  				<unitdate>1981</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">16</container> 
+  				<unittitle>Volume 56,</unittitle>
+  				<unitdate>undated</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Volume 57,</unittitle>
+  				<unitdate>1982-1983</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Volume 58,</unittitle>
+  				<unitdate>1983</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Volume 59,</unittitle>
+  				<unitdate>1984</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Volume 60,</unittitle>
+  				<unitdate>1984-1985</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Volume 61,</unittitle>
+  				<unitdate>1985-1986</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>Volume 62,</unittitle>
+  				<unitdate>1986-1987</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Volume 63,</unittitle>
+  				<unitdate>1987-1988</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>Volume 64,</unittitle>
+  				<unitdate>1988</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Volume 65,</unittitle>
+  				<unitdate>1988-1989</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Volume 66,</unittitle>
+  				<unitdate>1989-1990</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Volume 67,</unittitle>
+  				<unitdate>1990</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Volume 68,</unittitle>
+  				<unitdate>1990-1991</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Volume 69,</unittitle>
+  				<unitdate>1991</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>Volume 70,</unittitle>
+  				<unitdate>1991</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Volume 71,</unittitle>
+  				<unitdate>1991</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>Volume 72,</unittitle>
+  				<unitdate>1991-1992</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">12</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Volume 73,</unittitle>
+  				<unitdate>1992</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">12</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Volume 74,</unittitle>
+  				<unitdate>1992</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">12</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Volume 75,</unittitle>
+  				<unitdate>1992-1993</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">12</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Volume 76,</unittitle>
+  				<unitdate>1993</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">12</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Volume 77,</unittitle>
+  				<unitdate>1993</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">12</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>Volume 78,</unittitle>
+  				<unitdate>1993-1994</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">12</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Volume 79,</unittitle>
+  				<unitdate>1994</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Volume 80,</unittitle>
+  				<unitdate>1994</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Volume 81,</unittitle>
+  				<unitdate>1995</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Volume 82,</unittitle>
+  				<unitdate>1995-1996</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Volume 83,</unittitle>
+  				<unitdate>1996</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Volume 84,</unittitle>
+  				<unitdate>1996-1997</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>Volume 85,</unittitle>
+  				<unitdate>1997</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Volume 86,</unittitle>
+  				<unitdate>1997-1998</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">14</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Volume 87,</unittitle>
+  				<unitdate>1998-1999</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">14</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Volume 88,</unittitle>
+  				<unitdate>1999-2000</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">14</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Volume 89,</unittitle>
+  				<unitdate>2000-2001</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">14</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Volume 90a,</unittitle>
+  				<unitdate>2001</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">14</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Volume 90,</unittitle>
+  				<unitdate>2001</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">14</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>Volume 91,</unittitle>
+  				<unitdate>2001-2002</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">14</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Volume 92,</unittitle>
+  				<unitdate>2002</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">14</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>Volume 93,</unittitle>
+  				<unitdate>2003</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">15</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Volume 94,</unittitle>
+  				<unitdate>2003-2004</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">15</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Volume 95,</unittitle>
+  				<unitdate>2004-2005</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">15</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Volume 96,</unittitle>
+  				<unitdate>2005</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">15</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Volume 97,</unittitle>
+  				<unitdate>2005</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">15</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Volume 98,</unittitle>
+  				<unitdate>2005-2006</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">15</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>Volume 99,</unittitle>
+  				<unitdate>2006</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">15</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Volume 100,</unittitle>
+  				<unitdate>2007</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">16</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Volume 101,</unittitle>
+  				<unitdate>2007-2008</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">16</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Volume 102,</unittitle>
+  				<unitdate>2008</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">16</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Volume 103,</unittitle>
+  				<unitdate>2008</unitdate> 
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">16</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Volume 104,</unittitle>
+  				<unitdate>2008</unitdate> 
+  			</did> 
+  		</c02>
+  	</c01> 
+  	<c01 level="series" id="ser7"> 
+  		<did> 
+  			<unittitle>Series VII: Oversize,</unittitle> 
+  				<unitdate type="inclusive">1994-2008</unitdate> 
+  		</did><scopecontent><p>This series contains oversize calendars from the personal series.</p></scopecontent> 
+  		<c02 level="file"> 
+  			<did> <container type="box">17</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Calendars,</unittitle>
+  				<unitdate>1994-2008</unitdate> 
+  			</did> 
+  		</c02>
+  	</c01> 
+  </dsc> 
+</archdesc></ead>

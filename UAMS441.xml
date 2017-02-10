@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+    <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+        audience="internal" id="a0"> 
+        <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special
+            Collections//text(US::AzU::Leland C. Wyman papers>
+            //en"UAMS441.xml"</eadid> 
+        <filedesc> 
+            <titlestmt> 
+                <titleproper>Leland C. Wyman papers,
+                    <date>1908-1985 (bulk 1930-1980)</date></titleproper> 
+                <author>Inventory prepared by Wanda Davila.</author> 
+            </titlestmt> 
+            <publicationstmt> 
+                <publisher>University of Arizona Libraries, Special Collections</publisher> 
+                <address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+                <date>&#x00A9; 2009</date> 
+                <p>Arizona Board of Regents. All Rights Reserved.</p> 
+            </publicationstmt> 
+        </filedesc> 
+        <profiledesc> 
+            <creation>Inventory encoded by Ana-Elisa Arredondo. 
+                <date>April 2011</date></creation> 
+            <langusage>Inventory is in<language> English.</language></langusage> 
+        </profiledesc> 
+    </eadheader> 
+    <frontmatter> 
+        <titlepage> 
+            <titleproper encodinganalog="245$a">Leland C. Wyman papers, 
+                <date>1908-1985 (bulk 1930-1980)</date></titleproper> 
+            <num>Collection Number: MS 441</num> 
+            <publisher>University of Arizona Libraries, Special Collections</publisher> 
+            <list> 
+                <defitem> 
+                    <label>Processed by: </label> 
+                    <item>Wanda Davila.</item> 
+                </defitem> 
+                <defitem> 
+                    <label>Date completed:</label> 
+                    <item> 
+                        <date>November 2009</date></item> 
+                </defitem> 
+                <defitem> 
+                    <label>Encoded by:</label> 
+                    <item>Ana-Elisa Arredondo</item> 
+                </defitem> 
+            </list> 
+            <p>&#x00A9; 2008. Arizona Board of Regents. All rights reserved.</p> 
+        </titlepage> 
+    </frontmatter> 
+    <archdesc level="collection" type="inventory"> 
+        <did id="a1"> 
+            <head>Collection Summary</head> 
+            <unittitle encodinganalog="245" label="Collection Name:">Leland C. Wyman papers
+                <unitdate type="inclusive" label="Dates:" normal="1908/1985">1908-1985</unitdate>
+                <unitdate type="bulk" label="Dates:" normal="1930/1980">(bulk 1930-1980)</unitdate></unittitle>	 
+            <unitid label="Collection Number:" encodinganalog="099"
+                repositorycode="AzU" countrycode="us">MS 441</unitid> 
+            <origination label="Creator:"> 
+                <persname encodinganalog="100">Wyman, Leland Clifton, 1897- 
+                    </persname> </origination> 
+            <abstract label="Abstract:">Papers, 1908-1985, bulk 1930-1980. This collection is comprised of Leland 
+                C. Wyman’s interests, both personal and professional. The bulk is made up of personal and professional 
+                correspondence, lecture note cards, and publications. His professional files reflect both his careers 
+                as a biologist and an anthropologist. </abstract> 
+            <physdesc encodinganalog="300$a" label="Physical Description:"><extent>3.5 linear ft.</extent></physdesc>	 
+            <repository label="Repository:"> 
+                <corpname>University of Arizona Libraries, Special Collections</corpname> 
+                <address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository> 
+        </did> 
+        <accessrestrict> 
+            <head>Restrictions</head> 
+            <p>None.</p> 
+        </accessrestrict> 
+        <userestrict> 
+            <head>Copyright</head> 
+            <p>It is the responsibility of the user to obtain permission to publish
+                from the owner of the copyright (the institution, the creator of the record,
+                the author or his/her transferees, heirs, legates, or literary executors). The
+                user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+                University of Arizona, its officers, employees, and agents from and against all
+                claims made by any person asserting that he or she is an owner of
+                copyright.</p> 
+        </userestrict> 
+        <prefercite> 
+            <head>Credit Line</head> 
+            <p>Leland C. Wyman papers(MS 441). Special
+                Collections, University of Arizona Libraries.</p> 
+        </prefercite> 
+        <bioghist id="a2" encodinganalog="545"> 
+            <head>Biographical Note</head> 
+            <p>Leland Clifton Wyman was born in 1897 Livermore Falls, Maine. He got his bachelor’s 
+                degree from Bowdoin College in 1918 and his Ph. D. degree from Harvard in 1922. 
+                He taught experimental and theoretical physiology, sociology, anthropology, American 
+                Indian art, and Asiatic art at the Boston College of Liberal Arts. He also directed 
+                research work on Navajo ethnology at the Department of Anthropology, University of 
+                New Mexico. From 1942 to 1946 he served as chairman of the Division of Medical Sciences 
+                at Boston University. He spent 40 summers conducting research in the American southwest 
+                establishing him as one of the leaders on Navajo research. He was an author of numerous 
+                publications in the fields of biology and anthropology. For various years he was the 
+                curator of archives at the Museum of Northern Arizona and research associate at the 
+                Museum of Navajo Ceremonial Art. As part of his research and personal interests he 
+                traveled to Asia, Africa, Middle East, and Europe. He died in 1988.</p> 
+        </bioghist> 
+        <arrangement id="a4" encodinganalog="351$a"> 
+            <head>Arrangement</head> 
+            <p>This collection is organized into two series.</p>	 
+            <list> 
+                <item>Series I: Personal,</item>
+                <item>Series II: Professional,</item>                
+            </list>  
+        </arrangement> 
+        <scopecontent id="a3" encodinganalog="520"> 
+            <head>Scope and Content Note</head> 
+            <p>This collection contains personal and professional materials relating to the life and career of Leland C. Wyman.  The bulk of the personal series includes correspondence to and from Wyman as well as correspondence between others.  General files relating to his personal life include his drawings and sketches and other materials collected by him including a song book, theatre programs, and newspaper clippings.  Scrapbooks detail information on sports programs and materials on or about Livermore Falls and Bowdoin College.  The professional series includes correspondence as well as general files on museum collections and his teaching files. The collection also contains a large amount of his index card lecture notes.  Also present in the collection are numerous essays and publications by Leland Wyman, spanning over 60 years. </p> 
+        </scopecontent> 
+        <controlaccess id="a12"> 
+            <head>Access Terms</head> 
+            <list> 
+                <item> 
+                    <persname encodinganalog="600">Wyman, Leland Clifton, 1897-1988</persname> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <subject encodinganalog="650">Navajo Indians</subject> </item>  
+            </list> 
+            <list> 
+                <item> 
+                    <subject encodinganalog="650">Indians of North America</subject> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <subject encodinganalog="650">Biology</subject> </item> 
+            </list> 
+            <list> 
+                <item>
+                    <subject encodinganalog="610">Single Cell Research Foundation</subject> </item>
+            </list>
+        </controlaccess> 
+        <dsc type="combined" id="a23"> 
+            <head>Container List</head> 
+            <c01 level="series" id="ser1"> 
+                <did> 
+                    <unittitle>Series I: Personal, 
+                        <unitdate type="inclusive" normal="1908/1985">1908-1985</unitdate></unittitle> 
+                </did>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle>Subseries I: Correspondence<unitdate type="inclusive" certainty="approximate" normal="1908-1985">ca. 1908-1985</unitdate></unittitle>
+                    </did>
+                <scopecontent>
+                    <p>This subseries is arranged chronologically. It contains correspondence between Leland 
+                        C. Wyman with his family and friends. It is organized alphabetically and chronologically.</p>
+                </scopecontent>
+                <c03 level="file"> 
+                    <did> <container type="box">1</container> 
+                        <container type="folder">1</container>
+                        <unittitle>Correspondence</unittitle> 
+                        <unitdate certainty="approximate" normal="1900/1949">1900-1940s</unitdate>
+                    </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> <container type="box">1</container> 
+                        <container type="folder">2</container>
+                        <unittitle>Correspondence</unittitle> 
+                        <unitdate certainty="approximate" normal="1950/1959">1950s</unitdate>
+                       </did> 
+                </c03>
+                <c03 level="file"> 
+                    <did> <container type="box">1</container> 
+                        <container type="folder">3</container> 
+                        <unittitle>Correspondence</unittitle> 
+                        <unitdate normal="1960/1964">1960-1964</unitdate>
+                    </did>
+                </c03>
+                <c03 level="file"> 
+                    <did> <container type="box">1</container> 
+                        <container type="folder">4</container>  
+                        <unittitle>Correspondence<unitdate normal="1965/1969">1965-1969</unitdate></unittitle>
+                    </did>
+                </c03>
+                <c03 level="file"> 
+                    <did> 
+                        <container type="box">1</container> 
+                        <container type="folder">5</container> 
+                        <unittitle>Correspondence
+                            <unitdate normal="1970">1970</unitdate></unittitle>
+                    </did>
+                </c03>
+                <c03 level="file"> 
+                    <did>  <container type="box">1</container> 
+                        <container type="folder">6</container>
+                        <unittitle>Correspondence
+                            <unitdate normal="1971/1972">1971-1972</unitdate></unittitle>
+                    </did>
+                </c03>
+                <c03 level="file"> 
+                    <did> <container type="box">1</container> 
+                        <container type="folder">7</container>
+                         <unittitle>Correspondence
+                         <unitdate normal="1973">1973</unitdate></unittitle>
+                    </did>
+                </c03>
+                <c03 level="file"> 
+                    <did><container type="box">1</container> 
+                        <container type="folder">8</container> 
+                         <unittitle>Correspondence
+                            <unitdate normal="1976/1979">1976-1979</unitdate></unittitle>
+                    </did>
+                </c03>
+                <c03 level="file"> 
+                    <did> <container type="box">2</container> 
+                        <container type="folder">1</container> 
+                         <unittitle>Correspondence
+                             <unitdate normal="1979/1981">1979-1981</unitdate>
+                         <unitdate normal="1985">1985</unitdate></unittitle>
+                         </did>
+                </c03>
+                <c03 level="file"> 
+                    <did> <container type="box">2</container> 
+                        <container type="folder">2</container> 
+                         <unittitle>Correspondence-Season’s Greetings 
+                             <unitdate normal="1956/1972">1956-1972</unitdate>
+                         </unittitle>
+                        </did>
+                </c03> 
+                <c03 level="file"> 
+                    <did> <container type="box">2</container> 
+                        <container type="folder">3</container> 
+                        <unittitle>Correspondence-Season’s Greetings </unittitle>  
+                         <unitdate normal="1973/1975">1973-1975</unitdate>
+                        </did>
+                </c03>
+                <c03 level="file"> 
+                        <did> <container type="box">2</container> 
+                            <container type="folder">4</container> 
+                            <unittitle>Correspondence-Season’s Greetings </unittitle>  
+                            <unitdate normal="1976/1980">1977-1980</unitdate>
+                            <unitdate normal="1983">1983</unitdate>
+                        </did>
+                </c03>
+                <c03 level="file"> 
+                        <did> <container type="box">2</container> 
+                            <container type="folder">5</container> 
+                            <unittitle>Correspondence</unittitle>  
+                        </did>
+                </c03>  
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle>Subseries II: General<unitdate type="inclusive" 
+                            certainty="approximate" normal="1908/1985">ca. 1908-1985</unitdate></unittitle>
+                    </did>
+                    <scopecontent>
+                        <p>This subseries is arranged alphabetically. It contains arts and crafts from 
+                            childhood to his sketches for studying human anatomy, Bowdoin College files, 
+                            calendars and schedules, childhood museum catalogue, essays, White Star ephemera, 
+                            invitations and announcements, materials from his interest on magic and spiritual 
+                            matters, newspaper clippings, notebooks, address book, song book, and theater 
+                            programs from Europe.</p>
+                    </scopecontent>
+                    <c03 level="file">
+                        <did><container type="box">3</container>
+                        <container type="folder">1</container>
+                            <unittitle>Arts and Crafts-Drawings and sketches of animals and nature</unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">3</container>
+                            <container type="folder">2</container>
+                            <unittitle>Arts and Crafts-Drawings and sketches of geography and geology</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">3</container>
+                            <container type="folder">3</container>
+                            <unittitle>Arts and Crafts-Scientific drawings of the human body </unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">3</container>
+                            <container type="folder">4</container>
+                            <unittitle>Arts and Crafts-Drawings and sketches of human subjects</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did> 
+                        <container type="box">3</container>
+                        <container type="folder">5</container>
+                            <unittitle>Arts and Crafts-Drawings and sketches of objects</unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">3</container>
+                            <container type="folder">6</container>
+                            <unittitle>Bowdoin College files</unittitle>
+                        </did>
+                    </c03>
+                   <c03 level="file">
+                       <did>
+                           <container type="box">3</container>
+                           <container type="folder">7</container>
+                           <unittitle>Calendars and schedules</unittitle>
+                       </did>
+                   </c03>
+                 <c03 level="file">
+                     <did>
+                         <container type="box">3</container>
+                         <container type="folder">8</container>
+                         <unittitle>Childhood museum catalogue</unittitle>
+                     </did>
+                 </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">3</container>
+                            <container type="folder">9</container>
+                            <unittitle>Essays</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">3</container>
+                            <container type="folder">10</container>
+                            <unittitle>First trip to Europe White Star ephemera</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">3</container>
+                            <container type="folder">11</container>
+                            <unittitle>Invitations and announcements</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">3</container>
+                            <container type="folder">12</container>
+                            <unittitle>Magic and spiritual</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">3</container>
+                            <container type="folder">13</container>
+                            <unittitle>Magic-Newspaper clippings</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">4</container>
+                            <container type="folder">1</container>
+                            <unittitle>Miscellaneous</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">4</container>
+                            <container type="folder">2</container>
+                            <unittitle>Newspaper clippings</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">4</container>
+                            <container type="folder">3</container>
+                            <unittitle>Notebooks and address book</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">4</container>
+                            <container type="folder">4</container>
+                            <unittitle>Song book</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">4</container>
+                            <container type="folder">5</container>
+                            <unittitle>Theater programs from Europe</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle>Subseries III: Scrapbooks<unitdate type="inclusive" 
+                            certainty="approximate" normal="1908/1949">ca. 1908-1940s</unitdate></unittitle>
+                    </did>
+                    <scopecontent>
+                        <p>This series is arranged alphabetically. It contains scrapbooks 
+                            dedicated to Livermore Falls, Bowdoin College, and college sports.</p>
+                    </scopecontent>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">5</container>
+                            <container type="folder">1</container>
+                            <unittitle>Scrapbook</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">5</container>
+                            <container type="box">2</container>
+                            <unittitle>Scrapbook Livermore Falls and Bowdoin College</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">5</container>
+                            <container type="folder">3</container>
+                            <unittitle>Scrapbook-Programs of college sports events</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+            </c01> 
+            <c01 level="series" id="ser2">
+                <did>
+                    <unittitle>Series II: Professional, 
+                    <unitdate type="inclusive" normal="1908/1985">1908-1985</unitdate></unittitle> </did>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle>Correspondence</unittitle>
+                        <unitdate type="inclusive" normal="1920/1970">19201970</unitdate>
+                    </did>
+                    <scopecontent>
+                        <p>This series is arranged chronologically and alphabetically. It contains the 
+                            professional correspondence of Leland C. Wyman.</p>
+                    </scopecontent>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">6</container>
+                            <container type="folder">1</container>
+                            <unittitle>Correspondence</unittitle>
+                            <unitdate certainty="approximate" normal="1920/1929">1920s</unitdate>
+                            <unitdate certainty="approximate" normal="1930/1939">1930s</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">6</container>
+                            <container type="folder">2</container>
+                            <unittitle>Correspondence</unittitle>
+                            <unitdate normal="194010/194510">1940 October-1945 October</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">6</container>
+                            <container type="folder">3</container>
+                            <unittitle>Correspondence</unittitle>
+                            <unitdate normal="194511/194911">1945 November-1949 November</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">6</container>
+                            <container type="folder">4</container>
+                            <unittitle>Correspondence</unittitle>
+                            <unitdate certainty="approximate" normal="1950/1959">1950s</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">6</container>
+                            <container type="folder">5</container>
+                            <unittitle>Correspondence</unittitle>
+                            <unitdate normal="1960/1969">1960s</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">6</container>
+                            <container type="folder">6</container>
+                            <unittitle>Correspondence</unittitle>
+                            <unitdate normal="1970/1980">1970-1980</unitdate>
+                        </did>
+                    </c03> 
+                    <c03 level="file">
+                        <did>
+                            <container type="box">6</container>
+                            <container type="folder">7</container>
+                            <unittitle>Correspondence-Boston University MOnetary appointments</unittitle>
+                            <unitdate normal="1922/1964">1922-1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">6</container>
+                            <container type="folder">8</container>
+                            <unittitle>Correspondence-Donations, loans, and appraisal of collections</unittitle>
+                            <unitdate certainty="approximate" normal="1937/1979">ca 1937-1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">6</container>
+                            <container type="folder">9</container>
+                            <unittitle>Correspondence-Exhibits and collections</unittitle>
+                            <unitdate certainty="approximate" normal="1953/1979">ca 1953-1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">6</container>
+                            <container type="folder">10</container>
+                            <unittitle>Correspondence-Exhibit, The Art of Book in the East</unittitle>
+                            <unitdate certainty="approximate" normal="1954/1958">ca 1954-1958</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">6</container>
+                            <container type="folder">11</container>
+                            <unittitle>Correspondence-Exhibits Islamic and Persian Art</unittitle>
+                            <unitdate certainty="approximate" normal="1958/1963">ca 1958-1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">6</container>
+                            <container type="folder">12</container>
+                            <unittitle>Correspondence-Faculty and student research</unittitle>
+                            <unitdate normal="1937/1959">1937-1959</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">6</container>
+                            <container type="folder">13</container>
+                            <unittitle>Correspondence-Publications and reviews</unittitle>
+                            <unitdate certainty="approximate" normal="1937/1979">ca 1937-1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">6</container>
+                            <container type="folder">14</container>
+                            <unittitle>Correspondence-Research on North American Indians and the southwest</unittitle>
+                            <unitdate normal="1931/1979">1931-1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">6</container>
+                            <container type="folder">15</container>
+                            <unittitle>Correspondence-Single Cell Research Foundation</unittitle>
+                            <unitdate normal="1954/1970">1954-1970</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">6</container>
+                            <container type="folder">16</container>
+                            <unittitle>Correspondence, Undated</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle>Subseries II: General</unittitle>
+                        <unitdate certainty="approximate" normal="1920/1980">ca. 1920-1980</unitdate>
+                    </did>
+                    <scopecontent>
+                        <p>This series is arranged alphabetically. It contains Awards, recognitions, memberships, 
+                            collection value, curriculum vitae, faculty and student evaluation, inventory of 
+                            artifacts, invitations and announcements, journal, key to catalogue numbers of Wyman 
+                            Collection, lectures and speaking engagements, miscellaneous, museum programs, flyers, 
+                            catalogues, notes for exhibits, outlines, teaching materials, travel logs and itineraries.  </p>
+                    </scopecontent>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">7</container>
+                            <container type="folder">1</container>
+                            <unittitle>Awards, recognitions, and memberships</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">7</container>
+                            <container type="folder">2</container>
+                            <unittitle>Collection value</unittitle>
+                            <unitdate certainty="approximate" normal="1953/1958">ca. 1953-1958</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">7</container>
+                            <container type="folder">3</container>
+                            <unittitle>Collection value-American Indian</unittitle>
+                            <unitdate certainty="approximate" normal="1960">ca. 1960</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">7</container>
+                            <container type="folder">4</container>
+                            <unittitle>Collection value-Asian</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">7</container>
+                            <container type="folder">5</container>
+                            <unittitle>Collection value-Egyptian and African</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">7</container>
+                            <container type="folder">6</container>
+                            <unittitle>Collection value-Islamic</unittitle>
+                            <unitdate certainty="approximate" normal="1958">ca. 1958</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">7</container>
+                            <container type="folder">7</container>
+                            <unittitle>Collection value-Latin America</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">7</container>
+                            <container type="folder">8</container>
+                            <unittitle>Collection value-Persian and Indian</unittitle>
+                            <unitdate certainty="approximate" normal="1953/1958">ca. 1953-1958</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">7</container>
+                            <container type="folder">9</container>
+                            <unittitle>CURRICULAM VITAE and personal information</unittitle>
+                            <unitdate certainty="approximate" normal="1927/1959">ca. 1927-1959</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">7</container>
+                            <container type="folder">10</container>
+                            <unittitle>Faculty and student evaluation</unittitle>
+                            <unitdate certainty="approximate" normal="1948/1969">ca. 1948-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">7</container>
+                            <container type="folder">11</container>
+                            <unittitle>Inventory of artifacts</unittitle>
+                        </did>
+                    </c03> 
+                    <c03 level="file">
+                        <did>
+                            <container type="box">7</container>
+                            <container type="folder">12</container>
+                            <unittitle>Invitations and announcements</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">7</container>
+                            <container type="folder">13</container>
+                            <unittitle>Journal</unittitle>
+                            <unitdate normal="1920">1920</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">7</container>
+                            <container type="folder">14</container>
+                            <unittitle>Key to catalogue numbers of Wyman Collection</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">7</container>
+                            <container type="folder">15</container>
+                            <unittitle>Lectures and speaking engagements</unittitle>
+                            <unitdate normal="1933/1972">1933-1972</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">7</container>
+                            <container type="folder">16</container>
+                            <unittitle>Miscellaneous</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">7</container>
+                            <container type="folder">17</container>
+                            <unittitle>Museum programs, flyers, catalogues</unittitle>
+                            <unitdate certainty="approximate" normal="1954/1970">ca. 1954-1970</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">7</container>
+                            <container type="folder">18</container>
+                            <unittitle>Captions for exhibits</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">7</container>
+                            <container type="folder">19</container>
+                            <unittitle>Outlines</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">7</container>
+                            <container type="folder">20</container>
+                            <unittitle>Teaching materials</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">7</container>
+                            <container type="folder">21</container>
+                            <unittitle>Travel logs and itineraries</unittitle>
+                        </did>
+                    </c03>
+                </c02> 
+                <c02 level="subseries">
+                    <did>
+                        <unittitle>Subseries III: Essays and publications</unittitle>
+                    </did>
+                    <scopecontent>
+                        <p>This series is arranged alphabetically. It contains bibliography, essays, 
+                            journal articles, newsletters, publications, and papers and publications 
+                            by others.</p>
+                    </scopecontent>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">8</container>
+                            <container type="folder">1</container>
+                            <unittitle>Bibliography</unittitle>
+                            <unitdate normal="1922-1959">1922-1959</unitdate>
+                            <unitdate normal="1970">1970</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">8</container>
+                            <container type="folder">2</container>
+                            <unittitle>Essays</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">8</container>
+                            <container type="folder">3</container>
+                            <unittitle>Journal articles</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">8</container>
+                            <container type="folder">4</container>
+                            <unittitle>Newsletters</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">8</container>
+                            <container type="folder">5</container>
+                            <unittitle>Publications</unittitle>
+                            <unitdate certainty="approximate" normal="1920/1929">1920s</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">8</container>
+                            <container type="folder">6</container>
+                            <unittitle>Publications</unittitle>
+                            <unitdate certainty="approximate" normal="1930/1939">1930s</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">8</container>
+                            <container type="folder">7</container>
+                            <unittitle>Publications</unittitle>
+                            <unitdate certainty="approximate" normal="1940/1949">1940s</unitdate>
+                        </did>
+                    </c03> 
+                    <c03 level="file">
+                        <did>
+                            <container type="box">8</container>
+                            <container type="folder">8</container>
+                            <unittitle>Publications</unittitle>
+                            <unitdate certainty="approximate" normal="1950/1959">1950s</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">8</container>
+                            <container type="folder">9</container>
+                            <unittitle>Publications</unittitle>
+                            <unitdate certainty="approximate" normal="1960/1979">1960s-1970s</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">8</container>
+                            <container type="folder">10</container>
+                            <unittitle>Papers and publications by others</unittitle>
+                            <unitdate certainty="approximate" normal="1912/1968">ca 1912-1968</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did><unittitle>Subseries 4: Lecture note cards</unittitle></did>
+                    <scopecontent><p>Lecture note cards from his teaching days at Boston University on the topics of American Indians, Chinese, Japanese, and Indian culture and art.</p></scopecontent>
+                    <c03 level="file">
+                        <did><container type="box">9</container>
+                            <unittitle>Lecture note cards-American Indians</unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did><container type="box">10</container>
+                            <unittitle>Lecture note cards-American Indians/China and Japan</unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did><container type="box">11</container>
+                            <unittitle>Lecture note cards-China and Japan/India</unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did><container type="box">12</container>
+                            <unittitle>Lecture note cards-India </unittitle></did>
+                    </c03>
+                </c02> 
+            </c01>
+        </dsc> 
+    </archdesc></ead>

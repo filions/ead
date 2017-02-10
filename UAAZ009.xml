@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+ audience="internal" id="a0"> 
+	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special
+		Collections//text(US::AzU::The Douglas family of Arizona)//en""UAAZ009.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper encodinganalog="title"> The Douglas family of Arizona
+	 		<date normal="1960/1961" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">1960-1961</date></titleproper>
+	 	<titleproper type="filing" altrender="nodisplay"> The Douglas family of Arizona</titleproper>
+	 	<author>Processed by staff.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date normal= "2014" era= "ce" calendar = "gregorian">; 2014</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Erika B. Castaño. 
+  		<date era="ce" encodinganalog="date" normal="20140729">July 29, 20014</date></creation> 
+	 <langusage>Finding aid is in<language> English.</language></langusage>
+  	<descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+  </profiledesc> 
+</eadheader> 
+<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name:"> The Douglas Family of Arizona
+		<unitdate type="inclusive" label="Dates:" normal="1960/1961">1960-1961</unitdate></unittitle>	 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	 repositorycode="AzU" countrycode="us">AZ 009</unitid> 
+	 <origination label="Creator:"> 
+	 	<persname source="lcnaf" encodinganalog="100">Martin, Douglas D. (Douglas DeVeny), 1885-1963</persname></origination> 
+  	<abstract label="Abstract:">Original typescript of address given by Lewis W. Douglas Oct.
+  		19, 1961 before the Arizona Committee of the Newcomen Society in North
+  		America.</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent>0.1 linear feet</extent></physdesc>	 
+	 <repository label="Repository:"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository>
+  	<langmaterial>Materials are in <language encodinganalog="546" langcode="eng"
+  		scriptcode="Latin">English</language> </langmaterial>
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+	 <p> No Restrictions</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>The Douglas Family of Arizona(AZ 009). Special
+  		Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+	<relatedmaterial encodinganalog="5441">
+		<head>Related Materials</head>
+		<p>Other materials pertaining to Lewis W. Douglas can be found in the <extref href="http://www.azarchivesonline.org/xtf/view?docId=ead/uoa/UAAZ290.xml" role="text/html" actuate="onrequest" show="new">Lewis W. Douglas Papers</extref></p>
+	</relatedmaterial>
+	
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head>
+  	<bioghist><p>The Douglas family was a prominent Arizona mining family whose members greatly figured in the mining and political life of the state of Arizona.</p>
+  		<p>James Douglas was born in Quebec, Canada in 1837 to a Scottish family and whose father, James, the first, was a prominent surgeon and alienist. James Douglas studied Liberal Arts at the University of Edinburgh and Queen's College in Ontario. Upon completing degrees he decided to attend medical school at Laval University. It was at Laval that he met a Professor Thomas Hunt who encouraged him to take an interest in his father's mining properties. This relationship would lead to Douglas's long career in mining.</p>
+  		<p>Professor Hunt and Douglas developed and patented a process for reducing copper ore called the Hunt-Douglas process. This process would bring Douglas and his family to the United States, and ultimately to Arizona. The Douglas came to the Southwest in 1880 when a small metals firm called Phelps Dodge hired Douglas to survey land in Morenci and Bisbee. Settling in Bisbee, Douglas continued to work for Phelps Dodge as assayer. He rose through the ranks of the company eventually becoming its president in 1908. He died June 25, 1918.</p></bioghist>
+  	<bioghist><p>James Stuart Douglas was born in Quebec, Canada in 1868 and was the eldest son of James and Naomi Douglas. James S. Douglas was seven years old when his family immigrated to Pennsylvania, and in 1889 he joined his father in Arizona Territory. James was educated in Canada and New York, and even attempted homesteading in Manitoba during his youth. James Stuart returned to Arizona Territory and tried his hand at dry farming in Sulphur Springs, east of Bisbee. This proved to be a failure, which lead him to the family business of mining. James S. Douglas joined Phelps Dodge as an assayer and rose steadily in the company becoming superintendent of the Phelps Dodge Copper Basin, the Big Bug, and Senator Mines by 1900. Along with W. H. Brophy he founded the border town of Douglas, Arizona which he named for his father James Douglas. In addition he founded the Bank of Douglas, and the Bank of Bisbee, and for a time was the President of the Nacozari Railroad Company.</p>
+  		<p>When the first World War broke out in 1914, James Stuart left for France where he was in charge of distributing American Red Cross stores, but before he left he acquired the rights to a mine called Little Daisy, later renamed United Verde Extension, in Jerome, Arizona. Experts undervalued the mine and there was no expectation that it would yield much, but James "Rawhide Jimmy" Douglas directed his men to dig deeper than the previous owners, and what would emerge is one of the richest loads the mining community had ever seen. At its apex the mine paid out $150,000,000 in gold, silver, and copper ore.</p>
+  		<p>After the war, James S. Douglas returned to Arizona and focused his efforts on philanthropic matters. Growing increasingly disquieted with the state of U. S. politics, Douglass decided to return to Canada in 1939. Douglas would remain in Canada for the rest of his life, seldom visiting Arizona.  James S. Douglas died January 2, 1949.</p>
+  	</bioghist>
+  	<bioghist><p>Lewis Williams Douglas was July 2, 1894 in Bisbee, Arizona Territory to James Stuart Douglas and his wife, Josephine. The early part of his childhood was spent in Bisbee and Nacozari de Garcia a where his father worked as a manager Phelps Dodge copper mines.  When he was 11 years old, at the urging of his grandfather James Douglas Sr., was sent to Hackley School in Tarrytown, New York, and later Montclair Academy in New Jersey, graduating in 1912. Douglas attended Amherst College graduating in 1916 with a degree in economics.</p>
+  		<p> After graduation, he briefly attended Massachusetts Institute of Technology focusing his studies on mining engineering. When United States entered World War I he left school to enter Officers Training Camp in San Francisco. He was commissioned as a second lieutenant attached to the 91st Infantry Division, and later served on General William Johnson's staff. At the close of the war Douglas received the Belgian Croix de Guerre and a citation from General John Pershing.</p> 
+  		<p>Upon his return from Europe, he taught classes at Amherst and took law classes at Harvard University. It was also during this time that he meet his wife, Margaret "Peggy" Zinsser, and were married in 1921.</p>
+  		<p>Lewis Douglas entered political life when he decided to run for the lower house of the Arizona State House of Representatives. He served a single term in the Arizona State House of Representatives before turning is eyes to running for the vacant Congressional seat that Carl Hayden had left so that Hayden could run for U. S. Senate. Douglas served as Arizona Congressman at large district from 1927-1932. He was selected by President Franklin Roosevelt to serve as Director of the Budget in 1933. Douglas would later serve as the U.S. Ambassador to the United Kingdom from 1947 to 1950.</p>
+  		<p>Returning from Great Britain in 1950, Douglas settled in Tucson, Arizona. He would remain active in business and politics for the remainder of his life, serving on numerous boards and supporting candidates at both the state and national level. Lewis Douglas died in Tucson, Arizona March 7, 1974.</p></bioghist>
+  </bioghist> 
+  <arrangement id="a4" encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+	 <p>This collection is organized into two series.</p>	 
+  	<list>
+  		<item>Series I: Speech drafts
+  			<unitdate normal="1961">1961</unitdate></item>
+  		<item>Series II: Miscellaneous
+  			<unitdate normal="1961">1961</unitdate></item>
+  	</list>
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>Original typescript of address given Oct. 19, 1961 before the Arizona Committee of the Newcomen Society in North America. Includes several preliminary drafts, with holograph notes by Lewis W. Douglas. Also contains correspondence, a typescript of Lewis Douglas' introductory speech, a guest list of those attending dinner meeting, and related papers.</p> 
+  </scopecontent> 
+	<relatedmaterial id="a6" encodinganalog="5441"><p></p></relatedmaterial> 
+  	<controlaccess>
+  		<head>Access Terms</head>
+  		<list type="simple">
+  			<item>
+  				<persname encodinganalog="700" source="lcnaf" role="creator">Douglas, Lewis W. (Lewis Williams), 1894-1974.</persname>
+  			</item>
+  			<item>
+  				<persname encodinganalog="600" role="subject" source="lcnaf">Douglas, James, 1837-1918.</persname></item>
+  				<item>
+  					<persname encodinganalog="600" role="subject" source="lcnaf">Douglas, James S. (James Stuart), 1868-1949.</persname></item>
+  				<item>
+  				<famname encodinganalog="00" source="lcsh" role="creator">Douglas family </famname>
+  			</item>
+  			<item>
+  				<corpname encodinganalog="610" role="subject" source="lcnaf">Newcomen Society in North America.</corpname>
+  			</item>
+  			<item>
+  				<subject encodinganalog="650">Mines and mineral resources -- Arizona -- History.</subject>
+  			</item>
+  			<item>
+  				<subject encodinganalog="650">Deportation -- Arizona -- Bisbee.</subject>
+  			</item>
+  		</list>
+  	</controlaccess>
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+		  <unittitle> Series I: Speech Drafts
+			 <unitdate type="inclusive">1961</unitdate></unittitle> 
+		</did>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">1</container> 
+	 			<unittitle>Draft 1</unittitle>
+	 		</did> 
+	 	</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <container type="folder">2</container> 
+			 <unittitle>Draft 2</unittitle>
+		  </did> 
+		</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">3</container> 
+	 			<unittitle>Draft 3</unittitle>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">4</container> 
+	 			<unittitle>Draft 4</unittitle>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">5</container> 
+	 			<unittitle>Final Version as Given</unittitle>
+	 		</did> 
+	 	</c02>
+	 </c01>
+  	<c01 level="series" id="ser2">
+  		<did> 
+  			<unittitle> Series II: Miscellaneous
+  				<unitdate type="inclusive">1960-1961</unitdate></unittitle> 
+  		</did> 
+  		<c02 level="file"> 
+  			<did> <container type="box">1</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>Micellanoues Papers and Notes</unittitle>
+  				<unitdate>1961</unitdate>
+  			</did> 
+  		</c02>
+  		<c02>
+  		<did> <container type="box">1</container> 
+  			<container type="folder">7</container> 
+  			<unittitle>Correspondence</unittitle>
+  			<unitdate>1960-1961</unitdate>
+  		</did> 
+  		</c02>
+  	</c01>
+  </dsc> 
+</archdesc></ead>

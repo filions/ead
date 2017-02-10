@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+   <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0"> 
+      <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special Collections//text
+		(US::AzU::The Desert Laboratory of the Carnegie Institution of Washington: History and Achievements)//en""UAAZ425.xml"
+      </eadid> 
+      <filedesc> 
+         <titlestmt> 
+         	<titleproper encodinganalog="title">The Desert Laboratory of the Carnegie Institution of Washington: History and Achievements
+	 	       <date normal="1981" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">1981</date>
+	 	       <!-- BE SURE TO POPULATE "date normal= "YYYY/YYYY" attribute. PLACE ATTRIBUTE DATES BETWEEN "   " -->
+	 	    </titleproper>
+         	<titleproper type="filing" altrender="nodisplay"> The Desert Laboratory of the Carnegie Institution of Washington: History and Achievements
+	 	    <!-- [IF AN INDIVIDUAL IS ASSOCIATED LIST LAST NAME, (FIRST NAME MIDDLE INITIAL.) i.e. Flannery, (John S.) COLLECTION DESCRIPTION] OR 
+	 	    [IF NO SPECIFIC PERSON IS ASSOCIATED LIST THE COLLECTION NAME AND DESCRIPTION (i.e. International Student Council general files) -->
+            </titleproper>
+	        <author>Processed by Staff.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date normal= "2016" era= "ce" calendar = "gregorian">; 2016</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+            <date era="ce" encodinganalog="date" normal="20160406">April 06, 2016</date>
+  	     </creation><!-- BE SURE TO POPULATE "date normal= YYYYMMDD" attribute. PLACE ATTRIBUTE DATES BETWEEN "  " -->
+	     <langusage>Finding aid encoded in<language> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc>
+   </eadheader> 
+   <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+      <did id="a1"> 
+         <head>Collection Summary</head> 
+      	<unittitle encodinganalog="245" label="Collection Name:"> The Desert Laboratory of the Carnegie Institution of Washington: History and Achievements
+            <unitdate type="inclusive" label="Dates:" normal="1981">1981</unitdate>
+  	     </unittitle><!-- BE SURE TO POPULATE "Dates normal= yyyy/yyyy" attribute.  PLACE ATTRIBUTE DATES BETWEEN "  " -->	 
+	     <unitid label="Collection Number:" encodinganalog="099" repositorycode="AzU" countrycode="us">AZ 425</unitid>
+	     <origination label="Creator:"> 
+            <persname source="lcnaf" encodinganalog="100">McGinnies, William Grovernor, 1899-1990.</persname> 
+	     </origination> <!-- CHANGE TAG TO CORPNAME, IF CREATOR IS A COROPORATION/ BUSINESS ETC.  CHANGE "100" ATTRIBUTE TO 110-->
+      	<abstract label="Abstract:">William Grovenor McGinnies was an arid lands ecologist, educator; University of Arizona Assistant Professor, 1927-1929, 
+      								Associate Professor, 1930-1932, Acting Head of the Botany Department, 1932-1935, Director of Lab Tree Research, 1960-1964, 
+      								Director of Office of Arid Land Studies and Professor of Dendrochronology, 1965-1969, Research ecologist Office of Arid Land Studies, 
+      								1969-1974. Originally published as Discovering the Desert: Legacy of the Carnegie Desert Botanical Laboratory, by the University of 
+      								Arizona Press, Tucson, 1981. Original typescript with figures and photographs.</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description:"><extent>.4 linear feet</extent></physdesc>	 
+	     <repository label="Repository:"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng" scriptcode="Latin">English.</language></langmaterial>
+   	        <!-- CHANGE OR ADD FIELD IF MATERIALS ARE IN OTHER LANGUAGES. BE SURE TO CHANGE langcode "" ATTRIBUTE-->
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+         <p>There are no restrictions on this collection.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+      	<p>The Desert Laboratory of the Carnegie Institution of Washington: History and Achievements (AZ 425). Special Collections, University of Arizona Libraries.</p>
+      </prefercite>
+   	<acqinfo>
+   		<head>Acquisition Information</head>
+   		<p>Acquired as gift, 1981.</p>
+   	</acqinfo>
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Staff.</p>
+      </processinfo>
+      <bioghist id="a2" encodinganalog="545"> 
+         <head>Biographical Note</head> 
+      	<p>Arid lands ecologist, educator; University of Arizona Assistant Professor, 1927-1929, Associate Professor, 1930-1932, Acting Head of the Botany Department, 1932-1935, 
+      	Director of Lab Tree Research, 1960-1964, Director of Office of Arid Land Studies and Professor of Dendrochronology, 1965-1969, Research ecologist Office of 
+      	Arid Land Studies, 1969-1974.</p> 
+      </bioghist> 
+      <scopecontent id="a3" encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>Original typescript with figures and photographs.</p> 
+      </scopecontent>
+   	<relatedmaterial id="a6" encodinganalog="5441">
+   		<p>Published as Discovering the Desert: Legacy of the Carnegie Desert Botanical Laboratory, by the University of Arizona Press, Tucson, 1981.</p>
+   		<p>Related materials may be found at: AZ 356, AZ 518, AZ 566.</p>
+   	</relatedmaterial>
+      <controlaccess>
+         <head>Access Terms</head>
+         <list type="simple"> <!-- USE SOURCE OR RULES ELEMENT Source=lcnaf or lcsh; Rules=aacr2 or dacs or local.  BE SURE TO CHANGE encodinganalog="  " ATTRIBUTE. ALSO, BE SURE TO DELETE ANY TAGS YOU DO NOT USE-->
+  		    <item>
+  			   <corpname encodinganalog="610" source= "lcnaf">Desert Botanical Laboratory of the Carnegie Institution -- History.</corpname><!-- 610 regular; 611 conference; 710 contributor; 711 conference contributor -->
+  		    </item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Botanical laboratories -- Arizona -- Tucson.</subject>
+         	</item>
+  		    <item>
+  			   <subject encodinganalog="650" source= "lcsh">Desert ecology -- Arizona.</subject>
+  		    </item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Desert ecology -- Sonoran Desert.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Desert plants -- Arizona.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Desert plants -- Sonoran Desert.</subject>
+         	</item>
+         	<item>
+         		<persname encodinganalog="700" source= "lcnaf">McGinnies, William Grovenor, 1899-1990. Discovering the desert.</persname><!-- 600 Creator; 700 Contributor -->
+         	</item>
+         </list>
+      </controlaccess>
+   </archdesc>
+</ead>

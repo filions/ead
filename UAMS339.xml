@@ -1,0 +1,1111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?filetitle Broadsides from Mexico Collection?>
+<ead relatedencoding="MARC21"> 
+<eadheader audience="internal" findaidstatus="edited-full-draft"
+ langencoding="iso639-2b"> 
+  <eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
+	 Special Collections//text(US::AzU::Broadsides from Mexico Collection)//en"
+	 "UAMS339.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Broadsides from Mexico Collection, 
+		  <date>1676-1927, bulk 1820-1927</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Theresa A. Strottman
+		  and Natalia Kaczkurkin.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+		<publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		  Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+</address> 
+		<date>&#x00A9; 2006</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation encodinganalog="500">Inventory encoded by Peggy Cabrera. 
+		<date>July 2004</date></creation> 
+	 <langusage>Inventory is in<language langcode="en" encodinganalog="546">
+		English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper encodinganalog="245$a">Broadsides from Mexico Collection, 
+		<date>1676-1927, bulk 1820-1927</date></titleproper> 
+	 <num>Collection Number: MS 339</num> 
+	 <publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Theresa A. Strottman and Natalia Kaczkurkin</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>August 2000</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Peggy Cabrera</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 2006. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name:">Broadsides from
+		Mexico Collection, 
+		<unitdate type="inclusive" normal="">1676-1927, bulk
+		  1820-1927</unitdate></unittitle> 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	  repositorycode="AzU" countrycode="us">MS 339</unitid> 
+	 <origination label="Provenance:">This collection does not have any specific
+		purchase or accession records in Special Collections which indicate its
+		provenance. It was purchased in the 1970s from the Texas based Serendipity Co.
+		The Lilly Library in Bloomington, Indiana sold these broadsides via Serendipity
+		Co. because they were duplicates. There is a folder containing a control file
+		documenting the provenance of a small number of related materials which have
+		been incorporated into this collection</origination>
+	 <abstract label="Abstract:">This collection contains approximately 2,000
+		Mexican broadsides, publicly distributed documents, issued by various offices
+		of the federal, state, municipal, and local governments during the 19th and
+		early 20th centuries. Apart from a few broadsides in French in the Zacatecas (5
+		of 5) folder, all the broadsides are in Spanish</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+		encodinganalog="300">8 linear feet</extent></physdesc> 
+	 <repository label="Repository:"> 
+		<corpname encodinganalog="110">University of Arizona Libraries, Special
+		  Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+</address></repository> 
+  </did> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Restrictions</head> 
+	 <p>None.</p> 
+  </accessrestrict> 
+  <userestrict encodinganalog="540"> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Credit Line</head> 
+	 <p>Broadsides from Mexico Collection (MS 339). Special
+		Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into two series:</p> 
+	 <list> 
+		<item>Series I. State Broadsides, 
+		  <unitdate type="inclusive"
+			normal="1820/1927">1820-1927</unitdate></item> 
+	 </list> 
+	 <list> 
+		<item>Series II. Federal Government Broadsides, 
+		  <unitdate type="inclusive"
+			normal="1676/1910">1676-1910</unitdate></item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>Topics referred to in these broadsides include invasions by Spain,
+		France and the United States of America; mobilization for wars, including the
+		Mexican American War; soldiers; elections; government positions; decretos
+		(decrees); courts; prisoners; and financial issues, such as taxes, budgets, and
+		customs. Often the broadsides in the individual state folders contain
+		information from the federal government which the governor of the state
+		released and signed. Some documents refer to the political conflicts between
+		those who supported the Roman Catholic Church and those who advocated rigorous
+		anti-clericalism. Also included are specific Plans, a 19th century aspect of
+		Mexican political culture whereby a military or political leader would publish
+		a Plan, usually named after where it was issued, and wait to see how many other
+		political and military leaders would support it.</p> 
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Santa Anna, Antonio L&#x00F3;pez de, --
+			 1794?-1876</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Bustamante, Anastasio, --
+			 1780-1853</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Alamillo, J. Trinidad, --
+			 1857-1937</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Ju&#x00E1;rez, Benito, --
+			 1806-1872</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Gomez, Gilardo</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Betancourt, Alberto</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Iturbide, Agust&#x00ED;n de, --
+			 1783-1824</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <corpname encodinganalog="110">Catholic Church -- Mexico --
+			 History</corpname></item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject>Religion and politics -- Mexico</subject> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject>Church and state -- Mexico -- History</subject> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject>Printing -- Mexico</subject> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject>Politics and culture -- Mexico</subject> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject>Broadsides -- Mexico</subject> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject>Elections -- Mexico -- History</subject> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject>Mexican War, 1846-1848</subject> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <geogname>Mexico -- Church history</geogname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <geogname>Mexico -- History -- French Invasion, 1838-1839</geogname>
+		  </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <geogname>Mexico -- Politics and government -- 1540-1810</geogname>
+		  </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <geogname>Mexico -- Politics and government -- 1821-1861</geogname>
+		  </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <geogname>Mexico -- Politics and government -- 1861-1867</geogname>
+		  </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <geogname>Mexico -- Politics and government -- 1867-1910</geogname>
+		  </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <geogname>Mexico -- Politics and government -- 1910-1946</geogname>
+		  </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <geogname>Mexico -- History -- Spanish Invasion, 1829</geogname>
+		  </item> 
+	 </list> 
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+		  <unittitle>Series I: State Broadsides, 
+			 <unitdate type="inclusive"
+			  normal="1820/1927">1820-1927</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Aguascalientes, 
+				<unitdate type="inclusive" normal="">August 26, 1829 - October 19,
+				  1852</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Subjects referred to are mobilization for wars, including the
+				Mexican American War, soldiers, anti-clericalism, taxes, lists of jurors, and
+				declarations of civil holidays at Christmas.</p> 
+			 <p>Individuals mentioned include Felipe Cosio and August&#x00ED;n
+				Domingues.</p> 
+			 <p>Two oversize items are located in Oversize Flat File.</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Baja California, 
+				<unitdate type="inclusive" normal="1911">April 22,
+				  1911</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Chiapas, 
+				<unitdate type="inclusive" normal="">August 1, 1829 - June 10,
+				  1849</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Subjects referred to are congressional fear of a Spanish invasion
+				in 1829, government positions, the governor's speech opening a congressional
+				session, and decretos (decrees) concerning securing property and financing for
+				construction of a Palacio de los Supremos Poderes and a military parade
+				ground.</p> 
+			 <p>Individuals mentioned include Ignacio Barberena.</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">4</container> 
+			 <unittitle>Chihuahua, 
+				<unitdate type="inclusive" normal="">March 6, 1829 - May 26,
+				  1910</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Subjects referred to are congressional sessions, support of
+				federal form of government for the nation, Roman Catholicism as the only state
+				sanctioned religion, border disputes and alliances with Durango, judicial
+				procedures, rebellion in various areas of Mexico including what is now New
+				Mexico (1837), defeat of Texan invaders by soldiers from Santa Fe (1841),
+				mobilization for wars, including the Mexican American War, soldiers, elections,
+				taxes, government officials, and a 1910 contract signed by Porfirio D&#x00ED;az
+				deeding a small gold and silver mine to an American owned company. Plans
+				mentioned include the Plan de Cuernavaca (1834) and the Plan de Jalapa
+				(1850).</p> 
+			 <p>Individuals mentioned include Jos&#x00E9; Antonio Arce,
+				Jos&#x00E9; Isidro Madero, Jos&#x00E9; S. Pareja, Albino Perez, Jos&#x00E9;
+				Gonzales, Manuel Armijo, Jos&#x00E9; Mariano Monteverde, Ignacio Ocadiz,
+				Estevan Aguirre, and Porfirio D&#x00ED;az.</p> 
+			 <p>One oversize item is located in Oversize Flat File.</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Coahuila, 
+				<unitdate type="inclusive" normal="">October 17, 1829 - September
+				  6, 1927</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Subjects referred to are decretos (decrees), state finances,
+				government positions and appointments, taxes, budgets, elections, legislative
+				pardons for prisoners, commutations of death sentences, a border conflict with
+				Durango, cultivation of tobacco, and health and building codes. There are also
+				permits to build electricity plants, telephone service, telegraph lines, and
+				factories for producing various goods such as beer. There are no documents from
+				the period of the Mexican American War.</p> 
+			 <p>Individuals mentioned include Francisco Mej&#x00ED;a, Miguel
+				C&#x00E1;rdenas, Venustiano Carranza, Evaristo Madero, Hip&#x00F3;lito Charles,
+				Jesus de Valle, and Jesus Vald&#x00E9;s Mej&#x00ED;a.</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">6</container> 
+			 <unittitle>Colima (1 of 3), 
+				<unitdate type="inclusive" normal="">July 10, 1829 - December 16,
+				  1889</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Subjects referred to are decretos (decrees), contracts and
+				announcements. Some topics referred to in these broadsides are government
+				positions, state finances, taxes, budgets, elections, setting coach fares, land
+				management, railroad construction, care of prisoners and syphilitic women,
+				regulations against graffiti, monetary reform, tramway construction, thatch
+				fences, regulations for pharmacies, weavers workshops, and slaughterhouses,
+				education, and support of local students studying in other states. There is a
+				fifty-nine year gap between the first document which refers to an anticipated
+				Spanish invasion in 1829 and the rest of the broadsides which were issued in
+				1888 and 1889. </p> 
+			 <p>Individuals mentioned include Gilardo G&#x00F3;mez and Alberto
+				Betancourt and J. Trinidad Alamillo.</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">7</container> 
+			 <unittitle>Colima (2 of 3), 
+				<unitdate type="inclusive" normal="">March 16, 1890 - December 16,
+				  1891</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Subjects referred to are decretos (decrees), contracts, government
+				positions, elections, taxes, state finances, monetary reform, pardons of prison
+				sentences, imposition of the maximum sentence, education standards, support of
+				local students studying in other states, standard weights and measures,
+				business regulations, restriction of the hours during which bells could be rung
+				in the capital, establishment of an orphanage, regulations regarding visible
+				address tiles on residences, regulations against graffiti, regulation
+				prohibiting people, horses and cattle from crossing railroad tracks,
+				slaughterhouse regulations, contracts for electric lighting and tram
+				construction, and permits to build factories for producing various goods such
+				as ice.</p> 
+			 <p>Individuals mentioned include Gilardo G&#x00F3;mez, Alberto
+				Betancourt, and J. Trinidad Alamillo.</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Colima (3 of 3), 
+				<unitdate type="inclusive" normal="">January 14, 1892 - August 8,
+				  1894</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Subjects referred to are decretos (decrees), contracts, government
+				positions, elections, taxes on coffee production, livestock and harvests, state
+				finances, budgets, regulation prohibiting horsemen, carriages and cattle from
+				crossing railroad tracks, registration of births, time limits for settling
+				estates, definitions of injury, calumny, and defamation, fuel for public
+				electric lighting, water shortages, pardon of the death penalty but commuted to
+				maximum prison term, professional certification, education, widows and orphans,
+				licenses for beggars, prohibitions against carrying arms, and regulations for
+				slaughterhouses, coach fares, domestic servants, scribes and notaries.</p> 
+			 <p>Individuals mentioned include J. Trinidad Alamillo, Gilardo
+				G&#x00F3;mez, Alberto Betancourt, Miguel Alvarez, Remigio Rodr&#x00ED;guez, and
+				Francisco Santa Cruz.</p> 
+			 <p>One oversize item is located in Oversize Flat File .</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Durango, 
+				<unitdate type="inclusive" normal="">August 27, 1828 - May 15,
+				  1844</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Subjects referred to are government positions, criticisms and
+				pleas from municipalities to the state government, state support for the Plan
+				of Jalapa, state transfer of 30,000 pesos to the federal government, civilian
+				militia, two senators appointed to manage state government when the state
+				legislature was dissolved during a revolution in 1832, need for police in
+				Durango when it became the state capital in 1844, and the new governor's letter
+				to the citizens</p> 
+			 <p>Individuals mentioned include Francisco Elorriaga, Jos&#x00E9;
+				Ignacio Gutierrez, and Jos&#x00E9; A. Heredia. </p> 
+			 <p>Eight oversize items are located in Oversize Flat File.</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Guanajuato, 
+				<unitdate type="inclusive" normal="">December 22, 1828 - May 7,
+				  1847</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Subjects referred to are government positions, expulsion of
+				Spaniards from Mexico, the 1829 invasion by Spain, declaration of the end of
+				the national emergency and a call for reestablishment of civil order,
+				evacuation of Spaniards, coalition with Jalisco, Queretaro, Zacatecas, San Luis
+				Potosi, Michoacan and Durango, blockade of Mexico by France, 1838 war with
+				France, state request to the federal government asking punishment for those who
+				support Mexico adopting a monarchical form of government, call for the end of
+				the despotic administration of Antonio Lopez de Santa Anna, fund to aid those
+				wounded defending the Constitution, list of citizens qualified to be elected to
+				Congress, state payments to the federal government to help finance the war with
+				Texas, declaration nullifying the 1846 elections, and economic measures during
+				the Mexican American War. </p> 
+			 <p>Individuals mentioned include Juan Morales, Antonio L&#x00F3;pez
+				de Santa Anna, and Lorenzo Arellano.</p> 
+			 <p>Seven oversize items are located in Oversize Flat File.</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">4</container> 
+			 <unittitle>Guerrero, 
+				<unitdate type="inclusive" normal="">March 16, 1910 - July 28,
+				  1910</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Subjects referred to are decretos (decrees), reform of the penal
+				code, fines assessed in courts, taxes, and the tax on the slaughter of
+				cattle.</p> 
+			 <p>Individuals mentioned include Silvano Saavedra, Damian Flores.</p>
+			 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Jalisco, 
+				<unitdate type="inclusive" normal="">September 18, 1820 - August
+				  19, 1855</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Subjects referred to are the Comandante General de Nueva Galicia
+				freeing all French except criminals, independence, free establishment of
+				factories, elimination of titles, certifications and union memberships as
+				requirements for working at any profession, prohibiting cavalry escorts to all
+				ranks below capitanes generales, the Roman Catholic Church, anticlericalism,
+				civil versus clerical rights and monies, the Spanish Cortes, elections, support
+				for the federal form of government, laws for Guadalajara, 1828 Spanish
+				invasion, government positions, prisoners to work mines, Plan de Zavaleta,
+				constitutional reform, ports for the Pacific trade, 1838 French invasion,
+				tobacco monopoly, Plan de Cuernavaca, the Mexican American War, and monetary
+				reform. Plans mentioned include the Plan de Cuernavaca .</p> 
+			 <p>Individuals mentioned include Jos&#x00E9; de la Cruz,
+				August&#x00ED;n Iturbide, Vicente Guerrero, Jos&#x00E9; Ignacio Ca&#x00F1;edo,
+				Rafael Sanchez, Antonio L&#x00F3;pez de Santa Anna and Joaqu&#x00ED;n
+				Angulo.</p> 
+			 <p>Fifty-five oversize items are located in Oversize Flat File</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">6</container> 
+			 <unittitle>Mexico, 
+				<unitdate type="inclusive" normal="">April 5, 1823 - November 28,
+				  1911</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Subjects referred to are recognizing Iturbide as emperor defined
+				as treason, elections, courts, gauchupinesco, 1829 Spanish invasion, finances,
+				budgets, taxes, government loans, customs, ports, government positions, army,
+				support of the Catholic Church, anticlericalism, exile, asylum, honorific
+				orders and decorations, support for widows of soldiers, 1838 French invasion,
+				veterans, counterfeit money, Tacubaya, protecting Mexican industry from cheaper
+				imports, factory seals to identify their products, amnesty for political
+				prisoners, destruction of a building by soldiers and prisoners to build a
+				plaza, caudillismo, Mexican American War, the coalition formed by the states of
+				Aguascalientes, Jaliso, Michoacan, Quer&#x00E9;taro, San Luis Potos&#x00ED; and
+				Zacatecas, and recess of the state congress. Plans mentioned include the Plan
+				de San Luis Potos&#x00ED;.</p> 
+			 <p>Individuals mentioned include August&#x00ED;n Iturbide,
+				Jos&#x00E9; Mariano Marin, Francisco Molinos del Campo, Lorenzo de Zavala,
+				Anastasio Bustamante, Jos&#x00E9; Mar&#x00ED;a Esquivel, Jos&#x00E9;
+				Mar&#x00ED;a Rozas, Mariano Buen Abad, Luis Gonzaga Vieyra, Antonio
+				L&#x00F3;pez de Santa Anna, Nicol&#x00E1;s Bravo, Valent&#x00ED;n Canalizo,
+				Manuel Rincon, Jos&#x00E9; Joaqu&#x00ED;n de Herrera, Mucio Barquera and
+				Mariano Paredes y Arrillaga.</p> 
+			 <p>Twenty-seven oversize items located in Oversize Flat File.</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">7</container> 
+			 <unittitle>Michoac&#x00E1;n, 
+				<unitdate type="inclusive" normal="">December 20, 1828 - July 3,
+				  1848</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">8</container> 
+			 <unittitle>Morelos, 
+				<unitdate type="inclusive" normal="">January 5, 1910 - December 17,
+				  1910</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Subjects referred to are government positions, public works
+				department for the state, leave of absence for the governor, finances, taxes,
+				alcohol, sugar, funding for medicine, meals and employees for seven state
+				hospitals, schools, tax exemption for Roman Catholic Church justified by its
+				good works and provision of free public education, taxation and regulation of
+				the cattle industry, fees for rides in coaches, permission from federal
+				government to import rifles and ammunition, and elections.</p> 
+			 <p>Individuals mentioned include Pablo Escandon and August&#x00ED;n
+				Hurtado de Mendoza.</p> 
+			 <p>Two oversize items are located in Oversize Flat File.</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">9</container> 
+			 <unittitle>Nuevo Le&#x00F3;n, 
+				<unitdate type="inclusive" normal="">January 28, 1828 - April 5,
+				  1852</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Subjects referred to are government positions, lists of jurors,
+				lists of voters, Roman Catholic Church, anticlericalism, state appropriation of
+				Roman Catholic Church properties, public order restored by the garrison,
+				submission of state governments to the federal government, support of Roman
+				Catholic Church, military alliance with surrounding states, 1836 negotiations
+				to release Santa Anna who was captured by Texans, 1838 break of diplomatic
+				relations between France and Mexico, national foreign debt, revolution, support
+				Plan de Jalisco, control Indian tribes on the frontier, Plan de San Luis
+				Potosi, taxes, finances, Mexican American War, call to arms, draft all males
+				between the ages of eighteen and fifty, and support of the federal government.
+				</p> 
+			 <p>Individuals mentioned include Manuel Mariano de Llano, Jos&#x00E9;
+				Rafael de la Garza, Gregorio Zambrano, Antonio L&#x00F3;pez de Santa Anna, Juan
+				Bautista de Arizpe, Juan Nepomuceno de la Garza y Evia, Mariano Paredes y
+				Arrillaga, Jos&#x00E9; Mar&#x00ED;a de Ortega, and Jesus Garza Gonzales.</p> 
+			 <p>Two oversize items are located in Oversize Flat File.</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">10</container> 
+			 <unittitle>Oaxaca, 
+				<unitdate type="inclusive" normal="">January 4, 1828 - April 28,
+				  1838</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Subjects referred to are the opening statement of the Second
+				Constitutional Congress expressing confidence in the rule of law after a period
+				of turmoil, army, garrison, and the 1838 break of diplomatic relations between
+				France and Mexico.</p> 
+			 <p>Individuals mentioned include Francisco Monterrubio and
+				Jos&#x00E9; L&#x00F3;pez de Ortigosa.</p> 
+			 <p>One oversize items is located in Oversize Flat File.</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">11</container> 
+			 <unittitle>Puebla, 
+				<unitdate type="inclusive" normal="">April 28, 1821 - December 25,
+				  1867</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Subjects referred to are government positions, Plan de Iturbide,
+				alliance with Oaxaca and Veracruz, end civil obligation to tithe, licenses for
+				arms, army, garrison, elections, call to arms, 1838 French invasion, penalties
+				for theft, roads, ports, cotton, Mexican American War, moving the seat of
+				government, customs, state debt, cacao, taxes, judicial districts, anarchists,
+				vagrants, restrict hours for ringing Church bells, Cinco de Mayo
+				commemorations, education, mental hospital, state seals on documents,
+				elections, squatters, war debt, fines, institution for deaf and dumb children,
+				adult education, tax on imported flour, decretos (decrees), and abolition of
+				road tolls. </p> 
+			 <p>Individuals mentioned include Juan Mendoz, August&#x00ED;n de
+				Iturbide, Anastasio Bustamante, Juan Mugica y Osorio, Antonio L&#x00F3;pez de
+				Santa Anna, Patricio F&#x00FA;rlong, Cosme F&#x00FA;rlong, Rafael J.
+				Garc&#x00ED;a, Cayetano Mar&#x00ED;a Perez de Leon, Manuel Rincon, Domingo
+				Ybarra, Nicol&#x00E1;s Bravo, Miguel C. de Alatriste, Benito Ju&#x00E1;rez and
+				Jos&#x00E9; de la Luz Palafox.</p> 
+			 <p>Twenty-five oversize items are located in Oversize Flat File.</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Quer&#x00E9;taro, 
+				<unitdate type="inclusive" normal="">February 14, 1829 - June 30,
+				  1911</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Subjects referred to are government positions, expulsion of
+				Spaniards, revolt in Yucatan, Congress, military revolt in Jalapa, coalition
+				with Durango, Guanajuato, Jalisco, Michoacan, San Luis Potosi, and Zacatecas,
+				state funeral, courts, judges, support of federal government, Mexican American
+				War, Battle of Cerro Gordo, protecting Mexican industry from cheaper imports,
+				Roman Catholic Church, Mass, processions, 1838 French blockade, elections and
+				state revenues.</p> 
+			 <p>Individuals mentioned include Jos&#x00E9; Rafael Canalizo, Lino
+				Ramirez, and Miguel L&#x00F3;pez de Ecala.</p> 
+			 <p>Seven oversize items are located in Oversize Flat File.</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">2</container> 
+			 <unittitle>San Luis Potos&#x00ED; (1 of 2), 
+				<unitdate type="inclusive" normal="">November 25, 1826 - Nov. 28,
+				  1848</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Subjects referred to are government positions, Spanish battle with
+				Mexican forces under Santa Anna at Tampico in 1829, elections, Spanish
+				conspirators, expulsion of Spaniards, support for the federal government,
+				support for soldiers who fought the Spanish, salaries for government positions,
+				robbery of a Roman Catholic Church, Plan de Jalapa, jurors, finances, taxes,
+				alcabalas, excise taxes, state loans, judges, land sales by the government,
+				soldiers, Mexican American War, ports, export duties, state funeral, tax relief
+				for poor earning under 100 pesos per year, money, survey of prefecturas, arming
+				rural ranches and haciendas, revolts in the mountains, tobacco, sentences for
+				crimes, roads, Roman Catholic Church, wills, lumber imports, army, and the
+				Treaty of Guadalupe Hidalgo.</p> 
+			 <p>Individuals mentioned include Julian de los Reyes, Antonio
+				L&#x00F3;pez de Santa Anna, Vicente Romero, Luis de Cortazar, Manuel Sanchez,
+				Jos&#x00E9; Maria Rincon Gallardo, Jos&#x00E9; Maria Flores, Mariano Martinez,
+				Matilde Ord&#x00E1;z, Juan Jos&#x00E9; Zenon Fernandez, Manuel Gomez Pedrosa,
+				Anastasio Bustamante, Juan Valent&#x00ED;n Amador, Ramon Adame, and Jos&#x00E9;
+				Mar&#x00ED;a Otahegui.</p> 
+			 <p>Ten oversize items are located in Oversize Flat File. </p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">3</container> 
+			 <unittitle>San Luis Potos&#x00ED; (2 of 2), 
+				<unitdate type="inclusive" normal="">April 24, 1850 - Nov. 29,
+				  1861</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Subjects referred to are government positions, elections, state
+				appointment of bishops, soldiers, army, constitutional reform, Masses said for
+				Iturbide and the army, congressional agenda, Baja California, support for the
+				horses of army personnel, health of army personnel, Indian tribes, judges,
+				courts, legislators, senate, governor, anarchy, finances, budgets, taxes,
+				loans, state and federal debts, levy of mounted men to maintain safety on the
+				roads, amnesty for revolutionaries, tierras baldias colonizable by
+				corporations, counterfeit money, professional certification, customs, ports,
+				defense of the Isthmus of Tehuantepec, Mexican American War, local wines and
+				aguardientes, defense of Matamoros, monopoly for playing cards, salaries,
+				public granary, grain, ranches and haciendas, civil unrest, La Reforma,
+				alliance with Zacatecas, Aguascalientes, Guanajuato, Morelia, and Tamaulipas,
+				compensation for property ruined during the war for La Reforma, martial law,
+				honorific titles, levies, exile of reactionary soldiers, federal constitution,
+				pardon for all sentenced to corporal punishment except murderers,
+				revolutionaries, and a proclamation denying state recognition of foreign
+				authorities. </p> 
+			 <p>Individuals mentioned include Julian de los Reyes, Jos&#x00E9;
+				Joaqu&#x00ED;n Herrera, Miguel Laso, Jos&#x00E9; Guadalupe de los Reyes,
+				Mariano Arista, Manuel D&#x00ED;az de la Vega, Vicente Chico Sein, Benito
+				Ju&#x00E1;rez, Francisco P. Villanueva and S&#x00F3;stenes Escandon.</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">4</container> 
+			 <unittitle>Sinaloa, 
+				<unitdate type="inclusive" normal="">October 31, 1833 - November
+				  29, 1846</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Subjects referred to are government positions, the Mexican
+				American War, call to arms, and call for unity.</p> 
+			 <p>Individuals mentioned include Carlos Espinosa de los Monteros.</p>
+			 
+			 <p>Three oversize items are located in Oversize Flat File.</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Sonora, 
+				<unitdate type="inclusive" normal="">February 25, 1832 - May 21,
+				  1846</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Subjects referred to are ports, state congress' rejection of
+				federal congress' proposed constitutional reforms which limited states rights,
+				and the Mexican American War.</p> 
+			 <p>Individuals mentioned include Antonio L&#x00F3;pez de Santa Anna,
+				Jos&#x00E9; Ramon Terrazas, Manuel Escalante y Mason, and Juan Bautista
+				Gandara.</p> 
+			 <p>One oversize item is located in Oversize Flat File.</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">6</container> 
+			 <unittitle>Tamaulipas, 
+				<unitdate type="inclusive" normal="">November 20, 1829 - June 30,
+				  1887</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Subjects referred to are 1828 Spanish invasion, support of the
+				federal system of government, state legislature's dismissal of the governor,
+				elections, and municipal government regulations.</p> 
+			 <p>Individuals mentioned include Jos&#x00E9; Antonio Fernandez and
+				Gregorio de Leon.</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">7</container> 
+			 <unittitle>Tlaxcala, 
+				<unitdate type="inclusive" normal="NaN/1829">September 21, 1828 -
+				  1829</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Subjects referred to are the 1829 Spanish invasion and
+				soldiers.</p> 
+			 <p>Individuals mentioned include Jos&#x00E9; Antonio de
+				Salda&#x00F1;a and Crist&#x00F3;bal Gonzalez Angulo.</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">8</container> 
+			 <unittitle>Veracruz, 
+				<unitdate type="inclusive" normal="">May 30, 1820 - February 1,
+				  1834</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Subjects referred to are elections, aid for the widows of those
+				killed during the 1828 Spanish invasion, and congress.</p> 
+			 <p>Individuals mentioned include Jos&#x00E9; Davila Davila, Antonio
+				Juille y Moreno, Antonio L&#x00F3;pez de Santa Anna and Leonardo Romay.</p> 
+			 <p>Two oversize items are located in Oversize Flat File.</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">9</container> 
+			 <unittitle>Yucat&#x00E1;n, 
+				<unitdate type="inclusive" normal="">January 4, 1834 - January 2,
+				  1846</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Subjects referred to are the state army, jurors, and
+				Yucat&#x00E1;n's refusal to recognize the federal government because it broke
+				the pact which tied Yuc&#x00E1;tan to the rest of the republic.</p> 
+			 <p>Individuals mentioned include Francisco Martinez de Arredondo,
+				Jos&#x00E9; Tiburcio L&#x00F3;pez, and Miguel Barbachano.</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">10</container> 
+			 <unittitle>Zacatecas (1 of 5), 
+				<unitdate type="inclusive" normal="">July 1, 1824 - December 14,
+				  1850</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Subjects referred to are constitutions, laws, decretos (decrees),
+				government positions, finances, taxes, tobacco, alcohol, legitimacy, Roman
+				Catholic Church, clergy, cattle, civil militia, loans from the state to the
+				federal government, draft, juntas patrioticas, army, soldiers, judges,
+				certification of doctors, Spanish colonial rule, independence, elections,
+				anticlericalism, suspension of the federal government's religious reforms which
+				were rejected by most of the nation to maintain peace, threatened invasion by
+				Durango, 1836 war with Texas, pardons for Texan prisoners, changes in the
+				departamento status of Texas, New Mexico, California, Coahuila, Colima, and
+				Tlaxcala, French blockade, customs, ports, aid from the state to pueblos during
+				epidemics, mints, copper, contraband, and Tacubaya.</p> 
+			 <p>Individuals mentioned include Pedro Jos&#x00E9; Lopez de Nava,
+				Francisco Garcia, Vicente Guerro, Mariano del Castillo, Jos&#x00E9; A. Heredia,
+				Manuel G. Cosio, Santiago Villegas, Fernando Franco, and Antonio L&#x00F3;pez
+				de Santa Anna.</p> 
+			 <p>One hundred forty-three oversize items are located in Oversize
+				Flat File.</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Zacatecas (2 of 5), 
+				<unitdate type="inclusive" normal="">January 3, 1851 - December 10,
+				  1853</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Subjects referred to are customs, ports, tobacco, Tacubaya,
+				regulation of sulfuric acid, mail rates for newspapers, taxes on the slaughter
+				of cattle, congress, decretos, finances, debt, ships, Spaniards with Mexican
+				citizenship, judges, courts, Roman Catholic Church, manos muertos, army, Texas,
+				fines and fees, prisons, government positions, ayuntamientos, juntas
+				municipales, pensions for veterans wives and children, draft, alliance with
+				Chihuahua and Durango, commission to negotiate the Treaty of Guadalupe Hidalgo,
+				identity documents, public education, schools, elections, retired military
+				personnel, marriages, regulation of printing presses, support for the state
+				government of San Luis Potosi battling rebels, cholera epidemic, public health
+				care funding, alcohol taxes, state funeral, judges, constitutional reform, ban
+				on the sale of certain foods, holidays, anticlericalism, subsidies for feeding
+				cavalry horses, war on the frontiers with Indian tribes, salaries for
+				government positions, per diem, travel expenses, prisoners, cartographic and
+				statistical study of the state, expropriation of salt lands and waters,
+				regulations for religious processions, Holy Week, payments by the state to the
+				federal government, Mexican made fabrics exempt from taxes, convicts
+				subcontracted from the state to mine owners to work the mines, state granting a
+				villa the right to hold a ten day fair in late January every year for five
+				years, fees for grazing animals in private fields bordering roads, national
+				guard registration, and counterfeit money. </p> 
+			 <p>Individuals mentioned include Antonio L&#x00F3;pez de Santa Anna,
+				Fernando Franco, Marcos de Esparza, Jos&#x00E9; Mariano de Salas, Casiano
+				Gonzalez Veyna, Manuel Gonzalez Cosio, Antonio Garza, Jos&#x00E9;
+				Joaqu&#x00ED;n de Herrera, Jos&#x00E9; Gonzalez y Echeverria and Mariano
+				Arista.</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Zacatecas (3 of 5), 
+				<unitdate type="inclusive" normal="">January 14, 1854 - December
+				  24, 1856</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Subjects referred to are education, salaries for teachers,
+				assayers, decretos, Indian tribes, bandits, Roman Catholic Church,
+				anticlericalism, elections Isthmus de Tehuantepec, regulations for religious
+				processions, customs, ports, Plan de Guadalajara, thieves to be judged by
+				military courts, cavalry, national guard, government positions, army,
+				observances for Santa Anna's birthday, finances, budgets, taxes, courts,
+				judges, explosives, mines, appropriation of private buildings for military
+				barracks, hospitals, etc., road construction, rebels, commercial licenses for
+				alcohol, tax on mules and burros for road maintenance, valid military
+				decorations, exile of Carbajal, dress code, state seals on diplomas, limit
+				political rights of tenants, affirm private property to salt lands and waters,
+				president of the republic assumption of the states' right to appoint clergy,
+				tithe no longer a civil obligation, mourning for federal minister, tobacco,
+				reestablishment of the Jesuits, military pardon for deserters, pensions,
+				monetary reform, security cards for foreign residents, paper made in Mexico,
+				military draft, regulations defining the nationality of companies with foreign
+				investors, censorship of books including imported books, vagrants, regulations
+				for the border with Texas, federal government assumes the title for tierras
+				baldias, monetary regulations, counterfeit money, mandatory arms in areas with
+				Indian tribes, commercial code, regulations for lighting all public, religious
+				and educational buildings during the evening hours of public celebrations,
+				paint houses one of four approved colors, Plan de Ayutla, prohibition of
+				fireworks, freedom of the press, slaughter of cattle, mail, mandatory public
+				education, soldiers, three months pardon for convicts, and exports of gold and
+				silver. </p> 
+			 <p>Individuals mentioned include Jos&#x00E9; Gonzalez y Echeverria,
+				Mariano Arista, Antonio L&#x00F3;pez de Santa Anna, Ventura Mora, Manuel
+				Gonzalez, Francisco G. Pav&#x00F3;n, Manuel Zavala, Fernando A. Velasco,
+				Victoriano Zamora, Juan Alvarez, and Ignacio Comonfort.</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Zacatecas (4 of 5), 
+				<unitdate type="inclusive" normal="">January 1, 1857 - May 20,
+				  1862</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Subjects referred to are compensation for those lands Santa Anna
+				expropriated, thieves, government positions, reversal of reestablishment of the
+				Jesuits, criminal sentences, negate military honors given by Santa Anna from
+				1853 to 1855, recognize military honors of those who fought in Guaymas in 1854,
+				finances, budgets, taxes, tobacco, military deserters, permission to marry from
+				bosses or officers necessary for government and military personnel, Plan de
+				Ayutla, courts, judges, bandits, Indian tribes, silver exports, customs, ports,
+				elections, regulations for religious processions, eliminate veterans privileges
+				and salaries, national guard, curfew and martial law, cancellation of railroad
+				contract, pardon for convicts with only two months of their sentences
+				remaining, establishment of a lottery to pay the national debt to New York
+				bankers, salt lands income dedicated to education, closing congress until order
+				reestablished, Constitution of 1857, La Reforma, suspension of privileges
+				granted mining corporations, Roman Catholic Church, anticlericalism,
+				confiscation of convents, nationalization of Church wealth, bandits, exile
+				opposition, disarm public, Independence Day and other public holidays,
+				principle of equality, amnesty for political crimes, decretos, minors under
+				twenty-one need their parents permission to marry, Battle of Azogueros,
+				opposition forces of S. Ramirez, money, sale of Roman Catholic Church property,
+				sanitation, elections, army, frontier ports, secularize hospitals, laws
+				protecting peons, civil marriage, prohibit imprisonment by private individuals
+				of others to gain ransom or personal services, reward for execution of
+				reactionary enemies of La Reforma, freedom of the press, grains, education,
+				1862 French invasion, draft, and separation of church and state.</p> 
+			 <p>Individuals mentioned include Victoriano Zamora, Ignacio
+				Comonfort, Antonio L&#x00F3;pez de Santa Anna, Juan Zuazua, Jos&#x00E9;
+				Mar&#x00ED;a Castro, Jesus Gonzalez Ortega, Manuel Gonzalez Cosio, Benito
+				Ju&#x00E1;rez, Jos&#x00E9; Mar&#x00ED;a Sanchez y Roman, Silverio Ramirez,
+				Miguel Auza and Severo Cosio.</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">4</container> 
+			 <unittitle>Zacatecas (5 of 5), 
+				<unitdate type="inclusive" normal="">June 2, 1862 - October
+				  1914</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Subjects referred to are finances, taxes, alcabalas, elections,
+				salary cuts for government employees to fund the war with France, medals for
+				veterans of Aculcingo and Puebla, Mexican silk, courts, judges, decretos,
+				national guard, alcohol, trees, contraband, military deserters, ports, customs,
+				widows must prove the death of their first spouse before remarrying, mines,
+				military discipline for drunkenness, convicts sentenced to Yucatan or Baja
+				California, Roman Catholic Church property, anticlericalism, honors from the
+				state congress, public education of children and adults, coaches, owners of
+				haciendas mandated to allow wood cutting and charcoal making on their lands,
+				draft, weapons, nullify French laws, government confiscation and sale of
+				traitors' property, Cinco de Mayo fiesta, identity documents for foreigners,
+				right to an annual ten day fair in Mazapil, vandalism, bandits, mail, veterans,
+				cavalry, prohibition of meetings of more than five, moving the capital of the
+				federal government to San Luis Potosi, reduction of state functions to defense
+				and security, foreign investment and colonists, pensions, treatment of French
+				prisoners of war to equal treatment of Mexican prisoners of war held by the
+				French, definition of traitors, government positions, resignations from
+				government positions, regulations for grains and seeds, crimes by army
+				personnel, pardon for military convicts, nullify decisions of French courts,
+				slaughter of cattle, surrender of arms for fee paid by government, official
+				mourning, abandonment of the capital by the state government, state of siege,
+				suspension of government functions, release prisoners to the army, annulment of
+				the state of siege, French occupation of the state, fines for using the streets
+				as cloacas or communes, French holiday, sweep streets, French laws and
+				regulations, interim government appointed by Juarez, money, elections, and Plan
+				de Tuxtepec.</p> 
+			 <p>Individuals mentioned include Severo Cosio, Benito Ju&#x00E1;rez,
+				Ignacio Zaragoza, Ignacio de la Llave, Jesus Gonzalez Ortega, Jos&#x00E9; Maria
+				Saldierna, Jos&#x00E9; M. Avila, Maximiliano, Miguel Auza, Trinidad G. de la
+				Cadena, Genaro Raigosa, and August&#x00ED;n L&#x00F3;pez de Nava. </p> 
+		  </scopecontent> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series II: Federal Government Broadsides, 
+			 <unitdate type="inclusive"
+			  normal="1676/1910">1676-1910</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">5</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Ministerio de Fomento, Colonizaci&#x00F3;n, Industria y
+				Comercio, 
+				<unitdate type="inclusive" normal="">October 15, 1823 - October 21,
+				  1889</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">5</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Ministerio de Hacienda (Secretar&#x00ED;a de Hacienda) (1
+				of 2), 
+				<unitdate type="inclusive" normal="">April 22, 1822 - October 28,
+				  1828</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">5</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Ministerio de Hacienda (Secretar&#x00ED;a de Hacienda) (2
+				of 2), 
+				<unitdate type="inclusive" normal="">January 28, 1829 - April 3,
+				  1845</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">5</container> <container
+			 type="folder">4</container> 
+			 <unittitle>Ministerio de Justicia y Negocios Eclesi&#x00E1;sticos, 
+				<unitdate type="inclusive" normal="">June 11, 1822 - July 5,
+				  1835</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">5</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Presidente de la Rep&#x00FA;blica, 
+				<unitdate type="inclusive" normal="">September 17, 1828 - June 1,
+				  1835</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">5</container> <container
+			 type="folder">6</container> 
+			 <unittitle>Primera Secretar&#x00ED;a de Estado, Departamento Interior
+				(1 of 2), 
+				<unitdate type="inclusive" normal="">January 19, 1827 - December
+				  29, 1830</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">6</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Primera Secretar&#x00ED;a de Estado, Departamento Interior
+				(2 of 2), 
+				<unitdate type="inclusive" normal="">January 4, 1831 - February 29,
+				  1836</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">6</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Primera Secretar&#x00ED;a de Estado, Secci&#x00F3;n de
+				Gobierno, 
+				<unitdate type="inclusive" normal="">May 24, 1822 - October 9,
+				  1826</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">6</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Primera Secretar&#x00ED;a de Estado, Miscellaneous
+				Departments, 
+				<unitdate type="inclusive" normal="">March 1, 1822 - May 31,
+				  1910</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">6</container> <container
+			 type="folder">4</container> 
+			 <unittitle>Secretar&#x00ED;a de Guerra y Marina (1 of 2), 
+				<unitdate type="inclusive" normal="">March 28, 1822 - September 24,
+				  1828</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">6</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Secretar&#x00ED;a de Guerra y Marina (2 of 2), 
+				<unitdate type="inclusive" normal="">January 28, 1829 - July 11,
+				  1856</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">6</container> <container
+			 type="folder">6</container> 
+			 <unittitle>Mexico - Miscellaneous Offices, 
+				<unitdate type="inclusive" normal="">October 2, 1822 - December 12,
+				  1882</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">6</container> <container
+			 type="folder">7</container> 
+			 <unittitle>Mexico - Miscellaneous Secretar&#x00ED;as, 
+				<unitdate type="inclusive" normal="">August 2, 1824 - January 16,
+				  1889</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">7</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Miscellaneous Mexican Broadsides, 
+				<unitdate type="inclusive" normal="">1676 - March 8,
+				  1828</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Seventy-three items are located in Oversize Flat File.</p> 
+		  </scopecontent> 
+		</c02> 
+	 </c01>
+  </dsc> 
+</archdesc></ead>

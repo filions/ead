@@ -1,0 +1,1787 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+ audience="internal" id="a0"> 
+	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special
+		Collections//text(US::AzU::Tucson Poetry Festival Records)//en""UAMS510.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper> Tucson Poetry Festival Records,
+	 		<date normal="1982/2004" era="ce" calendar="gregorian" certainty="approximate">circa 1982-2004</date>
+	 	</titleproper> 
+	 	<author>Processed by Stephen R. Curley.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date normal= "2013" era= "ce" calendar = "gregorian">;2013</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Stephen R. Curley. 
+  		<date era="ce" encodinganalog="date" normal="20131014">October 14, 2013</date></creation> 
+	 <langusage>Finding aid is in<language> English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+  	<titleproper>Tucson Poetry Festival Records,<date era= "ce" calendar= "gregorian" normal="1982/2004" certainty="approximate"> circa 1982-2004</date></titleproper> 
+	 <num>Collection Number: MS 510</num> 
+  	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Stephen R. Curley</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date era="ce" calendar="gregorian">October 14, 2013</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Stephen R. Curley</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 2013. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name:"> Tucson Poetry Festival Records
+		<unitdate type="inclusive" label="Dates" normal="1982/2004">1984-2004</unitdate></unittitle>	 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	 repositorycode="AzU" countrycode="us"> MS 510</unitid> 
+	 <origination label="Creator:"> 
+		<corpname source="lcnaf" encodinganalog="110"> Tucson Poetry Festival</corpname></origination> 
+  	<abstract label="Abstract:">Records, 1982-2004. This collection contains materials relating to the Tucson Poetry Festival, an annual festival dedicated to promoting poetry as a medium for artistic expression. The collection is comprised primarily of correspondence with poets and the administrative materials pertaining to Tucson Poetry Festival coordination, such as grant writing. Newspapers and festival ephemera(TPF programs, flyers, and posters) are also included.</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent>6 Linear feet</extent></physdesc>	 
+	 <repository label="Repository:"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository>
+  	<langmaterial>Materials in <language encodinganalog="546" langcode="eng"
+  		scriptcode="Latin">English</language></langmaterial>
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+	 <p>None</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>Tucson Poetry Festival Records(MS 510).Special
+  		Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+  	<p> The Tucson Poetry Festival(TPF) is one of the oldest poetry festivals in the United States. The TPF has been part of the Tucson creative writing landscape since its inception in 1981 by founding president, John Hudak. However, the first Tucson Poetry Festival was held in 1983. TPF has exposed renowned poets to Tucson for over 30 years and is still in existence. Some of the most renowned poets include: Allen Ginsberg, Joy Harjo, Simon Ortiz, W.S. Merwin, Yusef Komunyakaa, Sherman Alexie, Diane di Prima, Wanda Coleman, N. Scott Momaday, Gary Snyder, and many more greats.</p> 
+  </bioghist> 
+  <arrangement id="a4" encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+	 <p>This collection is organized into 7 series</p>	 
+	 <list> 
+		<item> Series I- Administration
+		  <unitdate era="ce" calendar="gregorian">1983-2002</unitdate></item> 
+	 	<item> Series II- Poets
+	 		<unitdate era="ce" calendar="gregorian">1983-2002</unitdate></item> 
+	 	<item> Series III- Contests
+	 		<unitdate era="ce" calendar="gregorian">1992-2003</unitdate></item> 
+	 	<item> Series IV- Grants
+	 		<unitdate era="ce" calendar="gregorian">1982-2002</unitdate></item> 
+	 	<item> Series V- Newspapers
+	 		<unitdate era="ce" calendar="gregorian">1983-2002</unitdate></item> 
+	 	<item> Series VI- Ephemera
+	 		<unitdate era="ce" calendar="gregorian">1983-2004</unitdate></item> 
+	 	<item> Series VII- T-Shirts</item></list> 
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p> This collection spans the entirety of the Tucson Poetry Festival’s existence from 1982-2004. The bulk of the collection is administrative materials pertaining to TPF committee coordination. Administrative materials include committee minutes and agendas, poet-organization correspondence, and grant applications. Newspapers and ephemera such as TPF posters, flyers, and program trifolds are also included. Users will be able to investigate the relationship with poets and the organizational structure that the TPF has constructed throughout their history as a venue for artistic expression.</p> 
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+		  <subject encodinganalog="650" source="lcsh"> Poetry -- Collections</subject> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <geogname encodinganalog="651" source="lcsh"> Arts -- Arizona</geogname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject encodinganalog="650" source="lcsh"> Poets, American -- 20th Century </subject> </item> 
+	 </list> 
+  	<list><item><subject encodinganalog="650" source="lcsh"> American poetry -- 20th Century</subject>></item></list>
+	 <list> 
+		<item> 
+		  <subject encodinganalog="650" source="lcsh"> Nonprofit organizations -- Arizona</subject> </item> 
+	 </list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh"> Nonprofit organizations -- Management</subject> </item> 
+  	</list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Correspondence</subject> </item> 
+  	</list> 
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+		  <unittitle> Series I- Administrative
+			 <unitdate type="inclusive" era="ce" calendar="gregorian">1983-2002 </unitdate></unittitle> 
+		</did> 
+	 	<scopecontent><p> Series is sorted by year. This series contains committee minutes and agendas, handwritten notes, handwritten media revisions, reference materials, volunteer information, venue agreements, contracted services, organization synopsis, treasury reports, donations, memorandums, preparatory notes on TPF programs, and correspondence. Correspondence is between the TPF, the public, and business partnerships. </p></scopecontent>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <container type="folder">1</container> 
+			 <unittitle>Administrative</unittitle>
+		  	<unitdate> 1983 </unitdate>
+		  </did> 
+		</c02> <c02 level="file"> 
+			<did> <container type="box">1</container> 
+				<container type="folder">2</container> 
+				<unittitle>Administrative</unittitle>
+				<unitdate> 1984</unitdate>
+			</did> 
+		</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder"> 3</container> 
+	 			<unittitle>Administrative</unittitle>
+	 			<unitdate> 1985</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">4</container> 
+	 			<unittitle>Adminstrative</unittitle>
+	 			<unitdate> 1986</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">5</container> 
+	 			<unittitle>Administrative</unittitle>
+	 			<unitdate> 1987</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">6</container> 
+	 			<unittitle>Adminstrative</unittitle>
+	 			<unitdate> 1988</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">7</container> 
+	 			<unittitle>Administrative</unittitle>
+	 			<unitdate> 1989</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">8</container> 
+	 			<unittitle>Administrative</unittitle>
+	 			<unitdate> 1990</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">9</container> 
+	 			<unittitle>Administrative</unittitle>
+	 			<unitdate> 1991</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">10</container> 
+	 			<unittitle>Administrative</unittitle>
+	 			<unitdate> 1992</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">11</container> 
+	 			<unittitle>Administrative</unittitle>
+	 			<unitdate> 1993</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">12</container> 
+	 			<unittitle>Administrative</unittitle>
+	 			<unitdate> 1994</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">13</container> 
+	 			<unittitle>Administrative</unittitle>
+	 			<unitdate> 1995</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">14</container> 
+	 			<unittitle>Administrative</unittitle>
+	 			<unitdate> 1996</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">15</container> 
+	 			<unittitle>Administrative</unittitle>
+	 			<unitdate> 1997</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">1</container> 
+	 			<unittitle>Administrative</unittitle>
+	 			<unitdate> 1998</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">2</container> 
+	 			<unittitle>Administrative</unittitle>
+	 			<unitdate> 1999</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">3</container> 
+	 			<unittitle>Administrative</unittitle>
+	 			<unitdate> 2000</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">2</container> 
+	 			<container type="folder">4</container> 
+	 			<unittitle>Administrative</unittitle>
+	 			<unitdate>2002</unitdate>
+	 		</did> 
+	 	</c02> 
+	 </c01> 
+  	<c01 level="series" id="ser2"> 
+  		<did> 
+  			<unittitle> Series II- Poets
+  				<unitdate type="inclusive" era="ce" calendar="gregorian"> 1983-2002</unitdate></unittitle> 
+  		</did> 
+  		<scopecontent><p> Series is sorted by year of annual poetry festival. Within each year, each poet is alphabetically arranged by surname. Poets were invited and participated, declined, or construed as prospects. Series contains correspondence between poets and TPF, biographies, profile pictures, and sample poetry produced by poets. </p></scopecontent>
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Ignatow, David</unittitle>
+  				<unitdate> 1983</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box"> 2</container> 
+  				<container type="folder"> 6</container> 
+  				<unittitle>Rios, Alberto</unittitle>
+  				<unitdate> 1983</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Snyder, Gary</unittitle>
+  				<unitdate> 1983</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>Inman, Will</unittitle>
+  				<unitdate> 1984</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">9</container> 
+  				<unittitle>Anderson, Barbara</unittitle>
+  				<unitdate> 1985</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box"> 2</container> 
+  				<container type="folder">10</container> 
+  				<unittitle>Carrol, Christopher</unittitle>
+  				<unitdate> 1985</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">11</container> 
+  				<unittitle>Dove, Rita</unittitle>
+  				<unitdate> 1985</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">12</container> 
+  				<unittitle>Ingalls, Jeremy</unittitle>
+  				<unitdate> 1985</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">13</container> 
+  				<unittitle>Johnson, Denis</unittitle>
+  				<unitdate> 1985</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">14</container> 
+  				<unittitle>Momaday, N. Scott</unittitle>
+  				<unitdate> 1985</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">15</container> 
+  				<unittitle>Pape, Greg</unittitle>
+  				<unitdate> 1985</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">16</container> 
+  				<unittitle>Rivera, Marina</unittitle>
+  				<unitdate> 1985</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">17</container> 
+  				<unittitle>Smith, Ken</unittitle>
+  				<unitdate> 1985</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">18</container> 
+  				<unittitle>Territory Dance Theatre</unittitle>
+  				<unitdate> 1985</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">19</container> 
+  				<unittitle>Levertov, Denise</unittitle>
+  				<unitdate> 1986</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">20</container> 
+  				<unittitle>Lykes, Dorothy</unittitle>
+  				<unitdate> 1986</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">21</container> 
+  				<unittitle>Ortiz, Simon</unittitle>
+  				<unitdate> 1986</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">22</container> 
+  				<unittitle>The Dark Bob</unittitle>
+  				<unitdate> 1986</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">23</container> 
+  				<unittitle>Wakoski, Diane</unittitle>
+  				<unitdate> 1986</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">24</container> 
+  				<unittitle>McCarthy, Eugene</unittitle>
+  				<unitdate> 1987</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">25</container> 
+  				<unittitle>Rios, Alberto</unittitle>
+  				<unitdate> 1987</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">26</container> 
+  				<unittitle>Bersenbrugge, Mei-Mei</unittitle>
+  				<unitdate> 1988</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">27</container> 
+  				<unittitle>Nichol, b.p.</unittitle>
+  				<unitdate> 1988</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">28</container> 
+  				<unittitle>Silliman, Ron</unittitle>
+  				<unitdate> 1989</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">2</container> 
+  				<container type="folder">29</container> 
+  				<unittitle>Tarn, Nathaniel</unittitle>
+  				<unitdate> 1989</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Creeley, Robert</unittitle>
+  				<unitdate> 1990</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Davis, Meg</unittitle>
+  				<unitdate> 1990</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Heaney, Seamus</unittitle>
+  				<unitdate> 1990</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Marlatt, Daphne</unittitle>
+  				<unitdate> 1990</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Miller, Jane</unittitle>
+  				<unitdate> 1990</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>Rose, Wendy</unittitle>
+  				<unitdate> 1990</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Silliman, Ron</unittitle>
+  				<unitdate> 1990</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>Tarn, Nathaniel</unittitle>
+  				<unitdate> 1990</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">9</container> 
+  				<unittitle>Baraka, Amiri</unittitle>
+  				<unitdate> 1991</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">10</container> 
+  				<unittitle>Ginsberg, Allen</unittitle>
+  				<unitdate> 1991</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">11</container> 
+  				<unittitle>Harjo, Joy</unittitle>
+  				<unitdate> 1991</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">12</container> 
+  				<unittitle>Hogue, Cynthia</unittitle>
+  				<unitdate> 1991</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">13</container> 
+  				<unittitle>Taylor, Cecil</unittitle>
+  				<unitdate> 1991</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">14</container> 
+  				<unittitle>Waldman, Anne</unittitle>
+  				<unitdate> 1991</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">15</container> 
+  				<unittitle>Ali, Agha Shahid</unittitle>
+  				<unitdate> 1992</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">16</container> 
+  				<unittitle>Anderson, Barbara</unittitle>
+  				<unitdate> 1992</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">17</container> 
+  				<unittitle>Bakken, Dick</unittitle>
+  				<unitdate> 1992</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">18</container> 
+  				<unittitle>Berry, Wendell</unittitle>
+  				<unitdate> 1992</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">19</container> 
+  				<unittitle>Bly, Robert</unittitle>
+  				<unitdate> 1992</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">20</container> 
+  				<unittitle>Clifton, Lucille</unittitle>
+  				<unitdate> 1992</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">21</container> 
+  				<unittitle>Dove, Rita</unittitle>
+  				<unitdate> 1992</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">22</container> 
+  				<unittitle>Gallagher, Tess</unittitle>
+  				<unitdate> 1992</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">23</container> 
+  				<unittitle>Ignatow, David</unittitle>
+  				<unitdate> 1992</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">24</container> 
+  				<unittitle>Merwin, William</unittitle>
+  				<unitdate> 1992</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">25</container> 
+  				<unittitle>Palmer, Michael</unittitle>
+  				<unitdate> 1992</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">26</container> 
+  				<unittitle>Snyder, Gary</unittitle>
+  				<unitdate> 1992</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">27</container> 
+  				<unittitle>Ali, Agha Shahid</unittitle>
+  				<unitdate> 1993</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">28</container> 
+  				<unittitle>Bly, Robert</unittitle>
+  				<unitdate> 1993</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">29</container> 
+  				<unittitle>Forche, Carolyn</unittitle>
+  				<unitdate> 1993</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">30</container> 
+  				<unittitle>Mitchell, Stephen</unittitle>
+  				<unitdate> 1993</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">31</container> 
+  				<unittitle>Noll, Bruce</unittitle>
+  				<unitdate> 1993</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">32</container> 
+  				<unittitle>Rios, Alberto</unittitle>
+  				<unitdate> 1993</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">33</container> 
+  				<unittitle>Rothenberg, Jerome</unittitle>
+  				<unitdate> 1993</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">34</container> 
+  				<unittitle>Waldrup, Rosemarie</unittitle>
+  				<unitdate> 1993</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">35</container> 
+  				<unittitle>Zepeda, Ofelia</unittitle>
+  				<unitdate> 1993</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">36</container> 
+  				<unittitle>Angelou, Maya</unittitle>
+  				<unitdate> 1994</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">37</container> 
+  				<unittitle>Anzaldua, Gloria</unittitle>
+  				<unitdate> 1994</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">38</container> 
+  				<unittitle>Cisneros, Sandra</unittitle>
+  				<unitdate> 1994</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">39</container> 
+  				<unittitle>Di Prima, Diana</unittitle>
+  				<unitdate> 1994</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">40</container> 
+  				<unittitle>Howe, Susan</unittitle>
+  				<unitdate> 1994</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">41</container> 
+  				<unittitle>Komunyakaa, Yosef</unittitle>
+  				<unitdate> 1994</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">42</container> 
+  				<unittitle>Mackey, Nathaniel</unittitle>
+  				<unitdate> 1994</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">43</container> 
+  				<unittitle>Martinez, Demetria</unittitle>
+  				<unitdate> 1994</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">44</container> 
+  				<unittitle>Milosz, Czeslaw</unittitle>
+  				<unitdate> 1994</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">45</container> 
+  				<unittitle>Penn, Barbara</unittitle>
+  				<unitdate> 1994</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">46</container> 
+  				<unittitle>Silko, Leslie</unittitle>
+  				<unitdate> 1994</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">47</container> 
+  				<unittitle>Walcott, Derek</unittitle>
+  				<unitdate> 1994</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">48</container> 
+  				<unittitle>Alarcon, Francisco X.</unittitle>
+  				<unitdate> 1995</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">49</container> 
+  				<unittitle>Amichai, Yehuda</unittitle>
+  				<unitdate> 1995</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">50</container> 
+  				<unittitle>Baker, David</unittitle>
+  				<unitdate> 1995</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">51</container> 
+  				<unittitle>Campo, Rafael</unittitle>
+  				<unitdate> 1995</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">3</container> 
+  				<container type="folder">52</container> 
+  				<unittitle>Di Prima, Diane</unittitle>
+  				<unitdate> 1995</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Hacker, Marilyn</unittitle>
+  				<unitdate> 1995</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Jordan, June</unittitle>
+  				<unitdate> 1995</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Miller, Jane</unittitle>
+  				<unitdate> 1995</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Olds, Sharon</unittitle>
+  				<unitdate> 1995</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Rickel, Boyer</unittitle>
+  				<unitdate> 1995</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>Ai</unittitle>
+  				<unitdate> 1996</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Ali, Agha Shahid</unittitle>
+  				<unitdate> 1996</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>Alexie, Sherman</unittitle>
+  				<unitdate> 1996</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">9</container> 
+  				<unittitle>Bidart, Frank</unittitle>
+  				<unitdate> 1996</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">10</container> 
+  				<unittitle>Boland, Eavan</unittitle>
+  				<unitdate> 1996</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">11</container> 
+  				<unittitle>Deming, Allison</unittitle>
+  				<unitdate> 1996</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">12</container> 
+  				<unittitle>Saenz, Benjamin</unittitle>
+  				<unitdate> 1996</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">13</container> 
+  				<unittitle>Cully, Barbara</unittitle>
+  				<unitdate> 1997</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">14</container> 
+  				<unittitle>Davis, Jon</unittitle>
+  				<unitdate> 1997</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">15</container> 
+  				<unittitle>Doty, Mark</unittitle>
+  				<unitdate> 1997</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">16</container> 
+  				<unittitle>Hejinian, Lyn</unittitle>
+  				<unitdate> 1997</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">17</container> 
+  				<unittitle>Howe, Mary</unittitle>
+  				<unitdate> 1997</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">18</container> 
+  				<unittitle>Kizer, Carolyn</unittitle>
+  				<unitdate> 1997</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">19</container> 
+  				<unittitle>Noguchi, Rick</unittitle>
+  				<unitdate> 1997</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">20</container> 
+  				<unittitle>Simic, Charles</unittitle>
+  				<unitdate> 1997</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">21</container> 
+  				<unittitle>Woody, Elizabeth</unittitle>
+  				<unitdate> 1997</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">22</container> 
+  				<unittitle>Zamara, Daisy</unittitle>
+  				<unitdate> 1997</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">23</container> 
+  				<unittitle>Baca, Jimmy</unittitle>
+  				<unitdate> 1998</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">24</container> 
+  				<unittitle>Byrkit, Becky</unittitle>
+  				<unitdate> 1998</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">25</container> 
+  				<unittitle>Chin, Marilyn</unittitle>
+  				<unitdate> 1998</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">26</container> 
+  				<unittitle>Deming, Alison</unittitle>
+  				<unitdate> 1998</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">27</container> 
+  				<unittitle>Hongo, Garret</unittitle>
+  				<unitdate> 1998</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">28</container> 
+  				<unittitle>Macdonald, Cynthia</unittitle>
+  				<unitdate> 1998</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">29</container> 
+  				<unittitle>Moss, Thylias</unittitle>
+  				<unitdate> 1998</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">30</container> 
+  				<unittitle>Simic, Charles</unittitle>
+  				<unitdate> 1998</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">31</container> 
+  				<unittitle>Amichai, Yehuda</unittitle>
+  				<unitdate> 1999</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">32</container> 
+  				<unittitle>Bernstein, Charles</unittitle>
+  				<unitdate> 1999</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">33</container> 
+  				<unittitle>Bly, Robert</unittitle>
+  				<unitdate> 1999</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">34</container> 
+  				<unittitle>Brooks, Jeffrey</unittitle>
+  				<unitdate> 1999</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">35</container> 
+  				<unittitle>Espada, Martin</unittitle>
+  				<unitdate> 1999</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">36</container> 
+  				<unittitle>Gluck, Louise</unittitle>
+  				<unitdate> 1999</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">37</container> 
+  				<unittitle>Hirshfield, Jane</unittitle>
+  				<unitdate> 1999</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">38</container> 
+  				<unittitle>Hunter, Robert</unittitle>
+  				<unitdate> 1999</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">39</container> 
+  				<unittitle>Lomatewama, Ramson</unittitle>
+  				<unitdate> 1999</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">40</container> 
+  				<unittitle>Mora, Pat</unittitle>
+  				<unitdate> 1999</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">41</container> 
+  				<unittitle>Moss, Thylias</unittitle>
+  				<unitdate> 1999</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">42</container> 
+  				<unittitle>Olds, Sharon</unittitle>
+  				<unitdate> 1999</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">43</container> 
+  				<unittitle>Oliver, Mary</unittitle>
+  				<unitdate> 1999</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Rich, Adrienne</unittitle>
+  				<unitdate> 1999</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder"> 2</container> 
+  				<unittitle>Root, William Pitt</unittitle>
+  				<unitdate> 1999</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Shapiro, David</unittitle>
+  				<unitdate> 1999</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Smith, Patricia</unittitle>
+  				<unitdate> 1999</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Snyder, Gary Sherman</unittitle>
+  				<unitdate> 1999</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>Woody, Elizabeth</unittitle>
+  				<unitdate> 1999</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Wright, Charles</unittitle>
+  				<unitdate> 1999</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>Coleman, Wanda</unittitle>
+  				<unitdate> 2000</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">9</container> 
+  				<unittitle>Divakaruni, Chitra Banerjee</unittitle>
+  				<unitdate> 2000</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">10</container> 
+  				<unittitle>Guest, Barbara</unittitle>
+  				<unitdate> 2000</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">11</container> 
+  				<unittitle>Herrera, Juan Felipe</unittitle>
+  				<unitdate> 2000</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">12</container> 
+  				<unittitle>Jim, Rex Lee</unittitle>
+  				<unitdate> 2000</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">13</container> 
+  				<unittitle>Kowit, Steve</unittitle>
+  				<unitdate> 2000</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">14</container> 
+  				<unittitle>Levine, Philip</unittitle>
+  				<unitdate> 2000</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">15</container> 
+  				<unittitle>Olds, Sharon</unittitle>
+  				<unitdate> 2000</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">16</container> 
+  				<unittitle>Mairs, Nancy</unittitle>
+  				<unitdate> 2000</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">17</container> 
+  				<unittitle>Mirikitani, Janice</unittitle>
+  				<unitdate> 2000</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">18</container> 
+  				<unittitle>Stern, Gerald</unittitle>
+  				<unitdate> 2000</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">19</container> 
+  				<unittitle>Sze, Arthur</unittitle>
+  				<unitdate> 2000</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">20</container> 
+  				<unittitle>Tohe, Laura</unittitle>
+  				<unitdate> 2000</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">21</container> 
+  				<unittitle> Valentine, Jean</unittitle>
+  				<unitdate> 2000</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">22</container> 
+  				<unittitle>Wendell, Berry</unittitle>
+  				<unitdate> 2000</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">23</container> 
+  				<unittitle>Wright, Charles</unittitle>
+  				<unitdate> 2000</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">24</container> 
+  				<unittitle>Yau, John</unittitle>
+  				<unitdate> 2000</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">25</container> 
+  				<unittitle>Kumin, Maxine</unittitle>
+  				<unitdate> 2001</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">26</container> 
+  				<unittitle>Alexander, Charles</unittitle>
+  				<unitdate> 2002</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">27</container> 
+  				<unittitle>Alexie, Sherman</unittitle>
+  				<unitdate> 2002</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">28</container> 
+  				<unittitle>Caroll, Andrew</unittitle>
+  				<unitdate> 2002</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">29</container> 
+  				<unittitle>Glazner, Gary Mex</unittitle>
+  				<unitdate> 2002</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">30</container> 
+  				<unittitle>Oliver, Mary</unittitle>
+  				<unitdate> 2002</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">31</container> 
+  				<unittitle>Miller, Jane</unittitle>
+  				<unitdate> 2002</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">32</container> 
+  				<unittitle>Rios, Alberto</unittitle>
+  				<unitdate> 2002</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">33</container> 
+  				<unittitle>Snyder, Gary</unittitle>
+  				<unitdate> 2002</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">34</container> 
+  				<unittitle>Waldman, Anne</unittitle>
+  				<unitdate> 2002</unitdate>
+  			</did> 
+  		</c02> 
+  	</c01> 
+  	<c01 level="series" id="ser3"> 
+  		<did> 
+  			<unittitle> Series III- Contests 
+  				<unitdate type="inclusive" era="ce" calendar="gregorian">1992-2003</unitdate></unittitle> 
+  		</did> 
+  		<scopecontent><p>Series contains three different types of contests: Statewide Poetry Contest, Bilingual Poetry Contest, and Pima County Adult Education Poetry Contest. Series is sorted by contest type, then by year within annual contest. These contests run concordantly with the Tucson Poetry Festival.  Materials within include correspondence with amateur poets and high school students who submitted poetic works for critique by TPF designated guest judge. Contains bounded collections of poetry as the contest final product.</p></scopecontent>
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">35</container> 
+  				<unittitle>Statewide Poetry Contest</unittitle>
+  				<unitdate> 1992-1993</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">36</container> 
+  				<unittitle>Statewide Poetry Contest</unittitle>
+  				<unitdate> 1996</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">6</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Statewide Poetry Contest</unittitle>
+  				<unitdate> 1998-2000</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">6</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Statewide Poetry Contest</unittitle>
+  				<unitdate> 2001-2002</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">6</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Bilingual Poetry Contest</unittitle>
+  				<unitdate>1996-2002</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">6</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Bilingual Poetry Contest</unittitle>
+  				<unitdate>2003</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">6</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Pima Adult Education Poetry Contest</unittitle>
+  				<unitdate>1998</unitdate>
+  			</did> 
+  		</c02> 
+  	</c01> 
+  	<c01 level="series" id="ser4"> 
+  		<did> 
+  			<unittitle> Series IV- Grants
+  				<unitdate type="inclusive" era="ce" calendar="gregorian">1982-2002</unitdate></unittitle> 
+  		</did> 
+  		<scopecontent><p> Series is sorted alphabetically by foundation, then by year. Materials contained in series pertain to descriptions of budget, grant proposal, festival history and past participants, foundation ‘how-to’ guides for grant writing criteria, committee member list intended for grant foundational assessment and liaison.  There are included some TPF committee- grant foundation correspondence. </p></scopecontent>
+  		<c02 level="file"> 
+  			<did> <container type="box">6</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>American Express</unittitle>
+  				<unitdate>1991</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">6</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Arizona Commission Arts</unittitle>
+  				<unitdate>1982-1993</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">6</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>Arizona Commission Arts</unittitle>
+  				<unitdate> 1994-200</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Arizona Commission Arts</unittitle>
+  				<unitdate> 2001-2002</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Arizona Humanities Council</unittitle>
+  				<unitdate>1985-1992</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Arizona Humanities Council</unittitle>
+  				<unitdate>1993-1995</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Citibank</unittitle>
+  				<unitdate>1989</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Community Foundation Southern Arizona</unittitle>
+  				<unitdate>1999-2002</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>DeGrazia Art Culture Foundation</unittitle>
+  				<unitdate>1984-1993</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Gannett Foundation</unittitle>
+  				<unitdate> 1984-1998</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>Hudson Webber Foundation</unittitle>
+  				<unitdate> 2000</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container> 
+  				<container type="folder">9</container> 
+  				<unittitle>J.C. Penney</unittitle>
+  				<unitdate>1998</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container> 
+  				<container type="folder">10</container> 
+  				<unittitle>Lanna Foundation</unittitle>
+  				<unitdate>1991</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container> 
+  				<container type="folder">11</container> 
+  				<unittitle>Marshall Fund Arizona</unittitle>
+  				<unitdate>1991</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container> 
+  				<container type="folder">12</container> 
+  				<unittitle>Mervyns</unittitle>
+  				<unitdate> 1991</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container> 
+  				<container type="folder">13</container> 
+  				<unittitle>Mountain Bell</unittitle>
+  				<unitdate>1986-1988</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container> 
+  				<container type="folder">14</container> 
+  				<unittitle>National Endowment Arts</unittitle>
+  				<unitdate> 1984-1995</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">7</container> 
+  				<container type="folder">15</container> 
+  				<unittitle>National Endowment Arts film grant</unittitle>
+  				<unitdate> 1993-1994</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Puffin Foundation</unittitle>
+  				<unitdate>1994</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Stonewall Foundation</unittitle>
+  				<unitdate>1982-1984</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Tucson Arts District</unittitle>
+  				<unitdate>1988</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Tucson Community Foundation</unittitle>
+  				<unitdate>1987-1998</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Tucson Partnership Inc.</unittitle>
+  				<unitdate>1991-1992</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>Tucson Pima Arts Council</unittitle>
+  				<unitdate>1985-1993</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Tucson Pima Arts Council</unittitle>
+  				<unitdate>1993-1997</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">8</container> 
+  				<unittitle> Tucson Pima Arts Council</unittitle>
+  				<unitdate>1997-2001</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">9</container> 
+  				<unittitle> Research Corporation</unittitle>
+  				<unitdate>1993</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">10</container> 
+  				<unittitle> US West Communications</unittitle>
+  				<unitdate>1993</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">11</container> 
+  				<unittitle> Western States Arts Festival</unittitle>
+  				<unitdate>1999-2002</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">8</container> 
+  				<container type="folder">12</container> 
+  				<unittitle> Witter Bynner Foundation</unittitle>
+  				<unitdate>1986-1987</unitdate>
+  			</did> 
+  		</c02> 
+  	</c01> 
+  	<c01 level="series" id="ser5"> 
+  		<did> 
+  			<unittitle> Series V- Newspapers
+  				<unitdate type="inclusive" era="ce" calendar="gregorian">1983-2002</unitdate></unittitle> 
+  		</did> 
+  		<scopecontent><p> Series is sorted as types: newspaper clippings and oversize whole papers, then by date of publication. Newspapers primarily range from local press to University press, but national press is included (American Poetry Review, The Daily Wildcat, Tucson Citizen, Tucson Weekly) pertaining to the TPF program as review. </p></scopecontent>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">1</container> 
+  				<unittitle> Newspapers, Clippings</unittitle>
+  				<unitdate> 1983-1987</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">2</container> 
+  				<unittitle> Newspapers, Clippings</unittitle>
+  				<unitdate> 1992-1993</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Newspapers, Clippings</unittitle>
+  				<unitdate>1994-1999</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Newspapers, Clippings</unittitle>
+  				<unitdate>2000-2002</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Newspapers, Oversize</unittitle>
+  				<unitdate>1987-2002</unitdate>
+  			</did> 
+  		</c02> 
+  	</c01> 
+  	<c01 level="series" id="ser6"> 
+  		<did> 
+  			<unittitle> Series VI- Ephemera 
+  				<unitdate type="inclusive" era="ce" calendar="gregorian">1983-2004</unitdate></unittitle> 
+  		</did> 
+  		<scopecontent><p>Series is sorted by year. This series contains flyers, posters, TPF program trifolds, ticket stubs that describe TPF main events, poetry contests, and other peripheral events (workshops, open mic). Oversize Posters are from the first anniversary to TPF XXII. </p></scopecontent>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Ephemera</unittitle>
+  				<unitdate>1983-1989</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>Ephemera</unittitle>
+  				<unitdate>1990-1998</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Ephemera</unittitle>
+  				<unitdate>1999-2000</unitdate>
+  			</did> 
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>Ephemera</unittitle>
+  				<unitdate>2001-2004</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Ephemera, Oversize Posters</unittitle>
+  				<unitdate>1983-2004</unitdate>
+  			</did> 
+  		</c02> 
+  	</c01> 
+  	<c01 level="series" id="ser7"> 
+  		<did> 
+  			<unittitle> Series VII- T-Shirts
+  				<unitdate type="inclusive" era="ce" calendar="gregorian">1983-1993</unitdate></unittitle>
+  		</did> 
+  		<scopecontent><p>Assortment of graphic tees. Annual TPF t-shirts describe TPF poet participants.</p></scopecontent>
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<unittitle>TPF T-shirt I</unittitle>
+  				<unitdate>1983</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<unittitle>TPF T-shirt II</unittitle>
+  				<unitdate>1984</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<unittitle>TPF T-shirt IV</unittitle>
+  				<unitdate>1986</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<unittitle>TPF T-shirt VI</unittitle>
+  				<unitdate>1988</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<unittitle>TPF T-shirt IX</unittitle>
+  				<unitdate>1991</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<unittitle>TPF T-shirt X</unittitle>
+  				<unitdate>1992</unitdate>
+  			</did> 
+  		</c02> 
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<unittitle>TPF T-shirt XI</unittitle>
+  				<unitdate>1993</unitdate>
+  			</did> 
+  		</c02> 
+  	</c01> 
+  </dsc> 
+</archdesc></ead>

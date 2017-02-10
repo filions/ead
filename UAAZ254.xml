@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+   <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0"> 
+      <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special Collections//text
+		(US::AzU::Records of the San Xavier Indian Reservation Water Users&apos; Association)//en""UAAZ254.xml"
+      </eadid> 
+      <filedesc> 
+         <titlestmt> 
+         	<titleproper encodinganalog="title">Records of the San Xavier Indian Reservation Water Users&apos; Association,
+	 	       <date normal="1939/1949" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">1939-1949</date>
+	 	     
+	 	    </titleproper>
+         	<titleproper type="filing" altrender="nodisplay"> Records of the San Xavier Indian Reservation Water Users&apos; Association,
+	 	   
+            </titleproper>
+	        <author>Processed by Staff.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date normal= "2016" era= "ce" calendar = "gregorian">; 2016</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+            <date era="ce" encodinganalog="date" normal="20160208">February 08, 2016</date>
+  	     </creation>
+	     <langusage>Finding aid encoded in<language> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc> 
+   </eadheader> 
+   <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+      <did id="a1"> 
+         <head>Collection Summary</head> 
+      	<unittitle encodinganalog="245" label="Collection Name:"> Records of the San Xavier Indian Reservation Water Users&apos; Association,
+            <unitdate type="inclusive" label="Dates:" normal="1939/1949">1939-1949</unitdate>
+  	     </unittitle> 
+	     <unitid label="Collection Number:" encodinganalog="099" repositorycode="AzU" countrycode="us">AZ 254</unitid>
+	     <origination label="Creator:"> 
+            <corpname source="lcnaf" encodinganalog="110">San Xavier Indian Reservation Water Users&apos; Association</corpname> </origination>
+      	<abstract label="Abstract:">The San Xavier Indian Reservation Water Users&apos; Association was concerned with development 
+      								of irrigation on the San Xavier Indian Reservation, Pima County, Arizona. This collection includes 
+      								minutes of meetings, 1940-1945; time sheets for Indian laborers, May-Aug. 1949, correspondence 
+      								of various government officials concerning irrigation development on the Reservation, 1939-1945; 
+      								and miscellaneous papers relating to agricultural use of the land by the Tohono O&apos;Odham.</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description:"><extent>.1 linear feet</extent></physdesc>	 
+	     <repository label="Repository:"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng" scriptcode="Latin">English.</language></langmaterial>
+   	       
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+         <p>There are no restrictions on this collection.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+      	<p>Records of the San Xavier Indian Reservation Water Users&apos; Association (AZ 254). Special Collections, University of Arizona Libraries.</p>
+      </prefercite> 
+   	<acqinfo>
+   		<head>Acquisition Information</head>
+   		<p>Acquired as gift, 1962.</p>
+   	</acqinfo>
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Staff.</p>
+      </processinfo>
+      <bioghist id="a2" encodinganalog="545"> 
+         <head>Biographical Note</head> 
+      	<p>Association concerned with development of irrigation on the San Xavier Indian Reservation, Pima County, Ariz.</p> 
+      </bioghist> 
+      <arrangement id="a4" encodinganalog="351$a"> 
+         <head>Arrangement</head> 
+  	     <p>This collection is organized into 3 series. Chronological arrangement is followed within each series.</p>	 
+         <list>
+            <item>Series I: Minutes,
+  			   <unitdate>1940-1945</unitdate></item>
+  		    <item>Series II: Time Sheets,
+  			   <unitdate>1949</unitdate></item>
+  		    <item>Series III: Correspondence and miscellaneous papers,
+         		<unitdate>1939-1945</unitdate>,</item>
+         </list>
+      </arrangement> 
+      <scopecontent id="a3" encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>Minutes of meetings, 1940-1945; time sheets for Indian laborers, May-Aug. 1949, correspondence of various 
+      	government officials concerning irrigation development on the Reservation, 1939-1945; and miscellaneous papers 
+      	relating to agricultural use of the land by the Tohono O&apos;Odham.</p>
+      	<p>An inventory is available in the library.</p>
+      </scopecontent> 
+      <controlaccess>
+         <head>Access Terms</head>
+         <list type="simple"> 
+  		    <item>
+  			   <corpname encodinganalog="610" source= "lcnaf">San Xavier Indian Reservation Water Users&apos; Association -- Records and correspondence.</corpname>
+  		    </item>
+  		    <item>
+  			   <subject encodinganalog="650" source= "lcsh">Agriculture -- Arizona -- San Xavier Indian Reservation.</subject>
+  		    </item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Irrigation -- Arizona -- San Xavier Indian Reservation.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Tohono O&apos;odham Indians -- Water rights.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Water-supply -- Arizona -- San Xavier Indian Reservation.</subject>
+         	</item>
+  		    <item>
+  			   <geogname encodinganalog="651" source="lcsh">Tohono O&apos;odham Reservation (Ariz.)</geogname>
+  		    </item>
+         </list>
+      </controlaccess>
+   </archdesc>
+</ead>

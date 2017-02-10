@@ -1,0 +1,630 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="http://ead.lib.asu.edu/template.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?filetitle Bond, Ervin Papers?>
+<ead relatedencoding="MARC21">
+<eadheader relatedencoding="marc" langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" audience="internal" id="a0">
+<eadid countrycode="US" mainagencycode="AzU" publicid="-//University of Arizona Library Special 
+ Collections//text(US::AzU::Ervin Bond Papers)//en">PUBLIC "-//University of Arizona Library Special 
+ Collections//text(US::AzU::Ervin Bond Papers)//en" "UA422.xml"</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Ervin Bond papers,
+<date>1915-1989</date></titleproper>
+<author>Inventory prepared by Lisa Duncan</author>
+</titlestmt>
+<publicationstmt>
+<publisher>University of Arizona Libraries, Special Collections</publisher>
+<address>
+<addressline>PO Box 210055</addressline>
+<addressline>Tucson, AZ 85721-0055</addressline>
+<addressline>Phone: 520-621-6423</addressline>
+<addressline>Fax: 520-621-9733</addressline>
+<addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+</address>
+<date>&#x00A9; 2008</date>
+<p>Arizona Board of Regents. All Rights Reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Inventory encoded by Lisa Duncan.
+<date>November 2008</date>
+</creation>
+<langusage>Inventory is in<language> English.</language></langusage>
+</profiledesc>
+<revisiondesc>
+<change>
+<date>December 16, 2008</date>
+<item>EAD v1.0 finding aid converted to EAD 2002 using UC Berkeley's eadv1to2002.pl perl script.</item>
+</change>
+</revisiondesc>
+</eadheader>
+<frontmatter>
+<titlepage>
+<titleproper>Ervin Bond papers,
+<date>1915-1989</date></titleproper>
+<num>Collection Number: MS 422</num>
+<publisher>University of Arizona Libraries, Special Collections</publisher>
+<list>
+<defitem>
+<label>Processed by:</label>
+<item>Lisa Duncan</item>
+</defitem>
+<defitem>
+<label>Date completed:</label>
+<item>
+<date>November 2008</date></item>
+</defitem>
+<defitem>
+<label>Encoded by:</label>
+<item>Staff</item>
+</defitem>
+</list>
+<p>&#x00A9;2008. Arizona Board of Regents. All rights reserved.</p>
+</titlepage>
+</frontmatter>
+<archdesc level="collection" type="inventory">
+<did id="a1">
+<head>Collection Summary</head>
+<unittitle encodinganalog="245" label="Collection Name:">Ervin Bond Papers
+<unitdate label="Dates:" type="inclusive">1915-1989</unitdate></unittitle>
+<unitid encodinganalog="099" label="Collection Number:" countrycode="us">MS 422</unitid>
+<origination label="Creator:">
+<persname>Bond, Ervin</persname>
+</origination>
+<abstract label="Abstract:">Papers, 1915-1989 (bulk 1965-1985). This
+collection is comprised of the papers of Ervin Bond. The bulk of the material
+consists of scrapbooks created by Mr. Bond which contain photographs, news
+articles and annotations relating to the history of Cochise County, Arizona.
+The materials include; places, people and events specifically around Douglas,
+Arizona. Also included are biographical materials; correspondence; articles and
+speeches; photographs and subject files.</abstract>
+<physdesc encodinganalog="300$a" label="Physical Description:">
+<extent>5.50
+linear feet</extent>
+</physdesc>
+<repository label="Repository:">
+<corpname>University of Arizona Libraries, Special Collections</corpname>
+<address>
+<addressline>University of Arizona</addressline>
+<addressline>PO Box 210055</addressline>
+<addressline>Tucson, AZ 85721-0055</addressline>
+<addressline>Phone: 520-621-6423</addressline>
+<addressline>Fax: 520-621-9733</addressline>
+<addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+</address>
+</repository>
+<langmaterial label="Languages Represented">
+<language langcode="eng">English</language>
+</langmaterial>
+</did>
+<accessrestrict>
+<head>Restrictions</head>
+<p>None.</p>
+</accessrestrict>
+<prefercite>
+<head>Credit Line</head>
+<p>Ervin Bond papers (MS 422). Special Collections, University of Arizona Libraries.</p>
+</prefercite>
+<userestrict>
+<head>Copyright</head>
+<p>It is the responsibility of the user to obtain permission to publish
+from the owner of the copyright (the institution, the creator of the record,
+the author or his/her transferees, heirs, legates, or literary executors). The
+user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+University of Arizona, its officers, employees, and agents from and against all
+claims made by any person asserting that he or she is an owner of
+copyright.</p>
+</userestrict>
+<bioghist encodinganalog="545" id="a2">
+<head>Biographical Note</head>
+<p>Ervin Bond was born in 1906 near Wiggins, Mississippi. In 1926 he moved
+to Douglas, Arizona where he became a grocer. He married Irma Dalton in 1933
+and they had three daughters. In 1956 he began working for the Arizona Highway
+Department until his retirement in 1977. </p>
+<p>Mr. Bond became interested in the history of southern Arizona and began
+documenting it in the 1960s. He collected materials, oral histories and
+photographs of Cochise County and assembled many scrapbooks documenting the
+area. He also lectured extensively about local history. He wrote three books:
+<title actuate="onrequest">Douglas, Arizona: its first seventy-five years "and a few
+before,"</title>
+<title actuate="onrequest">Percy Bowden: Born to be a Frontier Lawman</title> and
+<title actuate="onrequest">Cochise County, Arizona: Past and Present</title>. </p>
+</bioghist>
+<arrangement encodinganalog="351$a" id="a4">
+<head>Organization</head>
+<p>This collection is organized into 6 series: </p>
+<list>
+<item>Series 1: Biographical Files,
+<unitdate>1982-1987</unitdate></item>
+<item>Series 2: Correspondence,
+<unitdate>1985-1989</unitdate></item>
+<item>Series 3: Articles and Speeches,
+<unitdate>1972-1980</unitdate></item>
+<item>Series 4: Subject Files,
+<unitdate>1915-1987</unitdate></item>
+<item>Series 5: Photographs,
+<unitdate>1983-1984</unitdate></item>
+<item>Series 6: Scrapbooks,
+<unitdate>1965-1984</unitdate></item>
+</list>
+</arrangement>
+<scopecontent encodinganalog="520" id="a3">
+<head>Scope and Content Note</head>
+<p>Papers, 1915-1989 (bulk 1965-1985). This collection contains the papers
+of the author Ervin Bond relating to his research on Cochise County, Arizona
+history. The bulk of the material includes scrapbooks created by Mr. Bond that
+contain photographs, news articles and annotations about the people, places and
+events of the area. Other scrapbooks created by Mr. Bond include two on the
+publication of his book
+<title actuate="onrequest">Cochise County, Arizona: Past and Present</title>, lecture events,
+the bicentennial and special events. Also included in the collection are
+biographical materials; correspondence; articles and speeches concerning
+Southern Arizona history and subject files including research materials,
+newspapers as well as maps included in Mr. Bond's books.</p>
+</scopecontent>
+<controlaccess id="a12">
+<head>Access Terms</head>
+<list>
+<item>
+<persname encodinganalog="600">Bond, Ervin, 1906-</persname> </item>
+</list>
+<list>
+<item>
+<geogname encodinganalog="651">Douglas (Ariz.) -- History.</geogname> </item>
+</list>
+<list>
+<item>
+<geogname encodinganalog="651">Cochise County (Ariz.) -- History.</geogname> </item>
+</list>
+<list>
+<item>
+<geogname encodinganalog="651">Mexican-American Border Region--Photographs</geogname> </item>
+</list>
+</controlaccess>
+<dsc type="combined" id="a23">
+<head>Container List</head>
+<c01 level="series" id="ser1">
+<did>
+<unittitle>Series 1: Biographical Files
+<unitdate type="inclusive">1982-1987</unitdate></unittitle>
+</did>
+<scopecontent>
+<p>Arrangement: Alphabetical. This series contains biographical
+materials associated with Ervin Bond including r&#x00E9;sum&#x00E9;s, printer plates of
+articles written about Bond and association member cards.</p>
+</scopecontent>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">1</container>
+<unittitle>Biographical Material.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">2</container>
+<unittitle>General.
+<unitdate>1982-1987</unitdate></unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series" id="ser2">
+<did>
+<unittitle>Series 2: Correspondence,
+<unitdate type="inclusive">1985-1989</unitdate></unittitle>
+</did>
+<scopecontent>
+<p>Arrangement: Alphabetical. This series contains cards from family
+and letters relating to books written by Ervin Bond.</p>
+</scopecontent>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">3</container>
+<unittitle>General.
+<unitdate>undated, 1985-1989</unitdate></unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series" id="ser3">
+<did>
+<unittitle>Series 3: Articles and Speeches,
+<unitdate type="inclusive">1972-1980</unitdate></unittitle>
+</did>
+<scopecontent>
+<p>Arrangement: Alphabetical. This series contains articles written by
+Ervin Bond and transcripts of speeches and tours given by Mr. Bond.</p>
+</scopecontent>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">4</container>
+<unittitle>Dates that Helped Make Our Country Great.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">5</container>
+<unittitle>My Five Ways to See Cochise Country from Douglas.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">6</container>
+<unittitle>Pancho Villa.
+<unitdate>1980</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">7</container>
+<unittitle>Scenic and Historic Trips with Ervin Bond.
+<unitdate>1979</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">8</container>
+<unittitle>Scenic Tours of John Slaughter's San Bernardino Ranch now
+owned by the Ramsowers,
+<unitdate>1972</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">9</container>
+<unittitle>Some History of the First Baptist Church, Douglas,
+Arizona.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series" id="ser4">
+<did>
+<unittitle>Series 4: Subject Files,
+<unitdate type="inclusive">1915-1987</unitdate></unittitle>
+</did>
+<scopecontent>
+<p>Arrangement: Alphabetical. This series contains material related to
+the history of Arizona including newspapers, research materials, maps and
+printed music.</p>
+</scopecontent>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">10</container>
+<unittitle>Articles sent to Ervin Bond.
+<unitdate>undated, 1982</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">11</container>
+<unittitle>Business Cards.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">12</container>
+<unittitle>Jones, Stan- Printed Music.
+<unitdate>undated, 1972</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">13</container>
+<unittitle>Maps- Cochise County.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">14</container>
+<unittitle>Newspapers-
+<title actuate="onrequest">Arizona Daily Star</title>.
+<unitdate>1983</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">15</container>
+<unittitle>Newspapers-
+<title actuate="onrequest">Bisbee Review</title>.
+<unitdate>1948</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">16</container>
+<unittitle>Newspapers-
+<title actuate="onrequest">Daily Dispatch</title>.
+<unitdate>1978</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">17</container>
+<unittitle>Newspapers-
+<title actuate="onrequest">Stone County Enterprise</title>.
+<unitdate>undated, 1968-1976</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">18</container>
+<unittitle>Research Materials.
+<unitdate>undated, 1987</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">19</container>
+<unittitle>
+<title actuate="onrequest">Shamrock News</title>- Cochise Hotel article.
+<unitdate>1979</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">20</container>
+<unittitle>Slaughter Ranch.
+<unitdate>undated, 1983</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">21</container>
+<unittitle>State Song- Arizona.
+<unitdate>1915-1920</unitdate></unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series" id="ser5">
+<did>
+<unittitle>Series 5: Photographs,
+<unitdate type="inclusive">1983-1984</unitdate></unittitle>
+</did>
+<scopecontent>
+<p>Arrangement: Alphabetical. This series contains a collage of
+photographs about the history of Douglas, Arizona, photographs from lectures
+given by Ervin Bond, photographs of the Bond family and a photo album with
+photographs of early pioneers and the border region including border
+conflicts.</p>
+</scopecontent>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">22</container>
+<unittitle>Bond family.
+<unitdate>undated, 1983-1984</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">23</container>
+<unittitle>Douglas, Arizona History.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">24</container>
+<unittitle>Lectures.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">25</container>
+<unittitle>Photo album- Pioneers and Border Wars.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series" id="ser6">
+<did>
+<unittitle>Series 6: Scrapbooks,
+<unitdate type="inclusive">1965-1984</unitdate></unittitle>
+</did>
+<scopecontent>
+<p>Arrangement: Alphabetical. This series consists of scrapbooks that
+contain photographs, news articles and annotations by Ervin Bond about the
+history of Southern Arizona including people, places and events of Cochise
+County. The majority of the scrapbooks fall under the series titled by Bond: My
+5 ways to see Cochise County from Douglas. Also included are scrapbooks of
+materials relating to the publication of Bond&#x2019;s book
+<title actuate="onrequest">Cochise County, Arizona: Past and Present</title>, lecture
+events, the bicentennial and special events.</p>
+</scopecontent>
+<c02 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">1</container>
+<unittitle>Business Cards.
+<unitdate>undated</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">2</container>
+<unittitle>Geronimo Trail.
+<unitdate>1965</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">3</container>
+<unittitle>
+<title actuate="onrequest">Cochise County, Arizona: Past and Present</title>- Second
+Printing.
+<unitdate>1984</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">4</container>
+<unittitle>Highway 80 North East- Leslie Canyon Road.
+<unitdate>1965</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">5</container>
+<unittitle>Highway 80 West.
+<unitdate>1965</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">6</container>
+<unittitle>Highway 92.
+<unitdate>1965</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">1</container>
+<unittitle>Highway 666- East.
+<unitdate>1965</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">2</container>
+<unittitle>Highway 666- West.
+<unitdate>1965</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">3</container>
+<unittitle>History of my Book
+<title actuate="onrequest">Cochise County, Arizona: Past and Present</title>.
+<unitdate>1982</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">4</container>
+<unittitle>Interstate 10- San Simon, Bowie, Wilcox and Benson.
+<unitdate>1965</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">5</container>
+<unittitle>My Bicentennial Year- Number One.
+<unitdate>1976</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">1</container>
+<unittitle>My Bicentennial Year- Number Two.
+<unitdate>1976</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">2-3</container>
+<unittitle>Pictures Old and New.
+<unitdate>1965</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">4</container>
+<unittitle>Pictures Old and New- Ranch Homes and Mexico Wars.
+<unitdate>1965-1981</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">5</container>
+<unittitle>Pictures- People.
+<unitdate>1965-1981</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">1</container>
+<unittitle>Places I have Talked.
+<unitdate>1965</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">2</container>
+<unittitle>Sequel to my Last Album.
+<unitdate>1983</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">3</container>
+<unittitle>Special Events.
+<unitdate>1965-1981</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">4</container>
+<unittitle>Special Events- Number Two.
+<unitdate>1965-1981</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">5</container>
+<unittitle>Special Events- July 4th 1979 and after.
+<unitdate>1979</unitdate></unittitle>
+</did>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

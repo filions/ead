@@ -1,0 +1,394 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+ audience="internal" id="a0"> 
+	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special
+		Collections//text(US::AzU::The Clarion Records)//en""UAMS534.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper encodinganalog="title"> The Clarion Records,
+	 		<date normal="1966/2013" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">1966-2013</date>
+	 		<date normal="1982/1986" type="bulk">(bulk 1982-1986)</date></titleproper>
+	 	<titleproper type="filing" altrender="nodisplay"> The Clarion Records,
+	 		</titleproper>
+	 	<author>Processed by Anne Spire.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date normal= "2015" era= "ce" calendar = "gregorian">; 2015</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Anne Spire. 
+  		<date era="ce" encodinganalog="date" normal="20150406">April 06, 2015</date></creation>
+	 <langusage>Finding aid is in<language> English.</language></langusage>
+  	<descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+  </profiledesc> 
+	
+</eadheader> 
+
+	<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name:"> The Clarion Records,
+  		<unitdate type="inclusive" label="Dates:" normal="1966/2013">1966-2013</unitdate>
+  		<unitdate type="bulk" label="Dates:" normal="1982/1986">(bulk 1982-1986)</unitdate></unittitle>
+	 <unitid label="Collection Number:" encodinganalog="099"
+	 	repositorycode="AzU" countrycode="us">MS 534</unitid>
+	 <origination label="Creator:"> 
+	 	<corpname source="lcnaf" encodinganalog="110">The Clarion</corpname> </origination> 
+  	<abstract label="Abstract:">The Clarion Records, 1966-2013 (bulk 1982-1986), includes financial papers, administrative papers, and newspaper issues from <title render="italic">The Clarion</title>Newspaper. <title render="italic">The Clarion</title>newspaper was a Tucson based newspaper that focused on women’s issues.   Items in the collection include tax documents, newspaper clippings, newspaper issues, staff files, and subscription information.</abstract> 
+  	<physdesc encodinganalog="300$a" label="Physical Description:"><extent>2 Linear Feet</extent></physdesc>	 
+	 <repository label="Repository:"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository>
+  	<langmaterial>Materials are in <language encodinganalog="546" langcode="eng"
+  		scriptcode="Latin">English.</language></langmaterial>
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+  	<p>No Restrictions</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>The Clarion Records (MS 534). Special
+  		Collections, University of Arizona Libraries.</p>
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Historical Note</head> 
+  	<p><title render="italic">The Clarion</title>newspaper began in 1976 as a newsletter for the Tucson Women’s Commission.  The Tucson Women’s Commission is a city agency dedicated to the elimination of sexual discrimination and the achievement equality of opportunity for women.  In 1981<title render="italic">The Clarion</title> was incorporated as a non-profit organization with the support of Tucson’s major and council and in 1982 <title render="italic">The Clarion</title> became an independent community based newspaper. <title render="italic">The Clarion</title> focused on and promoted a clearer understanding of issues and events effecting women’s health, employment, children, politics, arts, and interpersonal relationships.  In 2013 the Tucson Women’s Commission initiated a newsletter named <title render="italic">Clarion Redux</title></p> 
+  </bioghist> 
+  <arrangement id="a4" encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+  	<p>This collection is organized into 3 series</p>	 
+  	<list>
+  		<item>Series I: Administrative Files,
+  			</item>
+  		<item>Series II: Newspaper Issues,
+  			</item>
+  		<item>Series III: Financial Records,</item>
+  	</list>
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>Papers 1966-2013 (bulk 1982-1986): This collection consists of administrative files, financial records, and newspaper issues. The bulk of the material consists of subscription and distribution lists, newspaper issues and advertising documents. Administrative files include material related to the staff including resumes, resignations, memos and classified ads as well as materials related to the organizational history, subscriptions and distributions, various board meetings and the salute awards.  The financial records include tax and financial information, fundraising activities and grant foundations.   Also included are <title render="italic">The Clarion</title> newspaper issues.</p> 
+  </scopecontent> 
+  	<controlaccess>
+  		<head>Access Terms</head>
+  		<list type="simple"> 
+  			
+  			<item>
+  				<subject encodinganalog="650">Women's Issues</subject>
+  			</item>
+  			<item>
+  				<subject encodinganalog="650">Women--Newspapers</subject>
+  			</item>
+  			<item>
+  				<subject encodinganalog="655">Newspapers--20th Century</subject>
+  			</item>
+  			<item>
+  				<geogname encodinganalog="651" source="lcsh">Tucson(Ariz,).</geogname>
+  			</item>
+  		</list>
+  	</controlaccess>
+  
+<dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+			<unittitle>Series 1: Administrative Files,</unittitle> 
+			<unitdate type="inclusive">1966-2013</unitdate>
+		</did>
+	 	<scopecontent><p>This series contains materials pertaining to the management of <title render="italic">The Clarion</title> and relationships with related agencies.  Information about newspaper distribution and subscriptions, meetings and events, administrative boards, advertising and promotion, organizational history, publication, and staff is included.  Also included are news clippings related to women’s issues and <title render="italic">The Clarion</title>.  The materials are arranged alphabetically.</p></scopecontent>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">1</container> 
+				<container type="folder">1</container> 
+				<unittitle>Advertising,</unittitle>
+				<unitdate>1983-1986</unitdate>
+		  </did> 
+		</c02> 
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="box">1</container> 
+	 			<container type="folder">2</container> 
+	 			<unittitle>Advertising - Betty Lewis</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="box">1</container> 
+	 			<container type="folder">3</container> 
+	 			<unittitle>Annual Reports</unittitle>
+	 			<unitdate>1982-1986</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="box">1</container> 
+	 			<container type="folder">4</container> 
+	 			<unittitle>Clarion Boards</unittitle>
+	 			<unitdate>1982-1986</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="box">1</container> 
+	 			<container type="folder">5</container> 
+	 			<unittitle>Clarion Organization</unittitle>
+	 			<unitdate>1982-1986</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="box">1</container> 
+	 			<container type="folder">6</container> 
+	 			<unittitle>Distribution</unittitle>
+	 			<unitdate>1983-1986</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="box">1</container> 
+	 			<container type="folder">7</container> 
+	 			<unittitle>Meetings</unittitle>
+	 			<unitdate>1982-1986, 1988</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="box">1</container> 
+	 			<container type="folder">8</container> 
+	 			<unittitle>News Clippings</unittitle>
+	 			<unitdate>1966, 1982-1987</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="box">1</container> 
+	 			<container type="folder">9</container> 
+	 			<unittitle>Promotional Material</unittitle>
+	 			<unitdate>1977, 1981, 1982</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="box">1</container> 
+	 			<container type="folder">10</container> 
+	 			<unittitle>Publishing</unittitle>
+	 			<unitdate>1985</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="box">1</container> 
+	 			<container type="folder">11</container> 
+	 			<unittitle>Salute Awards</unittitle>
+	 			<unitdate>1984</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="box">1</container> 
+	 			<container type="folder">12</container> 
+	 			<unittitle>Staff</unittitle>
+	 			<unitdate>1981-1988</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="box">1</container> 
+	 			<container type="folder">13</container> 
+	 			<unittitle>Subscriptions</unittitle>
+	 			<unitdate>circa 1980-1983</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="box">1</container> 
+	 			<container type="folder">14</container> 
+	 			<unittitle>Subscriptions (1 of 2)</unittitle>
+	 			<unitdate>circa 1983-1986</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="box">1</container> 
+	 			<container type="folder">15</container> 
+	 			<unittitle>Subscriptions (2 of 2)</unittitle>
+	 			<unitdate>circa 1983-1986</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="box">1</container> 
+	 			<container type="folder">16</container> 
+	 			<unittitle>Tucson Women's Commission</unittitle>
+	 			<unitdate>2010, 2012, 2013</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="box">1</container> 
+	 			<container type="folder">17</container> 
+	 			<unittitle>Women's Issues</unittitle>
+	 			<unitdate>1982, 1983, 1985</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="box">1</container> 
+	 			<container type="folder">18</container> 
+	 			<unittitle>YWCA</unittitle>
+	 			<unitdate>1983-1986</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="box">1</container> 
+	 			<container type="folder">19</container> 
+	 			<unittitle>The Clarion</unittitle>
+	 			<unitdate>1982</unitdate>
+	 		</did> 
+	 	</c02> 
+	 </c01> 
+	
+	<c01 level="series" id="ser2"> 
+		<did> 
+			<unittitle>Series 2: Newspaper Issues</unittitle> 
+			<unitdate type="inclusive">1982-2013</unitdate>
+		</did>
+		<scopecontent><p>This series contains issues of <title render="italic">The Clarion</title> newspaper.  The issues are original copies of <title render="italic">The Clarion</title>. In 2013 the Tucson Women’s Commission initiated <title render="italic">The Clarion Redux</title>. </p></scopecontent>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">2</container> 
+				<container type="folder">1</container> 
+				<unittitle>The Clarion</unittitle>
+				<unitdate>1983</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container type="box">2</container> 
+				<container type="folder">2</container> 
+				<unittitle>The Clarion (1 of 2)</unittitle>
+				<unitdate>1984</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container type="box">2</container> 
+				<container type="folder">3</container> 
+				<unittitle>The Clarion (2 of 2)</unittitle>
+				<unitdate>1984</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container type="box">2</container> 
+				<container type="folder">4</container> 
+				<unittitle>The Clarion</unittitle>
+				<unitdate>1985</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container type="box">2</container> 
+				<container type="folder">5</container> 
+				<unittitle>The Clarion</unittitle>
+				<unitdate>1986-2013</unitdate>
+			</did> 
+		</c02> 
+	</c01> 
+	<c01 level="series" id="ser3"> 
+		<did> 
+			<unittitle>Series 3: Financial Records</unittitle> 
+			<unitdate type="inclusive">1981-1988</unitdate>
+		</did>
+		<scopecontent><p>This series contains financial records produced by <title render="italic">The Clarion</title>.  These records include bank statements, financial reports, insurance, and tax documents.  Also included are materials related to foundations <title render="italic">The Clarion</title> solicited for information about grants. </p></scopecontent>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">3</container> <!-- NAME OF SERIES ie. Series 1: Manuscripts -->
+				<container type="folder">1</container> 
+				<unittitle>Bank Statements</unittitle>
+				<unitdate>1982-1984</unitdate>
+			</did> 
+		</c02>
+		<c02 level="file"> 
+			<did> 
+				<container type="box">3</container> 
+				<container type="folder">2</container> 
+				<unittitle>Finance Reports</unittitle>
+				<unitdate>1982-1986</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container type="box">3</container> 
+				<container type="folder">3</container> 
+				<unittitle>Fundraising</unittitle>
+				<unitdate>1982-1986</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container type="box">3</container> 
+				<container type="folder">4</container> 
+				<unittitle>Gannet Foundation</unittitle>
+				<unitdate>1982-1986</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container type="box">3</container> 
+				<container type="folder">5</container> 
+				<unittitle>Grant Foundation</unittitle>
+				<unitdate>1982-1986</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container type="box">3</container> 
+				<container type="folder">6</container> 
+				<unittitle>Insurance</unittitle>
+				<unitdate>1982,1985</unitdate>
+			</did> 
+		</c02> 
+		<c02 level="file"> 
+			<did> 
+				<container type="box">3</container> 
+				<container type="folder">7</container> 
+				<unittitle>Taxes</unittitle>
+				<unitdate>1981-1988</unitdate>
+			</did> 
+		</c02> 
+	</c01> 
+</dsc> 
+</archdesc></ead>

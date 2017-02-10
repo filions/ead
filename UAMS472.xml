@@ -1,0 +1,566 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0"> 
+  <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special
+  	Collections//text(US::AzU::Mary Jeffries Bruce and the Sunday Evening Forum collection)//en""UAMS472.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper>
+	 		Mary Jeffries Bruce and the Sunday Evening Forum collection, 
+	 		<date normal="1942/1993" era= "ce" calendar= "gregorian">1942-1993</date></titleproper> 
+		<author audience="internal">Processed by Deborah Weller.</author>
+	 </titlestmt> 
+	 <publicationstmt> 
+		<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		  		</address> 
+		<date normal="2011" era= "ce" calendar= "gregorian">; 2011</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation>Inventory encoded in Oxygen XML editor by Deborah Weller. <date normal= "2011">2011</date></creation>	 	
+	 <langusage>Inventory is in<language> English.</language></langusage>
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+  	<titleproper>Mary Jeffries Bruce and the Sunday Evening Forum collection, <date era="ce" calendar="gregorian">1942-1976</date>,</titleproper>
+	 <num>Collection Number: MS472</num> 
+	 <publisher>University of Arizona Library, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Deborah Weller</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date Completed:</label> 
+		  <item> 
+			 <date normal="20110803">August 03, 2011></date></item> 
+		</defitem>
+	 	<defitem>
+		  <label>Encoded by :</label> 
+		  <item>Deborah Weller</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 2011. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name:"> Mary Jeffries Bruce and the Sunday Evening Forum collection<unitdate type="inclusive" normal="1942/1976">1942-1976</unitdate>
+  	</unittitle>  
+	 <unitid label="Collection Number:" encodinganalog="472" repositorycode="AzU" countrycode="us">MS 472</unitid> 
+	 <origination label="Creator:" encodinganalog="100"> 
+		<persname>Jeffries, Mary Bruce</persname></origination> 
+  	<unittitle encodinganalog="245$a">Mary Jeffries Bruce and the Sunday Evening Forum collection</unittitle>
+	 <repository label="Repository:"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address></repository> 
+  	<abstract label="Abstract:">The collection consists of personal scrapbooks created by Mary Jeffries Bruce who was the director of the Sunday Evening Forum in Tucson, Arizona from 1942-1976.  The 21 scrapbooks contain photographs, correspondence and newspaper articles chronicling the national and international prominent people who spoke at the Forum.  They also contain personal correspondence and information regarding Ms. Bruce’s longtime work with the National Association for Mental Health, and a bound collection of letters written by previous guests of the Forum given to Ms. Bruce upon her retirement. </abstract> 
+  	<physdesc encodinganalog="300$a" label="Physical Description:"><extent>3 linear feet</extent></physdesc>
+  	<langmaterial>Material in <language encodinganalog="546" langcode="eng"
+  		scriptcode="Latn">English</language></langmaterial>
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+	 <p>None</p>
+  	</accessrestrict>
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>Mary Jeffries Bruce and the Sunday Evening Forum collection (MS472). Special Collections, University of Arizona Libraries.</p>
+  </prefercite>
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+  	<p>Mary Jeffries Bruce was born in Clinton, Kentucky and raised in Tennessee. She attended Peabody College in Nashville where she majored in Art and then Voice.  Ms. Bruce taught school in Paris, Tennessee. She moved to Tucson in 1930 where she married V.T. Jeffries and became the mother of John Edgar.  In 1942 she was appointed program chairman for a small Young Adult Discussion Group which met in the old University Catalina Methodist church (now known as the Catalina United Methodist Church).  This small discussion group became The Sunday Night Forum and one of the nation’s largest nonprofit community forums under her leadership. The Forum grew and ultimately moved to a larger venue, University of Arizona Main Auditorian.			
+  	At first the guest speakers were famous people wintering in Tucson or local notables, especially members of the University of Arizona faculty Auditorium.  By 1945 the guest speakers included political leaders and some world renowned persons. Besides famous speakers, the forum also presented travel films, nationally known dance groups, theatrical groups, and musical groups. After 42 years as a Tucson institution the Sunday Evening Forum gave its final performance on April 8, 1984.  The board of the Catalina United Methodist Church decided to discontinue the Forum at the end of 1983/84 season.  The board had sponsored the forum since it began in 1942.  The closure was attributed to high speaker fees, lack of interest by the public, and finally the announcement by the University of Arizona that the Main Auditorium would not be available for the next season of the forum while it underwent renovation.
+  	In 1952 Mary Jefferies Bruce was named Tucson’s 1st "Woman of the Year" for her work as director of the Sunday Night Forum.  In 1969 she received the "Program Chairman of the Year" award, presented by the International Platform Association.  Ms. Bruce was responsible for bringing many of the most prominent political and cultural figures of the time to Tucson. Ms. Bruce directed the Sunday Night Forum for 34 years before retiring in 1976.  In her lifetime, Mary Jeffries Bruce was very active in the National Association for Mental Health and was voted a regional vice president serving on the National Executive Committee in 1954.  She was also a past president of the Tucson’s Boys Choir ,1949-1950, and arranged for the Chorus to sing at the New York Town Hall. Ms. Bruce was also the volunteer Executive Secretary for The Pima County Mental Health Association. She passed away on February 7, 1993 at the age of 89.</p> 
+  </bioghist> 
+  <arrangement id="a4" encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+  	<p>This Collection is organized into 2 series.></p>
+	 <list> 
+	 	<item>Series I:  Albums, 1942-1976</item>
+	 	<item>Series II: Retirement booklet, 1976 </item>
+	 	<item>Series III: Oleg Kirillov materials, 1960-1993 </item>
+	 </list> 
+  </arrangement> 
+  <controlaccess> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+			<corpname encodinganalog="610" source="lcnaf" rules="aacr2">Sunday Evening Forum (Tucson, Ariz.) - History.</corpname> </item> 
+		<item> 
+			<subject encodinganalog="650"> Forums (Discussion and debate)-Arizona.</subject> </item> 
+		<item> 
+			<corpname encodinganalog="610">Catalina United Methodist Church (Tucson, Ariz.)-History.</corpname> </item> 
+		<item> 
+			<geogname encodinganalog="651">Tucson (Ariz.)-Church history.</geogname> </item> 
+	 	<item> 
+	 		<persname encodinganalog="600">Bruce, Mary Jeffries.</persname> </item> 
+	 	<item> 
+	 		<persname encodinganalog="600">Kennedy, John F. (John Fitzgerald), 1917-1963.</persname> </item> 
+	 	<item> 
+	 		<persname encodinganalog="600">King, Martin Luther, Jr., 1929-1968..</persname> </item> 
+	 	<item> 
+	 		<persname encodinganalog="600">Goldwater, Barry M. (Barry Morris), 1909-1998.</persname> </item> 	
+	 	<item> 
+	 		<persname encodinganalog="600">Ford, Gerald R., 1913-2006..</persname> </item> 
+	 	<item> 
+	 		<persname encodinganalog="600">Buckley, William F. (William Frank), 1925-2008.</persname> </item> 
+	 	<item> 
+	 		<persname encodinganalog="600">Reasoner, Harry, 1923-1991.</persname> </item> 
+	 	<item> 
+	 		<persname encodinganalog="600">Udall, Morris K.</persname> </item> 
+	 	<item> 
+	 		<persname encodinganalog="600">Udall, Stewart L..</persname> </item> 
+	 </list> 
+  </controlaccess> 
+  <dsc type="combined" id="a23" encodinganalog=""> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+			<unittitle> Series I: Albums, 
+			 <unitdate era= "ce" calendar= "gregorian">1942-1976</unitdate>
+			</unittitle> 
+		</did> 
+	 	<arrangement><p>This series is arranged chronologically by album.  The albums correspond to the Sunday Evening Forum season. Each album contains photographs, newspaper clippings, and correspondence.  The bulk of the materials are newspaper articles either announcing the forum speakers or about the speakers. There is also some documentation of Mary Jefferies Bruce work with the National Association for Mental Health. 
+	 	</p> </arrangement>
+		<c02 level="file"> 
+			<did> <unittitle>Album 1, 1942-1945 </unittitle>
+		  	<container type="box"> 1</container>
+			<container type="folder">1</container>	
+			</did>
+		  	<scopecontent> 
+		  		<head>Scope and Content Note</head> 
+		  		<p>1942-1943 Season.  Some of the speakers included  in this season were:  Hugo W. Wolter assistant director of the Japanese Relocation camp located  at Rivers, Arizona;  Ruth McKenney an American author and journalist, best remembered for My Sister Eileen;  Kirby Page an American Disciples of Christ minister, an author, and a peace activist.  Also among the speakers were educators, employees of the U.S. Consular Service, a missionary, and an army corps nurse who escaped by submarine from Bataan</p> 
+		  		<p>1944-1945 Season. Notable speakers for this season were: Clarence Streit, author of “Union Now”.  Charles P. Eisenmayer national president of the Gideon’s the famous bible-distributing organization; Rosemary Drachman Taylor, Tucson author of “Chicken Every Sunday”; Mrs. Margaret Sanger Slee leader of the Planned Parenthood movement; Madame Vijaya Laksmi Pandit sisiter of Jawaharal Nehru Nationalist leader of India
+		  		</p>
+		  		<p>1945-1946 Season. The first speaker for this season was William R. Mathews, editor and publisher of the Arizona Daily Star. Other speakers included: H.R. Knickerbocker a Pulitzer Prize Journalist and foreign correspondent; Kumar Goshal author of the “People of India”. </p>
+		  	</scopecontent> 		
+		</c02>
+	 	<c02 level="file">
+	 		<did><unittitle>Loose items, 1942-1945</unittitle>
+	 			<container type="box">1</container>
+	 			<container type="folder">2 </container>
+	 		</did>
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <unittitle>Album 2, 1946-1948 </unittitle>
+	 			<container type="box"> 1</container>
+	 			<container type="folder">3</container>	
+	 		</did>
+	 		<scopecontent> 
+	 			<head>Scope and Content Note</head> 
+	 			<p>1946-1947 Season began with John Boettigers and his wife Anna Roosevelt Boettigers both editors and publishers of the Arizona Times.  Other lecturers include:  Mr. Clifford Goldsmith creator of  radio’s famous Henry Aldrich; Pastor Martin Niemoeller who spent 7 years in a Nazi concentration camp for defying Hitlerism; Godfrey Winn a well-known journalist who spoke on “Life Begins in England Again”;  Miss Myrtle Ross a mono-dramatist ended the season with a Mother’s Day program.</p> 
+	 			<p>1947-1948 Season opened with Carveth Wells an explorer, radio commentator, and author who gave a travel talk on “Travel and Laugh with Carveth Wells”. Other speakers were: Louis P. Lochner a Pultizer Prize winner and chief of the Bureau of the Associated Press in Berlin until 1942; Congressman Richard F. Harless from Arizona spoke on “World Reconstruction Peace or War”.  Marquis Childs a syndicated columnist, author of the daily column “Washington Calling” his topic for the forum was “America Must Choose”; Lady Nancy Longhorn Astor talked before the largest crowd of the season, her talk was entitled “My Two Countries”. </p>
+	 		</scopecontent> 		
+	 	</c02>
+	 	<c02>
+	 		<did><unittitle>Loose items, 1946-1948</unittitle>
+	 			<container type="box">1</container>
+	 			<container type="folder">4 </container>
+	 		</did>
+	 	</c02>
+	 	<c02 level="file"> 
+	 		 		<did> <unittitle>Album 3, 1948-1950 </unittitle>
+	 			<container type="box"> 2</container>
+	 			<container type="folder">1</container>	
+	 		</did>
+	 		<scopecontent> 
+	 			<head>Scope and Content Note</head> 
+	 			<p>1948-1949 Season was launched with a lecture by Dr. Che Shou-Yi.  The title of his address was “The Significance of the China Crisis” which reported on the current conditions in China.  Other speakers included: Howard Pyle radio commentator and station manager of KTAR in Phoenix.  Pyle’s subject was “The Place of Education in Tomorrow’s World”; Raymond Swing a radio commentator and news analyst spoke on the topic “History on the March” and called for the need of a world law and government; Ms. Dorothy Thompson author, radio commentator, and columnist spoke on the disintegration of Europe and the present world crisis, her topic was “These Crucial Days”.</p>
+	 			<p>1949-1950 Season’s first speaker was Sidney Lawson a worldwide traveler whose topic was “India As I See it”.  Arizona Senator Ernest McFarland discussed the Colorado River water controversy, suspension of copper tariffs and legislation dealing with the Navajo and Hopi Indians and how these issues would affect Arizona. Stuart Chase a noted author and commentator on economic and social problems gave a lecture on “Boom or Bust? Can We Smooth the Business Cycle?”.  Dr. Paul Popenoe director of the American Institute of Family Relations in Los Angles was the final speaker of the 1949/50 Sunday Night Forum season.  He discussed “Making Marriage a Success” by understanding of one’s self, partner and of marriage it itself.</p>
+	 		</scopecontent> 		
+	 	</c02>
+	 	<c02>
+	 		<did><unittitle>Loose items, 1948-1950</unittitle>
+	 			<container type="box">2</container>
+	 			<container type="folder">2 </container>
+	 		</did>
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <unittitle>Album 4, 1950-1952 </unittitle>
+	 			<container type="box"> 2</container>
+	 			<container type="folder">3</container>	
+	 		</did>
+	 		<scopecontent> 
+	 			<head>Scope and Content Note</head> 
+	 			<p>1950-1951 Season started with the well-known educator Frank C. Laubach who founded the “Each One Teach One” system of teaching reading and wiping out world illiteracy. Other speakers for the season were: Cecil Brown a radio commentator whose topic was “Cross fire in Asia”.  Mr. Brown was introduced by Ronald Reagan who happened to be filming a movie in Tucson at the time; Senator Margaret Chase Smith from Maine the only woman to serve in both the House of Representatives and the Senate.  Her lecture was titled “Report from Washington. The final presentation of the 1950-51 season was with Mayan explorers Dana and Ginger Lamb.  They gave an illustrated travel talk entitled “The Lost City of the Mayas”.  The story was told in words and by color movie.  They explained why they took a 3 year trip in a 16 foot canoe from San Diego to Panama.</p> 
+	 			<p>1951-1952 Season began with Dr. Pearce Hayes a missionary in China for over 30 years, director of the Fochow Mission and executive secretary of the International Relief committee.  He discussed “Bamboo Screen or Iron Curtain in China”. Other speakers for the season were; Senator Estes Kefauver from Tennessee was the originator and chairman of the senate’ crime investigation committee; William O. Douglas associate justice of the U.S. Supreme Court presented a lecture on his recent travels to the Middle East exploring both the back country and the cities. The lecture was titled “Asia and the Middle East”; Dr. Margaret Mead, a distinguished anthropologist and associate curator of ethnology at the American Museum of Natural History in New York presented “Cultural Conflicts in World Unity”.  The final speaker for the season was Bishop S.K. Mondol of Hyderabad who spoke on the topic of “India since Her Freedom”.</p>	
+	 		</scopecontent> 
+	 	</c02>
+	 	<c02>
+	 		<did><unittitle>Loose items, 1950-1952</unittitle>
+	 			<container type="box">2</container>
+	 			<container type="folder">4 </container>
+	 		</did>
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <unittitle>Album 5, 1952-1954 </unittitle>
+	 			<container type="box"> 3</container>
+	 			<container type="folder">1</container>	
+	 		</did>
+	 		<scopecontent > 
+	 			<head>Scope and Content Note</head> 
+	 			<p>1952-1953 Season. The 1st speaker was Bishop Gerald Kennedy head of the Los Angeles area of the Methodist church.  He spoke the subject “The Church and Contemporary Issues.”  Other notable speakers for the season were: Earl Warren one of only two people to be elected Governor of California three times. His topic for the Sunday Night forum in 1952 was “Problems of the “Southwestern States” in which he discussed California’s water shortage and its need of Colorado River water; Governor Howard Pyle made his 8th consecutive appearance at the forum and He spoke on the subject of “How Firm are Arizona’s Foundations”; the final speaker for the 1952-1953 season was Commander Irving M. Johnson presented the film “Join the Yankee and See the World”.</p> 
+	 			<p>1953-1954 Season.  Senator J. William Fulbright of Arkansas spoke to the forum on the topic “The United States in World Affairs”.  Senator Fulbright is known for his work in establishing scholarship foundations based on funds received from by the U.S. in the sale of surplus property abroad.  Claude Rains a well-known actor of stage and screen gave dramatic readings from Chaucer to T.S. Eliot.  His program was called “Great Words to Great Music” and was performed before a capacity crowd.  Mrs. Eleanor Roosevelt spoke on “The United Nations Today”.  Mrs. Roosevelt was a United States representative to the UN General Assembly from 1945 to 1952 and in 1946 became the chairman of the UNESCO committee on human rights. Chet Huntley radio commentator and news analyst gave a talk on “Our Foreign Policy Today”.  The last performer of the 1953-1954 Sunday Forum was Kathryn Turney Garten who returned for her 17th appearance.  Her subject was a dramatization of “The Bible as Living Literature”. </p>
+	 		</scopecontent> 		
+	 	</c02>
+	 	<c02>
+	 		<did><unittitle>Loose items, 1952-1954</unittitle>
+	 			<container type="box">3</container>
+	 			<container type="folder">2 </container>
+	 		</did>
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <unittitle>Album 6, 1954-1956 </unittitle>
+	 			<container type="box"> 3</container>
+	 			<container type="folder">3</container>	
+	 		</did>
+	 		<scopecontent> 
+	 			<head>Scope and Content Note</head> 
+	 			<p>1954-1955 Season.  Notable speakers were:  Senator Barry Goldwater of Arizona.  He gave an analysis of the “new look” in America’s Air Force calling it the greatest power for peace and that it was built for peace; Oveta Culp Hobby was the first secretary of the United States Department of Health, Education and Welfare and the only woman member of the  Eisenhower cabinet. She spoke on issues facing our country as seen through her department; Dr. Norman Vincent Peale American church leader and writer. Dr. Peal told Tucsonans to “End Worry --- Live Longer”; The Dublin Players of the Abby Theater Group appeared in two Irish plays “The Far Off Hills” and “ Pygmalion”; Yew Char, lecturer,  photographer, and former member of the Hawaiian legislature, spoke and showed films of the Hawaiian Islands. </p> 
+	 			<p>1955-56 Season. 1st term Representative Stewart Udall of Arizona spoke on “The Need for New Maturity in Public Life”.   Sylvia Porter, financial editor, of the New York Post topic was “The Brain has no Sex”.  Henry Hull was an American character actor presented “An evening with Mark Twain”. Jackie Robinson Brooklyn Dodger star and the first African American player in organized baseball talked to the forum about his career. Dr. Douglas M. Kelley a U.S. Army Intelligence officer who served as Nuremberg Prison Psychiatrist during the Nuremberg War Trials spoke at his 5th engagement for the Sunday Night forum.  His topic was “How to Keep Young in Mind”. Dr. Ralph Bunch undersecretary of the United Nations and Nobel Peace prize winner spoke on “Toward a World Both Free and Peaceful”.  Dana and Ginger Lambe noted explorers and authors presented a colored film entitled “The Lost Mission of Santa Ysabel”. The film was a documentation of their search for the mission and survival in the desert without food and water.  The final session of the season was a film produced by Col. John Dl Craig which details the history of the Atomic Bomb.</p>
+	 		</scopecontent> 		
+	 	</c02>
+	 	<c02>
+	 		<did><unittitle>Loose items, 1954-56</unittitle>
+	 			<container type="box">1</container>
+	 			<container type="folder">1 </container>
+	 		</did>
+	 	</c02>
+	 	<c02 level="file">
+	 		<did> <unittitle>Album 7, 1956-1957 </unittitle>
+	 			<container type="box"> 4</container>
+	 			<container type="folder">1</container>	
+	 		</did>
+	 		<scopecontent> 
+	 			<head>Scope and Content Note</head> 
+	 			<p> 1956-1957 Season.  The 2nd session of the season featured a debate on “Election Year Issues”.  Speaking for the Democratic Party was Senator A.S. Monroney of Oklahoma and ex-governor of Arizona Howard Pyle (now deputy assistant to President Eisenhower), represented the Republican point of view.  The debate was held at the Tucson High stadium because William R. Mathews President of Arizona State Board of Regents refused use of the University of Arizona Auditorium for a debate in which former Arizona Governor Pyle appeared. The traveling “World Affairs Council” a miniature U.N. Council appeared at the forum.  Dean Rusk president of the Rockefeller Foundation and General Education Board spoke on the subject of “Unfinished Business in Our Foreign Affairs”. Jacques Cartier an inter-nationally known actor-dancer presented a one man show giving his own dramatic impersonation of notable historic figures which was entitled “Figures of Fire”.  Dr. Ralph E. Lapp, nuclear scientist and director of Nuclear Science Services of Washington D.C. spoke about the changes in living through atomic science by the year 2000.</p> 
+	 			<p>1957-1958 Season.  Frederick C. Othman a syndicated newspaper columnist who gave a lighter side to news from Capitol Hill.  His topic was “Confusion on the Potomac”. Senator Barry Goldwater returned to the forum, his topic was “Report from Washington”. The Dublin Players return for their third appearance at the forum and performed the Bernard Shaw’s play “Arms and the Man”. Mrs. Eleanor Roosevelt returned to the forum for her second appearance the title of her lecture was “Russia the Country and People as I saw them”. Senator John F. Kennedy addressed the Sunday Night forum for the first time.  The topic of his speech was “America’s Leadership Reappraised”. Dr. Margaret Mead well-known anthropologist spoke on the topic “Sex and Temperaments, Male and Female”.  The final speaker of the season was Bishop Gerald Kennedy; head of the Methodist Church in the western area talk was entitled “Around the world in 30 Days”.  He reported on his interviews with Korean President Rhee and India’s leader Nehru.</p>
+	 			<p>1945-1946 Season. The first speaker for this season was William R. Mathews, editor and publisher of the Arizona Daily Star. Other speakers included: H.R. Knickerbocker a Pulitzer Prize Journalist and foreign correspondent; Kumar Goshal author of the “People of India”. </p>
+	 		</scopecontent> 		
+	 	</c02>
+	 	<c02>
+	 		<did><unittitle>Loose items, 1956-1957</unittitle>
+	 			<container type="box">4</container>
+	 			<container type="folder">2 </container>
+	 		</did>
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <unittitle>Album 8, 1958-1959 </unittitle>
+	 			<container type="box"> 4</container>
+	 			<container type="folder">3</container>	
+	 		</did>
+	 		<scopecontent> 
+	 			<head>Scope and Content Note</head> 
+	 			<p>Season 1958-1959: Speaker, Marquis Childs was a news analyst and columnist, his topic was “Two-Party Politics and T-Party Responsibility”.  Nelson Cruikshank director of the AFL-CIO Department of Social Security, Washington, D.C., spoke on “The Role of Government in Economic Security”.  Dr. Fayez Sayeghy, counselor for the Arab States Delegations Office at the United Nations criticized the United States for its support of the nation of Israel.   His topic was “The Arab World between East and West”.  Abba Eban, Israel’s ambassador to the United States and the head of the Israel delegation the UN spoke on “Israel Amongst the Nations” stating that peace will come only from the voluntary impulse of will and not from outside pressures.  Arizona Representative Steward Udall was a substitute for Senator Stuart Symington who canceled his appearance at the forum.   Steward Udall’s subject for his speech was “Outlook for the 86th Congress”. He also criticized President’s Eisenhower’s federal budget and predicted Hawaiian Statehood.   The Moral Rearmament presented the Phyllis Austin play “He Was Not There”.  The message of the play was that men’s heart must change if world peace is to be achieved.  Inez Robb one of the nation’s best known and favorite newspaper columnists spoke on “People and Places”.  Miss Robb was a world traveling reporter, war correspondent and human interest writer.   The final session for the 1958-1959 season included two travelogue films presented and narrated by Eric Pavel on the Philippines and Venezuela.  </p> 
+	 		</scopecontent> 
+	 	</c02>
+	 	<c02>
+	 		<did><unittitle>Loose items, 1958-1959</unittitle>
+	 			<container type="box">4</container>
+	 			<container type="folder">4 </container>
+	 		</did>
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did><unittitle>Album 9, 1959-1960</unittitle>
+	 			<container type="box">4</container>
+	 			<container type="folder">5</container>	
+	 		</did>
+	 		<scopecontent> 
+	 			<head>Scope and Content Note</head> 
+	 			<p>1959-1960 Season opened with an address from Dr. Martin Luther King entitled “A Great Time to be Alive”. Dr. King discussed the challenge American faced in order to accomplish racial integration believing that within five years much of the present mass resistance would be gone.  Arizona Governor Paul Fannin spoke on the topic “Changes and Challenges on the Arizona Scene”.  Senator Hubert Humphrey from Minnesota and presidential hopeful for 1960 spoke at the Sunday Night. Bertha D. Adkins undersecretary for Health, Education, and Welfare lectured on the “New Horizons for the Aging”.  Dr. W. Randolph Lovelace was a space medicine pioneer and the title of his speech was “Men in Space”.  Mrs. Hjordis K. Parker returned for her 4th engagement at the forum and presented the film “Norway Changing and Changeless” Cecil Brown, chief of the National Broadcasting Company’s Far East staff spoke on “The Menace of Red China”.  Avraham Harmoan, Israel ambassador to the United States the subject of his talk was “Israel and the Middle East”.  Senator Stuart Symington from Missouri and an aspirating Democratic candidate for president spoke on “A Foreign Economic Policy on the Road to Peace”.  This was John Goddard’s 2nd appearance at the forum.  He narrated his film “Conquest of the Congo”. John Godard was the first white man to explore the entire length of the Congo River. The 1960-1959 Season concluded with John D. Craig who narrated the film “Family Holiday in Europe.</p> 
+	 		</scopecontent> 		
+	 	</c02>
+	 	<c02>
+	 		<did><unittitle>Loose items, 1959-1960</unittitle>
+	 			<container type="box">4</container>
+	 			<container type="folder">6</container>
+	 		</did>
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <unittitle>Album 10, 1960-1961 </unittitle>
+	 			<container type="box"> 5</container>
+	 			<container type="folder">1</container>	
+	 		</did>
+	 		<scopecontent> 
+	 			<head>Scope and Content Note</head> 
+	 			<p>1960-61 Season opened with Don Cooper who presented his color film the “Klondike! Highway to Alaska”.  The 1st lecture of the season was given by Ron Landau an expert on North African affairs.  His topic was “North Africa Friend or Foe of the West”.   Dr. Milton Erickson, Phoenix psychiatrist, spoke on “The Medical Use of Hypnosis in Medicine”.  William C. Sullivan chief assistant to J. Edgar Hoover discussed ‘Communism in the United States and the Western Hemisphere”. The Little Gaelic Singers of Ireland performed on the Forum’s patron recognition night.  Dr. Khosro Khosrovay, minister of the Imperial Embassy of Iran in Washington, D.C. spoke on the “Economic Conditions in Iran”.  Robert Davis presented “Arizona Utopia” a colorful travelogue he produced and narrated.  The film included scenes of Mt. Lemmon, A Mountain, the UA Campus and Old Tucson.  Margaret Mead made her 3rd appearance at the forum and discussed the topic “How Flexible is Human Nature?”  A film produced on University of Arizona called “Campus International” was presented at the final forum of the 1960-61 Season.   </p> 
+	 		</scopecontent> 		
+	 	</c02>
+	 	<c02>
+	 	<did><unittitle>Loose items, 1960-1961</unittitle>
+	 			<container type="box">5</container>
+	 			<container type="folder">2 </container>
+	 		</did>
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <unittitle>Album 11, 1961-1962</unittitle>
+	 			<container type="box">5</container>
+	 			<container type="folder">3</container>	
+	 		</did>
+	 		<scopecontent> 
+	 			<head>Scope and Content Note</head> 
+	 			<p>1961-1962 Season opened with Don Cooper, travel photographer and humorist. Cooper returned for his 3rd appearance and presented his new film entitled “Sourdoughs to Senoritas. Dr. Frank Laubach, founder of the “Each One Teach One” returned to forum and spoke on the topic “The Communist – Report on Southeast Asia”.  Roscoe Drumond nationally known journalist and columnist discussed “The First Year of President Kennedy’s Administration.”  Stewart Udall, Interior Secretary of State, addressed the forum on the topic “Conservation: the Quiet Crisis”. Arizona’s Republican Senator Barry Goldwater and Norman Thomas, six times presidential candidate on the Socialist ticket, debated on the subject of “Conservatism vs. Socialism. Curtis Nagel returned for his 8th appearance at the Sunday Night forum. He narrated his film “Road to Mandalay”.  Senator John Tower of Texas, the only Republican Senator to be elected by a popular vote margin in Texas since the reconstruction, discussed “Conservatism in the South”.  Dr. Martin Luther King spoke for a 2nd time at the Sunday Night forum his topic was “Stride Toward Freedom”.  The film “Boldest Journey” a 40,000 miles odyssey through 24 countries of Europe, Asia and Africa was presented and narrated  by John Goddard.  
+	 			</p>		
+	 		</scopecontent> 		
+	 	</c02>
+	 	<c02>
+	 		<did><unittitle>Loose items, 1961-1962</unittitle>
+	 			<container type="box">5</container>
+	 			<container type="folder">4</container>
+	 		</did>
+	 		</c02>
+	 			<c02 level="file"> 
+	 				<did> <unittitle>Album 12, 1962-1963</unittitle>
+	 					<container type="box">6</container>
+	 					<container type="folder">1</container>	
+	 				</did>
+	 				<scopecontent> 
+	 					<head>Scope and Content Note</head> 
+	 					<p> 1962-1963 Season. Highlights included the debate between U.S. Representative Morris K. Udall and John J. Rousselot, representative from California as well as a national officer in the John Brich Society.  They debated on the topic “What is the best way to Fight Communism?”  Richard Graham the associate director and chief of recruitment for the Peace Corps discussed “The Peace Crops, in Profile”.  Conservative William F. Buckley debated liberal Sydney Lens on the subject “Is the Welfare State a Step Forward?”  Columnist Abigail Van Buren, known as “Dear Abby” spoke at the forum on the topic “The Trouble I’ve Seen.”  David Brinkley a NBC radio and television Correspondent, who had just finished his 6th season on the Huntley-Brinkley Report talked about the two myths from which the American public suffers.  Victor Riesel, a national syndicated labor columnist who specialized in labor unions, told the forum audience that today’s labor leaders will be tomorrow’s prime ministers. A program of Indian culture was featured at the Sunday night forum with guest speaker Philleo Nash, commissioner of Indian Affairs for the U. S. Interior Department. 
+	 					</p>		
+	 				</scopecontent> 		
+	 			</c02>
+	 			<c02>
+	 				<did><unittitle>Loose items, 1962-1963</unittitle>
+	 					<container type="box">6</container>
+	 					<container type="folder">2</container>			
+	 		</did>
+	 			</c02>
+	 	<c02 level="file"> 
+	 		<did> <unittitle>Album 13, 1963-1964</unittitle>
+	 			<container type="box">6</container>
+	 			<container type="folder">3</container>	
+	 		</did>
+	 		<scopecontent> 
+	 			<head>Scope and Content Note</head>
+	 			<p>1963-1964 Season. Prince Hubertus zu Loewenstien former member of the German Parliament and special advisor to the German Federal Government Information Office spoke to the forum on the topic of “The Federal Republic of Germany looks at the Nuclear Test Ban Treaty”.  Oregon Governor Mark Hatfield discussed the topic “Opportunity versus Importunity”.   Phillip Cummings, a news analyst lectured on “The Emerging Countries in Africa and Asia”. Congressman James Roosevelt from California addressed the forum on “Civil Rights and Liberties in 1963”.  General Lauris Norstad, Supreme Allied Commander in Europe and Commander-Chief of U.S. European Forces from 1956-1963, discussed “NATO, Past and Present.”  Curtis Nagel returned for his 10th appearance and presented a film entitled “Portraits of Scandinavia”.  Martin Agronsky a news analyst discussed “the United States in a Changing World.”  Television film producer, Eric Pavel narrated his film “The Alpine World’.  The 1963-1964 season closed with a film by Clifford Karmen entitle “The Union (Republic) of South Africa.  The film covers the major geographical areas, principle industries, native life, and unique game reserves of Africa. </p>
+	 		</scopecontent> 		
+	 	</c02>
+	 	<c02 level="file">
+	 		<did><unittitle>Loose items, 1963-1964</unittitle>
+	 			<container type="box">6</container>
+	 			<container type="folder">4</container>			
+	 		</did>
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <unittitle>Album 14, 1964-1965 </unittitle>
+	 			<container type="box">7</container>
+	 			<container type="folder">1</container>	
+	 		</did>
+	 		<scopecontent> 
+	 			<head>Scope and Content Note</head>
+	 			<p>1964-1965 Season was opened by Stan Midgely who presented a colored travel film called “Adventure in the Northwest”. Harlem Cleveland, assistant secretary of state for United Nations affairs spoke to the forum on the topic “The United Nations Today”. Drew Pearson a well-known Washington reporter spoke on “The Election’s Aftermath—Forecast for the Future”. Dr. Dale Liechty narrated a film about the hospital ship the SS Hope.  Walter Cronkite famous television newscaster addressed the forum on the topic “LBJ and the World”. Abigail Van Buren (Dear Abbey) made her second appearance at the forum. John Goddard, television star of “This Exciting World,” narrated his film on “Adventure in the Far East”.  Dean Burch, retiring chairman of the Republican Party, spoke on the past presidential election or “What Happen in 1964”. Robert Davis presented a travelogue on Belgium. Eric Pavel narrated a film entitled “Six Gateways to the Caribbean”. The 1964-1965 forum closed with a performance by the Rincon High School Chorus and a film called “The Valley of the Rhine” narrated by Clifford Kamen.</p>
+	 		</scopecontent> 		
+	 	</c02>
+	 	<c02>
+	 		<did><unittitle>Loose items, 1964-1965</unittitle>
+	 			<container type="box">7</container>
+	 			<container type="folder">2</container>			
+	 		</did>
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <unittitle>Album 15, 1965-1966 </unittitle>
+	 			<container type="box">7</container>
+	 			<container type="folder">3</container>	
+	 		</did>
+	 		<scopecontent> 
+	 			<head>Scope and Content Note</head>
+	 			<p>1965-1966 Season began with Stan Medgley narrating his “chucklelogue” film on Yellowstone, Grand Teton and Glacier National parks.  Phillip Cummings, news analyst and economic consultant, made his 6th appearance at the Sunday Night Forum. His topic was “American Business Abroad:  A Contribution to Peace or A problem to Diplomacy”.  W. Averell Harriman U.S. Ambassador-at-large spoke on “The Challenges to Freedom and Peace”.  Dr. J. Gerald Hooper narrated his new film “Only in Portugal”.  Senator Paul Fannin from Arizona lectured on the topic “Washington – As I See It”. Representative Ogden Reid from New York and former ambassador to Israel spoke on “Can Congress be more effective in Foreign Policy?” Senator Jacob K. Javits from New York lectured on “Foreign Policy and Bipartisanship”. Dr. Murray Banks, a clinical psychologist and humorist spoke on “Live, Love and Laugh”.  Dr. James Robinson presented a lecture and film on “Operation Crossroads”.  Rev. Dr. Robinson founded a summer student study and work camp program in which 250 students worked on various projects throughout Africa. Karl Robinson narrated his award winning film “Hong Kong” showing the diversity and intensity of the country.   The final program of the season featured the Liberty Singers, a group of University of Arizona folk singers.</p>
+	 		</scopecontent> 		
+	 	</c02>
+	 	<c02>
+	 		<did><unittitle>Loose items, 1965-1966</unittitle>
+	 			<container type="box">7</container>
+	 			<container type="folder">4</container>			
+	 		</did>
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <unittitle>Album 16, 1966-1967 </unittitle>
+	 			<container type="box">7</container>
+	 			<container type="folder">5</container>	
+	 		</did>
+	 		<scopecontent> 
+	 			<head>Scope and Content Note</head>
+	 			<p>1966-67 Season marked the 25th anniversary for the Sunday Night forum.  The season opened with Don Shaw who presented the film “Kingless Kingdom of Cambodia”.  Bill Mauldin a two-time Pulitzer Prize winter and editorial cartoonist gave an illustrated lecture.  Dr. Ralph J. Bunch, Undersecretary of the United Nations addressed the Sunday Night Forum on the topic “A Hard Look at the United Nations:  Its current Crisis and Prospects”. Dr. Margaret Mead, renowned anthropologist, topic was “Ourselves as Others See Us”.  Captain Irving Johnson narrated his latest film “Yankee Sails the Nile”.  Representative Morris K. Udall from Arizona spoke on the subject “Issues facing the 90th Congress”.  Curtis Nagel returned for his 13th appearance at the forum.  He narrated his latest travelogue “Portraits of Mexico”.  Gerald Ford, Republication Minority Leader from Michigan spoke on the topic “Our Republic – A review and Preview”.  Bishop James A. Pike, former bishop of the Episcopal Diocese of California, lectured on the “Conflict Between Science and Religion”.  David Brinkley spoke to the Forum about international communism. John Morley, a syndicated columnist who had just completed around-the-world trip spoke on the topic “I Saw Today’s Headline World”:   Jose Molina and his company of Bailes Espanoles performed for the 25th Annual Patron Recognition Night.</p>
+	 		</scopecontent> 		
+	 	</c02>
+	 	<c02>
+	 		<did><unittitle>Loose items, 1966-1967</unittitle>
+	 			<container type="box">7</container>
+	 			<container type="folder">6</container>			
+	 		</did>
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <unittitle>Album 17, 1967-1969 </unittitle>
+	 			<container type="box">8</container>
+	 			<container type="folder">1</container>	
+	 		</did>
+	 		<scopecontent> 
+	 			<head>Scope and Content Note</head>
+	 			<p>1967-1969 Season was launched with Jens Bjerre, a Danish film producer.  He narrated his graphic film called “Red China” which lifted the Bamboo Curtain and portrayed Mao Tse-tungs Red China.  Philip Cummings, economic consultant and news analyst discussed “The American Commitment: Is It Too Great?”.  Arizona Representative Morris K. Udall declared that he had changed his mind on the Vietnam war and advocated the “de-escalation and de--Americanization of the war”.  U.S. Representative John J. Rhodes spoke on the “Evolving Political Patterns of the late 20th century. Art Buchwald syndication humor columnist discussed his view on life as a “Son of the Great Society”.  The Branko Krsmanovic Chorus of 80 voices from Yugoslavia performed for the Annual Patron Recognition Night.  Harry Golden humorist and author lectured on “Only in America”, in which he attacked the primary problems facing America. Former Tucsonan Peter Grose, Washington correspondent for the New York Times spoke on the topic “Changes in the Soviet Union and how they affect the United States and our future relations”.  Eric Sevareid a CBS television correspondent spoke to the forum and called President’s Johnson decision not to seek re-election a possible political tragedy.  Eric Pavel once again presented the final session of the season with narration of his film “Florence and the Heart of Italy”.</p>
+	 			<p>1968-1969 Season began with a film entitled “Bavaria, The Best of Southern Germany” narrated by Clay Francisco.  Former Tucsonan Larry C. Mcquade, assistant secretary of commerce for domestic and international business addressed the forum on the topic on “The U.S. Dollar at Home and Abroad”.  Arizona Representative Morris K. Udall returned to address the forum on the subject “The Meaning of the 1968 Elections”.  Senator Mark Hatfield spoke on “Who Won?  In the 1968 elections”.  United States Attorney General Ramsey Clark told Tucsonans that “Poverty spawns crime and crime can be cured if American cared enough to remedy its root causes”:  Burch Mann’s Ballet America performed “Big Country” performed at the Annual Patron Recognition Night.  David Brinkley appeared for his third engagement of the Saturday Night Forum.  He had just finished his 12th season of the Huntley – Brinkley Report and his topic was “Late Line News”.  The forum presented a two member panel which discussed the “The Role of Government in Medical Care”.  The discussion members were Edward R. Annis, MD, past president of the American Medical Association and Rashi Fein, Ph.D., professor of economics of medicine at Harvard University. Mrs. Martin Luther King, Jr. (Coretta Scott King) addressed the forum on the topic “The Individual’s Role in Today’s Turbulent World”.</p>
+	 		</scopecontent> 		
+	 	</c02>
+	 	<c02>
+	 		<did><unittitle>Loose items, 1967-1969</unittitle>
+	 			<container type="box">8</container>
+	 			<container type="folder">2</container>			
+	 		</did>
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <unittitle>Album 18, 1969-1971 </unittitle>
+	 			<container type="box">8</container>
+	 			<container type="folder">3</container>	
+	 		</did>
+	 		<scopecontent> 
+	 			<head>Scope and Content Note</head>
+	 			<p>1969-1970 Season was opened with Lisa Hobbs, foreign correspondent who spoke on the topic “Red China Report”.  U.S. Representative Rogers C. B. Morton from Maryland and secretary of the National Republican Congressional Committee spoke to the forum on the topic “The Republican Party meets the Challenges of the 70s”.  Representative Morris K. Udall of Arizona lectured on “A Scenario for the 70’s”.  Dr. S.I. Hayakawa , president of riot torn San Francisco State College addressed the forum on the topic of “ An Assessment of the Campus Scene”.  Paul Harvey, news commentator gave the forum his opinions of the ills and wonders of the United States and it role in international politics.  Up With People, a group of young musician, singers and dancers, performed at the Patron’s Recognition Night of the Sun Evening Forum.  Mike Wallace, CBS news correspondent and on-the-air editor of the TV series 60 Minutes addressed the forum on the topic “The Press – Credible or Incredible?”.</p>
+	 			<p>1970-1971 Season was opened with John Goddard, who returned for his 8th appearance, narrated his new documentary film “Exploring African Wonderlands”.  Galo Plaza, secretary-general of the Organization of American States (OAS), addressed the forum on “The Organization of American States in the 1970’s”.  Ralph Nader, Head of the Center for Study of Responsive Law, spoke on” Consumer Protection”.  Native Arizona Richard Kleindienst, Deputy Attorney General to the United States spoke on “The Department of Justice Today – A Progress Report”.  Park T. Hart, president of the Middle East Institute and former Ambassador to Turkey, Saudi Arabia, Kingdom of Kuwait and Jordan, spoke on “An American Policy of the Middle East.   U.S. Senator Robert Packwood from Oregon lectured on the topic “Sex and Survival”.  Ballet America appeared for the 2nd time at the Annual Patron Recognition Night.  Howard K. Smith ABC television newsman reported on “The Changing Challenge to America”.  Mayor Carl B. Stokes of Cleveland, the first African American to be elected to head a major city, spoke to the forum and spelled out his program for the survival of America’s cities.  Representative Martha Griffiths from Michigan lectured on “Equal Rights for Women”. Eric Pavel closed out the 1970-71 season with his documentary film “Spain”.</p>
+	 		</scopecontent> 		
+	 	</c02>
+	 	<c02>
+	 		<did><unittitle>Loose items, 1969-1971</unittitle>
+	 			<container type="box">8</container>
+	 			<container type="folder">4</container>			
+	 		</did>
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <unittitle>Album 19, 1971-1973 </unittitle>
+	 			<container type="box">9</container>
+	 			<container type="folder">1</container>	
+	 		</did>
+	 		<scopecontent> 
+	 			<head>Scope and Content Note</head>
+	 			<p> 1971-1972 Season opened with William Moore who presented his color documentary film “Portraits of Australia”.  John McCook Roots, foreign correspondent, spoke on the topic “China and the World Community – What Next?”.  Kansas Senator Robert J. Dole the Republican National Chairman predicted a Richard Nixon-Hubert Humphrey rematch in the 1972 presidential election.  Hjordis Kittel Park presented her documentary film the “Norse Adventure”.  John W. Gardener, Chairman of Common Case told the forum that organized citizen action was the best way to rehabilitate America’s political and government institutions.  Up With People performed for a second time at the Annual Patron Recognition Night.  Jackie Robinson, the first African American player in major league baseball and a vice president of the National Association for the Advancement of Colored People (NAACP) spoke to forum on the topic “The Challenge of the Seventies”.  Ambassador George Bush permanent representative of the U.S. to the United Nations, spoke on “A Critical Look at the U.N.”.  ABC news reporter Harry Reasoner spoke about President Nixon’s trip the Red China. The final presenter of the 1971-72 was Russ Potter who narrated his color film “High Himalaya”.</p>
+	 			<p>1972-1973 Season opened with Gene Wiancko narrating his film “Yugoslavia and the Slavic Race”. John McCook Roots, foreign correspondent, reported on his recent trip to China and his meeting with Premier Chou En-lai.  Norman Cousin, editor and founder of the magazine “World” gave an address entitled “World Report”, he emphasized that the biggest task world nations have is to build the strength of the United Nations.  Dewitt Jones presented a film documentary on the Sierra Mountain Range and the founder of the Sierra Club, John Muir.  Executive Director of the United Negro Fund and former Assistant Secretary in the Department of Labor spoke on the topic “Post Elections – Where Do We Go From Here?”  Dick Reddy, journalist and producer of motion pictures, narrated his film “Mark Twain in Switzerland”.  Huge Downs, former host of the NBC “Today Show” gave a speech on “The Media and the Ecological Crisis”.  The Folk Ensemble from Yugoslavia called Radost was presented at the Annual Patron Recognition Night.  Daniel Brown, director Office of Policy and Plans, Bureau of Public Affairs, Department of State, spoke on the “United States and Problems of the Middle East”.  The Forum presented a Mexican Fiesta co-sponsored with the Tucson Festival Society, the program featured Los Payadores de Pueblo and Grupo Folkloric de Pima College.   Harry Pederson, underwater photographer narrated his film “The Village Beneath the Sea” in the final program of the season.</p>
+	 		</scopecontent> 		
+	 	</c02>
+	 	<c02>
+	 		<did><unittitle>Loose items, 1971-1973</unittitle>
+	 			<container type="box">9</container>
+	 			<container type="folder">2</container>			
+	 		</did>
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <unittitle>Album 20, 1973-1974</unittitle>
+	 			<container type="box">9</container>
+	 			<container type="folder">3</container>	
+	 		</did>
+	 		<scopecontent> 
+	 			<head>Scope and Content Note</head>
+	 			<p> 1973-1974 Season opened with Chris Borden, producer of documentary films and graduate of the University of Arizona, narrated his film “Micronesia-America’s Pacific Paradise”.  John McCook Roots spoke about his visit to the Middle East and his talks with Israeli Prime Minister Golda Meir and Egyptian Foreign Minister El Zayyat.  Congressman Morris K. Udall and economist Dr. Charles Walker, former deputy Treasury Secretary, debated “Tax Reform – What’s a Loophole?”.  Maynard H. Jackson, newly elected mayor of Atlanta, Georgia, spoke on his policies and future plans for Atlanta.  Hjordis Kittel Parker presented her documentary film “Scandinavian Medley”.  John Chancellor, reporter for the NBC Nightly News, spoke on Watergate.  Walter S. Dodson, Curtis Nagel, Thayer Soule, and Eric Pavel presented their films on Israel, the Rhine, Kenya, and England respectively.</p>
+	 		</scopecontent> 		
+	 	</c02>
+	 	<c02>
+	 		<did><unittitle>Loose items, 1973-1974</unittitle>
+	 			<container type="box">9</container>
+	 			<container type="folder">4</container>			
+	 		</did>
+	 	</c02>
+	 		<c02 level="file">
+	 	<did> <unittitle>Album 21, 1974-1975, 1975-1976</unittitle>
+	 		<container type="box">9</container>
+	 		<container type="folder">5</container>	
+	 	</did>
+	 	<scopecontent> 
+	 		<head>Scope and Content Note</head>
+	 		<p> The 1974-1975 Season opened with Scandinavian photographer Ed Lark presenting his documentary film “Norway”.  Elliot Richardson, former U.S. Attorney General for the Nixon Administration spoke on the topic “New Politics”.  Ken Wolfgang, producer of educational, industrial and historical films, narrated he documentary “In Search of Singapore”:  House Minority Leader John J. Rhodes Republican from Arizona, spoke about the national political atmosphere following the Watergate scandal.  Stan Midgley narrated his film “California”. Simcha Dintz, Israel’s ambassador to the United States, spoke on the U.S. – Arab arms deal. Humorist Don Cooper, narrated his film documentary “Lumberjack in Alaska”.  Thayer Soule, film-lecturer, presented his film “I Love Mexico”. Dr. Martin Luther King Sr., minister and father of the late Dr. Martin Luther King Jr., spoke at the forum on the subject “A Misplaced Emphasis”.  The Hungarian Folk Ballet and the Gypsy Orchestra performed for the annual Patron Recognition Night.  Howard K. Smith, co-anchorman on the “ABC Evening News”, topic was the “Changing Challenge to America”.  Arthur Twomey, director of the Carnegie Institute narrated his film “Asiatic U.S.S.R. and Outer Mongolia.  Robin Williams, film-lecturer, narrated his film “Life of Rome”, it was the last presentation of the 1974-75 season.</p>
+	 		<p>The 1975-1976 Season opened with John Goddard, explorer and adventurer, he presented his film “Exploring Asian Wonderlands.  Chris Borden narrated his documentary film “Iran – The Persia of Old”.  Julian Bond, a Georgia State Senator and African American political leader, spoke to the forum on the subject “Apotheosis of the New Politics”.   Jonathan Hagar, journalist and film-lecturer, narrated his film “Central America”. Senator James L. Buckley from New York spoke on federalism in the federal government. Robin Williams, University of Arizona graduate, presented a slide show entitle “Greek Island Odyssey”.  The Sunday Evening Forum presented a special Bicentennial musical program entitled “In Harmony with Freedom” staring Norman Atkins and Judith McCauley.  Added to the evenings program was a final farewell tribute to Ms. Mary Jefferies Bruce.  Stan Migley presented the travel film “Colorado – The Centennial State”.   David Brinkley, NBC newsman, spoke at the forum and predicted Gerald Ford would win the Presidential Election.   The American International Folk Ballet performed for the Annual Patron Recognition Program: “Arizona Adventure” a documentary film was present by Robert Davis.  Another Bicentennial program was presented “The Indian Cultural Heritage” in music and dance.  The program included a tribute Ms. Mary Jeffries Bruce, who retired as director of the Forum following the night’s performance: Ken Wolfgang presented his documentary film “Ageless India”.</p>
+	 	</scopecontent> 		
+	 	</c02>
+	 	<c02>
+	 		<did><unittitle>Loose items, 1974-1974, 1975-1976</unittitle>
+	 			<container type="box">9</container>
+	 			<container type="folder">6</container>			
+	 		</did></c02>
+	 	</c01>
+	 	<c01 level="series" id="ser2"> 
+	 		<did>
+	 		<unittitle> Series II Retirement booklet,
+	 				<unitdate type="inclusive" normal="1976" era="ce" calendar="gregorian">1976</unitdate>
+	 		</unittitle>	 
+	 			</did>
+	 		<c02 level="file"> 
+	 			<did> <unittitle>Retirement booklet</unittitle>
+	 				<container type="box">9</container>
+	 				<container type="folder">7</container>	
+	 			</did>
+	 			<scopecontent> 
+	 				<head>Scope and Content Note</head> 
+	 				<p>A bound collection of letters written by former guests of the Sunday Night Forum given to Ms. Mary Jefferies Bruce upon her retirement by the Board of Directors of the Sunday Night Forum and signed by the Chairman, Rev. Stanley C. Brown.</p></scopecontent>		
+	 		</c02>		
+	 </c01>
+  	<c01 level="series" id="ser3"> 
+  		<did>
+  			<unittitle> Series III Oleg Kirillov materials,
+  				<unitdate era= "ce" calendar= "gregorian">1960-1993</unitdate>
+  			</unittitle>	 
+  		</did><scopecontent> 
+  			<head>Scope and Content Note</head> 
+  			<p>Contains materials collected by Oleg Kirillov, who met Mary Jeffries Bruce via a bookstore in St. Petersburg and developed a lasting friendship. Bruce refers to herself as Kirillov’s aunt in correspondence. Series includes correspondence, clippings and photographs.</p></scopecontent>	
+  		<c02 level="file"> 
+  			<did> <unittitle>Correspondence from Mary Jeffries Bruce to Oleg Kirillov and family, 1963-1993</unittitle>
+  				<container type="box">10</container>
+  				<container type="folder">1-3</container>	
+  			</did>
+  				
+  		</c02>	
+  		<c02 level="file"> 
+  			<did> <unittitle>The Sunday Evening Forum, Preview of Programs, 1962-1975</unittitle>
+  				<container type="box">10</container>
+  				<container type="folder">4</container>	
+  			</did>
+  			
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <unittitle>Pamphlets and ephemera, 1960, 1963, 1972</unittitle>
+  				<container type="box">10</container>
+  				<container type="folder">5</container>	
+  			</did>
+  			
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <unittitle>Clippings, 1958-1989</unittitle>
+  				<container type="box">10</container>
+  				<container type="folder">6-7</container>	
+  			</did>
+  			
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <unittitle>Photographs, portraits of Bruce and family, 1976-1980</unittitle>
+  				<container type="box">10</container>
+  				<container type="folder">8</container>	
+  			</did>
+  			
+  		</c02>
+  	</c01>
+  </dsc> 
+</archdesc></ead>

@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+   <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0"> 
+      <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special Collections//text
+		(US::AzU::Letter Book of J. H. Stout)//en""UAAZ119.xml"
+      </eadid> 
+      <filedesc> 
+         <titlestmt> 
+         	<titleproper encodinganalog="title">Letter Book of J. H. Stout,
+	 	       <date normal="1871/1875" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">1871-1875</date>
+	 	    </titleproper>
+	 	    <titleproper type="filing" altrender="nodisplay"> Stout, (J. H.) Letter Book of,
+            </titleproper>
+	        <author>Processed by Staff.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date normal= "2015" era= "ce" calendar = "gregorian">; 2015</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+            <date era="ce" encodinganalog="date" normal="20151204">December 04, 2015</date>
+  	     </creation>
+	     <langusage>Finding aid encoded in<language> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+      <did id="a1"> 
+         <head>Collection Summary</head> 
+      	<unittitle encodinganalog="245" label="Collection Name:"> Letter Book of J. H. Stout,
+            <unitdate type="inclusive" label="Dates:" normal="1871/1875">1871-1875</unitdate>
+  	     </unittitle>	 
+	     <unitid label="Collection Number:" encodinganalog="099" repositorycode="AzU" countrycode="us">AZ 119</unitid>
+	     <origination label="Creator:"> 
+            <persname source="lcnaf" encodinganalog="100">Stout, J. H.</persname> </origination>
+      	<abstract label="Abstract:">J.H. Stout was a U.S. Special Indian Agent for U.S. Indian Agency at the Gila River Indian Reservation. 
+      								The collection contains a holograph, carbon letter book covering the period December 1, 1871 
+      								to March 21, 1875. Letters are from Stout chiefly to his superiors and benefactors back east and 
+      								describe the needs and conditions of the people and the reservation school.</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description:"><extent>.1 linear feet</extent></physdesc>	 
+	     <repository label="Repository:"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng" scriptcode="Latin">English.</language></langmaterial>
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+         <p>Patrons must use transcript due to fragile condition of original. 2 copies of transcript available.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+      	<p>Letter Book of J. H. Stout (AZ 119). Special Collections, University of Arizona Libraries.</p>
+      </prefercite> 
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Staff.</p>
+      </processinfo>
+      <bioghist id="a2" encodinganalog="545"> 
+         <head>Biographical Note</head> 
+      	<p>U.S. Special Indian Agent for U.S. Indian Agency at the Gila River Indian Reservation.</p> 
+      </bioghist> 
+      <arrangement id="a4" encodinganalog="351$a"> 
+         <head>Arrangement</head> 
+  	     <p>This collection is organized in chronological arrangement.</p>
+      </arrangement> 
+      <scopecontent id="a3" encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>Holograph, carbon letter book covering the period December
+      	1, 1871 to March 21, 1875. Letters are from Stout chiefly
+      	to his superiors and benefactors back east and describe 
+      	the needs and conditions of the people and the reservation
+      	school. Issues of annuity goods are discussed several 
+      	times. Major addressees are Vincent Colyer, Secretary of 
+      	the Board, Indian Commission, Rev. J.M. Ferris, and Mrs. 
+      	J.W. Martin. Includes summary and notes by Ray Brandes, 
+      	1959; a four-page letter addressed to Dr. H. Bendell; and 
+      	a transcript made by Paul G. Weimann.</p> 
+      </scopecontent> 
+      <relatedmaterial id="a6" encodinganalog="5441">
+      	<p>Title from the Henry F. Dobyns Library.</p>
+      </relatedmaterial>
+      <controlaccess>
+         <head>Access Terms</head>
+         <list type="simple">
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Apache Indians -- Education -- History -- 19th century.</subject>
+         	</item>
+  		    <item>
+  			   <subject encodinganalog="650" source= "lcsh">Pima Indians -- Education -- History -- 19th century.</subject>
+  		    </item>
+  		    <item>
+  			   <geogname encodinganalog="651" source="lcsh">Arizona -- History -- Sources.</geogname>
+  		    </item>
+         	<item>
+         		<geogname encodinganalog="651" source="lcsh">Gila River Indian Reservation (Ariz.) -- History -- 19th century.</geogname>
+         	</item>
+         </list>
+      </controlaccess>
+   </archdesc>
+</ead>

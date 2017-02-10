@@ -1,0 +1,1837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?filetitle Eastlake, William Papers?>
+<ead relatedencoding="MARC21"> 
+<eadheader audience="internal" findaidstatus="edited-full-draft"
+ langencoding="iso639-2b"> 
+  <eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
+	 Special Collections//text(US::AzU::William Eastlake Papers)//en"
+	 "UAMS383.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">William Eastlake papers, 
+		  <date>1929-1997</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Deborah
+		  Devereaux.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+		<publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		  Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+</address> 
+		<date>&#x00A9; 2004</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation encodinganalog="500">Inventory encoded by Rachel G. Nelson. 
+		<date>May 11, 2005</date></creation> 
+	 <langusage>Inventory is in<language langcode="en" encodinganalog="546">
+		English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper encodinganalog="245$a">William Eastlake papers, 
+		<date>1929-1997</date></titleproper> 
+	 <num>Collection Number: MS 383</num> 
+	 <publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Deborah Devereaux</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>March 2003</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Rachel G. Nelson</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 2004. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name:">William Eastlake
+		papers, 
+		<unitdate type="inclusive"
+		 normal="1929/1997">1929-1997</unitdate></unittitle> 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	  repositorycode="AzU" countrycode="us">MS 383</unitid> 
+	 <origination label="Creator:"> 
+		<persname encodinganalog="100">Eastlake, William.</persname>
+		</origination> 
+	 <abstract label="Abstract:">This collection consists of the papers of
+		William Eastlake. Articles, book reviews, manuscripts, and photographs are
+		either by or about William Eastlake. The articles contained in this collection
+		are primarily short stories Eastlake contributed to various periodicals, but
+		also included are articles about Eastlake from various newspapers and
+		periodicals. The collection also contains clippings of book reviews for
+		Eastlake's books, as well as many handwritten manuscripts for Eastlake's short
+		stories and books. Miscellaneous materials primarily include announcements and
+		programs for Eastlake's lectures, book publishers' catalogs, and a calendar.
+		The photographs in this collection are primarily of William Eastlake, but also
+		included are photographs of his ranch in New Mexico and various other
+		individuals.</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+		encodinganalog="300">5 linear feet</extent></physdesc> 
+	 <repository label="Repository:"> 
+		<corpname encodinganalog="110">University of Arizona Libraries, Special
+		  Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address></repository> 
+  </did> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Restrictions</head> 
+	 <p>None.</p> 
+  </accessrestrict> 
+  <userestrict encodinganalog="540"> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Credit Line</head> 
+	 <p>William Eastlake papers (MS 383). University of Arizona Libraries, Special
+		Collections.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+	 <p>William Eastlake was a writer who was born on July 14, 1917. He grew up
+		in New Jersey during the Great Depression, and following high school he
+		hitchhiked across the country. Eastlake enlisted in the US Army in 1942. He
+		served in the Infantry for four and a half years, and was wounded while leading
+		a platoon during the Battle of the Bulge. Following the war, Eastlake spent
+		several years in Europe. After returning from Europe in the 1950s, Eastlake
+		settled on a ranch in New Mexico. He wrote many short stories and novels about
+		New Mexico and the Southwest including 
+	 <title>Go in Beauty</title>, 
+	 <title>The Bronc People</title>, 
+	 <title>Portrait of an Artist with Twenty-six Horses</title>, and 
+	 <title>Dancers in the Scalp House</title>. </p> 
+	 <p>Eastlake also worked as a correspondent in 1968 in Vietnam for 
+	 <title> The Nation</title>, and wrote several war novels including 
+	 <title>Castle Keep</title>, 
+	 <title>The Bamboo Bed</title>, and 
+	 <title>The Long Naked Descent into Boston</title>. In addition to his
+	 novels, Eastlake was a lecturer at the University of Arizona, the University of
+	 New Mexico, and the University of California. He also contributed many short
+	 stories to periodicals, including 
+	 <title> New Mexico Quarterly</title>, 
+	 <title>Harper's</title>, and 
+	 <title>Evergreen Review</title>.</p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into five</p> 
+	 <list> 
+		<item>Series I: Articles, 
+		  <unitdate type="inclusive"
+		  normal="1947/1997">1947-1997</unitdate></item> 
+		<item>Series II: Book Reviews, 
+		  <unitdate type="inclusive"
+		  normal="1956/1997">1956-1997</unitdate></item> 
+		<item>Series III: Manuscripts, 
+		  <unitdate type="inclusive"
+		  normal="1945/1984">1945-1984</unitdate></item> 
+		<item>Series IV: Miscellaneous Materials and Text Book Appearances, 
+		  <unitdate type="inclusive"
+		  normal="1962/1991">1962-1991</unitdate></item> 
+		<item>Series V: Photographs, 
+		  <unitdate type="inclusive"
+		  normal="1929/1984">1929-1984</unitdate></item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>This collection consists of the papers of William Eastlake. Articles,
+		book reviews, manuscripts, and photographs are either by or about William
+		Eastlake. The articles contained in this collection are primarily short stories
+		Eastlake contributed to various periodicals, but also included are articles
+		about Eastlake from various newspapers and periodicals. The collection also
+		contains clippings of book reviews for Eastlake's books, as well as many
+		handwritten manuscripts for Eastlake's short stories and books. </p> 
+	 <p>Miscellaneous materials primarily include announcements and programs for
+		Eastlake's lectures, book publishers' catalogs, and a calendar. The photographs
+		in this collection are primarily of William Eastlake, but also included are
+		photographs of his ranch in New Mexico and various other individuals.</p> 
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="600">Eastlake, William--Archives.</persname>
+		  </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject encodinganalog="650">Short stories, American -- 20th century.</subject> </item> 
+		<item> 
+		  <subject encodinganalog="650">Authors, American -- 20th century -- Archives.</subject>
+		  </item> 
+		<item> 
+			<subject  encodinganalog="650">Western Stories.</subject> </item> 
+		<item> 
+		  <geogname encodinganalog="651">West (U.S.) -- In literature.</geogname></item> 
+		<item> 
+			<subject  encodinganalog="650">American literature -- Southwestern States.</subject> </item> 
+		<item> 
+			<subject  encodinganalog="650">American fiction -- 20th century.</subject></item> 
+		<item> 
+		  <geogname encodinganalog="651">New Mexico -- Fiction.</geogname></item> 
+		<item> 
+			<subject  encodinganalog="650">Vietnamese Conflict, 1961-1975 -- Fiction.</subject> </item> 
+	 </list> 
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+		  <unittitle>Series I: Articles, 
+			 <unitdate type="inclusive"
+			 normal="1947/1997">1947-1997</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">1</container> 
+			 <unittitle> 
+				<title>Essai</title>: "Ishimoto's Land", 
+				<unitdate type="inclusive" normal="1947">Summer
+				  1947</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle> 
+				<title>Accent</title>: "Little Joe", 
+				<unitdate type="inclusive" normal="1954"> Autumn
+				  1954</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle> 
+				<title>The Hudson Review</title>: "Two Gentlemen from America", 
+				<unitdate type="inclusive" normal="1954">Autumn
+				  1954</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">4</container> 
+			 <unittitle> 
+				<title>Harper's Magazine</title>: "The Medicine Man", 
+				<unitdate type="inclusive" normal="1955">March
+				  1955</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">5</container> 
+			 <unittitle> 
+				<title>Harper's Magazine</title>: "The Quiet Chimneys", 
+				<unitdate type="inclusive" normal="1955">May
+				  1955</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">6</container> 
+			 <unittitle> 
+				<title>Am&#x00E9;ricas</title>: "The Chrome Covered Wagon", 
+				<unitdate type="inclusive" normal="1955">July
+				  1955</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">7</container> 
+			 <unittitle> 
+				<title>Harper's Magazine</title>: "The Bandits", 
+				<unitdate type="inclusive" normal="1956">September
+				  1956</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">8</container> 
+			 <unittitle> 
+				<title>Collier's</title>: "Where the Warriors Crossed", 
+				<unitdate type="inclusive" normal="1956">August 3,
+				  1956</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">9</container> 
+			 <unittitle> 
+				<title>The Hudson Review</title>: "The Unhappy Hunting Grounds", 
+				<unitdate type="inclusive" normal="1956">Autumn
+				  1956</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">10</container> 
+			 <unittitle> 
+				<title>Harper's Magazine</title>: "Flight of the Circle Heart", 
+				<unitdate type="inclusive" normal="1957">November
+				  1957</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">11</container> 
+			 <unittitle> 
+				<title>The Saturday Evening Post</title>: "Man Trap", 
+				<unitdate type="inclusive" normal="1958">March 29,
+				  1958</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">12</container> 
+			 <unittitle> 
+				<title>Evergreen Review</title>: "Portrait of an Artist with
+				Twenty-six Horses", 
+				<unitdate type="inclusive" normal="1958">Summer
+				  1958</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">13</container> 
+			 <unittitle> 
+				<title>The Nation</title>: "The Navajo and the Barfly", 
+				<unitdate type="inclusive" normal="1959">September 12,
+				  1959</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">14</container> 
+			 <unittitle> 
+				<title>Evergreen Review</title>: "Three Heroes and a Clown", 
+				<unitdate type="inclusive" normal="1959">December
+				  1959</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">15</container> 
+			 <unittitle> 
+				<title>The Magazine of Fantasy and Science Fiction</title>: "What
+				Nice Hands Held", 
+				<unitdate type="inclusive" normal="1961"> January
+				  1961</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">16</container> 
+			 <unittitle> 
+				<title>Harper's Magazine</title>: "A Bird on the Mesa", 
+				<unitdate type="inclusive" normal="1961">October
+				  1961</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">17</container> 
+			 <unittitle> 
+				<title>Evergreen Review</title>: "Something Big is Happening to
+				Me", 
+				<unitdate type="inclusive" normal="1962"> July
+				  1962</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">18</container> 
+			 <unittitle> 
+				<title>Literary Cavalcade</title>: "In a While Crocodile", 
+				<unitdate type="inclusive" normal="1963">October
+				  1963</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">19</container> 
+			 <unittitle> 
+				<title>Virginia Quarterly Review</title>: "A Long Day's Dying", 
+				<unitdate type="inclusive" normal="1963">Winter
+				  1963</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">20</container> 
+			 <unittitle> 
+				<title>New Mexico Quarterly</title>: "The Novels of William
+				Eastlake", 
+				<unitdate type="inclusive" normal="1964"> Summer
+				  1964</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">21</container> 
+			 <unittitle>(Publication Unknown): "Critical Study of Eastlake's
+				Novels Featured", 
+				<unitdate type="inclusive" normal="1964">Summer
+				  1964</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">22</container> 
+			 <unittitle> 
+				<title>Argosy</title>: "A Long Day's Dying", 
+				<unitdate type="inclusive" normal="1965">December
+				  1965</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">23</container> 
+			 <unittitle> 
+				<title>The Nation</title>: "Hooligans and Indians", 
+				<unitdate type="inclusive" normal="1966">January 3,
+				  1966</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">24</container> 
+			 <unittitle> 
+				<title>Harper's Magazine</title>: "There's a Camel in my Cocktail",
+				
+				<unitdate type="inclusive" normal="1966">April
+				  1966</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">25</container> 
+			 <unittitle> 
+				<title>The Nation</title>: "The Night We Bombed Peking", 
+				<unitdate type="inclusive" normal="1966">July 4,
+				  1966</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">26</container> 
+			 <unittitle> 
+				<title>Evergreen Review</title>: "Jack Armstrong in Tangier", 
+				<unitdate type="inclusive" normal="1966">August
+				  1966</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">27</container> 
+			 <unittitle> 
+				<title>The Nation</title>: "Alone on an Elephant", 
+				<unitdate type="inclusive" normal="1966">August 22,
+				  1966</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">28</container> 
+			 <unittitle> 
+				<title>The Nation</title>: "Dragon Train to Singapore", 
+				<unitdate type="inclusive" normal="1966">September 26,
+				  1966</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">29</container> 
+			 <unittitle> 
+				<title>The Nation</title>: "To Die in Vietnam", 
+				<unitdate type="inclusive" normal="1966">October 24,
+				  1966</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">30</container> 
+			 <unittitle> 
+				<title>Book Week</title>: "The Forked-Tongue Syndrome", 
+				<unitdate type="inclusive" normal="1967">January 29,
+				  1967</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">31</container> 
+			 <unittitle> 
+				<title>The Nation</title>: "The View from Pancho's Villa", 
+				<unitdate type="inclusive" normal="1967">October 2,
+				  1967</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">32</container> 
+			 <unittitle> 
+				<title>The Nation</title>: "Our Lord in Vietnam", 
+				<unitdate type="inclusive" normal="1967">November 13,
+				  1967</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">33</container> 
+			 <unittitle> 
+				<title>The Nation</title>: "Death of Seven Zipperheads", 
+				<unitdate type="inclusive" normal="1967">November 20,
+				  1967</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">34</container> 
+			 <unittitle> 
+				<title>Evergreen Review</title>: "The Last Frenchman in Fez", 
+				<unitdate type="inclusive" normal="1967">December
+				  1967</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">35</container> 
+			 <unittitle> 
+				<title>The Nation</title>: "Lost in Vietnam", 
+				<unitdate type="inclusive" normal="1967">December 4,
+				  1967</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">36</container> 
+			 <unittitle> 
+				<title>The Nation</title>: "Like a Small Dead Man", 
+				<unitdate type="inclusive" normal="1968">January 1,
+				  1968</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">37</container> 
+			 <unittitle> 
+				<title>The Nation</title>: "Three Purple Hearts, Two Turtle Doves
+				and an Ambush in a Flame Tree", 
+				<unitdate type="inclusive" normal="1968">January 22,
+				  1968</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">38</container> 
+			 <unittitle> 
+				<title>Book World</title>: "Great White Father Go Home", 
+				<unitdate type="inclusive" normal="1968">February 18,
+				  1968</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">39</container> 
+			 <unittitle> 
+				<title>The Nation</title>: "The Vietnam Dead", 
+				<unitdate type="inclusive" normal="1968">February 26,
+				  1968</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">40</container> 
+			 <unittitle> 
+				<title>The Atlantic</title>: "The Biggest Thing Since Custer", 
+				<unitdate type="inclusive" normal="1968">September
+				  1968</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">41</container> 
+			 <unittitle> 
+				<title>Evergreen Review</title>: "Now Lucifer is Not Dead", 
+				<unitdate type="inclusive" normal="1968">November
+				  1968</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">42</container> 
+			 <unittitle> 
+				<title>New Mexico Quarterly</title>: "The Message", 
+				<unitdate type="inclusive" normal="1968">Winter
+				  1968</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">43</container> 
+			 <unittitle> 
+				<title>Evergreen Review</title>: "The Hanging at Prettyfields", 
+				<unitdate type="inclusive" normal="1969">February
+				  1969</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">44</container> 
+			 <unittitle>(Publication Unknown): "UA's New Resident Writer Admits
+				Ability", 
+				<unitdate type="inclusive" normal="1969">August 13,
+				  1969</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">45</container> 
+			 <unittitle> 
+				<title>The Bulletin</title>: "William Eastlake excited about film
+				of his novel - but won't see it", 
+				<unitdate type="inclusive" normal="1969">August 19,
+				  1969</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">46</container> 
+			 <unittitle> 
+				<title>Evergreen Review</title>: "The Bamboo Bed", 
+				<unitdate type="inclusive" normal="1969">September
+				  1969</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">47</container> 
+			 <unittitle> 
+				<title>The Nation</title>: "Whitey's on the Moon Now", 
+				<unitdate type="inclusive" normal="1969">September 15,
+				  1969</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">48</container> 
+			 <unittitle> 
+				<title>Argosy</title>: "The Secret of the War", 
+				<unitdate type="inclusive" normal="1969">October
+				  1969</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">49</container> 
+			 <unittitle> 
+				<title>Arizona Daily Wildcat</title>: "Writer Eastlake Ventures
+				into the Artistic Fiber", 
+				<unitdate type="inclusive" normal="1969">October 3,
+				  1969</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">50</container> 
+			 <unittitle> 
+				<title>New Mexico Quarterly</title>: "Dead Man's Guide to
+				Mallorca", 
+				<unitdate type="inclusive" normal="1969">Winter
+				  1969</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">51</container> 
+			 <unittitle> 
+				<title>Sage</title>: "Interview with William Eastlake", 
+				<unitdate type="inclusive" normal="1969">Winter
+				  1969</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">52</container> 
+			 <unittitle> 
+				<title>Southwest Writer's Series</title>: "William Eastlake", 
+				<unitdate type="inclusive"
+				normal="1970">1970</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">53</container> 
+			 <unittitle> 
+				<title>Evergreen Review</title>: "The Dancing Boy", 
+				<unitdate type="inclusive" normal="1970">December
+				  1970</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">54</container> 
+			 <unittitle> 
+				<title>The Nation</title>: "Seven Firefights in Vietnam", 
+				<unitdate type="inclusive" normal="1971">January 11,
+				  1971</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">55</container> 
+			 <unittitle> 
+				<title>Western Review</title>: "William Eastlake: Portrait of the
+				Artist as Shaman", 
+				<unitdate type="inclusive" normal="1971">Spring
+				  1971</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">1</container> 
+			 <unittitle> 
+				<title>Skyline</title>: "Whites say Navajos have no Sacred
+				Shrines", 
+				<unitdate type="inclusive" normal="1971"> May
+				  1971</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">2</container> 
+			 <unittitle> 
+				<title>Les Lettres Nouvelles</title>: "Pancho et sa villa", 
+				<unitdate type="inclusive" normal="1972">September
+				  1972</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">3</container> 
+			 <unittitle> 
+				<title>Cosmopolitan</title>: "The Death of Sun", 
+				<unitdate type="inclusive" normal="1972">October
+				  1972</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">4</container> 
+			 <unittitle> 
+				<title>South Dakota Review</title>: "Writing about the West", 
+				<unitdate type="inclusive" normal="1973">Autumn
+				  1973</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">5</container> 
+			 <unittitle> 
+				<title>The Atlantic Monthly</title>: "Smoke", 
+				<unitdate type="inclusive" normal="1973"> November
+				  1973</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">6</container> 
+			 <unittitle> 
+				<title>Penthouse</title>: "Dancers in the Scalp House", 
+				<unitdate type="inclusive" normal="1973">December
+				  1973</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">7</container> 
+			 <unittitle> 
+				<title>Viva</title>: "Last Tango in Gallup", 
+				<unitdate type="inclusive" normal="1974">June
+				  1974</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">8</container> 
+			 <unittitle> 
+				<title>Ms.</title>: "Coyotes Love Me", 
+				<unitdate type="inclusive" normal="1974">September
+				  1974</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">9</container> 
+			 <unittitle> 
+				<title>Sports Illustrated</title>: "Today is Joy to their World", 
+				<unitdate type="inclusive" normal="1974">September
+				  1974</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">10</container> 
+			 <unittitle> 
+				<title>Genesis</title>: "Music on the Painted Bird", 
+				<unitdate type="inclusive" normal="1974">December
+				  1974</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">11</container> 
+			 <unittitle> 
+				<title>Genesis</title>: "The Naked Bike", 
+				<unitdate type="inclusive" normal="1975">March
+				  1975</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">12</container> 
+			 <unittitle> 
+				<title>Sports Illustrated</title>: "Booktalk", 
+				<unitdate type="inclusive" normal="1975"> May 12,
+				  1975</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">13</container> 
+			 <unittitle> 
+				<title>South Dakota Review</title>: "William Eastlake", 
+				<unitdate type="inclusive" normal="1975"> Autumn
+				  1975</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">14</container> 
+			 <unittitle> 
+				<title>Mountain Gazette</title>: "That's Emory Kolb", 
+				<unitdate type="inclusive" normal="1975"> November
+				  1975</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">15</container> 
+			 <unittitle> 
+				<title>Ms.</title>: "Mrs. Gage in her Bed of Pain with a Nice Cup
+				of Gin", 
+				<unitdate type="inclusive" normal="1977"> March
+				  1977</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">16</container> 
+			 <unittitle> 
+				<title>Critique</title>: "Absurdity and Oppositions in William
+				Eastlake's Southwestern Novels", 
+				<unitdate type="inclusive"
+				normal="1977">1977</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">17</container> 
+			 <unittitle> 
+				<title>South Shore</title>: "Don't Be Afraid, The Clown's Afraid
+				Too", 
+				<unitdate type="inclusive"
+				normal="1978">1978</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">18</container> 
+			 <unittitle> 
+				<title>Mule Mountain Observer</title>: "Comparing Russian Invasions
+				of Afghanistan and Czechoslovakia", 
+				<unitdate type="inclusive" normal="1980"> Jan. 23,
+				  1980</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">19</container> 
+			 <unittitle> 
+				<title>Mule Mountain Observer</title>: "Death Tastes Like Real
+				Coffee", 
+				<unitdate type="inclusive" normal="1980"> Feb. 6,
+				  1980</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">20</container> 
+			 <unittitle> 
+				<title>Mule Mountain Observer</title>: "When All the Young in
+				Arizona are Sleeping in a Hotel in Montreal", 
+				<unitdate type="inclusive" normal="1980">March 5,
+				  1980</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">21</container> 
+			 <unittitle> 
+				<title>Mule Mountain Observer</title>: "We Must Rage, Rage Against
+				the Dying of the Light", 
+				<unitdate type="inclusive" normal="1980">March 14,
+				  1980</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">22</container> 
+			 <unittitle> 
+				<title>Bisbee Mountain Journal</title>: "Why and How Billy Killed
+				Jimmy", 
+				<unitdate type="inclusive" normal="1980">August 7,
+				  1980</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">23</container> 
+			 <unittitle> 
+				<title>Bisbee Mountain Journal</title>: "Watchers of the World
+				Unite - You have Nothing to Gain but your Brains", 
+				<unitdate type="inclusive" normal="1980">August 21,
+				  1980</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">24</container> 
+			 <unittitle> 
+				<title>Mule Mountain Observer</title>: "Interview with
+				Author-Journalist William Eastlake", 
+				<unitdate type="inclusive" normal="1980">Nov. 13,
+				  1980</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">25</container> 
+			 <unittitle> 
+				<title>Arizona Daily Star</title>: "Perhaps its time to change the
+				way we're brought up", 
+				<unitdate type="inclusive" normal="1980">Dec. 22,
+				  1980</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">26</container> 
+			 <unittitle> 
+				<title>Herald Dispatch and Bisbee Review</title>: "Novelist William
+				Eastlake Talks of Ranching, Writer's Wrongs", 
+				<unitdate type="inclusive" normal="1981">Nov. 15,
+				  1981</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">27</container> 
+			 <unittitle> 
+				<title>Bisbee Times</title>: "One Man's Hero is Another Man's
+				Terrorist", 
+				<unitdate type="inclusive" normal="1982">February
+				  1982</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">28</container> 
+			 <unittitle> 
+				<title>Bisbee Times</title>: "Inside the Belly of the Whale", 
+				<unitdate type="inclusive" normal="1982">March
+				  1982</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">29</container> 
+			 <unittitle> 
+				<title>Bisbee Times</title>: "The View from Pancho's Villa", 
+				<unitdate type="inclusive" normal="1982">May
+				  1982</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">30</container> 
+			 <unittitle> 
+				<title>Arizona Daily Star</title>: "A Few Words of Protest Before
+				the Ultimate Silence", 
+				<unitdate type="inclusive" normal="1983">Dec. 4,
+				  1983</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">31</container> 
+			 <unittitle> 
+				<title>Fiction International</title>: "Forum: Writing on Politics",
+				
+				<unitdate type="inclusive"
+				normal="1984">1984</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">32</container> 
+			 <unittitle> 
+				<title>The Small-Towner</title>: "Elderberry Blood", 
+				<unitdate type="inclusive" normal="1984">Spring
+				  1984</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">33</container> 
+			 <unittitle> 
+				<title>Fiction International</title>: "A Tale of the Alhambra", 
+				<unitdate type="inclusive"
+				normal="1985">1985</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">34</container> 
+			 <unittitle> 
+				<title>Arizona Daily Star</title>: "Letters to the Editor", 
+				<unitdate type="inclusive"
+				normal="1985/1986">1985-1986</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">35</container> 
+			 <unittitle> 
+				<title>Arizona Daily Star</title>: "William Eastlake", 
+				<unitdate type="inclusive" normal="1985">May 12,
+				  1985</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">36</container> 
+			 <unittitle> 
+				<title>Arizona Daily Star</title>: "Ronald Reagan goes ahead -for
+				the Tech of it", 
+				<unitdate type="inclusive" normal="1986">January 2,
+				  1986</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">37</container> 
+			 <unittitle> 
+				<title>Los Angeles Times</title>: "Ian Paisley: An 'Ambassador in
+				Bonds' Speaks out Boldly", 
+				<unitdate type="inclusive" normal="1986">June 1,
+				  1986</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">38</container> 
+			 <unittitle> 
+				<title>Arizona Daily Star</title>: "Myth-information Will Bring
+				Orwell Back from the Grave", 
+				<unitdate type="inclusive" normal="1986">December 21,
+				  1986</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">39</container> 
+			 <unittitle>(Publication Unknown): "Bring Back Gorbie for Demo
+				Ticket", 
+				<unitdate type="inclusive" normal="1987">August 6,
+				  1987</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">40</container> 
+			 <unittitle> 
+				<title>Bisbee Magazine</title>: "William Eastlake: Portrait of an
+				Artist with One Dog", 
+				<unitdate type="inclusive" normal="1988">Spring
+				  1988</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">41</container> 
+			 <unittitle> 
+				<title>Albuquerque Journal Magazine</title>: "The Death of Sun", 
+				<unitdate type="inclusive" normal="1988">March 8,
+				  1988</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">42</container> 
+			 <unittitle> 
+				<title>City Magazine</title>: "Mecham Scuttlebutt in the People's
+				Republic", 
+				<unitdate type="inclusive" normal="1988">March
+				  1988</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">43</container> 
+			 <unittitle>(Publication Unknown): "The Best Walls are Built Within", 
+				<unitdate type="inclusive" normal="1988">March 2,
+				  1988</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">44</container> 
+			 <unittitle> 
+				<title>Arizona Daily Star</title>: "Why Women Won't Vote for
+				George", 
+				<unitdate type="inclusive" normal="1988"> July 15,
+				  1988</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">45</container> 
+			 <unittitle> 
+				<title>The Taos Review</title>: "The Writer as a Young Man", 
+				<unitdate type="inclusive"
+				normal="1990">1990</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">46</container> 
+			 <unittitle> 
+				<title>REAL West</title>: "Red Muslims and Uncle Tomahawks", 
+				<unitdate type="inclusive" normal="1991">Spring
+				  1991</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">47</container> 
+			 <unittitle> 
+				<title>Sierra Vista Herald Dispatch</title>: "Local Author Attends
+				Smithsonian Session", 
+				<unitdate type="inclusive" normal="1991">August 25,
+				  1991</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">48</container> 
+			 <unittitle> 
+				<title>The Journal</title>: "Prettyfields", 
+				<unitdate type="inclusive" normal="1992">Spring/Summer
+				  1992</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">49</container> 
+			 <unittitle> 
+				<title>Headwaters Review</title>: "Books Forge Axes for the Frozen
+				Seas Inside Us", 
+				<unitdate type="inclusive" normal="1992">November
+				  1992</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">50</container> 
+			 <unittitle> 
+				<title>Arizona Daily Star</title>: "Rush on Rush", 
+				<unitdate type="inclusive" normal="1994">March 30,
+				  1994</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">51</container> 
+			 <unittitle> 
+				<title>Arizona Daily Star</title>: "When Times are Hard, Become a
+				Downsizer", 
+				<unitdate type="inclusive" normal="1994">June
+				  1994</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">52</container> 
+			 <unittitle> 
+				<title>Arizona Daily Star</title>: "Classlessness still persists", 
+				<unitdate type="inclusive" normal="1995">May 15,
+				  1995</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">53</container> 
+			 <unittitle> 
+				<title>Arizona Daily Star</title>: "Eastlake was an Original as
+				Writer, Teacher", 
+				<unitdate type="inclusive" normal="1997">July 6,
+				  1997</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">54</container> 
+			 <unittitle> 
+				<title>Albuquerque Journal</title>: "War Coverage Lacking, Author
+				Feels", 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">55</container> 
+			 <unittitle>(Publication Unknown): "Author William Eastlake Dies", 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">56</container> 
+			 <unittitle>(Publication Unknown): "Christian 'Beast' Symbolizes our
+				Society's Lack of Options", 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">57</container> 
+			 <unittitle>(Publication Unknown): "Crossing the Continent at 20
+				m.p.h.", 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">58</container> 
+			 <unittitle> 
+				<title>Arizona Daily Star</title>: "Even Today, Jefferson would
+				Believe in the People", 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">59</container> 
+			 <unittitle>(Publication Unknown): "Interview with Eastlake -America:
+				Nation of Intruders", 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">60</container> 
+			 <unittitle>(Publication Unknown): "Republicanitis: When you know you
+				show the symptoms", 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">61</container> 
+			 <unittitle>(Publication Unknown): "Shoah is required viewing for the
+				intolerant", 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series" id="ser2"> 
+		<did> 
+		  <unittitle>Series II: Book Reviews, 
+			 <unitdate type="inclusive"
+			 normal="1956/1997">1956-1997</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">62</container> 
+			 <unittitle>Book Reviews, 
+				<unitdate type="inclusive"
+				normal="1956/1965">1956-1965</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">63</container> 
+			 <unittitle>Book Reviews, 
+				<unitdate type="inclusive"
+				normal="1966/1997">1966-1997</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series" id="ser3"> 
+		<did> 
+		  <unittitle>Series III: Manuscripts, 
+			 <unitdate type="inclusive"
+			 normal="1945/1984">1945-1984</unitdate></unittitle> 
+		</did> 
+		<c02> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">64</container> 
+			 <unittitle>Autobiography, 
+				<unitdate type="inclusive"
+				normal="1984">1984</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">65</container> 
+			 <unittitle> 
+				<title>The Bamboo Bed</title>: Notebook #2, 
+				<unitdate type="inclusive"
+				normal="1967">1967</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">2</container> <container
+			 type="folder">66</container> 
+			 <unittitle> 
+				<title>The Bamboo Bed</title>: Notebook #1, 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">1</container> 
+			 <unittitle> 
+				<title>The Bamboo Bed</title>: Notebook #3, 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">2</container> 
+			 <unittitle> 
+				<title>The Bamboo Bed</title>: Notebook #3, 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">3</container> 
+			 <unittitle> 
+				<title>The Bamboo Bed</title>: Notebook #A, 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">4</container> 
+			 <unittitle> 
+				<title>The Bamboo Bed</title>: Notebook #B, 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">5</container> 
+			 <unittitle> 
+				<title>The Bamboo Bed</title>, 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">6</container> 
+			 <unittitle> 
+				<title>The Bamboo Bed</title>, 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">7</container> 
+			 <unittitle> 
+				<title>The Bamboo Bed</title>, also includes 
+				<title>Child's Garden of Verses for the Revolution</title>, 
+				<title>Morocco</title>, and 
+				<title>Castle Keep</title> film revisions, 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">8</container> 
+			 <unittitle> 
+				<title>Castle Keep</title>: Correspondence and Clippings, 
+				<unitdate type="inclusive"
+				 normal="1965/1969">1965-1969</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">9</container> 
+			 <unittitle> 
+				<title>Castle Keep</title>: Movie Script, 
+				<unitdate type="inclusive"
+				 normal="1965">1965</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">10</container> 
+			 <unittitle> 
+				<title>Castle Keep</title>, 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">11</container> 
+			 <unittitle> 
+				<title>Castle Keep</title>, 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">12</container> 
+			 <unittitle> 
+				<title>Castle Keep </title>, 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">13</container> 
+			 <unittitle> 
+				<title>Castle Keep</title>, also includes part of 
+				<title>Bronc People</title>, 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">14</container> 
+			 <unittitle> 
+				<title>A Child's Garden of Verses for the Revolution</title>, 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">15</container> 
+			 <unittitle> 
+				<title>A Child's Garden of Verses for the Revolution</title>, 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">16</container> 
+			 <unittitle> 
+				<title>A Child's Garden of Verses for the Revolution</title>, also
+				includes partial script for 
+				<title>Portrait of an Artist with 26 Horses</title>, 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">17</container> 
+			 <unittitle> 
+				<title>Dancers in the Scalp House</title>, 
+				<unitdate type="inclusive"
+				normal="1975">1975</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">18</container> 
+			 <unittitle> 
+				<title>Dancers in the Scalp House</title>, 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">19</container> 
+			 <unittitle> 
+				<title>Dancers in the Scalp House</title>, 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">20</container> 
+			 <unittitle> 
+				<title>Dancers in the Scalp House</title>, 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">21</container> 
+			 <unittitle> 
+				<title>Dancers in the Scalp House</title>, 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">22</container> 
+			 <unittitle> 
+				<title>Dancers in the Scalp House</title>, 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">23</container> 
+			 <unittitle> 
+				<title>Dancers in the Scalp House</title>, 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">24</container> 
+			 <unittitle> 
+				<title>Dancers in the Scalp House</title>, also includes 
+				<title>Canterbury Tales</title>, 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">25</container> 
+			 <unittitle> 
+				<title>Dancers in the Scalp House</title>, also includes 
+				<title>Canterbury Tales</title>, 
+				<unitdate type="inclusive" normal="NaN"> No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">3</container> <container
+			 type="folder">26</container> 
+			 <unittitle> 
+				<title>Dancers in the Scalp House</title>, also includes 
+				<title>The Long Naked Descent into Boston</title>, 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">1</container> 
+			 <unittitle> 
+				<title>Dancers in the Scalp House</title>, also includes 
+				<title>Portrait of an Artist with 26 Horses</title> script, 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">2</container> 
+			 <unittitle>First two unpublished stories, including "Fort Ord is My
+				Mother, My Wonderful, Beautiful Mother" and "The Soul of an Artist Among the
+				Submarines", 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">3</container> 
+			 <unittitle> 
+				<title>Go In Beauty</title> galley, 
+				<unitdate type="inclusive"
+				normal="1945">1945</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">4</container> 
+			 <unittitle> 
+				<title>Go In Beauty</title>, 
+				<unitdate type="inclusive"
+				normal="1954">1954</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">5</container> 
+			 <unittitle> 
+				<title>The Immortal</title> television script, 
+				<unitdate type="inclusive"
+				normal="1970">1970</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">6</container> 
+			 <unittitle> 
+				<title>The Long Naked Descent into Boston</title>, 
+				<unitdate type="inclusive"
+				normal="1974">1974</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">7</container> 
+			 <unittitle> 
+				<title>The Long Naked Descent into Boston </title>, 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">8</container> 
+			 <unittitle> 
+				<title>The Long Naked Descent into Boston</title>, 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">9</container> 
+			 <unittitle> 
+				<title>The Long Naked Descent into Boston</title>, 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">10</container> 
+			 <unittitle> 
+				<title>The Long Naked Descent into Boston</title>, 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">11</container> 
+			 <unittitle> 
+				<title>The Long Naked Descent into Boston </title>, 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">12</container> 
+			 <unittitle> 
+				<title>The Long Naked Descent into Boston</title>, 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">13</container> 
+			 <unittitle> 
+				<title>The Long Naked Descent into Boston</title>, 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">14</container> 
+			 <unittitle> 
+				<title>The Long Naked Descent into Boston </title>, 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">15</container> 
+			 <unittitle> 
+				<title>Prettyfields </title>, 
+				<unitdate type="inclusive" normal="NaN"> No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">16</container> 
+			 <unittitle> 
+				<title>Prettyfields</title>, 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">17</container> 
+			 <unittitle> 
+				<title>Prettyfields</title>, 
+				<unitdate type="inclusive" normal="NaN"> No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">18</container> 
+			 <unittitle> 
+				<title>Prettyfields</title>, 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">19</container> 
+			 <unittitle> 
+				<title>Prettyfields</title>, 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">20</container> 
+			 <unittitle> 
+				<title>Prettyfields</title>, 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">21</container> 
+			 <unittitle> 
+				<title>Prettyfields</title>, 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">22</container> 
+			 <unittitle>Short Stories - Travel, 
+				<unitdate type="inclusive" normal="NaN"> No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series" id="ser4"> 
+		<did> 
+		  <unittitle>Series IV: Miscellaneous Materials and Text Book
+			 Appearances, 
+			 <unitdate type="inclusive"
+			 normal="1962/1991">1962-1991</unitdate></unittitle> 
+		</did> 
+		<c02> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">23</container> 
+			 <unittitle>Miscellaneous materials, including announcements,
+				programs, publisher's catalogs, and a calendar, 
+				<unitdate type="inclusive" normal="">1970-1991, No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">24</container> 
+			 <unittitle>Text Book Appearances, 
+				<unitdate type="inclusive"
+				 normal="1962/1986">1962-1986</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series" id="ser5"> 
+		<did> 
+		  <unittitle>Series V: Photographs, 
+			 <unitdate type="inclusive"
+			  normal="1929/1984">1929-1984</unitdate></unittitle> 
+		</did> 
+		<c02> 
+		  <did> <container type="box">4</container> <container
+			 type="folder">24</container> 
+			 <unittitle>Photographs of William Eastlake, his ranch in New Mexico
+				and various individuals, 
+				<unitdate type="inclusive" normal="">1929-1984, No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+  </dsc> 
+</archdesc></ead>

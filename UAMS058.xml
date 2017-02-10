@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+   <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0"> 
+      <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special Collections//text
+		(US::AzU::Montague Stevens papers)//en""UAMS058.xml"
+      </eadid> 
+      <filedesc> 
+         <titlestmt> 
+         	<titleproper encodinganalog="title">Montague Stevens papers
+	 	       <date normal="1892/1953" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">1892-1953</date>
+	 	       <!-- BE SURE TO POPULATE "date normal= "YYYY/YYYY" attribute. PLACE ATTRIBUTE DATES BETWEEN "   " -->
+	 	       <date normal="1896/1919" type="bulk">(bulk 1896-1919)</date><!-- BE SURE TO POPULATE "date normal= YYYY/YYYY" attribute --><!-- BE SURE TO DELETE BULK DATE TAGS IF NOT NEEDED -->
+	 	    </titleproper>
+	 	    <titleproper type="filing" altrender="nodisplay"> Stevens, (Montague) papers
+	 	    <!-- [IF AN INDIVIDUAL IS ASSOCIATED LIST LAST NAME, (FIRST NAME MIDDLE INITIAL.) i.e. Flannery, (John S.) COLLECTION DESCRIPTION] OR 
+	 	    [IF NO SPECIFIC PERSON IS ASSOCIATED LIST THE COLLECTION NAME AND DESCRIPTION (i.e. International Student Council general files) -->
+            </titleproper>
+	        <author>Processed by Staff.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date normal= "2016" era= "ce" calendar = "gregorian">; 2016</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+            <date era="ce" encodinganalog="date" normal="20160413">April 13, 2016</date>
+  	     </creation><!-- BE SURE TO POPULATE "date normal= YYYYMMDD" attribute. PLACE ATTRIBUTE DATES BETWEEN "  " -->
+	     <langusage>Finding aid encoded in<language> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc>
+   </eadheader> 
+   <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+      <did id="a1"> 
+         <head>Collection Summary</head> 
+      	<unittitle encodinganalog="245" label="Collection Name:"> Montague Stevens papers
+            <unitdate type="inclusive" label="Dates:" normal="1892/1953">1892-1953</unitdate>
+            <unitdate type="bulk" label="Dates:" normal="1896/1919">(bulk 1896-1919)</unitdate> <!-- DELETE BULK DATE TAGS IF NOT NEEDED -->
+  	     </unittitle><!-- BE SURE TO POPULATE "Dates normal= yyyy/yyyy" attribute.  PLACE ATTRIBUTE DATES BETWEEN "  " -->	 
+	     <unitid label="Collection Number:" encodinganalog="099" repositorycode="AzU" countrycode="us">MS 058</unitid>
+	     <origination label="Creator:"> 
+            <persname source="lcnaf" encodinganalog="100">Stevens, Montague, 1859-1953.</persname> 
+	     </origination> <!-- CHANGE TAG TO CORPNAME, IF CREATOR IS A COROPORATION/ BUSINESS ETC.  CHANGE "100" ATTRIBUTE TO 110-->
+      	<abstract label="Abstract:">Montague Stevens, 1859-1953 was a pioneer New Mexico rancher in the Magdalena and Reserve areas, where he operated the S.U. Cattle Co. and 
+      								the Shropshire Sheep Company. Portfolio containing chiefly correspondence, along with legal documents, bills, and financial records related 
+      								to Montague Stevens and his ranching operations. Correspondence and telegrams mostly concern problems with his financial backers in England. 
+      								Specific files for the S.U. Cattle Co. and the Shropshire Sheep Co. contain business correspondence regarding supplies and equipment, 
+      								as well as legal papers.</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description:"><extent>.2 linear feet</extent></physdesc>	 
+	     <repository label="Repository:"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng" scriptcode="Latin">English.</language></langmaterial>
+   	        <!-- CHANGE OR ADD FIELD IF MATERIALS ARE IN OTHER LANGUAGES. BE SURE TO CHANGE langcode "" ATTRIBUTE-->
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+         <p>There are no restrictions on this collection.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+      	<p>Montague Stevens papers (MS 058). Special Collections, University of Arizona Libraries.</p>
+      </prefercite>
+   	<acqinfo>
+   		<head>Acquisition Information</head>
+   		<p>Acquired as purchase, 1964.</p>
+   	</acqinfo>
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Staff.</p>
+      </processinfo>
+      <bioghist id="a2" encodinganalog="545"> 
+         <head>Biographical Note</head> 
+      	<p>Pioneer New Mexico rancher in the Magdalena and Reserve areas, where he operated the S.U. Cattle Co. and the Shropshire Sheep Co.</p> 
+      </bioghist> 
+      <arrangement id="a4" encodinganalog="351$a"> 
+         <head>Arrangement</head> 
+  	     <p>This collection is organized into 4 series:</p>	 
+         <list>
+            <item>Series I: General correspondence,
+  			   <unitdate>1896-1934</unitdate></item>
+  		    <item>Series II: S.U. Cattle Company,
+  			   <unitdate>1892-1898</unitdate></item>
+         	<item>Series III: Shropshire Sheep Company,
+         		<unitdate>1900-1916</unitdate></item>
+         	<item>Series IV: Miscellaneous financial and other items,
+         		<unitdate>1896-1953</unitdate></item>
+         </list>
+      </arrangement> 
+      <scopecontent id="a3" encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>Portfolio containing chiefly correspondence, along with legal documents, bills, and financial records related to Montague Stevens and his ranching operations. 
+      	Correspondence and telegrams mostly concern problems with his financial backers in England. Specific files for the S.U. Cattle Co. and the Shropshire Sheep Co. contain 
+      	business correspondence regarding supplies and equipment, as well as legal papers. Includes four letters from General Leonard Wood. Among the miscellaneous financial 
+      	documents are hotel, general merchandise, auto, and grain supply bills; also promissory notes, checks, money orders, tax notices, bank statements, and receipts. Also present 
+      	are U.S. Forest Service grazing permits and timber sale agreements; several ranch photographs; a 1945 book review of Stevens&apos; book, Meet Mr. Grizzley; and 1953 newspaper 
+      	clippings about his life.</p> 
+      </scopecontent> 
+      <controlaccess>
+         <head>Access Terms</head>
+         <list type="simple"> <!-- USE SOURCE OR RULES ELEMENT Source=lcnaf or lcsh; Rules=aacr2 or dacs or local.  BE SURE TO CHANGE encodinganalog="  " ATTRIBUTE. ALSO, BE SURE TO DELETE ANY TAGS YOU DO NOT USE-->
+            <item>
+               <persname encodinganalog="600" source= "lcnaf">Stevens, Montague, 1859-1953 -- Archives.</persname><!-- 600 Creator; 700 Contributor -->
+  		    </item>
+         	<item>
+         		<persname encodinganalog="600" source= "lcnaf">Wood, Leonard, 1860-1927 -- Correspondence.</persname><!-- 600 Creator; 700 Contributor -->
+         	</item>
+  		    <item>
+  			   <corpname encodinganalog="610" source= "lcnaf">Shropshire Sheep Company -- Records and correspondence.</corpname><!-- 610 regular; 611 conference; 710 contributor; 711 conference contributor -->
+  		    </item>
+         	<item>
+         		<corpname encodinganalog="610" source= "lcnaf">S.U. Cattle Company -- Records and correspondence.</corpname><!-- 610 regular; 611 conference; 710 contributor; 711 conference contributor -->
+         	</item>
+  		    <item>
+  			   <subject encodinganalog="650" source= "lcsh">Cattle trade -- New Mexico -- History.</subject>
+  		    </item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Sheep industry -- New Mexico -- History.</subject>
+         	</item>
+  		    <item>
+  			   <geogname encodinganalog="651" source="lcsh">Magdalena (N.M.) -- History.</geogname>
+  		    </item>
+         	<item>
+         		<geogname encodinganalog="651" source="lcsh">Reserve (N.M.) -- History.</geogname>
+         	</item>
+         </list>
+      </controlaccess>
+   </archdesc>
+</ead>

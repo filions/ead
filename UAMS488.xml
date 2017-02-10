@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+
+<ead>
+    
+    <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b"
+        relatedencoding="dc" repositoryencoding="iso15511" scriptencoding="iso15924">
+        <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special
+            Collections//text(US::AzU::SUN/gemini Press Collection
+            //en"UAMS488.xml"</eadid> 
+        <filedesc> 
+            <titlestmt> 
+                <titleproper> SUN/gemini Press Collection
+                    <date normal="1982/1995" era="ce" calendar="gregorian">1982-1995</date></titleproper> 
+                <author>Inventory prepared by Jerron Rice.</author> 
+            </titlestmt> 
+            <publicationstmt> 
+                <publisher>University of Arizona Libraries, Special Collections</publisher> 
+                <address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+                <date normal="2012" era="ce" calendar="gregorian">; 2012</date> 
+                <p>Arizona Board of Regents. All Rights Reserved.</p> 
+            </publicationstmt> 
+        </filedesc> 
+        <profiledesc> 
+            <creation>Inventory encoded by Inventory encoded in Oxygen XML editor by Anne Martinez. 
+                <date era="ce" encodinganalog="" normal="20120329">March 29, 2012</date></creation> 
+            <langusage>Inventory is in<language> English.</language></langusage> 
+        </profiledesc> 
+    </eadheader> 
+    <frontmatter> 
+        <titlepage> 
+            <titleproper>SUN/gemini Press Collection,  
+                <date era="ce" calendar="gregorian">1982-1995</date></titleproper> 
+            <num>Collection Number: MS 488</num> 
+            <publisher>University of Arizona Libraries, Special Collections</publisher> 
+            <list> 
+                <defitem> 
+                    <label>Processed by:</label> 
+                    <item>Jerron Rice.</item> 
+                </defitem> 
+                <defitem> 
+                    <label>Date completed:</label> 
+                    <item> 
+                        <date>January 2012</date></item> 
+                </defitem> 
+                <defitem> 
+                    <label>Encoded by:</label> 
+                    <item>Anne Martinez</item> 
+                </defitem> 
+            </list> 
+            <p>&#x00A9; 2012. Arizona Board of Regents. All rights reserved.</p> 
+        </titlepage> 
+    </frontmatter> 
+    <archdesc level="collection" type="inventory"> 
+        <did id="a1"> 
+            <head>Collection Summary</head> 
+            <unittitle encodinganalog="245" label="Collection Name:"> SUN/gemini Press Collection
+                <unitdate type="inclusive" label="Dates:">1982-1995</unitdate></unittitle>	 
+            <unitid label="Collection Number:" encodinganalog="099"
+                repositorycode="AzU" countrycode="us">MS 488</unitid> 
+            <origination label="Creator:"> 
+                <corpname encodinganalog="110" rules="AACR2">SUN/gemini Press Inc.</corpname> </origination> 
+            <abstract label="Abstract:">Includes materials relating to book, chapbook and broadside series published by SUN/gemini Press between 1982 and 1995.  Typical files include contract, copyright, correspondence with authors, editors and artists, permissions, final manuscripts, artwork, proofs, layouts, archive copies and flyers.  Two publications preserve the complete publication process, including proofs, layouts, multiple manuscripts, and extensive artwork.  There are a total of 15 publications represented, including 12 poetry collections, two broadsides, and one catalog.</abstract> 
+            <physdesc encodinganalog="300$a" label="Physical Description:"><extent>7 linear feet</extent></physdesc>	 
+            <repository label="Repository:"> 
+                <corpname>University of Arizona Libraries, Special Collections</corpname> 
+                <address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository> 
+        </did> 
+        <accessrestrict> 
+            <head>Restrictions</head> 
+            <p>There are no restrictions on this collection</p> 
+        </accessrestrict> 
+        <userestrict> 
+            <head>Copyright</head> 
+            <p>It is the responsibility of the user to obtain permission to publish
+                from the owner of the copyright (the institution, the creator of the record,
+                the author or his/her transferees, heirs, legates, or literary executors). The
+                user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+                University of Arizona, its officers, employees, and agents from and against all
+                claims made by any person asserting that he or she is an owner of
+                copyright.</p> 
+        </userestrict> 
+        <prefercite> 
+            <head>Credit Line</head> 
+            <p>SUN/gemini Press Collection (MS 488). Special
+                Collections, University of Arizona Libraries.</p> 
+        </prefercite> 
+        <bioghist id="a2" encodinganalog="545"> 
+            <head>Biographical Note</head> 
+            <p>The SUN/Gemini Press was a not-for-profit corporation founded by Clint Colby in Tucson, Arizona in the 1980s.  The press published mainly poets from Arizona and the “desert southwest” and featured cover artwork by artists of the same region.  In total, the press published 17 works between 1985 and 2001 including 14 poetry collections, 2 broadsides, and 1 catalog.  Authors published include Agha Shahid Ali, Barbara Anderson, Paul Blackburn, Rebecca Byrkit, Meg Davis, Charles Hood, Dorothy R. Lykes, Jane Miller, Sheila Murphy, Kirk Robertson, Richard Shelton, Diane Wakoski, John Francis Warner, Dana Weimer, and Peter Wild.</p> 
+        </bioghist> 
+        <arrangement id="a4" encodinganalog="351$a"> 
+            <head>Arrangement</head> 
+            <p>This collection is organized into 2 series.</p>	 
+            <list> 
+                <item>Series I: Publications
+                    <unitdate era="ce" calendar="gregorian" normal="1982/1995">1982-1995</unitdate></item> 
+            </list> 
+            <list> 
+                <item>Series I: II.	Oversize Materials
+                    <unitdate era="ce" calendar="gregorian" normal="1982/1995">1982-1995</unitdate></item> 
+            </list> 
+        </arrangement> 
+        <scopecontent id="a3" encodinganalog="520"> 
+            <head>Scope and Content Note</head> 
+            <p>Materials relating to book, chapbook or broadside series published by SUN/gemini Press between 1985 and 1995.  Typical files include contract, copyright, correspondence with authors, editors and artists, permissions, final manuscripts, artwork, proofs, layouts, archive copies and flyers.  The publications by Richard Shelton and Diane Wakoski preserve the complete publication process, including proofs, layouts, multiple manuscripts, and extensive artwork.  There are a total of 15 publications represented, including 12 poetry collections, two broadsides, and one catalog.  Authors include Agha Shahid Ali, Paul Blackburn, Rebecca Byrkit, Meg Davis, Charles Hood, Dorothy R. Lykes, Jane Miller, Sheila Murphy, Kirk Robertson, Richard Shelton, Diane Wakoski, Dana Weimer, and Peter Wild.</p> 
+        </scopecontent> 
+        <controlaccess id="a12"> 
+            <head>Access Terms</head> 
+            <list> 
+                <item> 
+                    <persname encodinganalog="600" source="lcnaf" role="subject">Blackburn, Paul</persname> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <persname encodinganalog="600" role="subject" source="lcnaf">Shelton, Richard, 1933-</persname> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <persname encodinganalog="600" role="subject" source="lcnaf">Wakoski, Diane</persname> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <persname encodinganalog="600" normal="" role="subject" source="lcnaf">Wild, Peter, 1940-</persname> </item> 
+            </list> 
+        </controlaccess> 
+        <dsc type="combined" id="a23"> 
+            <head>Container List</head> 
+            <c01 level="series" id="ser1"> 
+                <did> 
+                    <unittitle> Series I: Publications</unittitle> 
+                    <unitdate era="ce" type="inclusive" calendar="gregorian" normal="1982/1995">1982-1995</unitdate>
+                </did>
+                <scopecontent><p>This series contains materials associated with 15 publications including 12 poetry collections, two broadsides, and one catalog.  Items of interest include materials relating to Diane Wakoski and Robert Shelton because they represent the complete SUN/gemini Press publication workflow.</p></scopecontent>
+                <c02 level="file"> 
+                    <did> <container type="box">1</container> 
+                        <container type="folder">1</container> 
+                        <unittitle>Ali, Agha Shahid – Artwork, Design, and Layout</unittitle>
+                        <unitdate certainty="approximate " normal="1987">circa 1987</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">1</container> 
+                        <container type="folder">2</container> 
+                        <unittitle>Ali, Agha Shahid – Correspondence</unittitle>
+                        <unitdate normal="1986/1987">1986-1987</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">1</container> 
+                        <container type="folder">3</container> 
+                        <unittitle>Ali, Agha Shahid – Final</unittitle>
+                        <unitdate normal="1987">1987</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">1</container> 
+                        <container type="folder">4</container> 
+                        <unittitle>Ali, Agha Shahid – Manuscripts</unittitle>
+                        <unitdate certainty="approximate" normal="1987">circa 1987</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">1</container> 
+                        <container type="folder">5</container> 
+                        <unittitle>Ali, Agha Shahid – Manuscripts – Rejected</unittitle> 
+                        <unitdate certainty="approximate" normal="1986">circa 1986</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">1</container> 
+                        <container type="folder">6</container> 
+                        <unittitle>Ali, Agha Shahid – Production Materials</unittitle>
+                        <unitdate normal="1987">1987,</unitdate>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">1</container> 
+                        <container type="folder">7</container> 
+                        <unittitle>Blackburn, Paul – Artwork, Design, and Layout</unittitle>
+                        <unitdate normal="1987">1987,</unitdate>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">1</container> 
+                        <container type="folder">8</container> 
+                        <unittitle>Blackburn, Paul – Artwork, Design, and Layout</unittitle>
+                        <unitdate normal="1987">1987,</unitdate>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                <did> <container type="box">1</container> 
+                    <container type="folder">9</container> 
+                    <unittitle>Blackburn, Paul – Correspondence</unittitle> 
+                    <unitdate normal="1982/1987">1982-1987,</unitdate>
+                    <unitdate>undated</unitdate>
+                </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">1</container> 
+                        <container type="folder">10</container> 
+                        <unittitle>Blackburn, Paul – Final,</unittitle>
+                        <unitdate normal="1987">1987</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">1</container> 
+                        <container type="folder">11</container> 
+                        <unittitle>Blackburn, Paul – Manuscripts,</unittitle> 
+                        <unitdate certainty="approximate" normal="1986">circa 1986</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">1</container> 
+                        <container type="folder">12</container> 
+                        <unittitle>Blackburn, Paul – Manuscripts,</unittitle> 
+                        <unitdate certainty="approximate" normal="1986">circa 1986</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">1</container> 
+                        <container type="folder">13</container> 
+                        <unittitle>Blackburn, Paul – Production Materials,</unittitle> 
+                        <unitdate normal="1985/1987">1985-1987</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">1</container> 
+                        <container type="folder">14</container> 
+                        <unittitle>Byrkit, Rebecca – Artwork, Design, and Layout,</unittitle> 
+                        <unitdate certainty="approximate" normal="1995">circa 1995</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">1</container> 
+                        <container type="folder">14</container> 
+                        <unittitle>Byrkit, Rebecca – Correspondence,</unittitle> 
+                        <unitdate normal="1993/1995">1993-1995,</unitdate>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">2</container> 
+                        <container type="folder">1</container> 
+                        <unittitle>Byrkit, Rebecca – Final,</unittitle> 
+                        <unitdate normal="1995">1995</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">2</container> 
+                        <container type="folder">2</container> 
+                        <unittitle>Byrkit, Rebecca – Manuscripts,</unittitle> 
+                        <unitdate normal="1994">1994</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">2</container> 
+                        <container type="folder">3</container> 
+                        <unittitle>Byrkit, Rebecca – Production Materials,</unittitle> 
+                        <unitdate normal="1995">1995,</unitdate>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">2</container> 
+                        <container type="folder">4</container> 
+                        <unittitle>Catalog – Artwork, Design, and Layout,</unittitle> 
+                        <unitdate certainty="approximate" normal="1995">circa 1995</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">2</container> 
+                        <container type="folder">5</container> 
+                        <unittitle>Catalog – Final,</unittitle> 
+                        <unitdate normal="1995">1995</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">2</container> 
+                        <container type="folder">6</container> 
+                        <unittitle>Catalog – Manuscript,</unittitle> 
+                        <unitdate normal="1995">1995</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">2</container> 
+                        <container type="folder">7</container> 
+                        <unittitle>Catalog – Production Materials,</unittitle> 
+                        <unitdate normal="1995">1995,</unitdate>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">2</container> 
+                        <container type="folder">8</container> 
+                        <unittitle>Davis, Meg – Artwork, Design, and Layout,</unittitle> 
+                        <unitdate certainty="approximate" normal="1994/1995">circa 1994-1995</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">2</container> 
+                        <container type="folder">9</container> 
+                        <unittitle>Davis, Meg – Correspondence,</unittitle> 
+                        <unitdate normal="1992/1995">1992-1995</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">2</container> 
+                        <container type="folder">10</container> 
+                        <unittitle>Davis, Meg – Final,</unittitle> 
+                        <unitdate normal="1994">1994</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">2</container> 
+                        <container type="folder">11</container> 
+                        <unittitle>Davis, Meg – Manuscripts,</unittitle> 
+                        <unitdate normal="1994">1994,</unitdate>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">2</container> 
+                        <container type="folder">12</container> 
+                        <unittitle>Davis, Meg – Production Materials,</unittitle> 
+                        <unitdate normal="1994/1995">1994-1995</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">2</container> 
+                        <container type="folder">13</container> 
+                        <unittitle>Hood, Charles – Artwork, Design, and Layout,</unittitle> 
+                        <unitdate certainty="approximate" normal="1990">circa 1990</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">2</container> 
+                        <container type="folder">14</container> 
+                        <unittitle>Hood, Charles – Artwork, Design, and Layout – Rejected Artwork</unittitle> 
+                        <unitdate normal="1988">1988,</unitdate>
+                        <unitdate normal="1990">1990</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">2</container> 
+                        <container type="folder">15</container> 
+                        <unittitle>Hood, Charles – Correspondence,</unittitle>
+                        <unitdate normal="1987/1991">1987-1991,</unitdate>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">2</container> 
+                        <container type="folder">16</container> 
+                        <unittitle>Hood, Charles – Final,</unittitle> 
+                        <unitdate normal="1990">1990</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">3</container> 
+                        <container type="folder">1</container> 
+                        <unittitle>Hood, Charles – Manuscripts,</unittitle> 
+                        <unitdate normal="1990">1990,</unitdate>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">3</container> 
+                        <container type="folder">2</container> 
+                        <unittitle>Hood, Charles – Manuscripts – Digital Copies,</unittitle>
+                        <unitdate normal="1990">1990,</unitdate>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">3</container> 
+                        <container type="folder">3</container> 
+                        <unittitle>Hood, Charles – Production Materials,</unittitle>
+                        <unitdate normal="1990/1991">1990-1991</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">3</container> 
+                        <container type="folder">4</container> 
+                        <unittitle>Lykes, Dorothy R. – Artwork, Design, and Layout</unittitle>
+                        <unitdate normal="1995">1995,</unitdate>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">3</container> 
+                        <container type="folder">5</container> 
+                        <unittitle>Lykes, Dorothy R. – Correspondence,</unittitle> 
+                        <unitdate normal="1994">1994</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">3</container> 
+                        <container type="folder">6</container> 
+                        <unittitle>Lykes, Dorothy R. – Final,</unittitle> 
+                        <unitdate normal="1995">1995</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">3</container> 
+                        <container type="folder">7</container> 
+                        <unittitle>Lykes, Dorothy R. – Manuscripts,</unittitle> 
+                        <unitdate certainty="approximate" normal="1995">circa 1995</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">3</container> 
+                        <container type="folder">8</container> 
+                        <unittitle>Lykes, Dorothy R. – Production Materials,</unittitle> 
+                        <unitdate normal="1994/1995">1994-1995,</unitdate>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">3</container> 
+                        <container type="folder">9</container> 
+                        <unittitle>Lykes, Dorothy R. – Reviews,</unittitle> 
+                        <unitdate normal="1995">1995,</unitdate>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">3</container> 
+                        <container type="folder">10</container> 
+                        <unittitle>Miller, Jane – “New Body” – Broadside,</unittitle> 
+                        <unitdate certainty="approximate" normal="1990">circa 1990</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">3</container> 
+                        <container type="folder">11</container> 
+                        <unittitle>Murphy, Sheila – Artwork, Design, and Layout,</unittitle> 
+                        <unitdate certainty="approximate" normal="1993">circa 1993</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">3</container> 
+                        <container type="folder">12</container> 
+                        <unittitle>Murphy, Sheila – Correspondence,</unittitle>
+                        <unitdate normal="1989/1994">1989-1994,</unitdate>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">3</container> 
+                        <container type="folder">13</container> 
+                        <unittitle>Murphy, Sheila – Final,</unittitle> 
+                        <unitdate normal="1993">1993</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">4</container> 
+                        <container type="folder">1</container> 
+                        <unittitle>Murphy, Sheila – Manuscripts,</unittitle> 
+                        <unitdate certainty="approximate" normal="1993">circa 1993</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">4</container> 
+                        <container type="folder">2</container> 
+                        <unittitle>Murphy, Sheila – Production Materials,</unittitle>
+                        <unitdate certainty="1993/1994">1993-1994,</unitdate>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">4</container> 
+                        <container type="folder">3</container> 
+                        <unittitle>Robertson, Kirk – Artwork, Design, and Layout,</unittitle> 
+                        <unitdate certainty="approximate" normal="1989">circa 1989</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">4</container> 
+                        <container type="folder">4</container> 
+                        <unittitle>Robertson, Kirk – Artwork, Design, and Layout,</unittitle> 
+                        <unitdate certainty="approximate" normal="1989">circa 1989</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">4</container> 
+                        <container type="folder">5</container> 
+                        <unittitle>Robertson, Kirk – Correspondence,</unittitle> 
+                        <unitdate normal="1986/1990">1986-1990,</unitdate>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">4</container> 
+                        <container type="folder">6</container> 
+                        <unittitle>Robertson, Kirk – Final,</unittitle> 
+                        <unitdate normal="1989">1989</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">4</container> 
+                        <container type="folder">7</container> 
+                        <unittitle>Robertson, Kirk – Manuscripts,</unittitle> 
+                        <unitdate certainty="approximate" normal="1989">circa 1989</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">5</container> 
+                        <container type="folder">1</container> 
+                        <unittitle>Robertson, Kirk – Manuscripts – Removals,</unittitle> 
+                        <unitdate certainty="approximate" normal="1989">circa 1989</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">5</container> 
+                        <container type="folder">2</container> 
+                        <unittitle>Robertson, Kirk – Production Materials,</unittitle>
+                        <unitdate normal="1989">1989</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">5</container> 
+                        <container type="folder">3</container> 
+                        <unittitle>Shelton, Richard – Artwork, Design, and Layout,</unittitle> 
+                        <unitdate certainty="approximate" normal="1992/1993">circa 1992-1993</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">5</container> 
+                        <container type="folder">4</container> 
+                        <unittitle>Shelton, Richard – Artwork, Design, and Layout – Binding Proofs,</unittitle> 
+                        <unitdate normal="1986">1986,</unitdate>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">5</container> 
+                        <container type="folder">6</container> 
+                        <unittitle>Shelton, Richard – Artwork, Design, and Layout – Cover Jacket Proofs,</unittitle> 
+                        <unitdate certainty="approximate" normal="1993">circa 1993</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">5</container> 
+                        <container type="folder">7</container> 
+                        <unittitle>Shelton, Richard – Artwork, Design, and Layout – Mock-ups,</unittitle> 
+                        <unitdate certainty="approximate" normal="1986">circa 1986</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">5</container> 
+                        <container type="folder">8</container> 
+                        <unittitle>Shelton, Richard – Artwork, Design, and Layout – Mock-ups,</unittitle> 
+                        <unitdate certainty="approximate" normal="1993">circa 1993</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">6</container> 
+                        <container type="folder">1</container> 
+                        <unittitle>Shelton, Richard – Artwork, Design, and Layout – Offset,</unittitle> 
+                        <unitdate certainty="approximate" normal="1986">circa 1986</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">6</container> 
+                        <container type="folder">2</container> 
+                        <unittitle>Shelton, Richard – Artwork, Design, and Layout – Prints,</unittitle> 
+                        <unitdate certainty="approximate" normal="1985">circa 1985</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">6</container> 
+                        <container type="folder">3</container> 
+                        <unittitle>Shelton, Richard – Artwork, Design, and Layout – Proofs,</unittitle>
+                        <unitdate certainty="approximate" normal="1993">circa 1993</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">6</container> 
+                        <container type="folder">4</container> 
+                        <unittitle>Shelton, Richard – Correspondence,</unittitle>
+                        <unitdate normal="1985/1986">1985-1986</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">6</container> 
+                        <container type="folder">5</container> 
+                        <unittitle>Shelton, Richard – Final,</unittitle>
+                        <unitdate normal="1986">1986</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">6</container> 
+                        <container type="folder">6</container> 
+                        <unittitle>Shelton, Richard – Final – Errors,</unittitle> 
+                        <unitdate certainty="approximate" normal="1986">circa 1986</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">6</container> 
+                        <container type="folder">7</container> 
+                        <unittitle>Shelton, Richard – Final – Paperbacks,</unittitle> 
+                        <unitdate normal="1986">1986,</unitdate>
+                        <unitdate normal="1993">1993</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">6</container> 
+                        <container type="folder">8</container> 
+                        <unittitle>Shelton, Richard – Manuscripts,</unittitle> 
+                        <unitdate certainty="approximate" normal="1985">circa 1985</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">6</container> 
+                        <container type="folder">9</container> 
+                        <unittitle>Shelton, Richard – Manuscripts – Rejected,</unittitle> 
+                        <unitdate certainty="approximate" normal="1985">circa 1985</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">6</container> 
+                        <container type="folder">10</container> 
+                        <unittitle>Shelton, Richard – Manuscripts – Setting Manuscript,</unittitle> 
+                        <unitdate certainty="approximate" normal="1985">circa 1985</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">6</container> 
+                        <container type="folder">11</container> 
+                        <unittitle>Shelton, Richard – Production Materials,</unittitle> 
+                        <unitdate normal="1985/1986">1985-1986,</unitdate>
+                        <unitdate normal="1992">1992</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">6</container> 
+                        <container type="folder">12</container> 
+                        <unittitle>Shelton, Richard – Production Materials – Flyers,</unittitle>
+                        <unitdate certainty="approxiamte" normal="1986">circa 1986</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">6</container> 
+                        <container type="folder">13</container> 
+                        <unittitle>Wakoski, Diane – Artwork, Design, and Layout – Artwork,</unittitle>
+                        <unitdate normal="1985">1985</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">6</container> 
+                        <container type="folder">14</container> 
+                        <unittitle>Wakoski, Diane – Artwork, Design, and Layout – Binding Proofs,</unittitle> 
+                        <unitdate certainty="approximate" normal="1985">circa 1985</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">6</container> 
+                        <container type="folder">15</container> 
+                        <unittitle>Wakoski, Diane – Artwork, Design, and Layout – Front/Back Matter,</unittitle> 
+                        <unitdate certainty="approximate" normal="1985">circa 1985</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">6</container> 
+                        <container type="folder">16</container> 
+                        <unittitle>Wakoski, Diane – Artwork, Design, and Layout – Mock-ups,</unittitle>
+                        <unitdate certainty="approximate" normal="1985">circa 1985</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">7</container> 
+                        <container type="folder">1</container> 
+                        <unittitle>Wakoski, Diane – Artwork, Design, and Layout – Page Proofs,</unittitle> 
+                        <unitdate certainty="approximate" normal="1985">circa 1985</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">7</container> 
+                        <container type="folder">2</container> 
+                        <unittitle>Wakoski, Diane – Artwork, Design, and Layout – Page Proofs, 1st,</unittitle>
+                        <unitdate certainty="approximate" normal="1985">circa 1985</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">7</container> 
+                        <container type="folder">3</container> 
+                        <unittitle>Wakoski, Diane – Artwork, Design, and Layout – Proofs, 1st, 1,</unittitle>
+                        <unitdate certainty="approximate" normal="1985">circa 1985</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">7</container> 
+                        <container type="folder">4</container> 
+                        <unittitle>Wakoski, Diane – Artwork, Design, and Layout – Proofs, 1st, 2,</unittitle> 
+                        <unitdate certainty="approximate" normal="1985">circa 1985</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">7</container> 
+                        <container type="folder">5</container> 
+                        <unittitle>Wakoski, Diane – Artwork, Design, and Layout – Setting, 1st,</unittitle>
+                        <unitdate certainty="approximate" normal="1985">circa 1985</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">7</container> 
+                        <container type="folder">6</container> 
+                        <unittitle>Wakoski, Diane – Correspondence,</unittitle> 
+                        <unitdate normal="1984/1986">1984-1986,</unitdate>
+                        <unitdate>undated</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">7</container> 
+                        <container type="folder">7</container> 
+                        <unittitle>Wakoski, Diane – Final,</unittitle>
+                        <unitdate normal="1985">1985</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">7</container> 
+                        <container type="folder">8</container> 
+                        <unittitle>Wakoski, Diane – Manuscripts – Final,</unittitle>
+                        <unitdate certainty="approximate" normal="1985">circa 1985</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">8</container> 
+                        <container type="folder">1</container> 
+                        <unittitle>Wakoski, Diane – Manuscripts – Other Poems,</unittitle>
+                        <unitdate certainty="approximate" normal="1984">circa 1984</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">8</container> 
+                        <container type="folder">2</container> 
+                        <unittitle>Wakoski, Diane – Manuscripts – Rejected,</unittitle>
+                        <unitdate certainty="approximate" normal="1984">circa 1984</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">8</container> 
+                        <container type="folder">3</container> 
+                        <unittitle>Wakoski, Diane – Paperback Edition,</unittitle> 
+                        <unitdate certainty="approximate" normal="1985">circa 1985</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">8</container> 
+                        <container type="folder">4</container> 
+                        <unittitle>Wakoski, Diane – Production Materials,</unittitle> 
+                        <unitdate normal="1985/1986">1985-1986</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">8</container> 
+                        <container type="folder">5</container> 
+                        <unittitle>Wakoski, Diane – Production Materials – Flyer,</unittitle> 
+                        <unitdate certainty="approximate" normal="1986">circa 1986</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">8</container> 
+                        <container type="folder">6</container> 
+                        <unittitle>Weimer, Dana – Artwork, Design, and Layout,</unittitle> 
+                        <unitdate certainty="approximate" normal="1992">circa 1992</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">8</container> 
+                        <container type="folder">7</container> 
+                        <unittitle>Weimer, Dana – Correspondence,</unittitle> 
+                        <unitdate normal="1990">1990,</unitdate>
+                        <unitdate normal="1992">1992</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">8</container> 
+                        <container type="folder">8</container> 
+                        <unittitle>Weimer, Dana – Final,</unittitle> 
+                        <unitdate normal="1992">1992</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">8</container> 
+                        <container type="folder">9</container> 
+                        <unittitle>Weimer, Dana – Production Materials,</unittitle> 
+                        <unitdate normal="1992">1992</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">8</container> 
+                        <container type="folder">10</container> 
+                        <unittitle>Wild, Peter – Artwork, Design, and Layout,</unittitle> 
+                        <unitdate certainty="approximate" normal="1994">circa 1994</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">8</container> 
+                        <container type="folder">11</container> 
+                        <unittitle>Wild, Peter – Artwork, Design, and Layout – Photographs &amp; Negatives,</unittitle>
+                        <unitdate certainty="approximate" normal="1994">circa 1994</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">8</container> 
+                        <container type="folder">12</container> 
+                        <unittitle encodinganalog="">Wild, Peter – Artwork, Design, and Layout – Rejected Artwork for <title render="underline">Easy Victory</title></unittitle> 
+                        <unitdate certainty="approximate" normal="1994">circa 1994</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">8</container> 
+                        <container type="folder">13</container> 
+                        <unittitle>Wild, Peter – Correspondence,</unittitle> 
+                        <unitdate normal="1994">1994</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">8</container> 
+                        <container type="folder">14</container> 
+                        <unittitle>Wild, Peter – Final,</unittitle> 
+                        <unitdate normal="1994">1994</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">8</container> 
+                        <container type="folder">15</container> 
+                        <unittitle>Wild, Peter – Manuscripts,</unittitle> 
+                        <unitdate certainty="approximate" normal="1994">circa 1994</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">8</container> 
+                        <container type="folder">16</container> 
+                        <unittitle>Wild, Peter – Production Materials,</unittitle>
+                        <unitdate normal="1994">1994</unitdate>
+                    </did> 
+                </c02> 
+            </c01> 
+            <c01 level="series" id="ser2"> 
+                <did> 
+                    <unittitle> Series II: Oversize Materials
+                        <unitdate era="ce" type="inclusive" calendar="gregorian" normal="1982/1995">1982-1995</unitdate></unittitle> 
+                </did> 
+                <scopecontent><p>This series contains final and working broadsides as well as oversize materials relating to the artwork, design, and layout of publications.</p></scopecontent>
+                <c02 level="file"> 
+                    <did> <container type="box">9</container> 
+                        <unittitle>Oversize Materials
+                            </unittitle> 
+                    </did> 
+                </c02> 
+            </c01>
+        </dsc> 
+    </archdesc></ead>

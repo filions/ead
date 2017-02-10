@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?filetitle Sedelmayr, Jacobo letters and reports?>
+<ead relatedencoding="MARC21">
+<eadheader audience="internal" findaidstatus="edited-full-draft"
+ langencoding="iso639-2b">
+	<eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
+		Special Collections//text(US::AzU::Jacobo Sedelmayr papers)//en"
+	 "UAAZ437.xml"</eadid>
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper encodinganalog="245$a">Jacobo Sedelmayr letters and reports,
+		  <date>1744-1751</date></titleproper>
+		<author encodinganalog="245$c">Inventory prepared by Kim Frontz</author>
+	 </titlestmt>
+	 <publicationstmt>
+	 	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+		<address>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address>
+		<date>&#x00A9; 2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p>
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc>
+	 <creation encodinganalog="500">Inventory encoded by Jan Marie Payne 
+		<date>September 11,2001</date></creation> 
+	 <langusage>Inventory is in<language langcode="en"
+		encodinganalog="546">English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter>
+  <titlepage>
+	 <titleproper encodinganalog="245$a">Jacobo Sedelmayr letters and reports,
+		<date>1744-1751</date></titleproper>
+	 <num>Collection Number: AZ 437</num>
+  	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher>
+	 <list>
+		<defitem>
+		  <label>Processed by:</label>
+		  <item>Kim Frontz</item>
+		</defitem>
+		<defitem>
+		  <label>Date completed:</label>
+		  <item>
+			 <date>1994</date></item>
+		</defitem>
+		<defitem>
+		  <label>Encoded by:</label>
+		  <item>Jan Marie Payne</item>
+		</defitem>
+	 </list>
+	 <p>&#x00A9; 2001. Arizona Board of Regents. All rights reserved.</p>
+  </titlepage>
+</frontmatter>
+<archdesc level="collection"> 
+  <did id="a1">
+	 <head>Collection Summary</head>
+	 <unittitle encodinganalog="245" label="Collection Name:">Jacobo Sedelmayr
+		letters and reports, 
+		<unitdate type="inclusive"
+		 normal="1744/1751">1744-1751</unitdate></unittitle>
+	 <unitid label="Collection Number:" encodinganalog="099"
+	  repositorycode="AzU" countrycode="us">AZ 437</unitid> 
+	 <origination label="Creator:"> 
+		<persname encodinganalog="100">Sedelmayr, Jacobo,
+		  1703-1779</persname></origination>
+	 <abstract label="Abstract:">Letters and reports, from Sedelmayr to Christ&#x00F3;bal de
+		Escobar y Llamas, Juan Antonio Balthassar, Philipp Segesser, and Andr&#x00E9;s
+		Xavier Garc&#x00ED;a, relating to conditions in Pimeria Alta at the missions
+		and surrounding areas. Includes reports on explorations to the Gila and
+		Colorado Rivers which describe the terrain and customs of the people
+		encountered.</abstract>
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+		encodinganalog="300">.4 linear feet</extent></physdesc>
+	 <repository label="Repository:">
+	 	<corpname encodinganalog="110">University of Arizona Libraries, Special Collections</corpname>
+		<address>
+		  <addressline>University of Arizona</addressline>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address></repository>
+  </did> 
+  <accessrestrict encodinganalog="506">
+	 <head>Restrictions</head>
+	 <p>None.</p>
+  </accessrestrict>
+  <userestrict encodinganalog="540">
+	 <head>Copyright</head>
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p>
+  </userestrict>
+  <prefercite encodinganalog="524">
+	 <head>Credit Line</head>
+  	<p>Jacobo Sedelmayr letters and reports(AZ 437). Special Collections, University of Arizona Libraries.</p>
+  </prefercite>
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head>
+	 <p> Jacobo Sedelmayr was born in Freising, Bavaria, on January 12, 1703. A
+		Jesuit missionary, he was sent to New Spain in 1736 and was assigned to the
+		Pimeria Alta region, at the mission at Tubutama. This region, the northernmost
+		frontier of New Spain, now includes Arizona and the Mexican states of Sonora
+		and Sinaloa. It was the northernmost frontier of New Spain. Here he worked to
+		convert the native people to Christianity, to build churches, and to improve
+		living conditions. He also undertook several expeditions to investigate lands
+		and people to the north.</p> 
+	 <p> In 1751, eight missions were active in Pimeria Alta. Sedelmayr was
+		Visitador Provincial, located at Tubutama. Also that year, a revolt of the
+		Pimas created a major setback for the Jesuits. Sometime between 1754 and 1762,
+		Sedelmayr was transferred to the mission of Tecoripa, in the province of
+		Sonora. In 1764, he became professor at the College of Matape on the Yaqui
+		River. On June 25, 1767, the Jesuits were expelled from Mexico. Sedelmayr found
+		refuge in Spain and died at Aldea de Avila, Spain on February 12, 1779.</p>
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into two series</p> 
+	 <list> 
+		<item>Series I: Holograph Letters and Report, 
+		  <date>1744-1751</date></item> 
+		<item>Series II: Photocopies, from John Galvin, Collector, of Letters and
+		  Reports, 
+		  <date>1745-1751</date></item>
+	 </list> 
+  </arrangement>
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head>
+	 <p> Letters and reports, from Sedelmayr to various Jesuit leaders, describe
+		conditions in Pimeria Alta at the missions and surrounding areas, discuss
+		administrative concerns, and report on explorations along the Gila and Colorado
+		Rivers.</p> 
+	 <p> The documents provide a detailed account of the land and people he
+		encountered including Pima, Tohono O'odham, Apache, Yuman, and Seri. They also
+		contain information on the organization and operations of the Jesuit missions
+		in the Pimeria Alta. Correspondents are Christobal de Escobar y Llamas, Juan
+		Antonio Balthassar, Philipp Segesser, and Andres Xavier Garcia.</p>
+	 <p> Three letters and one report are contemporary holograph documents.
+		Seven letters and two reports are photocopies of holograph documents. All are
+		in Spanish, with some lapses into German interspersed; and are accompanied by
+		typescript English translations or summaries.</p>
+  </scopecontent> 
+  <controlaccess id="a12">
+	 <head>Access Terms</head>
+	 <list>
+		<item>
+		  <persname encodinganalog="100">Sedelmayr, Jacobo,
+			 1703-1779</persname></item>
+	 </list>
+	 <list>
+		<item>
+		  <persname encodinganalog="100">Balthassar, Juan Antonio,
+			 1697-1763</persname></item>
+	 </list>
+	 <list>
+		<item>
+		  <persname encodinganalog="100">Garc&#x00ED;a, Andr&#x00E9;s
+			 Xavier</persname></item>
+	 </list>
+	 <list>
+		<item>
+		  <persname encodinganalog="100">Escobar y Llamas, Christ&#x00F3;bal de,
+			 d. 1760</persname></item>
+	 </list>
+	 <list>
+		<item>
+		  <persname encodinganalog="100">Segesser, Philipp,
+			 1689-1761</persname></item>
+	 </list>
+	 <list>
+		<item>
+		  <corpname encodinganalog="110">Jesuits -- Missions -- Southwest, New --
+			 History -- Sources</corpname></item>
+	 </list>
+	 <list>
+		<item>
+		  <subject>Missionaries -- New Spain -- History --
+			 Sources</subject></item>
+	 </list>
+	 <list>
+		<item>
+		  <subject>Explorers -- New Spain -- History -- Sources</subject></item>
+	 </list>
+	 <list>
+		<item>
+		  <geogname>Pimeria Alta (Mexico and Ariz.) -- Church history --
+			 Sources</geogname></item>
+	 </list>
+	 <list>
+		<item>
+		  <geogname>Southwest, New -- Discovery and exploration --
+			 Sources</geogname></item>
+	 </list>
+	 <list>
+		<item>
+		  <genreform>Correspondence</genreform></item>
+	 </list>
+	 <list>
+		<item>
+		  <genreform>Reports</genreform></item>
+	 </list>
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series I: Holograph Letters and Report, 
+			 <unitdate type="inclusive"
+			 normal="1744/1751">1744-1751</unitdate></unittitle> 
+		</did> 
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">1</container>
+			 <unittitle>Letter to Father Provincial Cristobal de Escobar y Llamas,
+				from the Mission of Tubutama, Pimeria Alta. 
+				<unitdate type="inclusive" normal="NaN">December
+				  31,1744</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Holograph in Spanish and Latin describing his travels in southwest
+				Arizona and along the Gila River in October and November 1743. Includes
+				extensive description of people encountered in the region.</p>
+		  </scopecontent>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">2</container>
+			 <unittitle>Report of an exploration, written at Tubutama, and copied
+				by Fr. Bartholome Saenz at Caborca. 
+				<unitdate type="inclusive" normal="NaN">November
+				  16,1748</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Holograph in Spanish of a 1748 exploration along the Gila River to
+				its confluence with the Colorado River. Extensive description of the geography
+				and the people encountered.</p>
+		  </scopecontent>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">3</container>
+			 <unittitle>Letter to Juan Antonio Balthassar, S.J., from Tubutama.
+				<unitdate type="inclusive" normal="NaN">April
+				  1,1749</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Holograph, in Spanish and German. Concerns affairs at the mission,
+				including accounts of trips in the area, relationships with Yuma, Seri, Apache
+				people, and proposals for further missionary work.</p>
+		  </scopecontent>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">4</container>
+			 <unittitle>Letter to Philipp Segesser, S.J., from Tubutama. 
+				<unitdate type="inclusive" normal="NaN">January
+				  8,1751</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Holograph, in Spanish, relates chiefly to his opposition to the
+				sending of missionaries to certain pueblos in Pimeria Alta. An additional note
+				refers to proposed activities in California.</p>
+		  </scopecontent>
+		</c02>
+	 </c01> 
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series II: Photocopies, from John Galvin, Collector, of
+			 Letters and Reports, 
+			 <unitdate type="inclusive"
+			 normal="1745/1751">1745-1751</unitdate></unittitle>
+		</did>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">5</container>
+			 <unittitle>Letter to Christobal de Escobar y Llamas, from Tubutama. 
+				<unitdate type="inclusive" normal="NaN">May
+				  29,1745</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Describes his exploration of the Gila and Colorado Rivers, his
+				encounters with the Cocomaricopas, and his mission work in Pimeria Alta.</p>
+		  </scopecontent>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">5</container>
+			 <unittitle>Letter to Juan Antonio Balthassar, from Tubutama. 
+				<unitdate type="inclusive" normal="NaN">March
+				  22,1747</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Gives information about Franciscan missionary work with the
+				Navajo, and his own work in Pimeria Alta. Includes material about the presidios
+				of Terrenate, San Xavier del Bac, Quevavi, and Fronteras.</p>
+		  </scopecontent>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">5</container>
+			 <unittitle>Letter to Andres Xavier Garcia, from Tubutama. 
+				<unitdate type="inclusive" normal="NaN">June
+				  15,1748</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Reports on the missions and missionaries in the Pimeria Alta
+				region.</p>
+		  </scopecontent>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">5</container>
+			 <unittitle>Letter with no addressee, from Tubutama. 
+				<unitdate type="inclusive" normal="NaN">November
+				  16,1748</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Summary of his journey to native villages on the Gila and Colorado
+				Rivers. Describes the Yumas and their land.</p>
+		  </scopecontent>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">5</container>
+			 <unittitle>Report of his explorations of the Colorado and Gila
+				Rivers. 
+				<unitdate type="inclusive" normal="">November-December
+				  1750</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Describes conditions and makes recommendations for locations of
+				missions.</p>
+		  </scopecontent>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">5</container>
+			 <unittitle>Letter to Father Provincial Juan Antonio Balthassar, from
+				Tubutama. 
+				<unitdate type="inclusive" normal="NaN">January
+				  9,1751</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Discusses his 1750 explorations, his mission plans, and his work
+				on a History of Pimeria Alta. He suggests measures for the protection of the
+				missions.</p>
+		  </scopecontent>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">5</container>
+			 <unittitle>Letter to Father Provincial Juan Antonio Balthassar, from
+				Tubutama. 
+				<unitdate type="inclusive" normal="NaN">January
+				  13,1751</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Relates events at San Miguel de Sonoytac and other news.</p>
+		  </scopecontent>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">5</container>
+			 <unittitle>Report on his visitation of the missions of Pimeria Alta,
+				from Tubutama. 
+				<unitdate type="inclusive" normal="NaN">May
+				  10,1751</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Describes conditions at Quevavi, San Xavier del Bac, Santa Maria
+				Ssuanca, and San Ignacio, and makes recommendations for improvement.</p>
+		  </scopecontent>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">5</container>
+			 <unittitle>Letter to Father Provincial Juan Antonio Balthassar, from
+				Tubutama. 
+				<unitdate type="inclusive" normal="NaN">May
+				  21,1751</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Relates mission news, gives suggestions for assignment of
+				missionaries, and discourages further exploration beyond the Colorado until
+				natives have been pacified.</p>
+		  </scopecontent>
+		</c02>
+	 </c01>
+  </dsc> 
+</archdesc></ead>

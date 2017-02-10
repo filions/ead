@@ -1,0 +1,286 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+ audience="internal" id="a0"> 
+	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special
+		Collections//text(US::AzU::University Poster Collection)//en""UAMS529.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper encodinganalog="title">University Poster Collection,
+	 		<date normal="1931/2014" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">1931-2014</date>
+	 		</titleproper>
+	 	<titleproper type="filing" altrender="nodisplay">University Poster Collection
+	 			</titleproper>
+	 	<author>Processed by  Erin O'Mera and Trent Purdy.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date normal= "2014" era= "ce" calendar = "gregorian">; 2014</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Trent Purdy. 
+  		<date era="ce" encodinganalog="date" normal="20140630">2014 June 30</date></creation>
+	 <langusage>Finding aid is in<language> English.</language></langusage>
+  	<descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+  </profiledesc> 
+	</eadheader> 
+
+	<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name:">University Poster Collection,
+  		<unitdate type="inclusive" label="Dates:" normal="1931/2014">1931-2014</unitdate></unittitle>
+	 <unitid label="Collection Number:" encodinganalog="099"
+	 	repositorycode="AzU" countrycode="us">MS 529</unitid> 
+	 <origination label="Creator:"> 
+	 	<corpname source="lcnaf" encodinganalog="110">University of Arizona. Library. Special Collections</corpname></origination>
+  	<abstract label="Abstract:">This is an artificial collection comprised of posters relating to The University of Arizona, and Northern Arizona University.</abstract> 
+  	<physdesc encodinganalog="300$a" label="Physical Description:"><extent>12 Linear feet</extent></physdesc>	 
+	 <repository label="Repository:"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository>
+  	<langmaterial>Materials are in<language encodinganalog="546" langcode="eng"
+  		scriptcode="Latin">English.</language></langmaterial>
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+  	<p>There are no restrictions on this collection.</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>University Poster Collection (MS 529). Special
+  		Collections, University of Arizona Libraries.</p>
+  </prefercite> 
+		<accruals><head>Accruals</head>
+			<p> Future accretions to the collection are expected.</p></accruals>
+  <processinfo>
+  	<head>Processing History</head>
+  	<p>The processing of this artificial collection of posters began in 2003 but was not completed. Processing resumed in 2014 with materials related to the University of Arizona added.</p>
+  </processinfo>
+		<bioghist id="a2" encodinganalog="545"> 
+	 <head>Historical Note</head> 
+  	<p>Posters are cheap to produce, can be easily displayed in public as well as private areas, and use images and slogans that are easily understood by the masses.  Due to these attributes, posters are used primarily as a tool of advertising and propaganda.  Posters have their beginning in England as printed bills in the late 15th century.  Typically these bills were typographical with accompanying wood cut images and promoted meetings and theater performances.  With the increase of manufactured goods during the Industrial Revolution, the poster's stature as a tool of advertising experienced an upsurge.  Alois Senefelder's invention of the lithographic process resulted in a cheaper and faster printing process that was quickly adopted by advertisers as well as artists.  The public's interest in posters grew dramatically in France during the Art Nouveau movement of the late 19th century.  Fine artists such as Alphonse Mucha and Henri de Toulousse-Lautrec incorporated lyrical and fantastic themes with typical advertising conventions to create posters that blurred the line between fine art and advertising which became immediate collector's items.  The poster maintained its elevated stance as a tool of communication throughout the 20th century, being employed by governments during World War I and World War II as tools of spreading nationalistic propaganda as well as being utilized by private industries to sell goods and services.</p> 
+  </bioghist> 
+  <arrangement id="a4" encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+  	<p>This collection is organized into 2 series.</p>	 
+  	<list>
+  		<item>Series I: General University of Arizona Posters,
+  			<unitdate>1931 - 2014</unitdate></item>
+  		<item>Series II: Northern Arizona University Posters,
+  			<unitdate>1982-1984</unitdate>
+  			</item>
+  	</list>
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>This collection contains two series.  The first series contains posters from Special Collections exhibits, University of Arizona Library exhibits, The University of Arizona Poetry Center, University of Arizona Summer Session Classes, General University of Arizona Posters and Broadsides, and miscellaneous topics.  The second series contains posters from the Northern Arizona University.</p> 
+  </scopecontent> 
+  	<controlaccess>
+  		<head>Access Terms</head>
+  		<list type="simple"> 
+  			<item>
+  				<corpname encodinganalog="610" source="lcnaf" role="subject">Northern Arizona University.</corpname>
+  			</item>
+  			<item>
+  				<corpname encodinganalog="610" role="subject">University of Arizona – Posters.</corpname>
+  			</item>
+  			<item>
+  				<corpname encodinganalog="610" role="subject">University of Arizona. Library. – Exhibitions.</corpname>
+  			</item>
+  			<item>
+  				<corpname encodinganalog="610" role="subject">University of Arizona. Library. Special Collections – Exhibitions.</corpname>
+  			</item>
+  			<item>
+  				<corpname encodinganalog="610" role="subject">University of Arizona. Poetry Center - Broadsides.</corpname>
+  			</item>
+  		</list>
+  	</controlaccess>
+  
+<dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+			<unittitle>Series 1: General University of Arizona Posters,</unittitle> 
+			<unitdate type="inclusive">1931 - 2014, undated</unitdate>
+		</did>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">11</container> 
+				<container type="folder">1</container> 
+				<unittitle>Special Collections Exhibits,</unittitle>
+				<unitdate>2000</unitdate>
+		  </did> 
+		</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="drawer">11</container> 
+	 			<container type="folder">2</container> 
+	 			<unittitle>Special Collections Exhibits,</unittitle>
+	 			<unitdate>2001</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="drawer">11</container> 
+	 			<container type="folder">3</container> 
+	 			<unittitle>Special Collections Exhibits,</unittitle>
+	 			<unitdate>2002</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="drawer">11</container> 
+	 			<container type="folder">4</container> 
+	 			<unittitle>Special Collections Exhibits,</unittitle>
+	 			<unitdate>2003</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="drawer">11</container> 
+	 			<container type="folder">5</container> 
+	 			<unittitle>Special Collections Exhibits,</unittitle>
+	 			<unitdate>2004</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="drawer">11</container> 
+	 			<container type="folder">6</container> 
+	 			<unittitle>Special Collections Exhibits,</unittitle>
+	 			<unitdate>2005</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="drawer">11</container> 
+	 			<container type="folder">7</container> 
+	 			<unittitle>Special Collections Exhibits,</unittitle>
+	 			<unitdate>2006</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="drawer">11</container> 
+	 			<container type="folder">8</container> 
+	 			<unittitle>Special Collections Exhibits,</unittitle>
+	 			<unitdate>2007</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="drawer">11</container> 
+	 			<container type="folder">9</container> 
+	 			<unittitle>Special Collections Exhibits,</unittitle>
+	 			<unitdate>2008-2014</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="drawer">12</container> 
+	 			<container type="folder">1</container> 
+	 			<unittitle>University of Arizona Library Exhibits,</unittitle>
+	 			<unitdate>1992-2002</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="drawer">12</container> 
+	 			<container type="folder">2</container> 
+	 			<unittitle>University of Arizona Poetry Center Posters,</unittitle>
+	 			<unitdate>1970-1990</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="drawer">13</container> 
+	 			<container type="folder">1</container> 
+	 			<unittitle>Summer Session Posters,</unittitle>
+	 			<unitdate>1931-1950</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="drawer">13</container> 
+	 			<container type="folder">2</container> 
+	 			<unittitle>College Lad and Lassie Posters,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="drawer">13</container> 
+	 			<container type="folder">3</container> 
+	 			<unittitle>General University of Arizona Posters and Broadsides,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="drawer">13</container> 
+	 			<container type="folder">4</container> 
+	 			<unittitle>Arts Posters,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="drawer">13</container> 
+	 			<container type="folder">5</container> 
+	 			<unittitle>Activities – Other,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> 
+	 			<container type="drawer">13</container> 
+	 			<container type="folder">6</container> 
+	 			<unittitle>General Posters – Southwest,</unittitle>
+	 			<unitdate>undated</unitdate>
+	 		</did> 
+	 	</c02>
+	 </c01>
+	<c01 level="series" id="ser2"> 
+		<did> 
+			<unittitle>Series 2: Northern Arizona University Posters,</unittitle> 
+			<unitdate type="inclusive">1982-1984, undated</unitdate>
+		</did>
+		<c02 level="file"> 
+			<did> 
+				<container type="drawer">13</container> 
+				<container type="folder">7</container> 
+				<unittitle>Northern Arizona University Posters,</unittitle>
+				<unitdate>1982-1984, undated</unitdate>
+			</did> 
+		</c02>
+	</c01>
+  </dsc> 
+</archdesc></ead>

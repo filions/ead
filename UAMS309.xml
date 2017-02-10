@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?xml-stylesheet type="text/xsl" href="displaytemplate.xsl"?>
+<?filetitle Clark, Ann Nolan papers?>
+<ead relatedencoding="MARC21">
+<eadheader audience="internal" findaidstatus="edited-full-draft"
+ langencoding="iso639-2b">
+  <eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
+	 Special Collections//text(US::AzU::Ann Nolan Clark papers)//en"
+	 "UAMS309.xml"</eadid>
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Ann Nolan Clark papers, 
+		  <date>1962-1979</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Kitty Little and Kim
+		  Frontz.</author>
+	 </titlestmt>
+	 <publicationstmt>
+	 	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+		<address>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address>
+		<date>&#x00A9; 2001 Arizona Board of Regents. All Rights Reserved.</date>
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc>
+	 <creation encodinganalog="500">Encoded by Shan Sutton.
+		<date>December 13, 2000</date></creation> 
+	 <langusage>Inventory is in<language langcode="en"
+		encodinganalog="546">English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter>
+  <titlepage>
+	 <titleproper encodinganalog="245$a">Ann Nolan Clark papers, 
+		<date>1962-1979</date></titleproper>
+	 <num>Collection Number: MS 309</num>
+  	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher>
+	 <list>
+		<defitem>
+		  <label>Processed by:</label>
+		  <item>Kitty Little and Kim Frontz</item>
+		</defitem>
+		<defitem>
+		  <label>Date completed:</label>
+		  <item>
+			 <date>1994</date></item>
+		</defitem>
+		<defitem>
+		  <label>Finding aid encoded by:</label>
+		  <item>Shan Sutton</item>
+		</defitem>
+	 </list>
+	 <p>&#x00A9; 2001 Arizona Board of Regents. All rights reserved.</p>
+  </titlepage>
+</frontmatter>
+<archdesc level="collection"> 
+  <did id="a1">
+	 <head>Collection Summary</head>
+	 <unittitle encodinganalog="245" label="Collection Name:">Ann Nolan Clark
+		papers, 
+		<unitdate type="inclusive"
+		 normal="1962/1979">1962-1979</unitdate></unittitle>
+	 <unitid label="Collection Number:" encodinganalog="099"
+	  repositorycode="AzU" countrycode="us">MS 309</unitid> 
+	 <origination label="Creator:"> 
+		<persname encodinganalog="100">Clark, Ann Nolan,
+		  1898-</persname></origination>
+	 <abstract label="Abstract:">Manuscripts, correspondence, talks, and miscellaneous personal
+		material. Bulk of collection is handwritten and typed drafts of ten of Clark's
+		books published between 1965 and 1979. Material for 
+		<title render="italic">A Child's Story of New Mexico </title>contains
+		only correspondence with the publishers and revisions. Most manuscripts
+		represent several versions of a story. Other materials include a photograph of
+		Clark, typescripts and an audiotape of talks and speeches, and a few letters to
+		Clark chiefly from her publisher.</abstract>
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+		encodinganalog="300">1.5 linear feet</extent></physdesc>
+	 <repository label="Repository:">
+	 	<corpname encodinganalog="110">University of Arizona Libraries, Special Collections</corpname>
+		<address>
+		  <addressline>University of Arizona</addressline>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address></repository>
+  </did> 
+  <accessrestrict encodinganalog="506">
+	 <head>Restrictions</head>
+	 <p>None.</p>
+  </accessrestrict>
+  <userestrict encodinganalog="540">
+	 <head>Copyright</head>
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p>
+  </userestrict>
+  <prefercite encodinganalog="524">
+	 <head>Credit Line</head>
+	 <p>Ann Nolan Clark papers(MS 309). Special Collections, University of Arizona Libraries.</p>
+  </prefercite>
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head>
+	 <p>Born in Las Vegas, New Mexico on December 5, 1896, Ann Nolan grew up
+		with children of diverse backgrounds. She graduated from New Mexico's Highlands
+		University in 1919 with a degree in Education. In 1920, she married Thomas
+		Patrick Clark and they had one son.</p> 
+	 <p>While Clark worked as a teacher for the U.S. Bureau of Indian Affairs,
+		1920-1962, she began writing books for children that reflected their culture.
+		She also worked for the Institute of Inter-American Affairs in Central and
+		South America, 1945-1950, training teachers and writing materials for the
+		classroom. Her work with various cultures was a source for her children's
+		books.</p>
+	 <p>She was awarded the New York Herald Tribune Spring Festival Award for 
+	 <title>In My Mother's House</title>, 1941, and 
+	 <title>Looking for Something</title>, 1942; the Newbery Medal, 1952, for 
+	 <title>Secret of the Andes</title>; U.S. government's Distinguished Service
+	 Award, 1962; and the Regina medal, 1963. Throughout her career, her writings,
+	 including over 28 trade titles, have presented a variety of cultures with
+	 dignity and respect. She died in Tucson on December 6, 1995.</p>
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into two series:</p> 
+	 <list> 
+		<item>I. Personal Materials, 
+		  <unitdate type="inclusive"
+			normal="1962/1978">1962-1978</unitdate></item> 
+		<item>II. Manuscripts, 
+		  <unitdate type="inclusive"
+			normal="1965/1979">1965-1979</unitdate></item>
+	 </list> 
+  </arrangement>
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head>
+	 <p>The bulk of this collection consists of drafts of ten of Clark's books
+		published after 1965. Material for 
+	 <title>A Child's Story of New Mexico</title> consists of correspondence
+	 with the publisher about revisions for the 1969 edition. </p> 
+	 <p>The manuscripts often represent several versions of the stories and most
+		contain numerous edits by Clark. The sequence of drafts is often unclear. The
+		draft entitled "Tam and Cam", published as
+	 <title> In the Land of Small Dragon</title>, is a Vietnamese folk tale told
+	 to Clark by Dang Manh Kha.</p>
+	 <p>Also present are supplemental items such as an 8x10 black-and-white
+		photograph of Clark by Laura Gilpin; a summary of her royalty earnings from
+		April 30, 1968; her bibliography; a list of children's authors in Tucson,
+		Arizona and their books from the 1960s; a typescript of a 1962 talk given to
+		the Texas Association of School Libraries; an audiotape "Writing for and with
+		children"; and a few letters to Clark.</p>
+  </scopecontent> 
+  <controlaccess id="a12">
+	 <head>Access Terms</head>
+	 <list>
+		<item>
+		  <persname encodinganalog="100">Clark, Ann Nolan, 1898- --
+			 Archives</persname></item>
+	 </list>
+	 <list>
+		<item>
+		  <subject>Children's literature -- Manuscripts</subject></item>
+	 </list>
+	 <list>
+		<item>
+		  <subject>Manuscripts -- American</subject></item>
+	 </list>
+	 <list>
+		<item>
+		  <genreform>Manuscripts</genreform></item>
+	 </list>
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series I: Personal Materials, 
+			 <unitdate type="inclusive"
+			  normal="1962/1978">1962-1978</unitdate></unittitle>
+		</did>
+		<c02>
+		  <did><container type="box">1</container><container
+			 type="folder">1</container>
+			 <unittitle>Miscellaneous personal materials. Includes 1962 talk,
+				"Writing for and with children," given to an audience of teachers of young
+				children, Tucson, Arizona. 
+				<unitdate type="inclusive"
+				 normal="1962/1978">1962-1978</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01> 
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series II: Manuscripts, 
+			 <unitdate type="inclusive"
+			  normal="1965/1979">1965-1979</unitdate></unittitle>
+		</did>
+		<c02>
+		  <did><container type="box">1</container><container
+			 type="folder">2</container>
+			 <unittitle>
+				<title render="italic">A Child's Story of New Mexico</title>
+				(correspondence and revisions only).
+				<unitdate type="inclusive"
+				normal="1968/1970">1968-1970</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">1</container><container
+			 type="folder">3</container>
+			 <unittitle>
+				<title render="italic">A White Cloth for the Table</title>. 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">1</container><container
+			 type="folder">4</container>
+			 <unittitle>
+				<title render="italic">All this Wild Land</title>. One draft with
+				corrections. 
+				<unitdate type="inclusive"
+				normal="1976">1976</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">1</container><container
+			 type="folder">5</container>
+			 <unittitle>
+				<title render="italic">Arizona for Young People</title>. One bound
+				draft. 
+				<unitdate type="inclusive"
+				normal="1968">1968</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">1</container><container
+			 type="folder">6-7</container>
+			 <unittitle>
+				<title render="italic">Circle of Seasons</title>. Two drafts with
+				corrections. 
+				<unitdate type="inclusive"
+				normal="1970">1970</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">1</container><container
+			 type="folder">8</container>
+			 <unittitle>
+				<title render="italic">Hoofprint on the Wind</title>. One draft. 
+				<unitdate type="inclusive"
+				normal="1972">1972</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">2</container><container
+			 type="folder">1-3</container>
+			 <unittitle>
+				<title render="italic">Journey to the People</title>. Three drafts
+				with corrections. A compilation of earlier lectures. 
+				<unitdate type="inclusive"
+				normal="1969">1969</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">2</container><container
+			 type="folder">4</container>
+			 <unittitle>
+				<title render="italic">Read All About It</title>. One draft. 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">2</container><container
+			 type="folder">5-7</container>
+			 <unittitle>
+				<title render="italic">Summer is for Growing</title>. Three drafts
+				with corrections. 
+				<unitdate type="inclusive"
+				normal="1968">1968</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">2</container><container
+			 type="folder">1-2</container>
+			 <unittitle>
+				<title render="italic">Tam and Cam</title> (published as
+				<title render="italic"> In the Land of Small Dragon: A Vietnamese
+				  Folktale</title>). Four drafts and one letter to the publisher. 
+				<unitdate type="inclusive"
+				normal="1979">1979</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">2</container><container
+			 type="folder">3-7</container>
+			 <unittitle>
+				<title render="italic">The Wind Blows Strong</title> (published as 
+				<title render="italic">To Stand Against the Wind</title>). Four
+				drafts with corrections. 
+				<unitdate type="inclusive"
+				normal="1978">1978</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02>
+		  <did><container type="box">2</container><container
+			 type="folder">8</container>
+			 <unittitle>
+				<title render="italic">To Stand Against the Wind</title>. Master
+				proof with author's changes. 
+				<unitdate type="inclusive"
+				 normal="1978">1978</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+  </dsc> 
+</archdesc></ead>

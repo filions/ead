@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+   <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0"> 
+      <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special Collections//text
+      	(US::AzU::Records of the United Verde Copper Company)//en""UAAZ095.xml"
+      </eadid> 
+      <filedesc> 
+         <titlestmt> 
+         	<titleproper encodinganalog="title">Records of the United Verde Copper Company,
+	 	       <date normal="1886/1889" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">1886-1889</date>
+	 	    </titleproper>
+         	<titleproper type="filing" altrender="nodisplay"> Records of the United Verde Copper Company,
+            </titleproper>
+	        <author>Processed by Staff.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date normal= "2015" era= "ce" calendar = "gregorian">; 2015</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+            <date era="ce" encodinganalog="date" normal="20151125">November 25, 2015</date>
+  	     </creation>
+	     <langusage>Finding aid encoded in<language> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+      <did id="a1"> 
+         <head>Collection Summary</head> 
+      	<unittitle encodinganalog="245" label="Collection Name:"> Records of the United Verde Copper Company,
+            <unitdate type="inclusive" label="Dates:" normal="1886/1889">1886-1889</unitdate>
+  	     </unittitle>	 
+	     <unitid label="Collection Number:" encodinganalog="099" repositorycode="AzU" countrycode="us">AZ 095</unitid>
+	     <origination label="Creator:"> 
+            <corpname source="lcnaf" encodinganalog="110">United Verde Copper Company</corpname> </origination>
+      	<abstract label="Abstract:">Copper company, Jerome Mining District, Yavapai County, Ariz.; organized in 1882 by Fred Thomas, 
+      								George Treadwell, and Eugene Jerome. The company was sold to W.A. Clark in 1889. The collection 
+      								includes correspondence and other papers relating to the operation and financing of the mine at Jerome, Ariz.</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description:"><extent>.2 linear feet</extent></physdesc>	 
+	     <repository label="Repository:"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng" scriptcode="Latin">English.</language></langmaterial>
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+         <p>There are no restrictions on this collection.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+      	<p>Records of the United Verde Copper Company (AZ 095). Special Collections, University of Arizona Libraries.</p>
+      </prefercite>
+   	<acqinfo>
+   		<head>Acquisition Information</head>
+   		<p>Acquired as purchase, 1956.</p>
+   	</acqinfo>
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Staff.</p>
+      </processinfo>
+      <bioghist id="a2" encodinganalog="545"> 
+         <head>Biographical Note</head> 
+      	<p>Copper company, Jerome Mining District, Yavapai County, 
+      	Ariz.; organized in 1882 by Fred Thomas, George Treadwell,
+      	and Eugene Jerome. The company was sold to W.A. Clark in 1889.</p> 
+      </bioghist> 
+     
+      <scopecontent id="a3" encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>Correspondence and other papers relating to the operation 
+      	and financing of the mine at Jerome, Ariz. Letters are 
+      	chiefly from Eugene Jerome, secretary-treasurer of the 
+      	company, and Frederick Murray, agent and mine superintendent, 
+      	many concern the actions of Frederick Tritle, ex- Governor of Arizona, 
+      	in regard to the mine.</p> 
+      </scopecontent>
+      <controlaccess>
+         <head>Access Terms</head>
+         <list type="simple">
+         	<item>
+         		<persname encodinganalog="600" source= "lcnaf">Jerome, Eugene M.</persname>
+         	</item>
+            <item>
+               <persname encodinganalog="600" source= "lcnaf">Murray, Frederick E.</persname>
+  		    </item>
+         	<item>
+         		<persname encodinganalog="600" source= "lcnaf">Tritle, Frederick A., 1833-1906.</persname>
+         	</item>
+  		    <item>
+  			   <subject encodinganalog="650" source= "lcsh">Copper mines and mining -- Arizona -- Yavapai County -- History -- Sources.</subject>
+  		    </item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Mines and mineral resources -- Arizona -- Yavapai County -- History -- Sources.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Mining corporations -- Arizona -- Records and correspondence.</subject>
+         	</item>
+         </list>
+      </controlaccess>
+   </archdesc>
+</ead>

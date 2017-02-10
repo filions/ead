@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?xml-stylesheet type="text/xsl" href="displaytemplate.xsl"?>
+<?filetitle Cases Decided by United States court of Private land Claims, Arizona District, Records ?>
+<ead relatedencoding="MARC21"> 
+<eadheader audience="internal" findaidstatus="edited-full-draft"
+ langencoding="iso639-2b"> 
+  <eadid encodinganalog="856$u"> PUBLIC "-//University of Arizona Library
+	 Special Collections//text(US::AzU::Records relating to Cases Decided by the
+	 United States Court of Private Land Claims, Arizona District) //en"
+	 "UAMS312.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Records relating to Cases Decided by
+		  the United States Court of Private Land Claims, Arizona District, 
+		  <date>1800-1904 (bulk 1891-1904)</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Kim Fronz.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+			<addressline>University of  Arizona</addressline>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		  
+		</address> 
+		<date>© 2006</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation encodinganalog="500">Inventory encoded by Charles Wommack. 
+		<date>June, 2006</date></creation> 
+	 <langusage>Inventory is in<language langcode="en" encodinganalog="546">
+		English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper encodinganalog="245$a">Records relating to Cases Decided by
+		the United States Court of Private Land Claims, Arizona District, 
+		<date>1800-1904 (bulk 1891-1904)</date></titleproper> 
+	 <num>Collection Number: MS 312</num> 
+  	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Kim Fronz</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>1995</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Charles Wommack</item> 
+		</defitem> 
+	 </list> 
+	 <p>© 2006. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name:">Records relating
+		to Cases Decided by the United States Court of Private Land Claims, Arizona
+		District, 
+		<unitdate type="inclusive" normal="">1800-1904 (bulk 1891-1904)
+		  </unitdate></unittitle> 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	  repositorycode="AzU" countrycode="us">MS 312</unitid> 
+	 <origination label="Creator:"> 
+		<corpname encodinganalog="110">United States. Court of Private Land
+		  Claims </corpname> </origination> 
+	 <abstract label="Abstract:">Microfilm of correspondence, reports, decrees,
+		surveys, petitions, sketch maps, photographs, field notes, land documents,
+		transcripts of trials and related court records supporting Arizona land grant
+		claims tried before the Court of Private Land Claims from 1891 to 1904.
+		Original papers are in the National Archives, Washington, D.C. </abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+		encodinganalog="300">27 reels</extent></physdesc> 
+	 <repository label="Repository:"> 
+	 	<corpname encodinganalog="110">University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		  
+		</address></repository> 
+  </did> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Restrictions</head> 
+	 <p>There are no restrictions on this collection. </p> 
+  </accessrestrict> 
+  <userestrict encodinganalog="540"> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Credit Line</head> 
+	 <p>Records relating to Cases Decided by the United States Court of Private
+		Land Claims, Arizona District(MS 312). Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Historical Note</head> 
+	 <p>The Court of Private Land Claims was established by the United States in
+		1891. Its purpose was to adjudicate title and ownership of Spanish and Mexican
+		land grants in territories ceded by Mexico to the United States by the treaties
+		of Guadalupe Hidalgo, 1848, and the Gadsen Purchase, 1853. Under treaty
+		provisions, Congress assumed an obligation to recognize earlier valid land
+		grants. The court consisted of five justices who were appointed by the
+		President. </p> 
+	 <p>A court term was established at Tucson, Arizona beginning on February
+		21, 1893 to consider all Arizona claims. Most of the difficulties with Arizona
+		claims resulted from the Mexican independence in 1821 and resulting changes in
+		Mexican government and constitution. The Court's actions are summarized in 
+	 <title>The Court of Private Land Claims: The Adjudication of Spanish and
+		Mexican Land Grant Titles, 1891-1904, </title>by Richard Wells Bradfute,
+	 University of New Mexico Press, 1975.</p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into two series, </p> 
+	 <list> 
+		<item>Series 1: Named land grants, 
+		  <unitdate type="inclusive"
+		  normal="1800/1904">1800-1904</unitdate></item> 
+	 </list> 
+	 <list> 
+		<item>Series 2: Miscellaneous land grant papers and maps, 
+		  <unitdate type="inclusive"
+		  normal="1800/1904">1800-1904</unitdate></item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>This collection consists of 27 reels of microfilm of selected papers
+		from the National Archives, Washington, D.C. The papers relate to Arizona land
+		grant claims tried before the Court of Private Land Claims from 1891 to 1904.
+		Each claim is supported with various papers beginning as early as 1800,
+		including documents issued by the Spanish and Mexican governments. </p> 
+	 <p>The collection includes both papers submitted in support of claims and
+		papers produced while the cases were tried. These include correspondence,
+		reports, decrees, surveys, field notes, petitions, sketch maps, land documents,
+		trial transcripts, and related court records. Also present are photographs
+		depicting land monuments and survey maps prepared for the Court. </p> 
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+		  <corpname encodinganalog="110">United States. Court of Private Land
+			 Claims -- Archives.</corpname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <corpname encodinganalog="110"> Sopori Land and Mining
+			 Company.</corpname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <corpname encodinganalog="110"> Arivaca Land and Cattle Company.
+			 </corpname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject> Land grants -- Arizona.</subject> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject>Baca Land Grant (Ariz.) </subject> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject>Canoa Land Grant (Ariz.) </subject> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject>Sopori Land Grant (Ariz.) </subject> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject>Los Nogales de Elias Land Grant (Ariz.) </subject> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject> Buena Vista Land Grant (Ariz.)</subject> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject> Peralta Land Grant (Ariz.) </subject> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject>Algodones Land Grant (Ariz.) </subject> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject>San Bernadino Land Grant (Ariz.)</subject> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject>San Bernadino Land Grant (Ariz.) </subject> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject>San Bernadino Land Grant (Ariz.) </subject> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject>San Juan de los Boquillas y Nogales Land Grant (Ariz.)
+			 </subject> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject> San Pedro Land Grant (Ariz.) </subject> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject> San Rafael de la Zanja Land Grant (Ariz.) </subject> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject> San Rafael del Valley Land Grant (Ariz.) </subject> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject>San Xavier del Bac Land Grant (Ariz.) </subject> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject> Rancho Martinez Land Grant (Ariz.) </subject> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject> Tres Alamos Land Grant (Ariz.) </subject> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject> Tumacacori Land Grant (Ariz.) </subject> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject> Tumacacori Land Grant (Ariz.) </subject> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <subject> Huebabi Land Grant (Ariz.) </subject> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <genreform> 1825-1849. </genreform> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <genreform> 1850-1874. </genreform> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <genreform> 1875-1899. </genreform> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+		  <genreform> 1900-1924. </genreform> </item> 
+	 </list> 
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+		  <unittitle>Series 1: Named Land Grants, 
+			 <unitdate type="inclusive"
+			 normal="1800/1904">1800-1904</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="reel">1</container> 
+			 <unittitle> Agua Prieta Grant, Court of Private Land Claims, case no.
+				5, Cochise County, Claimant: Santiago Ainsa (administrator). </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="reel">2</container> 
+			 <unittitle> Arivaca Land and Cattle Co., case no. 7, Pima County,
+				Claimant: Arivaca Land and Cattle Co. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="reel">3</container> 
+			 <unittitle> Baca Float #3, Pima County, Claimant: Heirs of Luis Maria
+				Baca. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="reel">4</container> 
+			 <unittitle> Canoa Grant, alias San Ygnacio de la Canoa, case no. 6,
+				Pima County, Claimant: Maish &amp; Driscoll. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="reel">5</container> 
+			 <unittitle> Maria Santisima del Garmen alias Buena Vista Grant, case
+				no. 6 1/2, Santa Cruz County, Claimant: Maish &amp; Driscoll. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="reel">6</container> 
+			 <unittitle> Los Nogales de Elias Grant, case no. 29, Pima County,
+				Claimant: U.S. v. Santiago Ainsa. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="reel">7-8</container> 
+			 <unittitle> Peralta Grant, case no. 4 (transferred to New Mexico,
+				case no 110, Arizona and New Mexico, Claimant: James A. Reavis). </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="reel">9</container> 
+			 <unittitle> San Bernadino Grant A and B, case no. 1, Cochise County,
+				Claimant: John H. Slaughter. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="reel">10</container> 
+			 <unittitle> San Ignacio del Babocomari Grant, Cochise and Santa Cruz
+				Counties, Claimant: Robert Perrin. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="reel">11</container> 
+			 <unittitle> San Jose de Sonoita Grant, case no. 40, Pima County,
+				Claimant: U.S. v. Santiago Ainsa. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="reel">12-13</container> 
+			 <unittitle> San Juan de los Boquillas y Nogales Grant, case no. 42,
+				Cochise County, Claimant: Wm. R. Hearst, et al. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="reel">14</container> 
+			 <unittitle> San Pedro Grant, no. 10, Cochise County, Claimant: The
+				Reloj Cattle Co. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="reel">15</container> 
+			 <unittitle> San Rafael de la Zanja Grant A, case no. 2, Santa Cruz
+				County, Claimant: Alfred A. Green. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="reel">16</container> 
+			 <unittitle> San Rafael de la Zanja Grant B, case no. 2, Santa Cruz
+				County, Claimant: Alfred A. Green. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="reel">17</container> 
+			 <unittitle> San Rafael del Valle Grant A, case no. 3, Cochise County,
+				Claimant: Juan Pedro Camou. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="reel">18</container> 
+			 <unittitle> San Rafael del Valley Grant B, case no. 3, Cochise
+				County, Claimant: Juan Pedro Camou. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="reel">19</container> 
+			 <unittitle> San Xavier del Bac, or Rancho de Martinez Grant, Pima
+				County, Claimant: Albert Steinfeld. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="reel">20</container> 
+			 <unittitle> Sopori Grant, case no. 201, Pima County, Claimant: Sopori
+				Land and Mining Co. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="reel">21</container> 
+			 <unittitle> Sopori Land and Mining Company, case no. 201, Pima
+				County, Claimant: Sopori Land and Mining Co. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="reel">22</container> 
+			 <unittitle> Tres Alamos Grant, case no. 71, Cochise County, Claimant:
+				Francis E. Spencer, et al. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="reel">23</container> 
+			 <unittitle> Tumacacori, Calabasas and Huebabi Grant A, case no. 8, 9,
+				162, Pima County, Claimant: Wm. Faxon, trustee, et al. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="reel">24</container> 
+			 <unittitle> Tumacacori, Calabasas and Huebabi Grant B, and Baca Float
+				No. 5, Case nos. 8, 9, 162 consolidated, Pima County, Claimant: Wm. Faxon,
+				trustee, et al. et al. </unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series" id="ser2"> 
+		<did> 
+		  <unittitle>Series 2: Miscellaneous grant papers, 
+			 <unitdate type="inclusive"
+			 normal="1800/1904">1800-1904</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="reel">25</container> 
+			 <unittitle>Cruz, Sabino Otero, Naydeni Bachi, Agua Prieta y Santa
+				Barbara, Pasidio near Tubac, Presidio grants near Tucson, Carmen de O'Campas,
+				Agua de Baltazar, Reyes Pacheco grants, and miscellaneous papers. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="reel">26</container> 
+			 <unittitle>Includes Mexico, California and Arizona decrees, opinions,
+				reports, subpoenas, correspondence, orders and petitions relating to land
+				grants in Arizona. </unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="reel">27</container> 
+			 <unittitle>Land grant survey maps. </unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+  </dsc> 
+</archdesc></ead>

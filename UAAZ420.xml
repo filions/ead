@@ -1,0 +1,3714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?filetitle University of Arizona Office of the President Records?>
+<ead relatedencoding="MARC21">
+<eadheader audience="internal" findaidstatus="edited-full-draft"
+ langencoding="iso639-2b">
+	<eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
+		Special Collections//text(US::AzU::University of Arizona Office
+	 of the President Records)//en" "UAAZ420.xml"</eadid>
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">University of Arizona Office of the
+		  President records, 
+		  <date>1914-1937</date></titleproper>
+		<author encodinganalog="245$c">Inventory prepared by Phyllis
+		  Ball</author>
+	 </titlestmt>
+	 <publicationstmt>
+	 	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+		<address>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address>
+		<date>&#x00A9; 2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p>
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc>
+	 <creation encodinganalog="500">Inventory encoded by Chrystal Carpenter 
+		<date>September 18, 2002</date></creation> 
+	 <langusage>Inventory is in<language langcode="en"
+		encodinganalog="546">English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter>
+  <titlepage>
+	 <titleproper encodinganalog="245$a">University of Arizona Office of the
+		President records, 
+		<date>1914-1937</date></titleproper>
+	 <num>Collection Number: AZ 420</num>
+  	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher>
+	 <list>
+		<defitem>
+		  <label>Processed by:</label>
+		  <item>Phyllis Ball</item>
+		</defitem>
+		<defitem>
+		  <label>Date completed:</label>
+		  <item>
+			 <date>1980</date></item>
+		</defitem>
+		<defitem>
+		  <label>Encoded by:</label>
+		  <item>Chrystal Carpenter</item>
+		</defitem>
+	 </list>
+	 <p>&#x00A9; 2001. Arizona Board of Regents. All rights reserved.</p>
+  </titlepage>
+</frontmatter>
+<archdesc level="collection"> 
+  <did id="a1">
+	 <head>Collection Summary</head>
+	 <unittitle encodinganalog="245" label="Collection Name:">University of
+		Arizona Office of the President records, 
+		<unitdate type="inclusive"
+		 normal="1914/1937">1914-1937</unitdate></unittitle>
+	 <unitid label="Collection Number:" encodinganalog="099"
+	  repositorycode="AzU" countrycode="us">AZ 420</unitid>
+  	<abstract>The University of Arizona Office of the President records consist of correspondence and financial papers relating to administration and
+  		management of areas such as building and grounds, faculty and student issues,
+  		military and R.O.T.C., land acquisitions, academic departments, requests for
+  		information, Federal relief programs of 1932-1937, external agencies and
+  		organizations, and other issues.</abstract>  	
+	 <origination label="Creator:"> 
+		<corpname encodinganalog="110">University of Arizona. Office of the
+		  President</corpname></origination>
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+		encodinganalog="300">11.25 linear feet</extent></physdesc>
+	 <repository label="Repository:">
+	 	<corpname encodinganalog="110">University of Arizona Libraries, Special Collections</corpname>
+		<address>
+		  <addressline>University of Arizona</addressline>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address></repository>
+  </did> 
+  <accessrestrict encodinganalog="506">
+	 <head>Restrictions</head>
+	 <p>None.</p>
+  </accessrestrict>
+  <userestrict encodinganalog="540">
+	 <head>Copyright</head>
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p>
+  </userestrict>
+  <prefercite encodinganalog="524">
+	 <head>Credit Line</head>
+	 <p>University of Arizona Office of the President records(AZ 420). Special Collections, University of Arizona Libraries.</p>
+  </prefercite>
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into five series: </p> 
+	 <list> 
+		<item>Series I. R.B. von KleinSmid and Frank C. Lockwood Papers, 
+		  <unitdate type="inclusive"
+			normal="1914/1922">1914-1922</unitdate></item>
+		<item>Series II. Cloyd H. Marvin Papers, 
+		  <unitdate type="inclusive"
+			normal="1922/1927">1922-1927</unitdate></item>
+		<item>Series III. Byron Cummings Papers, 
+		  <unitdate type="inclusive"
+			normal="1927/1928">1927-1928</unitdate></item>
+		<item>Series IV. Homer L. Shantz Papers, 
+		  <unitdate type="inclusive"
+			normal="1928/1936">1928-1936</unitdate></item>
+		<item>Series V. Paul S. Burgess Papers, 
+		  <unitdate type="inclusive"
+			normal="1936/1937">1936-1937</unitdate></item>
+	 </list> 
+  </arrangement>
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head>
+	 <p>Correspondence and financial papers relating to administration and
+		management of areas such as building and grounds, faculty and student issues,
+		military and R.O.T.C., land acquisitions, academic departments, requests for
+		information, Federal relief programs of 1932-1937, external agencies and
+		organizations, and other issues. Correspondents include Governors George W.P.
+		Hunt, John C. Phillips, and Benjamin B. Moeur; various Board of Regents
+		members, U.S. Veteran's Bureau, Arizona Historical Society, Arizona State
+		Legislature, University faculty members, and others. Includes professional
+		activity files of Homer L. Shantz.</p> 
+  </scopecontent> 
+  <controlaccess id="a12">
+	 <head>Access Terms</head>
+	 <list>
+		<item>
+		  <persname encodinganalog="100">KleinSmid, Rufus Bernhard von,
+			 1875-1964</persname></item>
+		<item>
+		  <persname encodinganalog="100">Lockwood, Frank C. (Frank Cummins),
+			 1864-1948</persname></item>
+		<item>
+		  <persname encodinganalog="100">Greenway, Isabella</persname></item>
+		<item>
+		  <persname encodinganalog="100">Hayden, Carl Trumbull, 1877-1972 --
+			 Correspondence</persname></item>
+		<item>
+		  <persname encodinganalog="100">Marvin, Cloyd Heck,
+			 1889-1969</persname></item>
+		<item>
+		  <persname encodinganalog="100">Cummings, Byron,
+			 1860-1954</persname></item>
+		<item>
+		  <persname encodinganalog="100">Shantz, H. L. (Homer LeRoy),
+			 1876-1958</persname></item>
+		<item>
+		  <persname encodinganalog="100">Burgess, Paul,
+			 1886-1958</persname></item>
+		<item>
+		  <persname encodinganalog="100">Hunt, George W. P. (George Wylie Paul),
+			 1859-1934 -- Correspondence</persname></item>
+		<item>
+		  <persname encodinganalog="100">Phillips, John C. --
+			 Correspondence</persname></item>
+		<item>
+		  <persname encodinganalog="100">Moeur, Benjamin --
+			 Correspondence</persname></item>
+		<item>
+		  <corpname encodinganalog="110">Arizona Historical
+			 Society</corpname></item>
+		<item>
+		  <corpname encodinganalog="110">Arizona. Legislature</corpname></item>
+		<item>
+		  <corpname encodinganalog="110">University of Arizona --
+			 Faculty</corpname></item>
+		<item>
+		  <corpname encodinganalog="110">University of Arizona -- Records and
+			 correspondence</corpname></item>
+		<item>
+		  <corpname encodinganalog="110">Arizona Board of
+			 Regents</corpname></item>
+		<item>
+		  <corpname encodinganalog="110">University of Arizona --
+			 History</corpname></item>
+		<item>
+		  <subject>Depressions -- 1929 -- Arizona</subject></item>
+		<item>
+		  <geogname>Arizona -- History -- Sources</geogname></item>
+		<item>
+		  <genreform>Correspondence</genreform></item>
+	 </list>
+  </controlaccess> 
+  <relatedmaterial encodinganalog="544$1">
+	 <head>Related Material</head>
+	 <p>Additional President's papers at AZ 76, AZ 406, AZ 426, AZ 427.</p>
+  </relatedmaterial>
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head>
+	 <c01 level="series" id="ser1"> 
+		<did>
+		  <unittitle>Series I: R.B. von KleinSmid and Cloyd H. Lockwood Papers, 
+			 <unitdate type="inclusive"
+			  normal="1914/1922">1914-1922</unitdate></unittitle> 
+		</did> 
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">1</container>
+			 <unittitle>R.B. von KleinSmid miscellaneous correspondence, includes
+				the Proposed Plan of Administration for the University of Arizona, as adopted
+				by the Faculty, October 1, 1920. 
+				<unitdate type="inclusive"
+				 normal="1916/1921">1916-1921</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">2</container>
+			 <unittitle>R.B. von KleinSmid miscellaneous correspondence, includes
+				the Proposed Plan of Administration for the University of Arizona, as adopted
+				by the Faculty, October 1, 1920. 
+				<unitdate type="inclusive"
+				 normal="1916/1921">1916-1921</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">3</container>
+			 <unittitle>R.B. von KleinSmid miscellaneous financial papers, most
+				refer to Agricultural Extension work. 
+				<unitdate type="inclusive"
+				 normal="1916/1921">1916-1921</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">4</container>
+			 <unittitle>R.B. von KleinSmid materials regarding Students Army
+				Training Corps, includes material on the local flu epidemic, and the use of
+				University facilities. 
+				<unitdate type="inclusive"
+				 normal="1917/1919">1917-1919</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">5</container>
+			 <unittitle>R.B. von KleinSmid materials regarding subscriptions from
+				mining companies for the Mines and Engineering Building. 
+				<unitdate type="inclusive"
+				 normal="1916/1918">1916-1918</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">6</container>
+			 <unittitle>R.B. von KleinSmid materials regarding the establishment
+				of Post Office in "Old Main". 
+				<unitdate type="inclusive"
+				 normal="1920/1921">1920-1921</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">7</container>
+			 <unittitle>R.B. von KleinSmid materials regarding the Federal Board
+				for Vocational Education. 
+				<unitdate type="inclusive"
+				 normal="1920/1921">1920-1921</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">8</container>
+			 <unittitle>R.B. von KleinSmid materials regarding the Yuma Experiment
+				Station fence controversy. 
+				<unitdate type="inclusive"
+				 normal="1920/1921">1920-1921</unitdate></unittitle>
+		  </did>
+		</c02>
+	 	<c02 level="file">
+	 		<did><container type="box">1</container><container
+	 			type="folder">9</container>
+	 			<unittitle>R.B. von KleinSmid, Brochures for Forest Laun Memorial Park,  
+	 				<unitdate type="inclusive"
+	 					normal="1952/1954">1952-1954</unitdate></unittitle>
+	 		</did>
+	 	</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">10</container>
+			 <unittitle>Frank C. Lockwood correspondence with former President von
+				KleinSmid. 
+				<unitdate type="inclusive"
+				 normal="1921/1922">1921-1922</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">11</container>
+			 <unittitle>Frank C. Lockwood miscellaneous correspondence. 
+				<unitdate type="inclusive"
+				 normal="1921/1922">1921-1922</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">12</container>
+			 <unittitle>Frank C. Lockwood miscellaneous financial papers. 
+				<unitdate type="inclusive"
+				 normal="1922">1922</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">13</container>
+			 <unittitle>Frank C. Lockwood materials regarding buildings and
+				grounds, includes fire escapes and street improvements. 
+				<unitdate type="inclusive"
+				 normal="1922">1922</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">14</container>
+			 <unittitle>Frank C. Lockwood materials regarding poultry projects. 
+				<unitdate type="inclusive"
+				 normal="1922">1922</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">15</container>
+			 <unittitle>Frank C. Lockwood materials regarding Veterans' Bureau. 
+				<unitdate type="inclusive"
+				normal="1922">1922</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">16</container>
+			 <unittitle>Frank C. Lockwood statistical material for the U.S. Bureau
+				of Education Survey Committee, published as 
+				<title render="italic">Report of a Survey of the University of
+				  Arizona</title>. 
+				<unitdate type="inclusive"
+				normal="1922">1922</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01> 
+	 <c01 level="series" id="ser2">
+		<did>
+		  <unittitle>Series II: Cloyd H. Marvin Papers, 
+			 <unitdate type="inclusive"
+			 normal="1922/1927">1922-1927</unitdate></unittitle>
+		</did>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">1</container>
+			 <unittitle>Miscellaneous Correspondence. 
+				<unitdate type="inclusive"
+				normal="1924/1926">1924-1926</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">2</container>
+			 <unittitle>General Questionnaires. 
+				<unitdate type="inclusive"
+				normal="1925/1926">1925-1926</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">3</container>
+			 <unittitle>Athletic Questionaires. 
+				<unitdate type="inclusive"
+				normal="1922/1925">1922-1925</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">4</container>
+			 <unittitle>Requests for Information: Salaries, Marble Quarries in
+				Arizona. 
+				<unitdate type="inclusive" normal="1914/1937"><?xm-replace_text {date}?></unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">5</container>
+			 <unittitle>Faculty Correspondence. 
+				<unitdate type="inclusive"
+				normal="1922/1927">1922-1927</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">6</container>
+			 <unittitle>President Marvin's reorganization of faculty. 
+				<unitdate type="inclusive" normal="1922">October
+				  1922</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">7</container>
+			 <unittitle>Faculty: Marguerite Marrow, Drama. 
+				<unitdate type="inclusive"
+				 normal="1926/1927">1926-1927</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">8</container>
+			 <unittitle> Faculty: Charles F. Rogers, Music. 
+				<unitdate type="inclusive"
+				 normal="1924/1926">1924-1926</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">9</container>
+			 <unittitle>Faculty: Dean of Women, forms used. 
+				<unitdate type="inclusive" normal="1914/1937"><?xm-replace_text {date}?></unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">10</container>
+			 <unittitle>Faculty Committees. 
+				<unitdate type="inclusive"
+				 normal="1922/1927">1922-1927</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">11</container>
+			 <unittitle>Faculty Publications. 
+				<unitdate type="inclusive"
+				 normal="1922/1927">1922-1927</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">12</container>
+			 <unittitle>Department of Health Administration: Includes infirmary
+				reports, fees and financial records, lists of consulting physicians, etc. 
+				<unitdate type="inclusive"
+				 normal="1923/1926">1923-1926</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">13</container>
+			 <unittitle>Department of Law Reports and Syllabi. 
+				<unitdate type="inclusive"
+				 normal="1924">1924</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">14</container>
+			 <unittitle>Department of Physics. 
+				<unitdate type="inclusive"
+				 normal="1922/1924">1922-1924</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">15</container>
+			 <unittitle>Miscellaneous student correspondence. 
+				<unitdate type="inclusive"
+				 normal="1922/1926">1922-1926</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">16</container>
+			 <unittitle>Students: Death of Paul Long. 
+				<unitdate type="inclusive"
+				 normal="1923">1923</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">17</container>
+			 <unittitle>Students: Wilma Kavanaugh Case. 
+				<unitdate type="inclusive"
+				 normal="1925">1925</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="folder">1</container>
+			 <unittitle>Miscellaneous Registrar reports, statistics, etc. 
+				<unitdate type="inclusive"
+				 normal="1925/1926">1925-1926</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="folder">2</container>
+			 <unittitle>Miscellaneous Financial Papers. 
+				<unitdate type="inclusive"
+				 normal="1923/1927">1923-1927</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Includes material regarding the paving of Second Street, faculty
+				salary scales, literary lecture series, dining hall report, Experiment Station
+				work, improvements on University grounds, and a Taxpayer Committee's complaint
+				about the University's expenditures. </p>
+		  </scopecontent>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="folder">3</container>
+			 <unittitle>Ruling of the Attorney General. 
+				<unitdate type="inclusive"
+				 normal="1923/1925">1923-1925</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="folder">4</container>
+			 <unittitle>Proposed separate College of Agriculture. 
+				<unitdate type="inclusive"
+				 normal="1923">1923</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="folder">5</container>
+			 <unittitle>Athletic Board Control. 
+				<unitdate type="inclusive"
+				 normal="1922/1923">1922-1923</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="folder">6</container>
+			 <unittitle>Land sale of the Experiment Station Farm, Cochise County. 
+				<unitdate type="inclusive"
+				 normal="1925/1926">1925-1926</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="folder">7</container>
+			 <unittitle>Various land transactions. 
+				<unitdate type="inclusive"
+				 normal="1922/1926">1922-1926</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="folder">8</container>
+			 <unittitle>Library Building: Snead &amp; Co. 
+				<unitdate type="inclusive"
+				 normal="1923/1926">1923-1926</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="folder">9</container>
+			 <unittitle>Library Building decoration and furniture. 
+				<unitdate type="inclusive"
+				 normal="1926">1926</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="folder">10</container>
+			 <unittitle>Military and R.O.T.C., including Polo. 
+				<unitdate type="inclusive"
+				 normal="1923/1927">1923-1927</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="folder">11</container>
+			 <unittitle>Munk Library. 
+				<unitdate type="inclusive"
+				 normal="1921/1926">1921-1926</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="folder">12</container>
+			 <unittitle>U.S. Veterans' Bureau. 
+				<unitdate type="inclusive"
+				normal="1924/1927">1924-1927</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="folder">13</container>
+			 <unittitle>American Association of University Women. 
+				<unitdate type="inclusive"
+				normal="1924/1925">1924-1925</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="folder">14</container>
+			 <unittitle>Association of Governing Boards of State Universities and
+				Allied Institutions. 
+				<unitdate type="inclusive"
+				normal="1923/1925">1923-1925</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="folder">15</container>
+			 <unittitle>Association of Land Grant Colleges. 
+				<unitdate type="inclusive"
+				normal="1923/1927">1923-1927</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="folder">16</container>
+			 <unittitle>Arizona State Statistics. 
+				<unitdate type="inclusive"
+				normal="1922/1927">1922-1927</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="folder">17</container>
+			 <unittitle>Miscellaneous material. 
+				<unitdate type="inclusive"
+				normal="1919/1926">1919-1926</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Material includes more on the Plan of Administration of the
+				University; Doctors' Academy meeting minutes, December 1923; 
+			 <title render="italic">Graphical Interpretation of County Agent
+				Work</title>, 1919-1922; the "Y" Hut; Debate schedule, 1926; and the lease
+			 between Louise Marshall &amp; husband and the Board of Regents for the Post
+			 Office in building on University Ave., 1923.</p>
+		  </scopecontent>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="folder">18</container>
+			 <unittitle>Miscellaneous reports from the Agricultural Extension
+				Service and the Agricultural Experiment Station. 
+				<unitdate type="inclusive"
+				 normal="1922/1925">1922-1925</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series" id="ser3">
+		<did>
+		  <unittitle>Series III: Byron Cummings Papers, 
+			 <unitdate type="inclusive"
+			  normal="1927/1928">1927-1928</unitdate></unittitle>
+		</did>
+		<c02 level="file">
+		  <did><container type="box">4</container><container
+			 type="folder">1</container>
+			 <unittitle>Board of Regents. 
+				<unitdate type="inclusive"
+				 normal="1927/1928">1927-1928</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">4</container><container
+			 type="folder">2</container>
+			 <unittitle>Governor G. W. P. Hunt. 
+				<unitdate type="inclusive" normal="">February 1927-June
+				  1928</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">4</container><container
+			 type="folder">3</container>
+			 <unittitle>Faculty: G.M Butler, Dean of College of Mines and
+				Engineering and Director of Arizona Bureau of Mines. 
+				<unitdate type="inclusive"
+				 normal="1927/1928">1927-1928</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">4</container><container
+			 type="folder">4</container>
+			 <unittitle>Faculty: J.F. McKale, Physical Education for men. 
+				<unitdate type="inclusive"
+				 normal="1927/1928">1927-1928</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">4</container><container
+			 type="folder">5</container>
+			 <unittitle>Faculty: Charles F. Rogers, Director of the School of
+				Music. 
+				<unitdate type="inclusive"
+				 normal="1927/1928">1927-1928</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">4</container><container
+			 type="folder">6</container>
+			 <unittitle>Faculty: J.J. Thornber, Dean of the College of Agriculture
+				and Director of the Agricultural Station. 
+				<unitdate type="inclusive"
+				 normal="1927/1928">1927-1928</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">4</container><container
+			 type="folder">7</container>
+			 <unittitle>Faculty: High School visitor reports. 
+				<unitdate type="inclusive"
+				 normal="1927">1927</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">4</container><container
+			 type="folder">8</container>
+			 <unittitle>Faculty Committees. 
+				<unitdate type="inclusive"
+				 normal="1927/1928">1927-1928</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">4</container><container
+			 type="folder">9</container>
+			 <unittitle>Miscellaneous faculty correspondence. 
+				<unitdate type="inclusive"
+				 normal="1927/1928">1927-1928</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">1</container>
+			 <unittitle>Miscellaneous correspondence. 
+				<unitdate type="inclusive" normal="">February 1927-June
+				  1928</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">2</container>
+			 <unittitle>Requests for information, etc. 
+				<unitdate type="inclusive"
+				 normal="1927/1928">1927-1928</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">3</container>
+			 <unittitle>Complaints
+				<unitdate type="inclusive"
+				 normal="1927/1928">1927-1928</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">4</container>
+			 <unittitle>Students, miscellaneous. 
+				<unitdate type="inclusive"
+				 normal="1927/1928">1927-1928</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">5</container>
+			 <unittitle>Students: Injury of James A Rork. 
+				<unitdate type="inclusive" normal="1914/1937"/></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">6</container>
+			 <unittitle>Students: Marjorie Akers Case, course work for degree. 
+				<unitdate type="inclusive" normal="1914/1937"><?xm-replace_text {date}?></unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">7</container>
+			 <unittitle>Advertising and Publicity. 
+				<unitdate type="inclusive"
+				 normal="1927/1928">1927-1928</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">8</container>
+			 <unittitle>Buffalo for the State Museum, includes correspondence with
+				Gov. Hunt. 
+				<unitdate type="inclusive"
+				 normal="1927">1927</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">9</container>
+			 <unittitle>Buildings and Grounds. 
+				<unitdate type="inclusive"
+				 normal="1927/1928">1927-1928</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">10</container>
+			 <unittitle>Buildings and Grounds, Dining hall improvements. 
+				<unitdate type="inclusive"
+				 normal="1927/1928">1927-1928</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">11</container>
+			 <unittitle>Building and Grounds, Heating plant. 
+				<unitdate type="inclusive"
+				 normal="1927/1928">1927-1928</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">12</container>
+			 <unittitle>Buildings and Grounds, Library and Gymnasium. 
+				<unitdate type="inclusive"
+				 normal="1927/1928">1927-1928</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">13</container>
+			 <unittitle>Miscellaneous financial papers. 
+				<unitdate type="inclusive"
+				 normal="1927/1928">1927-1928</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">14</container>
+			 <unittitle>Financial Papers in regards to the Marvin Entertainment
+				Fund. 
+				<unitdate type="inclusive"
+				 normal="1927/1928">1927-1928</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">15</container>
+			 <unittitle>Graduate College controversy. 
+				<unitdate type="inclusive"
+				 normal="1927/1928">1927-1928</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">16</container>
+			 <unittitle>Infirmary and Student Health. 
+				<unitdate type="inclusive"
+				 normal="1927/1928">1927-1928</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">17</container>
+			 <unittitle>Insurance. 
+				<unitdate type="inclusive"
+				 normal="1927/1928">1927-1928</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">18</container>
+			 <unittitle>Land purchase of Forbes property on Olive Road. 
+				<unitdate type="inclusive" normal="1914/1937"/></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">19</container>
+			 <unittitle>Lead Crosses. 
+				<unitdate type="inclusive"
+				 normal="1927/1928">1927-1928</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">20</container>
+			 <unittitle>Mexican Affairs. 
+				<unitdate type="inclusive"
+				 normal="1927/1928">1927-1928</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">21</container>
+			 <unittitle>Military and R.O.T.C., including correspondence Re: new
+				riding corral. 
+				<unitdate type="inclusive"
+				 normal="1927/1928">1927-1928</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">22</container>
+			 <unittitle>Radio Commission. 
+				<unitdate type="inclusive"
+				 normal="1927/1928">1927-1928</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">23</container>
+			 <unittitle>University Press proposal. 
+				<unitdate type="inclusive"
+				 normal="1927">1927</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">24</container>
+			 <unittitle>State Department of Vocational Education. 
+				<unitdate type="inclusive"
+				 normal="1927/1928">1927-1928</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">5</container><container
+			 type="folder">25</container>
+			 <unittitle>U.S. Veterans' Bureau. 
+				<unitdate type="inclusive"
+				normal="1927/1928">1927-1928</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series" id="ser4">
+		<did>
+		  <unittitle>Series IV: Homer L. Shantz Papers, 
+			 <unitdate type="inclusive"
+			 normal="1928/1936">1928-1936</unitdate></unittitle>
+		</did>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Board of Regents and Governors, 
+				<unitdate type="inclusive"
+				normal="1927/1936">1927-1936</unitdate></unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container type="box">6</container><container
+				type="folder">1</container>
+				<unittitle>F.J. Crider. 
+				  <unitdate type="inclusive"
+				  normal="1927/1935">1927-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">6</container><container
+				type="folder">2</container>
+				<unittitle>Robert E. Tally. 
+				  <unitdate type="inclusive"
+				  normal="1927/1936">1927-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">6</container><container
+				type="folder">3</container>
+				<unittitle>Robert E. Tally. 
+				  <unitdate type="inclusive"
+				  normal="1927/1936">1927-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">6</container><container
+				type="folder">4</container>
+				<unittitle>H.S. McCluskey. 
+				  <unitdate type="inclusive"
+				  normal="1928/1935">1928-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">6</container><container
+				type="folder">5</container>
+				<unittitle>William C. Joyner. 
+				  <unitdate type="inclusive"
+				  normal="1929/1931">1929-1931</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">6</container><container
+				type="folder">6</container>
+				<unittitle>A.M. Crawford. 
+				  <unitdate type="inclusive"
+				  normal="1935/1936">1935-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">6</container><container
+				type="folder">7</container>
+				<unittitle>Various. 
+				  <unitdate type="inclusive"
+				  normal="1927/1936">1927-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">6</container><container
+				type="folder">8</container>
+				<unittitle>Meeting minutes, "off the record", drafts only and notes
+				  by HLS. 
+				  <unitdate type="inclusive"
+				  normal="1931/1935">1931-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">6</container><container
+				type="folder">9</container>
+				<unittitle>Governor George W.P. Hunt. 
+				  <unitdate type="inclusive"
+				  normal="1928">1928</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">6</container><container
+				type="folder">10</container>
+				<unittitle>Governor John C. Phillips. 
+				  <unitdate type="inclusive"
+				  normal="1929/1920">1929-1920</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">6</container><container
+				type="folder">11</container>
+				<unittitle>Governor George P. Hunt. 
+				  <unitdate type="inclusive"
+				  normal="1931/1932">1931-1932</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">6</container><container
+				type="folder">12</container>
+				<unittitle>Governor Benjamin B. Moeur. 
+				  <unitdate type="inclusive"
+				  normal="1932/1936">1932-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Arizona State Officials, 
+				<unitdate type="inclusive"
+				normal="1928/1937">1928-1937</unitdate></unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container type="box">6a</container><container
+				type="folder">1</container>
+				<unittitle>Arizona State Legislature. 
+				  <unitdate type="inclusive"
+				  normal="1929/1935">1929-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">6a</container><container
+				type="folder">2</container>
+				<unittitle>Arizona State Legislature. 
+				  <unitdate type="inclusive"
+				  normal="1929/1935">1929-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">6a</container><container
+				type="folder">3</container>
+				<unittitle>A.M. Crawford, Legislative Examiner. 
+				  <unitdate type="inclusive"
+				  normal="1930/1932">1930-1932</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">6a</container><container
+				type="folder">4</container>
+				<unittitle>Thank you letters from State Legislators for football
+				  tickets. 
+				  <unitdate type="inclusive"
+				  normal="1934/1935">1934-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">6a</container><container
+				type="folder">5</container>
+				<unittitle>Rulings of the Attorney General. 
+				  <unitdate type="inclusive"
+				  normal="1928/1937">1928-1937</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Faculty A-Z, 
+				<unitdate type="inclusive"
+				normal="1928/1936">1928-1936</unitdate></unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container type="box">7</container><container
+				type="folder">1</container>
+				<unittitle>Anderson, Arthur Olaf. Dean of the College of Fine Arts.
+				  Includes material regarding University Artist and Lecture Series. 
+				  <unitdate type="inclusive"
+				  normal="1935/1939">1935-1939</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">7</container><container
+				type="folder">2</container>
+				<unittitle>Anderson, Ernest. Chemistry. 
+				  <unitdate type="inclusive"
+				  normal="1930/1936">1930-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">7</container><container
+				type="folder">3</container>
+				<unittitle>Bachman, Albert. French. 
+				  <unitdate type="inclusive"
+				  normal="1930/1936">1930-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">7</container><container
+				type="folder">4</container>
+				<unittitle>Ball, E.D. Dean of the College of Agriculture; Director
+				  of Agricultural Experiment Station; Economic Zoology. 
+				  <unitdate type="inclusive"
+				  normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">7</container><container
+				type="folder">5</container>
+				<unittitle>Ballantyne, A.B. Rural Sociology. 
+				  <unitdate type="inclusive"
+				  normal="1933/1936">1933-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">7</container><container
+				type="folder">6</container>
+				<unittitle>Boggs, Edward M. Civil Engineering (1892-1897) Regarding
+				  gift of his library to the University. 
+				  <unitdate type="inclusive"
+				  normal="1932">1932</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">7</container><container
+				type="folder">7</container>
+				<unittitle>Breazeale, James F. Reseach Biochemistry, U.S.D.A.
+				  Includes information about the beginnings of the Boyce Thompson Southwestern
+				  Arboretum. 
+				  <unitdate type="inclusive"
+				  normal="1927/1932">1927-1932</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">7</container><container
+				type="folder">8</container>
+				<unittitle>Brown, Elmer J. Economics and Business. 
+				  <unitdate type="inclusive"
+				  normal="1929/1934">1929-1934</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">7</container><container
+				type="folder">9</container>
+				<unittitle>Brown J.G. Plant Pathology. 
+				  <unitdate type="inclusive"
+				  normal="1928/1931">1928-1931</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">7</container><container
+				type="folder">10</container>
+				<unittitle>Burgess, Paul S. Agricultural Chemist; Dean of the
+				  College of Agriculture; Director of the Agricultural Experiment Station. 
+				  <unitdate type="inclusive"
+				  normal="">1928-1937,1950</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">7</container><container
+				type="folder">11</container>
+				<unittitle>Butler, G. M. Dean of the College of Mines &amp;
+				  Engineering; Director of the Arizona Bureau of Mines. 
+				  <unitdate type="inclusive"
+				  normal="">1928-1936,1946</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">7</container><container
+				type="folder">12</container>
+				<unittitle>Cable, W. Arthur. Speech. 
+				  <unitdate type="inclusive"
+				  normal="1930/1935">1930-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">7</container><container
+				type="folder">13</container>
+				<unittitle>Carpenter, Edwin F. Astronomy and Steward Observatory.
+				  Includes the "city lights" program. 
+				  <unitdate type="inclusive"
+				  normal="1931/1936">1931-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">7</container><container
+				type="folder">14</container>
+				<unittitle>Clarson, J.W. Jr. Dean of the College of Education. 
+				  <unitdate type="inclusive"
+				  normal="1929/1935">1929-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">7</container><container
+				type="folder">15</container>
+				<unittitle>Cummings, Byron. Archaeology and State Museum. 
+				  <unitdate type="inclusive"
+				  normal="1927/1935">1927-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">7</container><container
+				type="folder">16</container>
+				<unittitle>Douglass, Andrew Ellicott. Astronomy and Tree Rings. 
+				  <unitdate type="inclusive"
+				  normal="1928/1934">1928-1934</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">7</container><container
+				type="folder">17</container>
+				<unittitle>Fancett, George. Mines. Mostly regarding Extension
+				  Lectures.
+				  <unitdate type="inclusive"
+				  normal="1928/1933">1928-1933</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">7</container><container
+				type="folder">18</container>
+				<unittitle>Fegtly, Samuel M. Dean of the College of Law. 
+				  <unitdate type="inclusive"
+				  normal="1929/1936">1929-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">7</container><container
+				type="folder">19</container>
+				<unittitle>Fitz-Gerald, John D. Spanish. Includes Pan American Day
+				  Celebration, April 14, 1931. 
+				  <unitdate type="inclusive"
+				  normal="1929/1938">1929-1938</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">8</container><container
+				type="folder">1</container>
+				<unittitle>Gittings, Ina E. Physical Education for Women.
+				  <unitdate type="inclusive"
+				  normal="1929/1936">1929-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">8</container><container
+				type="folder">2</container>
+				<unittitle>Gjelsness, Rodolph H. Library.
+				  <unitdate type="inclusive"
+				  normal="1933/1935">1933-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">8</container><container
+				type="folder">3</container>
+				<unittitle>Johnson, B. Eleanor. Home Economics
+				  <unitdate type="inclusive"
+				  normal="1934/1935">1934-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">8</container><container
+				type="folder">4</container>
+				<unittitle>Jones, Evelyn W. Dean of Women. 
+				  <unitdate type="inclusive"
+				  normal="1929/1936">1929-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">8</container><container
+				type="folder">5</container>
+				<unittitle>Lesher, C. Zaner. Registrar. Includes registration
+				  statistics. 
+				  <unitdate type="inclusive"
+				  normal="1928/1937">1928-1937</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">8</container><container
+				type="folder">6</container>
+				<unittitle>Life, Frank M. Physics. 
+				  <unitdate type="inclusive"
+				  normal="1927/1933">1927-1933</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">8</container><container
+				type="folder">7</container>
+				<unittitle>Lockwood, Frank C. Dean of the College of Letters, Arts,
+				  Sciences; English. 
+				  <unitdate type="inclusive"
+				  normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">8</container><container
+				type="folder">8</container>
+				<unittitle>Lutrell, Estelle. Library. 
+				  <unitdate type="inclusive"
+				  normal="1928/1935">1928-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">8</container><container
+				type="folder">9</container>
+				<unittitle>Mckale, J.F. Physical Education for Men. 
+				  <unitdate type="inclusive"
+				  normal="1928/1935">1928-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">8</container><container
+				type="folder">10</container>
+				<unittitle>Mather, Stella. Home Economics. 
+				  <unitdate type="inclusive"
+				  normal="1928/1931">1928-1931</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">8</container><container
+				type="folder">11</container>
+				<unittitle>Mathewson, Edward P. Mining and Metallurgy. Includes
+				  special fund-rasing activities. 
+				  <unitdate type="inclusive"
+				  normal="1927/1937">1927-1937</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">8</container><container
+				type="folder">12</container>
+				<unittitle>Marrow, Marguerite. Drama. 
+				  <unitdate type="inclusive"
+				  normal="1927/1936">1927-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">8</container><container
+				type="folder">13</container>
+				<unittitle>Nichol, A.A. Botany and Range Ecology. Includes letters
+				  from Myrilla (Walcutt) Nichol. 
+				  <unitdate type="inclusive"
+				  normal="1935/1942">1935-1942</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">8</container><container
+				type="folder">14</container>
+				<unittitle>Pattison, Sidney F. English. 
+				  <unitdate type="inclusive"
+				  normal="1927/1936">1927-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">8</container><container
+				type="folder">15</container>
+				<unittitle>Pease, Rollin. Music. 
+				  <unitdate type="inclusive"
+				  normal="">1931-1942?</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">8</container><container
+				type="folder">16</container>
+				<unittitle>Riesen, E.R. Philosophy; Dean of the College of Letters,
+				  Arts and Sciences. 
+				  <unitdate type="inclusive"
+				  normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">8</container><container
+				type="folder">17</container>
+				<unittitle>Rogers, Charles F. Music. 
+				  <unitdate type="inclusive"
+				  normal="1928/1935">1928-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">8</container><container
+				type="folder">18</container>
+				<unittitle>Ross, Pontus H. Director of the Agricultural Extension
+				  Service. 
+				  <unitdate type="inclusive"
+				  normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">9</container><container
+				type="folder">1</container>
+				<unittitle>Smith, G.E.P. Irrigation Engineering. 
+				  <unitdate type="inclusive"
+				  normal="1928/1935">1928-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">9</container><container
+				type="folder">2</container>
+				<unittitle>Smith, Margaret C. Nutrition. 
+				  <unitdate type="inclusive"
+				  normal="1931/1933">1931-1933</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">9</container><container
+				type="folder">2</container>
+				<unittitle>Smith, Howard V. Agricultural Chemistry. 
+				  <unitdate type="inclusive"
+				  normal="1931/1933">1931-1933</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">9</container><container
+				type="folder">3</container>
+				<unittitle>Thomas, F.E. Law. 
+				  <unitdate type="inclusive"
+				  normal="1930/1935">1930-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">9</container><container
+				type="folder">4</container>
+				<unittitle>Thornber, J.J. Dean of the College of Agriculture and
+				  Director of the Agricultural Experiment Station; Botany. 
+				  <unitdate type="inclusive"
+				  normal="1927/1935">1927-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">9</container><container
+				type="folder">5</container>
+				<unittitle>Vorhies, Charles T. Entomology; Acting President. 
+				  <unitdate type="inclusive"
+				  normal="1928/1933">1928-1933</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">9</container><container
+				type="folder">6</container>
+				<unittitle>Walker, J. Franklin. Education. 
+				  <unitdate type="inclusive"
+				  normal="1929/1933">1929-1933</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">9</container><container
+				type="folder">7</container>
+				<unittitle>Wood, C.J. Superintendent of Agriculture Experiment
+				  Station Farm, Mesa. 
+				  <unitdate type="inclusive"
+				  normal="1935/1936">1935-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">9</container><container
+				type="folder">8</container>
+				<unittitle>Miscellaneous correspondence with Faculty and Staff. 
+				  <unitdate type="inclusive"
+				  normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">9</container><container
+				type="folder">9</container>
+				<unittitle>Miscellaneous correspondence with Faculty and Staff. 
+				  <unitdate type="inclusive"
+				  normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">9</container><container
+				type="folder">10</container>
+				<unittitle>Miscellaneous correspondence with Faculty, Staff, former
+				  students and others after leaving the University of Arizona. 
+				  <unitdate type="inclusive"
+				  normal="1936/1952">1936-1952</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">9</container><container
+				type="folder">11</container>
+				<unittitle>Library Faculty Committees. 
+				  <unitdate type="inclusive"
+				  normal="1930/1932">1930-1932</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">9</container><container
+				type="folder">12</container>
+				<unittitle>Various Faculty Committees. 
+				  <unitdate type="inclusive"
+				  normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">9</container><container
+				type="folder">13</container>
+				<unittitle>Faculty Club. 
+				  <unitdate type="inclusive"
+				  normal="1933/1936">1933-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">9</container><container
+				type="folder">14</container>
+				<unittitle>Miscellaneous Faculty material. 
+				  <unitdate type="inclusive"
+				  normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">9</container><container
+				type="folder">15</container>
+				<unittitle>Salary Scales. 
+				  <unitdate type="inclusive"
+				  normal="1934/1935">1934-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">9</container><container
+				type="folder">16</container>
+				<unittitle>Teaching Loads, University of Arizona and elsewhere. 
+				  <unitdate type="inclusive"
+				  normal="1932/1935">1932-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Students, 
+				<unitdate type="inclusive"
+				normal="1928/1936">1928-1936</unitdate></unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container type="box">10</container><container
+				type="folder">1</container>
+				<unittitle>Miscellaneous Correspondence from and about Students. 
+				  <unitdate type="inclusive"
+				  normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">10</container><container
+				type="folder">2</container>
+				<unittitle>Student "Life and Times", see also Complaints, Box 15. 
+				  <unitdate type="inclusive"
+				  normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">10</container><container
+				type="folder">3</container>
+				<unittitle>Registration, Dormitory Fees, and Scholarship Standing. 
+				  <unitdate type="inclusive"
+				  normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">10</container><container
+				type="folder">4</container>
+				<unittitle>Residence Status. 
+				  <unitdate type="inclusive"
+				  normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">10</container><container
+				type="folder">5</container>
+				<unittitle>Need for work. 
+				  <unitdate type="inclusive"
+				  normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">10</container><container
+				type="folder">6</container>
+				<unittitle>Indian Students. 
+				  <unitdate type="inclusive"
+				  normal="1934/1935">1934-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">10</container><container
+				type="folder">7</container>
+				<unittitle>Parents' letters: Take care of my little boy, etc. 
+				  <unitdate type="inclusive"
+					normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">10</container><container
+				type="folder">8</container>
+				<unittitle>Charles Hitch, Rhodes Scholar. 
+				  <unitdate type="inclusive"
+					normal="1932/1935">1932-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Miscellaneous Correspondence, 
+				<unitdate type="inclusive"
+				 normal="1927/1936">1927-1936</unitdate></unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container type="box">11</container><container
+				type="folder">1</container>
+				<unittitle>Miscellaneous and general correspondence. 
+				  <unitdate type="inclusive"
+					normal="1927/1936">1927-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">11</container><container
+				type="folder">2</container>
+				<unittitle>Miscellaneous and general correspondence. 
+				  <unitdate type="inclusive"
+					normal="1927/1936">1927-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">11</container><container
+				type="folder">3</container>
+				<unittitle>Miscellaneous and general correspondence. 
+				  <unitdate type="inclusive"
+					normal="1927/1936">1927-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">11</container><container
+				type="folder">3</container>
+				<unittitle>Miscellaneous and general correspondence. 
+				  <unitdate type="inclusive"
+					normal="1927/1936">1927-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">11</container><container
+				type="folder">4</container>
+				<unittitle>Miscellaneous and general correspondence. 
+				  <unitdate type="inclusive"
+					normal="1927/1936">1927-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">11</container><container
+				type="folder">5</container>
+				<unittitle>Miscellaneous and general correspondence. 
+				  <unitdate type="inclusive"
+					normal="1927/1936">1927-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">11</container><container
+				type="folder">6</container>
+				<unittitle>Miscellaneous and general correspondence. 
+				  <unitdate type="inclusive"
+					normal="1927/1936">1927-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">11</container><container
+				type="folder">7</container>
+				<unittitle>Miscellaneous and general correspondence. 
+				  <unitdate type="inclusive"
+					normal="1927/1936">1927-1936</unitdate></unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Folders 1-7 Include letters from: Hamlin Garland regarding
+				  lectures, January 19, 1928; Neil Judd regarding proposed State Museum building
+				  on campus, May 18, 1928; Gene Tunney in reply to his HLS's offer of a position
+				  in the P.E. Department, January 4, 1934; and various individuals in reply to
+				  HLS's applications for a position somewhere in the scientific world, April
+				  1935.</p>
+			 </scopecontent>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">11</container><container
+				type="folder">8</container>
+				<unittitle>Atwood, Wallance W. 
+				  <unitdate type="inclusive"
+					normal="1927/1936">1927-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">11</container><container
+				type="folder">9</container>
+				<unittitle>Baird, Matthew. 
+				  <unitdate type="inclusive"
+					normal="1930/1935">1930-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">11</container><container
+				type="folder">10</container>
+				<unittitle>Barnes, Will C. 
+				  <unitdate type="inclusive"
+					normal="1934/1936">1934-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">11</container><container
+				type="folder">11</container>
+				<unittitle>Bumstead, Dale. 
+				  <unitdate type="inclusive"
+					normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">11</container><container
+				type="folder">12</container>
+				<unittitle>Fairgrieve, Russell and Southern Arizona School for
+				  Boys. 
+				  <unitdate type="inclusive"
+					normal="1930/1935">1930-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">11</container><container
+				type="folder">13</container>
+				<unittitle>Hutchins, Robert M. 
+				  <unitdate type="inclusive"
+					normal="1931/1933">1931-1933</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">11</container><container
+				type="folder">14</container>
+				<unittitle>KleinSmid, Rufus B. von., (see also Box 21:
+				  Commencement, 1935). 
+				  <unitdate type="inclusive"
+					normal="1928/1935">1928-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">11</container><container
+				type="folder">15</container>
+				<unittitle>McCormick, Ada P. 
+				  <unitdate type="inclusive"
+					normal="1930/1936">1930-1936</unitdate></unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Includes material regarding and from Ida Tarbell and the 
+				<title render="italic">Conference on Biography</title>, given at
+				the University February-March 1931</p>
+			 </scopecontent>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">11</container><container
+				type="folder">16</container>
+				<unittitle>Marvin, Cloyd H. 
+				  <unitdate type="inclusive"
+					normal="">1929-1935?</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">11</container><container
+				type="folder">17</container>
+				<unittitle>Mathews, William R. 
+				  <unitdate type="inclusive"
+					normal="1931/1935">1931-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">11</container><container
+				type="folder">18</container>
+				<unittitle>Sparkes, Grace M. 
+				  <unitdate type="inclusive"
+					normal="1931/1936">1931-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">11</container><container
+				type="folder">19</container>
+				<unittitle>Vischer, Hanns. 
+				  <unitdate type="inclusive"
+					normal="1929/1935">1929-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">11</container><container
+				type="folder">20</container>
+				<unittitle>Von Hagen, Wolfgang. 
+				  <unitdate type="inclusive"
+					normal="1933/1934">1933-1934</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Buildings and Grounds, 
+				<unitdate type="inclusive"
+				 normal="1928/1936">1928-1936</unitdate></unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container type="box">12</container><container
+				type="folder">1</container>
+				<unittitle>William J. Bray and Buildings and Grounds. 
+				  <unitdate type="inclusive"
+					normal="1928/1937">1928-1937</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">12</container><container
+				type="folder">2</container>
+				<unittitle>William J. Bray and Buildings and Grounds. Includes
+				  speech of HLS at ground-breaking, July 22, 1935. 
+				  <unitdate type="inclusive"
+					normal="1928/1937">1928-1937</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">12</container><container
+				type="folder">3</container>
+				<unittitle>Campus Committee. 
+				  <unitdate type="inclusive"
+					normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">12</container><container
+				type="folder">4</container>
+				<unittitle>Automobiles. 
+				  <unitdate type="inclusive"
+					normal="1931/1935">1931-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">12</container><container
+				type="folder">5</container>
+				<unittitle>Opening of Entrance gates. 
+				  <unitdate type="inclusive"
+					normal="1930/1933">1930-1933</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">12</container><container
+				type="folder">6</container>
+				<unittitle>Equipment. 
+				  <unitdate type="inclusive"
+					normal="1931/1936">1931-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">12</container><container
+				type="folder">7</container>
+				<unittitle>Mail Service. 
+				  <unitdate type="inclusive"
+					normal="81935">19281935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">12</container><container
+				type="folder">8</container>
+				<unittitle>Stadium and Athletic Field. 
+				  <unitdate type="inclusive"
+					normal="1929">1929</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">12</container><container
+				type="folder">9</container>
+				<unittitle>Stone Wall around UA. 
+				  <unitdate type="inclusive"
+					normal="1932/1936">1932-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">12</container><container
+				type="folder">10</container>
+				<unittitle>Swimming Pool. 
+				  <unitdate type="inclusive"
+					normal="1928/1933">1928-1933</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">12</container><container
+				type="folder">11</container>
+				<unittitle>Tennis Courts. 
+				  <unitdate type="inclusive"
+					normal="1929/1935">1929-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">12</container><container
+				type="folder">12</container>
+				<unittitle>Original notes, etc. on P.W.A. Building Program and
+				  Telegrams regarding the P.W.A. Loan. 
+				  <unitdate type="inclusive"
+					normal="1933/1934">1933-1934</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Topics, 
+				<unitdate type="inclusive"
+				 normal="1928/1936">1928-1936</unitdate></unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container type="box">13</container><container
+				type="folder">1</container>
+				<unittitle>Advertising and publicity. 
+				  <unitdate type="inclusive"
+					normal="1929/1935">1929-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">13</container><container
+				type="folder">2</container>
+				<unittitle> Agricultural Extensions. 
+				  <unitdate type="inclusive"
+					normal="1930/1935">1930-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">13</container><container
+				type="folder">3</container>
+				<unittitle>Proposed All-Arizona Summer School. 
+				  <unitdate type="inclusive"
+					normal="1928/1929">1928-1929</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">13</container><container
+				type="folder">4</container>
+				<unittitle>Alumni. 
+				  <unitdate type="inclusive"
+					normal="1927/1934">1927-1934</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">13</container><container
+				type="folder">5</container>
+				<unittitle>Assembly Programs. 
+				  <unitdate type="inclusive"
+					normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">13</container><container
+				type="folder">6</container>
+				<unittitle>Athletics. 
+				  <unitdate type="inclusive"
+					normal="1929/1935">1929-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">13</container><container
+				type="folder">7</container>
+				<unittitle>Proposed College of Aeronautics. 
+				  <unitdate type="inclusive"
+					normal="1929">1929</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">13</container><container
+				type="folder">8</container>
+				<unittitle>Proposed College of Business Administration. 
+				  <unitdate type="inclusive"
+					normal="1931/1932">1931-1932</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">13</container><container
+				type="folder">9</container>
+				<unittitle>College of Law. 
+				  <unitdate type="inclusive"
+					normal="1928/1935">1928-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">13</container><container
+				type="folder">10</container>
+				<unittitle>Extension Division. 
+				  <unitdate type="inclusive"
+					normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">13</container><container
+				type="folder">11</container>
+				<unittitle>Extension Division, Retail salesmanship classes by Mabel
+				  Cox; includes letter from Mary Pickford, April 7, 1936. 
+				  <unitdate type="inclusive"
+					normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">13</container><container
+				type="folder">12</container>
+				<unittitle>Misc. Financial Records. 
+				  <unitdate type="inclusive"
+					normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">13</container><container
+				type="folder">13</container>
+				<unittitle>Fine Arts: Art. 
+				  <unitdate type="inclusive"
+					normal="1930/1935">1930-1935</unitdate></unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Includes correspondence regarding Mrs. A. Y.Smith's paintings
+				  for the Library's Reading Room and Kate T. Cory's mural for the State Museum,
+				  1930.</p>
+			 </scopecontent>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">13</container><container
+				type="folder">14</container>
+				<unittitle>Fine Arts: Band and Joseph DeLuca. 
+				  <unitdate type="inclusive"
+				  normal="1931/1936">1931-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">13</container><container
+				type="folder">15</container>
+				<unittitle>Fine Arts: Music, Drama and the Artist Series. Includes
+				  correspondence with the Saturday Morning Musical Club. 
+				  <unitdate type="inclusive"
+				  normal="1929/1935">1929-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">13</container><container
+				type="folder">16</container>
+				<unittitle>Fraternities and Sororities. 
+				  <unitdate type="inclusive"
+				  normal="1928/1935">1928-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">13</container><container
+				type="folder">17</container>
+				<unittitle>Infirmary, health problems, Injuries, etc. 
+				  <unitdate type="inclusive"
+				  normal="1929/1936">1929-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">13</container><container
+				type="folder">18</container>
+				<unittitle>Insurance. 
+				  <unitdate type="inclusive"
+				  normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">13</container><container
+				type="folder">19</container>
+				<unittitle>Land. See also Box 22, Saguaro Cactus Forest. 
+				  <unitdate type="inclusive"
+				  normal="1927/1936">1927-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">14</container><container
+				type="folder">1</container>
+				<unittitle>Lectures. 
+				  <unitdate type="inclusive"
+				  normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">14</container><container
+				type="folder">2</container>
+				<unittitle>Lectures: Larado Taft. 
+				  <unitdate type="inclusive"
+				  normal="1933/1934">1933-1934</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">14</container><container
+				type="folder">3</container>
+				<unittitle>Legal Cases: Alma Binzel. 
+				  <unitdate type="inclusive"
+				  normal="1933">1933</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">14</container><container
+				type="folder">4</container>
+				<unittitle>Legal Cases: Minimum wages. 
+				  <unitdate type="inclusive"
+				  normal="1936">1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">14</container><container
+				type="folder">5</container>
+				<unittitle>Legal Cases: Various. 
+				  <unitdate type="inclusive"
+				  normal="1929/1936">1929-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">14</container><container
+				type="folder">6</container>
+				<unittitle>Mexican Affairs. 
+				  <unitdate type="inclusive"
+				  normal="1929/1934">1929-1934</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">14</container><container
+				type="folder">7</container>
+				<unittitle>Military and R.O.T.C. Includes letters from Governor
+				  Hunt, Senators Carl Hayden and Henery F. Ashurst, and Representatives Isabella
+				  Greenway and Lewis W. Douglas. 
+				  <unitdate type="inclusive"
+				  normal="1929/1936">1929-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">14</container><container
+				type="folder">8</container>
+				<unittitle>Military and R.O.T.C. Includes letters from Govenor
+				  Hunt, Senators Carl Hayden and Henery F. Ashurst, and Representatives Isabella
+				  Greenway and Lewis W. Douglas. 
+				  <unitdate type="inclusive"
+				  normal="1929/1936">1929-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">14</container><container
+				type="folder">9</container>
+				<unittitle>Phi Beta Kappa. 
+				  <unitdate type="inclusive"
+				  normal="1928/1931">1928-1931</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">14</container><container
+				type="folder">10</container>
+				<unittitle>Polo. 
+				  <unitdate type="inclusive"
+				  normal="1931/1936">1931-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">14</container><container
+				type="folder">11</container>
+				<unittitle>Polo: Will Rogers. 
+				  <unitdate type="inclusive" normal="">1931-1932,
+					 1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">14</container><container
+				type="folder">12</container>
+				<unittitle>Printing and Engraving. 
+				  <unitdate type="inclusive"
+				  normal="1930/1934">1930-1934</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">14</container><container
+				type="folder">13</container>
+				<unittitle>Radio Station broadcasts. Includes KVOA's proposal to
+				  move its transmitter to the campus, 1936. 
+				  <unitdate type="inclusive"
+					normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">14</container><container
+				type="folder">14</container>
+				<unittitle>Scholarships: Heard. 
+				  <unitdate type="inclusive"
+					normal="1929/1936">1929-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">14</container><container
+				type="folder">15</container>
+				<unittitle>Scholarships: Various. 
+				  <unitdate type="inclusive"
+					normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">14</container><container
+				type="folder">16</container>
+				<unittitle>Proposed School of Pharmacy. 
+				  <unitdate type="inclusive" normal="">1930-1931,
+					 1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">14</container><container
+				type="folder">17</container>
+				<unittitle>Student Forum. Includes correspondence with Dean E.R.
+				  Riesen, Chairman and information about the First Annual University Circus,
+				  1932, sponsored by the Forum. 
+				  <unitdate type="inclusive"
+					normal="1931/1935">1931-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">14</container><container
+				type="folder">18</container>
+				<unittitle>Proposed Veterinary Department. 
+				  <unitdate type="inclusive" normal="1931">1928,
+					 1931</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">14</container><container
+				type="folder">19</container>
+				<unittitle>Whisky Permit for research purposes. 
+				  <unitdate type="inclusive"
+					normal="1934/1935">1934-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">14</container><container
+				type="folder">20</container>
+				<unittitle>Y.M.C.A. 
+				  <unitdate type="inclusive"
+					normal="1928/1933">1928-1933</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Administrative Correspondence, 
+				<unitdate type="inclusive"
+				 normal="1928/1936">1928-1936</unitdate></unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container type="box">15</container><container
+				type="folder">1</container>
+				<unittitle>Depression Problems at Universities. 
+				  <unitdate type="inclusive"
+					normal="1931/1935">1931-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">15</container><container
+				type="folder">2</container>
+				<unittitle>Complaints. 
+				  <unitdate type="inclusive"
+					normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">15</container><container
+				type="folder">3</container>
+				<unittitle>Applications for positions. Includes letter from A.L.
+				  Kroeber recommending Leslie Spier as a physical anthropologist, July 2, 1931. 
+				  <unitdate type="inclusive"
+					normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">15</container><container
+				type="folder">4</container>
+				<unittitle>Letters of introduction and recommendation from HLS. 
+				  <unitdate type="inclusive"
+					normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">15</container><container
+				type="folder">5</container>
+				<unittitle>Letters of introduction and recommendation from HLS. 
+				  <unitdate type="inclusive"
+					normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">15</container><container
+				type="folder">6</container>
+				<unittitle>Publications received. Includes letter from John P.
+				  Clum, September 5, 1931, enclosing booklet. 
+				  <unitdate type="inclusive"
+					normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">15</container><container
+				type="folder">7</container>
+				<unittitle>"Anonymous and Queer" (HLS's classification). 
+				  <unitdate type="inclusive" normal="1914/1937"><?xm-replace_text {date}?></unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">15</container><container
+				type="folder">8</container>
+				<unittitle>Correspondence regarding 
+				  <title render="italic">Arizona and its Heritage</title>, UA
+				  General Bulletin no. 3, April 1, 1936. 
+				  <unitdate type="inclusive" normal="1914/1937"><?xm-replace_text {date}?></unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">15</container><container
+				type="folder">9</container>
+				<unittitle>Appropriations and Enrollment. Graphs, charts, etc. 
+				  <unitdate type="inclusive"
+				  normal="1934/1935">1934-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">16</container><container
+				type="folder">1</container>
+				<unittitle>Requests for general and miscellaneous information about
+				  UA. 
+				  <unitdate type="inclusive"
+				  normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">16</container><container
+				type="folder">2</container>
+				<unittitle>Requests for information about faculty. 
+				  <unitdate type="inclusive"
+				  normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">16</container><container
+				type="folder">3</container>
+				<unittitle>Requests for information about students. 
+				  <unitdate type="inclusive"
+				  normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">16</container><container
+				type="folder">4</container>
+				<unittitle>Requests for information about scholarships,
+				  fellowships, and research. 
+				  <unitdate type="inclusive"
+				  normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">16</container><container
+				type="folder">5</container>
+				<unittitle>Requests for various information regarding buildings,
+				  curricula, governing board, military, and financial matters. 
+				  <unitdate type="inclusive"
+				  normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">16</container><container
+				type="folder">6</container>
+				<unittitle>Requests for opinions. 
+				  <unitdate type="inclusive"
+				  normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">16</container><container
+				type="folder">7</container>
+				<unittitle>Requests for opinions. 
+				  <unitdate type="inclusive"
+				  normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">16</container><container
+				type="folder">8</container>
+				<unittitle>Requests for endorsements, support, and greetings. 
+				  <unitdate type="inclusive"
+				  normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">16</container><container
+				type="folder">9</container>
+				<unittitle>Requests for endorsements, support, and greetings. 
+				  <unitdate type="inclusive"
+				  normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">16</container><container
+				type="folder">10</container>
+				<unittitle>Requests for miscellaneous information on various
+				  subjects, publications, pictures, etc. 
+				  <unitdate type="inclusive"
+				  normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">16</container><container
+				type="folder">11</container>
+				<unittitle>Invitations to send to delegates or to participate. 
+				  <unitdate type="inclusive"
+				  normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">16</container><container
+				type="folder">12</container>
+				<unittitle>Invitations to attend, accepted. 
+				  <unitdate type="inclusive"
+				  normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">16</container><container
+				type="folder">13</container>
+				<unittitle>Invitations to attend, declined. 
+				  <unitdate type="inclusive"
+				  normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Depression Problems and Federal Relief Problems, 
+				<unitdate type="inclusive"
+				normal="1928/1936">1928-1936</unitdate></unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container type="box">17</container><container
+				type="folder">1</container>
+				<unittitle>Miscellaneous correspondence with U.S. Congress. 
+				  <unitdate type="inclusive"
+				  normal="1932/1936">1932-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">17</container><container
+				type="folder">2</container>
+				<unittitle>U.S. Congress, Isabella Greenway. 
+				  <unitdate type="inclusive"
+				  normal="1932/1937">1932-1937</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">17</container><container
+				type="folder">3</container>
+				<unittitle>Arizona Emergency Council. 
+				  <unitdate type="inclusive"
+				  normal="1932">1932</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">17</container><container
+				type="folder">4</container>
+				<unittitle>Arizona State Planning Board correspondence. 
+				  <unitdate type="inclusive"
+				  normal="1934/1936">1934-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">17</container><container
+				type="folder">5</container>
+				<unittitle>Arizona State Planning Board correspondence. 
+				  <unitdate type="inclusive"
+				  normal="1934/1936">1934-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">17</container><container
+				type="folder">6</container>
+				<unittitle>Arizona State Planning Board meeting minutes. 
+				  <unitdate type="inclusive"
+				  normal="1934/1935">1934-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">17</container><container
+				type="folder">7</container>
+				<unittitle>Civil Works Administration, Includes note amusing C.W.A.
+				  "project" suggested by W.M. Gohring, enclosed letter to Jane Rider, April 4,
+				  1934. 
+				  <unitdate type="inclusive"
+				  normal="1933/1934">1933-1934</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">17</container><container
+				type="folder">8</container>
+				<unittitle>Civilian Conservation Corps work, Includes Saguaro
+				  National Monument, University Indian Ruins, and correspondence with Senator
+				  Carl Hayden. 
+				  <unitdate type="inclusive"
+				  normal="1933/1935">1933-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">17</container><container
+				type="folder">9</container>
+				<unittitle>Pima County Reconstruction Finance Corporation Relief
+				  Fund. 
+				  <unitdate type="inclusive"
+				  normal="1932/1933">1932-1933</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">17</container><container
+				type="folder">10</container>
+				<unittitle>Pima County Welfare Board. 
+				  <unitdate type="inclusive"
+				  normal="1933/1935">1933-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">17</container><container
+				type="folder">11</container>
+				<unittitle>UA Unemployment Fund and Tucson Emergency Relief
+				  Committee. 
+				  <unitdate type="inclusive"
+				  normal="1931/1933">1931-1933</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">17</container><container
+				type="folder">12</container>
+				<unittitle>Federal Emergency Relief Administration: Student
+				  Employment. 
+				  <unitdate type="inclusive"
+				  normal="1933/1935">1933-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">17</container><container
+				type="folder">13</container>
+				<unittitle>National Youth Administration; Student Employment. 
+				  <unitdate type="inclusive"
+				  normal="1933/1935">1933-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">17</container><container
+				type="folder">14</container>
+				<unittitle>Works Progress Administration. 
+				  <unitdate type="inclusive"
+				  normal="1935/1936">1935-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">17</container><container
+				type="folder">15</container>
+				<unittitle>Subsistence Homesteads and Rural Homes in Arizona, Inc. 
+				  <unitdate type="inclusive"
+				  normal="1933/1935">1933-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">17</container><container
+				type="folder">16</container>
+				<unittitle>Miscellaneous Federal Aid Projects. 
+				  <unitdate type="inclusive"
+				  normal="1933/1936">1933-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Professional Organizations, 
+				<unitdate type="inclusive"
+				normal="1928/1936">1928-1936</unitdate></unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container type="box">18</container><container
+				type="folder">1</container>
+				<unittitle>American Association for the Advancement of Science. 
+				  <unitdate type="inclusive"
+				  normal="1929/1933">1929-1933</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">18</container><container
+				type="folder">2</container>
+				<unittitle>American Association of University Professors, Includes
+				  the cases of Professors H.L. Bakhuysen, A.F. Hemenway, and Horace Gunthorp. 
+				  <unitdate type="inclusive"
+				  normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">18</container><container
+				type="folder">3</container>
+				<unittitle>American Association of University Women. 
+				  <unitdate type="inclusive"
+				  normal="1929/1935">1929-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">18</container><container
+				type="folder">4</container>
+				<unittitle>American Civic Association, Inc. 
+				  <unitdate type="inclusive"
+				  normal="1934/1936">1934-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">18</container><container
+				type="folder">5</container>
+				<unittitle>American Council on Education. 
+				  <unitdate type="inclusive"
+				  normal="1933/1936">1933-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">18</container><container
+				type="folder">6</container>
+				<unittitle>Association of American Universities. 
+				  <unitdate type="inclusive"
+				  normal="1931/1933">1931-1933</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">18</container><container
+				type="folder">7</container>
+				<unittitle>Association of Colleges and Universities of the Pacific
+				  Southwest. 
+				  <unitdate type="inclusive"
+				  normal="1931">1931</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">18</container><container
+				type="folder">8</container>
+				<unittitle>Association of Land Grant Colleges and Universities. 
+				  <unitdate type="inclusive"
+				  normal="1929/1936">1929-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">18</container><container
+				type="folder">9</container>
+				<unittitle>Association of Land Grant Colleges and Universities. 
+				  <unitdate type="inclusive"
+				  normal="1929/1936">1929-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">18</container><container
+				type="folder">10</container>
+				<unittitle>Association of Land Grant Colleges and Universities. 
+				  <unitdate type="inclusive"
+				  normal="1929/1936">1929-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">18</container><container
+				type="folder">11</container>
+				<unittitle>Association of Land Grant Colleges and Universities. 
+				  <unitdate type="inclusive"
+				  normal="1929/1936">1929-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">18</container><container
+				type="folder">12</container>
+				<unittitle>National Association of State Universities. 
+				  <unitdate type="inclusive"
+				  normal="1928/1935">1928-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">18</container><container
+				type="folder">13</container>
+				<unittitle>National Student Federation. 
+				  <unitdate type="inclusive"
+				  normal="1931/1932">1931-1932</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">18</container><container
+				type="folder">14</container>
+				<unittitle>North Central Association of Colleges and Secondary
+				  Schools. 
+				  <unitdate type="inclusive"
+				  normal="1930/1935">1930-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Arizona Educational Scene, 
+				<unitdate type="inclusive"
+				normal="1928/1936">1928-1936</unitdate></unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container type="box">19</container><container
+				type="folder">1</container>
+				<unittitle>Superintendent of Public Instruction. 
+				  <unitdate type="inclusive"
+				  normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">19</container><container
+				type="folder">2</container>
+				<unittitle>Superintendent of Public Instruction. 
+				  <unitdate type="inclusive"
+				  normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">19</container><container
+				type="folder">3</container>
+				<unittitle>State Board of Education meeting minutes. 
+				  <unitdate type="inclusive"
+				  normal="1931/1936">1931-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">19</container><container
+				type="folder">4</container>
+				<unittitle>State Board of Education meeting minutes. 
+				  <unitdate type="inclusive"
+				  normal="1931/1936">1931-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">19</container><container
+				type="folder">5</container>
+				<unittitle>State Department of Vocational Education. 
+				  <unitdate type="inclusive"
+				  normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">19</container><container
+				type="folder">6</container>
+				<unittitle>Grady Gammage. 
+				  <unitdate type="inclusive"
+				  normal="1928/1935">1928-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">19</container><container
+				type="folder">7</container>
+				<unittitle>Thomas J. Tormey. 
+				  <unitdate type="inclusive"
+				  normal="1933/1936">1933-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">19</container><container
+				type="folder">8</container>
+				<unittitle>John R. Murdock, book on history and government of
+				  Arizona. 
+				  <unitdate type="inclusive"
+				  normal="1928/1929">1928-1929</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">19</container><container
+				type="folder">9</container>
+				<unittitle>Legislative Amendment: Central Control of School Systems
+				  of the State. 
+				  <unitdate type="inclusive"
+				  normal="1929">1929</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">19</container><container
+				type="folder">10</container>
+				<unittitle>Yuma High School Controversy. 
+				  <unitdate type="inclusive"
+				  normal="1929/1930">1929-1930</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">19</container><container
+				type="folder">11</container>
+				<unittitle>Inter-Institutional Agreements. 
+				  <unitdate type="inclusive"
+				  normal="1931/1932">1931-1932</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">19</container><container
+				type="folder">12</container>
+				<unittitle>Legislative Amendment 100-101: Limiting State
+				  Expenditures. 
+				  <unitdate type="inclusive"
+				  normal="1932">1932</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">19</container><container
+				type="folder">13</container>
+				<unittitle>J.W. Hoover. Arizona Supplement to State text on
+				  Geography. 
+				  <unitdate type="inclusive"
+				  normal="1931/1935">1931-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">19</container><container
+				type="folder">14</container>
+				<unittitle>Junior Colleges. 
+				  <unitdate type="inclusive"
+				  normal="1933/1934">1933-1934</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Arizona Groups and Topics, 
+				<unitdate type="inclusive"
+				normal="1928/1936">1928-1936</unitdate></unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container type="box">20</container><container
+				type="folder">1</container>
+				<unittitle>Arizona Cattle Growers Association. 
+				  <unitdate type="inclusive"
+				  normal="1929/1936">1929-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">20</container><container
+				type="folder">2</container>
+				<unittitle>Arizona Children's Colony Building Site. 
+				  <unitdate type="inclusive"
+					normal="1929">1929</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">20</container><container
+				type="folder">3</container>
+				<unittitle>Arizona Pioneers' Historical Society, Includes
+				  correspondence regarding the Arizona Historical Review. 
+				  <unitdate type="inclusive"
+				  normal="1932/1935">1932-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">20</container><container
+				type="folder">4</container>
+				<unittitle>Arizona Industrial Congress. 
+				  <unitdate type="inclusive"
+				  normal="1928/1930">1928-1930</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">20</container><container
+				type="folder">5</container>
+				<unittitle>Arizona State Industrial School, Fort Grant. 
+				  <unitdate type="inclusive"
+				  normal="1933">1933</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">20</container><container
+				type="folder">6</container>
+				<unittitle>Arizona State Laboratory Reports. 
+				  <unitdate type="inclusive"
+				  normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">20</container><container
+				type="folder">7</container>
+				<unittitle>Colorado River and Boulder Dam. 
+				  <unitdate type="inclusive"
+				  normal="1929/1934">1929-1934</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">20</container><container
+				type="folder">8</container>
+				<unittitle>Copper Tariff. 
+				  <unitdate type="inclusive" normal="1935">1931,
+					 1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">20</container><container
+				type="folder">9</container>
+				<unittitle>U.S.S. Arizona. 
+				  <unitdate type="inclusive"
+				  normal="NaN">1928,1934</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">20</container><container
+				type="folder">10</container>
+				<unittitle>Yuma-Gila Project. 
+				  <unitdate type="inclusive"
+				  normal="1935/1936">1935-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Events, 
+				<unitdate type="inclusive"
+				normal="1928/1936">1928-1936</unitdate></unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container type="box">21</container><container
+				type="folder">1</container>
+				<unittitle>Inauguration. 
+				  <unitdate type="inclusive" normal="1930">April 24,
+					 1930</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">21</container><container
+				type="folder">2</container>
+				<unittitle>Commencement. 
+				  <unitdate type="inclusive"
+				  normal="1929/1936">1929-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">21</container><container
+				type="folder">3</container>
+				<unittitle>Commencement. 
+				  <unitdate type="inclusive"
+				  normal="1929/1936">1929-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">21</container><container
+				type="folder">4</container>
+				<unittitle>Commencement. 
+				  <unitdate type="inclusive"
+				  normal="1929/1936">1929-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">21</container><container
+				type="folder">5</container>
+				<unittitle>Commencement. 
+				  <unitdate type="inclusive"
+				  normal="1929/1936">1929-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">21</container><container
+				type="folder">6</container>
+				<unittitle>Commencement. 
+				  <unitdate type="inclusive"
+				  normal="1929/1936">1929-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">21</container><container
+				type="folder">7</container>
+				<unittitle>Commencement. 
+				  <unitdate type="inclusive"
+				  normal="1929/1936">1929-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">21</container><container
+				type="folder">8</container>
+				<unittitle>Commencement. 
+				  <unitdate type="inclusive"
+				  normal="1929/1936">1929-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">21</container><container
+				type="folder">9</container>
+				<unittitle>Mothers' and Dads' Day. 
+				  <unitdate type="inclusive"
+				  normal="1934/1935">1934-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">21</container><container
+				type="folder">10</container>
+				<unittitle>Mothers' and Dads' Day. 
+				  <unitdate type="inclusive"
+				  normal="1934/1935">1934-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">21</container><container
+				type="folder">11</container>
+				<unittitle>Field Course in Ecology, Flagstaff. 
+				  <unitdate type="inclusive" normal="1929">Summer
+					 1929</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">21</container><container
+				type="folder">12</container>
+				<unittitle>N.I. Vavilov's Visit to Arizona. 
+				  <unitdate type="inclusive" normal="1930">October
+					 1930</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">21</container><container
+				type="folder">13</container>
+				<unittitle>Northern Arizona State Fair, Prescott. 
+				  <unitdate type="inclusive" normal="1931">July
+					 1931</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">21</container><container
+				type="folder">14</container>
+				<unittitle>George Washington Bicentennial. 
+				  <unitdate type="inclusive"
+					normal="1931/1933">1931-1933</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">21</container><container
+				type="folder">15</container>
+				<unittitle>Century of Progress, Chicago, Illinois. 
+				  <unitdate type="inclusive"
+					normal="1933/1934">1933-1934</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">21</container><container
+				type="folder">16</container>
+				<unittitle>California Pacific International Exposition, San Diego,
+				  California. 
+				  <unitdate type="inclusive"
+					normal="1935">1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Scientific Interests and Projects, 
+				<unitdate type="inclusive"
+				 normal="1929/1936">1929-1936</unitdate></unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container type="box">22</container><container
+				type="folder">1</container>
+				<unittitle>Carnegie Institution in Washington. 
+				  <unitdate type="inclusive"
+					normal="1927/1935">1927-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">22</container><container
+				type="folder">2</container>
+				<unittitle>U.S.D.A. Bureau of Biological Survey. 
+				  <unitdate type="inclusive"
+					normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">22</container><container
+				type="folder">3</container>
+				<unittitle>U.S.D.A. Bureau of Biological Survey, Quail Research
+				  Project, Includes correspondence with Aldo Leopold and others. 
+				  <unitdate type="inclusive"
+					normal="1928/1934">1928-1934</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">22</container><container
+				type="folder">4</container>
+				<unittitle>U.S.D.A. Bureau of Plant Industry. 
+				  <unitdate type="inclusive"
+					normal="1928/1935">1928-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">22</container><container
+				type="folder">5</container>
+				<unittitle>U.S.D.A. Bureau of Plant Industry. 
+				  <unitdate type="inclusive"
+					normal="1928/1935">1928-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">22</container><container
+				type="folder">5</container>
+				<unittitle>U.S.D.A. Forest Service. 
+				  <unitdate type="inclusive"
+					normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">22</container><container
+				type="folder">6</container>
+				<unittitle>U.S.D.A. Forest Service. 
+				  <unitdate type="inclusive"
+					normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">22</container><container
+				type="folder">7</container>
+				<unittitle>U.S.D.A. Forest Service, Kiabab Deer Herd
+				  Investigations. 
+				  <unitdate type="inclusive"
+					normal="1931">1931</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">22</container><container
+				type="folder">8</container>
+				<unittitle>U.S. National Park Service. 
+				  <unitdate type="inclusive"
+					normal="1931/1935">1931-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">22</container><container
+				type="folder">9</container>
+				<unittitle>Reforestation Project, Includes correspondence with
+				  Govenor B.B. Moeur and Senator Carl Hayden. 
+				  <unitdate type="inclusive"
+					normal="1933">1933</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">22</container><container
+				type="folder">10</container>
+				<unittitle>Saguaro Cactus Forest. 
+				  <unitdate type="inclusive"
+					normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">22</container><container
+				type="folder">11</container>
+				<unittitle>Soil Erosion Projects. 
+				  <unitdate type="inclusive"
+					normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">22</container><container
+				type="folder">12</container>
+				<unittitle>Houserock Valley Wildlife Refuge. 
+				  <unitdate type="inclusive"
+					normal="1934">1934</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">22</container><container
+				type="folder">13</container>
+				<unittitle>Miscellaneous correspondence with Botanists, Zoologists,
+				  etc. Includes offer to HLS to become head of the Botany Department at the
+				  University of Minnesota, 1931. 
+				  <unitdate type="inclusive"
+					normal="1927/1935">1927-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">22</container><container
+				type="folder">14</container>
+				<unittitle>Miscellaneous correspondence regarding plants, cactus,
+				  and gardens. 
+				  <unitdate type="inclusive"
+					normal="1927/1936">1927-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">22</container><container
+				type="folder">15</container>
+				<unittitle>Miscellaneous correspondence regarding vegetation maps. 
+				  <unitdate type="inclusive"
+					normal="1930/1936">1930-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Scientific Meetings, 
+				<unitdate type="inclusive"
+				 normal="1928/1936">1928-1936</unitdate></unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container type="box">23</container><container
+				type="folder">1</container>
+				<unittitle>Fifth International Botanical Congress, Cambridge,
+				  England. 
+				  <unitdate type="inclusive"
+					normal="1930">1930</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">23</container><container
+				type="folder">2</container>
+				<unittitle>First International Congress on Soil Science, Moscow,
+				  Russia. 
+				  <unitdate type="inclusive"
+					normal="1930">1930</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">23</container><container
+				type="folder">3</container>
+				<unittitle>Conference on Wildlife, Forest, and Range Problems,
+				  Tucson, Arizona. 
+				  <unitdate type="inclusive"
+					normal="1930">1930</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">23</container><container
+				type="folder">4</container>
+				<unittitle>Conference on Wildlife, Forest, and Range Problems,
+				  Utah. 
+				  <unitdate type="inclusive"
+					normal="1931">1931</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">23</container><container
+				type="folder">5</container>
+				<unittitle>Diary, mostly blank, entries for January 2, February 3,
+				  February 27, March 8, and August 11-26, 1935 appear to be notes made while
+				  attending unidentified meetings. 
+				  <unitdate type="inclusive"
+					normal="1935">1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Committees, 
+				<unitdate type="inclusive"
+				 normal="1928/1936">1928-1936</unitdate></unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container type="box">24</container><container
+				type="folder">1</container>
+				<unittitle>National Land-Use Planning Committee correspondence. 
+				  <unitdate type="inclusive"
+					normal="1931/1935">1931-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">24</container><container
+				type="folder">2</container>
+				<unittitle>National Land-Use Planning Committee correspondence. 
+				  <unitdate type="inclusive"
+					normal="1931/1935">1931-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">24</container><container
+				type="folder">3</container>
+				<unittitle>National Land-Use Planning Committee correspondence. 
+				  <unitdate type="inclusive"
+					normal="1931/1935">1931-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">24</container><container
+				type="folder">4</container>
+				<unittitle>National Land-Use Planning Committee correspondence. 
+				  <unitdate type="inclusive"
+					normal="1931/1935">1931-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">24</container><container
+				type="folder">5</container>
+				<unittitle>National Land-Use Planning Committee correspondence. 
+				  <unitdate type="inclusive"
+					normal="1931/1935">1931-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">24</container><container
+				type="folder">6</container>
+				<unittitle>National Land-Use Planning Committee correspondence. 
+				  <unitdate type="inclusive"
+					normal="1931/1935">1931-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">24</container><container
+				type="folder">7</container>
+				<unittitle>National Land-Use Planning Committee correspondence. 
+				  <unitdate type="inclusive"
+					normal="1931/1935">1931-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">24</container><container
+				type="folder">8</container>
+				<unittitle>National Land-Use Planning Committee correspondence. 
+				  <unitdate type="inclusive"
+					normal="1931/1935">1931-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">24</container><container
+				type="folder">9</container>
+				<unittitle>National Land-Use Planning Committee correspondence. 
+				  <unitdate type="inclusive"
+					normal="1931/1935">1931-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">24</container><container
+				type="folder">10</container>
+				<unittitle>National Land-Use Planning Committee correspondence. 
+				  <unitdate type="inclusive"
+					normal="1931/1935">1931-1935</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">24</container><container
+				type="folder">11</container>
+				<unittitle>National Land-Use Planning Committee. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">25</container><container
+				type="folder">1</container>
+				<unittitle>National Land-Use Committee meeting minutes. 
+				  <unitdate type="inclusive"
+					normal="1932/1933">1932-1933</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">25</container><container
+				type="folder">2</container>
+				<unittitle>National Land-Use Committee meeting minutes. 
+				  <unitdate type="inclusive"
+					normal="1932/1933">1932-1933</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">25</container><container
+				type="folder">3</container>
+				<unittitle>National Land-Use Committee meeting minutes. 
+				  <unitdate type="inclusive"
+					normal="1932/1933">1932-1933</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Committees, Memberships, Talks, etc, 
+				<unitdate type="inclusive"
+				 normal="1928/1936">1928-1936</unitdate></unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container type="box">26</container><container
+				type="folder">1</container>
+				<unittitle>Arizona Advisory Committee on Illiteracy. 
+				  <unitdate type="inclusive"
+					normal="1931/1932">1931-1932</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">26</container><container
+				type="folder">2</container>
+				<unittitle>Various Committees. 
+				  <unitdate type="inclusive"
+					normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">26</container><container
+				type="folder">3</container>
+				<unittitle>Memberships. 
+				  <unitdate type="inclusive"
+					normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">26</container><container
+				type="folder">4</container>
+				<unittitle>Talks, requests excepted and declined. 
+				  <unitdate type="inclusive"
+					normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">26</container><container
+				type="folder">5</container>
+				<unittitle>Talks, requests excepted and declined. 
+				  <unitdate type="inclusive"
+					normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">26</container><container
+				type="folder">6</container>
+				<unittitle>Talks, requests excepted and declined. 
+				  <unitdate type="inclusive"
+					normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">26</container><container
+				type="folder">7</container>
+				<unittitle>Talks, requests excepted and declined. 
+				  <unitdate type="inclusive"
+					normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">26</container><container
+				type="folder">8</container>
+				<unittitle>Talks, requests excepted and declined. 
+				  <unitdate type="inclusive"
+					normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">26</container><container
+				type="folder">9</container>
+				<unittitle>Miscellaneous material for talks. 
+				  <unitdate type="inclusive"
+					normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">26</container><container
+				type="folder">10</container>
+				<unittitle>Statements for publications. 
+				  <unitdate type="inclusive"
+					normal="1928/1936">1928-1936</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">26</container><container
+				type="folder">11</container>
+				<unittitle>Miscellaneous correspondence regarding publications by
+				  HLS. 
+				  <unitdate type="inclusive"
+					normal="1928/1937">1928-1937</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+	 </c01>
+	 <c01 level="series" id="ser5">
+		<did>
+		  <unittitle>Series V: Paul S. Burgess Papers, 
+			 <unitdate type="inclusive"
+			  normal="1936/1937">1936-1937</unitdate></unittitle>
+		</did>
+		<c02 level="file">
+		  <did><container type="box">27</container><container
+			 type="folder">1</container>
+			 <unittitle>Miscellaneous and general correspondence. 
+				<unitdate type="inclusive" normal="">August
+				  1936-June1937</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">27</container><container
+			 type="folder">2</container>
+			 <unittitle>Govenor Benjamin B. Moeur and Govenor R.C. Stanford. 
+				<unitdate type="inclusive"
+				 normal="1936/1937">1936-1937</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">27</container><container
+			 type="folder">3</container>
+			 <unittitle>Faculty, miscellaneous. 
+				<unitdate type="inclusive"
+				 normal="1936/1937">1936-1937</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">27</container><container
+			 type="folder">4</container>
+			 <unittitle>Faculty: Dean of Liberal Arts, E.R. Riesen. 
+				<unitdate type="inclusive"
+				 normal="1936/1937">1936-1937</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">27</container><container
+			 type="folder">5</container>
+			 <unittitle>Faculty: Dean of Women, Evelyn W. Jones. 
+				<unitdate type="inclusive"
+				 normal="1936/1937">1936-1937</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">27</container><container
+			 type="folder">6</container>
+			 <unittitle>Faculty: Drama, Marguerite Marrow. 
+				<unitdate type="inclusive"
+				 normal="1936/1937">1936-1937</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">27</container><container
+			 type="folder">7</container>
+			 <unittitle>Faculty: Byron Cummings, head archaeologist for the
+				Arizona State Museum. 
+				<unitdate type="inclusive"
+				 normal="1936/1937">1936-1937</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">27</container><container
+			 type="folder">8</container>
+			 <unittitle>Students, miscellaneous. 
+				<unitdate type="inclusive"
+				 normal="1936/1937">1936-1937</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">27</container><container
+			 type="folder">9</container>
+			 <unittitle>Buildings and Grounds. 
+				<unitdate type="inclusive"
+				 normal="1936/1937">1936-1937</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">27</container><container
+			 type="folder">10</container>
+			 <unittitle>Commencement. 
+				<unitdate type="inclusive"
+				 normal="1937">1937</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">27</container><container
+			 type="folder">11</container>
+			 <unittitle>Department of Health. 
+				<unitdate type="inclusive"
+				 normal="1936/1937">1936-1937</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">27</container><container
+			 type="folder">12</container>
+			 <unittitle>Financial Papers. 
+				<unitdate type="inclusive"
+				 normal="1936/1937">1936-1937</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">27</container><container
+			 type="folder">13</container>
+			 <unittitle>Military and R.O.T.C. 
+				<unitdate type="inclusive"
+				 normal="1936/1937">1936-1937</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">27</container><container
+			 type="folder">14</container>
+			 <unittitle>Mormon Institute. 
+				<unitdate type="inclusive"
+				 normal="1936/1937">1936-1937</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">27</container><container
+			 type="folder">15</container>
+			 <unittitle>Radio Broadcasting, proposal of KVOA. 
+				<unitdate type="inclusive"
+				 normal="1936/1937">1936-1937</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">27</container><container
+			 type="folder">16</container>
+			 <unittitle>Restoration of Old Fort Lowell, includes Saguaro National
+				Monument and University Indian Ruin. 
+				<unitdate type="inclusive"
+				 normal="1936/1937">1936-1937</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">27</container><container
+			 type="folder">17</container>
+			 <unittitle>Rulings of the Attorney General. 
+				<unitdate type="inclusive"
+				 normal="1936/1937">1936-1937</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">27</container><container
+			 type="folder">18</container>
+			 <unittitle>Works Progress Administration Projects. 
+				<unitdate type="inclusive"
+				 normal="1936/1937">1936-1937</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">27</container><container
+			 type="folder">19</container>
+			 <unittitle>U.S. Congress. 
+				<unitdate type="inclusive"
+				 normal="1936/1937">1936-1937</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">27</container><container
+			 type="folder">20</container>
+			 <unittitle>Arizona State Legislature. 
+				<unitdate type="inclusive"
+				 normal="1936/1937">1936-1937</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">27</container><container
+			 type="folder">21</container>
+			 <unittitle>State Board of Education meeting minutes and
+				Superintendent of Public Instruction correspondence. 
+				<unitdate type="inclusive"
+				 normal="1936/1937">1936-1937</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">27</container><container
+			 type="folder">22</container>
+			 <unittitle>Arizona State Laboratory. 
+				<unitdate type="inclusive"
+				 normal="1936/1937">1936-1937</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">27</container><container
+			 type="folder">23</container>
+			 <unittitle>Association of Land Grant Colleges and Universities. 
+				<unitdate type="inclusive"
+				 normal="1936/1937">1936-1937</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">27</container><container
+			 type="folder">24</container>
+			 <unittitle>North Central Association. 
+				<unitdate type="inclusive"
+				 normal="1936/1937">1936-1937</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">27</container><container
+			 type="folder">25</container>
+			 <unittitle>Requests for information about the University of Arizona. 
+				<unitdate type="inclusive"
+				 normal="1936/1937">1936-1937</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">27</container><container
+			 type="folder">26</container>
+			 <unittitle>Various requests. 
+				<unitdate type="inclusive"
+				 normal="1936/1937">1936-1937</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">27</container><container
+			 type="folder">27</container>
+			 <unittitle>Invitations to speak, attend, become a member, etc. 
+				<unitdate type="inclusive"
+				 normal="1936/1937">1936-1937</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">27</container><container
+			 type="folder">28</container>
+			 <unittitle>Paul S. Burgess Statements. 
+				<unitdate type="inclusive"
+				 normal="1936/1937">1936-1937</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">27</container><container
+			 type="folder">29</container>
+			 <unittitle>Regents. 
+				<unitdate type="inclusive"
+				 normal="1936/1937">1936-1937</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+  </dsc> 
+</archdesc></ead>

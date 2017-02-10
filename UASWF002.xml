@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?filetitle University of Arizona Folklore Committee Records?>
+<ead relatedencoding="MARC21"> 
+<eadheader audience="internal" findaidstatus="edited-full-draft"
+ langencoding="iso639-2b"> 
+  <eadid encodinganalog="856$u"> PUBLIC "-//University of Arizona Library
+	 Special Collections//text(US::AzU::University of Arizona Folklore Committee
+	 records)//en" "UASWF002.xml"</eadid>
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">University of Arizona Folklore
+		  Committee records, 
+		  <date>1943-1979</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Lisa Janzer, Pat
+		  Kittelson, Ila Abernathy, Jenny Loengard, and Scott B. Denlinger.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+		<publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		  Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline></address> 
+		<date>&#x00A9; 2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation encodinganalog="500">Inventory encoded by Shan Sutton. 
+		<date>September 6, 2002</date></creation> 
+	 <langusage>Inventory is in<language langcode="en"
+		encodinganalog="546">English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper encodinganalog="245$a">University of Arizona Folklore
+		Committee records, 
+		<date>1943-1979</date></titleproper> 
+	 <num>Collection Number: SWF 002</num> 
+	 <publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item> Lisa Janzer, Pat Kittelson, Ila Abernathy, Jenny Loengard, and
+			 Scott B. Denlinger</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>1997</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Shan Sutton</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 2011. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name:">University of
+		Arizona Folklore Committee records, 
+		<unitdate type="inclusive"
+		 normal="1943/1979">1943-1979</unitdate></unittitle> 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	  repositorycode="AzU" countrycode="us"> SWF 002</unitid> 
+	 <origination label="Creator:"> 
+		<corpname encodinganalog="110">University of Arizona. Folklore Committee.
+		  </corpname></origination> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+		encodinganalog="300">13 linear feet</extent></physdesc>
+  	<abstract> This collection contains, collector files, subject files, administrative files, including Committee
+  		correspondence and annual reports for the  University of Arizona Folklore Committee records.</abstract>
+	 <repository label="Repository:"> 
+		<corpname encodinganalog="110">University of Arizona Libraries, Special
+		  Collections</corpname> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		  
+		</address></repository> 
+  </did> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Restrictions</head> 
+	 <p>None.</p> 
+  </accessrestrict> 
+  <userestrict encodinganalog="540"> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Credit Line</head> 
+	 <p>University of Arizona Folklore Committee records (SWF 002). Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Historical Note</head> 
+	 <p>The University of Arizona Folklore Committee, founded in 1943 by
+		Professor Frances Gillmor, created the Folklore Archive in 1945 to conserve
+		folkloric materials being collected statewide by the interdepartmental
+		Committtee. The committee collected songs, tales, remedies, and interviews from
+		all over Arizona, with some extensions into Sonora, Mexico. Dr. Gillmor chaired
+		the committee until her retirement, when Dr. Byrd H. Granger asumed the chair.
+		Upon Granger's retirement in 1978, the Folklore Committee was dissolved. In
+		1979 the University of Arizona Southwest Folklore Center was created to
+		continue its functions, and it assumed the Folklore Archive into its
+		materials.</p> 
+	 <p>The focus of the material collected by the Folklore Committee was
+		narrative and folk music traditions of English and Spanish-speaking peoples of
+		the Southwest. The committee collected only a small amount of material
+		concerning Native American folklore.</p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into six series:</p> 
+	 <list> 
+		<item>I. General Administrative Records, 
+		  <date>1943-1977</date></item> 
+		<item>II. Subject Files, 
+		  <date>1945-1979</date></item> 
+		<item>III. Collector Files, 
+		  <date>1945-1979</date></item> 
+		<item>IV. County Files, 
+		  <date>1945-1979</date></item> 
+		<item>V. Informant Files, 
+		  <date>1945-1979</date></item> 
+		<item>VI. Master Files, 
+		  <date>1945-1979</date></item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>Mexican-U.S. border folklore is strongly represented in the collection,
+		which includes corridos and other songs, and tales and interviews concerning
+		old customs. Mormon folklore also forms a significant portion of the
+		collection, particularily songs. Much of the material is the product of
+		collections by schools, clubs, and University folklore classes.</p> 
+	 <p>The manuscript material dates from 1945 through 1979. There are four
+		user copies cross-filed under subject, county, collector, and informant, with a
+		master file arranged by county of origin. The subject headings include such
+		large divisions as Tales, Songs, Riddles, Rhymes, Proverbs, Recipes, History,
+		Medicine, Games, Festivals, Drama, Dance, and Customs, further subdivided by
+		the culture of origin. The most heavily collected categories are "Songs,"
+		"Narrative - Personal Experience (Historical)," and "Narrative - Local Legends
+		(Arizona)."</p> 
+	 <p>Also represented are administrative files, including Committee
+		correspondence and annual reports which detail the Committee's accomplishments
+		over the previous year.</p> 
+	 <p>Taped and recorded materials which correspond to some of the materials
+		in this collection are located in the following Southwest Folklore Center
+		manuscript collections: L. Marguerite Collier Collection, SWF 005; Southwest
+		Folklore Center Pre-1980 Phonodisc Collection, SWF 007; and Southwest Folklore
+		Center Field Recording Collection, SWF 011.</p> 
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+		  <persname encodinganalog="100">Gillmor, Frances, 1903-
+			 </persname></item> 
+		<item> 
+		  <persname encodinganalog="100"> Granger, Byrd H </persname></item> 
+		<item> 
+		  <subject>Folklore -- Arizona</subject></item> 
+		<item> 
+		  <subject>Folklore -- Mexico -- Sonora (State)</subject></item> 
+		<item> 
+		  <subject>Folklore -- Southwest, New</subject></item> 
+		<item> 
+		  <subject>Folk literature, Spanish -- Arizona</subject></item> 
+		<item> 
+		  <subject>Folk songs, Spanish -- Arizona</subject></item> 
+		<item> 
+		  <subject>Folk songs, Spanish -- Mexico -- Sonora
+			 (State)</subject></item> 
+		<item> 
+		  <subject>Corridos</subject></item> 
+		<item> 
+		  <subject>Mexican Americans -- Arizona -- Music</subject></item> 
+		<item> 
+		  <subject>Mormons -- Arizona -- Music </subject></item> 
+		<item> 
+		  <subject>Mexicans -- Music </subject></item> 
+		<item> 
+		  <subject>Folk music -- Arizona </subject></item> 
+		<item> 
+		  <genreform>Interviews</genreform></item> 
+		<item> 
+		  <genreform>Clippings</genreform></item> 
+		<item> 
+		  <genreform>Correspondence</genreform></item> 
+	 </list> 
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series I: General Administrative Records, 
+			 <unitdate type="inclusive"
+			  normal="1943/1977">1943-1977</unitdate></unittitle> 
+		</did> 
+		<scopecontent> 
+		  <p>Summary reports, annual reports, general correspondence, </p> 
+		</scopecontent> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Folklore Committee annual reports. 
+				<unitdate type="inclusive"
+				 normal="1943/1976">1943-1976</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">2</container> 
+			 <unittitle>General correspondence. 
+				<unitdate type="inclusive"
+				 normal="1967/1977">1967-1977</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Graduate folklore program correspondence. 
+				<unitdate type="inclusive"
+				 normal="1968/1977">1968-1977</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> <container
+			 type="folder">4</container> 
+			 <unittitle>NEH Grant Applications. 
+				<unitdate type="inclusive"
+				 normal="1971/1976">1971-1976</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series II: Subject Files, 
+			 <unitdate type="inclusive"
+			  normal="1945/1979">1945-1979</unitdate></unittitle> 
+		</did> 
+		<scopecontent> 
+		  <p>Folklore materials arranged according to subject. Subjects include
+			 folk beliefs, children's lore, customs, festivals, games, Native American lore,
+			 medicine and folk narratives.</p> 
+		</scopecontent> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> 
+			 <unittitle>Subject files: Beliefs, Children's Lore, Customs,
+				Festivals (Celebrations), Festivals (Dance), Festivals (Drama), Games, Indian
+				Lore, Medicine, Narrative; mythical tale I (Creation, Animal Tales), Narrative;
+				mythical tale II (Supernatural, Magic), Narrative; mythical tale III (Jokes,
+				Anecdotes), Narrative; local legends (Europe, U.S.). 
+				<unitdate type="inclusive"
+				 normal="1945/1979">1945-1979</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">3</container> 
+			 <unittitle>Subject files: Narrative; local legends (Arizona),
+				Narrative; personal experience (Historical), Narrative; personal experience
+				(Supernatural), Narrative; pychological interpretation, Proverbial sayings. 
+				<unitdate type="inclusive"
+				 normal="1945/1979">1945-1979</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">4</container> 
+			 <unittitle>Subject files: Recipes, Songs, Speech. 
+				<unitdate type="inclusive"
+				 normal="1945/1979">1945-1979</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series III: Collector Files, 
+			 <unitdate type="inclusive"
+			  normal="1945/1979">1945-1979</unitdate></unittitle> 
+		</did> 
+		<scopecontent> 
+		  <p>Identical subject matter as the Subject Files series, arranged by
+			 collector rather than by subject.</p> 
+		</scopecontent> 
+		<c02 level="file"> 
+		  <did> <container type="box">4</container> 
+			 <unittitle>Collector files: A - C 
+				<unitdate type="inclusive"
+				 normal="1945/1979">1945-1979</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">5</container> 
+			 <unittitle>Collector files, D - L 
+				<unitdate type="inclusive"
+				 normal="1945/1979">1945-1979</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">6</container> 
+			 <unittitle>Collector file, M - Z 
+				<unitdate type="inclusive"
+				 normal="1945/1979">1945-1979</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series IV: County Files, 
+			 <unitdate type="inclusive"
+			  normal="1945/1979">1945-1979</unitdate></unittitle> 
+		</did> 
+		<scopecontent> 
+		  <p>Identical subject matter as the Subject Files series, arranged by
+			 Arizona county rather than by subject.</p> 
+		</scopecontent> 
+		<c02 level="file"> 
+		  <did> <container type="box">7</container> 
+			 <unittitle>County files, A - Pima 
+				<unitdate type="inclusive"
+				 normal="1945/1979">1945-1979</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">8</container> 
+			 <unittitle>County files, Pima (continued) - Yuma 
+				<unitdate type="inclusive"
+				 normal="1945/1979">1945-1979</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series V: Informant Files, 
+			 <unitdate type="inclusive"
+			  normal="1945/1979">1945-1979</unitdate></unittitle> 
+		</did> 
+		<scopecontent> 
+		  <p>Identical subject matter as the Subject Files series, arranged by
+			 informant rather than by subject.</p> 
+		</scopecontent> 
+		<c02 level="file"> 
+		  <did> <container type="box">8</container> 
+			 <unittitle>Informant files, A - C 
+				<unitdate type="inclusive"
+				 normal="1945/1979">1945-1979</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">9</container> 
+			 <unittitle>Informant files, D - O 
+				<unitdate type="inclusive"
+				 normal="1945/1979">1945-1979</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">10</container> 
+			 <unittitle>Informant files, P - Sh 
+				<unitdate type="inclusive"
+				 normal="1945/1979">1945-1979</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">11</container> 
+			 <unittitle>Informant files, Si - Z 
+				<unitdate type="inclusive"
+				 normal="1945/1979">1945-1979</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series VI: Master Files, 
+			 <unitdate type="inclusive"
+			  normal="1945/1979">1945-1979</unitdate></unittitle> 
+		</did> 
+		<scopecontent> 
+		  <p>This series contains original documents, copies of which are filed
+			 in the previous series. Use of material in this series is by permission only.
+			 Researchers must obtain permission from the coordinator of the University of
+			 Arizona Southwest Folklore Center or the University of Arizona Manuscripts
+			 Librarian in order to use materials from this series.</p> 
+		</scopecontent> 
+		<c02 level="file"> 
+		  <did> <container type="box">12</container> 
+			 <unittitle>Master files, Apache - Pima (Sells) 
+				<unitdate type="inclusive"
+				 normal="1945/1979">1945-1979</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">13</container> 
+			 <unittitle>Master files, Pima (Tucson) - Santa Cruz 
+				<unitdate type="inclusive"
+				 normal="1945/1979">1945-1979</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">14</container> 
+			 <unittitle>Santa Cruz (continued) - Yuma. 
+				<unitdate type="inclusive"
+				 normal="1945/1979">1945-1979</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+  </dsc> 
+</archdesc></ead>

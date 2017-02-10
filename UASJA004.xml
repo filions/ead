@@ -1,0 +1,6354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader audience="internal" findaidstatus="edited-full-draft"
+ langencoding="iso639-2b"> 
+  <eadid encodinganalog="856$u"> PUBLIC "-//University of Arizona Library Special Collections//text(US::AzU::Bloom Southwest Jewish Archives Arizona Reference Files)//en""UASJA004.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Bloom Southwest Jewish Archives
+		  Arizona Reference Files, 
+		  <date>ca. 1850-1998 (bulk 1870-1970)</date></titleproper>
+		<author encodinganalog="245$c">Inventory prepared by Staff</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+		<publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		  Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline> 
+		</address> 
+		<date>&#x00A9; 2006</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation encodinganalog="500">Inventory encoded by Miguel A. Figueroa/C. Wommack 
+		<date>February 2006</date></creation> 
+	 <langusage>Inventory is in<language langcode="en"
+		encodinganalog="546">English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper encodinganalog="245$a">Bloom Southwest Jewish Archives Arizona
+		Reference files, 
+		<date>ca.1850-1998 (bulk 1870-1970)</date></titleproper> 
+	 <num>Collection Number: SJA 004</num> 
+	 <publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Staff</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date normal="1998">1998</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Miguel A. Figueroa / C. Wommack</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 2006. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name:">Bloom Southwest
+		Jewish Archives Arizona Reference files, 
+		<unitdate type="inclusive" normal="NaN/NaN">ca. 1850-1998 (bulk
+		  1870-1970)</unitdate></unittitle> 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	  repositorycode="AzU" countrycode="us">SJA 004</unitid> 
+	 <origination label="Creator: "> 
+		<corpname encodinganalog="110">Bloom Southwest Jewish
+		  Archives</corpname></origination> 
+	 <abstract label="Abstract:"> This collection contains wide-ranging types of
+		material regarding Jewish individuals and institutions in Arizona, principally
+		southern Arizona. This material is especially reflective of the late-nineteenth
+		century and the role of Jews in the Arizona Territory. The files consist
+		primarily of newspaper clippings, scholarly and popular articles and excerpts,
+		obituaries, auto-biographical reminiscences, copies of historical records, and
+		correspondence. The bulk of the collection consists of secondary source
+		material.</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+		encodinganalog="300">11 linear feet</extent></physdesc> 
+	 <repository label="Repository:"> 
+		<corpname encodinganalog="110">University of Arizona Libraries, Special
+		  Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline> 
+		</address></repository> 
+  </did> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Restrictions</head> 
+	 <p>None.</p> 
+  </accessrestrict> 
+  <userestrict encodinganalog="540"> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Credit Line</head> 
+	 <p>Bloom Southwest Jewish Archives Arizona Reference files (SJA 004). Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>The collection is arranged alphabetically by name or subject.</p> 
+  </arrangement> 
+  <scopecontent> 
+	 <head>Scope and Content Note</head> 
+	 <p> Newspaper clippings, articles and excerpts, obituaries,
+		autobiographical reminiscences, copies of historical records, and
+		correspondence from late 19th and 20th century Arizona Jewish history.</p> 
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+		  <subject>Jews -- Arizona.</subject></item> 
+		<item> 
+		  <subject>Pioneers -- Arizona.</subject></item> 
+		<item> 
+		  <subject>Frontier and pioneer life -- Arizona.</subject></item> 
+		<item> 
+		  <subject>Mineral industries -- Arizona -- History.</subject></item> 
+		<item> 
+		  <subject>Synagogues -- Arizona.</subject></item> 
+		<item> 
+		  <subject>Rabbis -- Arizona.</subject></item> 
+		<item> 
+		  <subject>Commerce -- Arizona -- History.</subject></item> 
+		<item> 
+		  <subject>Banks and banking -- Arizona -- History.</subject></item> 
+		<item> 
+		  <subject>Retail trade -- Arizona -- History.</subject></item> 
+		<item> 
+		  <subject>Jewish businesspeople -- Arizona -- History.</subject></item> 
+		<item> 
+		  <geogname>Arizona -- History -- 19th century.</geogname></item> 
+		<item> 
+		  <genreform>Manuscript text.</genreform></item> 
+	 </list> 
+  </controlaccess> 
+  <dsc type="combined"> 
+	 <head>Container List</head>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Aaron, Sam.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Abend-Dulberg family.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Abraham (surname).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Abraham, Henry.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Abraham, Jake.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Abrahams, Bertram.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Abrahams, Sidney, J.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Abrams, Dr. Herbert.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Abrams, Stanley.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Abramson, Harry.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Abramson, S.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Ackerman, Abraham.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Ackerman, Harry and family.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Adler, Dr. Albert.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>All Peoples Synagogue (Tucson).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Alpert, Dr. Joseph.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Alter, Lewis J.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Alter, Dr. Wilfred.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Amado, Melissa.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>America - Israel Friendship League, Tucson
+			 Chapter/Jerusalem.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>American Friends of the Hebrew University (correspondence,
+			 publicity) - 2f.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>American Friends of the Hebrew University (finances) -
+			 2f.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>American Friends of the Hebrew University
+			 (membership).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>American Friends of the Hebrew University (record of
+			 minutes).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Amitim ("Jewish Peace Corps").</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Amster, Leopold.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Anne Frank Exhibit (advertisements).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Anne Frank Exhibit (articles).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Anne Frank Exhibit (educational outreach).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Anne Frank Exhibit (organizers).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Anne Frank Exhibit (public relations).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Anti-Defamation League of B'nai B'rith, Arizona
+			 Chapter.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Anti-Semitism in Arizona.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Anti-Semitism in Tucson.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Appel, Horace Hilary (Sr. and Jr.).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Appel, Nathan B. (affidavits).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Appel, Nathan B. (Arizona Pioneers' Historical
+			 Society).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Appel, Nathan B.(biographical material).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Appel, Nathan B. (book excerpts).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Appel, Nathan B. (correspondence).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Appel, Nathan B.(newspaper stories, 1850s-1890s; n.d.) -
+			 2f.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Appel, Nathan B. (obituaries).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Appel, Nathan B. (research - Arizona Historical Society
+			 [Rabbi Floyd Fierman]).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Appel, Rev. Elmer.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>"Argonaut Tales" (article).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Arizona City.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Arizona Historical Foundation.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Arizona History (article - emigration).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Arizona History (article - investments).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Arizona History (book excerpt - History of Arizona, vol.
+			 1).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Arizona History (book excerpt - Our Southwest).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Arizona History (timeline).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Arizona Jewish Historical Society.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Arizona Jewish Historical Society (Phoenix
+			 Chapter).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Arizona Jewish Historical Society (Southern Arizona
+			 Chapter).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Arizona Jewish Post (article about: "A Conspectus of
+			 Arizona's Pioneer Anglo-Jewish Newspaper").</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Arizona and New Mexico History (article).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Arizona (Pioneer) Historical Society (book
+			 excerpt).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Arizona Quarterly Illustrated, 
+			 <unitdate type="inclusive" normal="1880/1881">1880-81.</unitdate>
+			 </unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Arizona Rangers (article).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Aronson, John.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Artzi, Sarah Tobin.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Ash, Bruce.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Asher Brothers' Powderhouse (articles).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Asia, Daniel.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Astronauts (Jewish - article).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Atkinson, Sadie.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Atlas, Louise C.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Auerbach, Norman E.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>August, Harold.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Bacal, Elizabeth.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Backman, Felix.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Backstein, Jacob.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Baker, Donald.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Banking in Arizona.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Banta, Albert Franklin (excerpt from story by).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Barkan family.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Barnett, Aaron.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Barr, Rev. Lawrence.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Barth, Bernice.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Barth, Isaac.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Barth, Jacob.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Barth, Maurice.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Barth, Nathan.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Barth, Solomon (biographical).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Barth, Solomon (legal documents).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Bashevkin, Albert.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Baswitz, Louie and Henry.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Baum, Kuno.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Baum, Sarah.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Becker, Rabbi Israel.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Becker, Mark.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Becker, Sylvia.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Beigel, Alfred.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Beigel, Allan.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Beigel, Gisela.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Beigel-Kaye, Joan.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Beim, Mary.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Bellman, Ben.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Bellman, Lamar.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Bellman, Melvina (nee Balk).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Belzer, Suzanne.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Ben-Asher, Susan (married name: Newton).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Bendalin, Howard.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Bendell, Herman.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Benson, AZ (Jewish merchants in).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Bensusan family.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Beren family.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Berger, J.M.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Berger, Jeannie.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Berger, Madeline Dreyfuss Heineman.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Berger, Quincy Chaim.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Bergman, Rabbi Moise.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Bergman, Jacob.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Berlowe, Herman.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Berney, Leo.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Bernstein, Beryl.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Bernstein, Justice Charles.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Bernstein, Dr. Dennis.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Bersh, Victor.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Bersu, Camilla.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Beth El Congregation (Phoenix).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Beth Emeth Congregation (Sun City West).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Beth Joshua Congregation (Scottsdale).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Bien-Willner, Ruben and Felissa.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Bilgray (Rabbi Albert T.) Lectureship Steering
+			 Committee.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Bilgray, Rabbi Albert T.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Bisbee, AZ.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Bisman, Rabbi Mark and Fredda.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Blitzer, Professor Leon.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Block, Ben.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Block, Molly Handmaker.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Bloom Brothers.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Bloom, Clara Ferrin.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Bloom, David Walter.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Bloom, Naomi Gerstel.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Bloom Southwest Jewish Archives - 3f.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Bloom, Theodore F.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Bloomfield, Suzanne.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Blumberg, Abraham M.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>B'nai B'rith.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>B'nai B'rith Women.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Bongarten, Harold.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Bookbinder, Donald Gene.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Bookman, Julius "Dooley".</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Boorstein, Mary.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Boritzer, Regina.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Bowie, AZ.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Bracker, Robert.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Bracker, Charles.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Bracker, Joseph.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Bracker, Pearl.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Brandes, Raphael.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Bravin, Lance.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Breger, Bertha.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Breger, Rabbi Marcus.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Breger, Rabbi Marcus (correspondence).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Breger, Rabbi Marcus (correspondence - University of
+			 Arizona).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Breskin, "Aunt" Dolores.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Breweries and Jewish Pioneers (book excerpt - Brewed in
+			 America: A History of Beer and Ale in the United States).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>"Brides for Brethren , 1854 - 1879" (article).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Brock, Warren.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Brook, Benjamin and Elizabeth.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Brooks, "Al" Sumner.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Brophy C. Frank.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Brown, Jeanette.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Brown, Morris J.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Brown, Morris J.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Burg, Sidney.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Burnette, Ralph.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Bush, Ruthann.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Cabat, Erni and Rose.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Calisher, M.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Cantor, Judge Irwin.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Capin, Dr. Donna.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Capin, Esther.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Capin family (clippings).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Capin family (genealogy).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Capin/Bracker families (genealogy).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Capin, Fannie.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Capin, Harlan.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Capin, Helen.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Capin, Hyman.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Capin, Jacob (Jake).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Capin, Leslie.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Capin, Lillian.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Capin, Philip.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Capin, Richard.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Capin, Samuel, 
+			 <unitdate type="inclusive"
+			 normal="1877/1931">1877-1931.</unitdate></unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Capin, Samuel, 
+			 <unitdate type="inclusive"
+			 normal="1903/1968">1903-68.</unitdate></unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Capin, Sylvia.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Cattlemen (Jewish).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Cauthorn, Robert S. - 2 f.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Censuses of Arizona Territory (Jewish listings), 
+			 <unitdate type="inclusive"
+			 normal="1860/1880">1860-1880.</unitdate></unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Cerf, Marian.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Chambers, Winnie Emma.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Chanen, Herman.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Chanin, Abraham.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Charleston, AZ.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Charpentier, Harry ("Pepper").</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Chernin, Bessie Capin.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Chernin family.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Chernin, Harry.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Chesin, Ruth.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>"Chronicle" (newsletter of the Southern Arizona Chapter of
+			 the American Jewish Historical Society).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Church Arson Prevention Act.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Citron, Aaron L.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Civil War (Arizona battles in).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Clifton, AZ.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Cochise County Historical and Archaeological
+			 Society.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Cochise County (law enforcement).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Cohen, Adeline R.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Cohen, Charles E.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Cohen, Harry.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Cohen, Haskell.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Cohen, Henry.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Cohen, Janice E.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Cohen, Marvin S.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Cohen, Maurice.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Cohen, Meyer.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">2</container> 
+		  <unittitle>Cohen, Morris.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Cohen, Dr. Sam.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Cohen, Sarah W.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Cohen, Woody.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Cohn, Alfred A.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Cohn, Rabbi Benjamin.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Cohn, B[ernard?].</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Cohn brothers.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Cohn, David.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Cohn, Elias and H.M.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Cohn, I.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Cohn, Joseph.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Cohn, M.W.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Cole, Beatrice.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Coleman, Celia.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>"Colorado, New Mexico, Utah, Nevada, Wyoming, and Arizona
+			 Gazetteer and Business Directory, 1884-1885" (photocopy).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Conferences (Jews in the Southwest United
+			 States).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Congregation Anshei Israel (Tucson) - 3f.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Congregation Beis Menachem (Phoenix).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Congregation Bet Shalom (Tucson).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Congregation Chaverim (Tucson).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Congregation Chofetz Chayim (Tucson).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Congregation Eshel Avraham (Tucson).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Congregation Young Israel (Tucson).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Consolidated National Bank (Tucson).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Contracts and consignments (historical;
+			 photocopies).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Cooper, Michael.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Copeland, Isaac.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Coppersmith, Senator Sam.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Cornfield, Bernard.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Cornfield, Matilda ("Tillie").</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Costin, Max.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Cranston, Jack.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>"Culture and Community: Artistic Encounters" (project of the
+			 National Foundation for Jewish Culture).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Cunningham, George.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Custer, Howard and Morton.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Cyment, Dorothy.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Danforth Chapel (Arizona State University).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Darby, Dr. Richard.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Davis, Betty Jane.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Davis, Mayor Lewis.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Davis Monthan Air Force Base (Tucson; Jewish activities;
+			 "The Shofar" - newsletter).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Deitel, Saul and Rose.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>"Los Descendientes del Presidio de Tucson"
+			 (newsletter).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Deutch, Sidney J.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Deutsch, Sam.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Dever, William.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Diamond, Donald R.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Diamond, Isaac.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Diamond, Joseph.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Diamond, Nathan.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Dickstein family.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Dickstein, Harold.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Dickstein, Irwin.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Dickstein, Dr. Stephen.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Dietrich, Harvey.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Dinnerstein, Leonard.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Dinnerstein, Myra.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Dobkin, Minnie.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Doll, Peter.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Donau, Alfred.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Donau, Hugo.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Donnadieu, Gabriel.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Dorson, Sylvia.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Dorson, William.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Douglas, AZ.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Douglas (AZ) Cemetery.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Douglas Military Camp.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Dow, Rabbi Ydel.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Downing, Dimitri Y.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Drachman, Albert.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Drachman, Emanuel.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Drachman, Esther.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Drachman, Harry.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Drachman, Herbert.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Drachman, Jennie.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Drachman, Lucille.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Drachman, Mose.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Drachman, Myra.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Drachman, Philip.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Drachman, Rosa Katzenstein.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Drachman, Roy.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Drachman, Sally Spaid.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">3</container> 
+		  <unittitle>Drachman, Samuel H. - 2f.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Drachman, Samuel H. (diary - photocopies).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>"The Drachmans of Arizona" (article - Floyd S.
+			 Fierman).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Dreyer, Sam.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Duckstein, Lucien.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Dumes, Scott.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Dumes, William.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Dun and Bradstreet Mercantile Agency (reference book -
+			 1908).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Dunn, Seth.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Dworin, Dr. Milton.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Earp, Wyatt.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Eber, Solly.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Eckstein, Dr. Albert.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Ehrenberg, Herman.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Ehrlich, Dr. Joe.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Eisenberg, Abe.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Eisenberg, S. Harold.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Elias, Jacob.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Elkus, Irene.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Ellis, N.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Eloy, AZ.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Emanuel, Abraham H.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Ephraim, Leopold.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Epstein, Harry.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Erman family.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Ettinger, Rowena.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Evangelism from Christians (Jewish reactions
+			 to).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Evans, Robert.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Ezekiels, Al.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Ezekiels, Louis.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Ezekielville.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Fairbank, AZ.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Falkow, Cantor Maurice.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Farming (Jews in).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Feder, Bradley, H.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Feig family.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Feldman, Alther M.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Feldman, Hank.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Feldman, Henry.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Feldman, Joesph.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Feldman, Oded and Ina.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Feldman, Stanley G.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Feldman, Yosef.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Fenster, George and Kitty (benefactors of the Fenster
+			 School).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Fenton, Margie.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Fenton, Norman.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Ferdie, Moreen.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Ferentz, Judd.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Ferrin, Arthur H.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Ferrin, Joseph.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Ferrin, Therese Marx.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Feyder, Leslie Newman.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Fierman, Floyd.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Fierst, Esther.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Fine, Jack and Tillie.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Fine, Sylvia Vogel.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Fink, Richard.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Finkelstein, Jack.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Finkelstein, Rita.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Fireman, Bert.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Fischer, Adele.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Fishman, Joesph.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Fishman, Larry.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Fleischman, Lawrence.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Fleishman, Fannie Dreyfuss.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Fleishman, Fred.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Fleishman, Herman.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Florsheim, William.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Flyer, Anna.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Fortman, Brian.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Frank, Abraham.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Frankl, Captain Robert A.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Franklin, Abraham M.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Franklin family.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Franklin, Selim M.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Franklin, Shirley Alter.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Freedom Run (race against prejudice in Tucson).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Freudenthal/Lesinsky/Solomon families.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Fried, Mary L. </unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Friedman, Bernard.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Friedman, Charles.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Friedman, Frank.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Friedman, Harry.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Friedman, Herman.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Friedman, Leah and Sol.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Friedman, Sam.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Frohman, Elaine.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Fruchthendler, Jacob C.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Fruchthendler, Jean Abend.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Fuchs, Morton.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Funk family.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Furst, Beth.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Gaber, Pamela.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>"Galveston Plan" (settling of Jewish immigrants in the
+			 West).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Ganz, Emil and Sylvan.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Garber, Dick and Harriet.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Garrard, John and Carol.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Gelband, Claire.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Geller, Milton.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Gellman, Stuart.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Gerst, Morris.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Gibson, Robert.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Giffords, Gifford ("Gif").</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Gila City, AZ.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Gilbert, Alice (SEE: Solmon/Goldberg).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Ginsberg, Anna.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Ginsburg, David and Helen.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Ginsburg, Genevieve.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Giss, Goldie.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Giss, Harold C.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Glassberg, Sharon.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Globe, AZ.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Glogoff, Stuart.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goetz, Richard H.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Gold, Frank.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Gold, Reuben.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldbaum, Abe.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldbaum, Arthur.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldbaum, David.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldbaum, Emma V. </unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldbaum, Eugene.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldbaum, Joe.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldbaum, Julius.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldbaum, Louis.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldbaum, Marcus.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldbaum, Nathan.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldbaum, Sarah.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldberg, Aaron.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldberg, Bernard A. </unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldberg Brothers Clothing Store (Phoenix).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldberg, Mrs. Carrie (wife of Aaron).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldberg, Charles.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldberg, Chester Sr. </unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldberg, David.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldberg, Ed.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldberg family.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldberg, Hyman.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldberg, Isaac.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldberg, Marvin.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldberg, Dr. Philip.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldenberg, Lillian.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Golden Eagle Brewery (Tombstone).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldish, Matt.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldman, Adolf.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldman, Ben.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldman, Bertha Feiler.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldman Brothers (Phoenix).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldman, Charles.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldman, Elliot Sheldon.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldman, Helen Toppel.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldman, Irwin L. ("Buddy").</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldman, Leo and Charles.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldman, Maurice.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldman, S. B.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldschmidt, Adolph.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldschmidt, Alfred J. and Louise.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldschmidt, Leo.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldsmith, Ben.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldsmith, Grace.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldstein, Brian.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldstein, Dorothy.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldstein, J. (business owner in Prescott, AZ).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldstein, Judith.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldstein, Lois.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldtree, Estelle.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldtree, Harriet.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldtree, Isador.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldtree, Joesph.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldtree, Lillian.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldwater, Baron (Barry, Sr.).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldwater, Senator Barry (Barry, Jr.).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldwater, Ben.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldwater, Carrie.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldwater family.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldwater genealogy.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldwater, Henry.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldwater, Joesph.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldwater, Julius.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">4</container> 
+		  <unittitle>Goldwater, Michael.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Goldwater, Morris.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Goldwater, Sam.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Goldwyn, Lillian Hurwitz.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Goodman, A. </unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Goodman, Edward.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Goodman, Leon.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Goodman, Mary.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Goodman, Yetta.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Gorbakovsky, Edward.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Gordon, Edna.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Gordon, William.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Gottesman, Iris.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Gotthelf, Isadore.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Government (Jews in; book excerpt - Legislative History:
+			 Arizona 1864-1912).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Government (Jews in).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Grabb, Samuel.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Graham County, AZ.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Greenbaum, Alice.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Greenbaum, Dr. Arnold.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Greenberg, Bruce.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Greenberg, George.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Greenberg, Harold.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Greenman, Rose.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Green Valley, AZ.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Greenwald, Samuel.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Grossman, Lou.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Grouskay, Aubrey.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Grouskay family.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Grunewald family.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Gulf War.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Gumbiner, Rabbi Joesph.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Gunst, Ralph.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Guralnick, Ralph.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Guy, Dr. Donna.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Haas, Brenda.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Halper, Stacey.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Hammer, Dr. Michael.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Hammerschlag, Dr. Carl.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Handmaker family (esp. Isadore H. ["Murf"]).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Handmaker Home for the Aged (Tucson).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Hartman, Norman and Francesca.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Har Zion Congregation (Paradise Valley).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Hebrew Benevolent Society (Tucson).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>"Heichal Baoranim" (newsletter - Phoenix).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Heiman, Andrea.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Heiman, Sandra R.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Heineman, Samuel.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Heineman, Simon.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Heisler, Michael.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Heller, Louis.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Henderson, Abraham.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Herberg, Lloyd.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Herman, Betty Jane.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Herman family.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Herman, Maury.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Hersh, Bianca.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Herzberg, Dr. Benjamin.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>High Holy Days.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Hillel (Arizona State University).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Hillel (University of Arizona).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Hirsch, Sarah S.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Holocaust.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Horn, Henry.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Horwitz, Harry.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Hyman, Julia.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Ilitskey, Isadore.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Immigration (Soviet Jews).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Irwin, Alfred.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Isaacson, Jacob.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Isenstein, Bob.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Iseral, Julia Schaffer.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Jacobs family.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Jacobs, Harold.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Jacobs, Leon.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Jacobs, Marion.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Jacobs, Mark.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Jacome family.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Jastro, Henry.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Jerome, AZ.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Jewish calendar calculations.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>The Jewish Chronicle, 1841-1941 (excerpt).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Jewish Community Foundation of Southern Arizona.</unittitle>
+		  
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Jewish Community Relations Council (Tucson).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Jewish Family and Children's Service (Tucson).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Jewish Federation of Southern Arizona.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Jewish Historical Society of Southern Arizona.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Jewish pioneer men in the West (articles).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>"Jewish Pioneers in Arizona" (article).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>"A Jewish Tourist's Guide" (excerpt).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Jewish Web Sites (World Wide Web).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>The Jews in Arizona -- New Challenges.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Jews in Chihuahua -- Appendix VI" (excerpt).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>"Jews of Arizona" (article - Freedman).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>"Jews of Arizona" (article - Rochlin).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Joffe, Leonard.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Joffe, Steve.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Journalism (Jews in).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kahn, Belle.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kahn, Richard.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kaiserman, Jeffrey.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kalish family.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kane, Fan.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kaplan, Alexander.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kaplan, Helen.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kaplan, Irving D.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kaplan, Ruth.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kaplan, Sydney ("Duke").</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Karon, Bruce A.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Karp, Dr. Leonard R.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Karsch, Carol and Daniel.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Karz-Wagman, Rabbi Harley.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Katcher, Fannie.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Katz, Harold.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Katz, Harry.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Katz, Henry.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Katz, Marcus.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Katz, Ronald.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Katzenstein, Albert.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Katzenstein, Alma.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Katzenstein, Frieda.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Katzenstein, Sam.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kauffman, Davidson, Semmel, Inc.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kaufman, Frances.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kaufman, Harold.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kaufman, Henry.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kaufman, Judah.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kaufman, Ruth.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kaufman, Sam.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kaufman, Tave G.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kay, Morton.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kaye, Bobby.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kaye, Judy.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Keane, Norman.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Keller, Irving.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kellman, Herman.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kimmelman, Alex.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>King, Benjamin.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kingman Cemetery records (Kingman, AZ).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kipnis, Sam.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kippe, Mollie.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kivel Care Center (Phoenix).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kivel, Joesph K.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Klein, Gerda Weissmann.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Klein, H. W. </unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Klein, S. (and Company).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kleiner, Dr. Stanley.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kleinerman, Ed.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kleinman, Julius.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kline family.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Koffler, Dr. Henry.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Koppell, Rabbi Bonnie.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Korrick family.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Koschland, Moses.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kozolchyk, Boris.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Krasner, Oscar.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kraszynski, Maurice.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kritchevsky, Elise.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kroloff, Geraldine.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Krueger, Rudi.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kruglick, Burt.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Krupp, Dr. Leon.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Ku Klux Klan.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kulanu (Tucson).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kurn, Samuel and Jane.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Kustner, Jack and Dorothy.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Labensart, Irving.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Lamb, Urusla.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Lamden, Richard.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Lanceman, Bernard.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Landers, Samuel.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Landman, Rebecca.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Landsberger, Louis.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Langer, Rubin.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Lantin, Max.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Lappit, Leopold.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Lasner, Anne.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Lauber, Margot.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Law (Jews in).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Lazard, Alphonse.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Lazarow, Pearl.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Lazarus, P.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Lebeau, Saul.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Lederman, Amy Hirshberg.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Lederman, Bernard.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Lederman, Rose.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Leeds, Leona J.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Lefty, William (formerly Levkowitz).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Lehman, Marshall.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Lehman, Sylvia Gold.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Lehrer, Cy.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Lehrer, Lenoard.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Leichman, Nathan.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Leonard, Judith.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Leonard, Wendy.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Lesinsky, Henry and Charles.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Lessner, Harold.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levanthal, B.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levi, Fortunato.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levin, Alexander.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levin, Henry.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levit, Sady.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levkowitz, Bertie.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levkowitz, Clara.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levkowitz, Helene.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levkowitz family.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levkowitz, Milton.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levy, Aaron.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levy, Alfred.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levy, Ben (Ajo, AZ).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levy, Ben (Douglas, AZ).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levy, Ben (Winslow, AZ).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levy brothers (Mohave County, AZ).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levy, David.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levy's Department Store (Tucson).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levy, Donnie.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levy, Dora.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levy, Doug.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levy, Esther.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levy, Eugene H.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levy family.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levy, Felix.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levy, Ike.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levy, Isaac.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levy, Jacob.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levy, Jake.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levy, Jim.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levy, Joe.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levy, Leon.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levy, Chief Levy (Indian chief?).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levy, Lois.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levy, Mamie.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levy, Mary.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levy, Miguel and Norma.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levy, Mike.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levy, Moise.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levy, Nathan.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">5</container> 
+		  <unittitle>Levy, Sam.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Levy, Sol (Bisbee).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Lewis, Howard.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Lewis, Sol.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Lewkowitz, Burton.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Lewkowitz, Herman.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Lewkowitz, Jerry.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Lex, Michael.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Liberman, Julius.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Lichertman, Cantor Ivor.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Lieb, Dr. Charles.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Liese, Harry.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Lipsey, Alfred.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Lipshultz, Menachem.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Lisitzky, Charles.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Little Chapel of All Nations (Tucson).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Littman, Sol.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Loeb, Charles.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Loewenstein, Ben.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>London, Rabbis Ross and Victoria.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Lowenstein, I.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Lo[e]wenstein, Manny.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Louchheim, Rabbi Thomas.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Lukin, Abe.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Lukin/Sachs family.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Lulley, Mark.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Lyons, Abraham.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Lyons, Isaac.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Malach, Ruth.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Maimonidean Society (University of Arizona) -
+			 4f.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Mallin, Sol.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Manassee family.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Mannassee, Herman (various spellings of
+			 surname).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Mannis, David.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Mansfeld, Eva.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Mansfeld, Jacob S.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Mansfeld, Leonor (married name: Williamson).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Mansfeld, Samuel J.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Mansfeld, Mrs. Samuel J.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Mansfield, Monte.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>"Many Jews Helped the Pioneers Settle Arizona"
+			 (article).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Marcus, Janet.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Marcus, Robert.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Marcus, Sadye Capin.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Marcus, Sam.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Marcus, Simon.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Margolies, Lillian.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Marks, Barnett.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Marks, Jake.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Marks, Max.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Marks, Selma Paul.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Marshall, Jonathan.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Martin, Daniel.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Marx, Abraham.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Masonic Lodge (Tucson).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>May, Louis A. </unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Mayer, Marcus B. </unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Mayer, William P. </unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>McKenney's Business Directory -1882-1883 (excerpt - Arizona
+			 listings).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Mecham, Gov. Evan.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Mechles, Leon.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Meckler, Steven.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Medicine (Jews in).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Meier, J. A.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Melczer brothers.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Melczer, Mrs. Ed.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Melnick, Jacob.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Mendel, Lillian.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Merchants (Jewish).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Meyer, Carrie.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Meyer, Judge Charles.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Meyer, Henry Jr. </unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Meyer, Henry Sr.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Meyer, Isadore.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Meyer, A. Leonard.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Miami, AZ.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Miessner, Julia Allen.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Migdal, Lila Z. Haas.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Milberg, Morton and Helga.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Miles, Harriet K. </unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Military (Jews in).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Miller, Ed.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Miller, Mayor George.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Miller, Jacob.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Miller, Joe.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Miller, Rachel Sadowsky.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Miller, Zach.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Millstone, Donald.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Mining (Jews in).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Mogill, Leo.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Mohave County, AZ.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Monsky, Thelma.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Moore, Wendy Marmis.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Morris, Abe P.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Morris, Isaac.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Morrison, Ray A.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Mossman, Lettie.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Murillo, Lupita.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Myerson family.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Myerson, Jean.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Myerson, Joesph.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Nathan, Dena.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Nathan, Sol.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>National Council of Jewish Women (NCJW).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Native Americans and Jews (relations).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Neiblum, Lottie.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Nemeroff, Celia.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Netzky, Lester.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Neugass, Joesph.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Neustatter, Major Isidor.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Nevins, James.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Newman, Jack B.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Newmark, Cecil.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>New Mexico.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Nieblum, Henry.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Niemoller, Pastor Martin.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Noah, Max.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Nogales, AZ.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>"Northern Arizona Territorial Death and Burial Records"
+			 (1870-1910).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Novick, Herman.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Oberfelder, S.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Ogden, Emma.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Oleisky, Rabbi Arthur.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>"On the Arizona-Sonora Frontier in 1880"
+			 (article).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>"Operation Exodus" (Tucson Jewish Federation).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Oppenheimer, Ernest.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Organization for Rehabilitation through Training
+			 (ORT).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Ostroy, Irving.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Owls Club (Tucson).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Pakier, Freddi.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Parents of North American Israelis (Tucson
+			 chapter).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Peachin, David.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Peck, Jeffery.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Perkins, Judith.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Perlin, Bernie.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Perlman, Natran.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Peterson, Cele.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Phillips, Ed .</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Phoenix anti-semitism.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>"Phoenix aristocracy" (clipping).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Phoenix - Arizona Jewish Historical Society (Phoenix
+			 Chapter).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Phoenix B'nai B'rith organization.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Phoenix City Council.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Phoenix - "Greater Phoenix Jewish News".</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Phoenix Hebrew Academy.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Phoenix history.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Phoenix: the History of a Southwestern Metropolis
+			 (excerpt).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Phoenix Jewish Community Center.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Phoenix Jewish Federation.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Phoenix - the Kishinef Fund.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Phoenix Volunteer Fire Department.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Pima County jurists.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Pimeria Alta Historical Society.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Pioneer Jews in the Southwest United States.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>"Pioneer Jews of Arizona" (article - Harriet
+			 Rochlin).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Pitt, Donald.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Plotkin, Albert and Sylvia.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">6</container> 
+		  <unittitle>Plotkin, Irving.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Polk, Frank -2f.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Polk, Sally.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Poplanshy, Pauline.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Population surveys.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Portman, Sophie.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Posner, Philip.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Posner, Robert.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Postil, Eleanor.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Pozez family.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Prescott, AZ.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Present, Elmer.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Price, Louis.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>"Project Isaiah".</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Purim Ball (Tucson -1886).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rabin, Irving.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rabinowitz, Steve.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rado, Leanore Levy.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Ramenofsky, Dorothy.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Ramenofsky, Elizabeth.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Ranching (Jews in).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rappaport, Harold.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Raskin, Fannie.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rauh, Anna.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Raykh/Weinstein/Yusofora families.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Raykh, Vera V. </unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Reimers, Rabbi Paula.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Reich, Molly.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Reiss, Leni.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Republican Party politics.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Resnick, Dr. Sol.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Reznik, Michael.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Reznikov, Dr. Anna.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Riback, Jack.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rickles, Abraham.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>"Rings" of influence in Arizona history.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Ritchie, Matthew.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rivera, Geraldo.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Robinson, J.B.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rochlin, Abe.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rochlin, Annie Shapiro.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rochlin, Claire.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rochlin, Fred.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rochlin, Harriet.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rochlin, Sidney.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Ronald, Rabbi Jeffrey N. </unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>"Roots in the Desert..." (title of a photographic
+			 exhibition).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rosen, Babette.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rosen, Fred.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rosen, Judith.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rosenbaum, Marcia.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rosenbaum, Morris C. </unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rosenbaum, Polly.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rosenberg, Mrs. Morris.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rosenberg, Selma.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rosenberg, Seth.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rosenberg, William.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rosenberg, Winfield.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rosenblatt, Paul.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rosenblum, Hyman.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rosenbluth, Mike.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rosenfeld, Bernath.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rosenstein, Herman.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rosenstern, Louis.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rosentstock, Alberto.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rosenthal, Joseph.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rosenthal, N.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rosenthal, Sandy.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rosenzweig, Arline ("Sandy").</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rosenzweig, Harry.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rosenzweig, Hillel.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rosenzweig, Isaac.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rosenzweig, Rosa.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rothberger, Jeannette.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rothman, Martha K.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rothschild Ice Cream Shop.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rubin, Dan.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rubin, William J.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rubinstein, Irving and Harriet.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rubinstein, Joesph.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rubinow, Thelma.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rudnitsky, Alex.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Ruggil, Solomon.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rulney, Melynda.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Rutz, Rebecca Staman and Myer Lawrence.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Sachs, Dr. Jacob Leonard.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Sachs, Woolf.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Sacks, Dr. Benjamin.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Safford, AZ.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Saft, Ralph.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Salonic, Philip.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Samter, J.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Sandoval, Juan.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Sare, Moysey.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Sarver, Jack.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Sattler, Esther.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Satz, Wayne.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Schaefer, Helen S.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Schaefer, John Paul.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Schain, Abraham.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Schain, Al.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Schantz, Mildred.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Schenkner, Howard.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Schiesel, Herman.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Schiff, Nathan.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Schifman, David.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Schlomowitz, Fanny.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Schneider, Eleanor.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Schneider, William.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Schoenfeld, Louis.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Schonholz, Hertz.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Schulman, Edmund and Alsie.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Schurgin, Samuel.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Schuster family.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Schwartz, Moritz.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Sedley, Bernard.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Sedona, AZ.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Sehler, Jeff Hannan.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Seidel, Jonathan.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Seidner, Dr. Aaron.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Seligman, Theodore.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Seligmann, C.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Senderoff, Charles.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Senor, Irving and Rachel.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Sephardim of Tucson.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Shandling, Garry.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Shanhouse, Morris.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Shapiro, A.D.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Shapiro, Norman.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Shapiro, Sam.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Shayevich, Sergey.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Sheinbein, Melvin ("Mickey").</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Shemtov, Rabbi Joesph.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Sherberg, Esther.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Sherman, Rose.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Sherwin, Rabbi Richard.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Shiff family.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Shiff, Murray.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Shifrin family.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Shore, Sean Marc.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Shostac, Lillian Ilitzky.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Shrager, Nancy.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Shropshire, Donald Gray.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Siebenberg, Harry.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Siegel, Rabbi Kenneth.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Siegel, Shirley Ruth.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Silberman, Rabbi Herbert.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Silberman, Rabbi Lou.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Silver, Diane.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Silver, Rose.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Silverbell Road (Tucson - found objects).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Silverberg, Simon.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Silverman, Estherlea.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Silverman, Lisa.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Silverman, Ruth.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Silverstein, Milt.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Silverstone, Sally.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Simon, Abraham.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Simon, Bertha.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Simon, Morris.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Simon, Rabbi Ralph.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Singer, Isaac.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Singer, Mark.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Slamon, Judge J.J.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Slavkin, Tillie.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Smith, Herbert.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Smythe, Patricia.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Society for Crypto-Judaic Studies.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Solomon, Adolph.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Solomon, Anna.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Solomon, Charles.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Solomon, David.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Solomon family.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Solomon, Hattie (Mrs. Charles).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Solomon, Hyman.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Solomon, Isidor Elkan.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Solomon/Lesinsky/Freudenthal families.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Solomon, Max.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Solomon, Ruth.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Solomonville, AZ.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Solot, Ben H.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Solot family.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Solot, Marian.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Solot, Morton.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Sonder, Anne.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Sonoita kosher wine production.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Southwest Jewish Archives (conference - 1991).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>"Southwest Jewish History" (newsletter of the Southwest
+			 Jewish Archives).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Soza family (newsletter).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Specter, Sam and Miriam.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Spielberg, Steven.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Spitalny family.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Spivack, Marvin.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Staab and Company.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Stein family.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Stein, Max.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">7</container> 
+		  <unittitle>Steinfeld, Albert.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Steinfeld, Albert.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Steinfeld, Irene (married name: Pizzini).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Steinfeld, Viola (married name: O'Neil).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Sterling, Irene.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Stern, Sarah.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Stickle, Leonard.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>St. Johns, AZ.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Stocker, Joseph.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Stone Avenue Temple Project (Tucson).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Stone, Harry.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Strauss, Charles M.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Strauss, Gerd.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Strober, Harry.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Strug, Dr. Burt.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Strug, Kerri.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Stuart, Yale.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Sverdlik, Henrietta.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Swetschinski, Daniel M.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Syde, Saul H. </unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Sylvia Plotkin Judaica Museum (at Temple Beth El -
+			 Phoenix).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Taren, Elizabeth.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Temple Beth Israel (Phoenix) - 2f.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Temple Beth Shalom (Green Valley).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Temple Beth Shalom (Havasu).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Temple B'rith Shalom (Prescott).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Temple Emanu-El (Tempe).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Temple Emanu-El (Tucson).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Temple Kol Hamidbar (Sierra Vista).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Temple of Music and Art (Tucson).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Temple Solel (Paradise Valley).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Terman, Ruth.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Tishkevich, Nina.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>"To Tender Our Services" (excerpt from The Arizona Rough
+			 Riders).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Tobin, Irwin.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Tobin, Saul.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Tombstone, AZ.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Tombstone (AZ) Jewish cemetery.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Torme, Arthur.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Tribolet, Godfrey.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Tuba City, AZ.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Tucson, AZ.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Tucson (Chabad-Lubavitch sect).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Tucson (city council).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Tucson (city directory -1881).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Tucson (city government).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Tucson (downtown map/Jewish homes).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Tucson (first Jewish wedding in Territory of
+			 Arizona).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Tucson (Hanukkah celebration).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Tucson Hebrew Academy.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Tucson Hebrew High School.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Tucson (historical homes).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Tucson Jewish Cemetery Association, 
+			 <unitdate type="inclusive" normal="1890">1890.</unitdate></unittitle>
+		  
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Tucson Jewish Community Center - 2f.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Tucson Jewish Community Center (Maccabi youth athletic
+			 team).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Tucson Jewish Community Council.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Tucson ("The Jewish Community In Tucson : Structure and
+			 Forms of Jewish Self-Identification" - article).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Tucson Jewish Family and Children's Service.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Tucson Jewish Film Festival.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Tucson Jewish War Veterans.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Tucson (Jewish welfare and benevolent
+			 societies).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Tucson (Jewish youth study).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Tucson (Kosher meat products).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Tucson ("Landmarks of the Old Pueblo" - historical
+			 sketches).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Tucson: The Life and Times of an American City
+			 (excerpt).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Tucson (map -1862; copy of).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">8</container> 
+		  <unittitle>Tucson (mayors of).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Tucson (newspaper of 1879; notes taken from).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Tucson ("Tent City").</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Tucson (World War II).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Tuller, Mort and Howard.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Tumarkin, Linda.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Turken, Morris.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>United Order of True Sisters (Tucson).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>University of Arizona (anti-semitism).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>University of Arizona (Hillel Foundation).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>University of Arizona (history).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>University of Arizona (Holocaust denial issues).</unittitle>
+		  
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>University of Arizona (Jewish athletes).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>University of Arizona (Judaic Studies Program).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>University of Arizona (Saudi Arabia relations).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Uvaydova, Sarah.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Veksler, Eugene.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Vertlieb, Freda.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Vicenzi, Richard.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Villa, Pancho.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Viner, Andy.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Volgy, Thomas J.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Wallet, Eleanor Ruth.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Wartsky, Bernard.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Wasserman, Celma.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Weinberger, Jacob.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Weiner, Leonard.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Weinstein, Harry.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Weinstein, Jeffrey Neil.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Weinstein, Joseph.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Weinstein, Rebecca.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Weintraub, Anna R. </unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Weintraub, Ron and Diane.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Weisberg, Sheldon.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Weisl, Bernard.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Weisl, Sig.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Weiss, Devora.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Weiss, Melissa.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Weissman, Eva.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Weisz, Elsa.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Weisz, Kurt.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Weizenbaum, Suzanne.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Weizenbaum, Rabbi Joesph.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Welisch, T.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Wernick family.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Wertheimer, Aaron.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Wesendorff, Max.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Wetzler, Julius.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Weyler, Charles.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Whitehill, Lorraine.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Wickenberg, AZ.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Wiener, David.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Wiesel, Elie.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Wilf, Regina.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Willcox, AZ.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Williams, AZ.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Wine, David S.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Winter, Charles F.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Wintner, Gertrude.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Wise, Joesph E. </unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Wisotsky, Jerry.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Wolf, Harry.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Wolf, Ida.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Wolfe, Ivan.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Wolfe, Michelle Pinnas.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Wollenberg, Charles.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Wollenberg family.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Wollenberg, Louis.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Wolpert, Saul.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Woolf, Eta.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Wolsky, Sam and Bobbie.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Wormser, Michael.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Yakorevsky, Vladimir.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Yall, Anna.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Yavelberg, Samuel.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Yontef, Roger.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Yontef, Samuel.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Yusufova, Almas.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Zales, Ruth.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Zeckendorf, Aaron.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Zeckendorf family.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Zeckendorf (Lilienfeld sisters).</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Zeckendorf, Fanny.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Zeckendorf, Julia.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Zeckendorf, Lina.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Zeckendorf, Louis.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Zeckendorf, Mathilde.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Zeckendorf/Steinfeld families.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Zeckendorf, William.</unittitle> 
+		</did>
+	 </c01>
+	 <c01 level="file"> 
+		<did> <container type="box">9</container> 
+		  <unittitle>Zuckerman, Mel and Enid.</unittitle> 
+		</did>
+	 </c01> 
+  </dsc> 
+</archdesc></ead>

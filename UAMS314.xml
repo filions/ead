@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?xml-stylesheet type="text/xsl" href="displaytemplate.xsl"?>
+<?filetitle Pettid, Edward J. papers?>
+<ead relatedencoding="MARC21">
+   <eadheader repositoryencoding="iso15511" relatedencoding="MARC21" countryencoding="iso3166-1" scriptencoding="iso15924" dateencoding="iso8601" langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0">
+      <eadid mainagencycode="dlc" countrycode="us" identifier="hdl:loc" encodinganalog="852">PUBLIC "-//University of Arizona Library Special Collections//text(US::AzU::Edward J. Pettid papers/en" "UAMS314.xml"</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Edward J. Pettid papers, 
+			 <date era="ce" calendar="gregorian">1849-1980</date>
+            </titleproper>
+            <author>Inventory prepared by Barbara Lentz.</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>University of Arizona Libraries, Special Collections</publisher>
+            <address>
+               <addressline>PO Box 210055</addressline>
+               <addressline>Tucson, AZ 85721-0055</addressline>
+               <addressline>Phone: 520-621-6423</addressline>
+               <addressline>Fax: 520-621-9733</addressline>
+               <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+            </address>
+            <date era="ce" calendar="gregorian">© 2001</date>
+            <p>Arizona Board of Regents. All Rights Reserved.</p>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Inventory encoded by Linda A. Whitaker. 
+		  <date era="ce" calendar="gregorian">January 15, 2002</date>
+         </creation>
+         <langusage>Inventory is in<language>English.</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <frontmatter>
+      <titlepage>
+         <titleproper>Edward J. Pettid papers, 
+		  <date era="ce" calendar="gregorian">1849-1980</date>
+         </titleproper>
+         <num>Collection Number: MS 314</num>
+         <publisher>University of Arizona Libraries, Special Collections</publisher>
+         <list>
+            <defitem>
+               <label>Processed by:</label>
+               <item>Barbara Lentz</item>
+            </defitem>
+            <defitem>
+               <label>Date completed:</label>
+               <item>
+				
+                  <date era="ce" calendar="gregorian">1994</date>
+               </item>
+            </defitem>
+            <defitem>
+               <label>Encoded by:</label>
+               <item>Linda A. Whitaker</item>
+            </defitem>
+         </list>
+         <p>© 2001. Arizona Board of Regents. All rights reserved.</p>
+      </titlepage>
+   </frontmatter>
+   <archdesc level="collection" type="inventory">
+      <did id="a1">
+         <head>Collection Summary</head>
+         <unittitle encodinganalog="245" label="Collection Name:">Edward J. Pettid papers, 
+		  <unitdate type="inclusive" label="Dates:" era="ce" calendar="gregorian">1849-1980</unitdate>
+         </unittitle>
+         <unitid label="Collection Number:" encodinganalog="099" repositorycode="AzU" countrycode="us">MS 314</unitid>
+         <origination label="Creator:"> 
+		  <persname encodinganalog="100">Pettid, Edward J., 1914-</persname>
+         </origination>
+         <abstract>Manuscript draft about the Oatman family massacre in 1851, also
+		  included are research materials and photographs pertaining to the draft and
+		  other writings about the Southwest by the author during the 1960s. Research
+		  materials include photocopies of correspondence and documents from the Oatman
+		  family, friends, and Ft. Yuma personnel relating to the massacre, and events
+		  from the later years.</abstract>
+         <physdesc encodinganalog="300$a" label="Physical Description:">
+		
+            <extent>.2 linear feet</extent>
+         </physdesc>
+         <repository label="Repository:">
+		  <corpname>University of Arizona Libraries, Special Collections</corpname>
+		  <address>
+               <addressline>University of Arizona </addressline>
+               <addressline>PO Box 210055</addressline>
+               <addressline>Tucson, AZ 85721-0055</addressline>
+               <addressline>Phone: 520-621-6423</addressline>
+               <addressline>Fax: 520-621-9733</addressline>
+               <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+            </address>
+         </repository>
+         <langmaterial label="Language">Collection material in <language encodinganalog="041" langcode="eng">English</language>
+         </langmaterial>
+      </did>
+      <descgrp type="admininfo">
+         <head>Administrative Information</head>
+         <accessrestrict>
+            <head>Restrictions</head>
+            <p>None.</p>
+         </accessrestrict>
+         <userestrict>
+            <head>Copyright</head>
+            <p>It is the responsibility of the user to obtain permission to publish
+			 from the owner of the copyright (the institution, the creator of the record,
+			 the author or his/her transferees, heirs, legates, or literary executors). The
+			 user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+			 University of Arizona, its officers, employees, and agents from and against all
+			 claims made by any person asserting that he or she is an owner of
+			 copyright.</p>
+         </userestrict>
+         <prefercite>
+            <head>Credit Line</head>
+            <p>Edward J. Pettid papers(MS 314). Special Collections, University of Arizona Libraries.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist id="a2" encodinganalog="545">
+         <head>Biographical Note</head>
+         <p>Father Edward J. Pettid, S.J., was born in Phoenix, Arizona, in
+		  November, 1914. He attended Catholic schools in Phoenix before being ordained
+		  in the Jesuit order in 1947. After serving as an army chaplain for three years,
+		  he taught high schools in Arizona and California for approximately twenty
+		  years.</p>
+      </bioghist>
+      <arrangement id="a4" encodinganalog="351$a">
+         <head>Organization</head>
+         <p>This collection is organized into four series:</p>
+         <list>
+            <item>Series I: Manuscript Draft, 
+			 <title render="italic" linktype="simple">The Oatman Story</title>, 
+			 <date era="ce" calendar="gregorian">ca. 1969</date>
+            </item>
+            <item>Series II: Writings, 
+			 <date era="ce" calendar="gregorian">1968-1980</date>
+            </item>
+            <item>Series III: Research Materials, 
+			 <date era="ce" calendar="gregorian">1849-1951</date>
+            </item>
+            <item>Series IV: Photographs, 
+			 <date era="ce" calendar="gregorian">ca. 1850-1950</date> 
+            </item>
+         </list>
+      </arrangement>
+      <scopecontent id="a3" encodinganalog="520">
+         <head>Scope and Content Note</head>
+         <p>This collection includes an unpublished manuscript, other published
+		  articles written or edited by E.J. Pettid, research materials and photographs.
+		  His main research topic concerned the Oatman family massacre that took place
+		  near Yuma, Arizona, in February, 1851, and subsequent events involving the
+		  captivity of Mary Ann and Olive Oatman. The manuscript draft, The Oatman Story
+		  (ca. 205 pp.), is a photocopy, and includes handwritten notes and editing by
+		  Pettid. It was probably written in the 1960s. The location of the original is
+		  unknown.</p>
+         <p>There are seven other articles by him written chiefly about the Oatman
+		  tragedy or related persons and events. These articles were written in the late
+		  1960s, and include "Oatman Story: A Frontier Tragedy," "Oatman Letters Returned
+		  to El Monte," "Henry Stewart Hewitt, MD." </p>
+         <p>"The Shaman's Tale of Mohave Creation," and "John Lawrence Le Conte,
+		  MD". Research materials ranging from 1849 to 1951 include copies of letters,
+		  legal documents, an article and a few of his notes. Among the photographic
+		  materials are a few originals, copy prints, and some negatives. There are
+		  portraits and snapshots of various Oatman family, members including Olive and
+		  her husband, John Fairchild; of E.J Pettid; and of three unidentified men. </p>
+      </scopecontent>
+      <controlaccess id="a12">
+         <head>Access Terms</head>
+         <list>
+            <item>
+			 
+               <persname>Oatman, Olive Ann </persname>
+            </item>
+         </list>
+         <list>
+            <item>
+			 
+               <persname> Oatman family </persname>
+            </item>
+         </list>
+         <list>
+            <item>
+			 
+               <subject>Indian captivities</subject>
+            </item>
+         </list>
+         <list>
+            <item>
+			 
+               <geogname>Arizona -- History -- To 1912</geogname>
+            </item>
+         </list>
+         <list>
+            <item>
+			 
+               <genreform>Correspondence</genreform>
+            </item>
+         </list>
+         <list>
+            <item>
+			 
+               <genreform>Photographs</genreform>
+            </item>
+         </list>
+      </controlaccess>
+      <dsc type="combined" id="a23">
+         <head>Container List</head>
+         <c01 level="series" id="ser1">
+            <did>
+               <unittitle>Series I: Manuscript Draft, 
+				<title render="italic" linktype="simple">The Oatman Story</title>, 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">ca. 1969</unitdate>
+               </unittitle>
+            </did>
+            <scopecontent>
+               <p>Typescript (photocopy), some handwritten notes.</p>
+            </scopecontent>
+            <c02 level="file">
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder">1</container>
+                  <unittitle>Pages 1-61. 
+				  <unitdate era="ce" calendar="gregorian">ca. 1969</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder">2</container>
+                  <unittitle>Pages 62-158. 
+				  <unitdate era="ce" calendar="gregorian">ca. 1969</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder">3</container>
+                  <unittitle>Pages 159-205. 
+				  <unitdate era="ce" calendar="gregorian">ca. 1969</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Series II: Writings, 
+				<unitdate era="ce" calendar="gregorian">1968-1980</unitdate>
+               </unittitle>
+            </did>
+            <scopecontent>
+               <p>Seven articles and items written or edited by Pettid. Three
+				photographs of Henry Hewitt and John Le Conte (some negatives) filed in
+				Photographs series.</p>
+            </scopecontent>
+            <c02 level="file">
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder">4</container>
+                  <unittitle>Writings, 
+				  <unitdate era="ce" calendar="gregorian">1968-1969</unitdate>
+                  </unittitle>
+               </did>
+               <scopecontent>
+                  <p>Includes: </p>
+                  <list>
+                     <item>"The Oatman Story: A Frontier Tragedy." 
+					 <title render="italic" linktype="simple">Arizona Highways</title>, XLVI:11 (Nov.
+					 1968): 4-9. </item>
+                     <item>"Olive Ann Oatman's Lecture Notes and the Oatman
+					 Bibliography." 
+					 <title render="italic" linktype="simple">San Bernardino County Museum Association
+						Quarterly</title>, XVI:2 Winter, 1968.</item>
+                     <item>"Oatman Letters Returned to El Monte." 
+					 <title render="italic" linktype="simple">The Landmark</title>, El Monte
+					 Historical Society, 4:2 (Jan. 1969). 2 copies.</item>
+                  </list>
+               </scopecontent>
+            </c02>
+            <c02 level="file">
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder">5</container>
+                  <unittitle>Writings, 
+				  <unitdate era="ce" calendar="gregorian">1969-1980</unitdate>
+                  </unittitle>
+               </did>
+               <scopecontent>
+                  <p>Includes:</p>
+                  <list>
+                     <item>"Henry Stewart Hewitt." 
+					 <title linktype="simple">Arizona Medicine</title>, 26:1 (Jan.1969): 62-
+					 70.</item>
+                     <item>"The Shaman's Tale of the Mohave Creation." 
+					 <title linktype="simple">Northern Yavapai Record</title>, Jan. 10, 1969:
+					 4.</item>
+                     <item>"John Lawrence Le Conte, M.D." 
+					 <title render="italic" linktype="simple">Arizona Medicine</title>, 33:10 (Oct.
+					 1976): 843-845 (pt. 1 of 2).</item>
+                     <item>"John Lawrence Le Conte, M.D." 
+					 <title linktype="simple">Arizona Medicine</title>, 33:11 (Nov. 1976): 956-959
+					 (pt. 2 of 2).</item>
+                     <item>"The Inland California Missions," remarks at celebration of
+					 Saint Thomas Mission, Fort Yuma, bicentennial, Nov. 23, 1980. 2 pages.</item>
+                  </list>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Series III: Research Materials, 
+				<unitdate era="ce" calendar="gregorian">1849-1951</unitdate>
+               </unittitle>
+            </did>
+            <scopecontent>
+               <p>Photocopies of letters, documents, and original notes.</p>
+            </scopecontent>
+            <c02 level="file">
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder">6</container>
+                  <unittitle>Research Materials, 
+				  <unitdate era="ce" calendar="gregorian">1849-1951</unitdate>
+                  </unittitle>
+               </did>
+               <scopecontent>
+                  <p>Includes: </p>
+                  <list>
+                     <item>Land ownership document of Oatman's, from Illinois, 1849.
+					 </item>
+                     <item>Letter from commander of Ft. Yuma, 1852, to Oatman
+					 relative, in response to inquiry about Oatman family. </item>
+                     <item>Adoption paper of Sarah Catherine Leonard, adopted by Olive
+					 and John Fairchild in 1876. </item>
+                     <item>Olive Oatman to relatives, 1858-1889.</item>
+                     <item> Lorenzo Oatman (brother) to relatives, 1852-1858.</item>
+                     <item>John B. Fairchild, 1879-1889.</item>
+                     <item>Others, 1850's-1866.</item>
+                     <item>Olive Oatman's Return," by A. L. Kroeber. 
+					 <title render="italic" linktype="simple">Kroeber Anthropological Society
+						Papers,</title> No. 4, Berkeley, 1951.</item>
+                     <item>E.J. Pettid's list of tasks. 
+					 <date era="ce" calendar="gregorian">No Date</date>
+                     </item>
+                     <item>E.J. Pettid's registered envelope. 
+					 <date era="ce" calendar="gregorian">No Date</date>
+                     </item>
+                  </list>
+               </scopecontent>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Series IV: Photographs, 
+				<unitdate era="ce" calendar="gregorian">ca. 1851-1960</unitdate>
+               </unittitle>
+            </did>
+            <scopecontent>
+               <p>25 photographs, 5 sets of negatives.</p>
+            </scopecontent>
+            <c02 level="file">
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder">7</container>
+                  <unittitle>Photographs 
+				  <unitdate era="ce" calendar="gregorian">ca. 1851-1960</unitdate>
+                  </unittitle>
+               </did>
+               <scopecontent>
+                  <p>Includes: </p>
+                  <list>
+                     <item>E.J. Pettid. 
+					 <date era="ce" calendar="gregorian">ca. 1960</date>
+                     </item>
+                     <item>Negatives, 35mm. 
+					 <date era="ce" calendar="gregorian">No Date</date>
+                     </item>
+                     <item>Insignias of original photographers. 
+					 <date era="ce" calendar="gregorian">No Date</date>
+                     </item>
+                     <item>Family: (copies of photographs, and a few originals) of
+					 Olive Oatman, John B. Fairchild, various family members (including their
+					 adopted daughter), ca. 1850-1924.</item>
+                     <item>Miscellaneous: includes the Fairchild home in Sherman,
+					 Texas; grave headstones of Olive and John B. Fairchild; J.W. Strode and G.W.P.
+					 Hunt at Arizona grave site, 1927; and a color photograph of a beaded handbag
+					 made by Olive Oatman. 
+					 <date era="ce" calendar="gregorian">1927, No Date</date>
+                     </item>
+                     <item>Three unidentified men. 
+					 <date era="ce" calendar="gregorian">No Date</date>
+                     </item>
+                     <item>Three photographs, one of Dr. Hewitt and two of Dr. Le
+					 Conte, with negatives. 
+					 <date era="ce" calendar="gregorian">No Date</date>
+                     </item>
+                  </list>
+               </scopecontent>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

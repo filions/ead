@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+ audience="internal" id="a0"> 
+	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special
+		Collections//text(US::AzU::Papers of John Masefield)//en""UAMS050.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper> Papers of John Masefield,
+	 		<date normal="1905/1911" era="ce" calendar="gregorian" certainty="approximate">1905-1911</date>
+	 		</titleproper> 
+	 	<titleproper type="filing" altrender="nodisplay">Papers of John Masefield</titleproper>
+	 	<author>Processed by TST.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date normal= "2013" era= "ce" calendar = "gregorian">; 2013</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by George L. Apodaca. 
+  		<date era="ce" encodinganalog="date" normal="20111004">November 18, 2013</date></creation> 
+	 <langusage>Finding aid is in<language> English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+  	<titleproper>Papers of John Masefield,<date era= "ce" calendar= "gregorian">1905-1911</date></titleproper> 
+	 <num>Collection Number: MS 050</num> 
+  	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by: </label> 
+		  <item>TST</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>April 2013</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>George L. Apodaca</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 20013. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name:"> Papers of John Masefield
+		<unitdate type="inclusive" label="Dates:" normal="1905/1911">1905-1911</unitdate></unittitle>	 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	 repositorycode="AzU" countrycode="us">MS 050</unitid> 
+	 <origination label="Creator:"> 
+		<persname source="lcnaf" encodinganalog="100">Masefield, John, 1878-1967</persname> </origination> 
+  	<abstract label="Abstract:">Correspondence, mostly between John Masefield and his literary agent, 
+  		C. F. Cazenove, related to the sale and publication of his writing, 1906-1911.</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent>0.2 Linear feet</extent></physdesc>	 
+	 <repository label="Repository:"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository>
+  	<langmaterial>Materials in <language encodinganalog="546" langcode="eng"
+  		scriptcode="Latin">English</language></langmaterial>
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+  	<p>There are no restrictions on this collection.</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>Papers of John Masefield (MS 050).  Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+	<acqinfo encodinganalog="541">
+		<head>Provenance</head>
+		<p>This collection was a gift from Thomas Edward Hanley</p>
+	</acqinfo>
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+  	<p>John Masefield was a British poet and writer of novels, non-fiction, children’s fiction, 
+  		and plays. He served as English Poet Laureate from 1930 until his death in 1967.</p> 
+  </bioghist> 
+  <arrangement id="a4" encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+	 <p>This collection is organized into one series.</p>	 
+	 <list> 
+	 	<item>Series I:  Correspondence and printed materials,
+		  <unitdate>1905-1911</unitdate></item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>Three unbound volumes of correspondence, dated 1906 to 1911, between Masefield and various people 
+  		concerning his writings. The majority are handwritten, signed letters and postcards from Masefield 
+  		to his literary agent, C. F. Cazenove. Cazenove’s typescript replies are initialed carbon copies. 
+  		Other correspondence is with theatrical producers such as Mme. Meta Illing of the English Theater 
+  		of Berlin, and Curtis Brown of the New Theatre, in New York. These letters regard the production 
+  		of Masefield’s plays, as well as the publication or translation of his works. Correspondence with 
+  		Henry Coates concerns his desire to set a Masefield poem to music. Miscellaneous items include a 
+  		1905 newspaper clipping about whippet racing, and a draft prospectus for the formation of the 
+  		Scottish Playgoers, Ltd. Typed extracts of the letters are also present.</p> 
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+			<persname encodinganalog="600" source="lcnaf" role="subject">Masefield, John, 1878-1967—Correspondence</persname> </item> 
+	 </list> 
+  	<list> 
+  		<item> 
+  			<persname encodinganalog="600" source="lcnaf" role="subject">Cazenove, C. F.—Correspondence</persname> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<persname encodinganalog="600" source="lcnaf" role="subject">Coates, Henry, 1880-1963—Correspondence</persname> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<persname encodinganalog="600" source="lcnaf" role="subject">Illing, Meta—Correspondence</persname> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<persname encodinganalog="600" source="lcnaf" role="subject">Brown, Curtis, b. 1866—Correspondence</persname> </item> 
+  	</list>
+	 <list> 
+		<item> 
+			<subject encodinganalog="650" source="lcsh">Theater—England—History—20th Century</subject> </item> 
+	 </list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Theater—United States—History—20th Century</subject> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Theater—Germany—History—20th Century</subject> </item> 
+  	</list>
+	 
+	 <list> 
+		<item> 
+		  <genreform encodinganalog="655" source="tgm">Correspondence</genreform> </item> 
+	 </list> 
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+		  <unittitle> Series I: Correspondence and printed materials, 
+			 <unitdate type="inclusive">1905-1911</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="Volume">1</container> 
+		  	<unittitle>Correspondence between Masefield and various notables. Including seventy-four A.L.S. by Masefield</unittitle>
+		  	<unitdate>1906-1908</unitdate>
+		  </did> 
+		</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="Volume">2</container> 
+	 			<unittitle>Correspondence between Masefield and various notables. Including one hundred and one  A.L.S. by Masefield</unittitle>
+	 			<unitdate>1909-1910</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="Volume">3</container> 
+	 			<unittitle>Correspondence between Masefield and various notables. Including forty-nine A.L.S. by Masefield</unittitle>
+	 			<unitdate>1911</unitdate>
+	 		</did> 
+	 	</c02> 
+	 </c01> 
+  </dsc> 
+</archdesc></ead>

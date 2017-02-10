@@ -1,0 +1,485 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+ audience="internal" id="a0"> 
+	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special
+		Collections//text(US::AzU::The Celeste Gonzalez de Bustamante and Jeannine E. Relly Oral History Collection)//en""UAMS533.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper encodinganalog="title">The Celeste Gonzalez de Bustamante and Jeannine E. Relly Oral History Collection,
+	 		<date normal="2013/2014" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">2013-2014</date>
+	 		</titleproper>
+	 	<titleproper type="filing" altrender="nodisplay">Gonzalez de Bustamante, Celeste and Relly, Jeannine E. Oral History Collection
+	 		</titleproper>
+	 	<author>Processed by Trent S. Purdy.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date normal= "2014" era= "ce" calendar = "gregorian">; 2014</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Trent S. Purdy. 
+  		<date era="ce" encodinganalog="date" normal="20141110">11-10-2014</date></creation>
+	 <langusage>Finding aid is in<language> English.</language></langusage>
+  	<descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+  </profiledesc> 
+</eadheader> 
+
+	<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name:">The Celeste Gonzalez de Bustamante and Jeannine E. Relly Oral History Collection,
+  		<unitdate type="inclusive" label="Dates:" normal="2013/2014">2013-2014</unitdate></unittitle> 
+	 <unitid label="Collection Number:" encodinganalog="MS 533"
+	 	repositorycode="AzU" countrycode="us">MS 533</unitid> 
+	 <origination label="Creator:"> 
+	 	<persname source="lcnaf" encodinganalog="100">Gonzalez de Bustamante, Celeste</persname> </origination> 
+  	<origination label="Creator:"> 
+  		<persname source="lcnaf" encodinganalog="100">Relly, Jeannine E.</persname> </origination>
+  	<abstract label="Abstract:">This collection is comprised of mp3 files of oral histories with journalists, activists, and dignitaries from the United States and Mexico. They discuss the environment of reporting and state of journalistic freedom in the northern and southern states of Mexico, including Sonora, Chihuahua, Coahuila, Nuevo Leon, Tamaulipas, Veracruz, Michoacan and Guerrero.</abstract> 
+  	<physdesc encodinganalog="300$a" label="Physical Description:"><extent>3.68 GB, 33 interviews</extent></physdesc>	 
+	 <repository label="Repository:"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository>
+  	<langmaterial>Materials are in <language encodinganalog="546" langcode="eng"
+  		scriptcode="Latin">English.</language><language encodinganalog="546" langcode="spa"
+  			scriptcode="Latin">and Spanish.</language></langmaterial>
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+  	<p>There are no restrictions on this collection.</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>The Celeste Gonzalez de Bustamante and Jeannine E. Relly Oral History Collection (MS 533). Special
+  		Collections, University of Arizona Libraries.</p>
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+  	<p>Celeste Gonzalez de Bustamante is an Associate Professor in the School of Journalism at the University of Arizona where she teaches courses on reporting on the U.S. Mexico borderlands and Latin America amongst other subjects.  She is also head of the Border Journalism Network / La Red de Periodistas de la Frontera, and head of the International Communication Division of the Association for Journalism and Mass Communication.  Her research includes the history and development of television news and media in Latin America and violence against journalists in Mexico.</p><p>Jeannine E. Relly is an assistant professor in the University of Arizona's School of Journalism as well as an affiliated faculty member with the Center for Latin American Studies.  Her research is centered on government information policy and press-state relations, democratic institutions, freedom of expression, information access within countries in conflict and political transition, and formal and informal institutions related to the policy issue of public corruption.</p><p>Gonzalez de Bustamante and Relly collected the oral histories that comprise this collection as part of research study to collect information documenting the state of journalism in Mexico.  Journalists, activists, and dignitaries from Mexico and the United States were approached to participate in the study.  A number of the interviews held within this collection were used as primary source materials for an article that focuses on the decline of freedom of journalism and freedom of expression within Mexico and the threat of violence towards journalists authored by Gonzalez de Bustamante and Relly published in the International Journal of Press/Politics titled &quot;Silencing Mexico: A Study of Influences on Journalists in the Northern States&quot;. This project was funded in part by the Confluencenter for Creative Inquiry at the University of Arizona</p>
+  </bioghist>  
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>This collection is comprised of mp3 files of oral histories with Mexican and U.S. journalists, activists, and dignitaries that discuss the state of journalism within Mexico, specifically the decline of freedom of the press and freedom of expression in that country's northern states.  The majority of the interviews were conducted in person on location in Mexico City, Mexico and San Antonio, TX, with a few conducted via telephone or Skype.  Common themes explored in these interviews include violence and crimes committed against journalists, the decline of freedom of journalism and freedom of expression in Mexico, the work being done by organizations to combat these issues, and the state of journalism under the administration of President Felipe Calderón Hinojosa.  Other themes discussed are the internal and external pressures facing the journalism profession, including lack of training and pressure from the government to self-censor.  The majority of materials were conducted in Spanish with a few conducted in English.</p> 
+  </scopecontent> 
+		<relatedmaterial><p>Lawrence Gipe Operation Streamline Sketches (MS 524)</p><p><extref linktype="simple" href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/" actuate= "onload" show="new" title="The Documented Border Digital Exhibit"></extref></p></relatedmaterial>
+  	<controlaccess>
+  		<head>Access Terms</head>
+  		<list type="simple">
+  			<item>
+  				<persname encodinganalog="600">Calderón Hinojosa, Felipe, 1962-.</persname>
+  			</item>
+  			<item>
+  				<corpname encodinganalog="610">United Nations Office on Drugs and Crime.</corpname>
+  			</item>
+  			<item>
+  				<corpname encodinganalog="610">National Association of Hispanic Journalists (U.S.).</corpname>
+  			</item>
+  			<item>
+  				<corpname encodinganalog="610">Investigative Reporters and Editors, Inc.</corpname>
+  			</item>
+  			<item>
+  				<subject encodinganalog="650">Censorship--Mexico--History—21st century.</subject>
+  			</item>
+  			<item>
+  				<subject encodinganalog="650">Freedom of expression—Mexico.</subject>
+  			</item>
+  			<item>
+  				<subject encodinganalog="650">Freedom of the press--Mexico—History--21st century.</subject>
+  			</item>
+  			<item>
+  				<subject encodinganalog="650">Journalism--Mexico—21st century.</subject>
+  			</item>
+  			<item>
+  				<subject encodinganalog="655">Oral history--Mexico--Ciudad Juarez.</subject>
+  			</item>
+  			<item>
+  				<subject encodinganalog="655">Oral history—Texas—San Antonio.</subject>
+  			</item>
+  			<item>
+  				<subject encodinganalog="656">Journalists—Mexico--21st century—Interviews.</subject>
+  			</item>
+  			<item>
+  				<subject encodinganalog="656">Journalists--Mexico--Crimes against.</subject>
+  			</item>
+  			<item>
+  				<subject encodinganalog="656">Journalists--Death--Mexico.</subject>
+  			</item>
+  			<item>
+  				<subject encodinganalog="656">Journalists--Education.</subject>
+  			</item>
+  			<item>
+  				<subject encodinganalog="656">Journalists--Mexico--Social conditions.</subject>
+  			</item>
+  			<item>
+  				<subject encodinganalog="656">Journalists--Legal status, laws, etc.--Mexico.</subject>
+  			</item>
+  			<item>
+  				<subject encodinganalog="656">Journalists--Mexico--Attitudes.</subject>
+  			</item>
+  			<item>
+  				<subject encodinganalog="656">Journalists--Professional ethics--Mexico.</subject>
+  			</item>
+  			<item>
+  				<subject encodinganalog="650">Drug traffic--Mexico.</subject>
+  			</item>
+  			<item>
+  				<subject encodinganalog="650">Human rights--Mexico.</subject>
+  			</item>
+  			<item>
+  				<subject encodinganalog="650">Human rights advocacy--Mexico.</subject>
+  			</item>
+  			<item>
+  				<subject encodinganalog="650">Women journalists--Mexico.</subject>
+  			</item>
+  			<item>
+  				<subject encodinganalog="650">Women journalists--Mexico--Interviews.</subject>
+  			</item>
+  		</list>
+  	</controlaccess>
+  
+<dsc type="combined" id="a23"> 
+	 <head>Container List</head>
+		<c01 level="file"> 
+			<did> 
+				<container type="interview">1</container> 
+				<unittitle>Alves, Rosental,</unittitle>
+				<unitdate>2013 September 13</unitdate>
+				<dao linktype="simple" href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/192" show="new" title="Listen to interview (mp3)"></dao>
+				<physdesc>Length: 0:53:03</physdesc>
+			</did>
+			<scopecontent><p>Interview was conducted in English by Jeannine Relly via Skype.  Alves is director of the Knight Center for Journalism in the Americas at the University of Texas.  Within the interview Alves discusses the Knight Center's work in Mexico, describing the situation in Mexico as a crisis of violence.  Also discussed is the need to assist journalists with their safety and the work the organization does with journalists to advocate for better policy to protect journalists and freedom of expression.</p></scopecontent>
+		</c01>
+	<c01 level="file"> 
+		<did> 
+			<container type="interview">2</container> 
+			<unittitle>Borbolla Moreno, Laura Angelina,</unittitle>
+			<unitdate>2014 January 27</unitdate>
+			<physdesc>Length:Length: 0:30:47</physdesc>
+		</did>
+		<scopecontent><p>Interview was conducted in Spanish by Celeste Gonzalez de Bustamante in Mexico City, Mexico.  Borbolla Moreno is the special prosecutor on crimes against journalists and freedom of expression, La Fiscalia Especial para la Atención de Delitos cometidos en contra de la Libertad de Expresión (FEADLE), in Mexico.  Within the interview Borbolla argues for the need to protect journalists that are constantly threatened while seemingly arguing for patience as well.</p></scopecontent>
+	</c01> 
+	<c01 level="file"> 
+		<did> 
+			<container type="interview">3</container> 
+			<unittitle>Cardona Galindo, Luis Antonio,</unittitle>
+			<unitdate>2013 June 06</unitdate>
+			<dao linktype="simple" href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/183" show="new" title="Listen to interview (mp3)"></dao>
+			<physdesc>Length: 1:11:19</physdesc>
+		</did>
+		<scopecontent><p>Interview was conducted in Spanish by Celeste Gonzalez de Bustamante in Mexico City, Mexico.  Within the interview Cardona Galindo tells his story of being kidnapped in Juarez, Chihuahua, Mexico and his new efforts as a founder of Diario 19, a small organization to protect Journalists.</p></scopecontent>
+	</c01>
+	<c01 level="file"> 
+		<did> 
+			<container type="interview">4</container> 
+			<unittitle>De la Fuente, Mauro,</unittitle>
+			<unitdate>2014 June 28</unitdate>
+			<physdesc>Length: 0:19:45</physdesc>
+		</did>
+		<scopecontent><p>Interview was conducted in Spanish by Celeste Gonzalez de Bustamante in Brownsville, TX.  Mauro de la Fuente is a journalist commissioned by a Monterrey newspaper to cover the south of Texas and North of Tamaulipa.  Within the interview he talks about how difficult it is to report the news in this most dangerous part of Mexico by explaining how Tamaulipas has been divided between the Zetas and the Gulf Cartel.  He also talks about the government project aiming to trap 12 crime heads and how doing so has had the consequence of fracturing larger groups into small and harder to control cells. He also discusses how social media has been utilized to fill the gap left by other media unable to cover the news due to threats and terror.</p></scopecontent>
+	</c01> 
+	<c01 level="file"> 
+		<did> 
+			<container type="interview">5</container> 
+			<unittitle>De la Rosa, Manuel,</unittitle>
+			<unitdate>2014 June 28</unitdate>
+			<dao linktype="simple" href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/193" show="new" title="Listen to interview (mp3)"></dao>
+			<physdesc>Length: 0:37:04</physdesc>
+		</did>
+		<scopecontent><p>Interview was conducted in English by Jeannine Relly in Brownsville, TX.  Manuel de la Rosa is a reporter for the High School Sports Magazine.  Within the interview he talks about his career along the border and how the situation has changed over the years by describing the kind of crimes taking place in the area and how it is hard for journalists to  trust their sources since they lie to protect their lives.</p></scopecontent>
+	</c01>
+	<c01 level="file"> 
+		<did> 
+			<container type="interview">6</container> 
+			<unittitle>Delgado Escalante, Roberto,</unittitle>
+			<unitdate>2014 June 10</unitdate>
+			<dao linktype="simple" href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/174" show="new" title="Listen to interview (mp3)"></dao>
+			<physdesc>Length: 0:42:31</physdesc>
+		</did>
+		<scopecontent><p>Interview was conducted in Spanish by Celeste Gonzalez de Bustamante in Ciudad Juárez, Chihuahua, Mexico.  Roberto Delgado is the president of the Association of Journalists of the City of Juárez (APCJ).  Within the interview he talks about his organization and its mission to defend the rights of journalists.  Also discussed is his efforts to organize community projects and professional development workshops, the quality of college journalism programs, his experiences with local police, and how the APCJ differs from other journalist organizations.  The interview concludes with a discussion about his ties with the government (which cosigns life insurance policies for APCJ), and with international organizations (NGOs).</p></scopecontent>
+	</c01>
+	<c01 level="file"> 
+		<did> 
+			<container type="interview">7</container> 
+			<unittitle>Deandar Martinez, Ninfa,</unittitle>
+			<unitdate>2014 June 24</unitdate>
+			<dao linktype="simple" href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/194" show="new" title="Listen to interview (mp3)"></dao>
+			<physdesc>Length: 1:06:00</physdesc>
+		</did>
+		<scopecontent><p>Interview was conducted in Spanish by Celeste Gonzalez de Bustamante in Ciudad Juárez, Chihuahua, Mexico.  Ninfa Deandar Martinez is the Director General of El Mañana newspaper in Nuevo Laredo.  Within the interview she discusses her father, who was the founder of the El Mañana newspaper over 90 years ago, and about her upbringing and that of her children.  She also discusses is the murder of her editor, Roberto Mora García, and the suspicious death of her youngest son.  The interview concludes with Deandar reminiscing about past historical events, and discussing corrupt politicians, and denouncing drug traffickers as the &quot;black hand&quot; in Mexico.</p></scopecontent>
+	</c01>
+	<c01 level="file"> 
+		<did> 
+			<container type="interview">8</container> 
+			<unittitle>Esparza Garcia, Salvador,</unittitle>
+			<unitdate>2014 June 09</unitdate>
+			<dao linktype="simple" href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/173" show="new" title="Listen to interview (mp3)"></dao>
+			<physdesc>Length: 0:55:13</physdesc>
+		</did>
+		<scopecontent><p>Interview was conducted in Spanish by Celeste Gonzalez de Bustamante in Ciudad Juárez, Chihuahua, Mexico.  Salvador Esparza is the editor in chief of the Periódico Norte.  Within the interview he describes the violent crisis suffered by the city of Juarez in 2008-2012, comparing it with the current lower levels and with the alarming violence now suffered in the state of Tamaulipas.  Also discussed are the challenges that journalism faces in the city, including lack of security and freedom of press/speech, and the effects that the extreme violence has had on the population in general, including mention of the recent wave of murder-suicides by mothers against their young children.</p></scopecontent>
+	</c01>
+	<c01 level="file"> 
+		<did> 
+			<container type="interview">9</container> 
+			<unittitle>Flores, Balbina,</unittitle>
+			<unitdate>2014 February 25</unitdate>
+			<physdesc>Length: 1:10:13</physdesc>
+		</did>
+		<scopecontent><p>Interview was conducted in Spanish by Celeste Gonzalez de Bustamante in Mexico City, Mexico.  Within the interview Flores discusses her work as a representative of Reporters Without Borders or Reporteros Sin Fronteras and their challenges in defending freedom of expression in Mexico.  Flores also discusses issue of impunity in Mexico and how the government has not done enough to help journalists and the violence in the country, citing specifically the lack of work done by the new office of the special prosecutor which aims to investigate and protect journalists and freedom of expression.</p></scopecontent>
+	</c01>
+	<c01 level="file"> 
+		<did> 
+			<container type="interview">10</container> 
+			<unittitle>Gallegos Rodriguez, Rocio,</unittitle>
+			<unitdate>2014 June 09</unitdate>
+			<dao linktype="simple" href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/195" show="new" title="Listen to interview (mp3)"></dao>
+			<physdesc>Length: 0:54:19</physdesc>
+		</did>
+		<scopecontent><p>Interview was conducted in Spanish by Celeste Gonzalez de Bustamante in Ciudad Juárez, Chihuahua, Mexico.  Rocio Gallegos is the editor-in-chief at El Diario de Juarez and cofounder for the Juarez Journalist Network.  Within the interview she discusses her experiences during the 2008-2012 wave of violence, describing the efforts of support and professional development taken on by the Journalist Network.  She highlights the challenges faced in the journalism profession, the preponderance of female leadership in journalist organizations, and the lack of follow-through on the part of international groups (NGOs) in collaborative projects during the crisis in Juarez.</p></scopecontent>
+	</c01>
+	<c01 level="file"> 
+		<did> 
+			<container type="interview">11</container> 
+			<unittitle>Gomez Silva, Maria Idalia,</unittitle>
+			<unitdate>2013 June 22</unitdate>
+			<physdesc>Length: 1:10:23</physdesc>
+		</did>
+		<scopecontent><p>Interview was conducted in Spanish by Celeste Gonzalez de Bustamante in San Antonio, TX.  Topics covered by journalist Maria Idalia Gomez within the interview include institutional weakness in certain parts of Mexico particularly in small and border towns that have high rates of poverty and corruption and violence within these communities.  She also discusses Mexico's journalistic culture and examines the threats to freedom of expression and freedom of the press within the country.</p></scopecontent>
+	</c01>
+	<c01 level="file"> 
+		<did> 
+			<container type="interview">12</container> 
+			<unittitle>Jimenez, Hugo Hector,</unittitle>
+			<unitdate>2014 June 27</unitdate>
+			<dao linktype="simple" href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/191" show="new" title="Listen to interview (mp3)"></dao>
+			<physdesc>Length: 1:16:57</physdesc>
+		</did>
+		<scopecontent><p>Interview was conducted in Spanish by Celeste Gonzalez de Bustamante in Brownsville, TX.  Hector Hugo Jimenez is the general editor in chief for Verbo Libre, along with its free morning paper, Media Hora.  Within the interview he talks in detail about his work as part of Heriberto Deandar Robinson's editorial team.  Jimenez also describes how border journalism functions, censuring itself and publishing news that have been given green light by the dominant groups of the area.</p></scopecontent>
+	</c01>
+	<c01 level="file"> 
+		<did> 
+			<container type="interview">13</container> 
+			<unittitle>Kenny, Samuel,</unittitle>
+			<unitdate>2014 February 25</unitdate>
+			<dao linktype="simple" href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/182" show="new" title="Listen to interview (mp3)"></dao>
+			<physdesc>Length: 1:39:05</physdesc>
+		</did>
+		<scopecontent><p>Interview was conducted in Spanish by Celeste Gonzalez de Bustamante in Mexico City, Mexico.  Kenny discusses his work as director of the Mexican Commission of Human Rights and describes how defending human rights, specifically freedom of expression, in certain areas of Mexico has become difficult.</p></scopecontent>
+	</c01>
+	<c01 level="file"> 
+		<did> 
+			<container type="interview">14</container> 
+			<unittitle>La Rue, Frank,</unittitle>
+			<unitdate>2014 February 25</unitdate>
+			<physdesc>Length: 0:43:42</physdesc>
+		</did>
+		<scopecontent><p>Interview was conducted in English by Jeannine Relly in Arlington, Virginia.</p></scopecontent>
+	</c01>
+	<c01 level="file"> 
+		<did> 
+			<container type="interview">15</container> 
+			<unittitle>Lagunes Huerta, Lucia,</unittitle>
+			<unitdate>2014 May 7</unitdate>
+			<physdesc>Length: 1:28:19</physdesc>
+		</did>
+		<scopecontent><p>Interview was conducted in Spanish by Celeste Gonzalez de Bustamante in Mexico City, Mexico.  Within the interview Huerta discusses her organization CIMAC Center for Communication and Information about Women) and its challenges in Mexico and the challenges journalists encounter in Mexico with emphasis given to female journalists in particular.</p></scopecontent>
+	</c01>
+	<c01 level="file"> 
+		<did> 
+			<container type="interview">16</container> 
+			<unittitle>Lauría, Carlos,</unittitle>
+			<unitdate>2013 October 15</unitdate>
+			<dao linktype="simple" href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/179" show="new" title="Listen to interview (mp3)"></dao>
+			<physdesc>Length: 0:58:39</physdesc>
+		</did>
+		<scopecontent><p>Interview was conducted in English by Jeannine Relly via telephone.  Carlos Lauria is a journalist and the Senior Americas Program Coordinator for the Committee to Protect Journalists (CPJ).  Within the interview he describes his and CPJ’s efforts in Mexico by protecting journalists who are being threatened and silenced.</p></scopecontent>
+	</c01>
+	<c01 level="file"> 
+		<did> 
+			<container type="interview">17</container> 
+			<unittitle>Leos Castañón, Araly,</unittitle>
+			<unitdate>2014 June 9</unitdate>
+			<dao linktype="simple" href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/171" show="new" title="Listen to interview (mp3)"></dao>
+			<physdesc>Length: 0:32:28</physdesc>
+		</did>
+		<scopecontent><p>Interview was conducted in Spanish by Celeste Gonzalez de Bustamante in Ciudad Juárez, Chihuahua.  Araly Casteñón is a journalist and a co-founder of the Juarez Journalist Network.  Within the interview she discusses her organization and how it differs from the Journalists of Juarez Association. She shares her goals to provide professional development to journalists in the region and comments on the role that women play in her profession. She also discusses the cycle of violence (feminicides) and the negative effect that advertisement contracts have on the freedom of expression.</p></scopecontent>
+	</c01>
+	<c01 level="file"> 
+		<did> 
+			<container type="interview">18</container> 
+			<unittitle>Lerma, Enrique,</unittitle>
+			<unitdate>2014 June 28</unitdate>
+			<physdesc>Length: 0:48:30</physdesc>
+		</did>
+		<scopecontent><p>Interview was conducted in Spanish by Celeste Gonzalez de Bustamante in Brownsville, TX.  Enrique Lerma is a reporter and cameraman for Fox News 48 (Brownsville, TX).  Within the interview he talks about his childhood and his experiences in Matamoros, which he calls &quot;the cradle of drug trafficking.&quot;  Lerma describes the challenges and restrictions that journalists in the area must endure, the safety precautions he takes when on the job, and the link between jailed criminals and border violence.  Lerma also discusses the preference given to male journalists over female journalists and gives his opinion on the climate of journalism enjoyed under President Peña Nieto.</p></scopecontent>
+	</c01>
+	<c01 level="file"> 
+		<did> 
+			<container type="interview">19</container> 
+			<unittitle>Martínez Sánchez, Omar Raúl,</unittitle>
+			<unitdate>2014 January 30</unitdate>
+			<physdesc>Length: 0:57:20</physdesc>
+		</did>
+		<scopecontent><p>Interview was conducted in Spanish by Celeste Gonzalez de Bustamante in Mexico City, Mexico.  In the interview he discusses his foundation, Manuel Buendía, and discusses the risks and struggles that journalists in Mexico go through as well as what certain organizations need to improve on in order to help journalists and freedom of expression.</p></scopecontent>
+	</c01>
+	<c01 level="file"> 
+		<did> 
+			<container type="interview">20</container> 
+			<unittitle>Mazzitelli, Antonio Luigi,</unittitle>
+			<unitdate>2013 November 20</unitdate>
+			<physdesc>Length: 0:55:01</physdesc>
+		</did>
+		<scopecontent><p>Interview was conducted in English by Celeste Gonzalez de Bustamante in Mexico City, Mexico.  Antonio Mazzitelli is a representative of the United Nations Office on Drugs and Crime (UNODC) in Mexico.  In the interview he explains how the UNODC has been observing and analyzing the violence that organized crime organizations have been committing in México.</p></scopecontent>
+	</c01>
+	<c01 level="file"> 
+		<did> 
+			<container type="interview">21</container> 
+			<unittitle>Montiel, Aimée Vega, Part 1,</unittitle>
+			<unitdate>2013 October 28</unitdate>
+			<physdesc>Length: 0:39:34</physdesc>
+		</did>
+		<scopecontent><p>Interview was conducted in Spanish by Celeste Gonzalez de Bustamante in Mexico City, Mexico.   Within the interview Montiel discusses her organization AMEDI (Mexican Association of the Right to Information) which specialize in laws and legislation in Mexico that are involved in freedom of expression, press and communication.  Particular attention is given to AMEDI’s involvement in the laws and reforms on telecommunications and media sectors in Mexico.</p></scopecontent>
+	</c01>
+	<c01 level="file"> 
+		<did> 
+			<container type="interview">22</container> 
+			<unittitle>Montiel, Aimée Vega, Part 2,</unittitle>
+			<unitdate>2013 October 28</unitdate>
+			<physdesc>Length: 0:23:41</physdesc>
+		</did>
+		<scopecontent><p>Interview was conducted in Spanish by Celeste Gonzalez de Bustamante in Mexico City, Mexico.  Within the second part of this interview Aimee Vega Montiel continues to discuss communications and media policy in Mexico as well as the roles of women in media and journalism, addressing the violence against female journalists in particular.</p></scopecontent>
+	</c01>
+	<c01 level="file"> 
+		<did> 
+			<container type="interview">23</container> 
+			<unittitle>Olsen, Lise,</unittitle>
+			<unitdate>2013 October 03</unitdate>
+			<dao linktype="simple" href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/171" show="new" title="Listen to interview (mp3)"></dao>
+			<physdesc>Length: 0:55:41</physdesc>
+		</did>
+		<scopecontent><p>Interview was conducted in English by Jeannine Relly via telephone.  Lise Olsen discusses her work as a reporter and a member of the Investigative Reporter and Editors (IRE).  Also within the interview she discusses the works of other journalists and activists and the various obstacles they and their organizations face in Mexico such as lack of funding and unity.</p></scopecontent>
+	</c01>
+	<c01 level="file"> 
+		<did> 
+			<container type="interview">24</container> 
+			<unittitle>Rábago, José Omar,</unittitle>
+			<unitdate>2014 March 05</unitdate>
+			<physdesc>Length: 1:00:06</physdesc>
+		</did>
+		<scopecontent><p>Interview was conducted in Spanish by Celeste Gonzalez de Bustamante in Mexico City, Mexico.  Jose Omar Rabago is the the executive director of CENCOS an organization whose mission is to defend freedom of expression in Mexico.  Within the interview Rabago discusses the efforts of CENCOS and differences of operations with other organizations in Mexico such as Center to Protect Journalists (CPJ) and Reporters without Borders as well as their flaws.</p></scopecontent>
+	</c01>
+	<c01 level="file"> 
+		<did> 
+			<container type="interview">25</container> 
+			<unittitle>Ramirez Salazar, Dario,</unittitle>
+			<unitdate>2013 November 22</unitdate>
+			<dao linktype="simple" href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/178" show="new" title="Listen to interview (mp3)"></dao>
+			<physdesc>Length: 0:55:06</physdesc>
+		</did>
+		<scopecontent><p>Interview was conducted in Spanish by Celeste Gonzalez de Bustamante in Mexico City, Mexico.  Within the interview Ramirez discusses his organization, Articulo 19 and their biggest challenges such as, protection for journalists and transparency.  Ramirez also discusses the issue of freedom of expression and how journalists are being silenced due to the violence brought to them and the fact that impunity has become more common than ever in Mexico.</p></scopecontent>
+	</c01>
+	<c01 level="file"> 
+		<did> 
+			<container type="interview">26</container> 
+			<unittitle>Reveles Acosta, Gustavo,</unittitle>
+			<unitdate>2013 October 29</unitdate>
+			<dao linktype="simple" href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/180" show="new" title="Listen to interview (mp3)"></dao>
+			<physdesc>Length: 0:26:12</physdesc>
+		</did>
+		<scopecontent><p>Interview was conducted in English by Jeannine Relly via telephone.  Within the interview Gustavo Reveles Acosta, discusses in detail his efforts to protect journalists in Juarez and the journalist community in El Paso, TX and Juarez.  Also discussed within the interview is the struggle of journalists who seek or are granted political asylum.</p></scopecontent>
+	</c01>
+	<c01 level="file"> 
+		<did> 
+			<container type="interview">27</container> 
+			<unittitle>Salcido Flores, Guadalupe,</unittitle>
+			<unitdate>2014 June 10</unitdate>
+			<dao linktype="simple" href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/172" show="new" title="Listen to interview (mp3)"></dao>
+			<physdesc>Length: 0:49:57</physdesc>
+		</did>
+		<scopecontent><p>Interview was conducted in Spanish by Celeste Gonzalez de Bustamante in Ciudad Juárez, Chihuahua.  Guadalupe Salcido is the Editor in Chief and Information Chief for Periodico del Norte.  Within the interview she discusses her beginnings in journalism, the effects that the violence and consequent economic crisis has had on journalism and the community in general (including personally), and how the community of Juárez and journalists alike are coping with the tension.  Also discussed is the way women journalists manage to perform their job in the region.</p></scopecontent>
+	</c01>
+	<c01 level="file"> 
+		<did> 
+			<container type="interview">28</container> 
+			<unittitle>Sierra, Jorge Luis, Part 1,</unittitle>
+			<unitdate>2013 June 22</unitdate>
+			<physdesc>Length: 0:47:03</physdesc>
+		</did>
+		<scopecontent><p>Interview was conducted in Spanish by Celeste Gonzalez de Bustamante in San Antonio, TX.  Jorge Luis Sierra is a journalist and Knight Fellow.  Within the interview he describes the difficulties of the life of journalist especially in the northern part of Mexico along the border such as, low salary, lack of education/knowledge as well as insecurity.  Also discussed in the interview is his work in training journalists who are vulnerable to violent attacks on security procedures especially on digital security.</p></scopecontent>
+	</c01>
+	<c01 level="file"> 
+		<did> 
+			<container type="interview">29</container> 
+			<unittitle>Sierra, Jorge Luis, Part 2,</unittitle>
+			<unitdate>2013 June 22</unitdate>
+			<physdesc>Length: 0:04:22</physdesc>
+		</did>
+		<scopecontent><p>Interview was conducted in Spanish by Celeste Gonzalez de Bustamante in San Antonio, TX.  In the second part of this interview he concludes his interview by discussing how journalists are bribed or make agreements; this is partly due to the fact that their salaries are extremely low.</p></scopecontent>
+	</c01>
+	<c01 level="file"> 
+		<did> 
+			<container type="interview">30</container> 
+			<unittitle>Timochenco, Miguel, Part 1,</unittitle>
+			<unitdate>2013 June 06</unitdate>
+			<physdesc>Length: 0:27:37</physdesc>
+		</did>
+		<scopecontent><p>Interview was conducted in Spanish by Celeste Gonzalez de Bustamante in San Antonio, TX.  Within the first part of the interview journalist Miguel Timochenco discusses his work covering politics, crime and corruption in Mexico as well as his experiences which includes his coverage of presidential elections in Mexico during the 1980's and the government’s efforts to censor the media.  Timochenco also discusses corruption within the government and media in Mexico as well as the atmosphere under President Peña Nieto.</p></scopecontent>
+	</c01>
+	<c01 level="file"> 
+		<did> 
+			<container type="interview">31</container> 
+			<unittitle>Timochenco, Miguel, Part 2,</unittitle>
+			<unitdate>2013 June 06</unitdate>
+			<physdesc>Length: 0:19:52</physdesc>
+		</did>
+		<scopecontent><p>Interview was conducted in Spanish by Celeste Gonzalez de Bustamante in San Antonio, TX.  Within the second part of the interview journalist Miguel Timochenco continues to discuss the danger and lack of protection for journalists in Mexico and argues that corruption and censorship in Mexico is common and has been prevalent for years.  He concludes the interview by discussing his thoughts on reporters around the border, the future of journalism.</p></scopecontent>
+	</c01>
+	<c01 level="file"> 
+		<did> 
+			<container type="interview">32</container> 
+			<unittitle>Trotti, Ricardo,</unittitle>
+			<unitdate>2013 October 08</unitdate>
+			<dao linktype="simple" href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/177" show="new" title="Listen to interview (mp3)"></dao>
+			<physdesc>Length: 1:00:59</physdesc>
+		</did>
+		<scopecontent><p>Interview was conducted in Spanish by Celeste Gonzalez de Bustamante via Skype.  Ricardo Trotti is a journalist, artist, and Press Freedom Director of the Inter American Press Association.  Within the interview he discusses the challenges in stopping the violence against journalists and freedom of expression and press in Mexico.  He also discusses the lack of unity and funding that organizations are currently enduring in Mexico and the lack of education and training available to journalists in Mexico.</p></scopecontent>
+	</c01>
+	<c01 level="file"> 
+		<did> 
+			<container type="interview">33</container> 
+			<unittitle>Turati, Marcela,</unittitle>
+			<unitdate>2013 June 22</unitdate>
+			<dao linktype="simple" href="http://speccoll.library.arizona.edu/online-exhibits/exhibits/show/documented-border/item/176" show="new" title="Listen to interview (mp3)"></dao>
+			<physdesc>Length: 1:39:20</physdesc>
+		</did>
+		<scopecontent><p>Interview was conducted in Spanish by Celeste Gonzalez de Bustamante in San Antonio, TX.  Marcela Turati is a journalist, human rights activist, and member of the Periodistas de a Pie organization.  Within the interview she describes the structural, security, political, economic, and cultural issues that journalists and the profession face in Mexico such as corruption and a lack of proper education.  Turati also discusses her organization, Periodistas de a Pie, and how social media plays an important role in organizing, protesting and raising awareness.</p></scopecontent>
+	</c01>
+  </dsc> 
+</archdesc></ead>

@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?filetitle Southwest Environment Services Records?>
+<ead relatedencoding="MARC21">
+<eadheader audience="internal" findaidstatus="edited-full-draft"
+ langencoding="iso639-2b">
+	<eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
+		Special Collections//text(US::AzU::Southwest Environment Service records)//en"
+	 "UAMS269.xml"</eadid>
+  <filedesc>
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Southwest Environment Service
+		  records, 
+		  <date>1975-1988</date></titleproper>
+		<author encodinganalog="245$c">Inventory prepared by Roger Myers</author>
+	 </titlestmt>
+	 <publicationstmt>
+	 	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+		<address>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address>
+		<date>&#x00A9; 2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p>
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc>
+	 <creation encodinganalog="500">Finding aid encoded by Jan Marie Payne 
+		<date>October 3, 2001</date></creation> 
+	 <langusage>Finding aid is in<language langcode="en"
+		encodinganalog="546">English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter>
+  <titlepage>
+	 <titleproper encodinganalog="245$a">Southwest Environment Service records, 
+		<date>1975-1988</date></titleproper>
+	 <num>Collection Number: MS 269</num>
+  	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher>
+	 <list>
+		<defitem>
+		  <label>Processed by:</label>
+		  <item>Roger Myers</item>
+		</defitem>
+		<defitem>
+		  <label>Date completed:</label>
+		  <item>
+			 <date>1988</date></item>
+		</defitem>
+		<defitem>
+		  <label>Encoded by:</label>
+		  <item>Jan Marie Payne</item>
+		</defitem>
+	 </list>
+	 <p>&#x00A9; 2001. Arizona Board of Regents. All rights reserved.</p>
+  </titlepage>
+</frontmatter>
+<archdesc level="collection"> 
+  <did id="a1">
+	 <head>Collection Summary</head>
+	 <unittitle encodinganalog="245" label="Collection Name:">Southwest
+		Environment Service records, 
+		<unitdate type="inclusive"
+		 normal="1975/1988">1975-1988</unitdate></unittitle>
+	 <unitid label="Collection Number:" encodinganalog="099"
+	  repositorycode="AzU" countrycode="us"> MS 269</unitid> 
+	 <origination label="Creator:"> 
+		<corpname encodinganalog="110">Southwest Environmental
+		  Service</corpname></origination>
+	 <abstract label="Abstract:">The records contain a comprehensive view of one of the most
+		important environmental advocacy groups in Arizona from 1974 until
+		1988.</abstract>
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+		encodinganalog="300">5.8 linear feet</extent></physdesc>
+	 <repository label="Repository:">
+	 	<corpname encodinganalog="110">University of Arizona Libraries, Special Collections</corpname>
+		<address>
+		  <addressline>University of Arizona</addressline>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address></repository>
+  </did> 
+  <accessrestrict encodinganalog="506">
+	 <head>Restrictions</head>
+	 <p>None.</p>
+  </accessrestrict>
+  <userestrict encodinganalog="540">
+	 <head>Copyright</head>
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p>
+  </userestrict>
+  <prefercite encodinganalog="524">
+	 <head>Credit Line</head>
+	 <p>Southwest Environment Service records(MS 269).Special Collections, University of Arizona Libraries.</p>
+  </prefercite>
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Historical Note</head>
+	 <p>Southwest Environmental Service (SES) was a non-profit organization
+		working for the protection of the environment, including air quality, water
+		quality, and land planning. It was incorporated on 4 November 1974, and funded
+		by the Wilson Foundation to "help the public share in finding solutions to
+		environmental problems." In 1984, it became a "public charity" and was now
+		eligible to devote 20% of its resources to lobbying.</p> 
+	 <p>Through public education, mailings, lobbying, workshops, publications,
+		and legal actions, the SES worked with public and government agencies to
+		maximize its goals of a more desirable environment for Arizona and of citizen
+		input into governmental processes. Major projects in which the SES was involved
+		included the establishment of Catalina State Park (1975-1981), Aviation
+		Corridor Highway (1985), groundwater and wastewater regulations (1976-1983),
+		and smelter advocacy (1979-1987). </p>
+	 <p>SES's first director was David Hoyt. Priscilla Robinson became the
+		second director on 1 April 1975, and continued in that position until the
+		agency closed in March 1988. The records of SES were culled by Ms. Robinson and
+		donated to the University of Arizona Library. Original folder headings were
+		retained in the inventory where possible.</p>
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into five series:</p> 
+	 <list> 
+		<item>Series I: Director's Reports and Board of Director's Meetings
+		  Minutes, 
+		  <date>1975-1987</date></item> 
+		<item>Series II: Correspondence and Testimonies, 
+		  <date>1977-1980</date></item>
+		<item>Series III: Publications, 
+		  <date>1977-1988</date></item> 
+		<item>Series IV: Photographs, 
+		  <date>1986</date></item> 
+		<item>Series V: Workshops and Projects, 
+		  <date>1975-1988</date></item> 
+	 </list> 
+  </arrangement>
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head>
+	 <p>The records contain a comprehensive view of one of the most important
+		environmental advocacy groups in Arizona from 1974 until 1988. The director's
+		monthly reports and correspondence document the interests and direction of the
+		agency, its' position on issues in Arizona, its' relationship to other state
+		and national environmental groups, and to a lesser extent, public reaction to
+		its proposals and activities. The correspondence and testimonies provide
+		insight into the daily communications between SES and public officials and
+		private citizens. As a speaker for concerned citizens, SES provided an
+		alternative viewpoint on the environmental impact and assessment of issues
+		involving land-use planning, water and air quality, and pollution from
+		industrial sources.</p> 
+	 <p>The publications of SES in this collection contain a representative
+		sample of the flyers, brochures, and updates prepared and distributed by the
+		staff. Substantial reports, often prepared as a final product of a grant, are
+		present; selected titles include 
+	 <title>Water Workshops Workbook</title>, 1977; 
+	 <title>Water Resources of the Tortolita Area</title>, 1977; 
+	 <title>Blue Skies: An Arizonan's Guide to Clean Air</title>, 1980; 
+	 <title>Flood and Erosion Hazards in Tucson</title>, 1980; and a draft of 
+	 <title>Chemicals Used in the Mining Process: Their Potential Threats to
+		Ground Water</title>, 1984.</p>
+	 <p>Three photographs portray Priscillia Robinson at work on the Governor's
+		Water Quality Task Force, at the signing of the Environmental Quality Act of
+		1986 by Governor Bruce Babbitt, and with fellow activists Dick Kamp and Bob
+		Yuhnke.</p>
+	 <p>The bulk of the records relate to short-term workshops given by SES and
+		in-depth projects of local and state concern, especially advocacy directed at
+		protecting the people and resources of Arizona and the West from air and water
+		pollution by land development and copper smelting. One of their earliest
+		projects concerned the establishment and stewardship of the Catalina State
+		Park, located on the northwestern slopes of the Santa Catalina Mountains
+		outside of Tucson. Working with local groups like the Catalina State Park
+		Coalition, county supervisors, legislators, and developers, SES helped secure
+		the lands for the park from the possibility of subdivision and development.
+		After years of negotiations, state budgetary uncertainties, and a series of
+		complicated land exchanges and lease agreements with Pima County and Arizona
+		State Parks the park was finally dedicated on May 25, 1983. Extensive clippings
+		and printed materials highlight the history of the creation of the park.</p>
+	 <p>Together with the Southern Arizona Environmental Council, and funded by
+		a grant from the U.S. Office of Education, SES offered workshops to facilitate
+		discussions and to increase public understanding of the Tortolita Mountain Area
+		and Pima County Planning Department's proposed land-use plan for that over 200
+		square mile area located northwest of Tucson. These files contain
+		correspondence, reports, and printed materials relative to the planning,
+		contents, and results of meetings held in October 1975 to project the future of
+		a rapidly growing area of a sunbelt city.</p>
+	 <p>In June 1976, SES received a grant from the U.S. Office of Education to
+		conduct a series of public workshops in 1977 on Tucson's water supply. SES
+		contracted to gather demographic information on participants, to evaluate the
+		effectiveness of process-oriented methods used, and to manage a follow-up
+		survey after the workshops were completed. A final report contains survey,
+		description, and analysis of the grant. The 
+	 <title>Water Workshops Workbook</title> used in the meetings is present in
+	 the Publications series.</p>
+	 <p>There are several folders on the Sabino Creek issue which required Pima
+		County to bring its' Mt. Lemon Wastewater Treatment Plant into compliance with
+		federal regulations. Represented by David S. Baron of Arizona Center for Law in
+		the Public Interest, SES initiated a lawsuit to force the county to abide by
+		standards established for the treatment of existing and prospective wastes
+		which were targeted for discharge into the creek. This case was one of several
+		in this collection in which SES and Center for Law in the Public Interest
+		worked together in common cause.</p>
+	 <p>To encourage citizen participation in the planning process for state
+		implementation plans for the federal Clean Air Act, SES, in conjunction with
+		several other interested groups, presented a Clean Air Workshop in 1978.
+		Sponsored by a U.S. Environmental Protection Agency grant, the workshop
+		provided overviews of the existing laws, presentations on selected areas of
+		interest by experts, and meetings of action planning groups. A publication, 
+	 <title>Blue Skies</title>, is present in the Publication series.</p>
+	 <p>Another significant issue in these records is the water quality
+		legislation which resulted in the landmark Environmental Quality Act, signed
+		into law by Arizona governor Bruce Babbitt in 1986. Ms. Robinson was a
+		contributing member of the Water Quality Task Force, a panel appointed by the
+		governor to resolve conflicting opinions on the bill as it was being drafted.
+		The act, heralded as a model for protecting water resources in the West,
+		appointed agencies to protect surface and ground water supplies, set provisions
+		for enforcing the statutes, established a Superfund to clean up hazardous waste
+		sites, and changed the system of regulating pesticide use in Arizona. </p>
+	 <p>In 1980 and 1981, SES presented another community information program to
+		help citizens examine local flood plain management policies. Consisting of a
+		published sourcebook, five workshops, audiovisual presentations, and other
+		outreach methods, this project raised local awareness of flood and erosion
+		hazards in southern Arizona. A final report to the sponsoring agency, National
+		Science Foundation, provided written and visual summations of the grant. A
+		final draft of Barbara Tellman's 
+	 <title>Flood and Erosion Hazards in Tucson</title> are is in the
+	 Publication series.</p>
+	 <p>The remainder of the records relate to the most important issues
+		addressed by SES - copper industry in Arizona and Mexico, smelter advocacy, and
+		related air quality and acid rain concerns. SES was actively involved in
+		monitoring the non-ferrous smelter orders (NSOs) for Phelps Dodge's Douglas
+		smelter and Magma Copper Company's San Manuel smelter, and in formulating
+		positions on international agreements to protect environmental elements in the
+		so-called "Grey Triangle" - an area bounded by the Douglas smelter and two
+		large Mexican-owned smelters in Cananea and Nacozari, Sonora. </p>
+	 <p>Of note also are files relating to SES's efforts to force the federal
+		government to bring Phelps Dodge and Magma facilities into compliance with the
+		Clean Air Act. Through petitions, hearings, and lawsuits involving SES,
+		Environmental Defense Fund, U.S. Environmental Protection Agency, Arizona
+		Department of Health Services, and other agencies, the Douglas smelter was
+		closed, and Magma built a new, cleaner furnace.</p>
+	 <p>The shift from advocacy of land-use planning and water quality to issues
+		of urban and rural air quality and smelter emission control is documented in
+		these records. The use of the legislative and legal process to create and
+		enforce state and federal standards is evident in the Sabino Creek,
+		Environmental Quality Act, and smelter advocacy files. Due to a lack of
+		prospective large projects, a lessening of grant support, and a decision by
+		SES's director to direct her professional attentions to other fields, SES
+		ceased operation on 31 March 1988, thus ending 14 years of responsible
+		leadership and informed commentary of many environmental issues facing Tucson,
+		Arizona, and the West.</p>
+  </scopecontent> 
+  <controlaccess id="a12">
+	 <head>Access Terms</head>
+	 <list>
+		<item>
+		  <persname encodinganalog="100">Babbitt, Bruce E.</persname></item>
+		<item>
+		  <persname encodinganalog="100">Baron, David S.</persname></item>
+		<item>
+		  <persname encodinganalog="100">Kamp, Richard</persname></item>
+		<item>
+		  <persname encodinganalog="100">Tellman, Barbara</persname></item>
+		<item>
+		  <persname encodinganalog="100"> Yuhnke, Robert E.</persname></item>
+		<item>
+		  <corpname encodinganalog="110">United States -- Environmental
+			 Protection Agency</corpname></item>
+		<item>
+		  <corpname encodinganalog="110">Pima County (Ariz.) -- Wastewater
+			 Management Dept.</corpname></item>
+		<item>
+		  <corpname encodinganalog="110">Smelter Crisis Education
+			 Project</corpname></item>
+		<item>
+		  <corpname encodinganalog="110">Arizona Center for Law in the Public
+			 Interest</corpname></item>
+		<item>
+		  <corpname encodinganalog="110">Phelps Dodge
+			 Corporation</corpname></item>
+		<item>
+		  <corpname encodinganalog="110">Magma Copper Company</corpname></item>
+		<item>
+		  <corpname encodinganalog="110">Groups Against Smelter
+			 Pollution</corpname></item>
+		<item>
+		  <corpname encodinganalog="110">Environmental Defense
+			 Fund</corpname></item>
+		<item>
+		  <subject>Environmental policy -- Arizona</subject></item>
+		<item>
+		  <subject>Water quality -- Arizona</subject></item>
+		<item>
+		  <subject>Air - Pollution -- Arizona</subject></item>
+		<item>
+		  <subject>Water-supply -- Arizona</subject></item>
+		<item>
+		  <subject>Flood control -- Arizona -- Tucson</subject></item>
+		<item>
+		  <subject>Acid rain -- Arizona</subject></item>
+		<item>
+		  <subject>Copper mines and mining -- Arizona</subject></item>
+		<item>
+		  <subject>Smelting -- Environmental aspects -- Arizona</subject></item>
+		<item>
+		  <subject>Environmental protection -- Arizona -- Citizen
+			 participation</subject></item>
+		<item>
+		  <subject>Public interest law -- Arizona</subject></item>
+		<item>
+		  <subject>Land use -- Arizona -- Planning -- Citizen
+			 participation</subject></item>
+		<item>
+		  <geogname>Catalina State Park (Ariz.)</geogname></item>
+		<item>
+		  <geogname>Tortolita Mountains Region (Ariz.)</geogname></item>
+		<item>
+		  <geogname>Arizona -- Politics and government</geogname></item>
+		<item>
+		  <geogname>Grey Triangle Region (Ariz.-Mexico)</geogname></item>
+		<item>
+		  <genreform>Correspondence</genreform></item>
+		<item>
+		  <genreform>Photographs</genreform></item>
+		<item>
+		  <genreform>Minutes</genreform></item>
+		<item>
+		  <genreform>Records</genreform></item>
+		<item>
+		  <genreform>Testimonials</genreform></item>
+	 </list>
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series I: Director's Reports and Board of Director's
+			 Meetings Minutes, 
+			 <unitdate type="inclusive"
+			  normal="1975/1988">1975-1988</unitdate></unittitle> 
+		</did> 
+		<scopecontent>
+		  <p>Contains monthly director's reports outlining the current
+			 activities, including workshops planned, hearings attended, and new issues to
+			 the Board of Directors; agendas of meetings; and minutes of meetings.</p>
+		</scopecontent>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">1</container>
+			 <unittitle>Board of Directors roster. 
+				<unitdate type="inclusive"
+				normal="1979/1984">1979-1984</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">2-9</container>
+			 <unittitle>Director's reports and Board minutes. 
+				<unitdate type="inclusive"
+				 normal="1975/1987">1975-1987</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01> 
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series II: Correspondence and Testimonies, 
+			 <unitdate type="inclusive"
+			  normal="1977/1987">1977-1987</unitdate></unittitle> 
+		</did> 
+		<scopecontent>
+		  <p>Contains incoming letters, and photocopies of outgoing office
+			 replies, on a wide variety of issues and information requests. The bulk of the
+			 correspondence is between government officials and the director and research
+			 assistants at SES. Also includes typescripts and drafts of testimony given by
+			 the director and staff at public hearings in Tucson, Phoenix, and Washington,
+			 DC. Correspondents include Arizona politicians Dennis DeConcini, Morris Udall,
+			 Jim Kolbe, and Bruce Babbitt. Additional correspondence is found in the
+			 Workshops and Projects series.</p>
+		</scopecontent>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">10</container>
+			 <unittitle>Correspondence and testimonies. 
+				<unitdate type="inclusive"
+				 normal="1977/1980">1977-1980</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">2</container><container
+			 type="folder">1-6</container>
+			 <unittitle>Correspondence and testimonies. 
+				<unitdate type="inclusive"
+				 normal="1981/1987">1981-1987</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series III: Publications, 
+			 <unitdate type="inclusive"
+			  normal="1977/1988">1977-1988</unitdate></unittitle> 
+		</did> 
+		<scopecontent>
+		  <p>Contains flyers, newsletters, and grant publications produced by the
+			 office relating to public meetings, hearings, legislation, and current
+			 activities.</p>
+		</scopecontent>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="folder">1-2</container>
+			 <unittitle>Publications. 
+				<unitdate type="inclusive"
+				 normal="1977/1988">1977-1988</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series IV: Photographs, 
+			 <unitdate type="inclusive" normal="1986">1986</unitdate></unittitle> 
+		</did> 
+		<scopecontent>
+		  <p>One photograph of Priscillia Robinson in a working session with
+			 members of the Water Quality Task Force; one of her at the signing of the
+			 Environmental Quality Act of 1986, with Governor Babbitt and others; and one of
+			 her with Dick Kamp and Bob Yuhnke standing beside an airplane.</p>
+		</scopecontent>
+		<c02 level="file">
+		  <did><container type="box">3</container><container
+			 type="folder">3</container>
+			 <unittitle>Photographs. 
+				<unitdate type="inclusive"
+				 normal="1986">1986</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series V: Workshops and Projects, 
+			 <unitdate type="inclusive"
+			  normal="1975/1988">1975-1988</unitdate></unittitle> 
+		</did> 
+		<scopecontent>
+		  <p>Contains correspondence, memos, reports, legal records, and printed
+			 materials with federal, state, and independent agencies, environmental groups,
+			 and members of Arizona's congressional delegation which documents SES
+			 involvement and critique of standards, legislation, and reports on sundry
+			 environmental issues and projects. Correspondents in the Smelter Advocacy
+			 subseries include Sierra Club, Environmental Defense Fund, Smelter Crisis
+			 Education Project (Naco, Arizona), Groups Against Smelter Pollution (Bisbee,
+			 Arizona), Arizona Center for Law in the Public Interest, and congressional
+			 representatives Morris Udall, Dennis DeConcini, James McNulty, John McCain, and
+			 Jim Kolbe.</p>
+		</scopecontent>
+		<c02 otherlevel="subsubseries">
+		  <did>
+			 <unittitle>General</unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container type="box">3</container><container
+				type="folder">4-5</container>
+				<unittitle>Catalina State Park: Correspondence. 
+				  <unitdate type="inclusive"
+				  normal="1975/1988">1975-1988</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">3</container><container
+				type="folder">6-7</container>
+				<unittitle>Catalina State Park: Printed materials. 
+				  <unitdate type="inclusive"
+				  normal="1975/1988">1975-1988</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">3</container><container
+				type="folder">8</container>
+				<unittitle>Tortolita Town Hall. 
+				  <unitdate type="inclusive"
+				  normal="1975">1975</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">3</container><container
+				type="folder">9-10</container>
+				<unittitle>Water Workshops: Correspondence and reports. 
+				  <unitdate type="inclusive"
+				  normal="1976/1977">1976-1977</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">3</container><container
+				type="folder">11</container>
+				<unittitle>Gila River Water Quality Standards. 
+				  <unitdate type="inclusive"
+				  normal="1976/1982">1976-1982</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">3</container><container
+				type="folder">12-13</container>
+				<unittitle>Mount Lemon / Sabino Creek Water Quality:
+				  Correspondence. 
+				  <unitdate type="inclusive"
+				  normal="1977/1985">1977-1985</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">3</container><container
+				type="folder">14-16</container>
+				<unittitle>Mount Lemon / Sabino Creek Water Quality: Lawsuit, USA
+				  v. Pima County. 
+				  <unitdate type="inclusive"
+				  normal="1977/1985">1977-1985</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">4</container><container
+				type="folder">1</container>
+				<unittitle>Tortolita and Northwest Area Water Resources Study. 
+				  <unitdate type="inclusive"
+				  normal="1977">1977</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">4</container><container
+				type="folder">2</container>
+				<unittitle>Hydrologists Workshop. 
+				  <unitdate type="inclusive"
+				  normal="1977">1977</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">4</container><container
+				type="folder">3</container>
+				<unittitle>Water Quality: Regulations. 
+				  <unitdate type="inclusive"
+				  normal="1977/1986">1977-1986</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">4</container><container
+				type="folder">4</container>
+				<unittitle>Water Quality: Legislation. 
+				  <unitdate type="inclusive"
+				  normal="1977/1986">1977-1986</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">4</container><container
+				type="folder">5-8</container>
+				<unittitle>Water Quality: Revisions to Hawke bill. 
+				  <unitdate type="inclusive"
+				  normal="1977/1986">1977-1986</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">4</container><container
+				type="folder">9</container>
+				<unittitle>Water Quality: Clippings, general. 
+				  <unitdate type="inclusive"
+				  normal="1977/1986">1977-1986</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">4</container><container
+				type="folder">10</container>
+				<unittitle>Water Quality: Clippings, Environmental Quality Act. 
+				  <unitdate type="inclusive"
+				  normal="1977/1986">1977-1986</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">4</container><container
+				type="folder">11</container>
+				<unittitle>Clean Air Workshop. 
+				  <unitdate type="inclusive"
+				  normal="1978">1978</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">4</container><container
+				type="folder">12-13</container>
+				<unittitle>Flood Hazards Education Project. 
+				  <unitdate type="inclusive"
+				  normal="1980">1980</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">4</container><container
+				type="folder">14</container>
+				<unittitle>Water Users Retreat. 
+				  <unitdate type="inclusive"
+				  normal="1982">1982</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 otherlevel="subsubseries">
+		  <did>
+			 <unittitle>Smelter Advocacy</unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container type="box">4</container><container
+				type="folder">15</container>
+				<unittitle>Multi-point rollback regulations. 
+				  <unitdate type="inclusive"
+				  normal="1979/1983">1979-1983</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">4</container><container
+				type="folder">16</container>
+				<unittitle>General: includes 1st Non-Ferrous Smelter Order (NSO)
+				  regulations and hearings. 
+				  <unitdate type="inclusive"
+				  normal="1978/1979">1978-1979</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">4</container><container
+				type="folder">17</container>
+				<unittitle>General: includes U.S. Environmental Protection Service
+				  hearing on visibility, Salt Lake City, Utah. 
+				  <unitdate type="inclusive"
+				  normal="1980">1980</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">4</container><container
+				type="folder">18</container>
+				<unittitle>General: includes Clean Air Act amendments and
+				  congressional hearings. 
+				  <unitdate type="inclusive"
+				  normal="1981">1981</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">5</container><container
+				type="folder">1-2</container>
+				<unittitle>General: Clean Air Act amendments and acid rain. 
+				  <unitdate type="inclusive"
+				  normal="1981/1982">1981-1982</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">5</container><container
+				type="folder">3-4</container>
+				<unittitle>NSOs for Douglas and San Manuel, and Greenpeace caper. 
+				  <unitdate type="inclusive"
+				  normal="1982">1982</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">5</container><container
+				type="folder">5-6</container>
+				<unittitle>Loans to foreign copper companies and House Interior
+				  committee hearings, Tucson, Arizona. 
+				  <unitdate type="inclusive"
+				  normal="1983/1984">1983-1984</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">5</container><container
+				type="folder">7</container>
+				<unittitle>General: clippings. 
+				  <unitdate type="inclusive"
+				  normal="1983/1984">1983-1984</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">5</container><container
+				type="folder">8-10</container>
+				<unittitle>Morenci and Douglas operating permits, western acid
+				  rain, and smelters. 
+				  <unitdate type="inclusive"
+				  normal="1984">1984</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">5</container><container
+				type="folder">11</container>
+				<unittitle>Asarco compliance and cleanup. 
+				  <unitdate type="inclusive"
+				  normal="1981/1984">1981-1984</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">5</container><container
+				type="folder">12-14</container>
+				<unittitle>Grey Triangle agreements. 
+				  <unitdate type="inclusive"
+				  normal="1982/1987">1982-1987</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">5</container><container
+				type="folder">15-16</container>
+				<unittitle>Phelps Dodge union strikes: clippings. 
+				  <unitdate type="inclusive"
+				  normal="1983/1985">1983-1985</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">6</container><container
+				type="folder">1</container>
+				<unittitle>Lawsuit: Kamp vs. Hernandez, challenging the regulations
+				  limiting the emission of sulfer dioxide from copper smelters in Arizona. 
+				  <unitdate type="inclusive"
+				  normal="1983/1985">1983-1985</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">6</container><container
+				type="folder">2</container>
+				<unittitle>Lawsuit: Environmental Defense Fund vs. Phelps Dodge and
+				  Magma. 
+				  <unitdate type="inclusive"
+				  normal="1984/1986">1984-1986</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">6</container><container
+				type="folder">3</container>
+				<unittitle>General: clippings. 
+				  <unitdate type="inclusive"
+				  normal="1985">1985</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">6</container><container
+				type="folder">4-8</container>
+				<unittitle>General: correspondence and reports: Acid rain, Douglas
+				  smelter operating permit. 
+				  <unitdate type="inclusive"
+				  normal="1985">1985</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">6</container><container
+				type="folder">9-11</container>
+				<unittitle>General: clippings, Acid rain and Douglas smelter
+				  operating permit. 
+				  <unitdate type="inclusive"
+				  normal="1985/1986">1985-1986</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">6</container><container
+				type="folder">12</container>
+				<unittitle>Petition to EPA for SO2 standard to protect asthmatics. 
+				  <unitdate type="inclusive"
+				  normal="1985/1986">1985-1986</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">6</container><container
+				type="folder">13-15</container>
+				<unittitle>Douglas smelter NSO, operating permit, temporary closure
+				  and consent decree. 
+				  <unitdate type="inclusive"
+				  normal="1986">1986</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">6</container><container
+				type="folder">16-19</container>
+				<unittitle>Magma Copper Co. 2nd NSO and legal action, hearing
+				  consent decree, and clippings. 
+				  <unitdate type="inclusive"
+				  normal="1983/1987">1983-1987</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+	 </c01>
+  </dsc> 
+</archdesc></ead>

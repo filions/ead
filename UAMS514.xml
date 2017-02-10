@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+ audience="internal" id="a0"> 
+	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special
+		Collections//text(US::AzU::Odell Sneden Hathaway Theater Ledger Collection)//en""UAMS514.xml"</eadid> 
+	<filedesc>  
+	 <titlestmt> 
+	 	<titleproper>Odell Sneden Hathaway Theater Ledger Collection,
+	 		<date normal="1910/1922" era="ce" calendar="gregorian" type="inclusive">1910-1922</date></titleproper> 
+	 	<titleproper altrender="nodisplay" type="filing"> Hathaway, Odell Sneden Theather Ledger Collection </titleproper>
+	 	<author>Processed by Trent Purdy.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://www.library.arizona.edu/speccoll/</addressline>
+		</address> 
+		<date normal= "2013" era= "ce" calendar = "gregorian">; 2013</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Trent Purdy. 
+  		<date era="ce" encodinganalog="date" normal="20131120">November 20, 2013</date></creation> 
+	 <langusage>Finding aid is in<language> English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+  	<titleproper>Odell Sneden Hathaway Theater Ledger Collection,<date era= "ce" calendar= "gregorian">1910-1922</date></titleproper> 
+  	<num>Collection Number: MS 514</num> 
+  	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Trent Purdy.</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>2013</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Trent Purdy</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 2013. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name:">Odell Sneden Hathaway Theater Ledger Collection, 
+  		<unitdate type="inclusive" label="Dates:" normal="1910/1922">1910-1922</unitdate></unittitle>	 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	 	repositorycode="AzU" countrycode="us">MS 514</unitid> 
+	 <origination label="Creator:"> 
+	 	<persname encodinganalog="100">Hathaway, Odell Sneden </persname> </origination> 
+  	<abstract label="Abstract:">This collection is comprised of seven ledgers from theaters owned by Odell Sneden Hathaway. Each ledger lists daily accounting totals which denote the name of the attraction, weather conditions, gross receipt totals, costs, payments, and accompanying notes.  </abstract> 
+  	<physdesc encodinganalog="300$a" label="Physical Description:"><extent>0.5 linear feet</extent></physdesc>	 
+	 <repository label="Repository:"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://www.library.arizona.edu/speccoll</addressline>		  
+		</address></repository> 
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+  	<p>There are no restrictions on this collection.</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>Odell Sneden Hathaway Theater Ledger Collection (MS 514). Special
+  		Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+  	<p>Odell Sneden Hathaway was a governor of the International Theatrical Association as well as proprietor of several successful theaters located in the upper New York state and Upper Ohio regions. These theaters exhibited a myriad of entertainment forms to the public, including plays, burlesque shows, vaudeville acts, and motion pictures.</p> 
+  </bioghist> 
+  <arrangement id="a4" encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+	 <p>This collection is organized into one series.</p>	 
+	 <list> 
+	 	<item>Series I: Ledgers, 
+	 		<unitdate>1910-1922</unitdate></item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>This collection is comprised of seven ledgers from theaters owned by Odell Sneden Hathaway in the upper New York State Region and upper Ohio region. Each ledger lists daily accounts for acts (including plays, burlesque shows, vaudeville acts, and motion pictures), gross receipts, weather conditions, costs, payments, and notes. Often within the ledgers acts are listed in generic terms, such as “vaudeville”, but in some instances entries will list the headline performer, title of play or motion picture.</p> 
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+  	<list> 
+  		<item> 
+  			<persname encodinganalog="100" source="lcsh">Hathaway, Odell Sneden</persname></item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Theaters -- United States</subject></item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Vaudeville</subject></item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="655" source="lcsh">Plays</subject></item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="655" source="lcsh">Burlesque (Theater)</subject></item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Motion pictures</subject></item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh"> Account books</subject></item> 
+  	</list>
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+			<unittitle>Series I: Ledgers,  
+				<unitdate type="inclusive">1910-1922</unitdate></unittitle>
+		</did>
+	 	<scopecontent><p>This series is arranged alphabetically by theater name. Ledgers in folders 5 and 6 contain accounting information for two theaters.</p></scopecontent>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <container type="folder">1</container> 
+		  	<unittitle>Amsterdam Theater; Oswego, NY,</unittitle>
+		  	<unitdate>1910-1917</unitdate>
+		  </did> 
+		</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">2</container> 
+	 			<unittitle>Binghamton Theater; Binghamton, NY,</unittitle>
+	 			<unitdate>1912-1919</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">3</container> 
+	 			<unittitle>Kingston New York Opera House, Kingston, NY,</unittitle>
+	 			<unitdate>1916-1919</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">4</container> 
+	 			<unittitle>Oneonta Theater; Oneonta, NY,</unittitle>
+	 			<unitdate>1912-1918</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">5</container> 
+	 			<unittitle>Sandusky Theater; Sandusky, NY, Armory Theater; Binghamton, NY,</unittitle>
+	 			<unitdate>1910-1914, 1914-1919</unitdate>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">6</container> 
+	 			<unittitle>Star Theater; Kingston, NY, Auditorium; Kingston, NY,</unittitle>
+	 			<unitdate>1915-1916, 1916-1919</unitdate>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">6</container> 
+	 			<unittitle>Stratton Theater; Middletown, NY, Auditorium; Kingston, NY, (cover states Binghamton Stone Opera House)</unittitle>
+	 			<unitdate>1919-1922</unitdate>
+	 		</did> 
+	 	</c02> 
+	 </c01> 
+  </dsc> 
+</archdesc></ead>

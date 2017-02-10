@@ -1,0 +1,327 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+ audience="internal" id="a0"> 
+	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special
+		Collections//text(US::AzU::Collection of Winfield Scott, 1812-1866)//en""UAMS015.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper>Collection of Winfield Scott, 
+	 		<date normal="1812/1866" era="ce" calendar="gregorian">1812-1866</date>
+	 	</titleproper>
+	 	<author>Staff</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date normal= "2013" era= "ce" calendar = "gregorian">; 2013</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Anne Martinez. 
+  		<date era="ce" encodinganalog="date" normal="20130410">April 10, 2013</date></creation> 
+	 <langusage>Finding aid is in<language> English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+  	<titleproper>Collection of Winfield Scott,<date era= "ce" calendar= "gregorian">1812-1866</date></titleproper> 
+	 <num>Collection Number: MS 015</num> 
+  	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+			<item>Staff of <title render="italic">Arizona and the West</title></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>1968</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Anne Martinez</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 20012. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name:"> Collection of Winfield Scott
+		<unitdate type="inclusive" label="Dates:" normal="1812/1866">1812-1866</unitdate></unittitle>	 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	 repositorycode="AzU" countrycode="us">MS 015</unitid> 
+	 <origination label="Creator:"> 
+	 	<persname source="lcnaf" encodinganalog="100">Scott, Winfield</persname> </origination>
+  	<abstract label="Abstract:">Scrapbook of correspondence between Winfield Scott and various military and political officials including Salmon P. Chase, John E. Wool, and Edwin Stanton and others, 1812-1866.  Most are letters of introduction or recommendation.  There are also a few items such as military orders, campaign literature and news clippings</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent>0.4 linear feet</extent></physdesc>	 
+	 <repository label="Repository:"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository>
+  	<langmaterial>Materials in <language encodinganalog="546" langcode="eng"
+  		scriptcode="Latin">English</language></langmaterial>
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+	 <p>None</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>Collection of Winfield Scott, 1812-1866 (MS 015). Special
+  		Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+	<descgrp>
+		<acqinfo><head>Provenance</head>
+			<p>From the T.A. Hanley Collection</p></acqinfo>
+	</descgrp>
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+  	<p>A career U. S. Army officer, Winfield served throughout the War of 1812, Indian Wars, War with Mexico, and the Civil War.  He oversaw the removal of the Cherokee from their lands to Oklahoma in 1838, was appointed Major General in 1841, and was the presidential nominee for the Whig Party in 1852.  He was General-in-Chief of the U. S. Army at the time of his retirement.</p> 
+  </bioghist> 
+  <arrangement id="a4" encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+	 <p>This collection is organized into three series</p>	 
+	 <list> 
+	 	<item>Series I:  Correspondence,
+	 		<unitdate>1813</unitdate>
+	 		<unitdate>1866-1867</unitdate></item> 
+	 </list> 
+  	<list> 
+  		<item>Series II:  Engraved portraits of Gen. Scott and others
+  		</item> 
+  	</list> 
+  	<list> 
+  		<item>Series II:  Scrapbook 1813-1864
+  			<unitdate>1813-1864</unitdate></item> 
+  	</list> 
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>This collection consists of a file of correspondence, a file of engraved portraits, and a scrapbook of correspondence along with a small amount of military orders, engraved portraits, political campaign literature, and newspaper clippings related to Scott’s personal, political and military life. Correspondence separate from the scrapbook contains 7 signed letters. The scrapbook contains approximately 130 additional letters between Scott and various military and political officials.  Most letters are written by Scott; many are letters of introduction or recommendation.  Some letters concern the 1830s conflicts involving the Creek and Seminole peoples; others relate to the War with Mexico. Correspondents include Salmon P. Chase, John E. Wool, and Edwin Stanton.  Brief documents are present that are signed by Presidents Andrew Jackson, Ulysses S. Grant, Zachary Taylor, James K. Polk, and Andrew Johnson.  Also included in the scrapbook are additional engraved portraits of Scott and other contemporary famous figures, and other miscellanea.  Each item is accompanied by a typed description which provides additional background information.</p> 
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+			<persname encodinganalog="600" source="lcnaf" role="subject">Scott, Winfield, 1786-1866—Archives</persname> </item> 
+	 </list> 
+	 <list> 
+		<item> 
+			<subject encodinganalog="650" source="lcsh">Army officers—United States</subject> </item> 
+	 </list> 
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Mexican War, 1846-1848—Personal narratives</subject> </item> 
+  	</list> 
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+  	<c01 level="series" id="ser1"> 
+  		<did> 
+  			<unittitle>Series I: Correspondence,</unittitle>
+  			<unitdate>1813</unitdate>
+  			<unitdate>1866-1867</unitdate>
+  		</did>
+  		<c02 level="file"> 
+  			<did> <container type="file">1</container> 
+ 				<unittitle>File A</unittitle>
+  			</did> 
+  		</c02> 
+  	</c01>
+  	<c01 level="series" id="ser2"> 
+  		<did> 
+  			<unittitle>Series II:  Engraved portraits of Gen. Scott and others</unittitle> 
+  		</did> 
+  		<c02 level="file"> 
+  			<did> <container type="file">1</container> 
+  				<unittitle>File B</unittitle>
+  			</did> 
+  		</c02> 
+  	</c01>
+  	<c01 level="series" id="ser3"> 
+  		<did> 
+  			<unittitle>Series III:  Scrapbook</unittitle> 
+  			<unitdate>1813-1864</unitdate>
+  		</did> 
+  		<c02 level="file"> 
+  			<did> <container type="book">1</container> 
+  				<unittitle>File C</unittitle></did>	
+  			<index><head>Alphabetical index to letters</head>
+  				<indexentry><namegrp>
+  					<name>To Adjutant General Charles Nourse, from Scott, W. January 24, 1823.</name>
+  					<name>To Adjutant General Roger Jones, from Taylor, Zachary. August 26, 1842.</name>
+  					<name>To Aspinwall, Thomas (consul in London) from Scott, W. August 1826.</name>
+  					<name>To Bainbridge, William from Scott, W. November 17, 1816.</name>
+  					<name>To Baker, Cornelius from Scott, W. September 9, 1852.</name>
+  					<name>To Baker, Rufus Lathrop (Major) from Thomas, Lorenzo (AG). August 17, 1842.</name>
+  					<name>To Bancroft from Scott, W. September 4, 1827.</name>
+  					<name>To Bleecker (NY Society of Cincinnati) from Scott, W. March 1829.</name>
+  					<name>To Bomford, George (ordnance) from Grant, Ulysses S. November 29, 1847.</name>
+  					<name>To Bomford, George (ordnance) from Scott, W. January 10, 1815.</name>
+  					<name>To Breese, Sidney from Tyler, Robert. November 8, 1850.</name>
+  					<name>Brown, Jacob (Maj. General). (document signed by him). June 14, 1814.</name>
+  					<name>From Butler, Ben to Scott, W. July 19, 1861.</name>
+  					<name>To Caldwell, I.D. from Scott, W. December 8, 1863.</name>
+  					<name>To Calhoun, John C. from Scott, W. February 12, 1821.</name>
+  					<name>To Calhoun, John C. from Scott, W. May 8, 1822.</name>
+  					<name>From Cameron, Simon to Moor, W.J. December 22, 1862.</name>
+  					<name>To Campbell, Lewis Davis (Congressman) from Scott, W. August 2, 1851.</name>
+  					<name>To Campbell, Lewis Davis from Scott, W. December 23, 1856.</name>
+  					<name>To Campbell, Lewis Davis from Scott, W. April 28, 1864.</name>
+  					<name>From Chase, Salmon P. to Stones, James M. March 26, 1852.</name>
+  					<name>To Churchill, Sylvester (Capt.) from Scott, W. January 24, 1823.</name>
+  					<name>To Clarke, Newman S. from Scott, W. January 2, 1847.</name>
+  					<name>To Clinch, Duncan Lamont from Scott, W. 1836.</name>
+  					<name>To Cogsdell from Scott, W. September 4, 1827.</name>
+  					<name>To Combs, Leslie (General) from Scott, W. September 12, 1836.</name>
+  					<name>To Davis, Jefferson (2nd Lt.) from Scott, W. September 5, 1832.</name>
+  					<name>To Dearborn, Henry (Maj. General) from Scott, W. September 1814.</name>
+  					<name>To Devlin, J. E. from Scott, W. February 18, 1856.</name>
+  					<name>To Douglas (Society of Cincinnati) from Scott, W. November 22, 1858.</name>
+  					<name>To Edwards, James L. (Lt.) from Scott, W. October 9, 1813.</name>
+  					<name>To Edwards, James L. (Col.) (Com. Pensions) from Scott, W. August 22, 1842.</name>
+  					<name>To Fodman from Scott, W. April 29, 1813.</name>	
+  					<name>To Fellows, William from Scott, W. April 28, 1859.</name>
+  					<name>To Gadsden, James (Adj. Gen.) from Scott, W. January 1, 1822.</name>
+  					<name>Gaines, Edmund Pendleton (document signed by him). July 2, 1812.</name>	
+  					<name>Gibson, Horatio (letter by him on Scott and Lee during Mex. War). August 22, 1918.</name>
+  					<name>From Grant, Ulysses to Bomford, George. November 29, 1847.</name>
+  					<name>Grant, Ulysses (General Order 33). May 30, 1866.</name>
+  					<name>To Griffin, S. (army contractor) from Scott, W. November 2, 1814.</name>
+  					<name>To Halleck, Henry W. from Scott, W. December 8, 1863.</name>
+  					<name>Halleck, Henry. January 24, 1863</name>
+  					<name>From Hamilton, Schuyler (Gen.) to Wright, Marcus J. (Gen.). November 7, 1891.</name>
+  					<name>To Hamilton, William (Col.) from Scott, W. July 14, 1827.</name>
+  					<name>To Hoffman (Soc. Of Cincinnati) from Scott, W. November 22, 1858</name>
+  					<name>To from Scott, W. [undated]</name>
+  					<name>To Hogan, John B. (Capt.) from Scott, W. October 25, 1813.</name>				
+  					<name>From Humphreys, Andrew A. to Prince, Henry (Major). April 3, 1849.</name>		
+  					<name>From Ingersoll, C. J. to Scott, W. December 12, 1843.</name>			
+  					<name>From Jackson, Andrew to Scott, W. December 11, 1823 (copy, 1839).</name>
+  					<name>Mr. O’Neal’s. [undated].</name>
+  					<name>To Jackson, Andrew from Scott, W. December 11, 1823 (copy, 1839).</name>
+  					<name>Vick’s Hotel.</name>
+  					<name>To Jesup, Thomas Sidney from Scott, W. June 10, 1836.</name>
+  					<name>To Jesup,Thomas from Scott, W. June 16, 1836.</name>
+  					<name>To Jesup,Thomas from Scott, W. June 17, 1836.</name>
+  					<name>To Jesup,Thomas from Scott, W. June 19, 1836.</name>
+  					<name>To Jesup,Thomas from Scott, W. June 21, 1836.</name>
+  					<name>To Jesup,Thomas from Scott, W. June 22, 1836.</name>
+  					<name>To Jesup,Thomas from Scott, W. June 26, 1836.</name>
+  					<name>To Jesup,Thomas from Scott, W. June 30, 1836.</name>
+  					<name>To Johnson, Andrew from Stanton, Edwin. May 29, 1866.</name>
+  					<name>From Johnson, Andrew to Stanton, Edwin. May 29, 1866.</name>
+  					<name>From Johnston, Joseph E. to Scott, W. January 6, 1851.</name>
+  					<name>To Jones, Roger (Adj. Gen.) from Scott, W. June 4, 1825.</name>
+  					<name>To Jones, Roger (Adj. Gen.) from Scott, W. March 5, 1840.</name>
+  					<name>To Kearny, Stephen Watts from Scott, W. October 25, 1851.</name>
+  					<name>From Keyes, Erasmus D. to Scott, W. January 29, 1887.</name>
+  					<name>To King, Charles from Scott, W. December 17, 1844.</name>
+  					<name>To King, Thomas from Scott, W. December 3, 1851.</name>
+  					<name>To Kirby, C. L. from Scott, W. November 12, 1860. </name>
+  					<name>To Lathus, Richard from Scott, W. March 31, 1862.</name>
+  					<name>To Lawson, Thomas (Brig. Gen.) from Quitman, John Anthony. April 24, 1856</name>				
+  					<name>From Lafferts, M. to Scott, W. June 29, 1858.</name>
+  					<name>To Leigh, B. W. from Scott, W. November 28, 1839.</name>
+  					<name>To Lester, C. Edwards from Wool, John E. September 1859.</name>
+  					<name>To McClellan, George from Scott, W. December 6, 1863.</name>				
+  					<name>To Marcy, William Learned from Scott, W. February 13, 1838.</name>
+  					<name>To Mayer, Brantz from Scott, W. September 8, 1851.</name>
+  					<name>To Michelbacker from Scott, W. February 21, 1862.</name>
+  					<name>To Monroe, John (Col.) from Taylor, Joseph P. (Gen.). September 5, 1855.</name>
+  					<name>To Moor, W. J. from Cameron, Simon. December 22, 1862.</name>
+  					<name>To Morey from Scott, W. [undated].</name>				
+  					<name>To Morris, George P. (Gen.) from Scott, W. December 29, 1854.</name>
+  					<name>To Nevers, B. M. from Scott, W. June 29, 1858.</name>
+  					<name>To Nicholson, W.C. (Commander) from Scott, W. [undated].</name>			
+  					<name>To Nourse, Charles J. (Adj. Gen.) from Wool, John E. June 25, 1822.</name>
+  					<name>To Nourse, Charles J. from Scott, W. February 20, 1824.</name>
+  					<name>To Parker, Daniel from Scott, W. Dec 11, 1823 (copy 1839).</name>
+  					<name>To Patterson, Robert (Gen.) from Scott, W. May 7, 1853.</name>
+  					<name>To Platt, E from Scott, W. December 13, 1850.</name>				
+  					<name>To Poinsett, Joel R. (Sec. of War) from Scott, W. [undated].</name>		
+  					<name>To Poinsett, Joel R. (Sec. of War) from Scott, W. January, 1838.</name>				
+  					<name>To Polk, James K. from Scott, W. January 24, 1848.</name>				
+  					<name>To Prim, W. C. from Scott, W. March 31, 1862.</name>
+  					<name>To Prince, Henry (Major) from Humphreys, Andrew A. April 3, 1849.</name>			
+  					<name>From Quitman, John Anthony to Lawson, Thomas (Gen.). April 24, 1856.</name>						
+  					<name>To Rae, A.S. from Keyes, Erasmus D. January 29, 1887.</name>
+  					<name>To Roberts, Brig. Gen. [Joseph?] from Scott, W. June 14, 1865.</name>				
+  					<name>To Ruggles, Daniel from Scott, W. (special orders 63). April 17, 1861.</name>				
+  					<name>To Sackett, William A. (Congressman) from Scott, W. (military pass for). July 19, 1861.</name>				
+  					<name>To Sanger, Charles Wayne from Scott, W. October 9, 1851.</name>								
+  					<name>To Sanger, Charles Wayne from Scott, W. June 8, 1852.</name>				
+  					<name>To Schley, William (Gov. of Georgia) from Scott, W. July 4, 1836.</name>
+  					<name>To Schley, William from Scott, W. July 4, 1836.</name>	
+  					<name>To Seeger, F. from Scott, W. April 23, 1864.</name>			
+  					<name>To Silliman, Benjamin from Scott, W. December 17, 1844.</name>								
+  					<name>To Silliman, Benjamin from Scott, W (unsigned). 1844.</name>						
+  					<name>To Sinnard, William (Major) from Scott, W. May 9, 1820.</name>			
+  					<name>To Stanton, Edwin from Johnson, Andrew. May 29, 1866.</name>			
+  					<name>From Stanton, Edwin to Johnson, Andrew. May 29, 1866.</name>	
+  					<name>To Stanton, Edwin from Scott, W. April 9, 1862.</name>
+  					<name>To Stockton, Thomas Baylies Whitmarsh from Scott, W. February 7, 1846.</name>				
+  					<name>To Stone, James M. from Chase, Salmon P. March 26, 1852.</name>
+  					<name>To Stone, James M. from Sumner,Charles. January 18, 1861.</name>
+  					<name>From Sumner, Charles to Sumner, Charles. January 18, 1861.</name>				
+  					<name>To Talcott, George (Gen.) from Scott, W. August 24, 1850.</name>				
+  					<name>To Taylor, Zachary (Gen.) from Scott, W. March, 1840.</name>				
+  					<name>From Taylor, Zachary to Adj. General. August 26, 1842.</name>				
+  					<name>From Taylor, Joseph to Monroe, John (Col.). September 5, 1855.</name>		
+  					<name>From Thomas, Lorenzo (Gen.) to Baker, Rufus Lathrop (Maj.). August 17, 1842.</name>				
+  					<name>To Thompson, Gen. (Congressman) from Scott, W. January 25, 1841.</name>				
+  					<name>To Thompson (NY Soc of Cinc) from Scott, W. November 22, 1858.</name>			
+  					<name>To Townsend, Edward Davis from Scott, W. November 26, 1862.</name>
+  					<name>To Troye, E from Scott, W. March 31, 1862.</name>
+  					<name>To Tyler, Robert from Breese, Sidney. November 8, 1850.</name>		
+  					<name>To Ward, (Gen.) from Scott, W. March 6, 1855.</name>				
+  					<name>To Ward, (NY Soc. Of Cinc.) from Scott, W. November 22, 1858.</name>				
+  					<name>To Watterson, George from Scott, W. March 24, 1835.</name>		
+  					<name>To Webb (NY Soc. Of Cinc.) from Scott, W. November 22, 1858.</name>			
+  					<name>To Webster, Daniel from Scott, W. March 20, 1850.</name>				
+  					<name>To Weed, Thurlow from Scott, W (a circular). October 25, 1841.</name>
+  					<name>To Wessells, Henry Walton (Gen.) from Scott, W. January 3, 1865.</name>				
+  					<name>To White, John (cashier of U.S. Branch, New Orleans bank) from Scott, W. March 8, 1826.</name>					
+  					<name>From Williams, W. J. to Scott, W. June 29, 1858.</name>		
+  					<name>From Wool, John E. to Corning, Erastus. April 11, 1836.</name>
+  					<name>From Wool, John E. to Corning, Erastus. September, 1859.</name>
+  					<name>From Wool, John E. to Nourse, Charles J. June 25, 1822.</name>
+  					<name>To Worth, William J. (Lt. Col.) from Scott, W. July 26, 1830.</name>
+  					<name>To Worth, William J. from Scott, W. September 16, 1839.</name>
+  					<name>To Worth, William J. from Scott, W. May 11, 1842.</name>
+  					<name>To Worth, William J. from Scott, W. September 28, 1845.</name>
+  					<name>To Worth, William J. from Scott, W. August 2, 1847.</name>
+  					<name>To Wright, Marcus J. from Hamilton, Schuyler (Gen.). November 7, 1891.</name>
+ 					</namegrp></indexentry></index>
+  		</c02> 
+  	</c01>
+  </dsc> 
+</archdesc>
+</ead>

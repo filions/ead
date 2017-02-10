@@ -1,0 +1,398 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21">
+   <eadheader audience="internal" findaidstatus="edited-full-draft" langencoding="ISO_639-2b"
+      repositoryencoding="iso15511" scriptencoding="iso15924" dateencoding="iso8601"
+      countryencoding="iso3166-1">
+      <eadid encodinganalog="856$u"> PUBLIC "-//University of Arizona Library
+         Special Collections//text(US::AzU::Southwest Mission Research Center records)//en""UAMS443.xml"</eadid> 
+      <filedesc>
+         <titlestmt>
+            <titleproper encodinganalog="245">Southwestern Mission Research Center records, <date encodinganalog="245$f">1965-1994</date>
+                <num>MS 443</num>
+            </titleproper>
+            <author audience="internal">Processed by Deborah Weller and Yunzhen Wan</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>University of Arizona Libraries, Special Collections</publisher>
+            <date era="ce" calendar="gregorian">2010</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Machine-readable finding guide and skeletal markup derived via template; markup checked and completed by Yunzhen Wan, 
+            <date era="ce" calendar="gregorian">May 2010</date>
+         </creation>
+         <langusage>Finding guide is in <language langcode="eng">English</language>
+         </langusage>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Southwestern Mission Research Center records
+            <unitdate type="inclusive" normal="1965/1994">1965-1994</unitdate></unittitle>
+         <unitid encodinganalog="099">Collection Number: MS 443</unitid>
+         <origination label="Creator:"><persname encodinganalog="100">Southwestern Mission Research Center</persname></origination>
+         <abstract encodinganalog="520">This collection contains materials documenting the activities of the Southwestern Mission Research Center (SMRC) from 1965-1994. This collection is comprised of SMRC daily operational documents including; correspondence, business records, conference information, publication information, and tour information.  The bulk of the material contains correspondence either to or from Rev. Charles W. Polzer, S.J. focusing on activities of the SMRC.</abstract>
+         <physdesc><extent encodinganalog="300">3 linear feet </extent></physdesc>
+         <langmaterial>
+            <language langcode="eng" encodinganalog="546">English</language>
+         </langmaterial>
+         <repository label="Repository:"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+               <addressline>PO Box 210055</addressline> 
+               <addressline>Tucson, AZ 85721-0055</addressline> 
+               <addressline>Phone: 520-621-6423</addressline> 
+               <addressline>Fax: 520-621-9733</addressline> 
+               <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+            </address></repository> 
+      </did>
+      <descgrp type="admininfo">
+         <accessrestrict encodinganalog="506">
+            <p>None</p></accessrestrict>
+         <userestrict encodinganalog="540">
+            <p>It is the responsibility of the user to obtain permission to publish
+               from the owner of the copyright (the institution, the creator of the record,
+               the author or his/her transferees, heirs, legates, or literary executors). The
+               user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+               University of Arizona, its officers, employees, and agents from and against all
+               claims made by any person asserting that he or she is an owner of
+               copyright.</p>
+         </userestrict>
+        
+         <prefercite encodinganalog="524">
+            <p>Southwest Mission Research Center records (MS 443). Special Collections, University of Arizona, Special Collection.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist encodinganalog="545"><head>Historical Note</head>
+         <p>The Southwestern Mission Research Center was created in 1965 mainly through the determination of Rev. Charles W. Polzer, S.J. It is a nonprofit organization which was originally set up for the purpose of locating for Father Kino’s grave and to conduct related research on this topic. After the discovery of Father Kino’s gravesite in 1966, the Center became dedicated to promoting, coordinating, and developing research studies pertaining to the Spanish Borderlands.  </p>
+         <p>SMRC began publishing a Spanish colonial newsletter in 1967 to help bridge the gap between anthropologists and historians who were interested in the history of the southwest.  In 1974 the Center started to offer tours of the Kino missions which introduced people to the history and culture of the Pimeria Alta, in the Sonora Desert of Mexico and Arizona. SMRC also sponsored the Gran Quivira Conferences from 1972-1988, and the conference of Spanish and Latin American Archivist (SPARCON) from 1984-1986. The center published numerous publications about the history of Pimeria Alta, the most popular being the Kino Guide I and II written by of Rev. Charles W. Polzer, S.J.</p>
+      </bioghist>
+      <arrangement encodinganalog="351$a">
+         <p>This Collection is organized into 5 series. </p>
+         <list>
+            <item>Series I: Conference, <unitdate>1972-1988</unitdate></item>
+            <item>Series II: Organization, <unitdate>1965-1994</unitdate></item>
+            <item>Series III: Publication, <unitdate>1966-1996</unitdate></item>
+            <item>Series IV: Research, <unitdate>1966-1988</unitdate></item>
+            <item>Series V: Tours, <unitdate>1974-1991</unitdate></item>
+         </list>
+      </arrangement>
+      <scopecontent encodinganalog="520">
+         <p>The collection include financial records, meeting minutes, projects, SMRC tours information and other materials relating to the daily operation of SMRC. The materials focusing on specific conferences, such as Gran Quivira and SPARCON are contained in the series of the Conference, which includes the planning, invitation, correspondence, and conference schedules. The Board of director meeting minutes, miscellaneous correspondence, history of the center, and business financial records are arranged in the Organization series. The newsletter, books SMRC published and promoted, and newspapers collected by SMRC are under Publication series. Projects and proposals are included in Research series. All information related to tours is contained in Tours.</p>
+      </scopecontent>
+      <controlaccess>
+         <persname encodinganalog="600" source="lcnaf">Kino, Eusebio Francisco, 1644-1711. </persname>
+         <persname encodinganalog="600" source="lcnaf">Polzer, Charles W. </persname>
+         <subject encodinganalog="650" source="lcsh">Indians of North America -- Missions -- Southwest, New </subject>
+         <corpname encodinganalog="610" source="lcnaf">South western Mission Research Center (U.S.) . </corpname>
+         <corpname encodinganalog="610" source="lcnaf">Arizona State Museum</corpname>
+         <subject encodinganalog="650" source="lcsh">Spanish mission buildings -- Southwest, New.</subject>
+         <subject encodinganalog="650" source="lcsh">Explorers – Spain. </subject>
+         <subject encodinganalog="650" source="lcsh">Frontier and pioneer life – Arizona </subject>
+         <subject encodinganalog="650" source="lcsh">Indians of North America -- Missions -- Southwest, New.</subject>
+         <subject encodinganalog="650" source="lcsh">Explorers -- Southwest, New.</subject>
+      </controlaccess>
+      <dsc type="combined">
+             <c01 level="series">
+                <did><unittitle>Series I: Conference, 1972-1988</unittitle></did>
+                <arrangement><p>Series note: This series is organized by conference title and arranged alphabetically. Each conference contains business correspondence, registration list, conference schedule information, and meeting notes. The first, Gran Quivira, is arranged by conference number then by dates. The SPARCON conference is divided to correspondences, papers and conferences at specific location.</p></arrangement>
+                <c02 level="file">
+                   <did><unittitle>Conference:Gran Quivira I-V</unittitle>
+                      <unitdate normal="1972/1976">1972-1976</unitdate>
+                      <container type="Box">1</container>
+                      <container type="Folder">1</container></did>
+                </c02>    
+                <c02 level="file">
+                   <did><unittitle>Conference:Gran Quivira IV-X</unittitle>
+                      <unitdate normal="1978/1981">1978-1981</unitdate>
+                      <container type="Box">1</container>
+                      <container type="Folder">2</container></did>
+                </c02>    
+                <c02 level="file">
+                   <did><unittitle>Conference: Gran Quivira XI-XVII</unittitle>
+                      <unitdate normal="1982/1988">1982-1988</unitdate>
+                      <container type="Box">1</container>
+                      <container type="Folder">3</container></did>
+                </c02>   
+                <c02 level="file">
+                   <did><unittitle>Conference: Lereto conference on Baja California and symposium</unittitle>
+                      <unitdate normal="1976">1976</unitdate>
+                      <container type="Box">1</container>
+                      <container type="Folder">4</container></did>
+                </c02>   
+                <c02 level="file">
+                   <did><unittitle>Conference: SPARCON information</unittitle>
+                      <unitdate normal="1984/1985">1984-1985</unitdate>
+                      <container type="Box">1</container>
+                      <container type="Folder">5</container></did>
+                </c02>   
+                <c02 level="file">
+                   <did><unittitle>Conference: SPARCON correspondence</unittitle>
+                      <unitdate normal="1985/1986">1985-1986</unitdate>
+                      <container type="Box">1</container>
+                      <container type="Folder">6</container></did>
+                </c02>   
+                <c02 level="file">
+                   <did><unittitle>Conference: SPARCON research paper</unittitle>
+                      <unitdate normal="1986">1986</unitdate>
+                      <container type="Box">1</container>
+                      <container type="Folder">7</container></did>
+                </c02>
+                <c02 level="file">
+                   <did><unittitle>Conference: SPARCON USIA</unittitle>
+                      <unitdate normal="1986">1986</unitdate>
+                      <container type="Box">1</container>
+                      <container type="Folder">8</container></did>
+                </c02>
+             </c01>
+         <c01>                
+         <did><unittitle>Series II: Organization, 1965-1994</unittitle></did>
+                <arrangement><p>Series note: This series is arranged alphabetically. It contains organization related materials including Arizona Corporation Commission, Board of Director meeting minutes, correspondence, financial documents, historical documents and miscellaneous information.</p></arrangement>
+                <c02 level="file">
+                   <did><unittitle>Organization: Arizona Corporation Commission</unittitle>
+                      <unitdate normal="1965/1987">1965-1987</unitdate>
+                      <container type="Box">1</container>
+                      <container type="Folder">9</container></did> 
+                </c02>     
+            <c02 level="file">
+               <did><unittitle>Organization: Board of Director meeting minutes</unittitle>
+                  <unitdate normal="1987/1993">1987-1993</unitdate>
+                  <container type="Box">1</container>
+                  <container type="Folder">10</container></did> 
+            </c02>  
+            <c02 level="file">
+               <did><unittitle>Organization: Correspondence</unittitle>
+                  <unitdate normal="1964/1975">1964-1975</unitdate>
+                  <container type="Box">1</container>
+                  <container type="Folder">11</container></did> 
+            </c02>  
+            <c02 level="file">
+               <did><unittitle>Organization: Correspondence</unittitle>
+                  <unitdate normal="1976">1976</unitdate>
+                  <container type="Box">1</container>
+                  <container type="Folder">12</container></did> 
+            </c02> 
+            <c02 level="file">
+               <did><unittitle>Organization: Correspondence</unittitle>
+                  <unitdate normal="1977">1977</unitdate>
+                  <container type="Box">1</container>
+                  <container type="Folder">13</container></did> 
+            </c02>    
+            <c02 level="file">
+               <did><unittitle>Organization: Correspondence</unittitle>
+                  <unitdate normal="1978">1978</unitdate>
+                  <container type="Box">1</container>
+                  <container type="Folder">14</container></did> 
+            </c02>     
+            <c02 level="file">
+               <did><unittitle>Organization: Correspondence</unittitle>
+                  <unitdate normal="1979">1979</unitdate>
+                  <container type="Box">1</container>
+                  <container type="Folder">15</container></did> 
+            </c02>              
+            <c02 level="file">
+               <did><unittitle>Organization: Correspondence</unittitle>
+                  <unitdate normal="1980">1980</unitdate>
+                  <container type="Box">1</container>
+                  <container type="Folder">16</container></did> 
+            </c02>  
+            <c02 level="file">
+               <did><unittitle>Organization: Correspondence</unittitle>
+                  <unitdate normal="1981/1982">1981-1982</unitdate>
+                  <container type="Box">1</container>
+                  <container type="Folder">17</container></did> 
+            </c02>  
+            <c02 level="file">
+               <did><unittitle>Organization: Correspondence</unittitle>
+                  <unitdate normal="1983/1984">1983-1984</unitdate>
+                  <container type="Box">2</container>
+                  <container type="Folder">1</container></did> 
+            </c02>  
+            <c02 level="file">
+               <did><unittitle>Organization: Correspondence</unittitle>
+                  <unitdate normal="1985/1986">1985-1986</unitdate>
+                  <container type="Box">2</container>
+                  <container type="Folder">2</container></did> 
+            </c02>  
+            <c02 level="file">
+               <did><unittitle>Organization: Correspondence</unittitle>
+                  <unitdate normal="1987/1988">1987-1988</unitdate>
+                  <container type="Box">2</container>
+                  <container type="Folder">3</container></did> 
+            </c02> 
+            <c02 level="file">
+               <did><unittitle>Organization: Correspondence</unittitle>
+                  <unitdate normal="1989">1989</unitdate>
+                  <container type="Box">2</container>
+                  <container type="Folder">4</container></did> 
+            </c02> 
+            <c02 level="file">
+               <did><unittitle>Organization: Correspondence</unittitle>
+                  <unitdate normal="1990/1994">1990-1994</unitdate>
+                  <container type="Box">2</container>
+                  <container type="Folder">5</container></did> 
+            </c02> 
+            <c02 level="file">
+               <did><unittitle>Organization: Correspondences DRSW-SMRC</unittitle>
+                  <unitdate normal="1981/1983">1981-1983</unitdate>
+                  <container type="Box">2</container>
+                  <container type="Folder">6</container></did> 
+            </c02> 
+            <c02 level="file">
+               <did><unittitle>Organization: Financial SMRC expense</unittitle>
+                  <unitdate normal="1968/1986">1968-1986</unitdate>
+                  <container type="Box">2</container>
+                  <container type="Folder">7</container></did> 
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Organization: Financial SMRC income and expense</unittitle>
+                  <unitdate normal="1971/1986">1971-1986</unitdate>
+                  <container type="Box">2</container>
+                  <container type="Folder">8</container></did> 
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Organization: Financial Tax return</unittitle>
+                  <unitdate normal="1986/1990">1968-1990</unitdate>
+                  <container type="Box">2</container>
+                  <container type="Folder">9</container></did> 
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Organization: Historical document</unittitle>
+                  <unitdate normal="1965/1993">1965-1993</unitdate>
+                  <container type="Box">2</container>
+                  <container type="Folder">10</container></did> 
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Organization: Miscellaneous</unittitle>
+                  <container type="Box">2</container>
+                  <container type="Folder">11</container></did> 
+            </c02>
+         </c01>
+         <c01>                
+            <did><unittitle>Series III: Publication 1966-1996</unittitle></did>
+            <arrangement><p>Series note: This series contains the books’ information that SMRC published and promoted, SMRC newsletters related correspondences, drafts and invoices, articles published on newspapers and magazines, and the copyright issue occurred on Kino Guide book 1.</p></arrangement>
+            <c02 level="file">
+               <did><unittitle>Publication: Gallardo Affair (Book 1 copyright issue)</unittitle>
+                  <unitdate normal="1973/1975">1973-1975</unitdate>
+                  <container type="Box">2</container>
+                  <container type="Folder">12</container></did> 
+            </c02>   
+            <c02 level="file">
+               <did><unittitle>Publication: Cabat book I-III</unittitle>
+                  <unitdate normal="1979/1983">1979-1983</unitdate>
+                  <container type="Box">2</container>
+                  <container type="Folder">13</container></did> 
+            </c02> 
+            <c02 level="file">
+               <did><unittitle>Publication: Kino Guide I-II</unittitle>
+                  <unitdate normal="1972/1984">1972-1984</unitdate>
+                  <container type="Box">2</container>
+                  <container type="Folder">14</container></did> 
+            </c02> 
+            <c02 level="file">
+               <did><unittitle>Publication: Jose Velasquez/Ronald L. Ives</unittitle>
+                  <unitdate normal="1981/1984">1981-1984</unitdate>
+                  <container type="Box">3</container>
+                  <container type="Folder">1</container></did> 
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Publication: Newspaper article</unittitle>
+                  <unitdate normal="1974/1983">1974-1983</unitdate>
+                  <container type="Box">3</container>
+                  <container type="Folder">2</container></did> 
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Publication: Newsletter correspondences, draft and invoice</unittitle>
+                  <unitdate normal="1976/1996">1976-1996</unitdate>
+                  <container type="Box">3</container>
+                  <container type="Folder">3</container></did> 
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Publication: Stepchild + Tucson – Old Pueblo + Westerner’s smokes</unittitle>
+                  <container type="Box">3</container>
+                  <container type="Folder">4</container></did> 
+            </c02>
+            <c02 level="file">
+               <did><unittitle>Publication: Tumacacori (plant)</unittitle>
+                  <container type="Box">3</container>
+                  <container type="Folder">5</container></did> 
+            </c02>
+         </c01>
+         <c01>                
+            <did><unittitle>Series IV: Research 1966-1988</unittitle></did>
+            <arrangement><p>Series note: This series contains research related proposals, projects and miscellaneous materials.</p></arrangement>
+            <c02 level="file">
+               <did><unittitle>Research: Miscellaneous</unittitle>
+                  <container type="Box">3</container>
+                  <container type="Folder">6</container></did> 
+            </c02> 
+            <c02 level="file">
+               <did><unittitle>Research: Projects</unittitle>
+                  <unitdate normal="1986/1988">1986-1988</unitdate>
+                  <container type="Box">3</container>
+                  <container type="Folder">7</container></did> 
+            </c02>  
+            <c02 level="file">
+               <did><unittitle>Research: Proposal</unittitle>
+                  <unitdate normal="1966/1987">1966-1987</unitdate>
+                  <container type="Box">3</container>
+                  <container type="Folder">8</container></did> 
+            </c02>              
+         </c01>    
+         <c01>                
+            <did><unittitle>Series V: Tours 1974-1991</unittitle></did>
+            <arrangement><p>Series note: This series is arranged alphabetically by the tours location. SMRC has conducted annual Kino Mission tour for different groups as well as the tours to different location for different people. This series contains California Baja tour, California Mission Tour, and Kino Mission Tour.</p></arrangement> 
+            <c02 level="file">
+               <did><unittitle>Tours: California Baja tour</unittitle>
+                  <unitdate normal="1977/1981">1977-1981</unitdate>
+                  <container type="Box">3</container>
+                  <container type="Folder">9</container></did> 
+            </c02>    
+            <c02 level="file">
+               <did><unittitle>Tours: California Mission Tour + Miscellaneous</unittitle>
+                  <unitdate normal="1975/1978">1975-1978</unitdate>
+                  <container type="Box">3</container>
+                  <container type="Folder">10</container></did> 
+            </c02>     
+            <c02 level="file">
+               <did><unittitle>Tours: Kino Mission tour correspondence</unittitle>
+                  <unitdate normal="1974/1978">1974-1978</unitdate>
+                  <container type="Box">3</container>
+                  <container type="Folder">11</container></did> 
+            </c02>   
+            <c02 level="file">
+               <did><unittitle>Tours: Kino Mission tour correspondence</unittitle>
+                  <unitdate normal="1979/1988">1979-1988</unitdate>
+                  <container type="Box">3</container>
+                  <container type="Folder">12</container></did> 
+            </c02>              
+            <c02 level="file">
+               <did><unittitle>Tours: Kino Mission tour directories</unittitle>
+                  <unitdate normal="1978/1987">1978-1987</unitdate>
+                  <container type="Box">3</container>
+                  <container type="Folder">13</container></did> 
+            </c02> 
+            <c02 level="file">
+               <did><unittitle>Tours: Kino Mission tour financial report</unittitle>
+                  <unitdate normal="1986/1991">1986-1991</unitdate>
+                  <container type="Box">3</container>
+                  <container type="Folder">14</container></did> 
+            </c02> 
+            <c02 level="file">
+               <did><unittitle>Tours: Kino Mission tour promotional and newsletters</unittitle>
+                  <unitdate normal="1977/1981">1977-1981</unitdate>
+                  <container type="Box">3</container>
+                  <container type="Folder">15</container></did> 
+            </c02>   
+            <c02 level="file">
+               <did><unittitle>Tours: Kino Mission tour St. Benedict’s and SAH</unittitle>
+                  <unitdate normal="1981/1983">1981-1983</unitdate>
+                  <container type="Box">3</container>
+                  <container type="Folder">16</container></did> 
+            </c02>             
+         </c01>   
+      </dsc>      
+   </archdesc>
+</ead>

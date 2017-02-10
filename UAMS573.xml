@@ -1,0 +1,1926 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+   <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0"> 
+      <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special Collections//text
+		(US::AzU::A.E. (Gene) Magee Photographs and Papers)//en""UAMS573.xml"
+      </eadid> 
+      <filedesc> 
+         <titlestmt> 
+         	<titleproper encodinganalog="title">A.E. (Gene) Magee Photographs and Papers
+	 	       <date normal="1902/1996" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">1902-1996</date>
+	 	       
+	 	       <date normal="1930/1970" type="bulk">(bulk 1930-1970)</date>
+	 	    </titleproper>
+	 	    <titleproper type="filing" altrender="nodisplay"> Magee, (A.E. Gene) Photographs and Papers
+	 	    
+            </titleproper>
+	        <author>Processed by Rebecca Noble.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date normal= "2016" era= "ce" calendar = "gregorian">; 2016</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Rebecca Noble. 
+            <date era="ce" encodinganalog="date" normal="20160715">July 15, 2016</date>
+  	     </creation>
+	     <langusage>Finding aid encoded in<language> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc>
+   </eadheader> 
+   <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+      <did id="a1"> 
+         <head>Collection Summary</head> 
+      	<unittitle encodinganalog="245" label="Collection Name:"> A.E. (Gene) Magee Photographs and Papers
+            <unitdate type="inclusive" label="Dates:" normal="1902/1996">1902-1996</unitdate>
+            <unitdate type="bulk" label="Dates:" normal="1930/1970">(bulk 1930-1970)</unitdate> 
+  	     </unittitle>	 
+      	
+<unitid label="Collection Number:" encodinganalog="099" repositorycode="AzU" countrycode="us">MS 573</unitid>
+      	
+	     <origination label="Creator:"> 
+            <persname source="lcnaf" encodinganalog="100">Magee, A.E. (Gene), 1907-1999.</persname> 
+	     </origination> 
+      	<abstract label="Abstract:">This collection contains photographic prints, negatives, slides and a small number of papers created by A.E. (Gene) Magee from the 1920’s-1990’s. Subjects include aerial imagery of Tucson, Tucson Gas, Electric Light and Power Company, electrical engineering work, businesses and other locations throughout Tucson and the rest of Arizona and trips to California, Montana and Mexico.</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description:"><extent>5.4 linear feet</extent></physdesc>	 
+	     <repository label="Repository:"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng" scriptcode="Latin">English.</language></langmaterial>
+   	        
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+         <p>The following materials are restricted from access:</p>
+      	<p>Box 7 Folder 3; Box 8 Folder 1 and Folder 17; Box 9 Folder 2; Box 10 Folder 9; Box 15</p>
+      	<p>Please contact the archivist for assistance.</p>
+      </accessrestrict>
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+      	
+         <head>Credit Line</head> 
+      	<p>A.E. (Gene) Magee Photographs and Papers (MS 573). Special Collections, University of Arizona Libraries.</p>
+      </prefercite> 
+   	
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Rebecca Noble.</p>
+      </processinfo>
+      <bioghist id="a2" encodinganalog="545"> 
+         <head>Biographical Note</head> 
+      	<p>Arthur Eugene &quot;Gene&quot; Magee, born in 1907, moved from Oklahoma to Tucson with his family in 1924. Magee graduated 
+      		from Tucson High School in 1925 and received his B.S. in electrical engineering from the University of Arizona in 1930. He 
+      		began working full time at Tucson Gas, Electric Light and Power Company (now TEP) and photographing his electrical work, a 
+      		practice that continued throughout his career. Magee became the manager at Tucson Rapid Transit Company (now Sun Tran) for 
+      		eight years in the late 1930s and co-founded Western Ways Photographic Services with photographer and filmmaker Charles 
+      		Herbert in 1946. In 1948, Magee started his own company Magee Engineering in 1948 and left Western Ways to focus on his 
+      		new business. Magee spent the next 48 years operating his firm working on over 100 schools, over 30 buildings on the University 
+      		of Arizona campus, Tucson International Airport, City Hall and a variety of other buildings across Tucson. In addition to his 
+      		engineering career, Magee became a licensed pilot in the 1930s and began taking aerial photos of Tucson, effectively documenting 
+      		the city&apos;s post-WWII population growth over several decades. Throughout his life, Magee also traveled and photographed several 
+      		cities across Arizona, McLeod, Montana, some popular destinations in California and across northern Mexico, including many missions 
+      		founded by Father Kino. In 1995, Magee contributed some of his aerial images to <title render="italic">Above Tucson Now and Then</title> by James 
+      		Glinski, a book comparing aerial views taken by Magee in the 1940s to views taken by Glinski in 1995.</p> 
+      </bioghist> 
+      <arrangement id="a4" encodinganalog="351$a"> 
+         <head>Arrangement</head> 
+  	     <p>This collection is organized into 4 series and 13 subseries:</p>	 
+         <list>
+            <item>Series I: Tucson,
+  			   <unitdate>1902, circa 1920-1996</unitdate></item>
+         			<item>Sub-Series 1: Aerials,
+         				<unitdate>circa 1930-1996</unitdate></item>
+         			<item>Sub-Series 2: Aviation,
+         				<unitdate>circa 1940-1996</unitdate></item>
+         			<item>Sub-Series 3: Locations,
+         				<unitdate>1902, circa 1930-1996</unitdate></item>
+         			<item>Sub-Series 4: Schools,
+         				<unitdate>circa 1960-1990</unitdate></item>
+         			<item>Sub-Series 5: Tucson Gas, Electric Light and Power Company,
+         				<unitdate>1902-1950</unitdate></item>
+         			<item>Sub-Series 6: Miscellaneous,
+         				<unitdate>1939-1963</unitdate></item>
+         			<item>Sub-Series 7: Oversize Tucson,
+         				<unitdate>circa 1930-1996</unitdate></item>
+  		    <item>Series II: Arizona,
+  			   <unitdate>circa 1930-1990</unitdate></item>
+         			<item>Sub-Series 1: Arizona Cities,
+         				<unitdate>circa 1930-1990</unitdate></item>
+         			<item>Sub-Series 2: Miscellaneous,
+         				<unitdate>undated</unitdate></item>
+         			<item>Sub-Series 3: Oversize Arizona,
+         				<unitdate>1939-1950, 1975, 1984</unitdate></item>
+         	<item>Series III: United States and Mexico,
+         		<unitdate>1936-1960</unitdate></item>
+         			<item>Sub-Series 1: United States,
+         				<unitdate>1940-1960</unitdate></item>
+         			<item>Sub-Series 2: Mexico,
+         				<unitdate>1936-1937</unitdate></item>
+         			<item>Sub-Series 3: Oversize U.S. and Mexico,
+         				<unitdate>1936-1937, 1940</unitdate></item>
+         	<item>Series IV: Printed Materials,
+         		<unitdate>1952, 1972, 1978, 1996</unitdate></item>
+         </list>
+      </arrangement> 
+      <scopecontent id="a3" encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>This collection has four series and contains photographic materials consisting of black and white and color negatives 
+      		of varying formats from 35mm, medium and large format film and color slides, black and white and color prints of 
+      		varying sizes, contact sheets, postcards, a small number of papers created or kept by Magee and a small selection of 
+      		photographs from other Western Ways photographers, Manley Commercial Photography and the Buehman Collection. Many 
+      		negatives have little to no background information recorded. Materials in this collection date from 1902-1996, the 
+      		majority between 1930-1970, and document both aerial and ground views of Tucson, several cities across Arizona and 
+      		trips to California, Montana and Mexico.</p>
+      	<p>The first series pertains to Tucson from 1902-1996 and is divided into seven sub-series organized at folder level and consists 
+      		of aerials of Tucson spanning several decades, airports and air shows in and around Tucson, a variety of buildings, ranches and 
+      		other locations including a large number of schools Magee completed electrical work at, views of the Tucson Gas, Electric Light 
+      		and Power Company plant and miscellaneous events and sights around Tucson like the Tucson Rodeo and its annual parade. The final 
+      		sub-series contains oversize reproductions of materials found in the first six sub-series.</p>
+      	<p>The second series pertains to several cities across Arizona from 1930-1970 and is divided into three sub-series organized at folder 
+      		level. Magee did not record specific information such as dates for a bulk of these materials. The first series is organized by city 
+      		and the subjects found in each city vary greatly from aerials, businesses, dams, ghost towns, hotels, mills, mining, Native Americans, 
+      		ranches, scenery and schools. The second series consists of images of national and state parks and unidentified aerials, cacti, 
+      		ranches and scenery and the third series contains oversize reproductions of works from the first two sub-series.</p>
+      	<p>The third series pertains to travel outside of Arizona from 1940-1960 and is divided into three sub-series organized at folder level. 
+      		The first sub-series includes popular destinations in California and scenes from McLeod, Montana. The second sub-series includes 
+      		photographs from a trip Gene and his wife Pauline Magee took to Mexico in 1936 or 1937 where they visited many of Father Kino&apos;s 
+      		missions, multiple cities, the country side, beaches and Rancho Alamo.  The third sub-series contains oversize reproductions of 
+      		materials found in the first two sub-series.</p>
+      	<p>The fourth series contains a small selection of printed materials including personal letters sent to Magee, a volume of 
+      		&quot;Creative Ideas in Glass&quot; containing a feature on an addition to the El Con Shopping Mall where Magee completed work 
+      		as an electrical engineer, a newsletter from the West University Neighborhood Association and a &quot;special list stock cards.&quot;</p>
+      </scopecontent> 
+      <relatedmaterial id="a6" encodinganalog="5441">
+      	<p>A.E. Magee Collection (PC 177). Arizona Historical Society, Tucson, Archives Department.</p>
+      	<p><title render="italic">Above Tucson: then &amp; now</title> by James Glinski ; with Gene Magee&apos;s vintage photographs and a foreword by Roy P. Drachman.</p>
+      	<p>Buehman Family Collection (MS 1240). Arizona Historical Society, Tucson, Archives Department.</p>
+      	<p>The Western Ways Feature Files Collection (MS 1056). Arizona Historical Society, Tucson, Archives Department.</p>
+      </relatedmaterial> 
+      <controlaccess>
+         <head>Access Terms</head>
+         <list type="simple"> 
+            <item>
+            	<persname encodinganalog="600" source= "lcnaf">Magee, A. E. (Gene).</persname>
+  		    </item>
+  		    <item>
+  			   <corpname encodinganalog="610" source= "lcnaf">Magee Engineering.</corpname>
+  		    </item>
+         	<item>
+         		<corpname encodinganalog="610" source= "lcnaf">Western Ways Photographic Services.</corpname>
+         	</item>
+  		    <item>
+  			   <subject encodinganalog="650" source= "lcsh">Aerial Photography -- Arizona.</subject>
+  		    </item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Documentary photography--United States--History--20th century.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Electrical Engineering.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Photography -- Arizona -- Tucson.</subject>
+         	</item>
+  		    <item>
+  		    	<geogname encodinganalog="651" source="lcsh">Arizona -- Pictorial works.</geogname>
+  		    </item>
+         	<item>
+         		<geogname encodinganalog="651" source="lcsh">California -- Pictorial works.</geogname>
+         	</item>
+         	<item>
+         		<geogname encodinganalog="651" source="lcsh">Mexico -- Pictorial works.</geogname>
+         	</item>
+         	<item>
+         		<geogname encodinganalog="651" source="lcsh">Montana -- Pictorial works.</geogname>
+         	</item>
+         	<item>
+         		<geogname encodinganalog="651" source="lcsh">Tucson (Ariz.) -- Pictorial works.</geogname>
+         	</item>
+         </list>
+      </controlaccess>
+      <dsc type="combined" id="a23"> 
+         <head>Container List</head> 
+         <c01 level="series" id="ser1"> 
+         <did> 
+         <unitid>Series I</unitid>
+         <unittitle>Tucson,</unittitle> 
+		 <unitdate type="inclusive">1902, circa 1920-1996</unitdate>
+		 </did>
+	 	 <scopecontent>
+	 	 	<p>This series has seven subseries. It contains mostly black and white and some color 35 mm, medium and large 
+	 	 		format negatives and prints of varying sizes, printed materials, postcards and some color slides of locations 
+	 	 		within the city of Tucson and the surrounding area.</p>
+	 	 </scopecontent>
+         	
+         			<c02 level="subseries" id="subser1">
+         			<did> 
+         			<unitid>Subseries 1</unitid>
+         			<unittitle>Aerials,</unittitle> 
+         			<unitdate>circa 1930-1996</unitdate>
+         			</did> 
+         			<scopecontent>
+         				<p>This series is arranged alphabetically and described at folder level and contains black and white aerial 
+         					negatives and prints of various parts of Tucson spanning several decades taken during Magee&apos;s frequent flights 
+         					over the city. Prints in the identified folder note street names and are often dated by Magee.</p>
+         			</scopecontent> 
+         				
+         					<c03 level="file"> 
+         					<did> 
+         					<container type="box">1</container> 
+         					<container type="folder">1</container> 
+         					<unittitle>Downtown -- negatives and photos,</unittitle>
+         					<unitdate>circa 1970-1990</unitdate>
+         					</did> 
+         					</c03>
+         				
+         					<c03 level="file"> 
+         					<did> 
+         					<container type="box">1</container> 
+         					<container type="folder">2</container> 
+         					<unittitle>Identified -- negatives and photos,</unittitle>
+         					<unitdate>circa 1930-1990</unitdate>
+         					</did> 
+         					</c03>
+         				
+         				<c03 level="file"> 
+         					<did> 
+         						<container type="box">1</container> 
+         						<container type="folder">3</container> 
+         						<unittitle>Tucson Residences -- negatives,</unittitle>
+         						<unitdate>1941, undated</unitdate>
+         					</did> 
+         				</c03>
+         				
+         				<c03 level="file"> 
+         					<did> 
+         						<container type="box">1</container> 
+         						<container type="folder">4</container> 
+         						<unittitle>Unidentified -- negatives,</unittitle>
+         						<unitdate>circa 1930-1990</unitdate>
+         					</did> 
+         				</c03>
+         				
+         				<c03 level="file"> 
+         					<did> 
+         						<container type="box">1</container> 
+         						<container type="folder">5</container> 
+         						<unittitle>Unidentified -- photos,</unittitle>
+         						<unitdate>circa 1930-1990</unitdate>
+         					</did> 
+         				</c03>
+         				
+         			</c02>
+         	
+         	<c02 level="subseries" id="subser2">
+         		<did> 
+         			<unitid>Subseries 2</unitid>
+         			<unittitle>Aviation,</unittitle> 
+         			<unitdate type="inclusive">circa 1940-1996</unitdate>
+         		</did> 
+         		<scopecontent>
+         			<p>This series is described at folder level and is arranged alphabetically. It contains mostly black and white 
+         				and some color negatives and prints including many aerial images from various early airports that have been 
+         				demolished, repurposed or remodeled, the first incarnation of the Tucson International Airport where Magee 
+         				worked as the engineer of record, air shows and a space shuttle launch.</p>
+         		</scopecontent>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">1</container> 
+         				<container type="folder">6</container> 
+         				<unittitle>Avra Valley Air Show -- negatives and photos,</unittitle>
+         				<unitdate>1984</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">1</container> 
+         				<container type="folder">7</container> 
+         				<unittitle>Davis Monthan Air Force Base -- photo,</unittitle>
+         				<unitdate>circa 1940-1950</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">1</container> 
+         				<container type="folder">8</container> 
+         				<unittitle>Gilpin Airport -- negatives,</unittitle>
+         				<unitdate>circa 1940-1950</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">1</container> 
+         				<container type="folder">9</container> 
+         				<unittitle>Gilpin Airport -- photos,</unittitle>
+         				<unitdate>circa 1940-1950</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">1</container> 
+         				<container type="folder">10</container> 
+         				<unittitle>Lockheed Hanger -- negatives and prints,</unittitle>
+         				<unitdate>1993</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">1</container> 
+         				<container type="folder">11</container> 
+         				<unittitle>Space Shuttle Launch -- negatives,</unittitle>
+         				<unitdate>1986</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">2</container> 
+         				<container type="folder">1</container> 
+         				<unittitle>Tucson Airport -- Hodgin Family, Terminal -- negatives,</unittitle>
+         				<unitdate>circa 1940-1950</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">2</container> 
+         				<container type="folder">2</container> 
+         				<unittitle>Tucson Airport -- Terminal -- negatives,</unittitle>
+         				<unitdate>circa 1940-1950</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">2</container> 
+         				<container type="folder">3</container> 
+         				<unittitle>Grand Central -- photos,</unittitle>
+         				<unitdate>circa 1950-1955</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">2</container> 
+         				<container type="folder">4</container> 
+         				<unittitle>Tucson Airport -- printed materials,</unittitle>
+         				<unitdate>1968</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">2</container> 
+         				<container type="folder">5</container> 
+         				<unittitle>Tucson Air Show -- negatives,</unittitle>
+         				<unitdate>circa 1970-1980</unitdate>
+         			</did> 
+         		</c03>
+         		
+         	</c02>
+         	
+         	<c02 level="subseries" id="subser3">
+         		<did> 
+         			<unitid>Subseries 3</unitid>
+         			<unittitle>Locations,</unittitle> 
+         			<unitdate type="inclusive">1902, circa 1930-1996</unitdate>
+         		</did> 
+         		<scopecontent>
+         			<p>This series is described at folder level and is arranged alphabetically. It contains mostly black and white 
+         				and some color negatives and prints including some aerial images, printed materials and some color slides of 
+         				a variety of businesses, sport fields, popular destinations like San Xavier Mission and Saguaro National Park 
+         				and other buildings in Tucson, many of which Magee did electrical work for.</p>
+         		</scopecontent>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">2</container> 
+         				<container type="folder">6</container> 
+         				<unittitle>Arizona Historical Society -- Manley Commercial Photography -- prints,</unittitle>
+         				<unitdate>circa 1960-1970</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">2</container> 
+         				<container type="folder">7</container> 
+         				<unittitle>Arizona Inn -- print,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">2</container> 
+         				<container type="folder">8</container> 
+         				<unittitle>Arizona Sonora Desert Museum -- Western Ways -- negatives and prints,</unittitle>
+         				<unitdate>1938, undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">2</container> 
+         				<container type="folder">9</container> 
+         				<unittitle>Arizona Trust Company -- prints,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">2</container> 
+         				<container type="folder">10</container> 
+         				<unittitle>Baseball field (railroad tracks and Speedway) -- prints,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">2</container> 
+         				<container type="folder">11</container> 
+         				<unittitle>Colossal Cave -- negative and print,</unittitle>
+         				<unitdate>1938</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">2</container> 
+         				<container type="folder">12</container> 
+         				<unittitle>Congress St. Bridge Statues -- negatives,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">2</container> 
+         				<container type="folder">13</container> 
+         				<unittitle>DeGrazia Gallery in the Sun -- slides,</unittitle>
+         				<unitdate>1961</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">2</container> 
+         				<container type="folder">14</container> 
+         				<unittitle>Downtown: East side of Park at railroad tracks -- prints,</unittitle>
+         				<unitdate>1992</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">2</container> 
+         				<container type="folder">15</container> 
+         				<unittitle>Downtown: assorted buildings -- negatives and prints,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">2</container> 
+         				<container type="folder">16</container> 
+         				<unittitle>Elks Club / Snob Hollow -- prints,</unittitle>
+         				<unitdate>circa 1970-1980</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">2</container> 
+         				<container type="folder">17</container> 
+         				<unittitle>Fort Lowell Site -- print,</unittitle>
+         				<unitdate>1943</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">3</container> 
+         				<container type="folder">1</container> 
+         				<unittitle>General Electric -- Gates Learjet Lighting -- prints, printed materials,</unittitle>
+         				<unitdate>circa 1970-1980, undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">3</container> 
+         				<container type="folder">2</container> 
+         				<unittitle>Hi Corbett Field -- negatives and prints,</unittitle>
+         				<unitdate>1992-1993, undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">3</container> 
+         				<container type="folder">3</container> 
+         				<unittitle>Infilco, South Campbell Ave. -- prints,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">3</container> 
+         				<container type="folder">4</container> 
+         				<unittitle>Lodge in the Desert -- negatives,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">3</container> 
+         				<container type="folder">5</container> 
+         				<unittitle>Miracle Mile -- prints,</unittitle>
+         				<unitdate>1946</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">3</container> 
+         				<container type="folder">6</container> 
+         				<unittitle>Old Tucson -- negatives and slides,</unittitle>
+         				<unitdate>1958, undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">3</container> 
+         				<container type="folder">7</container> 
+         				<unittitle>Plaza International -- print,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">3</container> 
+         				<container type="folder">8</container> 
+         				<unittitle>Pima County Court House, Western Ways / Peter Balestrero -- prints,</unittitle>
+         				<unitdate>circa 1950-1960</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">3</container> 
+         				<container type="folder">9</container> 
+         				<unittitle>Pond&apos;s Mansion -- prints,</unittitle>
+         				<unitdate>1946, 1995</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">3</container> 
+         				<container type="folder">10</container> 
+         				<unittitle>Red &amp; Blue Drive-In -- Arthur Brown -- negative,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">3</container> 
+         				<container type="folder">11</container> 
+         				<unittitle>Ranches: Desert Haven Trailer Court, Diamond W Ranch, Double A Ranch, Double U Ranch, Flying V Ranch, Rancho del Rio -- negatives,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">3</container> 
+         				<container type="folder">12</container> 
+         				<unittitle>Saguaro National Park -- negatives, prints and color slides,</unittitle>
+         				<unitdate>1958, undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">3</container> 
+         				<container type="folder">13</container> 
+         				<unittitle>San Xavier Mission -- negatives, prints and color slides,</unittitle>
+         				<unitdate>circa 1940-1950, undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">3</container> 
+         				<container type="folder">14</container> 
+         				<unittitle>San Xavier Mission: Tucson Boys&apos; Choir -- negatives,</unittitle>
+         				<unitdate>1944</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">3</container> 
+         				<container type="folder">15</container> 
+         				<unittitle>Sandpit at Speedway and Pantano -- print,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">3</container> 
+         				<container type="folder">16</container> 
+         				<unittitle>Softball Field: S. 3rd St. and 22nd St. -- prints,</unittitle>
+         				<unitdate>1948</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">3</container> 
+         				<container type="folder">17</container> 
+         				<unittitle>Southern Arizona Bank and Trust Co. -- negatives and prints,</unittitle>
+         				<unitdate>1971, undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">3</container> 
+         				<container type="folder">18</container> 
+         				<unittitle>St. Philips in the Hills Church -- negative and photo,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">3</container> 
+         				<container type="folder">19</container> 
+         				<unittitle>Tucson Carnegie Library / Tucson Children&apos;s Museum -- print,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">3</container> 
+         				<container type="folder">20</container> 
+         				<unittitle>Tucson City Hall -- print,</unittitle>
+         				<unitdate>circa 1960-1970</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">3</container> 
+         				<container type="folder">21</container> 
+         				<unittitle>Tucson Community Center -- negatives,</unittitle>
+         				<unitdate>1973</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">3</container> 
+         				<container type="folder">22</container> 
+         				<unittitle>Tucson Fire Station Corner Park fire simulator -- negatives,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">3</container> 
+         				<container type="folder">23</container> 
+         				<unittitle>Tucson House Hotel -- negative and prints,</unittitle>
+         				<unitdate>circa 1960-1970</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">3</container> 
+         				<container type="folder">24</container> 
+         				<unittitle>Tucson Rapid Transit Co. -- negatives,</unittitle>
+         				<unitdate>1937-1944</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">4</container> 
+         				<container type="folder">1</container> 
+         				<unittitle>Tucson Rock and Sand Co. -- negatives,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">4</container> 
+         				<container type="folder">2</container> 
+         				<unittitle>Union Bank -- negative and prints,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">4</container> 
+         				<container type="folder">3</container> 
+         				<unittitle>VA Hospital -- prints,</unittitle>
+         				<unitdate>1946</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">4</container> 
+         				<container type="folder">4</container> 
+         				<unittitle>YMCA, W. Congress -- prints,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">4</container> 
+         				<container type="folder">5</container> 
+         				<unittitle>YMCA, 6th St. and 35th Ave. -- Manley Commercial Photography / Peter Balestrero -- prints,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         	</c02>
+         	
+         	<c02 level="subseries" id="subser4">
+         		<did> 
+         			<unitid>Subseries 4</unitid>
+         			<unittitle>Schools,</unittitle> 
+         			<unitdate type="inclusive">circa 1960-1990</unitdate>
+         		</did> 
+         		<scopecontent>
+         			<p>This series is described at folder level and is arranged alphabetically. It contains mostly black and white and some color 
+         				negatives and prints and a postcard including aerial and interior images depicting schools throughout Tucson, including the 
+         				University of Arizona.</p>
+         		</scopecontent>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">4</container> 
+         				<container type="folder">6</container> 
+         				<unittitle>Canyon del Oro High School Football Field -- negatives and prints,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">4</container> 
+         				<container type="folder">7</container> 
+         				<unittitle>Catalina High School Gym -- prints,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">4</container> 
+         				<container type="folder">8</container> 
+         				<unittitle>Gale Elementary -- prints,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">4</container> 
+         				<container type="folder">9</container> 
+         				<unittitle>John B. Wright School -- prints,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">4</container> 
+         				<container type="folder">10</container> 
+         				<unittitle>Marana High School -- negatives and prints,</unittitle>
+         				<unitdate>1976, undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">4</container> 
+         				<container type="folder">11</container> 
+         				<unittitle>Menlo Park School -- negatives,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">4</container> 
+         				<container type="folder">12</container> 
+         				<unittitle>Pima Community College aerials -- prints,</unittitle>
+         				<unitdate>1971</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">4</container> 
+         				<container type="folder">13</container> 
+         				<unittitle>Pima Community College Performing Arts Center (photographed by Robert Davis), 
+         					Communications Center and Art Gallery -- negatives and prints,</unittitle>
+         				<unitdate>1991, undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">4</container> 
+         				<container type="folder">14</container> 
+         				<unittitle>Pima Community College switchboard / transformer -- negatives and prints,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">4</container> 
+         				<container type="folder">15</container> 
+         				<unittitle>Sahuaro High School -- prints,</unittitle>
+         				<unitdate>1971</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">4</container> 
+         				<container type="folder">16</container> 
+         				<unittitle>Tucson High School -- negatives and postcard,</unittitle>
+         				<unitdate>1989, undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">4</container> 
+         				<container type="folder">17</container> 
+         				<unittitle>University of Arizona aerials -- negatives and prints,</unittitle>
+         				<unitdate>1989, undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">4</container> 
+         				<container type="folder">18</container> 
+         				<unittitle>University of Arizona Chemistry Building -- negatives and prints,</unittitle>
+         				<unitdate>1973</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">4</container> 
+         				<container type="folder">19</container> 
+         				<unittitle>University of Arizona Fine Arts Building -- negatives and prints,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">5</container> 
+         				<container type="folder">1</container> 
+         				<unittitle>University of Arizona Main Library -- negatives and prints,</unittitle>
+         				<unitdate>1978, undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">5</container> 
+         				<container type="folder">2</container> 
+         				<unittitle>University of Arizona McKale Memorial Center -- negatives and prints,</unittitle>
+         				<unitdate>1973</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">5</container> 
+         				<container type="folder">3</container> 
+         				<unittitle>University of Arizona School of Medicine exterior and aerials -- negatives and prints,</unittitle>
+         				<unitdate>1971, undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">5</container> 
+         				<container type="folder">4</container> 
+         				<unittitle>University of Arizona School of Medicine interior -- negatives and prints,</unittitle>
+         				<unitdate>1969, 1971, undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">5</container> 
+         				<container type="folder">5</container> 
+         				<unittitle>University of Arizona Miscellaneous Buildings -- negatives and prints,</unittitle>
+         				<unitdate>1968, 1975, undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">5</container> 
+         				<container type="folder">6</container> 
+         				<unittitle>University of Arizona Optical Sciences Building -- negatives and prints,</unittitle>
+         				<unitdate>1973</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">5</container> 
+         				<container type="folder">7</container> 
+         				<unittitle>University of Arizona Science and Engineering Library -- negatives and prints,</unittitle>
+         				<unitdate>1973, undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         	</c02>
+         	
+         	<c02 level="subseries" id="subser5">
+         		<did> 
+         			<unitid>Subseries 5</unitid>
+         			<unittitle>Tucson Gas, Electric Light and Power Co.,</unittitle> 
+         			<unitdate type="inclusive">circa 1902-1950</unitdate>
+         		</did> 
+         		<scopecontent>
+         			<p>This series is described at folder level and arranged alphabetically and contains not only some of the earliest 
+         				black and white negatives and prints made by Magee, but a selection of prints from the Buehman collection taken 
+         				in 1902 of the interior and exterior of the old Tucson Gas, Electric Light and Power Co. power plant.  Also pictured 
+         				are several employees, aerial views of the plant and abstract images of industrial details in addition to small amount 
+         				of printed materials.</p>
+         		</scopecontent>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">5</container> 
+         				<container type="folder">8</container> 
+         				<unittitle>Buehman photos, old power plant -- prints,</unittitle>
+         				<unitdate>1902</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">6</container> 
+         				<container type="folder">1</container> 
+         				<unittitle>Fort Huachuca Pole Line -- prints,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">6</container> 
+         				<container type="folder">2</container> 
+         				<unittitle>Power plant aerials -- prints,</unittitle>
+         				<unitdate>1950, undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">6</container> 
+         				<container type="folder">3</container> 
+         				<unittitle>Power plant exterior -- prints,</unittitle>
+         				<unitdate>circa 1920-1930, undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">6</container> 
+         				<container type="folder">4</container> 
+         				<unittitle>Power plant interior -- prints,</unittitle>
+         				<unitdate>circa 1920-1930, undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">6</container> 
+         				<container type="folder">5</container> 
+         				<unittitle>Printed materials,</unittitle>
+         				<unitdate>1902, 1925</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">6</container> 
+         				<container type="folder">6</container> 
+         				<unittitle>Turbine and first power plant -- negatives,</unittitle>
+         				<unitdate>1937, undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         	</c02>
+         	
+         	<c02 level="subseries" id="subser6">
+         		<did> 
+         			<unitid>Subseries 6</unitid>
+         			<unittitle>Miscellaneous,</unittitle> 
+         			<unitdate type="inclusive">circa 1939-1963</unitdate>
+         		</did> 
+         		<scopecontent>
+         			<p>This series is described at folder level and arranged alphabetically and contains black and white negatives 
+         				and prints. It contains miscellaneous subject matter within the city of Tucson like the Tucson Rodeo and parade 
+         				and baby owls.</p>
+         		</scopecontent>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">6</container> 
+         				<container type="folder">7</container> 
+         				<unittitle>Baby Owls -- negatives,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">6</container> 
+         				<container type="folder">8</container> 
+         				<unittitle>Circus -- negatives,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">6</container> 
+         				<container type="folder">9</container> 
+         				<unittitle>Father Kino plaque at City Hall -- negatives,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">6</container> 
+         				<container type="folder">10</container> 
+         				<unittitle>Tucson area mountain ranges -- negatives and print,</unittitle>
+         				<unitdate>1945-1949</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">6</container> 
+         				<container type="folder">11</container> 
+         				<unittitle>Tucson Mid-Winter Rodeo -- negatives,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">6</container> 
+         				<container type="folder">12</container> 
+         				<unittitle>Tucson Rodeo Parade and Rodeo -- negatives and color slides,</unittitle>
+         				<unitdate>circa 1939-1950, 1963</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">6</container> 
+         				<container type="folder">13</container> 
+         				<unittitle>Tucson Rodeo Parade and Rodeo -- negatives and prints,</unittitle>
+         				<unitdate>1946-1947</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">6</container> 
+         				<container type="folder">14</container> 
+         				<unittitle>Unidentified instrument -- print,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">6</container> 
+         				<container type="folder">15</container> 
+         				<unittitle>Vasquez, ornamental iron worker -- negatives and prints,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         	</c02>
+         	
+         	<c02 level="subseries" id="subser7">
+         		<did> 
+         			<unitid>Subseries 7</unitid>
+         			<unittitle>Oversize Tucson,</unittitle> 
+         			<unitdate type="inclusive">circa 1930-1996</unitdate>
+         		</did> 
+         		<scopecontent>
+         			<p>This series is described at box level and has no organization. It contains mostly black and white 
+         				and some color oversize reproductions of images from the first set of series within the collection.</p>
+         		</scopecontent>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">6A</container> 
+         				<unittitle>Contents include Arizona Stadium, Avra Valley Air Show, country scenery east of Rincons, 
+         					Canyon del Oro High School football field lighting, aerials of Downtown Tucson (some including 
+         					the rodeo parade) and views of buildings from the ground, aerials of Hi-Corbett Field, McKale 
+         					Center, Saguaro National Park, aerial of San Xavier Mission, Southern Arizona Bank and Trust Co., 
+         					St. Phillips in the Hills Episcopal Church, Tucson Gas, Electric Light and Power Co., Tucson House, 
+         					aerials of University of Arizona Medical School and other aerial views of campus.,</unittitle>
+         				<unitdate>circa 1930-1996</unitdate>
+         			</did> 
+         		</c03>
+         		
+         	</c02>
+	     </c01> 
+         <c01 level="series" id="ser2">
+            <did> 
+            	<unitid>Series 2</unitid>
+            	<unittitle>Arizona,</unittitle> 
+			   <unitdate type="inclusive">circa 1930-1984</unitdate>
+		    </did>
+         	<scopecontent><p>This series has three sub-series and contains black and white and some color negatives and prints of 
+         					varying sizes, color slides and postcards.</p></scopecontent>
+	     
+         	<c02 level="subseries" id="subser8">
+         		<did> 
+         			<unitid>Subseries 1</unitid>
+         			<unittitle>Arizona cities,</unittitle> 
+         			<unitdate type="inclusive">circa 1930-1990</unitdate>
+         		</did> 
+         		<scopecontent>
+         			<p>This series is described at folder level and is organized alphabetically by location. It contains color slides, 
+         				mostly black and white and some color 35 mm, medium and large format negatives and prints of varying sizes and 
+         				postcards of various subjects from businesses, mining and other industries, scenery, dams, ranches, schools, 
+         				Native American reservations and ghost towns within cities and counties across Arizona. Creation dates of the 
+         				materials were seldom noted by Magee.</p>
+         		</scopecontent>
+             
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">7</container> 
+         				<container type="folder">1</container> 
+         				<unittitle>Ajo: Phelps Dodge Copper Mill, New Cornelia open pit mine -- negatives,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">7</container> 
+         				<container type="folder">2</container> 
+         				<unittitle>Amado: Amado Golf Course, Kinsley Ranch, Kinsley Ranch Rodeo, Sopori Ranch -- negatives,</unittitle>
+         				<unitdate>1946, undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">7</container> 
+         				<container type="folder">3</container> 
+         				<unittitle>Apache Reservation: Apache family -- negative <emph render="bold">(restricted)</emph>,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">7</container> 
+         				<container type="folder">4</container> 
+         				<unittitle>Arivaca: scenery -- negatives,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">7</container> 
+         				<container type="folder">5</container> 
+         				<unittitle>Benson: Cattle ranch, Southern Pacific Railroad aerials -- negatives,</unittitle>
+         				<unitdate>1948, undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">7</container> 
+         				<container type="folder">6</container> 
+         				<unittitle>Bisbee: Warren area aerials -- negatives and prints,</unittitle>
+         				<unitdate>1949, undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">7</container> 
+         				<container type="folder">7</container> 
+         				<unittitle>Bowie: Desert Rose Gift Shop -- negatives, prints, postcard,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">7</container> 
+         				<container type="folder">8</container> 
+         				<unittitle>Douglas: Wonderland of Rocks -- negative,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">7</container> 
+         				<container type="folder">9</container> 
+         				<unittitle>Elgin: aerials, Collie Ranch, Diamond C Ranch at Canelo, scenics -- negatives,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">7</container> 
+         				<container type="folder">10</container> 
+         				<unittitle>Flagstaff: Northern Arizona University library and teaching building -- negatives,</unittitle>
+         				<unitdate>1967</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">7</container> 
+         				<container type="folder">11</container> 
+         				<unittitle>Globe: Coolidge Dam, Highway 60 (Salt River area), Gila County Hospital, Griffin Ranch -- negatives and prints,</unittitle>
+         				<unitdate>1946-1947, undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">7</container> 
+         				<container type="folder">12</container> 
+         				<unittitle>Greer: Turner&apos;s Hilltop Lodge -- negatives and prints,</unittitle>
+         				<unitdate>1942</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">8</container> 
+         				<container type="folder">1</container> 
+         				<unittitle>Havasupai: residents and scenics, Western Ways -- prints <emph render="bold">(restricted)</emph>,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">8</container> 
+         				<container type="folder">2</container> 
+         				<unittitle>Kitt Peak Observatory -- negatives and slides,</unittitle>
+         				<unitdate>1963, undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">8</container> 
+         				<container type="folder">3</container> 
+         				<unittitle>Mammoth: Collins Stone, Crystal Lake, Pony Express Rider Shorty Neal, smelters, Sombrero Butte -- negatives,</unittitle>
+         				<unitdate>1946, undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">8</container> 
+         				<container type="folder">4</container> 
+         				<unittitle>Marana Way: deer, scenics -- negatives,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">8</container> 
+         				<container type="folder">5</container> 
+         				<unittitle>Maricopa County: Mormon Flat Dam -- negatives,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">8</container> 
+         				<container type="folder">6</container> 
+         				<unittitle>McNary: General Store, Southwest Mills Inc., theater -- negatives and prints,</unittitle>
+         				<unitdate>1946</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">8</container> 
+         				<container type="folder">7</container> 
+         				<unittitle>Mohave County: Hoover Dam -- negatives,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">8</container> 
+         				<container type="folder">8</container> 
+         				<unittitle>Nogales: Mexican Air Force, Rancho Guevavi aerials -- negatives,</unittitle>
+         				<unitdate>1939-1940, undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">8</container> 
+         				<container type="folder">9</container> 
+         				<unittitle>Oracle: Church, cattle corral, Mountain View Hotel, Oracle Inn, Rancho Robles, schools, Western Antiques -- negatives,</unittitle>
+         				<unitdate>1937, 1944-1946, undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">8</container> 
+         				<container type="folder">10</container> 
+         				<unittitle>Oracle Junction: Am. Smelting and Roofing Co. -- negatives and prints,</unittitle>
+         				<unitdate>1949</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">8</container> 
+         				<container type="folder">11</container> 
+         				<unittitle>Patagonia: aerials, Circle Z Guest Ranch, Jeffcott Ranch, Wilshaw Ranch -- negatives,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">8</container> 
+         				<container type="folder">12</container> 
+         				<unittitle>Phoenix: Chris Town Center -- prints,</unittitle>
+         				<unitdate>1961</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">8</container> 
+         				<container type="folder">13</container> 
+         				<unittitle>Sahuarita: aerial of mill, Western Ways / M. T. Thomas -- print,</unittitle>
+         				<unitdate>1946</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">8</container> 
+         				<container type="folder">14</container> 
+         				<unittitle>Santa Cruz County, Nogales Highway: Howell Manning Ranch, Hugh Merryweather ranch house, Kenyon Ranch, Rancho Chiquito -- negatives,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">8</container> 
+         				<container type="folder">15</container> 
+         				<unittitle>Sedona: Chapel of the Holy Cross, wagon wheel -- negatives,</unittitle>
+         				<unitdate>1938</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">8</container> 
+         				<container type="folder">16</container> 
+         				<unittitle>Sells: Aerial, ball field, circus -- negatives and color slides,</unittitle>
+         				<unitdate>1971, undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">8</container> 
+         				<container type="folder">17</container> 
+         				<unittitle>Sells: Indian cowboys -- negatives <emph render="bold">(restricted)</emph>,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">9</container> 
+         				<container type="folder">1</container> 
+         				<unittitle>Show Low: Becker Butte, Charlson Sawmill, fish hatchery, Kinishba Curio, Nava-Pache Hospital, Ponderosa Park, Show Low scenics, Show Low Hospital -- negatives and prints,</unittitle>
+         				<unitdate>1946, undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">9</container> 
+         				<container type="folder">2</container> 
+         				<unittitle>Sierra Vista: Apaches, Western Ways -- negatives, prints, postcards<emph render="bold">(restricted)</emph>,</unittitle>
+         				<unitdate>1987, undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">9</container> 
+         				<container type="folder">3</container> 
+         				<unittitle>Sierra Vista: Ft. Huachuca and housing, Western Ways -- negatives and prints,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">9</container> 
+         				<container type="folder">4</container> 
+         				<unittitle>Silver Bell: aerials -- negatives,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">9</container> 
+         				<container type="folder">5</container> 
+         				<unittitle>Sonoita: Haciendo Los Euciuos aerial, Sonoita Rodeo -- negatives,</unittitle>
+         				<unitdate>1938-1939, undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">9</container> 
+         				<container type="folder">6</container> 
+         				<unittitle>Superior Highway: AZ State Route 177, Pinal County aerials -- negatives,</unittitle>
+         				<unitdate>1946</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">9</container> 
+         				<container type="folder">7</container> 
+         				<unittitle>Thatcher: Eastern Arizona Junior College -- negatives and prints,</unittitle>
+         				<unitdate>1955</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">9</container> 
+         				<container type="folder">8</container> 
+         				<unittitle>Three Points: aerial -- negatives,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">9</container> 
+         				<container type="folder">9</container> 
+         				<unittitle>Tiger -- negatives,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">9</container> 
+         				<container type="folder">10</container> 
+         				<unittitle>Tombstone: Ed Schieffelin, scenics, World&apos;s Largest Rose Tree -- negatives and prints,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">9</container> 
+         				<container type="folder">11</container> 
+         				<unittitle>Tubac: Otero Ranch, Rancho Santa Cruz -- negatives and prints,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">10</container> 
+         				<container type="folder">1</container> 
+         				<unittitle>Tumacacori: Tumacacori Mission, Western Ways -- negatives,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">10</container> 
+         				<container type="folder">2</container> 
+         				<unittitle>White Hills: scenics -- negatives and prints,</unittitle>
+         				<unitdate>1935-1936, 1940</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">10</container> 
+         				<container type="folder">3</container> 
+         				<unittitle>Willcox: Three Links Ranch -- prints,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">10</container> 
+         				<container type="folder">4</container> 
+         				<unittitle>Yuma: Arizona Western College, sand dunes -- negatives and prints,</unittitle>
+         				<unitdate>circa 1940-1960</unitdate>
+         			</did> 
+         		</c03>
+         	
+         	</c02>
+         	
+         	<c02 level="subseries" id="subser9">
+         		<did> 
+         			<unitid>Subseries 2</unitid>
+         			<unittitle>Miscellaneous</unittitle> 
+         			<unitdate type="inclusive">undated</unitdate>
+         		</did> 
+         		<scopecontent>
+         			<p>This series is described at folder level and arranged alphabetically and contains mostly black and white and some 
+         				color negatives and prints and color slides from unidentified locations or national and state parks.</p>
+         		</scopecontent>
+         	
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">10</container> 
+         				<container type="folder">5</container> 
+         				<unittitle>Arizona National and State Parks: Chiricahua Mountains, Grand Canyon, Montezuma&apos;s Castle, Painted Desert, Petrified Forest, Sunset Crater, Walnut Canyon, Wupatki National Monument -- negatives and color slides,</unittitle>
+         				<unitdate>1961, undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">10</container> 
+         				<container type="folder">6</container> 
+         				<unittitle>Cacti -- negatives and color slides,</unittitle>
+         				<unitdate>circa 1960-1970, undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">10</container> 
+         				<container type="folder">7</container> 
+         				<unittitle>Dude Ranches, unknown location: 61 Ranch, Round-Up Ranch, miscellaneous ranches -- negatives,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">10</container> 
+         				<container type="folder">8</container> 
+         				<unittitle>Unidentified aerials and scenics -- negatives,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">10</container> 
+         				<container type="folder">9</container> 
+         				<unittitle>Unidentified Native American Event -- color slides <emph render="bold">(restricted)</emph>,</unittitle>
+         				<unitdate>1961</unitdate>
+         			</did> 
+         		</c03>
+         	
+         	</c02>
+         	
+         	<c02 level="subseries" id="subser10">
+         		<did> 
+         			<unitid>Subseries 3</unitid>
+         			<unittitle>Oversize Arizona</unittitle> 
+         			<unitdate type="inclusive">1939-1950, 1975, 1984</unitdate>
+         		</did> 
+         		<scopecontent>
+         			<p>This series is described at box level and has no organization. It contains mostly black and white and some color 
+         				oversize reproductions of images from the second set of series within the collection. </p>
+         		</scopecontent>
+         	
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">10A</container> 
+         				<unittitle>Contents include Arivaca, AZ – scenery, Benson, AZ – drive-in movie theater, Elgin, AZ – scenery, Sedona, AZ – Chapel of the Holy Cross and wagon wheel, Willcox, AZ – Three Links Cattle Ranch,</unittitle>
+         				<unitdate>1939-1950, 1975, 1984</unitdate>
+         			</did> 
+         		</c03>
+         		
+         		<c03 level="file"> 
+         			<did> 
+         				<container type="box">10B</container>
+         				<unittitle>Sells, AZ – Apache Cowboy (Pablo) <emph render="bold">(restricted)</emph>,</unittitle>
+         				<unitdate>undated</unitdate>
+         			</did> 
+         		</c03>
+         	
+         	</c02>
+        
+         </c01>
+      	
+      	<c01 level="series" id="ser3">
+      		<did> 
+      			<unitid>Series 3</unitid>
+      			<unittitle>United States and Mexico,</unittitle> 
+      			<unitdate type="inclusive">circa 1936-1960</unitdate>
+      		</did>
+      		<scopecontent><p>This series has three sub-series and contains black and white negatives and prints, 
+      			color slides and postcards from trips to California, Montana and Mexico.</p>
+      		</scopecontent>
+      		
+      		<c02 level="subseries" id="subser11">
+      			<did> 
+      				<unitid>Subseries 1</unitid>
+      				<unittitle>United States,</unittitle> 
+      				<unitdate type="inclusive">circa 1940-1960</unitdate>
+      			</did> 
+      			<scopecontent>
+      				<p>This series is described at folder level and contains color slides, black and white negatives and 
+      					prints and postcards from Magee&apos;s travels outside of the state of Arizona to McLeod, Montana and 
+      					popular destinations in California.</p>
+      			</scopecontent>
+      		
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">11</container> 
+      					<container type="folder">1</container> 
+      					<unittitle>California: Death Valley -- negatives,</unittitle>
+      					<unitdate>1940</unitdate>
+      				</did> 
+      			</c03>
+      			
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">11</container> 
+      					<container type="folder">2</container> 
+      					<unittitle>California: Hearst Castle -- color slides,</unittitle>
+      					<unitdate>1968</unitdate>
+      				</did> 
+      			</c03>
+      			
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">11</container> 
+      					<container type="folder">3</container> 
+      					<unittitle>California: Mission San Juan Capistrano, Western Ways -- negatives and color slides,</unittitle>
+      					<unitdate>1962, undated</unitdate>
+      				</did> 
+      			</c03>
+      			
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">11</container> 
+      					<container type="folder">4</container> 
+      					<unittitle>California: Redwood Forest in Yosemite -- color slides,</unittitle>
+      					<unitdate>1968</unitdate>
+      				</did> 
+      			</c03>
+      			
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">11</container> 
+      					<container type="folder">5</container> 
+      					<unittitle>California: San Diego Zoo -- negatives,</unittitle>
+      					<unitdate>undated</unitdate>
+      				</did> 
+      			</c03>
+      			
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">11</container> 
+      					<container type="folder">6</container> 
+      					<unittitle>California: Palm Springs and Palm Desert Area, Western Ways -- negatives,</unittitle>
+      					<unitdate>undated</unitdate>
+      				</did> 
+      			</c03>
+      			
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">11</container> 
+      					<container type="folder">7</container> 
+      					<unittitle>Montana: McLeod postcards, Western Ways -- negatives,</unittitle>
+      					<unitdate>undated</unitdate>
+      				</did> 
+      			</c03>
+      		
+      		</c02>
+      		
+      		<c02 level="subseries" id="subser12">
+      			<did> 
+      				<unitid>Subseries 2</unitid>
+      				<unittitle>Mexico,</unittitle> 
+      				<unitdate type="inclusive">1936-1937</unitdate>
+      			</did> 
+      			<scopecontent>
+      				<p>This series is described at folder level and contains black and white negatives and prints from Gene and 
+      					Pauline Magee&apos;s trip to Mexico in 1936 or 1937.</p>
+      			</scopecontent>
+      			
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">11</container> 
+      					<container type="folder">8</container> 
+      					<unittitle>Father Kino&apos;s Missions: Caborca, Pitiquito, Tubutama, Atil, Oquitoa, St. Ignacio, Magdalena, Tumacacori, San Xavier, Western Ways -- prints,</unittitle>
+      					<unitdate>undated</unitdate>
+      				</did> 
+      			</c03>
+      			
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">11</container> 
+      					<container type="folder">9</container> 
+      					<unittitle>Magdalena, St. Ignacio Mission, bell of Atil -- negatives and prints,</unittitle>
+      					<unitdate>undated</unitdate>
+      				</did> 
+      			</c03>
+      			
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">11</container> 
+      					<container type="folder">10</container> 
+      					<unittitle>Mexico Trip -- negatives,</unittitle>
+      					<unitdate>1936-1937</unitdate>
+      				</did> 
+      			</c03>
+      			
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">11</container> 
+      					<container type="folder">11</container> 
+      					<unittitle>Mexico Trip -- negatives and prints,</unittitle>
+      					<unitdate>1936-1937</unitdate>
+      				</did> 
+      			</c03>
+      			
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">11</container> 
+      					<container type="folder">12</container> 
+      					<unittitle>Rancho Alamo -- negatives,</unittitle>
+      					<unitdate>1940, undated</unitdate>
+      				</did> 
+      			</c03>
+      			
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">11</container> 
+      					<container type="folder">13</container> 
+      					<unittitle>Towns: Guayamos, Playa de Cortes, Pitiquito -- negatives,</unittitle>
+      					<unitdate>undated</unitdate>
+      				</did> 
+      			</c03>
+      		
+      		
+      		</c02>
+      		
+      		<c02 level="subseries" id="subser13">
+      			<did> 
+      				<unitid>Subseries 3</unitid>
+      				<unittitle>Oversize prints from Mexico and California,</unittitle> 
+      				<unitdate type="inclusive">1936-1937, 1940</unitdate>
+      			</did> 
+      			<scopecontent>
+      				<p>This series is described at box level and has no organization. </p>
+      			</scopecontent>
+      			
+      			<c03 level="file"> 
+      				<did> 
+      					<container type="box">11A</container>
+      					<unittitle>Contains a three-page travel log written by Gene&apos;s wife Pauline Magee describing sights and 
+      						sounds from their trip to Mexico and black and white prints of Mexican city scenes, markets, cathedrals, 
+      						bull fights, Father Kino&apos;s missions, portraits of locals, country scenes, villages and Mesoamerican ruins. 
+      						The series also includes a few prints from California with images from Death Valley (1940) and one 
+      						image from Mission San Juan Capistrano,</unittitle>
+      					<unitdate>1936-1937, 1940</unitdate>
+      				</did> 
+      			</c03>
+      			
+      		</c02> 
+      		
+      	</c01>
+      	<c01 level="series" id="ser4"> 
+      		<did> 
+      			<unitid>Series 4</unitid>
+      			<unittitle>Printed Materials,</unittitle> 
+      			<unitdate type="inclusive">1952, 1972, 1978, 1996</unitdate>
+      		</did>
+      		<scopecontent><p>This series is described at folder level and contains letters to Magee and miscellaneous printed materials 
+      			such as a West University Neighborhood Association newsletter and an issue of the magazine <title render="italic">Creative Ideas in Glass</title>.</p>
+      		</scopecontent>
+      		
+      		<c02 level="file"> 
+      			<did> 
+      				<container type="box">11</container> 
+      				<container type="folder">14</container> 
+      				<unittitle>Letters,</unittitle>
+      				<unitdate>1952, 1978</unitdate>
+      			</did> 
+      		</c02>
+      		
+      		<c02 level="file"> 
+      			<did> 
+      				<container type="box">11</container> 
+      				<container type="folder">15</container> 
+      				<unittitle>Miscellaneous papers,</unittitle>
+      				<unitdate>1972, 1996</unitdate>
+      			</did> 
+      		</c02>
+      	
+      	</c01>
+      </dsc> 
+   </archdesc>
+</ead>

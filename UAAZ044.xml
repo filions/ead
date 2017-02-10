@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+   <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0"> 
+      <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special Collections//text
+		(US::AzU::Roster of Graduates at the United States Naval Training School (Tucson, Ariz.))//en""UAAZ044.xml"
+      </eadid> 
+      <filedesc> 
+         <titlestmt> 
+         	<titleproper encodinganalog="title">Roster of Graduates at the United States Naval Training School (Tucson, Ariz.),
+	 	       <date normal="1942/1944" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">1942-1944</date>
+	 	      
+	 	    </titleproper>
+         	<titleproper type="filing" altrender="nodisplay"> Roster of Graduates at the United States Naval Training School (Tucson, Ariz.),
+	 	   
+            </titleproper>
+	        <author>Processed by Staff.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date normal= "2015" era= "ce" calendar = "gregorian">; 2015</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+            <date era="ce" encodinganalog="date" normal="20151112">November 12, 2015</date>
+  	     </creation>
+	     <langusage>Finding aid encoded in<language> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+      <did id="a1"> 
+         <head>Collection Summary</head> 
+      	<unittitle encodinganalog="245" label="Collection Name:"> Roster of Graduates at the United States Naval Training School (Tucson, Ariz.),
+            <unitdate type="inclusive" label="Dates:" normal="1942/1944">1942-1944</unitdate>
+  	     </unittitle> 
+	     <unitid label="Collection Number:" encodinganalog="099" repositorycode="AzU" countrycode="us">AZ 044</unitid>
+	     <origination label="Creator:"> 
+            <corpname source="lcnaf" encodinganalog="110">United States. Navy. Training School (Tucson, Ariz.)</corpname> </origination> 
+      	<abstract label="Abstract:">The Naval Training (Indoctrination) School, 
+      								headquartered in the Old Main Building on The University of Arizona 
+      								campus from 1942 to 1945, was responsible for training over 10,000 men during World War II. 
+      								Typescript (carbon) alphabetical roster.</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description:"><extent>.2 linear feet (1 v.)</extent></physdesc>	 
+	     <repository label="Repository:"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng" scriptcode="Latin">English.</language></langmaterial>
+   	   
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+         <p>There are no restrictions on this collection.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+      	<p>Roster of Graduates at the United States Naval Training School (Tucson, Ariz.) (AZ 044). Special Collections, University of Arizona Libraries.</p>
+      </prefercite> 
+   	<acqinfo>
+   		<head>Acquisition Information</head>
+   		<p>Acquired as gift of Lt. Commander Nicholas, 1966.</p>
+   	</acqinfo>
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Staff.</p>
+      </processinfo>
+      <bioghist id="a2" encodinganalog="545">  
+         <head>Historical Note</head> 
+      	<p>The Naval Training (Indoctrination) School, headquartered 
+      		in the Old Main Building on The University of Arizona 
+      		campus from 1942 to 1945, was responsible for training 
+      		over 10,000 men during World War II.</p> 
+      </bioghist> 
+      <arrangement id="a4" encodinganalog="351$a"> 
+         <head>Arrangement</head> 
+  	     <p>This collection is organized alphabetically.</p>      	
+      </arrangement> 
+      <scopecontent id="a3" encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>Typescript (carbon) alphabetical roster.  Includes 
+      	correspondence of Lt. Commander William Stuart Nicholas. </p> 
+      </scopecontent>
+      <controlaccess>
+         <head>Access Terms</head>
+         <list type="simple"> 
+         	<item>
+         		<corpname encodinganalog="610" source= "lcnaf">United States. Navy -- History -- World War, 1939-1945.</corpname>
+         	</item>
+  		    <item>
+  			   <corpname encodinganalog="610" source= "lcnaf">University of Arizona -- History.</corpname>
+  		    </item>
+         </list>
+      </controlaccess>
+   </archdesc>
+</ead>

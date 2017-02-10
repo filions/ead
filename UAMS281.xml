@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?filetitle Mescalero Apache Reservation Collections?>
+<ead relatedencoding="MARC21">
+<eadheader audience="internal" findaidstatus="edited-full-draft"
+ langencoding="iso639-2b">
+	<eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library Special Collections//text(US::AzU::Mescalero Apache Reservation Collections)//en" "UAMS281.xml"</eadid>
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Mescalero Apache Reservation
+		  collections, 
+		  <date>1849-1963</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Roger Myers and Anne
+		  Pieszak.</author>
+	 </titlestmt>
+	 <publicationstmt>
+	 	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+		<address>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address>
+		<date>&#x00A9; 2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p>
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc>
+	 <creation encodinganalog="500">Finding aid encoded by Jan Marie Payne. 
+		<date>November 6, 2001</date></creation> 
+	 <langusage>Finding aid is in<language langcode="en"
+		encodinganalog="546">English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter>
+  <titlepage>
+	 <titleproper encodinganalog="245$a">Mescalero Apache Reservation
+		collection, 
+		<date>1849-1963</date></titleproper>
+	 <num>Collection Number: MS 281</num>
+  	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher>
+	 <list>
+		<defitem>
+		  <label>Processed by:</label>
+		  <item>Roger Myers and Anne Pieszak</item>
+		</defitem>
+		<defitem>
+		  <label>Date completed:</label>
+		  <item>
+			 <date>February 1989</date></item>
+		</defitem>
+		<defitem>
+		  <label>Encoded by:</label>
+		  <item>Jan Marie Payne</item>
+		</defitem>
+	 </list>
+	 <p>&#x00A9; 2001. Arizona Board of Regents. All rights reserved.</p>
+  </titlepage>
+</frontmatter>
+<archdesc level="collection"> 
+  <did id="a1">
+	 <head>Collection Summary</head>
+	 <unittitle encodinganalog="245" label="Collection Name:">Mescalero Apache
+		Reservation collection, 
+		<unitdate type="inclusive"
+		 normal="1849/1963">1849-1963</unitdate></unittitle>
+	 <unitid label="Collection Number:" encodinganalog="099"
+	  repositorycode="AzU" countrycode="us">MS 281</unitid> 
+	 <origination label="Creator:"> 
+		<persname encodinganalog="100">Mehren, Lawrence L. (Lawrence Lindsay),
+		  1944-</persname></origination>
+	 <abstract>The papers in this collection include two subgroups: Records of
+		the Mescalero Apache Reservation and Related Source Documents. The records, in
+		the form of microfilms, photoprints, and photocopies, include reports, census
+		rolls, correspondence, photographs, muster rolls, and maps and plans from the
+		National Archives and the Smithsonian Institution. The related source
+		documents, in the form of a photocopied thesis as well as photocopies of
+		primary and secondary source materials, are from the Denver Federal Records
+		Center, the Arizona Historical Society, Eve Ball, Robert Mullin, other
+		libraries, books, and magazines</abstract>
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+		encodinganalog="300">2.5 linear feet</extent></physdesc>
+	 <repository label="Repository:">
+	 	<corpname encodinganalog="110">University of Arizona Libraries, Special Collections</corpname>
+		<address>
+		  <addressline>University of Arizona</addressline>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address></repository>
+  </did> 
+  <accessrestrict encodinganalog="506">
+	 <head>Restrictions</head>
+	 <p>None.</p>
+  </accessrestrict>
+  <userestrict encodinganalog="540">
+	 <head>Copyright</head>
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p>
+  </userestrict>
+  <prefercite encodinganalog="524">
+	 <head>Credit Line</head>
+	 <p>Mescalero Apache Reservation collection(MS 281).Special Collections, University of Arizona Libraries.</p>
+  </prefercite>
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head>
+	 <p>Mr. Mehren, a historian, submitted his Master of Arts thesis on the
+		Mescalero Apache to the Department of History at the University of Arizona in
+		1969.</p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into two series: </p> 
+	 <list> 
+		<item>Series I: Records of the Mescalero Apache Reservation, 
+		  <date>1849-1915</date></item> 
+		<item>Series II: Related Source Documents, 
+		  <date>1869-1963</date></item>
+	 </list> 
+  </arrangement>
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head>
+	 <p>The papers in this collection include two subgroups: Records of the
+		Mescalero Apache Reservation and Related Source Documents. The records, in the
+		form of microfilms, photoprints, and photocopies, include reports, census
+		rolls, correspondence, photographs, muster rolls, and maps and plans from the
+		National Archives and the Smithsonian Institution. The related source
+		documents, in the form of a photocopied thesis as well as photocopies of
+		primary and secondary source materials, are from the Denver Federal Records
+		Center, the Arizona Historical Society, Eve Ball, Robert Mullin, other
+		libraries, books, and magazines.</p> 
+  </scopecontent> 
+  <controlaccess id="a12">
+	 <head>Access Terms</head>
+	 <list>
+		<item>
+		  <persname encodinganalog="100">Godfroy, Frederick C.,
+			 1828-1885</persname></item>
+	 </list>
+	 <list>
+		<item>
+		  <corpname encodinganalog="110">United States -- Bureau of Indian
+			 Affairs -- Mescalero Agency</corpname></item>
+	 </list>
+	 <list>
+		<item>
+		  <subject>Indian agents -- New Mexico -- History</subject></item>
+	 </list>
+	 <list>
+		<item>
+		  <subject>Lincoln County War, 1878</subject></item>
+	 </list>
+	 <list>
+		<item>
+		  <subject>Apache Indians -- Government relations --
+			 1869-1934</subject></item>
+	 </list>
+	 <list>
+		<item>
+		  <subject>Indians of North America -- Government relations --
+			 1869-1934</subject></item>
+	 </list>
+	 <list>
+		<item>
+		  <subject>Mescalero Indians -- Government relations --
+			 1869-1934</subject></item>
+	 </list>
+	 <list>
+		<item>
+		  <geogname>Mescalero Indian Reservation (N.M.) -- History -- 19th
+			 century</geogname></item>
+	 </list>
+	 <list>
+		<item>
+		  <geogname>Fort Stanton (N.M.) -- History -- 19th
+			 century</geogname></item>
+	 </list>
+	 <list>
+		<item>
+		  <geogname>New Mexico -- History -- 19th century</geogname></item>
+	 </list>
+	 <list>
+		<item>
+		  <geogname>Lincoln County (N.M.) -- History -- 19th
+			 century</geogname></item>
+	 </list>
+	 <list>
+		<item>
+		  <genreform>Correspondence</genreform></item>
+	 </list>
+	 <list>
+		<item>
+		  <genreform>Photographs</genreform></item>
+	 </list>
+	 <list>
+		<item>
+		  <genreform>Reports</genreform></item>
+	 </list>
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series I: Records of the Mescalero Apache Reservation, 
+			 <unitdate type="inclusive"
+			  normal="1849/1915">1849-1915</unitdate></unittitle> 
+		</did> 
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Subseries I: Documents, 
+				<unitdate type="inclusive"
+				 normal="1875/1880">1875-1880</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Contains information pertaining to the Mescalero Apache
+				Reservation. Included are photoprints concerning Mescalero Apache Agency
+				buildings, the 1877 census roll, a report of sale of unserviceable public
+				property, Mescalero reservation trespassers, reduction of, survey, and
+				improvements of the Mescalero Apache reservation, and records concerning
+				finances accounts. Also contains reports and testimony in the matter of the
+				examination of charges against F.C. Godfroy. Included is a copy of a report of
+				a scout of Captain Fechit. Please be advised that some of the material in this
+				series may also be found in the Microfilm series.</p>
+		  </scopecontent>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">1</container>
+				<unittitle>Buildings (special case no.l5). 
+				  <unitdate type="inclusive"
+					normal="1879/1880">1879-1880</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">2</container>
+				<unittitle>Census roll. 
+				  <unitdate type="inclusive"
+					normal="1877">1877</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">3-5</container>
+				<unittitle>Mescalero Apache Reservation - reduction, survey,
+				  improvements, etc. (special case no. 108). 
+				  <unitdate type="inclusive"
+					normal="1865/1877">1865-1877</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">6</container>
+				<unittitle>Mescalero Apache Reservation trespassers (special case
+				  no. 30). 
+				  <unitdate type="inclusive"
+					normal="1880/1881">1880-1881</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">7</container>
+				<unittitle>Miscellaneous records concerning finances accounts
+				  material. 
+				  <unitdate type="inclusive"
+					normal="1879/1880">1879-1880</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">1</container><container
+				type="folder">8-9</container>
+				<unittitle>Report and testimony : In the matter of the examination
+				  of charges against F.C. Godfroy By E.C. Watkins. 
+				  <unitdate type="inclusive"
+					normal="1878">1878</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">2</container><container
+				type="folder">1</container>
+				<unittitle>Report and testimony : In the matter of the examination
+				  of charges against F.C. Godfroy By E.C. Watkins. 
+				  <unitdate type="inclusive"
+					normal="1878">1878</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">2</container><container
+				type="folder">2</container>
+				<unittitle>Report of sale of unserviceable public property by F.C.
+				  Godfroy. 
+				  <unitdate type="inclusive"
+					normal="1877">1877</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">2</container><container
+				type="folder">3</container>
+				<unittitle>Report of scout of Captain Fechit, Fort Stanton, N.M. 
+				  <unitdate type="inclusive"
+					normal="1875">1875</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Subseries II: Correspondence, 
+				<unitdate type="inclusive"
+				 normal="1849/1904">1849-1904</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Includes selected copies of letters written by agents of the
+				Mescaleros and a copy of a letter by Major Price relative to the capture and
+				release of a party of Indians. Please be advised that some of the material
+				found in this series may also be found in the Microfilm series.</p>
+		  </scopecontent>
+		  <c03 level="file">
+			 <did><container type="box">2</container><container
+				type="folder">4</container>
+				<unittitle>Copies of letters written by agents of the Mescaleros.
+				  Selections. 
+				  <unitdate type="inclusive"
+					normal="1849/1904">1849-1904</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">2</container><container
+				type="folder">5</container>
+				<unittitle>United States. Dept. of Interior - Copy of a letter by
+				  Major Price and letters relating to the capture and release of a party of
+				  Indians. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Subseries III: Photographs, 
+				<unitdate type="inclusive"
+				 normal="1883/1885">1883-1885</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Contains six 8" X 10" photographs of Fort Stanton, New Mexico c.
+				1883-1885, fourteen 8" X 10" and ten 5" X 8" or smaller photographs of
+				Mescalero Apaches and the Mescalero Reservation, and seven 5" X 7" negatives
+				pertaining to the Mescalero Reservation.</p>
+		  </scopecontent>
+		  <c03 level="file">
+			 <did><container type="box">2</container><container
+				type="folder">6</container>
+				<unittitle>Fort Stanton, N.M. 
+				  <unitdate type="inclusive"
+					normal="1883/1885">1883-1885</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">2</container><container
+				type="folder">7</container>
+				<unittitle>Mescalero Apaches; Mescalero Reservation. 
+				  <unitdate type="inclusive"
+					normal="1873/1882">1873-1882</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">2</container><container
+				type="folder">8</container>
+				<unittitle>Negatives. 
+				  <unitdate type="inclusive"
+					normal="1873/1874">1873-1874</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Subseries IV: Microfilms, 
+				<unitdate type="inclusive"
+				 normal="1867/1907">1867-1907</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Contains 35 mm film copies of primary source material from the
+				National Archives, Washington, D.C. as listed below. Please note that some of
+				the material on the film is duplicated in the Documents and Correspondence
+				series above.</p>
+		  </scopecontent>
+		  <c03 level="file">
+			 <did><container type="box">2</container>
+				<unittitle>Roll 8585: 40 feet. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Includes: </p>
+				<list>
+				  <item>Record Group 48, Records of the Office of the Secretary of
+					 the Interior and Record Group 75, Records of the B.I.A. Includes selected
+					 documents relating to the Mescalero Indian Agency.</item>
+				  <item>Record Group 48, Records of the Office of the Secretary of
+					 the Interior, Appointments Division. Includes selected documents relating to
+					 Andrew Jackson Curtis.</item>
+				  <item>Record Group 48, Records of the Office of the Secretary of
+					 the Interior, Appointments Division. Includes selected documents relating to
+					 Samuel B. Bushnell, Williamson D. Crothers, Frederick C. Godfroy, and Samuel A.
+					 Russell.</item>
+				  <item>Record Group 75, Records of the B.I.A. Includes
+					 miscellaneous records covering finances accounts material for the Mescalero
+					 Indian Agency, 1879-1880, special case 15: Mescalero Apache Agency Buildings,
+					 special case 30: trespassers on the Mescalero Reservation, and special case
+					 108: reduction of the Mescalero Apache Reservation.</item>
+				</list>
+			 </scopecontent>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">2</container>
+				<unittitle>Roll 11321: 34 feet - Records of the B.I.A. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Includes: </p>
+				<list>
+				  <item>Record Group 75. Includes selected documents relating to
+					 the Mescalero Indian Reservation, namely Inspector E.C. Watkins' report on the
+					 Mescalero reservation and field notes of surveys of the Mescalero Apache
+					 Reservation.</item>
+				</list>
+			 </scopecontent>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">2</container>
+				<unittitle>Roll 11668: 10 feet. 
+				  <unitdate type="inclusive" normal="NaN">No
+					 Date</unitdate></unittitle>
+			 </did>
+			 <scopecontent>
+				<p>Includes: </p>
+				<list>
+				  <item>Record Group 94, Records of the Adjutant General's Office.
+					 Includes selected documents relating to Sutlers.</item>
+				</list>
+			 </scopecontent>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Subseries V: Muster Rolls, 
+				<unitdate type="inclusive"
+				 normal="1873">1873</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Contains muster rolls for Companies A, C, D, E, G, and K for
+				August, October, and December 1873 as listed below. These documents are
+				separately foldered at the end of the collection. </p>
+		  </scopecontent>
+		  <c03 level="file">
+			 <did><container type="box">2</container><container
+				type="folder">9</container>
+				<unittitle>Muster rolls, Companies A, C, D. 
+				  <unitdate type="inclusive"
+					normal="1883">1883</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">2</container><container
+				type="folder">10</container>
+				<unittitle>Muster rolls, Companies E, G, K. 
+				  <unitdate type="inclusive"
+					normal="1883">1883</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Subseries VI: Maps, 
+				<unitdate type="inclusive"
+				 normal="1858/1915">1858-1915</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Contains photographic copies of 30 maps and plans from the
+				National Archives, Washington, D.C., of the Mescalero Reservation at Fort
+				Stanton, New Mexico. Includes maps and plans of such items as pastures, the
+				Lincoln National Forest, surveys of the existing and proposed reservation, the
+				country near Fort Stanton, and the buildings of Fort Stanton. These documents
+				are separately foldered at the end of the collection.</p>
+		  </scopecontent>
+		  <c03 level="file">
+			 <did><container type="box">2</container><container
+				type="folder">11-12</container>
+				<unittitle>Maps and plans. 
+				  <unitdate type="inclusive"
+					normal="1858/1915">1858-1915</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+	 </c01> 
+	 <c01 level="series"> 
+		<did>
+		  <unittitle>Series II: Related Source Documents, 
+			 <unitdate type="inclusive"
+			  normal="1869/1963">1869-1963</unitdate></unittitle> 
+		</did> 
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Subseries I: Thesis, 
+				<unitdate type="inclusive"
+				 normal="1938">1938</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Contains a photocopy of the Master of Arts thesis of Cecil Byron
+				Trammell, Norman, Oklahoma, 1938, entitled "Mescalero Indian Relations in New
+				Mexico, 1865-1885."</p>
+		  </scopecontent>
+		  <c03 level="file">
+			 <did><container type="box">2</container><container
+				type="folder">13</container>
+				<unittitle>Thesis: Mescalero Indian Relations in New Mexico,
+				  1865-1885, by Cecil Byron Trammell. 119 pages.
+				  <unitdate type="inclusive"
+					normal="1938">1938</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>Subseries II: Primary and Secondary Source Documents, 
+				<unitdate type="inclusive"
+				 normal="1869/1963">1869-1963</unitdate></unittitle>
+		  </did>
+		  <scopecontent>
+			 <p>Contains approximately 273 photocopied pages of various primary
+				and secondary sources gathered from the Denver Federal Records Center, the
+				National Archives, Eve Ball, other theses, books, and magazines.</p>
+		  </scopecontent>
+		  <c03>
+			 <did><container type="box">2</container><container
+				type="folder">14-15</container>
+				<unittitle>Primary sources. 
+				  <unitdate type="inclusive"
+					normal="1869/1937">1869-1937</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03>
+			 <did><container type="box">2</container><container
+				type="folder">16</container>
+				<unittitle>Secondary sources. 
+				  <unitdate type="inclusive"
+					normal="1900/1963">1900-1963</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+	 </c01>
+  </dsc> 
+</archdesc></ead>

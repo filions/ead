@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+   <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0"> 
+      <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special Collections//text
+		(US::AzU::Manuscripts for Publication)//en""UAMS103.xml"
+      </eadid> 
+      <filedesc> 
+         <titlestmt> 
+         	<titleproper encodinganalog="title">Manuscripts for Publication
+	 	       <date normal="1960/1969" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">circa 1960-1969</date>
+	 	       <!-- BE SURE TO POPULATE "date normal= "YYYY/YYYY" attribute. PLACE ATTRIBUTE DATES BETWEEN "   " -->
+	 	    </titleproper>
+         	<titleproper type="filing" altrender="nodisplay"> Manuscripts for Publication
+	 	    <!-- [IF AN INDIVIDUAL IS ASSOCIATED LIST LAST NAME, (FIRST NAME MIDDLE INITIAL.) i.e. Flannery, (John S.) COLLECTION DESCRIPTION] OR 
+	 	    [IF NO SPECIFIC PERSON IS ASSOCIATED LIST THE COLLECTION NAME AND DESCRIPTION (i.e. International Student Council general files) -->
+            </titleproper>
+	        <author>Processed by Staff.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date normal= "2016" era= "ce" calendar = "gregorian">; 2016</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+            <date era="ce" encodinganalog="date" normal="20160420">April 20, 2016</date>
+  	     </creation><!-- BE SURE TO POPULATE "date normal= YYYYMMDD" attribute. PLACE ATTRIBUTE DATES BETWEEN "  " -->
+	     <langusage>Finding aid encoded in<language> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc>
+   </eadheader> 
+   <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+      <did id="a1"> 
+         <head>Collection Summary</head> 
+      	<unittitle encodinganalog="245" label="Collection Name:"> Manuscripts for Publication
+            <unitdate type="inclusive" label="Dates:" normal="1960/1969">circa 1960-1969</unitdate>
+  	     </unittitle><!-- BE SURE TO POPULATE "Dates normal= yyyy/yyyy" attribute.  PLACE ATTRIBUTE DATES BETWEEN "  " -->	 
+	     <unitid label="Collection Number:" encodinganalog="099" repositorycode="AzU" countrycode="us">MS 103</unitid>
+	     <origination label="Creator:"> 
+            <persname source="lcnaf" encodinganalog="100">Bailey, Paul, 1906-1987.</persname> 
+	     </origination> <!-- CHANGE TAG TO CORPNAME, IF CREATOR IS A COROPORATION/ BUSINESS ETC.  CHANGE "100" ATTRIBUTE TO 110-->
+      	<abstract label="Abstract:">Typescript drafts and galley proofs of five works mainly concerned with the late nineteenth century history of the American West. Some contain 
+      								Bailey&apos;s holograph edits; one, Grandpa was a Polygamist, is signed. Two are novels about the Great Basin Indians. The Claws of the Hawk: the 
+      								Incredible Life of Wahker the Ute, focuses on events in the life of the leader Walkara. Ghost Dance Messiah: the Jack Wilson Story is about the 
+      								Paiute prophet Wovoka, who originated a Ghost dance phenomenon of the late 1880s. The other three drafts concern Mormon life and history.</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description:"><extent>1.25 linear feet</extent></physdesc>	 
+	     <repository label="Repository:"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng" scriptcode="Latin">English.</language></langmaterial>
+   	        <!-- CHANGE OR ADD FIELD IF MATERIALS ARE IN OTHER LANGUAGES. BE SURE TO CHANGE langcode "" ATTRIBUTE-->
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+         <p>There are no restrictions on this collection.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+      	<p>Manuscripts for Publication (MS 103). Special Collections, University of Arizona Libraries.</p>
+      </prefercite> 
+   	<acqinfo>
+   		<head>Acquisition Information</head>
+   		<p>Acquired as gift, 1965.</p>
+   	</acqinfo>
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Staff.</p>
+      </processinfo>
+      <bioghist id="a2" encodinganalog="545"> 
+         <head>Biographical Note</head> 
+      	<p>American author and founder of the Westernlore Press, in 1941.</p> 
+      </bioghist> 
+      <arrangement id="a4" encodinganalog="351$a"> 
+         <head>Arrangement</head> 
+  	     <p>This collection is organized by title of work.</p>
+      </arrangement> 
+      <scopecontent id="a3" encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>Typescript drafts and galley proofs of five works mainly concerned with the late nineteenth century history of the American West. Some contain Bailey&apos;s holograph edits; one,
+      	Grandpa was a Polygamist, is signed. Two are novels about the Great Basin Indians. The Claws of the Hawk: the Incredible Life of Wahker the Ute, focuses on events in 
+      	the life of the leader Walkara. Ghost Dance Messiah: the Jack Wilson Story is about the Paiute prophet Wovoka, who originated a Ghost dance phenomenon of the late 1880s. The
+      	other three drafts concern Mormon life and history. The Armies of God: a Study of the Military Aspects of Mormonism is a chronicle of events from the 1830s to the 
+      	1890s. For Time and All Eternity is a novel about the Mormon polygamy crusade of the 1880s. Bailey relates stories from his own childhood in Grandpa was a Polygamist,
+      	which is a tribute to his grandfather, the teacher Joseph Barlow Forbes.</p> 
+      </scopecontent> 
+      <relatedmaterial id="a6" encodinganalog="5441">
+      	<p>All published between 1960 and 1970: three by Westernlore Press, two by Doubleday.</p>
+      </relatedmaterial> <!-- DELETE TAGS IF COLLECTION DOES NOT HAVE ANY RELATED MATERIALS-->
+      <controlaccess>
+         <head>Access Terms</head>
+         <list type="simple"> <!-- USE SOURCE OR RULES ELEMENT Source=lcnaf or lcsh; Rules=aacr2 or dacs or local.  BE SURE TO CHANGE encodinganalog="  " ATTRIBUTE. ALSO, BE SURE TO DELETE ANY TAGS YOU DO NOT USE-->
+            <item>
+               <persname encodinganalog="600" source= "lcnaf">Bailey, Paul, 1906-1987 -- Manuscripts.</persname><!-- 600 Creator; 700 Contributor -->
+  		    </item>
+         	<item>
+         		<persname encodinganalog="600" source= "lcnaf">Forbes, Joseph Barlow.</persname><!-- 600 Creator; 700 Contributor -->
+         	</item>
+         	<item>
+         		<persname encodinganalog="600" source= "lcnaf">Wakara, Ute chief, 1808?-1855 -- Fiction.</persname><!-- 600 Creator; 700 Contributor -->
+         	</item>
+         	<item>
+         		<persname encodinganalog="600" source= "lcnaf">Wokova, approximately 1856-1932 -- Fiction.</persname><!-- 600 Creator; 700 Contributor -->
+         	</item>
+  		    <item>
+  		    	<corpname encodinganalog="610" source= "lcnaf">Westernlore Press.</corpname><!-- 610 regular; 611 conference; 710 contributor; 711 conference contributor -->
+  		    </item>
+  		    <item>
+  			   <subject encodinganalog="650" source= "lcsh">Ghost dance.</subject>
+  		    </item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Indians of North America -- Biography.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Mormons -- United States -- History.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Paiute Indians -- Religion.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Polygamy -- Utah.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Ute Indians -- History.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Western stories.</subject>
+         	</item>
+         </list>
+      </controlaccess>
+   </archdesc>
+</ead>

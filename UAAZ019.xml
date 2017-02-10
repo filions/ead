@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+ audience="internal" id="a0"> 
+	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special
+		Collections//text(US::AzU::Arizona, Its People and Resources)//en""UAAZ019.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper encodinganalog="title"> Arizona, Its People and Resources,
+	 		<date normal="1959/1960" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">1959-1960</date>
+	 	</titleproper>
+	 	<titleproper type="filing" altrender="nodisplay"> Arizona, Its People and Resources,
+	 		</titleproper>
+	 	<author>Processed by Staff.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		  <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		</address> 
+		<date normal= "2015" era= "ce" calendar = "gregorian">; 2015</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+  		<date era="ce" encodinganalog="date" normal="20151104">November 04, 2015</date></creation>
+	 <langusage>Finding aid is in<language> English.</language></langusage>
+  	<descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+  </profiledesc> 
+</eadheader> 
+	<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name:"> Arizona, Its People and Resources,
+  		<unitdate type="inclusive" label="Dates:" normal="1959/1960">1959-1960</unitdate>
+  	</unittitle>	 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	 	repositorycode="AzU" countrycode="us">AZ 019</unitid>
+	 <origination label="Creator:"> 
+	 	<persname source="lcnaf" encodinganalog="100">Cross, Jack Lee</persname> </origination> 
+  	<abstract label="Abstract:">Jack Lee Cross was the editor of the University of Arizona Press from 1960 to 1965. 
+  								This book was published by the University of Arizona Press, 1960, as part of the observance 
+  								of the University's 75th anniversary of founding.</abstract> 
+  	<physdesc encodinganalog="300$a" label="Physical Description:"><extent>.8 linear feet</extent></physdesc>	 
+	 <repository label="Repository:"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		  <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		</address></repository>
+  	<langmaterial>Materials are in <language encodinganalog="546" langcode="eng"
+  		scriptcode="Latin">English.</language></langmaterial>
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+  	<p>There are no restrictions on this collection.</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>Arizona, Its People and Resources (AZ 019). Special
+  		Collections, University of Arizona Libraries.</p>
+  </prefercite>
+		<acqinfo>
+			<head>Acquisition Information</head>
+			<p>Acquired as gift, 1961.</p>
+		</acqinfo>
+  <processinfo>
+  	<head>Processing History</head>
+  	<p>Processed by Staff.</p>
+  </processinfo>
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+  		<p>Jack Lee Cross was the editor of the University of Arizona Press from 1960 to 1965. 
+  			This book was published by the University of Arizona Press, 1960, as part of the observance of the University's 75th anniversary of founding. </p> 
+  </bioghist> 
+  <arrangement id="a4" encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+  	<p>This collection is organized into 2 Series.</p>	 
+  	<list>
+  		<item>Series I:Correspondence,
+  			<unitdate>1959-1960</unitdate></item>
+  		<item>Series II:Manuscript contributions,
+  			<unitdate>1959-1960</unitdate></item>
+  	</list>
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>This book was published by the University of Arizona Press, 1960, as part of the observance of the University's 75th anniversary of founding.
+  		Original typescripts with holograph corrections, as submitted by the contributors to the editors. Most contributors are 
+  		University of Arizona faculty members. Includes correspondence and some material not used in the completed volume.</p> 
+  </scopecontent>
+  	<controlaccess>
+  		<head>Access Terms</head>
+  		<list type="simple"> 
+  			<item>
+  				<corpname encodinganalog="610" source= "lcnaf">University of Arizona -- Faculty.</corpname>
+  			</item>
+  			<item>
+  				<geogname encodinganalog="651" source="lcsh">Arizona.</geogname>
+  			</item>
+  		</list>
+  	</controlaccess>
+</archdesc></ead>

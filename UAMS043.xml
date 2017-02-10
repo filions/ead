@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+   <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0"> 
+      <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special Collections//text
+		(US::AzU::Operational and Administrative Papers Relating to the District of Colorado and the 1st Regiment Cavalry of Colorado)//en""UAMS043.xml"
+      </eadid> 
+      <filedesc> 
+         <titlestmt> 
+         	<titleproper encodinganalog="title">Operational and Administrative Papers Relating to the District of Colorado and the 1st Regiment Cavalry of Colorado
+	 	       <date normal="1863/1865" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">1863-1865</date>
+	 	       <!-- BE SURE TO POPULATE "date normal= "YYYY/YYYY" attribute. PLACE ATTRIBUTE DATES BETWEEN "   " -->
+	 	    </titleproper>
+         	<titleproper type="filing" altrender="nodisplay"> Operational and Administrative Papers Relating to the District of Colorado and the 1st Regiment Cavalry of Colorado
+	 	    <!-- [IF AN INDIVIDUAL IS ASSOCIATED LIST LAST NAME, (FIRST NAME MIDDLE INITIAL.) i.e. Flannery, (John S.) COLLECTION DESCRIPTION] OR 
+	 	    [IF NO SPECIFIC PERSON IS ASSOCIATED LIST THE COLLECTION NAME AND DESCRIPTION (i.e. International Student Council general files) -->
+            </titleproper>
+	        <author>Processed by Staff.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date normal= "2016" era= "ce" calendar = "gregorian">; 2016</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+            <date era="ce" encodinganalog="date" normal="20160412">April 12, 2016</date>
+  	     </creation><!-- BE SURE TO POPULATE "date normal= YYYYMMDD" attribute. PLACE ATTRIBUTE DATES BETWEEN "  " -->
+	     <langusage>Finding aid encoded in<language> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc>
+   </eadheader> 
+   <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+      <did id="a1"> 
+         <head>Collection Summary</head> 
+      	<unittitle encodinganalog="245" label="Collection Name:"> Operational and Administrative Papers Relating to the District of Colorado and the 1st Regiment Cavalry of Colorado
+            <unitdate type="inclusive" label="Dates:" normal="1863/1865">1863-1865</unitdate>
+  	     </unittitle><!-- BE SURE TO POPULATE "Dates normal= yyyy/yyyy" attribute.  PLACE ATTRIBUTE DATES BETWEEN "  " -->	 
+	     <unitid label="Collection Number:" encodinganalog="099" repositorycode="AzU" countrycode="us">MS 043</unitid>
+	     <origination label="Creator:"> 
+            <corpname source="lcnaf" encodinganalog="110">United States. Army. Department of the Missouri. District of Colorado.</corpname> 
+	     </origination> <!-- CHANGE TAG TO CORPNAME, IF CREATOR IS A COROPORATION/ BUSINESS ETC.  CHANGE "100" ATTRIBUTE TO 110-->
+      	<abstract label="Abstract:">The 1st Regiment Cavalry of Colorado was made up of volunteers from Colorado citizenry. It was organized in Denver in 1861, having been 
+      								converted to cavalry from an infantry unit. Twenty-one items include special orders, reports, monthly returns by the quartermaster, invoices, 
+      								inventories, muster rolls, and letters. The bulk of the collection is comprised of operational documents related to equipment and supplies 
+      								for the regiment.</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description:"><extent>.1 linear feet</extent></physdesc>	 
+	     <repository label="Repository:"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng" scriptcode="Latin">English.</language></langmaterial>
+   	        <!-- CHANGE OR ADD FIELD IF MATERIALS ARE IN OTHER LANGUAGES. BE SURE TO CHANGE langcode "" ATTRIBUTE-->
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+         <p>There are no restrictions on this collection.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+      	<p>Operational and Administrative Papers Relating to the District of Colorado and the 1st Regiment Cavalry of Colorado (MS 043). Special Collections, University of Arizona Libraries.</p>
+      </prefercite>
+   	<acqinfo>
+   		<head>Acquisition Information</head>
+   		<p>Acquired as purchase, 1965.</p>
+   	</acqinfo>
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Staff.</p>
+      </processinfo>
+      <bioghist id="a2" encodinganalog="545"> 
+         <head>Biographical Note</head> 
+      	<p>The 1st Regiment Cavalry of Colorado was made up of volunteers from Colorado citizenry. It was organized in Denver in 1861, having been converted to cavalry from an 
+      	infantry unit. During the Civil War years, this regiment fought mostly with Indians and guerillas.</p> 
+      </bioghist> 
+      <arrangement id="a4" encodinganalog="351$a"> 
+         <head>Arrangement</head> 
+  	     <p>This collection is organized chronologically.</p>
+      </arrangement> 
+      <scopecontent id="a3" encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>Twenty-one items include special orders, reports, monthly returns by the quartermaster, invoices, inventories, muster rolls, and letters. The bulk of the collection is 
+      	comprised of operational documents related to equipment and supplies for the regiment. One of the documents regarding receipt of clothing is a roster of Company D, 
+      	signed by each individual. Special orders concern scouting and establishing camps near Pueblo, and between Huerfano and Purgatoire. Most duty orders came from Fort Lyon. 
+      	Other items include a bond note for a man released from imprisonment for being a Confederate sympathizer; a list of returned contraband and confiscated property; and a 
+      	report on a mission accomplished, noting names of those killed or taken prisoner. A muster roll of the Provost Guard of the regiment dates from Dec. 31, 1864 to Feb. 28,
+      	1865. Thirteen of the documents are addressed to, or signed by, Lieutenant and later Captain Silas S. Soule, who was based in Denver.</p>
+      	<p>Inventory available.</p>
+      </scopecontent>
+   	<relatedmaterial id="a6" encodinganalog="5441">
+   		<p>See Ovando J. Hollister&apos;s book <title render="italic">Boldly They Rode</title>, originally published in 1863. A member of the regiment, he mentions some of the men whose names and signatures are 
+   		included in these documents.</p>
+   	</relatedmaterial> <!-- DELETE TAGS IF COLLECTION DOES NOT HAVE ANY RELATED MATERIALS-->
+      <controlaccess>
+         <head>Access Terms</head>
+         <list type="simple"> <!-- USE SOURCE OR RULES ELEMENT Source=lcnaf or lcsh; Rules=aacr2 or dacs or local.  BE SURE TO CHANGE encodinganalog="  " ATTRIBUTE. ALSO, BE SURE TO DELETE ANY TAGS YOU DO NOT USE-->
+            <item>
+               <persname encodinganalog="600" source= "lcnaf">Soule, Silas S.</persname><!-- 600 Creator; 700 Contributor -->
+  		    </item>
+  		    <item>
+  			   <corpname encodinganalog="610" source= "lcnaf">United States. Army -- Supplies and stores -- History -- 19th century -- Sources.</corpname><!-- 610 regular; 611 conference; 710 contributor; 711 conference contributor -->
+  		    </item>
+         	<item>
+         		<geogname encodinganalog="651" source="lcsh">Colorado -- History -- Civil War, 1861-1865 -- Sources.</geogname>
+         	</item>
+  		    <item>
+  			   <geogname encodinganalog="651" source="lcsh">United States -- History -- Civil War, 1861-1865 -- Regimental histories -- Sources.</geogname>
+  		    </item>
+         	<item>
+         		<corpname encodinganalog="710" source= "lcnaf">United States. Army. Colorado Cavalry Regiment, 1st (1862-1865)</corpname><!-- 610 regular; 611 conference; 710 contributor; 711 conference contributor -->
+         	</item>
+         </list>
+      </controlaccess>
+   </archdesc>
+</ead>

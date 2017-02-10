@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+   <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0"> 
+      <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special Collections//text
+		(US::AzU::History of Mining in Arizona)//en""UAAZ198.xml"
+      </eadid> 
+      <filedesc> 
+         <titlestmt> 
+         	<titleproper encodinganalog="title">History of Mining in Arizona,
+	 	       <date normal="1927/1929" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">1927-1929</date>
+	 	    </titleproper>
+         	<titleproper type="filing" altrender="nodisplay"> History of Mining in Arizona,
+            </titleproper>
+	        <author>Processed by Staff.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date normal= "2016" era= "ce" calendar = "gregorian">; 2016</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+            <date era="ce" encodinganalog="date" normal="20160108">January 08, 2016</date>
+  	     </creation>
+	     <langusage>Finding aid encoded in<language> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc> 
+   </eadheader> 
+   <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+      <did id="a1"> 
+         <head>Collection Summary</head> 
+      	<unittitle encodinganalog="245" label="Collection Name:"> History of Mining in Arizona,
+            <unitdate type="inclusive" label="Dates:" normal="1927/1929">1927-1929</unitdate>
+  	     </unittitle>	 
+	     <unitid label="Collection Number:" encodinganalog="099" repositorycode="AzU" countrycode="us">AZ 198</unitid>
+	     <origination label="Creator:"> 
+            <persname source="lcnaf" encodinganalog="100">Tenney, J. B. (James Brand), 1884-1959</persname> 
+	     </origination>
+      	<abstract label="Abstract:">James Brand (J.B) Tenney, 1884-1959, was an assistant geologist for the Arizona Bureau of Mines. 
+      								This collection is a Typescript of Arizona mining history, chiefly covers the period from 1849 to 1930. 
+      								Edited and prepared from Mr. Tenney&apos;s original manuscript by the Special Collections Division, 
+      								University of Arizona Library, 1959-1960.</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description:"><extent>2 volumes (514 leaves); 29 cm</extent></physdesc>	 
+	     <repository label="Repository:"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng" scriptcode="Latin">English.</language></langmaterial>
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+         <p>There are no restrictions on this collection.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+      	<p>History of Mining in Arizona (AZ 198). Special Collections, University of Arizona Libraries.</p>
+      </prefercite>
+   	<acqinfo>
+   		<head>Acquisition Information</head>
+   		<p>Acquired as gift, 1960.</p>
+   	</acqinfo>
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Staff.</p>
+      </processinfo>
+      <bioghist id="a2" encodinganalog="545"> 
+         <head>Biographical Note</head> 
+      	<p>Assistant Geologist, Arizona Bureau of Mines.</p> 
+      </bioghist> 
+      <arrangement id="a4" encodinganalog="351$a"> 
+         <head>Arrangement</head> 
+  	     <p>This collection is organized by mining district and county.</p>
+      </arrangement> 
+      <scopecontent id="a3" encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>Typescript of Arizona mining history, chiefly covers the 
+      	period from 1849 to 1930.  Edited and prepared from Mr. 
+      	Tenney&apos;s original manuscript by the Special Collections 
+      	Division, University of Arizona Library, 1959-1960.</p>
+      	<p>Vol. 1 provides a general history of mining in Arizona from 
+      	1521-1929; a detailed history of Bisbee, Jerome, Globe-
+      	Miami, Clifton-Morenci, Ray-Christmas, Ajo, Superior, and
+      	Tombstone; and a general history of the smaller camps 
+      	grouped by county; and background information concerning 
+      	mines and mining companies.</p>
+      	<p>Vol. 2 contains charts of production statistics, showing copper, 
+      	lead, silver, and gold prices and amounts produced for each district, 1875-
+      	1929; for some mines, including Silver King Mine and Ray Mine; and for some 
+      	companies, including Detroit Copper Company, Arizona Copper Company, and United Verde Copper Company.</p> 
+      </scopecontent>
+      <controlaccess>
+         <head>Access Terms</head>
+         <list type="simple">
+  		    <item>
+  			   <corpname encodinganalog="610" source= "lcnaf">Arizona Copper Company -- History.</corpname>
+  		    </item>
+         	<item>
+         		<corpname encodinganalog="610" source= "lcnaf">Detroit Copper Mining Company -- History.</corpname>
+         	</item>
+         	<item>
+         		<corpname encodinganalog="610" source= "lcnaf">United Verde Copper Company -- History.</corpname>
+         	</item>
+  		    <item>
+  			   <subject encodinganalog="650" source= "lcsh">Mineral industries -- Arizona -- History.</subject>
+  		    </item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Mines and mineral resources -- Arizona -- Ajo Region -- History.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Mines and mineral resources -- Arizona -- Bisbee Region -- History.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Mines and mineral resources -- Arizona -- Clifton Region -- History.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Mines and mineral resources -- Arizona -- Globe Region -- History.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Mines and mineral resources -- Arizona -- History -- Directories.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Mines and mineral resources -- Arizona -- Jerome -- History.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Mines and mineral resources -- Arizona -- Morenci Region -- History.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Mines and mineral resources -- Arizona -- Superior Region -- History.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Mines and mineral resources -- Arizona -- Tombstone Mining District -- History.</subject>
+         	</item>
+  		    <item>
+  			   <geogname encodinganalog="651" source="lcsh">Ray Mine (Ariz.)</geogname>
+  		    </item>
+         	<item>
+         		<geogname encodinganalog="651" source="lcsh">Silver King Mine (Ariz.)</geogname>
+         	</item>
+         </list>
+      </controlaccess>
+   </archdesc>
+</ead>

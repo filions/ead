@@ -1,0 +1,206 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+    <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+        audience="internal" id="a0"> 
+        <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library SpecialCollections//text(US::AzU::The Papers of Josè Maria Arana//en""MS009.xml"</eadid> 
+        <filedesc> 
+            <titlestmt> 
+                <titleproper render="altrender"> The Papers of Josè Maria Arana
+                    <date normal="1904/1921" era="ce" calendar="gregorian">1904-1921</date></titleproper> 
+                <author>Processed by Staff.</author> 
+            </titlestmt> 
+            <publicationstmt> 
+                <publisher>University of Arizona Libraries, Special Collections</publisher> 
+                <address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+                <date normal= "2012" era= "ce" calendar = "gregorian">; 2012</date> 
+                <p>Arizona Board of Regents. All Rights Reserved.</p> 
+            </publicationstmt> 
+        </filedesc> 
+        <profiledesc> 
+            <creation>Inventory encoded in Oxygen XML editor by Anne Martinez. 
+                <date era="ce" encodinganalog="date" normal="20120723">July 23, 2012</date></creation> 
+            <langusage>Finding aid is in<language> English.</language></langusage> 
+        </profiledesc> 
+    </eadheader> 
+    <frontmatter> 
+        <titlepage> 
+            <titleproper>The Papers of Josè Maria Arana,<date era= "ce" calendar= "gregorian">1904-1921</date></titleproper> 
+            <num>Collection Number: MS 009</num> 
+            <publisher>University of Arizona Libraries, Special Collections</publisher> 
+            <list> 
+                <defitem> 
+                    <label>Processed by:</label> 
+                    <item>Staff</item> 
+                </defitem> 
+                <defitem> 
+                    <label>Date completed:</label> 
+                    <item> 
+                        <date>September 1994</date></item> 
+                </defitem> 
+                <defitem> 
+                    <label>Encoded by:</label> 
+                    <item>Anne Martinez</item> 
+                </defitem> 
+            </list> 
+            <p>&#x00A9; 20012. Arizona Board of Regents. All rights reserved.</p> 
+        </titlepage> 
+    </frontmatter> 
+    <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+        <did id="a1"> 
+            <head>Collection Summary</head> 
+            <unittitle encodinganalog="245" label="Collection Name:">The Papers of Josè Maria Arana 
+                <unitdate type="inclusive" label="Dates:" normal="1904/1921">1904-1921</unitdate></unittitle>
+            <unitid label="Collection Number:" encodinganalog="099"
+                repositorycode="AzU" countrycode="us">MS 009</unitid> 
+            <origination label="Creator:"> 
+                <persname source="lcnaf" encodinganalog="100">Arana, José Maria</persname> </origination>
+            <abstract label="Abstract:">Papers documenting Josè Maria Arana, a prominent businessman and politician in Magdalena, Sonora, Mexico, who was the leader of an anti-Chinese campaigns in Sonora, Sinaloa, and Baja California.</abstract>
+            <physdesc encodinganalog="300$a" label="Physical Description:"><extent>.4 linear feet</extent></physdesc>
+            <langmaterial>Materials in <language langcode="spa">Spanish</language></langmaterial>
+            <repository label="Repository:"> 
+                <corpname>University of Arizona Libraries, Special Collections</corpname> 
+                <address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository> 
+        </did> 
+        <accessrestrict> 
+            <head>Restrictions</head> 
+            <p>None</p> 
+        </accessrestrict> 
+        <userestrict> 
+            <head>Copyright</head> 
+            <p>It is the responsibility of the user to obtain permission to publish
+                from the owner of the copyright (the institution, the creator of the record,
+                the author or his/her transferees, heirs, legates, or literary executors). The
+                user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+                University of Arizona, its officers, employees, and agents from and against all
+                claims made by any person asserting that he or she is an owner of
+                copyright.</p> 
+        </userestrict> 
+        <prefercite> 
+            <head>Credit Line</head> 
+            <p>The Papers of Josè Maria Arana (MS 009). Special
+                Collections, University of Arizona Libraries.</p> 
+        </prefercite> 
+        <bioghist id="a2" encodinganalog="545"> 
+            <head>Biographical Note</head> 
+            <p>Arana was a prominent businessman and politician in Magdalena, Sonora, Mexico. He was also the leader of anti-Chinese campaigns in Sonora, Sinaloa, and Baja California.</p> 
+        </bioghist> 
+        <arrangement id="a4" encodinganalog="351$a"> 
+            <head>Arrangement</head> 
+            <p>This collection is organized chronologically</p>	 
+        </arrangement> 
+        <scopecontent id="a3" encodinganalog="520"> 
+            <head>Scope and Content Note</head> 
+            <p>Chiefly letters to Arana from supporters and opponents of an anti-Chinese campaign in Sonora, Sinaloa, and Baja California. Also included are official government communications, newspaper clippings, political campaign leaflets, and business letters.</p> 
+        </scopecontent> 
+        <relatedmaterial><p>Digitized files from the collection can be found as part of <extref href="http://content.library.arizona.edu/collections/asdo/" role="text/html" actuate="onrequest" show="new">Arizona-Sonora Documents Online</extref> under <extref href="http://content.library.arizona.edu/collections/asdo/arana/" role="text/html" actuate="onrequest" show="new">Papers of Josè Maria Arana </extref></p></relatedmaterial>
+        <controlaccess> <head>Access Terms</head> 
+            <list> 
+                <item> 
+                    <persname encodinganalog="600" source="lcnaf" role="subject">Arana, José Maria</persname> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <subject encodinganalog="650" source="lcsh">Propaganda, Anti-Chinese</subject> </item> 
+            </list> 
+            <list> 
+                <item> 
+                    <geogname encodinganalog="651" source="lcsh" role="subject">Mexico-- History--20th century -- Sources</geogname> </item> 
+            </list>
+            <list> 
+                <item> 
+                    <geogname encodinganalog="651" source="lcsh" role="subject">Sonora (Mexico: State) -- History -- Sources</geogname> </item> 
+            </list></controlaccess>
+        <dsc type="combined" id="a23"> 
+            <head>Container List</head> 
+            <c01 level="file"> 
+                <did> 
+                    <unittitle>Papers of Jose Maria Arana</unittitle> 
+                    <unitdate type="inclusive" normal="1904/1925">1904-1925</unitdate>
+                </did> 
+                <c02 level="file"> 
+                    <did> <container type="box">1</container> 
+                        <container type="folder">1</container> 
+                        <daogrp><resource label="start">Correspondence</resource>
+                            <daoloc label="image" href="http://content.library.arizona.edu/cdm/compoundobject/collection/arana/id/635/rec/1" title="digital image of Correspondence" role="image"></daoloc>
+                       <arc from="start" to="image" show="new" actuate="onrequest"/>
+                        </daogrp>
+                        <unitdate normal="1904/1916">1904-1916</unitdate>
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">1</container> 
+                        <container type="folder">2</container> 
+                        <unittitle>Correspondence</unittitle>
+                        <unitdate normal="1917">1917</unitdate>
+                        <daogrp><resource label="start">Correspondence</resource>
+                            <daoloc label="image" href="http://content.library.arizona.edu/cdm/compoundobject/collection/arana/id/636/rec/2" title="digital image of Correspondence" role="image"></daoloc>
+                            <arc from="start" to="image" show="new" actuate="onrequest"/>
+                        </daogrp>
+                      
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">1</container> 
+                        <container type="folder">3</container> 
+                        <unittitle>Correspondence</unittitle>
+                        <unitdate normal="1918">1918</unitdate>
+                        <daogrp><resource label="start">Correspondence</resource>
+                            <daoloc label="image" href="http://content.library.arizona.edu/cdm/compoundobject/collection/arana/id/636/rec/3" title="digital image of Correspondence" role="image"></daoloc>
+                            <arc from="start" to="image" show="new" actuate="onrequest"/>
+                        </daogrp>
+                        
+                      </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">1</container> 
+                        <container type="folder">4</container> 
+                        <unittitle>Correspondence</unittitle>
+                        <unitdate normal="1919">1919</unitdate>
+                        <daogrp><resource label="start">Correspondence</resource>
+                            <daoloc label="image" href="http://content.library.arizona.edu/cdm/compoundobject/collection/arana/id/636/rec/4" title="digital image of Correspondence" role="image"></daoloc>
+                            <arc from="start" to="image" show="new" actuate="onrequest"/>
+                        </daogrp>
+                        
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">1</container> 
+                        <container type="folder">5</container> 
+                        <unittitle>Correspondence</unittitle>
+                        <unitdate normal="1920/1921">1920-1921</unitdate>
+                        <daogrp><resource label="start">Correspondence</resource>
+                            <daoloc label="image" href="http://content.library.arizona.edu/cdm/compoundobject/collection/arana/id/636/rec/5" title="digital image of Correspondence" role="image"></daoloc>
+                            <arc from="start" to="image" show="new" actuate="onrequest"/>
+                        </daogrp>
+                        
+                    </did> 
+                </c02> 
+                <c02 level="file"> 
+                    <did> <container type="box">1</container> 
+                        <container type="folder">6</container> 
+                        <unittitle>Miscellaneous Material</unittitle>
+                        <unitdate normal="1916/1925">1916-1925</unitdate>
+                        <unitdate>no date</unitdate>
+                        <daogrp><resource label="start">Miscellaneous Material</resource>
+                            <daoloc label="image" href="http://content.library.arizona.edu/cdm/compoundobject/collection/arana/id/636/rec/6" title="digital image of Miscellaneous Materials" role="image"></daoloc>
+                            <arc from="start" to="image" show="new" actuate="onrequest"/>
+                        </daogrp>
+                    </did> 
+                </c02> 
+            </c01> 
+        </dsc> 
+    </archdesc></ead>

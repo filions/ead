@@ -1,0 +1,263 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+ audience="internal" id="a0"> 
+	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special
+		Collections//text(US::AzU::Papers of John Beecher)//en""UAMS161.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper> Papers of John Beecher,
+	 		<date normal="1957/1979" era="ce" calendar="gregorian" certainty="approximate">1957-1979</date>
+	 		</titleproper>
+	 	<titleproper altrender="nodisplay" type="filing">Beecher, John Papers</titleproper>
+	 	<author>Processed by Name of TST.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date normal= "2013" era= "ce" calendar = "gregorian">; 2013</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by George L. Apodaca. 
+  		<date era="ce" encodinganalog="date" normal="11182013">November 18, 2013</date></creation> 
+	 <langusage>Finding aid is in<language> English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+  	<titleproper>Papers of John Beecher,<date era= "ce" calendar= "gregorian">1957-1979</date></titleproper> 
+	 <num>Collection Number: MS 161</num> 
+  	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>TST</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>April 2013</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>George L. Apodaca</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 2013. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name:"> Papers of John Beecher
+		<unitdate type="inclusive" label="Dates:" normal="1957/1979">1957-1979</unitdate></unittitle>	 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	 repositorycode="AzU" countrycode="us">MS 161</unitid> 
+	 <origination label="Creator:"> 
+		<persname source="lcnaf" encodinganalog="100">Beecher, John, 1904-1980</persname> </origination> 
+  	<abstract label="Abstract:">Mostly outgoing letters from John Beecher to various editors at Macmillan Publishing 
+  		Co., between 1965 and 1977, but also includes clippings, book notices, photographs of Beecher, publicity 
+  		brochures and announcements of poetry readings, and poetry broadsides.  There are also news clippings and 
+  		correspondence about the Morning Star Press, later called the Rampart Press, begun in 1956.</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent>0.4 Linear feet</extent></physdesc>	 
+	 <repository label="Repository:"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>		  
+		</address></repository>
+  	<langmaterial>Materials in <language encodinganalog="546" langcode="eng"
+  		scriptcode="Latin">English</language></langmaterial>
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+	 <p>There are no restrictions on this collection.</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>John Beecher papers (MS 161). Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+  	<p>American poet, labor and civil rights activist, educator and journalist; John Beecher taught 
+  		at several universities, worked at various administrative projects during the New Deal, and 
+  		wrote for newspapers and magazines throughout his career.  In 1956, he and his wife, Barbara, 
+  		founded the Morning Star Press.  This private press was moved to Jerome, Arizona in 1958 and 
+  		renamed Rampart Press.  It later moved to Scottsdale, Arizona in 1959 while Beecher taught 
+  		English at Arizona State University.  He resigned there in 1961, continuing his teaching, 
+  		writing, and lecturing until his death in 1980.</p> 
+  </bioghist> 
+  <arrangement id="a4" encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+	 <p>This collection is organized into one series.</p>	 
+	 <list> 
+		<item>Series I: Papers
+		  <unitdate>1957-1979</unitdate></item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>Mainly outgoing letters from Beecher to various editors at Macmillan Publishing Co. between 1965 and 
+  		1967. Also includes clippings, book notices, photographs of Beecher, publicity brochures and 
+  		announcements for poetry readings, and poetry broadsides. Letters in 1965, 1967, and 1968 discuss a 
+  		planned book by Beecher on “realities of Negro life in the South.” News clippings and correspondence 
+  		relate the activities of Beecher’s private press, Morning Star, then Rampart Press. Also included is 
+  		a questionnaire completed by the Beechers about their book design and printing experiences.</p> 
+  </scopecontent> 
+	<relatedmaterial id="a6" encodinganalog="5441"><p>John Beecher papers are also located in the William R. Perkins Library, Duke University, Durham, North Carolina.</p></relatedmaterial>
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+			<persname encodinganalog="600" source="lcnaf" role="subject">Beecher, John, 1904-1980</persname> </item> 
+	 </list> 
+  	<list> 
+  		<item> 
+  			<persname encodinganalog="600" source="lcnaf" role="subject">Beecher, Barbara </persname> </item> 
+  	</list> 
+	 <list> 
+		<item> 
+			<subject encodinganalog="650" source="lcsh">Morning Star Press</subject> </item> 
+	 </list> 
+  	<list>
+  		<item> 
+  		<subject encodinganalog="650" source="lcsh">Rampart Press</subject> </item> 
+  	</list> 
+  	<list>
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Small presses—Arizona</subject> </item> 
+  	</list> 
+  	<list>
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">American poetry—20th century</subject> </item> 
+  	</list>
+  	<list>
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Small presses—California</subject> </item> 
+  	</list>
+	 <list> 
+		<item> 
+		  <genreform encodinganalog="655" source="tgm">Correspondence</genreform> </item> 
+	 </list> 
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+		  <unittitle> Series I: Papers
+			 <unitdate type="inclusive">1957-1979</unitdate></unittitle> 
+		</did> 
+	 	<arrangement><p>This series is arranged in chronological order.</p></arrangement>
+		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <container type="folder">1</container> 
+			 <unittitle>Correspondence:1965</unittitle>
+		  	
+		  </did> 
+		</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">2</container> 
+	 			<unittitle>Correspondence: 1966</unittitle>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">3</container> 
+	 			<unittitle>Correspondence: 1967</unittitle>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">4</container> 
+	 			<unittitle>Correspondence: 1968</unittitle>
+	 			
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">5</container> 
+	 			<unittitle>Correspondence: 1969</unittitle>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">6</container> 
+	 			<unittitle>Correspondence: 1970</unittitle>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">7</container> 
+	 			<unittitle>Correspondence: 1971</unittitle>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">8</container> 
+	 			<unittitle>Correspondence: 1972</unittitle>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">9</container> 
+	 			<unittitle>Correspondence: 1973</unittitle>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">10</container> 
+	 			<unittitle>Correspondence: 1974</unittitle>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">11</container> 
+	 			<unittitle>Correspondence: 1975</unittitle>
+	 		</did> 
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">12</container> 
+	 			<unittitle>Correspondence: 1976</unittitle>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">13</container> 
+	 			<unittitle>Correspondence: 1977</unittitle>
+	 		</did> 
+	 	</c02> 
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">14</container> 
+	 			<unittitle>Miscellaneous undated items and 1979 Interview</unittitle>
+	 			<unitdate>1957-1980; undated</unitdate>
+	 		</did> 
+	 	</c02> 
+	 </c01> 
+  </dsc> 
+</archdesc></ead>

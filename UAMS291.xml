@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd"> 
+<?filetitle Loujon Press Collection?>
+<ead relatedencoding="MARC21">
+<eadheader audience="internal" findaidstatus="edited-full-draft"
+ langencoding="iso639-2b">
+	<eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library Special Collections//text(US::AzU::Loujon Press Collection)//en"
+	 "UAMS291.xml"</eadid>
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Loujon Press collection, 
+		  <date>1962-1965</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Roger
+		  Myers.</author>
+	 </titlestmt>
+	 <publicationstmt>
+	 	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher> 
+		<address>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address>
+		<date>&#x00A9; 2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p>
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc>
+	 <creation encodinganalog="500">Finding aid encoded by Jan Marie Payne. 
+		<date>November 19, 2001</date></creation> 
+	 <langusage>Finding aid is in<language langcode="en"
+		encodinganalog="546">English.</language></langusage> 
+  </profiledesc>
+</eadheader> 
+<frontmatter>
+  <titlepage>
+	 <titleproper encodinganalog="245$a">Loujon Press collection, 
+		<date>1962-1965</date></titleproper>
+	 <num>Collection Number: MS 291 </num>
+  	<publisher encodinganalog="260$b">University of Arizona Libraries, Special Collections</publisher>
+	 <list>
+		<defitem>
+		  <label>Processed by:</label>
+		  <item>Roger Myers</item>
+		</defitem>
+		<defitem>
+		  <label>Date completed:</label>
+		  <item>
+			 <date>November 1990</date></item>
+		</defitem>
+		<defitem>
+		  <label>Encoded by:</label>
+		  <item>Jan Marie Payne</item>
+		</defitem>
+	 </list>
+	 <p>&#x00A9; 2001. Arizona Board of Regents. All rights reserved.</p>
+  </titlepage>
+</frontmatter>
+<archdesc level="collection"> 
+  <did id="a1">
+	 <head>Collection Summary</head>
+	 <unittitle encodinganalog="245" label="Collection Name:">Loujon Press
+		Collection, 
+		<unitdate type="inclusive"
+		 normal="1962/1965">1962-1965</unitdate></unittitle>
+	 <unitid label="Collection Number:" encodinganalog="099"
+	  repositorycode="AzU" countrycode="us">MS 291 </unitid> 
+	 <origination label="Creator:"> 
+		<corpname encodinganalog="110">Loujon Press</corpname></origination>
+	 <abstract label="Abstract:">This collection is comprised of six series: Historical notes,
+		1989. Correspondence, 1962-1965. Notebook, 1964. Photographs, ca. 1962-1965.
+		Artwork, ca. 1963-1965. Book Files, 1963-1965. It includes correspondence,
+		poetry manuscripts, a notebook, galley proofs, production materials, drawings,
+		and photographs relating to Charles Bukowski. Specific material regards his
+		collaboration with Jon Webb in the creation of two poetry books for Loujon
+		Press.</abstract>
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+		encodinganalog="300">1.25 linear feet</extent></physdesc>
+	 <repository label="Repository:">
+	 	<corpname encodinganalog="110">University of Arizona Libraries, Special Collections</corpname>
+		<address>
+		  <addressline>University of Arizona </addressline>
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline>
+		  <addressline>Phone: 520-621-6423</addressline>
+		  <addressline>Fax: 520-621-9733</addressline>
+		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		</address></repository>
+  </did> 
+  <accessrestrict encodinganalog="506">
+	 <head>Restrictions</head>
+	 <p>None.</p>
+  </accessrestrict>
+  <userestrict encodinganalog="540">
+	 <head>Copyright</head>
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p>
+  </userestrict>
+  <prefercite encodinganalog="524">
+	 <head>Credit Line</head>
+	 <p> Loujon Press collection(MS 291).Special Collections, University of Arizona Libraries.</p>
+  </prefercite>
+	<accruals encodinganalog="584">
+		<p>Accurals by purchase</p>
+	</accruals>
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Historical Note</head>
+	 <p>After working as free-lance editors in New York City, Jon and Gypsy Lou
+		Webb moved to New Orleans. There they produced an avant-garde poetry and prose
+		magazine, 
+	 <title>The Outsider</title> (1961-), for American "underground" writers.
+	 Pouring all their money and energy into their letterpress Loujon Press, they
+	 designed and produced several limited editions of works by Charles Bukowski and
+	 Henry Miller from 1963 until 1966. In 1965, the Webbs moved to Santa Fe, El
+	 Paso, and settled for a while at 1009 E. Elm in Tucson. They later moved the
+	 press to 1202 Fourth S.W. in Albuquerque. Jon Webb died in Nashville on June 9,
+	 1971. His obituaries are cited in 
+	 <title>AB Bookman's Weekly</title>, August 2, 1971.</p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into six series:</p> 
+	 <list> 
+		<item>Series I: Historical Notes, 
+		  <date>1989</date></item> 
+		<item>Series II: Correspondence, 
+		  <date>1962-1965</date></item>
+		<item>Series III: Notebook, 
+		  <date>1964</date></item>
+		<item>Series IV: Photographs, 
+		  <date>circa. 1962-1997</date></item>
+		<item>Series V: Artwork, 
+		  <date>circa. 1963-1965</date></item>
+		<item>Series VI: Book Files, 
+		  <date>1963-1965</date></item>
+	 </list> 
+  </arrangement>
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head>
+	 <p>This collection provides insights chiefly into writer Charles Bukowski's
+		daily life in Los Angeles, California from late 1962 to summer 1965. The
+		correspondence, over two hundred letters from him to Webb, are filled with
+		prime Bukowski narration of hard drinking, bad luck at the horse races,
+		neurotic neighbors, demanding landlords, reflections on writing and other
+		poets, his daytime jobs, his enthusiasm for the efforts of Jon and "Gypsy"
+		Louise Webb and their Loujon Press, and a myriad of other topics. Some letters
+		are written or appended with notes from Frances Bukowski about the current
+		state of things in their lives as they lived on North Mariposa Avenue and later
+		De Longpre, including the birth and infancy of their daughter, Marina Louise.
+		Bukowski's satisfaction with the wonder of 
+	 <title>It Catches My Heart in Its Hands</title> is candidly portrayed in
+	 his letter of November 26, 1963. </p> 
+	 <p>By 1964, Bukowski begins to draw, paste, and color the marginalia of the
+		letters and envelopes. Collages of bubble-gum cartoons and cigar bands are
+		pasted on ink, water-colors and scraps of paper while his messages scroll
+		around and between the drawings. The typewritten letters are no more, Bukowski
+		is headed for the big time, and the Webbs and Loujon Press have provided him
+		with two marvelous books as passport portfolios.</p>
+	 <p>Additional letters are from John William Corrington to Webb, and from
+		Webb to Bukowski. There are also a large file of letters of praise for 
+	 <title>It Catches My Heart in Its Hands</title> from admirers including
+	 Lawrence Ferlinghetti, Kenneth Patchen, Henry Miller, and Walter Lowenfels.</p>
+	 <p>A notebook by Bukowski contains 58 pages of handwritten, mostly
+		unpublished poems, and includes a three page commentary on the contemporary
+		state of poetry titled, "A depressing state of affairs...." </p>
+	 <p>The photographs in the collection contain ten of Bukowski, one of his
+		dog, three of the Webbs in their apartment/studio at 1109 Royal, New Orleans,
+		and three of the Tucson residence at 1009 E. Elm as it appeared in 1997. There
+		is also color and ink drawings by Bukowski, including five self-portraits. Some
+		of the photographs and drawings were done for possible inclusion in the poetry
+		books.</p>
+	 <p>The manuscript files relating to the two books contain handwritten and
+		typewritten poems by Bukowski (some with corrections), production materials,
+		galleys, dummys, tearsheets from other poetry books of his poems, and related
+		materials, such as biographical and exhibition materials relating to Noel
+		Rockmore who created etchings for 
+	 <title>Crucifix in a Deathhand</title>.</p>
+  </scopecontent> 
+  <controlaccess id="a12">
+	 <head>Access Terms</head>
+	 <list>
+		<item>
+		  <persname encodinganalog="100">Bukowski, Charles --
+			 Archives</persname></item>
+	 </list>
+	 <list>
+		<item>
+		  <persname encodinganalog="100">Webb, Jon Edgar</persname></item>
+	 </list>
+	 <list>
+		<item>
+		  <persname encodinganalog="100">Webb, Louise</persname></item>
+	 </list>
+	 <list>
+		<item>
+		  <persname encodinganalog="100">Rockmore, Noel, 1928- </persname></item>
+	 </list>
+	 <list>
+		<item>
+		  <corpname encodinganalog="110">Loujon Press --
+			 Archives</corpname></item>
+	 </list>
+	 <list>
+		<item>
+		  <subject> Small presses -- Louisiana -- 20th century</subject></item>
+	 </list>
+	 <list>
+		<item>
+		  <subject>Poets, American -- 20th century -- Archival
+			 resources</subject></item>
+	 </list>
+	 <list>
+		<item>
+		  <subject>Publishers and publishing -- Louisiana</subject></item>
+	 </list>
+	 <list>
+		<item>
+		  <genreform>Correspondence</genreform></item>
+	 </list>
+	 <list>
+		<item>
+		  <genreform>Photographs</genreform></item>
+	 </list>
+	 <list>
+		<item>
+		  <genreform>Poems</genreform></item>
+	 </list>
+	 <list>
+		<item>
+		  <genreform>Drawings</genreform></item>
+	 </list>
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series I: Historical Notes, 
+			 <unitdate type="inclusive" normal="1989">1989</unitdate></unittitle> 
+		</did> 
+		<scopecontent>
+		  <p>Chronology and narrative by Edwin Blair on the Webbs, Loujon Press,
+			 and Bukowski.</p>
+		</scopecontent>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">1</container>
+			 <unittitle>Historical notes, also marked up copies of 
+				<title>Flower, Fist and Bestial Wail</title> (1960),
+				<title>Run with the Hunted</title> (1962), 
+				<title>Longshot Poems for Broke Players</title> (1962), and 
+				<title>Poems and Drawings</title> (Epos issue: 1962). Some included
+				inscriptions to Webb from Bukowski, and some were partially dissected by Webb
+				for use in designing his publications. 
+				<unitdate type="inclusive"
+				normal="1989">1989</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01> 
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series II: Correspondence, 
+			 <unitdate type="inclusive"
+			 normal="1962/1965">1962-1965</unitdate></unittitle> 
+		</did> 
+		<scopecontent>
+		  <p>Handwritten and typewritten, chiefly from Bukowski to Webb.</p>
+		</scopecontent>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">2-9</container>
+			 <unittitle>Bukowski to Webb. 
+				<unitdate type="inclusive"
+				normal="1962/1965">1962-1965</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">10</container>
+			 <unittitle>John William Corrington to Webb. 
+				<unitdate type="inclusive"
+				normal="1963/1964">1963-1964</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">11</container>
+			 <unittitle>Webb to Bukowski. 
+				<unitdate type="inclusive"
+				normal="1963">1963</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">12</container>
+			 <unittitle>To Webb from admirers of 
+				<title>It Catches My Heart in Its Hands</title>. 
+				<unitdate type="inclusive"
+				normal="1963/1965">1963-1965</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series"> 
+		<did>
+		  <unittitle>Series III: Notebook, 
+			 <unitdate type="inclusive" normal="1964">1964</unitdate></unittitle> 
+		</did> 
+		<scopecontent>
+		  <p>Handwritten poems and commentary by Bukowski.</p>
+		</scopecontent>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">13</container>
+			 <unittitle>Notebook. 
+				<unitdate type="inclusive"
+				normal="1964">1964</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series IV: Photographs, 
+			 <unitdate type="inclusive" normal="NaN/1997">ca.
+				1962-1997</unitdate></unittitle> 
+		</did> 
+		<scopecontent>
+		  <p>Ten of Bukowski, one of his dog, three of the Webbs, three of
+			 residence at 1009 East Elm Street, Tucson (1997), eight photographs of the Webbs on a trip to Las Vegas; and one of the Webbs in Slidell, LA.</p>
+		</scopecontent>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">14</container>
+			 <unittitle>Photographs. 
+				<unitdate type="inclusive" normal="NaN/1997">ca.
+				  1962-1997</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series V: Artwork, 
+			 <unitdate type="inclusive" normal="NaN/1965">circa.
+				1962-1965</unitdate></unittitle> 
+		</did> 
+		<scopecontent>
+		  <p>Drawings and self-portraits on paper.</p>
+		</scopecontent>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">15</container>
+			 <unittitle>Drawings. 
+				<unitdate type="inclusive" normal="NaN/1965">circa.
+				  1962-1965</unitdate></unittitle>
+		  </did>
+		</c02>
+		<c02 level="file">
+		  <did><container type="box">1</container><container
+			 type="folder">16</container>
+			 <unittitle>Envelopes. 
+				<unitdate type="inclusive" normal="NaN/1965">circa.
+				  1962-1965</unitdate></unittitle>
+		  </did>
+		</c02>
+	 </c01>
+	 <c01 level="series">
+		<did>
+		  <unittitle>Series VI: Book Files, 
+			 <unitdate type="inclusive"
+			 normal="1963/1965">1963-1965</unitdate></unittitle> 
+		</did> 
+		<scopecontent>
+		  <p>Typescripts and handwritten prose and poetry, some with corrections,
+			 and production materials relating to the titles.</p>
+		</scopecontent>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>
+				<title>It Catches My Heart in Its Hands</title>, 
+				<date>1963</date></unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container type="box">2</container><container
+				type="folder">1</container>
+				<unittitle>Introduction by John William Corrington. 
+				  <unitdate type="inclusive"
+				  normal="1963">1963</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">2</container><container
+				type="folder">2-3</container>
+				<unittitle>Poems, some on tearsheets, by Bukowski. 
+				  <unitdate type="inclusive"
+				  normal="1963">1963</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">2</container><container
+				type="folder">4</container>
+				<unittitle>Production materials. 
+				  <unitdate type="inclusive"
+				  normal="1963">1963</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">2</container><container
+				type="folder">5</container>
+				<unittitle>Galleys. 
+				  <unitdate type="inclusive"
+				  normal="1963">1963</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+		<c02 level="subseries">
+		  <did>
+			 <unittitle>
+				<title>Crucifix in a Deathhand</title>, 
+				<date>1965</date></unittitle>
+		  </did>
+		  <c03 level="file">
+			 <did><container type="box">2</container><container
+				type="folder">6</container>
+				<unittitle>Poems. 
+				  <unitdate type="inclusive"
+				  normal="1965">1965</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">2</container><container
+				type="folder">7</container>
+				<unittitle>Production materials. 
+				  <unitdate type="inclusive"
+				  normal="1965">1965</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">2</container><container
+				type="folder">8-9</container>
+				<unittitle>Galleys and dummy. 
+				  <unitdate type="inclusive"
+				  normal="1965">1965</unitdate></unittitle>
+			 </did>
+		  </c03>
+		  <c03 level="file">
+			 <did><container type="box">2</container><container
+				type="folder">10</container>
+				<unittitle>Biographical information and exhibition catalogs on Noel
+				  Rockmore, artist. 
+				  <unitdate type="inclusive"
+				  normal="1965">1965</unitdate></unittitle>
+			 </did>
+		  </c03>
+		</c02>
+	 </c01>
+  	<c01 level="series">
+  		<did>
+  			<unittitle>Correspondence</unittitle>
+  			<unitdate normal="1964/2000">1964-2000</unitdate></did>
+  		<arrangement><p>By creator, and thereunder chronological</p></arrangement>
+  		<scopecontent><p>Handwritten and typewritten, chiefly from Jon and Lou Webb to Blair.</p></scopecontent>
+  		<accruals><p>Accession from Edwin Blair</p></accruals>
+  		<c02 level="file">
+  			<did><container type="box">3</container>
+  			<container type="folder">1-7</container>
+  				<unittitle>Webb to Blair, 1964-1971</unittitle>
+  			</did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box ">3</container>
+  				<container type="folder">8-21</container>
+  				<unittitle>Lou Webb to Blair, 1971-2000</unittitle>
+  			</did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">3</container>
+  				<container type="folder">22</container>
+  				<unittitle>Miscellaneous to Blair, 1993-2000</unittitle>
+  			</did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">3</container>
+  				<container type="folder">23</container>
+  				<unittitle>Lou Webb to Blair, No Dates</unittitle>
+  			</did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">3</container>
+  				<container type="folder">24</container>
+  				<unittitle>Webbs to Mike, 5/14/1971</unittitle>
+  			</did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">3</container>
+  				<container type="folder">25</container>
+  				<unittitle>Poem: To Louise from Jon</unittitle>
+  			</did>
+  		</c02>
+  	</c01>
+  	<c01 level="series">
+  		<did><unittitle>Loujon Press Administration</unittitle>
+  			<unitdate normal="1964/1988">1964-1988</unitdate></did>
+  		<arrangement><p>By type, and thereunder chronological</p></arrangement>
+  		<scopecontent><p>Bank Statements, Contracts, Fundraising and Promotional Materials</p></scopecontent>
+  		<accruals><p>Accession from Edwin Blair</p></accruals>
+  		<c02 level="file">
+  			<did><container type="box">3</container>
+  				<container type="folder">26</container>
+  				<unittitle>Bank Statements, Canceled Checks, Contracts, 1963-1988</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">3</container>
+  				<container type="folder">27</container>
+  				<unittitle>Fundraising Letter, 1967</unittitle></did>
+  		</c02>
+  		<c02 level="file">
+  			<did><container type="box">3</container>
+  				<container type="28"></container>
+  				<unittitle>Promotional Materials, 1967-1970</unittitle></did>
+  		</c02>
+  	</c01>
+  </dsc> 
+</archdesc></ead>

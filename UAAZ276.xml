@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+   <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0"> 
+      <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special Collections//text
+		(US::AzU::Mormons in Arizona)//en""UAAZ276.xml"
+      </eadid> 
+      <filedesc> 
+         <titlestmt> 
+         	<titleproper encodinganalog="title">Mormons in Arizona,
+	 	       <date normal="1873/1948" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">1873-1948</date>
+	 	      
+	 	       <date normal="1873/1888" type="bulk">(bulk 1873-1888)</date>
+	 	    </titleproper>
+         	<titleproper type="filing" altrender="nodisplay"> Mormons in Arizona,
+	 	   
+            </titleproper>
+	        <author>Processed by Staff.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date normal= "2016" era= "ce" calendar = "gregorian">; 2016</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
+            <date era="ce" encodinganalog="date" normal="20160212">February 12, 2016</date>
+  	     </creation>
+	     <langusage>Finding aid encoded in<language> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc> 
+   </eadheader> 
+   <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+      <did id="a1"> 
+         <head>Collection Summary</head> 
+      	<unittitle encodinganalog="245" label="Collection Name:"> Mormons in Arizona,
+            <unitdate type="inclusive" label="Dates:" normal="1873/1948">1873-1948</unitdate>
+            <unitdate type="bulk" label="Dates:" normal="1873/1888">(bulk 1873-1888)</unitdate>
+  	     </unittitle>	 
+	     <unitid label="Collection Number:" encodinganalog="099" repositorycode="AzU" countrycode="us">AZ 276</unitid>
+	    
+      	
+      	<abstract label="Abstract:">Historical sketches, minutes of meetings, letters, journals, diaries, and autobiographical sketches including 
+      								histories written by R.E. Porter and George S. Tanner relating to Mormon settlements in Arizona, chiefly at 
+      								Joseph City and other points along the Little Colorado River. Includes minutes and letters of the United Order of 
+      								Joseph City; and letters and extracts of news stories regarding the Little Colorado River Stake. Journals, diaries, 
+      								and autobiographical sketches of Mormon pioneers in Arizona are present for William C. Allen, John A. Blythe, James 
+      								S. Brown, Daniel H. McAllister, Joseph H. Richards, Andrew S. Rogers, William H. Solomon, Brigham Stowell, John W. Tate, 
+      								and the McLaws, Bradshaw, and Owens families.</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description:"><extent>.4 linear feet</extent></physdesc>	 
+	     <repository label="Repository:"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng" scriptcode="Latin">English.</language></langmaterial>
+   	        
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+         <p>There are no restrictions on this collection.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+      	<p>Mormons in Arizona (AZ 276). Special Collections, University of Arizona Libraries.</p>
+      </prefercite> 
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Staff.</p>
+      </processinfo>
+      <arrangement id="a4" encodinganalog="351$a"> 
+         <head>Arrangement</head> 
+  	     <p>This collection is organized into 2 series. Arrangement is alphabetical within series.</p>	 
+         <list>
+            <item>Series I: Histories and miscellaneous,
+  			   <unitdate>1876-1948</unitdate></item>
+  		    <item>Series II: Autobiographical sketches and journals,
+  			   <unitdate>1873-1891</unitdate></item>
+         </list>
+      </arrangement> 
+      <scopecontent id="a3" encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>Historical sketches, minutes of meetings, letters, journals, diaries, and autobiographical sketches including
+      	histories written by R.E. Porter and George S. Tanner relating to Mormon settlements in Arizona, chiefly at 
+      	Joseph City and other points along the Little Colorado River. Includes minutes and letters of the United Order of
+      	Joseph City; and letters and extracts of news stories regarding the Little Colorado River Stake. Journals, 
+      	diaries, and autobiographical sketches of Mormon pioneers in Arizona are present for William C. Allen, John A. 
+      	Blythe, James S. Brown, Daniel H. McAllister, Joseph H. Richards, Andrew S. Rogers, William H. Solomon, Brigham 
+      	Stowell, John W. Tate, and the McLaws, Bradshaw, and Owens families. </p> 
+      </scopecontent> 
+      <controlaccess>
+         <head>Access Terms</head>
+         <list type="simple"> 
+            <item>
+               <persname encodinganalog="600" source= "lcnaf">Allen, William Coleman, 1843-</persname>
+  		    </item>
+         	<item>
+         		<persname encodinganalog="600" source= "lcnaf">Blythe, John A., 1856-</persname>
+         	</item>
+         	<item>
+         		<persname encodinganalog="600" source= "lcnaf">Bradshaw family.</persname>
+         	</item>
+         	<item>
+         		<persname encodinganalog="600" source= "lcnaf">Brown, James S. (James Stephens), 1828-1902.</persname>
+         	</item>
+         	<item>
+         		<persname encodinganalog="600" source= "lcnaf">McAllister, Daniel Handley, 1857-</persname>
+         	</item>
+         	<item>
+         		<persname encodinganalog="600" source= "lcnaf">McLaw family.</persname>
+         	</item>
+         	<item>
+         		<persname encodinganalog="600" source= "lcnaf">McLaws, John W., 1876-</persname>
+         	</item>
+         	<item>
+         		<persname encodinganalog="600" source= "lcnaf">Owen family.</persname>
+         	</item>
+         	<item>
+         		<persname encodinganalog="600" source= "lcnaf">Richards, John Hill, 1884-</persname>
+         	</item>
+         	<item>
+         		<persname encodinganalog="600" source= "lcnaf">Rogers, Andrew S., 1854-</persname>
+         	</item>
+         	<item>
+         		<persname encodinganalog="600" source= "lcnaf">Solomon, William Henry, 1828-1913.</persname>
+         	</item>
+         	<item>
+         		<persname encodinganalog="600" source= "lcnaf">Stowell, Brigham, 1854-1943.</persname>
+         	</item>
+         	<item>
+         		<persname encodinganalog="600" source= "lcnaf">Tate, John W.</persname>
+         	</item>
+  		    <item>
+  			   <corpname encodinganalog="610" source= "lcnaf">Church of Jesus Christ of Latter-day Saints. Stakes of Zion. Little Colorado.</corpname>
+  		    </item>
+  		    <item>
+  			   <subject encodinganalog="650" source= "lcsh">Frontier and pioneer life -- Arizona.</subject>
+  		    </item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Mormons -- Arizona -- History.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Mormons -- Utah -- History.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Pioneers -- Arizona.</subject>
+         	</item>
+  		    <item>
+  			   <geogname encodinganalog="651" source="lcsh">Joseph City Region (Ariz.) -- History.</geogname>
+  		    </item>
+         	<item>
+         		<geogname encodinganalog="651" source="lcsh">Little Colorado River Valley (N.M. and Ariz.) -- History.</geogname>
+         	</item>
+         	<item>
+         		<persname encodinganalog="700" source= "lcnaf">Porter, Rulon E.</persname>
+         	</item>
+         	<item>
+         		<persname encodinganalog="700" source= "lcnaf">Tanner, George S.</persname>
+         	</item>
+         </list>
+      </controlaccess>
+   </archdesc>
+</ead>

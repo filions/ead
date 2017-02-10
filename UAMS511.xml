@@ -1,0 +1,2600 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
+ audience="internal" id="a0"> 
+	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library SpecialCollections//text(US::Michael J. Drake Papers)//en""UAMS511"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+	 	<titleproper>Michael J. Drake Papers
+	 		<date normal="1972/2008" era="ce" calendar="gregorian" type="inclusive">1972-2008</date>
+	 	<date normal="1973/1986" type="bulk">(bulk 1973-1986)</date></titleproper>
+	 	<titleproper altrender="nodisplay" type="filing"> Drake, Michael J. Papers</titleproper>
+	 	<author>Processed by Deborah Weller.</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://www.library.arizona.edu/speccoll/</addressline>
+		</address> 
+		<date normal= "2014" era= "ce" calendar = "gregorian">; 2014</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+  	<creation>Inventory encoded in Oxygen XML editor by Deborah Weller. 
+		<date era="ce" encodinganalog="date" normal="20140108">January 9, 2014</date></creation> 
+	 <langusage>Finding aid is in<language> English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+  	<titleproper>Michael J. Drake Papers,
+  		<date normal="1972/2008" era="ce" calendar="gregorian" type="inclusive">1972-2008</date>
+  		<date normal="1973/1986" type="bulk">(bulk 1949-1986)</date></titleproper>
+	 <num>Collection Number: MS 511</num> 
+  	<publisher>University of Arizona Libraries, Special Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Deborah Weller.</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>December 2013</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Deborah Weller</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 20014. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+  	<unittitle encodinganalog="245" label="Collection Name:">Michael J. Drake Papers
+  		<unitdate type="inclusive" label="Dates:" normal="1972/2008">1972-2008</unitdate>
+  		<unitdate type="bulk" label="Dates:" normal="1973/1986">(bulk 1973-1986)</unitdate>
+  	</unittitle>	 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	 repositorycode="AzU" countrycode="us">MS 511</unitid> 
+	 <origination label="Creator:"> 
+	 	<persname encodinganalog="100" source="lcnaf">Drake, Michael J.</persname> </origination> 
+  	<abstract label="Abstract:">This collection is comprised of the professional papers of Michael J. Drake.  The bulk of the material relates to his career as a researcher and professor in geochemistry, planetary sciences, and meteoritics at the University of Arizona.  The majority of this collection predates 1994 when Dr. Drake became the director of the Lunar Planetary Laboratory and head of the Department of Planetary Sciences.</abstract> 
+  	<physdesc encodinganalog="300$a" label="Physical Description:"><extent>8.75 linear feet</extent></physdesc>	 
+	 <repository label="Repository:"> 
+	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona</addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL: http://www.library.arizona.edu/speccoll</addressline>		  
+		</address></repository> 
+  </did> 
+  <accessrestrict> 
+	 <head>Restrictions</head> 
+	 <p>There are no restrictions on the collection</p> 
+  </accessrestrict> 
+  <userestrict> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of copyright.</p> 
+  </userestrict> 
+  <prefercite> 
+	 <head>Credit Line</head> 
+  	<p>Michael J. Drake Papers (MS 511). Special
+  		Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Biographical Note</head> 
+  	<p>Michael J. Drake was born on July 8, 1946 in Bristol, England.  He received his Bachelor of Science Degree in Geology at Victoria University of Manchester, England, 1967 and earned his Ph.D. in Geology from the University of Oregon in 1972. Dr. Drake was a post-doctoral research associate at the Harvard Smithsonian Astrophysical Observatory in Cambridge, Massachusetts from 1972-1973.  In 1973 he joined the University of Arizona faculty as an assistant professor in the Department of Planetary Sciences.  He served as the associate director of Lunar Planetary Laboratory from 1978 through 1980 and became an associate professor of Planetary Sciences in 1978. In 1986 and 1987, Drake served as the Associate Dean of Science, and in 1994 he became the head of the Department of Planetary Sciences and the Director of the Lunar and Planetary Laboratory. He served in that capacity until his death in 2011.</p> 
+  	<p>Michael J. Drake was a leader in the field of extraterrestrial geology. He studied lunar rock samples, meteors and the moons of Saturn. His assisted with establishment of the University of Arizona Electron Microprobe Laboratory in 1974.  He helped map the surface of Mars and was part of a NASA team that detected the presence of ice below the Martian surface in 2002.</p>
+  	<p>Dr. Drake contributed to important space projects that gained international awareness for Lunar and Planetary Laboratory and the University of Arizona. These projects included the Cassini mission to explore Saturn, the Gamma-Ray Spectrometer onboard NASA's Mars Odyssey Orbiter, the High Resolution Imaging Science Experiment (HiRISE) camera onboard NASA's Mars Reconnaissance Orbiter, and the Phoenix Mars Lander.</p>
+  	<p>Drake was the principal investigator for one of the most ambitious University of Arizona projects ever, OSIRIS-REx, the $800 million NASA mission designed to retrieve a sample of the near earth asteroid Bennu and return it to Earth. OSIRIS-REx is due to launch in 2016.  It was the largest grant or contract the UA had ever received to date. The project was approved by NASA after 2 years of challenging work by Drake and only months before his death.</p>
+  	<p>Dr. Michael J. Drake was a Regents Professor, the highest of faculty ranks reserved for full professors with exceptional achievements that have brought them national or international recognition.</p>
+  </bioghist> 
+  <arrangement id="a4" encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+  	<p>This collection is organized into 10 series</p>	 
+	 <list> 
+	 	<item>Series I: Personal Files, 
+	 		<unitdate era="ce" calendar="gregorian">1972-1922</unitdate> 
+	 	</item>  
+	 </list> 
+  	<list> 
+  		<item>Series II: Correspondence, 
+  			<unitdate era="ce" calendar="gregorian">1973-1986</unitdate> 
+  		</item> 
+  		<item>Subseries 1: Professional correspondence.</item>
+  		<item>Subseries 2: Organizational correspondence.</item>
+  	</list> 
+  	<list> 
+  		<item>Series III: Proposals and Grants, 
+  			<unitdate era="ce" calendar="gregorian">1972-1992</unitdate> 
+  		</item> 
+  		<item>Subseries 1: Department of Energy (DOE)</item>
+  		<item>Subseries 2: NASA </item>
+  		<item>Subseries 3: National Science Foundation (NSF) </item>
+  		<item>Subseroes 4: Other organization</item>
+  	</list> 
+  	<list> 
+  		<item>Series IV: Professional Services, 
+  			<unitdate era="ce" calendar="gregorian">1979-1985</unitdate> 
+  		</item> 
+  	</list> 
+  	<list> 
+  		<item>Series V: Scholarship files,
+  			<unitdate era="ce" calendar="gregorian">1972-1991</unitdate> 
+  		</item> 
+  		<item>Subseries 1:  Presentations</item>
+  		<item>Subseries 2:  Articles </item>
+  		<item>Subseries 3:  Book Chapters </item>
+  		<item>Series VI: Subject files,
+  			<unitdate era="ce" calendar="gregorian">1972-2008</unitdate>  
+  		</item>
+  		<item>Series VII:  Instructional files,
+  			<unitdate era="ce" calendar="gregorian">1972-2008</unitdate>
+  		</item>
+  		<item>Series VIII:  College Class Work,
+  			<unitdate>1965-1972</unitdate>
+  		</item>
+  		<item>Series IX:  Scientific Notebooks,
+  			<unitdate>1968-1993</unitdate>
+  		</item>
+  		<item>Series X:  Picture Negatives,
+  			<unitdate>circa 1977-1980</unitdate>
+  		</item>
+  	</list>
+  	</arrangement>
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+  	<p>This collection is comprised of the professional papers of Michael J. Drake.  Almost all of the materials relate to his career as a researcher and a professor in geochemistry and planetary sciences at the University of Arizona. The bulk of the papers date from 1973 to 1986 before he became the director of the Lunar Planetary Laboratory and head of the Department of Planetary Sciences in 1994.  The largest series is the publications which is divided into four subseries; presentations, articles, books chapters, and general.   Other items in the collection are his personal files, correspondences, proposals and grants, professional services, and a subject file.</p> 
+  </scopecontent> 
+  <controlaccess id="a12" encodinganalog="520"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+			<persname encodinganalog="600" role="subject" source="lcsh">Drake, Michael J., 1946-2011</persname> </item> 
+	 </list> 
+  	<list>
+  	<item><corpname encodinganalog="610" source="lcnaf" role="subject">University of Arizona--Department of Planetary Science--History.</corpname></item></list>
+  	<list>
+  	<item><corpname encodinganalog="610" source="lcnaf" role="subject">University of Arizona--Lunar and Planetary Laboratory--History.</corpname></item></list>
+  	<list>
+  	<item><corpname encodinganalog="610" source="lcnaf" role="subject">Mars Odyssey Orbiter.</corpname></item></list>
+  	<list>
+ 	<item><corpname encodinganalog="610" source="lcnaf" role="subject">OSIRIS-REX mission.</corpname></item></list>
+	 <list> 
+		<item> 
+			<subject encodinganalog="650" source="lcsh">Microprobe analysis.</subject> </item> 
+	 </list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Lunar petrology.</subject> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Lunar geology.</subject> </item> 
+  	</list>
+  	<list> 
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Meteorites Research.</subject> </item> 
+  	</list>
+  	<list>
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Asteroids Research.</subject> </item> 
+  	</list>
+  	<list>
+  		<item> 
+  			<subject encodinganalog="650" source="lcsh">Solar System Formation.</subject> </item> 
+  	</list>
+  	
+  	<list>
+  		<item>
+  			<subject encodinganalog="650" source="lcnsh">Cassini(Spacecraft).</subject></item></list>
+  	<list>
+  		<item>
+  			<subject encodinganalog="650" source="lcnsh">Gamma-ray spectroscopy.</subject></item></list>
+  <list>
+  	<item>
+  	  <geogname encodinganalog="651" source="lcsh">Mars (Planet).</geogname> 
+  	</item>				
+  	</list>
+  	<list>
+  		<item>
+  			<geogname encodinganalog="651" source="lcsh">Mars--Probes.</geogname> 
+  		</item>
+  	</list>
+  	<list>
+  		<item>
+  			<geogname encodinganalog="651" source="lcsh">Saturn (Planet).</geogname> 
+  		</item></list>
+  		<list>
+  			<item>
+  				<geogname encodinganalog="651" source="lcsh">Saturn--Probes.</geogname> 
+  			</item>
+  	</list>
+  	<list>
+  		<item>
+  			<geogname encodinganalog="651" source="lcsh">Moon--Origin.</geogname> 
+  		</item>
+  	</list>
+	 <list> 
+		<item> 
+			<corpname role="subject" encodinganalog="610" source="lcsh">United States. National Aeronautics and Space Administration.</corpname> 
+				</item>
+	 </list> 
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+			<unittitle> Series I:  Personal,
+				<unitdate type="inclusive">1972-1982</unitdate></unittitle> 
+		</did> 
+	 	<scopecontent>
+	 		<p>This series is arranged chronologically by year. It contains Dr. Drake's United States Visa application, his final thesis presentation along with the copy of the abstract, correspondence relating to his appointment to the Department Planetary Sciences faculty, a personal log, information regarding his 6 month sabbatical in 1981 at the University of Oxford, letters relating to Drake’s interest in the job of director of the School of Geophysical Sciences, Georgia Institute of Technology 1981-1982.</p> 
+	 	</scopecontent>
+	 		<c02 level="file"> 
+		  <did> <container type="box">1</container> 
+			 <container type="folder">1</container> 
+		  	<unittitle>Visa,</unittitle>
+		  	<unitdate>1972</unitdate>
+		  </did> 
+	 		</c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">2</container> 
+	 			<unittitle>Ph.D. Thesis final oral presentation and copy of abstract,</unittitle>
+	 			<unitdate>September 1972</unitdate>
+	 	</did>
+	 		 </c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">3</container> 
+	 			<unittitle>Smithsonian Astrophysical Observatory appointment,</unittitle>
+	 			<unitdate>1972-1973</unitdate>
+	 		</did>
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">4</container> 
+	 			<unittitle>University of Arizona, Department of Planetary Science appointment,</unittitle>
+	 			<unitdate>1973</unitdate>
+	 		</did>
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">5</container> 
+	 			<unittitle>Personal log,</unittitle>
+	 			<unitdate>1977-1979</unitdate>
+	 		</did>
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">6</container> 
+	 			<unittitle>Sabbatical-University of Oxford,</unittitle>
+	 			<unitdate>1978-1982</unitdate>	
+	 		</did>
+	 	</c02>
+	 	<c02 level="file"> 
+	 		<did> <container type="box">1</container> 
+	 			<container type="folder">7</container> 
+	 			<unittitle>School of Geophysical Sciences, Georgia Institute of Technology application,</unittitle>
+	 			<unitdate>1981-1982</unitdate>	
+	 		</did></c02>
+	 	</c01>
+	 			<c01 level="series" id="ser2"> 
+	 				<did> 
+	 					<unittitle>Series II:  Correspondence, 
+	 						<unitdate type="inclusive">1973-1987</unitdate></unittitle> 
+	 				</did> 
+	 				<scopecontent>
+	 					<p>This series contains professional and organizational correspondence including both incoming and outgoing mail.  The series is divided into two subseries; the first is arranged by years and the second is arranged by title of the organization.</p> 
+	 				</scopecontent>
+	 				<c02 level ="subseries">	
+	 					<did>
+	 						<unittitle>Subseries 1: Professional correspondence,</unittitle>
+	 					</did>
+	 					<c03 level="file"> 
+	 						<did> <container type="box">1</container> 
+	 							<container type="folder">8</container> 
+	 							<unittitle>1973</unittitle>
+	 						</did> 
+	 					</c03>
+	 					<c03 level="file"> 
+	 						<did> <container type="box">1</container> 
+	 							<container type="folder">9</container> 
+	 							<unittitle>January-February 1974</unittitle>
+	 						</did> 
+	 					</c03>
+	 					<c03 level="file"> 
+	 						<did> <container type="box">1</container> 
+	 							<container type="folder">10</container> 
+	 							<unittitle>March-December 1974</unittitle>
+	 						</did> 
+	 					</c03>	
+	 					<c03 level="file"> 
+	 						<did> <container type="box">1</container> 
+	 							<container type="folder">11</container> 
+	 							<unittitle>January-September 1975</unittitle>
+	 						</did> 
+	 					</c03>	
+	 					<c03 level="file"> 
+	 						<did> <container type="box">1</container> 
+	 							<container type="folder">12</container> 
+	 							<unittitle>October-December 1975</unittitle>
+	 						</did> 
+	 					</c03>	
+	 					<c03 level="file"> 
+	 						<did> <container type="box">1</container> 
+	 							<container type="folder">13</container> 
+	 							<unittitle>January-June 1976</unittitle>
+	 						</did> 
+	 					</c03>		
+	 					<c03 level="file"> 
+	 						<did> <container type="box">1</container> 
+	 							<container type="folder">14</container> 
+	 							<unittitle>July-December 1976</unittitle>
+	 						</did> 
+	 					</c03>				
+	 					<c03 level="file"> 
+	 						<did> <container type="box">1</container> 
+	 							<container type="folder">15</container> 
+	 							<unittitle>January-April 1977</unittitle>
+	 						</did> 
+	 					</c03>				
+	 					<c03 level="file"> 
+	 						<did> <container type="box">1</container> 
+	 							<container type="folder">16</container> 
+	 							<unittitle>May-August 1977</unittitle>
+	 						</did> 
+	 					</c03>			
+	 					<c03 level="file"> 
+	 						<did> <container type="box">1</container> 
+	 							<container type="folder">17</container> 
+	 							<unittitle>September-December 1977</unittitle>
+	 						</did> 
+	 					</c03>		
+	 					<c03 level="file"> 
+	 						<did> <container type="box">1</container> 
+	 							<container type="folder">18</container> 
+	 							<unittitle>January-March 1978</unittitle>
+	 						</did> 
+	 					</c03>	
+	 					<c03 level="file"> 
+	 						<did> <container type="box">1</container> 
+	 							<container type="folder">19</container> 
+	 							<unittitle>April-July 1978</unittitle>
+	 						</did> 
+	 					</c03>	
+	 					<c03 level="file"> 
+	 						<did> <container type="box">1</container> 
+	 							<container type="folder">20</container> 
+	 							<unittitle>August-March 1978</unittitle>
+	 						</did> 
+	 					</c03>	
+	 					<c03 level="file"> 
+	 						<did> <container type="box">1</container> 
+	 							<container type="folder">21</container> 
+	 							<unittitle>January-March 1979</unittitle>
+	 						</did> 
+	 					</c03>		
+	 					<c03 level="file"> 
+	 						<did> <container type="box">1</container> 
+	 							<container type="folder">22</container> 
+	 							<unittitle>April-June 1979</unittitle>
+	 						</did> 
+	 					</c03>	
+	 					<c03 level="file"> 
+	 						<did> <container type="box">1</container> 
+	 							<container type="folder">23</container> 
+	 							<unittitle>July –September 1979</unittitle>
+	 						</did> 
+	 					</c03>	
+	 					<c03 level="file"> 
+	 						<did> <container type="box">1</container> 
+	 							<container type="folder">24</container> 
+	 							<unittitle>October-December 1979</unittitle>
+	 						</did> 
+	 					</c03>	
+	 					<c03 level="file"> 
+	 						<did> <container type="box">1</container> 
+	 							<container type="folder">25</container> 
+	 							<unittitle>January-March 1980</unittitle>
+	 						</did> 
+	 					</c03>	
+	 					<c03 level="file"> 
+	 						<did> <container type="box">1</container> 
+	 							<container type="folder">26</container> 
+	 							<unittitle>April-June 1980</unittitle>
+	 						</did> 
+	 					</c03>		
+	 					<c03 level="file"> 
+	 						<did> <container type="box">1</container> 
+	 							<container type="folder">27</container> 
+	 							<unittitle>July-September 1980</unittitle>
+	 						</did> 
+	 					</c03>	
+	 					<c03 level="file"> 
+	 						<did> <container type="box">2</container> 
+	 							<container type="folder">1</container> 
+	 							<unittitle>October-December 1980</unittitle>
+	 						</did> 
+	 					</c03>		
+	 					<c03 level="file"> 
+	 						<did> <container type="box">2</container> 
+	 							<container type="folder">2</container> 
+	 							<unittitle>January-June 1981</unittitle>
+	 						</did> 
+	 					</c03>
+	 					<c03 level="file"> 
+	 						<did> <container type="box">2</container> 
+	 							<container type="folder">3</container> 
+	 							<unittitle>July-December 1981</unittitle>
+	 						</did> 
+	 					</c03>		
+	 					<c03 level="file"> 
+	 						<did> <container type="box">2</container> 
+	 							<container type="folder">4</container> 
+	 							<unittitle>June-March 1982</unittitle>
+	 						</did> 
+	 					</c03>		
+	 					<c03 level="file"> 
+	 						<did> <container type="box">2</container> 
+	 							<container type="folder">5</container> 
+	 							<unittitle>April-August 1982</unittitle>
+	 						</did> 
+	 					</c03>	
+	 					<c03 level="file"> 
+	 						<did> <container type="box">2</container> 
+	 							<container type="folder">6</container> 
+	 							<unittitle>September-December 1982</unittitle>
+	 						</did> 
+	 					</c03>		
+	 					<c03 level="file"> 
+	 						<did> <container type="box">2</container> 
+	 							<container type="folder">7</container> 
+	 							<unittitle>December 1983-May 1984</unittitle>
+	 						</did> 
+	 					</c03>	
+	 					<c03 level="file"> 
+	 						<did> <container type="box">2</container> 
+	 							<container type="folder">8</container> 
+	 							<unittitle>January-March 1985</unittitle>
+	 						</did> 
+	 					</c03>	
+	 					<c03 level="file"> 
+	 						<did> <container type="box">2</container> 
+	 							<container type="folder">9</container> 
+	 							<unittitle>April- September 1985</unittitle>
+	 						</did> 
+	 					</c03>	
+	 					<c03 level="file"> 
+	 						<did> <container type="box">2</container> 
+	 							<container type="folder">10</container> 
+	 							<unittitle>October-December 1985</unittitle>
+	 						</did> 
+	 					</c03>		
+	 					<c03 level="file"> 
+	 						<did> <container type="box">2</container> 
+	 							<container type="folder">11</container> 
+	 							<unittitle>January-June 1986</unittitle>
+	 						</did> 
+	 					</c03>	
+	 					<c03 level="file"> 
+	 						<did> <container type="box">2</container> 
+	 							<container type="folder">12</container> 
+	 							<unittitle>July 1986-1987</unittitle>
+	 						</did> 
+	 					</c03>	
+	 				</c02>
+	 				<c02 level ="subseries">	
+	 					<did>
+	 						<unittitle>Subseries 2: Organizational correspondence,</unittitle>
+	 						<unitdate>1974
+	 							-1982</unitdate>
+	 					</did>
+	 					<c03 level="file"> 
+	 						<did> <container type="box">2</container> 
+	 							<container type="folder">13</container> 
+	 							<unittitle>International Union of Geodesy and Geophysics – IUGG,</unittitle>
+	 							<unitdate>1979-1982</unitdate>
+	 						</did> 
+	 					</c03>				
+	 					<c03 level="file"> 
+	 						<did> <container type="box">2</container> 
+	 							<container type="folder">14-16</container> 
+	 							<unittitle>National Aeronautics and Space Administration (NASA) Lunar Sampling,</unittitle>
+	 							<unitdate>1974-1976</unitdate>
+	 						</did> 
+	 					</c03>
+	 				</c02>
+	 			</c01>
+  	<c01 level="series" id="ser3"> 
+  		<did> 
+  			<unittitle>Series III: Proposals and Grants - Dr. Drake’s involvement, 
+  				<unitdate type="inclusive">1972-1992.</unitdate></unittitle> 
+  		</did> 
+  		<scopecontent>
+  			<p>This series is arranged alphabetical by organization.  The series is divided into four subseries: Department of Energy (DOE); NASA; National Science Foundation (NSF);   Other Organizations..</p> 
+  		</scopecontent>
+  		<c02 level ="subseries">	
+  			<did>
+  				<unittitle>Subseries 1: Department of Energy (DOE),</unittitle>
+  				<unitdate>1981-1983</unitdate>
+  				</did>
+  				<c03 level="file"> 
+  					<did> <container type="box">2</container> 
+  						<container type="folder">17</container> 
+  						<unittitle>Partitioning of Radwaste Elements among Synroc minerals and related phases(not funded,)</unittitle>
+  						<unitdate>1983</unitdate>
+  					</did> 
+  				</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">2</container> 
+  					<container type="folder">18</container> 
+  					<unittitle>Systematic experimental investigations of the partitioning of radwaste elements among minerals proposed for ceramic and synthetic roc immobilization (not funded,)</unittitle>
+  					<unitdate>1981</unitdate>
+  				</did> 
+  			</c03>
+  		</c02>
+  		<c02 level ="subseries">	
+  			<did>
+  				<unittitle>Subseries 2: NASA,</unittitle>
+  				<unitdate>1974-1989</unitdate>
+  			</did>
+  			<c03 level="file"> 
+  				<did> <container type="box">2</container> 
+  					<container type="folder">19</container> 
+  					<unittitle>Acquisition of an electron microprobe,</unittitle>
+  					<unitdate>1984-1989</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">2</container> 
+  					<container type="folder">20</container> 
+  					<unittitle>Acquisition of computer controlled SEMQ,</unittitle>
+  					<unitdate>1974</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">2</container> 
+  					<container type="folder">21</container> 
+  					<unittitle>Evolution of Ree Patterns during Nebular Condensation, Accretion, and Lunar Differentiation,</unittitle>
+  					<unitdate>1974</unitdate>		
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">3</container> 
+  					<container type="folder">1</container> 
+  					<unittitle>Evolution of Ree and other trace element abundances during nebular condensation, accretion, and lunar differentiation,</unittitle>
+  					<unitdate>1975</unitdate>		
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">3</container> 
+  					<container type="folder">2-3</container> 
+  					<unittitle>Geochemical evolution of the moon and igneous meteorites,</unittitle>
+  					<unitdate>1976-1979</unitdate>		
+  				</did>
+  			</c03>			
+  			<c03 level="file"> 
+  				<did> <container type="box">3</container> 
+  					<container type="folder">4-6</container> 
+  					<unittitle>Geochemical evolution of the moon, igneous meteorites, and other terrestrial planetary bodies,</unittitle>
+  					<unitdate>1979-1984</unitdate>		
+  				</did>
+  			</c03>					
+  			<c03 level="file"> 
+  				<did> <container type="box">3</container> 
+  					<container type="folder">7</container> 
+  					<unittitle>Geochemistry of Petro graphically-Characterized Lithic Fragments and the Stratigraphy of Lunar Regolith,</unittitle>
+  					<unitdate>1974</unitdate>		
+  				</did>	
+  			</c03>					
+  			<c03 level="file"> 
+  				<did> <container type="box">3</container> 
+  					<container type="folder">8</container> 
+  					<unittitle>Petrology and Geochemistry of Lunar Regolith: Model Calculations of Geochemical Evolution of Terrae and Mare Rocks.</unittitle>
+  					<unitdate>1975</unitdate>		
+  				</did>
+  				</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">3</container> 
+  					<container type="folder">9</container> 
+  					<unittitle>Long duration exposure facility (LDEF),</unittitle>
+  					<unitdate>1977-1980</unitdate>		
+  				</did>
+  			</c03>		
+  			<c03 level="file"> 
+  				<did> <container type="box">3</container> 
+  					<container type="folder">10-11</container> 
+  					<unittitle>Meteoritic Basalts,</unittitle>
+  					<unitdate>1980-1984</unitdate>		
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">3</container> 
+  					<container type="folder">12</container> 
+  					<unittitle>Terrestrial analog studies of the relationships between Martian weathering products and primary igneous rocks,</unittitle>
+  					<unitdate>1978-1982</unitdate>		
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">3</container> 
+  					<container type="folder">13</container> 
+  					<unittitle>Trace Element Conference,</unittitle>
+  					<unitdate>1976-1977</unitdate>		
+  				</did>
+  			</c03>	
+  		</c02>
+  		<c02 level ="subseries">	
+  			<did>
+  				<unittitle>Subseries 3: National Science Foundation (NSF),</unittitle>
+  				<unitdate>1974-1989</unitdate>
+  			</did>
+  			<c03 level="file"> 
+  				<did> <container type="box">3</container> 
+  					<container type="folder">14</container> 
+  					<unittitle>Collaborative research:  San Carlos ultramafic nodules and alkali lavas, and the Central Arizona Mantle (not funded,)</unittitle>
+  					<unitdate>1980-1981</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">3</container> 
+  					<container type="folder">15</container> 
+  					<unittitle>Electronic Microprobe,</unittitle>
+  					<unitdate>1974</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">3</container> 
+  					<container type="folder">16-17</container> 
+  					<unittitle>Electronic Microprobe,</unittitle>
+  					<unitdate>1987-1989</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">3</container> 
+  					<container type="folder">18-19</container> 
+  					<unittitle>Experimental determination of trace elements partition coefficients at high water pressures,</unittitle>
+  					<unitdate>1975-1982</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">3</container> 
+  					<container type="folder">20</container> 
+  					<unittitle>Experimental trace element geochemistry (not funded,)</unittitle>
+  					<unitdate>1974</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">3</container> 
+  					<container type="folder">21</container> 
+  					<unittitle>Experimental trace element geochemistry,</unittitle>
+  					<unitdate>1982-1984</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">3</container> 
+  					<container type="folder">22</container> 
+  					<unittitle>International conference on experimental Trace element geochemistry,</unittitle>
+  					<unitdate>1977</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">3</container> 
+  					<container type="folder">23</container> 
+  					<unittitle>Petrogenesis of ultramafic nodules from Peridot Mesa, San Carlos, Arizona,</unittitle>
+  					<unitdate>1981-1982</unitdate>
+  				</did>
+  			</c03>
+  			</c02>
+  		<c02 level ="subseries">	
+  			<did>
+  				<unittitle>Subseries 4: Other Organizations,</unittitle>
+  				<unitdate>1972-1992</unitdate>
+  			</did>
+  			<c03 level="file"> 
+  				<did> <container type="box">4</container> 
+  					<container type="folder">1</container> 
+  					<unittitle>Bi-national Science Foundation-Geochemical Evolution of the Lower Crust beneath Northern Israel,</unittitle>
+  					<unitdate>1980</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">4</container> 
+  					<container type="folder">2</container> 
+  					<unittitle>Ira Kay Memorial Grant-Monte Carlo simulation of transport phenomena in silicate materials,</unittitle>
+  					<unitdate>1983</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">4</container> 
+  					<container type="folder">3</container> 
+  					<unittitle>National Association of Science (NAS).  A Vax computer and computer network communication system,</unittitle>
+  					<unitdate>1985</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">4</container> 
+  					<container type="folder">4</container> 
+  					<unittitle>Research Corporation-Geochemical consequences of equilibrium and fractionation during nebula condensation, planetary accretion, and subsequent large scale differentiation
+  						(not funded,)</unittitle>
+  					<unitdate>1973</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">4</container> 
+  					<container type="folder">5</container> 
+  					<unittitle>U.S. Forest Service- Seam proposal,</unittitle>
+  					<unitdate>1972-1974</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">4</container> 
+  					<container type="folder">6</container> 
+  					<unittitle>United States Nuclear Regulatory Commission. Systematic Experimental Investigation of the Partitioning of Radwaste among Mineral proposed for Ceramic and Synthetic Rock Immobilization, </unittitle>
+  					<unitdate>1986</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">4</container> 
+  					<container type="folder">7</container> 
+  					<unittitle>University of Arizona Foundation. Proposal to create 2 new laboratories for Geochemical and Nuclear Sciences,</unittitle>
+  					<unitdate>1973</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">4</container> 
+  					<container type="folder">8</container> 
+  					<unittitle>University of Arizona.  Survey of interest in the use of Scanning Electron Microscope(SEM)/Electron Microprobe,</unittitle>
+  					<unitdate>1973</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">4</container> 
+  					<container type="folder">9</container> 
+  					<unittitle>W.M. Keck Foundation-Equipment for the development of combined SEM-EDS-IA Facility,</unittitle>
+  					<unitdate>1987-1988</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">4</container> 
+  					<container type="folder">10</container> 
+  					<unittitle>W.M. Keck Foundation-Electron Microprobe/Stable Isotope Mass Spectrometer,</unittitle>
+  					<unitdate>1989-1992</unitdate>
+  				</did>
+  			</c03>
+  		</c02>
+  		</c01>
+  	<c01 level="series" id="ser4"> 
+  		<did> 
+  			<unittitle>Series 4: Professional service,  
+  				<unitdate type="inclusive">1979-2000.</unitdate></unittitle> 
+  		</did> 
+  		<scopecontent>
+  			<p>This series is arranged chronologically by year.</p> 
+  		</scopecontent>
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">11</container> 
+  				<unittitle>Associate Editor for the Proceedings of the 6th Lunar Science Conference,</unittitle>
+  				<unitdate>1975</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  		<did> <container type="box">4</container> 
+  			<container type="folder">12</container> 
+  			<unittitle>Associate Editor for the Proceedings of the 7th Lunar Science Conference,</unittitle>
+  			<unitdate>1976</unitdate>
+  		</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">13</container> 
+  				<unittitle>Associate Editor for the Proceedings of the 7th Lunar Science Conference,</unittitle>
+  				<unitdate>1977</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">14</container> 
+  				<unittitle>Associate Editor for the Proceedings of the 9th Lunar Science Conference,</unittitle>
+  				<unitdate>1978</unitdate>
+  			</did>
+  		</c02>	
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">15</container> 
+  				<unittitle>NASA Lunar and Planetary Review Panel</unittitle>
+  			<unitdate>1979-1982</unitdate>
+  			</did>
+  			<note><p>Chairman of the panel from 1981-1982</p></note>
+  			</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">16</container> 
+  				<unittitle>Graduate Admissions Committee for Department of Planetary Studies,</unittitle>
+  				<unitdate>1982-1983</unitdate>
+  			</did>
+  		</c02>	
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">17</container> 
+  				<unittitle>Associate Editor for the Journal of Geophysical Union,</unittitle>
+  				<unitdate>1982</unitdate>
+  			</did>
+  		</c02>	
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">18</container> 
+  				<unittitle>Faculty of Sciences Committee on Research Facilities,</unittitle>
+  				<unitdate>1982-1983</unitdate>
+  			</did>
+  		</c02>	
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">19</container> 
+  				<unittitle>Chemistry Department, University of Arizona Academic Program Review,</unittitle>
+  				<unitdate>1985</unitdate>
+  			</did>
+  		</c02>	
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">20</container> 
+  				<unittitle>Member of the 1st Lunar Geoscience Orbiter Workshop -Minutes,</unittitle>
+  				<unitdate>January 21-22, 1985</unitdate>
+  			</did>
+  		</c02>	
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">21</container> 
+  				<unittitle>Member of the 2nd Lunar Geoscience Orbiter Workshop - Agenda,</unittitle>
+  				<unitdate>January 21-22, 1985</unitdate>
+  			</did>
+  		</c02>	
+  		<c02 level="file"> 
+  			<did> <container type="box">4</container> 
+  				<container type="folder">22</container> 
+  				<unittitle>Member of the 2nd Lunar Geoscience Orbiter Workshop - Minutes,</unittitle>
+  				<unitdate>March 27-28, 1985</unitdate>
+  			</did>
+  		</c02>	
+  		</c01>
+  	<c01 level="series" id="ser5"> 
+  		<did> 
+  			<unittitle>Series V: Scholarship files  
+  				<unitdate type="inclusive">1972-2005.</unitdate></unittitle> 
+  		</did> 
+  		<scopecontent><p>This series is arranged chronologically and documents Dr. Drake’s writing career. It’s divided into four subseries; presentations, articles, book chapters.</p></scopecontent>
+  		<c02 level ="subseries">	
+  			<did>
+  				<unittitle>Subseries 1: Presentations,</unittitle>
+  				<unitdate>1972-1982</unitdate>
+  			</did>
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">1</container> 
+  					<unittitle>53rd Meeting of American Geophysical Union ( AGU), Washington D.C.,- notes only, no paper,</unittitle>
+  					<unitdate>April 17-21, 1972</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">2</container> 
+  					<unittitle>NATO Advanced Study Institute -<title render="italic">Plagise feldspar – silicate liquid equilibria: trace element distribution and the calculation of temperatures and oxygen fugacites of terrestrial and lunar samples</title>,</unittitle>
+  					<unitdate>July 11-20, 1972</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">3</container> 
+  					<unittitle>International Conference on Distribution and Partition of Trace Elements and Origin of Volcanic Rocks - <title render="italic">The experimentally determined Equilibrium distribution of SR, BA, Y, EU2+, and other REE between Plagioclase feldspar and coexisting magmatic silicate liquid</title>.</unittitle>
+  					<unitdate>October 2-4,1972</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">4</container> 
+  					<unittitle>AGU Fall Meeting - <title render="italic">Geochemistry of Petrologically-Characterized Lithic Fragments from Apollo 16</title>,</unittitle>
+  					<unitdate>December 10-14, 1973</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did><container type="box">5</container>
+  					<container type="folder">5</container>
+  					<unittitle>Fourth Annual Lunar Science Conference, March 5-8, 1973 <title render="italic">Europium Anomaly:  A Model for Prediction</title>.</unittitle>
+  				</did>
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">6</container> 
+  					<unittitle>Fifth Lunar Science Conference</unittitle> 
+  					<unitdate>March 18-22, 1974</unitdate>
+  				</did>
+  				<odd>
+  			<list><item><title render="italic">The Infrared reflectance spectra of Eucrites, Shergottites and Vesta</title>.</item>
+  					<item><title render="italic">metro genesis on the Eucrite/Diogenite parent body as inferred from modeling cumulate formation</title></item>
+  					<item><title render="italic">Modeling of the Two Stage Evolution of REE Abundance Patterns in High-Ti Mare Basalt Liquids</title>.</item>
+  					<item><title render="italic"> Apollo 17 soil survey and Comparisons among non-Mare lithic fragments from Apollo and Luna 20 soils</title>.</item>
+  			</list>
+  				</odd>
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">7</container> 
+  					<unittitle>International Symposium on Geothermometry and Geobarometry, <title render="italic">Plagioclase thermometry and barometry in igneous systems</title></unittitle>
+  					<unitdate>October 5-10, 1975</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">8</container> 
+  					<unittitle>Sixth Lunar Science Conference,</unittitle>
+  					<unitdate>March 17-21, 1975</unitdate>
+  				</did>
+  				<odd><list>
+  					<item><title render="italic">The Crystallization of Plagioclase Feldspar from Silicate Melt and Preliminary report on the Petrology</title>.</item>
+  					<item><title render="italic">Preliminary Report on the Petrology and Geochemistry of Lithic fragments from the Apollo 15 deep drill-core</title>.</item></list>
+  					</odd>
+  			</c03>	
+  			<c03 level="file"> 
+  			<did> <container type="box">5</container> 
+  				<container type="folder">9</container> 
+  				<unittitle>Meteortical Society 38th Annual Meeting - <title render="italic">Lunar Anorthosite Paradox in the light of mineral/melt Equilibria</title></unittitle>
+  				<unitdate>July 28th-August 1st, 1975</unitdate>
+  			</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">10</container> 
+  					<unittitle>The Conference on Origins of Mare Basalts - <title render="italic">Modeling the two stage evolution of REE abundance patterns in high TI mare Basalt liquids and Mare Basalt Ree Evolution</title>.,</unittitle>
+  					<unitdate>November 17-19, 1975</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">11</container> 
+  					<unittitle>Seventh Lunar Science Conference -</unittitle>
+  					<unitdate>March 15-19, 1976</unitdate>
+  				</did>
+  					<odd><list>
+  						<item><title render="italic">Evolution of REE Abundances in High-Ti Mare Basalts:  Problems with Total Melting and Equilibrium Partial Melting and a Possible Solution with Fractional Partial Melting</title>
+  				</item>
+  						<item><title render="italic">Critical review of models for the evolution of high-ti mare basalts</title></item></list>
+  			</odd></c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">12</container> 
+  					<unittitle>NATO Advanced Study Institute - <title render="italic">Plagioclase – Melt Equilibria</title>,</unittitle>
+  					<unitdate>September 17-27, 1976</unitdate>
+  				</did>
+  			</c03>
+ 
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">13</container> 
+  					<unittitle>Meteoritical Society 39th Annual Meeting - <title render="italic">Geochemical Evolution of Eucrites: Composition of Eucrite parent body</title>,</unittitle>
+  					<unitdate>October 18-21, 1976</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">14</container> 
+  					<unittitle>AAS Division for Planetary Science 8th Annual Meeting - <title render="italic">Possible Bulk Composition of Vesta: Evidence from Eucrites</title>,</unittitle>
+  					<unitdate>January 19-22, 1977</unitdate>
+  				</did>
+  				</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">15</container> 
+  					<unittitle>Eighth Lunar Science Conference - <title render="italic">Thermal History of Lunar Magma Ocean</title>,</unittitle>
+  					<unitdate>March 14-18, 1977</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">16</container> 
+  					<unittitle>Meteoritical Society 40th Annual Meeting - <title render="italic">Metal Fractionation Patterns in the Bencubbin Meteorite: Possible evidence for fractional crystallization a parent body core</title>,
+  						</unittitle>
+  					<unitdate>March 25-29, 1977</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">17</container> 
+  					<unittitle>AAS Division for Planetary Sciences 9th Annual Meeting - <title render="italic">Determination of the Bulk Composition of Terrestrial Planetary Bodies Utilizing Geochemical and Cosmo Chemical Methods: A Selective Review</title>,
+  						</unittitle>
+  					<unitdate>October 26-30, 1977</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did><container type="box">5</container>
+  				<container type="folder">18</container>
+  			<unittitle>Conference on Luna 24, December 1-3, 1977 
+  			Magma types at the Luna 24 Site in Mare Crisium and the Luna 24 Landing Site from Kilometers to Micrometers.</unittitle>
+  				</did>
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container>  
+  					<container type="folder">18</container> 
+  					<unittitle>Ninth Lunar Science Conference,</unittitle>
+  					<unitdate>December 1-3, 1977</unitdate>
+  				</did>
+  				<odd>
+  					<list><item><title render="italic">Magma types at the Luna 24 Site in Mare Crisium</title>,</item>
+  					<item><title render="italic">Mare Crisium and the Luna 24 Landing Site from Kilometers to Micrometers</title></item></list>
+  					</odd>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">19</container> 
+  					<unittitle>Ninth Lunar Science Conference,</unittitle>
+  					<unitdate>August 14-17, 1978</unitdate>
+  				</did>
+  				<odd>
+  					<list><item><title render="italic">Geophysical and Geochemical Evolution of the Lunar Magma Ocean</title>.</item>
+  					<item><title render="italic"> The Case for at least three VLT Mare Magma types in the Luna 24 drill core</title>.</item>
+  					<item><title render="italic"> Experimental Investigations of Trace Element Fractionation in Iron Meteorites and Pyroxene/Melt Equilibria: An update,</title>.</item></list>
+  			</odd>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">20</container> 
+  					<unittitle>Meteoritical Society 41st Annual Meeting,<title render="italic">
+  						Experimental investigations of trace element fractionation in Iron Meteorites</title>.</unittitle>
+  					<unitdate>August 14-17, 1978</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">21</container> 
+  					<unittitle>AAS Division for Planetary Sciences 10th Annual Meeting - <title render="italic">Geochemical Evidence for possible core in the Eucrite Parent Body
+  						</title>,</unittitle>
+  					<unitdate>October 30-November 3, 1978</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">22</container> 
+  					<unittitle>AGU Fall Meeting - <title render="italic">Henry’s Law Behavior of NI in an Olivine/Melt system
+  					</title>,</unittitle>
+  					<unitdate>December 4-8, 1978</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">23</container> 
+  					<unittitle>Asteroids - <title render="italic">Differentiation in Asteroidal-sized Bodies</title>,</unittitle>
+  					<unitdate>March 6-10, 1979</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">24</container> 
+  					<unittitle>10th Lunar and Planetary Science Conferenc,e</unittitle>
+  					<unitdate>March 19-23, 1979</unitdate>
+  				</did>
+  				<odd><list><item><title render="italic">Metal depletion in the Eucrites: Evidence for a Core or for a Heterogeneous Mantle in the Eucrite Parent Body
+  				Predicting Major Element Mineral/Melt Equilibria</title>.</item>
+  					<item><title render="italic">Predicting Major Element Mineral/Melt Equilibria</title>.</item></list>
+  					</odd>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">25</container> 
+  					<unittitle>AGU Spring Meeting,</unittitle>
+  					<unitdate>May 28-June 1, 1979,</unitdate>
+  				</did>
+  				<odd><list><item><title render="italic">Henry’s Law Behavior of NI in two Olivine/Melt systems and of SM in a Plagioclase/Melt System</title>.</item>
+  					<item><title render="italic">Lunar Magma Ocean: Evolution, and Implications for possible Ancient Crusts of the Terrestrial planets-Invited Interview</title>.</item></list>
+  			</odd>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">26</container> 
+  					<unittitle>Gordon Research Conference - <title render="italic">Crystal Liquid Equilibria</title>,</unittitle>
+  					<unitdate>August 20-24, 1979</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">27</container> 
+  					<unittitle>Meteoritical Society 42nd Meeting - <title render="italic">Metal content of the Eucrite parent body: Implications of Tungsten metal-Silicate 
+  						partitioning experiments</title>,</unittitle>
+  					<unitdate>September 3-7, 1979</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">28</container> 
+  					<unittitle>Conference on the Lunar Highlands Crust - <title render="italic">On early global melting of the terrestrial planets</title>(no abstract or paper,)
+  						</unittitle>
+  					<unitdate>November 14-16, 1979.</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">29</container> 
+  					<unittitle>11th Lunar and Planetary Science Conference,</unittitle>
+  					<unitdate>March 17-21, 1980</unitdate>
+  				</did>
+  				<odd>
+  				<list><item><title render="italic">The Infrared reflectance spectra of Eucrites, Shergottites and Vesta</title>.</item>
+  				<item><title render="italic">etro genesis on the Eucrite/Diogenite parent body as inferred from modeling cumulate formation</title>.</item></list> 
+  				</odd>	
+  		    </c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">30</container> 
+  					<unittitle>Meteoritcal Society 43rd Annual Meeting - <title render="italic">Formation of a Lunar Magma Ocean by Partial Melting,</title>      
+  						</unittitle>
+  					<unitdate>September 2-6, 1980</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">31</container> 
+  					<unittitle>AAS Division of for Planetary Sciences - <title render="italic">Argon and Nitrogen Systematics in Venus, Earth and Mars: Cosmo Chemical Implications.</title>      
+  						,</unittitle>
+  					<unitdate>October 14-17, 1980</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">32</container> 
+  					<unittitle>12th Lunar and Planetary Science Conference,</unittitle>
+  						<unitdate>March 16-20, 1981</unitdate>
+  				</did>
+  				<odd>
+  				<list><item><title render="italic">On the Differentiation of the Terrestrial Planets</title>.</item>    
+  					<item><title render="italic">Partitioning of Sm between Hibonite and Corundum and Silicate Melt</title>.</item></list>
+  					</odd>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">33</container> 
+  					<unittitle>NATO Advanced Study Institute - <title render="italic">Differentiation of the Terrestrial Planets</title>,</unittitle>
+  					<unitdate>March 23-April 3, 1981</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">34</container> 
+  					<unittitle>Meteoritical Society 44th Annual Meeting,</unittitle>
+  					<unitdate>August 17-21, 1981</unitdate>
+  				</did>
+  				<odd>
+  				<list><item><title render="italic">Experimental Trace Element Partition Applied to Iron Meteorites</title>.</item>
+  					<item><title render="italic">Constraints on the Origin of the Moon and the Metal content of the Eucrite parent body deduced from the Partition Behavior Tungsten</title>.</item></list> 
+  					</odd>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">35</container> 
+  					<unittitle><title render="italic">Meeting of the Early Crustal Genesis Project</title>(working meeting),</unittitle>
+  					<unitdate>November 13-17, 1981</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">36</container> 
+  					<unittitle>13th Lunar and Planetary Science Conference,</unittitle>
+  					<unitdate>March 15-19, 1982</unitdate>
+  				</did>
+  				<odd>
+  					<list><item><title render="italic">Partitioning of Phosphorus between Metal and Silicate: Implications for the Moon and Eucrite Parent Body</title>.</item></list>
+  					<list><item><title render="italic"> Experimental Approach to Early Planetary Differentiation,</title></item></list>
+  				</odd>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">37</container> 
+  					<unittitle>14th Lunar and Planetary Science Conference,</unittitle>
+  					<unitdate>March 14-18, 1983</unitdate>
+  				</did>
+  				<odd>
+  					<list><item><title render="italic">Geochemical constraints on the Origin of the Moon</title>.</item> 
+  					<item><title render="italic">Experiential determination of the portioning of Gallium between Metal and Silicate:  Electron and Ion probability study</title>.</item></list>
+  					<list><item><title render="italic">Meteorite from the Lunar Terrae:  Preliminary petrology of ALHA 81005,9</title>.</item></list>
+  				</odd>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">38</container> 
+  					<unittitle>Meteoritical Society 46th Annual Meeting - <title render="italic">Partitioning of Ree between metal and volatile/refractory element fractionation</title>
+  						(no paper or abstract).</unittitle>
+  					<unitdate>September 3-9, 1983,</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">39</container> 
+  					<unittitle>15th Lunar and Planetary Conference,</unittitle>
+  					<unitdate>March 12-16, 1984</unitdate>
+  				</did>
+  				<odd>
+  				<list><item><title render="italic">The SNC/Mars Connection: Geochemical Inconsistencies</title>.</item></list>
+  					<list><item><title render="italic">Basaltic Volcanism on the Eurcrite Parent Body: Geochemistry and Mineral Chemistry of LHA80102</title>.</item>
+  					<item><title render="italic">Basaltic Volcanism on the Eurcrite Parent Body:  Petrology and Phase Equilibria of ALHA80102</title>.</item></list>
+  				</odd>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">40</container> 
+  					<unittitle>Conference on the Origin of the Moon - <title render="italic">Origin of the Moon: Constraints from Volatile Elements,</title>,</unittitle>
+  					<unitdate>October 12-16, 1984</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">41</container> 
+  					<unittitle>LPI Workshop on the Early Earth: The Interval from Accretion to the Older Achaean - <title render="italic">A Model for Core formation in the Early Earth,</title>
+  						</unittitle>
+  					<unitdate>April 23-25, 1984</unitdate>	
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">42</container> 
+  					<unittitle>Meteoritical Society 47th Annual Meeting,</unittitle>
+  					<unitdate>July 30-August 2, 1984</unitdate>
+  				</did>
+  				<odd>
+  				<list><item><title render="italic">Meteorites from Mars: Proofs, Problems and Paradoxes</title>.</item> 
+  					<item><title render="italic">Investigations concerning the Magmatic Iron Meteorites, Static vs. Dynamic Experiments</title>.</item>
+  					<item><title render="italic">Core Formation in the Shergottite Parent Body (SPB)</title>.</item></list>
+  				</odd>
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  						<container type="folder">43</container> 
+  					<unittitle>17th Lunar and Planetary Science Conference</unittitle>
+  					<unitdate>1986</unitdate>	
+  				</did>
+  				<odd><list><item>Core formation in the Shergottite Parent Body and comparison with the Earth.</item>
+  				<item><title render="italic">Siderophile elements in planetary mantles and the origin of the moon</title></item>
+  				</list></odd>	
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">44</container> 
+  					<unittitle>18th Lunar and Planetary Science Conference<title render="italic">Formation of the Moon and Terrestrial Planets:  Constraints from V, Cr, and Mn Abundance in planetary mantles and from new planets</title>,</unittitle>
+  					<unitdate>1987</unitdate>
+  				</did>
+  				</c03>
+  					<c03 level="file"> 
+  						<did> <container type="box">5</container> 
+  							<container type="folder">45</container> 
+  							<unittitle>Conference on the Composition of the Terrestrial Planets,<title render="italic">Experimental Partitioning of Siderophile, Elements amongst Lithophile Phases:  Preliminary results using Pixe Micro probe Analysis,</title>
+  								</unittitle>
+  							<unitdate>September 5-6, 1988</unitdate>			
+  						</did>
+  					</c03>
+  			</c02>
+  		<c02 level ="subseries">	
+  			<did>
+  				<unittitle>Subseries 2: Articles,</unittitle>
+  				<unitdate>circa 1960-2005</unitdate>
+  			</did>
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">46</container> 
+  					<unittitle><title render="italic">Miscellaneous papers,</title></unittitle>
+  					<unitdate>1960’s-1970’s</unitdate>
+  				</did>
+  				</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">47</container> 
+  					<unittitle><title render="italic">Luna 20</title>,</unittitle>
+  					<unitdate>circa 1972</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">48</container> 
+  					<unittitle><title render="italic">Synthetic rare earth Silicate glass standards for electron microprobe analysis</title>,</unittitle>
+  					<unitdate>1981-1982</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">49</container> 
+  					<unittitle><title render="italic">A Unified approach to a problem:  Petrological and geochemical studies of lithic fragments from Apollo 15 soils,</title></unittitle>
+  					<unitdate>circa 1973(1)</unitdate>
+  				</did>
+  			</c03>		
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">50</container> 
+  					<unittitle><title render="italic">A Unified approach to a problem:  Petrological and geochemical studies of lithic fragments from Apollo 15 soils</title>,</unittitle>
+  					<unitdate>circa 1973(2)</unitdate>
+  				</did>
+  			</c03>				
+  			<c03 level="file"> 
+  				<did> <container type="box">5</container> 
+  					<container type="folder">51</container> 
+  					<unittitle><title render="italic">Descartes mountains and Caley plains compositions and provenance</title>,</unittitle>
+  					<unitdate>1973</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">6</container> 
+  					<container type="folder">1</container> 
+  					<unittitle><title render="italic">The Oxidation state of europium as an indicator of oxygen fugacity</title>,</unittitle>
+  					<unitdate>1974</unitdate>
+  				</did>
+  			</c03>		
+  			<c03 level="file"> 
+  				<did> <container type="box">6</container> 
+  					<container type="folder">2</container> 
+  					<unittitle><title render="italic">Evolution of major mineral compositions and trace element abundances 	during fractional crystallization of a model lunar composition</title>,</unittitle>
+  					<unitdate>1975</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">6</container> 
+  					<container type="folder">3</container> 
+  					<unittitle><title render="italic">Plagioclase – melt equilibria,</title>,</unittitle>
+  					<unitdate>1976</unitdate>
+  				</did>
+  			</c03>		
+  			<c03 level="file"> 
+  				<did> <container type="box">6</container> 
+  					<container type="folder">4</container> 
+  					<unittitle><title render="italic">Equivalence of equations describing trace element distribution during equilibrium partial melting</title>,</unittitle>
+  					<unitdate>circa 1976</unitdate>
+  				</did>
+  			</c03>
+  				<c03 level="file"> 
+  					<did> <container type="box">6</container> 
+  						<container type="folder">5</container> 
+  						<unittitle><title render="italic">Composition and evolution of the eucrite parent body: evidence from rare earth elements</title>,</unittitle>
+  						<unitdate>1976-1977</unitdate>
+  					</did>
+  				</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">6</container> 
+  					<container type="folder">6</container> 
+  					<unittitle><title render="italic">Quantitative micro autoradiography by x-ray emission micro-analysis</title>,</unittitle>
+  					<unitdate>1977</unitdate>
+  				</did>
+  			</c03>
+  				<c03 level="file"> 
+  					<did> <container type="box">6</container> 
+  						<container type="folder">7</container> 
+  						<unittitle><title render="italic">Petrology and geochemistry of lithic fragments separated from the Apollo 15 deep drill core</title>,</unittitle>
+  						<unitdate>1977</unitdate>
+  					</did>
+  				</c03>			
+  			<c03 level="file">
+  				<did> <container type="box">6</container> 
+  					<container type="folder">8</container> 
+  					<unittitle><title render="italic">Depth of lunar magma ocean</title>,</unittitle>
+  					<unitdate>1977</unitdate>
+  					</did>
+  				</c03>	
+  			<c03 level="file">
+  				<did> <container type="box">6</container> 
+  					<container type="folder">9</container> 
+  					<unittitle><title render="italic">Quench temperatures of Moore County and other eucrites: Residence time on eucrites parent body</title>,</unittitle>
+  					<unitdate>1978</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file">
+  				<did> <container type="box">6</container> 
+  					<container type="folder">10</container> 
+  					<unittitle><title render="italic">“Henry’s Law” behavior of Sm in a natural plagioclase/melt system: Importance of experience procedure</title>,</unittitle>
+  					<unitdate>1978</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file">
+  				<did><container type="box">6</container> 
+  							<container type="folder">11</container> 
+  					<unittitle><title render="italic">The Meteorite-asteroid connection:  The Infrared spectra of eucrites, shergotties, and vesta</title>,</unittitle>
+  							<unitdate>1980</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file">
+  				<did><container type="box">6</container> 
+  					<container type="folder">12</container> 
+  					<unittitle><title render="italic">Partitioning Ni between Olivine and Silicate Melt: The “Henry’s Law Problem” Reexamined</title>,</unittitle>
+  					<unitdate>1980 (1)</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file">
+  				<did><container type="box">6</container> 
+  					<container type="folder">13</container> 
+  					<unittitle><title render="italic">Partitioning Ni between Olivine and Silicate Melt: The “Henry’s Law Problem” Reexamined</title>,</unittitle>
+  					<unitdate>1980 (2)</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file">
+  				<did><container type="box">6</container> 
+  					<container type="folder">14</container> 
+  					<unittitle><title render="italic">Experimental investigations of trace element fractionation in Iron Meteorites,I and II</title>,</unittitle>
+  					<unitdate>1978-1982</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file">
+  				<did><container type="box">6</container> 
+  					<container type="folder">15</container> 
+  					<unittitle><title render="italic">Evolution of earth and life</title>,</unittitle>
+  					<unitdate>circa 1981-1982</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file">
+  				<did><container type="box">6</container> 
+  					<container type="folder">16</container> 
+  					<unittitle><title render="italic">Petrogenesis on the Basaltic Achondrite Parent Body as inferred from 	modeling Cumulate Eucrite and Diogenite Formation</title>,</unittitle>
+  					<unitdate>1982</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file">
+  				<did><container type="box">6</container> 
+  					<container type="folder">17</container> 
+  					<unittitle><title render="italic">Lunar Meteorite, ALHA 81005</title>,</unittitle>
+  					<unitdate>1983</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file">
+  				<did><container type="box">7</container> 
+  					<container type="folder">1</container> 
+  					<unittitle><title render="italic">Origin of lunar terrae meteorite ALHA 81005:  Clues from the presence of a very low titanium mare basalt clast</title>,</unittitle>
+  					<unitdate>1983</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file">
+  				<did><container type="box">7</container> 
+  					<container type="folder">2</container> 
+  					<unittitle><title render="italic">Origins of the Moon</title>,</unittitle>
+  					<unitdate>1984</unitdate>
+  					<unitdate>1983</unitdate>
+  				</did>
+  			</c03>	
+  			
+  			<c03 level="file"> 
+  				<did> <container type="box">7</container> 
+  					<container type="folder">3</container> 
+  					<unittitle><title render="italic">Geochemical constraints on the Origin of the Moon,</title></unittitle>
+  					<unitdate> 1983</unitdate>
+  				</did>
+  			</c03>		
+  			<c03 level="file"> 
+  				<did> <container type="box">7</container> 
+  					<container type="folder">4</container> 
+  					<unittitle><title render="italic">Geochemical Constraints on Formation of the Earth</title>,</unittitle>
+  					<unitdate>1985-1986</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">7</container> 
+  					<container type="folder">5</container> 
+  					<unittitle><title render="italic">The Case for Planetary Sample Return Missions:  Origin of the Solar System</title>,</unittitle>
+  					<unitdate>1986</unitdate>
+  				</did>
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">7</container> 
+  					<container type="folder">6</container> 
+  					<unittitle><title render="italic">Core formation in the Earth and Shergottite Parent Body (SPB):  Chemical Evidence from Basalts</title>,</unittitle>
+  					<unitdate>1986</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">7</container> 
+  					<container type="folder">7</container> 
+  					<unittitle><title render="italic">Constraints on the Origin of the Moon (authors reply and critical comment</title>,</unittitle>
+  					<unitdate>1986</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">7</container> 
+  					<container type="folder">8</container> 
+  					<unittitle><title render= "italic">Core formation and Earth's late Accretionary History (Drake and Jones reply to Morgan,)</title></unittitle>
+  					<unitdate>1986</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">7</container> 
+  					<container type="folder">9</container> 
+  					<unittitle><title render= "italic">Experimental investigations of trace element fractionation in Iron Meteorites, III: Elemental partitioning in the system FE-NI-S-P</title>,</unittitle>
+  					<unitdate>1986</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">7</container> 
+  					<container type="folder">10</container> 
+  					<unittitle><title render= "italic">Crystal/melt partitioning of Ga, Ge</title>,</unittitle>
+  					<unitdate>1987</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">7</container> 
+  					<container type="folder">11</container> 
+  					<unittitle><title render= "italic">Partitioning of rare earth elements between Hibonite and melt and implications for nebular condensation of the rare earth elements,</title>,</unittitle>
+  					<unitdate>1988</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">7</container> 
+  					<container type="folder">12</container> 
+  					<unittitle><title render= "italic">Origin of the earth's moon constraints from alkali volatile trace elements,</title></unittitle>
+  					<unitdate>1988</unitdate>
+  				</did>
+  			</c03>		
+  			<c03 level="file"> 
+  				<did> <container type="box">7</container> 
+  					<container type="folder">13</container> 
+  					<unittitle><title render= "italic">The Light Elements in the Earth's Core</title>,</unittitle>
+  					<unitdate>circa 1988-1989</unitdate>
+  				</did>
+  			</c03>		
+  			<c03 level="file"> 
+  				<did> <container type="box">7</container> 
+  					<container type="folder">14</container> 
+  					<unittitle><title render= "italic">V, Cr, Mn in the earth moon, EPB and SPB and the origin of the moon: Experimental studies</title>,</unittitle>
+  					<unitdate>1989</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">17</container> 
+  					<container type="folder">15</container> 
+  					<unittitle><title render= "italic">Geochemical constraints on early thermal history of the Earth</title>,</unittitle>
+  					<unitdate>1989</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">17</container> 
+  					<container type="folder">16</container> 
+  					<unittitle><title render= "italic">Solubility and partitioning of Ar in Anorthite, Diopside, Forsterite, Spinel ,and Synthetic Basaltic liquids</title>,</unittitle>
+  					<unitdate>1989</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">7</container> 
+  					<container type="folder">17</container> 
+  					<unittitle><title render= "italic">Oxygen isotopes and the accretion of the terrestrial planets</title>(unpublished,)</unittitle>
+  					<unitdate>1991</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">7</container> 
+  					<container type="folder">18</container> 
+  					<unittitle><title render= "italic">Rb and Cs in the earth and moon</title>,</unittitle>
+  					<unitdate>1992</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">7</container> 
+  					<container type="folder">19</container> 
+  					<unittitle><title render= "italic">Metal silicate thermochemistry at high temperature</title>,</unittitle>
+  					<unitdate>1992</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">7</container> 
+  					<container type="folder">20</container> 
+  					<unittitle><title render= "italic">Noble gas evidence of an aqueous reservoir near the surface of Mars more recently than 1.3</title>,</unittitle>
+  					<unitdate>1992</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">7</container> 
+  					<container type="folder">21</container> 
+  					<unittitle><title render= "italic">MG-perovskite/silicate melt and garnet/silicate melt partition coefficients in the system Ca0-Mg)-Si02 at high temperatures and pressures</title>,</unittitle>
+  					<unitdate>circa 1993</unitdate>	
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">7</container> 
+  					<container type="folder">22</container> 
+  					<unittitle><title render= "italic">Experiments on Ru Rh, and Pd compatibility in Fe – oxides crystallizing from 	Silicate melt</title>,</unittitle>
+  					<unitdate>circa 1993</unitdate>		
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">7</container> 
+  					<container type="folder">23</container> 
+  					<unittitle><title render= "italic">Europium anomaly in plagioclase feldspar:  Experimental results and semi-quantitative model</title>,</unittitle>
+  					<unitdate>1993</unitdate>		
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">7</container> 
+  					<container type="folder">24</container> 
+  					<unittitle><title render= "italic">High –pressure and high-temperature experiments on core-mantle segregation in the accreting earth</title>,</unittitle>
+  					<unitdate>1994</unitdate>		
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">7</container> 
+  					<container type="folder">25</container> 
+  					<unittitle><title render= "italic">Element partitioning between mg-perovskite magnesiowustite and silicate 	melt at conditions of the earth’s mantle</title>,</unittitle>
+  					<unitdate>1994</unitdate>		
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">8</container> 
+  					<container type="folder">1</container> 
+  					<unittitle><title render= "italic">Fractional Martian atmosphere in the naklites</title>,</unittitle>
+  					<unitdate>1994</unitdate>		
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">8</container> 
+  					<container type="folder">2</container> 
+  					<unittitle><title render= "italic">Ion microprobe study of plagioclase-basalt partition experiments at natural concentration levels of trace elements</title>,</unittitle>
+  					<unitdate>1996</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">8</container> 
+  					<container type="folder">3</container> 
+  					<unittitle><title render= "italic">Uranium in the lunar crust: Implications for lunar origin and evolution</title>,</unittitle>
+  					<unitdate>1996-1998</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">8</container> 
+  					<container type="folder">4</container> 
+  					<unittitle><title render= "italic">Siderophile geochemistry of Ga, Ge, and Sn: Cationic states in silicate melts and the effect of composition in iron-nickel alloys</title>,</unittitle>
+  					<unitdate>1998</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">8</container> 
+  					<container type="folder">5</container> 
+  					<unittitle><title render= "italic">What’s is the earth made of?</title></unittitle>
+  					<unitdate>2001</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">8</container> 
+  					<container type="folder">6</container> 
+  					<unittitle><title render= "italic">: Experimental study of solubility and partitioning behavior of platinum up to 14 GPa and 1950 C: Implications for accretion and core formation in the earth</title>,</unittitle>
+  					<unitdate>2003</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">8</container> 
+  					<container type="folder">7</container> 
+  					<unittitle><title render= "italic">Vanadium, Cr, Si, and the Mg/Si and the Mg/Si ratio in the earth and mars</title>,</unittitle>
+  					<unitdate>2004</unitdate>
+  				</did>
+  			</c03>	
+  			<c03 level="file"> 
+  				<did> <container type="box">8</container> 
+  					<container type="folder">8</container> 
+  					<unittitle><title render= "italic">Origin of water in the terrestrial planets,</title>,</unittitle>
+  					<unitdate>2005</unitdate>	
+  				</did>
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">8</container> 
+  					<container type="folder">9</container> 
+  					<unittitle><title render= "italic">Partition of Sr, Ba, Ca, Y, Eu 2+, Eu 3+, and other REE between plagioclase 	feldspar and magmatic liquid: An Experimental study</title>,</unittitle>
+  					<unitdate>undated</unitdate>	
+  				</did>
+  			</c03>
+  			<c03 level="file"> 
+  				<did> <container type="box">8</container> 
+  					<container type="folder">10</container> 
+  					<unittitle><title render= "italic">Magma Ocean by Partial Melting</title>,</unittitle>
+  					<unitdate>undated</unitdate>
+  				</did>
+  			</c03>
+  		</c02>
+  			<c02 level ="subseries">	
+  				<did>
+  					<unittitle>Subseries 3: Book Chapters,</unittitle>
+  					<unitdate>1983-1989</unitdate>
+  				</did>
+  				<c03 level="file"> 
+  					<did> <container type="box">8</container> 
+  						<container type="folder">11</container> 
+  						<unittitle>The Nature and evolution of Vesta, (Asteroids and planets x book),</unittitle>
+  						<unitdate>1979</unitdate>
+  					</did>
+  				</c03>
+  				<c03 level="file"> 
+  					<did> <container type="box">8</container> 
+  						<container type="folder">12</container> 
+  						<unittitle>Lunar Petrology and Geochemistry (book unknown),</unittitle>
+  						<unitdate>1983</unitdate>
+  					</did>
+  					</c03>
+  				<c03 level="file"> 
+  					<did> <container type="box">8</container> 
+  						<container type="folder">13</container> 
+  						<unittitle>The Moon (book chapter number 9 in <title render="italic">Natural Satellites,</title>)presented at the International Astronomy Union,</unittitle>
+  						<unitdate>1983</unitdate>
+  					</did>
+  					</c03>
+  				<c03 level="file">  
+  					<did> <container type="box">8</container> 
+  						<container type="folder">14</container> 
+  						<unittitle>The Moon (book chapter number eight in <title render="italic">Solid Earth and Planets</title>,</unittitle>
+  						<unitdate>no date</unitdate>
+  					</did>
+  				</c03>
+  				</c02>	
+  	</c01>
+  	<c01 level="series" id="ser6"> 
+  		<did> 
+  			<unittitle>Series VI: Subject files </unittitle>
+  		</did>
+  		<scopecontent><p>This series consists of material relating to Michael J. Drake's professional interests and research, the series is arranged alphabetically.
+  		</p></scopecontent>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>ALHS 81005, 9 lunar meteorite notes and figures,</unittitle>
+  				<unitdate>circa 1983</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Allende meteorite,</unittitle>
+  				<unitdate>1975</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Amphibole /liquid,</unittitle>
+  				<unitdate></unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file">
+  			<did> <container type="box">9</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Apollo core catalog,</unittitle>
+  				<unitdate>undated</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file">
+  			<did> <container type="box">9</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Apollo deep drill core catalog – MS,</unittitle>
+  				<unitdate>undated</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>Apollo 15 deep drill core, 15003, 545,</unittitle>
+  				<unitdate>October 1987</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>A15 Deep drill core teletype output,</unittitle>
+  				<unitdate>circa 1975</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>Apollo 16 lunar samples,</unittitle>
+  				<unitdate>1972</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">9</container> 
+  				<unittitle>Burline Project,</unittitle>
+  				<unitdate>circa 2001</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">10</container> 
+  				<unittitle>Cameca Microprobe,</unittitle>
+  				<unitdate>1987- August 1989</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">11</container> 
+  				<unittitle>Cameca Microprobe,</unittitle>
+  				<unitdate>October 1989-1991</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">12</container> 
+  				<unittitle>Crustal Genesis Program – Arizona Research Lab (ARL),</unittitle>
+  				<unitdate>1982- June 1983</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">13</container> 
+  				<unittitle>Crustal Genesis Program – Arizona Research Lab (ARL),</unittitle>
+  				<unitdate>1983-1984</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">14</container> 
+  				<unittitle>Department of Planetary Sciences and Lunar Planetary Lab Annual Reports,</unittitle>
+  				<unitdate>1975-1981</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">15</container> 
+  				<unittitle>Department of Planetary Sciences and Lunar Planetary Lab Faculty meetings,</unittitle>
+  				<unitdate>1981-1983</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">16</container> 
+  				<unittitle>Department of Planetary Sciences and lunar Planetary Lab -selection of new 
+  					director/head,</unittitle>
+  				<unitdate>1983</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">17</container> 
+  				<unittitle>Eu 2+/Eu 3+</unittitle>
+  				<unitdate></unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">18</container> 
+  				<unittitle>Early Crustal Steering Committee,</unittitle>
+  				<unitdate>1980-1983</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">19</container> 
+  				<unittitle>Eucrites (meteorite),</unittitle>
+  				<unitdate>circa 1970’s </unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">20</container> 
+  				<unittitle>Electron Microprobe-New,</unittitle>
+  				<unitdate>2007-2008     </unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">21</container> 
+  				<unittitle>Experimental Partitioning of Ga and Ge in Fo-Di-An (Glossy prints,)</unittitle>
+  				<unitdate>undated</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">22</container> 
+  				<unittitle>Fe Solid/Fe Liquid,</unittitle>
+  				<unitdate>[1978]</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">23</container> 
+  				<unittitle>Fe-FeS Partitioning,</unittitle>
+  				<unitdate>[1980]</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">9</container> 
+  				<container type="folder">24</container> 
+  				<unittitle>Fractional partial melting,</unittitle>
+  				<unitdate>circa 1976</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Garnet,</unittitle>
+  				<unitdate>undated</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Geochemical structure of the crust,</unittitle>
+  				<unitdate>undated</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Geologic maps Oregon, Scotland, Great Britain,</unittitle>
+  				<unitdate>circa 1957</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>H1 and H2 cumulates-partial melting,</unittitle>
+  				<unitdate>circa 1976</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Henry's Law,</unittitle>
+  				<unitdate>undated</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>Hibonite/Melt Dsm,</unittitle>
+  				<unitdate>[1980]</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Horizon</unittitle>
+  				<unitdate>undated</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>JOEL Electronic Micro probe,</unittitle>
+  				<unitdate>1987-1989</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">9</container> 
+  				<unittitle>Lunar modeling programs,</unittitle>
+  				<unitdate>October 1976</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">10</container> 
+  				<unittitle>Lunar Meteorites MAC 88104 and 88105,</unittitle>
+  				<unitdate>[1983, 1989-1990]</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">11</container> 
+  				<unittitle>Lunar Origin Group Discussions,</unittitle>
+  				<unitdate>October 1984</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">12</container> 
+  				<unittitle>Lunar Origin Group T-Loc,</unittitle>
+  				<unitdate>[1983-1984]</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">13</container> 
+  				<unittitle>Lunar Origin Group T-Loc,</unittitle>
+  				<unitdate>September 1985</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">14</container> 
+  				<unittitle>Lunar Planetary Laboratory budget,</unittitle>
+  				<unitdate>1982-1983</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">15</container> 
+  				<unittitle>Lunar Planetary Laboratory/Science Building Renovations,</unittitle>
+  				<unitdate>1989</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">16</container> 
+  				<unittitle>Lunar sample forms,</unittitle>
+  				<unitdate>1975-1977</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">17</container> 
+  				<unittitle>Magnetic Iron Meteorites/Goldstein correspondence,</unittitle>
+  				<unitdate>1983-1984</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">18</container> 
+  				<unittitle>Mare basalts calculations with redundant D’s,</unittitle>
+  				<unitdate>circa 1975</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">19</container> 
+  				<unittitle>Mare basalt, fractional,</unittitle>
+  				<unitdate>circa 1976</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">20</container> 
+  				<unittitle>Mare Basalts:  Source Regions and Assimilation Program,</unittitle>
+  				<unitdate>undated</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">21</container> 
+  				<unittitle>Mars Colloquium,</unittitle>
+  				<unitdate>September 1981</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">22</container> 
+  				<unittitle>Mars Program,</unittitle>
+  				<unitdate>1979</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">23</container> 
+  				<unittitle>Mars Weathering,</unittitle>
+  				<unitdate>undated</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">24</container> 
+  				<unittitle>Meteorite Sightings - Tucson,</unittitle>
+  				<unitdate>July 16, 1977</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">25</container> 
+  				<unittitle>Murthy’s Science Reply “High Temperatures”,</unittitle>
+  				<unitdate>1991</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">26</container> 
+  				<unittitle>NASA Budget,</unittitle>
+  				<unitdate>1981-1983</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">27</container> 
+  				<unittitle>Noble Gas - C. Leigh Broadhurst,</unittitle>
+  				<unitdate>1989</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">28</container> 
+  				<unittitle>SNC: Noble Metals,</unittitle>
+  				<unitdate>no date</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">29</container> 
+  				<unittitle>Photographs Miscellaneous,</unittitle>
+  				<unitdate>[1982]</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">30</container> 
+  				<unittitle>Public Broadcasting Program, What About Modeling In Science,</unittitle>
+  				<unitdate>1983</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">31</container> 
+  				<unittitle>Radioactive Materials,</unittitle>
+  				<unitdate>1977-1983</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">32</container> 
+  				<unittitle>Radiation Safety and levels in the Science Building,</unittitle>
+  				<unitdate>July 31, 1978-January 15, 1979</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">10</container> 
+  				<container type="folder">33</container> 
+  				<unittitle>Radiation Safety and levels in the Science Building,</unittitle>
+  				<unitdate>January 11, 1979-October 14, 1983</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Rare Gas Partitioning,</unittitle>
+  				<unitdate>1989</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Research Notes,</unittitle>
+  				<unitdate>[1983-1984]</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  			<container type="folder">3</container> 
+  			<unittitle>SAO-UO A17 samples,</unittitle>
+  			<unitdate>1989</unitdate>
+  		</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Senate Appropriations Committee-NASA Lunar Analysis,</unittitle>
+  				<unitdate>1978</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Stony-Irons Meteorites,</unittitle>
+  				<unitdate>[1976]</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>Processing Polymict eucrite meteorites ALHA81011 and ALHA8010,</unittitle>
+  				<unitdate>circa 1983]</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file">
+  			<did> <container type="box">11</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Apollo 15 deep drill core color prints,</unittitle>
+  				<unitdate>circa 1980’s </unitdate>
+  			</did>
+  	</c02>
+  		<c02 level="file">
+  			<did> <container type="box">11</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>Asteroid 15003 photographs,</unittitle>
+  			<unitdate>circa 1980’s</unitdate>
+  			</did>
+  		</c02>		
+  		<c02 level="file">
+  			<did> <container type="box">11</container> 
+  				<container type="folder">9</container> 
+  				<unittitle>Lunar meteorite ALHA 81005,</unittitle>
+  				<unitdate>undated</unitdate>
+  			</did>
+  		</c02>		
+  	</c01>
+  	<c01 level="series" id="ser7"> 
+  		<did> 
+  			<unittitle>Series VII: Instructional files: </unittitle>
+  		</did>
+  		<scopecontent><p>Classes taught by Dr. Drake, arranged chronology, </p></scopecontent>
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<container type="folder">10</container> 
+  				<unittitle>Geochemical evolution of the terrestrial planet,</unittitle>
+  				<unitdate>1977</unitdate>
+  			</did>
+  		</c02>		
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<container type="folder">11</container> 
+  				<unittitle>Geosciences 258 lectures,</unittitle>
+  				<unitdate>1978</unitdate>
+  			</did>
+  		</c02>			
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<container type="folder">12</container> 
+  				<unittitle>Ply. Sc. 321,</unittitle>
+  				<unitdate>circa 1978</unitdate>
+  			</did>
+  		</c02>						
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<container type="folder">13</container> 
+  				<unittitle>Planetary sciences 244a,</unittitle>
+  				<unitdate>circa 1979</unitdate>
+  			</did>
+  		</c02>				
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<container type="folder">14</container> 
+  				<unittitle>PtyS 568 constitution of the terrestrial planets,</unittitle>
+  				<unitdate>circa 1980</unitdate>
+  			</did>
+  		</c02>				
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<container type="folder">15</container> 
+  				<unittitle>PtyS 571 origin of the the moon,</unittitle>
+  				<unitdate>fall 1985</unitdate>
+  			</did>
+  		</c02>			
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<container type="folder">16</container> 
+  				<unittitle>PtyS 520 meteorites,</unittitle>
+  				<unitdate>1987</unitdate>
+  			</did>
+  		</c02>	
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<container type="folder">17</container> 
+  				<unittitle>PtyS 579a advanced igneous petrology,</unittitle>
+  				<unitdate>1989</unitdate>
+  			</did>
+  		</c02>	
+  		<c02 level="file"> 
+  			<did> <container type="box">11</container> 
+  				<container type="folder">18</container> 
+  				<unittitle>PtyS 510 physical chemistry and nuclear chemistry,</unittitle>
+  				<unitdate>undated</unitdate>
+  			</did>
+  		</c02>	
+  	</c01>
+  	<c01 level="series" id="ser8">   
+  		<did><unittitle>Series VIII: College class work:</unittitle></did>
+  		<c02 level="file"> 
+  			<did> <container type="box">12</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Physics 101,</unittitle>
+  				<unitdate>, circa 1965</unitdate>
+  			</did>
+  		</c02>	
+  		<c02 level="file"> 
+  			<did> <container type="box">12</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Miscellaneous class notes,</unittitle>
+  				<unitdate>circa 1965</unitdate>		
+  			</did>
+  		</c02>	
+  		<c02 level="file"> 
+  			<did> <container type="box">12</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Geochemistry 307,</unittitle>
+  				<unitdate>1966</unitdate>	
+  			</did>
+  		</c02>	
+  		<c02 level="file"> 
+  			<did> <container type="box">12</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>German,</unittitle>
+  				<unitdate>circa, 1967</unitdate>		
+  			</did>
+  		</c02>	
+  		<c02 level="file"> 
+  			<did> <container type="box">12</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Math 441,</unittitle>
+  				<unitdate>1967</unitdate>		
+  			</did>
+  		</c02>	
+  		<c02 level="file"> 
+  			<did> <container type="box">12</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>Geology 513,</unittitle>
+  				<unitdate>1968</unitdate>			
+  			</did>
+  		</c02>	
+  		<c02 level="file"> 
+  			<did> <container type="box">12</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Seminar in Cosmo-chemistry,</unittitle>
+  				<unitdate>circa 1968</unitdate>			
+  			</did>
+  		</c02>	
+  		<c02 level="file"> 
+  			<did> <container type="box">12</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>Math with statistics,</unittitle>
+  				<unitdate>1968</unitdate>				
+  			</did>
+  		</c02>	
+  		<c02 level="file"> 
+  			<did> <container type="box">12</container> 
+  				<container type="folder">9</container> 
+  				<unittitle>Chemistry 411 and 412,</unittitle>
+  				<unitdate>1968-1969</unitdate>	
+  			</did>
+  		</c02>	
+  		<c02 level="file"> 
+  			<did> <container type="box">12</container> 
+  				<container type="folder">10</container> 
+  				<unittitle>Chemistry 453 statistical mechanics,</unittitle>
+  				<unitdate>circa 1969</unitdate>	
+  			</did>
+  		</c02>	
+  		<c02 level="file"> 
+  			<did> <container type="box">12</container> 
+  				<container type="folder">11</container> 
+  				<unittitle>Advanced Fortran IV, CS 407,</unittitle>
+  				<unitdate>circa 1969</unitdate>				
+  			</did>
+  		</c02>	
+  		<c02 level="file"> 
+  			<did> <container type="box">12</container> 
+  				<container type="folder">12</container> 
+  				<unittitle>Advanced Geochemistry,</unittitle>
+  				<unitdate>circa 1970</unitdate>	
+  			</did>
+  		</c02>	
+  		<c02 level="file"> 
+  			<did> <container type="box">12</container> 
+  				<container type="folder">13</container> 
+  				<unittitle>Geology 562,</unittitle>
+  				<unitdate>1972</unitdate>
+  			</did>
+  		</c02>	
+  		<c02 level="file"> 
+  			<did> <container type="box">12</container> 
+  				<container type="folder">14</container> 
+  				<unittitle>Classification of Igneous rocks, GY303,</unittitle>
+  				<unitdate>undated</unitdate>
+  			</did>
+  		</c02>	
+  		<c02 level="file"> 
+  			<did> <container type="box">12</container> 
+  				<container type="folder">15</container> 
+  				<unittitle>Solutions in mathematics library,</unittitle>
+  				<unitdate>undated</unitdate>	
+  			</did>
+  		</c02>	
+  		<c02 level="file"> 
+  			<did> <container type="box">12</container> 
+  				<container type="folder">16</container> 
+  				<unittitle>Mathematics 101,</unittitle>
+  				<unitdate>1964-1965</unitdate>
+  			</did>
+  		</c02>	
+  		<c02 level="file"> 
+  			<did> <container type="box">12</container> 
+  				<container type="folder">17</container> 
+  				<unittitle>GY 201 and 202,</unittitle>
+  				<unitdate>circa 1966</unitdate>	
+  			</did>
+  		</c02>	
+  		<c02 level="file"> 
+  			<did> <container type="box">12</container> 
+  				<container type="folder">18</container> 
+  				<unittitle>GY 203 and 204,</unittitle>
+  				<unitdate>circa 1965</unitdate>
+  			</did>
+  		</c02>
+  	</c01>
+  	<c01 level="series" id="ser9"> 
+  			<did><unittitle>Series IX: Scientific Notebooks</unittitle>
+  		</did>
+  		<scopecontent><p>Arranged chronologically, 1968-1993</p></scopecontent>
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">1</container> 
+  				<unittitle>Experimental runs, lab book 1,</unittitle>
+  				<unitdate>circa 1968</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">2</container> 
+  				<unittitle>Probe work on experiments (notes) no. 1,</unittitle>
+  				<unitdate>1969-1971</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">3</container> 
+  				<unittitle>Natural Rocks,</unittitle>
+  				<unitdate>1970-1974</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">4</container> 
+  				<unittitle>Probe work no.2,</unittitle>
+  				<unitdate>1971-1974</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">5</container> 
+  				<unittitle>Synthetic runs,</unittitle>
+  				<unitdate>1971-1978</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">6</container> 
+  				<unittitle>A15 deep drill core – 15003, Luna 24, Allende,</unittitle>
+  				<unitdate>1974-1977</unitdate>		
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">7</container> 
+  				<unittitle>Probe book no. 3, Garnet/Liquid, Amphibole/Liquid, Diopside/Liquid,</unittitle>
+  				<unitdate>1974-1978</unitdate>		
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">8</container> 
+  				<unittitle>Richard Bild,</unittitle>
+  				<unitdate>September 30, 1977-Feburary 15, 1988</unitdate>	
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">9</container> 
+  				<unittitle>Probe book, no.4,</unittitle>
+  				<unitdate>1978</unitdate>
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">10</container> 
+  				<unittitle>Synthetic runs v.4,</unittitle>
+  				<unitdate>June 12,1978</unitdate>				
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">11</container> 
+  				<unittitle>Synthetic runs v.5,</unittitle>
+  				<unitdate>1978</unitdate>		
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">12</container> 
+  				<unittitle>Probe book (Drake/Stephens),</unittitle>
+  				<unitdate>1978-1980</unitdate>				
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">13</container> 
+  				<unittitle>Probe book (Drake/Lo Faro),</unittitle>
+  				<unitdate>1978-1979</unitdate>	
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">14</container> 
+  				<unittitle>  Rb/Sr (Lo Faro/Drake),</unittitle>
+  				<unitdate>1978-1979</unitdate>			
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">15</container> 
+  				<unittitle>  Rb/Sr (Lo Faro/Drake),</unittitle>
+  				<unitdate>1978-1979</unitdate>			
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">16</container> 
+  				<unittitle>Furnace book (Drake/Stephens),</unittitle>
+  				<unitdate>1978-1979</unitdate>		
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">17</container> 
+  				<unittitle>No title,</unittitle>
+  				<unitdate>1979-1980</unitdate>		
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">18</container> 
+  				<unittitle>No title,</unittitle>
+  				<unitdate>1980</unitdate>		
+  		</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">19</container> 
+  				<unittitle>Glass Lab,</unittitle>
+  				<unitdate>1980-1981</unitdate>	
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">20</container> 
+  				<unittitle>Hibonite experiment (Stephens/Drake),</unittitle>
+  				<unitdate>1980-1981</unitdate>	
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">21</container> 
+  				<unittitle>Microprobe notebook,</unittitle>
+  				<unitdate>1980-1981</unitdate>	
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">22</container> 
+  				<unittitle>No title,</unittitle>
+  				<unitdate>circa 1982-1996</unitdate>	
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">23</container> 
+  				<unittitle>C.L. Broadhurst,</unittitle>
+  				<unitdate>1984-1989</unitdate>	
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">24</container> 
+  				<unittitle>Run log,</unittitle>
+  				<unitdate>1991</unitdate>	
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">25</container> 
+  				<unittitle>Diamond Anvil Experiments,</unittitle>
+  				<unitdate>1991-1993</unitdate>	
+  			</did>
+  		</c02>
+  		<c02 level="file"> 
+  			<did> <container type="box">13</container> 
+  				<container type="folder">26</container> 
+  				<unittitle>Probe,</unittitle>
+  				<unitdate>undated</unitdate>	
+  			</did>
+  		</c02>
+  	</c01>
+  		<c01 level="series" id="sers9"> 
+  			<did><unittitle>Series IX: Photographic Negatives </unittitle>
+  		<unitdate certainty="approximate " encodinganalog="" datechar="" normal="1977/1980"> Circa,1977-1980</unitdate></did>
+  			<scopecontent><p>Eleven negative rolls and approximately forty seven negative flat strips, some of the negatives are labeled and dated but there are a few with no information.</p></scopecontent>
+  	</c01>
+  </dsc> 
+</archdesc></ead>

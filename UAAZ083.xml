@@ -1,0 +1,1560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?filetitle Pima Couty, Arizona Records?>
+<ead relatedencoding="MARC21">
+<eadheader audience="internal" findaidstatus="edited-full-draft"
+ langencoding="iso639-2b"> 
+  <eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
+	 Special Collections//text(US::AzU::Pima County, Arizona Records)//en"
+	 "UAAZ083.xml"</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper encodinganalog="245$a">Pima County, Arizona records 
+		  <date>1864-1923 (bulk 1867-1904)</date></titleproper> 
+		<author encodinganalog="245$c">Inventory prepared by Phyllis
+		  Ball</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+		<publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		  Collections</publisher> 
+		<address> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address> 
+		<date>&#x00A9; 2001</date> 
+		<p>Arizona Board of Regents. All Rights Reserved.</p> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation encodinganalog="500">Inventory encoded by Jennie Stapp 
+		<date>July 15, 2002</date></creation> 
+	 <langusage>Inventory is in<language langcode="en"
+		encodinganalog="546">English.</language></langusage> 
+  </profiledesc> 
+</eadheader> 
+<frontmatter> 
+  <titlepage> 
+	 <titleproper encodinganalog="245$a">Pima County, Arizona records, 
+		<date>1864-1923 (bulk 1867-1904)</date></titleproper> 
+	 <num>Collection Number: AZ 083</num> 
+	 <publisher encodinganalog="260$b">University of Arizona Libraries, Special
+		Collections</publisher> 
+	 <list> 
+		<defitem> 
+		  <label>Processed by:</label> 
+		  <item>Phyllis Ball</item> 
+		</defitem> 
+		<defitem> 
+		  <label>Date completed:</label> 
+		  <item> 
+			 <date>1960</date></item> 
+		</defitem> 
+		<defitem> 
+		  <label>Encoded by:</label> 
+		  <item>Jennie Stapp</item> 
+		</defitem> 
+	 </list> 
+	 <p>&#x00A9; 2001. Arizona Board of Regents. All rights reserved.</p> 
+  </titlepage> 
+</frontmatter> 
+<archdesc level="collection"> 
+  <did id="a1"> 
+	 <head>Collection Summary</head> 
+	 <unittitle encodinganalog="245" label="Collection Name:">Pima County,
+		Arizona records, 
+		<unitdate type="inclusive" normal="">1864-1923 (bulk
+		  1867-1904)</unitdate></unittitle> 
+	 <unitid label="Collection Number:" encodinganalog="099"
+	  repositorycode="AzU" countrycode="us"> AZ 083</unitid> 
+	 <origination label="Creator:"> 
+		<corpname encodinganalog="110">Pima County (Ariz.)
+		  </corpname></origination> 
+	 <abstract label="Abstract:">Financial accounts, petitions, bonds, reports,
+		leases, deeds, abstracts of titles, tax lists, bids, and correspondence related
+		to Pima County operations. Chiefly records of the Board of Supervisors, such as
+		letterpress copies of correspondence, petitions for appointments to county
+		office, and financial demands and warrants.</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
+		encodinganalog="300">21 linear feet</extent></physdesc> 
+	 <repository label="Repository:"> 
+		<corpname encodinganalog="110">University of Arizona Libraries, Special
+		  Collections</corpname> 
+		<address> 
+		  <addressline>University of Arizona </addressline> 
+		  <addressline>PO Box 210055</addressline> 
+		  <addressline>Tucson, AZ 85721-0055</addressline> 
+		  <addressline>Phone: 520-621-6423</addressline> 
+		  <addressline>Fax: 520-621-9733</addressline> 
+		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		</address></repository> 
+  </did> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Restrictions</head> 
+	 <p>None.</p> 
+  </accessrestrict> 
+  <userestrict encodinganalog="540"> 
+	 <head>Copyright</head> 
+	 <p>It is the responsibility of the user to obtain permission to publish
+		from the owner of the copyright (the institution, the creator of the record,
+		the author or his/her transferees, heirs, legates, or literary executors). The
+		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		University of Arizona, its officers, employees, and agents from and against all
+		claims made by any person asserting that he or she is an owner of
+		copyright.</p> 
+  </userestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Credit Line</head> 
+  	<p>Pima County, Arizona records (AZ 083). Special Collections, University of Arizona Libraries.</p> 
+  </prefercite> 
+  <bioghist id="a2" encodinganalog="545"> 
+	 <head>Historical Note</head> 
+	 <p>Pima County, located in southern Arizona, was formed in 1864 by an act
+		of the First Legislative Session of the Territory of Arizona. The county seat
+		is Tucson, Arizona.</p> 
+  </bioghist> 
+  <arrangement> 
+	 <head>Organization</head> 
+	 <p>This collection is organized into ten series:</p> 
+	 <list> 
+		<item>Series I: Board of Supervisors, 1864-1908</item> 
+		<item>Series II: Assessor, 1875-1923</item> 
+		<item>Series III: Justice Court, 1867-1897</item> 
+		<item>Series IV: District Court, 1867-1903</item> 
+		<item>Series V: Miscellaneous (part 1), 1864-1904</item> 
+		<item>Series VI: School District, 1867-1905</item> 
+		<item>Series VII: Miscellaneous (part 2), 1864-1884</item> 
+		<item>Series VIII: Tax Collector, 1871-1875</item> 
+		<item>Series IX: Treasurer, 1865-1896</item> 
+		<item>Series X: Election Returns, 1864-1902</item> 
+	 </list> 
+  </arrangement> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Content Note</head> 
+	 <p>Financial accounts, petitions, bonds, reports, leases, deeds, abstracts
+		of titles, tax lists, bids, and correspondence related to Pima County
+		operations. Chiefly records of the Board of Supervisors, such as letterpress
+		copies of correspondence, petitions for appointments to county office, and
+		financial demands and warrants. Other Board records include 1879 orders to
+		incorporate the villages of Tombstone and Arivaca, and papers related to the
+		construction of the first and second County courthouses. Assessor records
+		consist of correspondence and a 1900-1907 block book. </p> 
+	 <p>School records include financial records, correspondence, and reports.
+		Teachers' monthly reports indicate number of students enrolled; reports for
+		Florence, 1873, and Tres Alamos, 1874-1875, give student names. School census
+		reports, 1874-1904, list student names, race, whether native or foreign born,
+		and parents' names. Records of other county offices are from the Justice Court,
+		District Court, Coroner, County Hospital, Jailer, Sheriff, Treasurer, and
+		Election Office. A Probate Court docket dates from 1883 to 1885, and an Arizona
+		tax list is for 1879. </p> 
+	 <p>Some records relate to bonds for County services such as road overseers,
+		constables, justices of the peace, butchers, physicians, and provisions for
+		indigent sick and prisoners. Also present are records of the Calabasas, Tucson,
+		and Northwestern Railroad Co., 1885-1886, 1892; also the Tucson and Gulf of
+		California Railroad, 1882-1884.</p> 
+	 <p>Note: A more detailed inventory of boxes 17-19 and box 37 is available
+		at the repository.</p> 
+  </scopecontent> 
+  <controlaccess id="a12"> 
+	 <head>Access Terms</head> 
+	 <list> 
+		<item> 
+		  <corpname encodinganalog="110">Calabasas, Tucson, and Northwestern
+			 Railroad</corpname></item> 
+		<item> 
+		  <corpname encodinganalog="110">Tucson and Gulf of California
+			 Railroad</corpname></item> 
+		<item> 
+		  <subject>School census -- Arizona -- Pima County -- History --
+			 Sources</subject></item> 
+		<item> 
+		  <subject>Elections -- Arizona -- Pima County -- History --
+			 Sources</subject></item> 
+		<item> 
+		  <geogname>Pima County (Ariz.) -- History -- Sources</geogname></item> 
+		<item> 
+		  <geogname>Tucson (Ariz.) -- History -- Sources</geogname></item> 
+		<item> 
+		  <geogname>Arizona -- History -- To 1912 -- Sources</geogname></item> 
+		<item> 
+		  <genreform>Census</genreform></item> 
+		<item> 
+		  <genreform>Correspondence</genreform></item> 
+		<item> 
+		  <genreform>Petitions</genreform></item> 
+		<item> 
+		  <genreform>Reports</genreform></item> 
+	 </list> 
+  </controlaccess> 
+  <dsc type="combined" id="a23"> 
+	 <head>Container List</head> 
+	 <c01 level="file"> 
+		<did> <container type="box">1</container> 
+		  <unittitle>Finding aid for the collection. </unittitle> 
+		</did> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series I: Board of Supervisors, 
+			 <unitdate type="inclusive"
+			  normal="1864/1908">1864-1908</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">2</container> 
+			 <unittitle>Board of Supervisors: Demands on the Treasury. 
+				<unitdate type="inclusive" normal="">1864-1871,
+				  1873</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Records include financial accounts, both allowed and disallowed,
+				covering court fees, sheriff's fees, rents, office supplies, salaries, jail
+				supplies and services, printing, doctor's fees for care of indigents and
+				prisoners, etc. </p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">3</container> 
+			 <unittitle>Board of Supervisors: Demands on the Treasury. 
+				<unitdate type="inclusive"
+				 normal="1874/1876">1874-1876</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">4</container> 
+			 <unittitle>Board of Supervisors: Demands on the Treasury. 
+				<unitdate type="inclusive"
+				 normal="1877/1879">1877-1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">5</container> 
+			 <unittitle>Board of Supervisors: Demands on the Treasury. 
+				<unitdate type="inclusive"
+				 normal="1880/1882">1880-1882</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">6</container> 
+			 <unittitle>Board of Supervisors: Demands on the Treasury. 
+				<unitdate type="inclusive"
+				 normal="1883/1888">1883-1888</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">7</container> 
+			 <unittitle>Board of Supervisors: Demands on the Treasury. 
+				<unitdate type="inclusive" normal="">1889-April
+				  1890</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">8</container> 
+			 <unittitle>Board of Supervisors: Demands on the Treasury. 
+				<unitdate type="inclusive" normal="">May-December
+				  1890</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">9</container> 
+			 <unittitle>Board of Supervisors: Demands on the Treasury. 
+				<unitdate type="inclusive"
+				 normal="1891">1891</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">10</container> 
+			 <unittitle>Board of Supervisors: Demands on the Treasury. 
+				<unitdate type="inclusive" normal="">1892-1893, 1895,
+				  1899-1900</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">11</container> 
+			 <unittitle>Board of Supervisors: Demands on the Treasury. 
+				<unitdate type="inclusive" normal="">1901-November
+				  1903</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">12</container> 
+			 <unittitle>Board of Supervisors: Demands on the Treasury. 
+				<unitdate type="inclusive" normal="">December 1903-September
+				  1905</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">13</container> 
+			 <unittitle>Board of Supervisors: Demands on the Treasury. 
+				<unitdate type="inclusive" normal="">October 1905-April 3,
+				  1908</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">14</container> 
+			 <unittitle>Board of Supervisors: Demands on the Treasury. 
+				<unitdate type="inclusive" normal="">April 4-July
+				  1908</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">15</container> 
+			 <unittitle>Board of Supervisors: Warrants and Stubs. 
+				<unitdate type="inclusive" normal="">1864-1865,
+				  1867-1880</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">16</container> 
+			 <unittitle>Board of Supervisors: Warrants and stubs. 
+				<unitdate type="inclusive" normal="">1881-1885, 1887, 1892,
+				  1895-1901, 1903-1905, 1907-1908</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">17</container> 
+			 <unittitle>Board of Supervisors: Letters, petitions and reports to
+				the Board. 
+				<unitdate type="inclusive" normal="">1865, 1867-1881, 1884,
+				  1886-1888</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">18</container> 
+			 <unittitle>Board of Supervisors: Letters, petitions and reports to
+				the Board. 
+				<unitdate type="inclusive"
+				 normal="1889/1894">1889-1894</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">19</container> 
+			 <unittitle>Board of Supervisors: Letters, petitions and reports to
+				the Board. 
+				<unitdate type="inclusive" normal="">1895-1898, 1900-1903, No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">20</container> <container
+			 type="folder">1</container> 
+			 <unittitle>From Allen, John B. (Chairman of the Board), order for
+				Peter R. Brady, Sheriff, to rent from Mark Aldrich certain buildings on
+				Military Plaza for county offices. 
+				<unitdate type="inclusive" normal="1867">February 16,
+				  1867</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">20</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Lease between Mark Aldrich and Pima County Board of
+				Supervisors for rent of certain buildings on Military Plaza for use as county
+				offices. 
+				<unitdate type="inclusive" normal="1867">March 28,
+				  1867</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">20</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Order of Board of Supervisors regarding transfer of San
+				Rafael del Valle land grant. 
+				<unitdate type="inclusive" normal="1877">April 3,
+				  1877</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">20</container> <container
+			 type="folder">1</container> 
+			 <unittitle>From Osborn, William J. (Clerk of the Board of
+				Supervisors), notice of meeting called to discuss establishment of a public
+				road from Tucson via Davidson Canyon, Empire Ranch, Crittenden, etc. 
+				<unitdate type="inclusive" normal="1879">October 8,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">20</container> <container
+			 type="folder">1</container> 
+			 <unittitle>From Oury, William S. (Clerk of the Board of Supervisors),
+				communication regarding the construction of a bridge across the San Pedro River
+				at Charleston (copy). 
+				<unitdate type="inclusive" normal="1880">December 29,
+				  1880</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">20</container> <container
+			 type="folder">1</container> 
+			 <unittitle>From Martin, James (of St. Louis), affidavit relating to
+				loss of warrants. 
+				<unitdate type="inclusive" normal="1887">June 25,
+				  1887</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">20</container> <container
+			 type="folder">1</container> 
+			 <unittitle>From Lacy, H. (Chairman of the Board), order for a special
+				meeting of the Board. 
+				<unitdate type="inclusive" normal="1890">April 8,
+				  1890</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">20</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Transcript of proceedings before the Board of Equalization
+				of Taxes regarding assessment of Santa Rita Land and Cattle Company for 1891. 
+				<unitdate type="inclusive" normal="1891">July 14,
+				  1891</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">20</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Assessment list in the handwriting of Lionel M. Jacobs. 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">20</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Two sketches for "forms and notice for mortgages," in the
+				handwriting of Lionel M. Jacobs. 
+				<unitdate type="inclusive" normal="NaN">No
+				  Date</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">20</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Commitments to the County Hospital. 
+				<unitdate type="inclusive" normal="NaN/1881">1876,
+				  1880-1881</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">20</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Orders to incorporate the villages of Tombstone and
+				Arivaca. 
+				<unitdate type="inclusive" normal="1879">November 1, 1879 and
+				  December 20, 1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">20</container> <container
+			 type="folder">4</container> 
+			 <unittitle>Orders to Tax Collector, regarding assessments, and to
+				Treasurer, regarding transfer of county funds. 
+				<unitdate type="inclusive"
+				 normal="1889/1890">1889-1890</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">20</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Papers relating to the construction of the first and
+				second Pima County Court Houses, and the various additions to same. 
+				<unitdate type="inclusive"
+				 normal="1867/1899">1867-1899</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Includes bids, deed from Mark Aldrich for land, articles of
+				agreement between the Board and Charles Meyers for construction, notice of
+				completion and establishment of offices, specifications for re-roofing and bids
+				for same, articles of agreement for construction of additional rooms, and
+				similar papers dealing with the construction of the second Court House in 1881.
+				</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">20</container> <container
+			 type="folder">6</container> 
+			 <unittitle>Requisitions to the Board for office supplies and
+				equipment. 
+				<unitdate type="inclusive" normal="NaN/1893">1877, 1879,
+				  1887-1893</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">20</container> <container
+			 type="folder">7</container> 
+			 <unittitle>Certificates of audit. 
+				<unitdate type="inclusive"
+				 normal="1895/1897">1895-1897</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">21</container> 
+			 <unittitle>Board of Supervisors: Letterpress copies of
+				correspondence, forms sent out, reports to various territorial officials,
+				assessment lists, etc. 
+				<unitdate type="inclusive" normal="">January 1885-February
+				  1888</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Also contains correspondence of the Board of Equalization. </p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">22</container> 
+			 <unittitle>Board of Supervisors: Letterpress copies of
+				correspondence, etc. 
+				<unitdate type="inclusive" normal="">March 1888-June 1890.
+				  </unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">23</container> 
+			 <unittitle>Board of Supervisors: Letterpress copies of
+				correspondence, etc. 
+				<unitdate type="inclusive" normal="">July 1890-August
+				  1891</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">24</container> 
+			 <unittitle>Board of Supervisors: Letterpress copies of
+				correspondence, etc. 
+				<unitdate type="inclusive" normal="">June 1891-March 17,
+				  1893</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">25</container> 
+			 <unittitle>Board of Supervisors: Letterpress copies of
+				correspondence, etc. 
+				<unitdate type="inclusive" normal="">March 20, 1893-October 10,
+				  1894</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">26</container> 
+			 <unittitle>Board of Supervisors: Letterpress copies of
+				correspondence, etc. 
+				<unitdate type="inclusive" normal="">October 11, 1894-April 16,
+				  1898</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">27</container> 
+			 <unittitle>Board of Supervisors: Letterpress copies of
+				correspondence, etc. 
+				<unitdate type="inclusive" normal="">April 16, 1898-May 23,
+				  1899</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">28</container> 
+			 <unittitle>Board of Supervisors: Letterpress copies of
+				correspondence, etc. 
+				<unitdate type="inclusive" normal="">May 24-December
+				  1899</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series II: Assessor, 
+			 <unitdate type="inclusive"
+			  normal="1875/1923">1875-1923</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">29</container> 
+			 <unittitle>Assessor: Statement under oath of the property held,
+				owned, claimed by, or in possession of, for the year. 
+				<unitdate type="inclusive"
+				 normal="1875/1881">1875-1881</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">30</container> 
+			 <unittitle>Assessor: Correspondence. 
+				<unitdate type="inclusive" normal="">1888-1889, 1892, 1895,
+				  1902-1909, 1914, 1919-1923</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">31</container> 
+			 <unittitle>Assessor: Letterpress copies of correspondence and tax
+				notices. 
+				<unitdate type="inclusive" normal="">June 1892-August 1894, June
+				  1897</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">32</container> 
+			 <unittitle>Assessor: Tax list and other records. 
+				<unitdate type="inclusive"
+				 normal="1879/1880">1879-1880</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contains a record of sale of horses and mules by the sheriff,
+				April 9, 1880</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">33</container> 
+			 <unittitle>Assessor: Block book. 
+				<unitdate type="inclusive"
+				 normal="1900/1907">1900-1907</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Includes documentation of Buell's Addition, South Side University
+				Addition, Sunny Side Addition, Buena Vista Addition, Canfield Tract, Manlove
+				Addition. </p> 
+		  </scopecontent> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series III: Justice Court, 
+			 <unitdate type="inclusive"
+			 normal="1867/1897">1867-1897</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">34</container> 
+			 <unittitle>Justice Court: Commitments. 
+				<unitdate type="inclusive"
+				normal="1867/1880">1867-1880</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">35</container> <container
+			 type="folder">1-2</container> 
+			 <unittitle>Justice Court: Discharges. 
+				<unitdate type="inclusive"
+				normal="1869/1881">1869-1881</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">35</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Justice Court: Executions. 
+				<unitdate type="inclusive" normal="">1870, 1874-1875, 1877,
+				  1881</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">35</container> <container
+			 type="folder">4</container> 
+			 <unittitle>Justice Court: Inquisitions. 
+				<unitdate type="inclusive" normal="1877">1867,
+				  1877</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">35</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Justice Court: Judgements. 
+				<unitdate type="inclusive" normal="1876">1869,
+				  1876</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">35</container> <container
+			 type="folder">6</container> 
+			 <unittitle>Justice Court: Reports of cases tried. 
+				<unitdate type="inclusive" normal="">1875-1876,
+				  1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">35</container> <container
+			 type="folder">7</container> 
+			 <unittitle>Justice Court: Reports of fines. 
+				<unitdate type="inclusive" normal="NaN/1897">1871,
+				  1894-1897</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">35</container> <container
+			 type="folder">8</container> 
+			 <unittitle>Justice Court: Summons. 
+				<unitdate type="inclusive" normal="">1867, 1873-1874,
+				  1876-1877</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">35</container> <container
+			 type="folder">9</container> 
+			 <unittitle>Justice Court: Undertakings. 
+				<unitdate type="inclusive" normal="1874">1869,
+				  1874</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">35</container> <container
+			 type="folder">10</container> 
+			 <unittitle>Justice Court: Warrants for arrest. 
+				<unitdate type="inclusive" normal="">1867-1874,
+				  1878-1879</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">35</container> <container
+			 type="folder">11</container> 
+			 <unittitle>Justice Court: Writs of Attachments. 
+				<unitdate type="inclusive" normal="">1873-1874, 1877,
+				  1881</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">35</container> <container
+			 type="folder">12</container> 
+			 <unittitle>Justice Court: Miscellaneous. </unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series IV: District Court, 
+			 <unitdate type="inclusive"
+			 normal="1864/1903">1864-1903</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">36</container> <container
+			 type="folder">1-3</container> 
+			 <unittitle>District Court: Miscellaneous documents. 
+				<unitdate type="inclusive" normal="">1867, 1869-1877, 1879-1880,
+				  1891, 1893, 1896-1897, 1900</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">36</container> <container
+			 type="folder">4</container> 
+			 <unittitle>District Court: Case of Santiago Ainsa, administrator of
+				estate of Frank Ely (deceased) vs. New Mexico and Arizona Railroad Company
+				(transcript). 
+				<unitdate type="inclusive"
+				normal="1892">1892</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">36</container> <container
+			 type="folder">5</container> 
+			 <unittitle>District Court: Case of Frank Dobszinsky vs. H. E. Jenkins
+				and H. D. Jenkins (transcript). 
+				<unitdate type="inclusive"
+				normal="1890">1890</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">36</container> <container
+			 type="folder">6</container> 
+			 <unittitle>District Court: Case of John L. Stevens vs. Morgan R. Wise
+				(transcript). 
+				<unitdate type="inclusive"
+				normal="1899">1899</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">36</container> <container
+			 type="folder">7</container> 
+			 <unittitle>District Court: Case of City of Tucson vs. Lizzie Woods,
+				et al. Regarding removal of the "wedge" on Congress Street. (Order appointing a
+				commission, and assessment roll). 
+				<unitdate type="inclusive"
+				normal="1903">1903</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">36</container> <container
+			 type="folder">8</container> 
+			 <unittitle>District Court: Case of United States of America vs. Colin
+				Cameron. Regarding fencing of public lands (transcript). 
+				<unitdate type="inclusive"
+				normal="1887">1887</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">36</container> <container
+			 type="folder">9</container> 
+			 <unittitle>District Court: Case of C. M. Williams vs. San Pedro
+				Cattle Company (transcript). 
+				<unitdate type="inclusive"
+				normal="1894">1894</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series V: Miscellaneous (part 1), 
+			 <unitdate type="inclusive"
+			 normal="1866/1904">1866-1904</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">37</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Abstracts of titles to various mines including Dragoon,
+				Tom Scott, Defiance, Bell and Challenge. 
+				<unitdate type="inclusive" normal="1880">March 10,
+				  1880</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">37</container> <container
+			 type="folder">2-4</container> 
+			 <unittitle>Agreements and Bonds. 
+				<unitdate type="inclusive" normal="">1871-1878, 1880-1882,
+				  1887-1889, 1892, 1895, 1897, 1903</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Note: A more detailed inventory of agreements and bonds is
+				available at the repository. </p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">37</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Assessor: Personal property tax collected. 
+				<unitdate type="inclusive" normal="">April-May
+				  1887</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">37</container> <container
+			 type="folder">6</container> 
+			 <unittitle>Invoices from Pima County to the U. S. Government for rent
+				of a room in the county Court House, for use during federal court proceedings. 
+				<unitdate type="inclusive"
+				normal="1872/1876">1872-1876</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">37</container> <container
+			 type="folder">7</container> 
+			 <unittitle>Bonds relating to court actions. 
+				<unitdate type="inclusive"
+				normal="1870/1877">1870-1877</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Includes: 
+				<list> 
+				  <item>Bond in suit of Thomas Harmon against Mortimer R. Platt,
+					 1870</item> 
+				  <item>Bond of indemnity to William S. Oury, Sheriff, in suit of
+					 Barnett and Block against Zubiate and Company, 1873</item> 
+				  <item>Bond of indemnity to Will S. Oury, Sheriff, in suit of
+					 Wormser and Wertheimer against Zubriate and Company, 1873</item> 
+				  <item>Bond of indemnity to William S. Oury, Sheriff, in suit of
+					 Woffenden against Goldbert and Company, 1873</item> 
+				  <item>Redelivery bond in suit of Joseph Neugass against A.
+					 Brichta, 1877</item> 
+				</list></p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">37</container> <container
+			 type="folder">8</container> 
+			 <unittitle>Calabasas, Tucson, and Northwestern Railroad Company:
+				Miscellaneous documents. 
+				<unitdate type="inclusive" normal="">1885-1886,
+				  1892</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Includes names of incorporators, notice of election to vote about
+				granting county aid and various petitions to issue bonds, secure county aid,
+				extend completion time of the railroad. </p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">37</container> <container
+			 type="folder">9</container> 
+			 <unittitle>Census of Pima County. 
+				<unitdate type="inclusive"
+				normal="1867">1867</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">37</container> <container
+			 type="folder">10</container> 
+			 <unittitle>Certificates of nomination. 
+				<unitdate type="inclusive" normal="1904">1902,
+				  1904</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">37</container> <container
+			 type="folder">11</container> 
+			 <unittitle>Coroner: Miscellaneous documents. 
+				<unitdate type="inclusive" normal="1875">1867, 1869,
+				  1875</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">37</container> <container
+			 type="folder">12</container> 
+			 <unittitle>County Hospital: Report of patients under treatment and
+				remaining in the hospital. 
+				<unitdate type="inclusive" normal="">October-December
+				  1899</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">37</container> <container
+			 type="folder">13</container> 
+			 <unittitle>Deeds. 
+				<unitdate type="inclusive"
+				normal="1876/1884">1876-1884</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Includes: 
+				<list> 
+				  <item>Sheriff's deeds under execution, relating to various land
+					 grants</item> 
+				  <item>Quitclaim deed from Pima County to Manuel Gandora:
+					 Calabasas and Tumacacori Land Grant</item> 
+				  <item>Deed, bargain and sale from Alfred Green to Mary Harrison
+					 for property in La Noria</item> 
+				</list></p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">37</container> <container
+			 type="folder">14</container> 
+			 <unittitle>Delinquent Taxes. 
+				<unitdate type="inclusive"
+				 normal="1867/1900">1867-1900</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Includes receipts and reports by the Sheriff, Treasurer, District
+				Attorney and Tax Collector. </p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">37</container> <container
+			 type="folder">15</container> 
+			 <unittitle>Goldschmidt, Leo: Various papers transferring certain
+				notes and other evidence of indebtedness to Albert Steinfeld. 
+				<unitdate type="inclusive"
+				 normal="1889">1889</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">37</container> <container
+			 type="folder">16</container> 
+			 <unittitle>Governor: Election proclamations. 
+				<unitdate type="inclusive"
+				 normal="1878/1904">1878-1904</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <list> 
+				<item>October 5, 1878: John C. Fremont, accompanied by a letter
+				  </item> 
+				<item>September 25, 1902: Alexander O. Brodie</item> 
+				<item>October 28, 1903: Alexander O. Brodie (5 copies)</item> 
+				<item>September 15 and October 31, 1904: Alexander O. Brodie</item>
+				
+			 </list> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">37</container> <container
+			 type="folder">17</container> 
+			 <unittitle>Governor: Extradition orders. 
+				<unitdate type="inclusive"
+				 normal="1876">1876</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">37</container> <container
+			 type="folder">18</container> 
+			 <unittitle>Governor: Pardons. 
+				<unitdate type="inclusive" normal="">1871-1874, 1876,
+				  1879-1880</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">38</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Jailor (Tucson and Nogales): Reports. 
+				<unitdate type="inclusive" normal="NaN/1890">1875, 1881,
+				  1887-1890</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Includes regular reports, record of U. S. prisoners in the Pima
+				County Jail and testimony regarding the escape of prisoners on January 1,
+				1875.</p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">38</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Jury Lists. 
+				<unitdate type="inclusive" normal="">1872, 1874-1878,
+				  1880</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">38</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Mining claims: Notices of location. 
+				<unitdate type="inclusive" normal="">1874-1875,
+				  1877-1878</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">38</container> <container
+			 type="folder">4</container> 
+			 <unittitle>Parsons, Mary E. (school teacher from Cambridge,
+				Massachusetts): Letter to Governor A. P. K. Safford. 
+				<unitdate type="inclusive" normal="1873">June 23,
+				  1873</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">38</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Probate Court: Miscellaneous papers and documents. 
+				<unitdate type="inclusive" normal="">1864, 1867, 1872, 1874,
+				  1877-1881, 1884</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">38</container> <container
+			 type="folder">6</container> 
+			 <unittitle>Recorder: Miscellaneous papers and documents. 
+				<unitdate type="inclusive" normal="">1870-1874, 1876, 1878, 1880,
+				  1882, 1886, 1903</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">38</container> <container
+			 type="folder">7</container> 
+			 <unittitle>Recorder's Court: Miscellaneous papers and documents. 
+				<unitdate type="inclusive"
+				normal="1873/1874">1873-1874</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">38</container> <container
+			 type="folder">8</container> 
+			 <unittitle>Road Overseers: Miscellaneous financial records. 
+				<unitdate type="inclusive"
+				normal="1871/1888">1871-1888</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">38</container> <container
+			 type="folder">9</container> 
+			 <unittitle>Sheriff (and/or Assessor): Miscellaneous financial
+				records. 
+				<unitdate type="inclusive"
+				normal="1868/1887">1868-1887</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">38</container> <container
+			 type="folder">10</container> 
+			 <unittitle>Sheriff: Receipts. 
+				<unitdate type="inclusive" normal="">1868-1869, 1871, 1887,
+				  1897</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">38</container> <container
+			 type="folder">11</container> 
+			 <unittitle>Sheriff: Miscellaneous documents. 
+				<unitdate type="inclusive" normal="">1866, 1873-1879, 1881, 1887,
+				  1895</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">38</container> <container
+			 type="folder">12</container> 
+			 <unittitle>Sheriff: Monthly report of property taxes collected. 
+				<unitdate type="inclusive" normal="">September-November
+				  1871</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">38</container> <container
+			 type="folder">13</container> 
+			 <unittitle>Sheriff: Monthly reports of License taxes collected. 
+				<unitdate type="inclusive"
+				normal="1864/1892">1864-1892</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">38</container> <container
+			 type="folder">14</container> 
+			 <unittitle>Statement under oath of ore extracted from mines. 
+				<unitdate type="inclusive"
+				normal="1880">1880</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">38</container> <container
+			 type="folder">15</container> 
+			 <unittitle>Supreme Court Chief Justice: Miscellaneous documents. 
+				<unitdate type="inclusive" normal="1894">1874,
+				  1894</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">38</container> <container
+			 type="folder">16</container> 
+			 <unittitle>Tax Collector: Certificate of sale for real estate. 
+				<unitdate type="inclusive" normal="">March-April
+				  1899</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">38</container> <container
+			 type="folder">17</container> 
+			 <unittitle>Tax Collector: Monthly report. 
+				<unitdate type="inclusive"
+				normal="1897">1897</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">38</container> <container
+			 type="folder">18</container> 
+			 <unittitle>Territorial Prison Superintendent: Receipts for prisoners.
+				
+				<unitdate type="inclusive"
+				normal="1875/1876">1875-1876</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">38</container> <container
+			 type="folder">19</container> 
+			 <unittitle>Territorial Treasurer: Receipts and accounts regarding
+				county funds due the Territorial treasury. 
+				<unitdate type="inclusive" normal="">1865, 1868-1871, 1876-1877,
+				  1896, 1900-1901</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">38</container> <container
+			 type="folder">20</container> 
+			 <unittitle>Treasurer: Reports to the Superintendent of Schools
+				regarding school funds. 
+				<unitdate type="inclusive"
+				normal="1889/1893">1889-1893</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">38</container> <container
+			 type="folder">21</container> 
+			 <unittitle>Treasurer: Miscellaneous documents. 
+				<unitdate type="inclusive" normal="">1874-1875,
+				  1890</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">38</container> <container
+			 type="folder">22</container> 
+			 <unittitle>U. S. Commissioner: Document regarding a case of mail
+				robbery. 
+				<unitdate type="inclusive"
+				normal="1878">1878</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series VI: School District, 
+			 <unitdate type="inclusive"
+			 normal="1867/1905">1867-1905</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">39</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Schools: Financial records. 
+				<unitdate type="inclusive" normal="NaN/1876">1867,
+				  1871-1876</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">39</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Schools: Joint County Institutes, attendance of teachers. 
+				<unitdate type="inclusive" normal="1897">1894,
+				  1897</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">39</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Schools: Miscellaneous school documents. 
+				<unitdate type="inclusive" normal="">1872-1873, 1875, 1887-1891,
+				  1893-1895, 1898-1899</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">39</container> <container
+			 type="folder">4</container> 
+			 <unittitle>Schools: Correspondence from Osburn, William J.
+				(Superintendent of Schools). 
+				<unitdate type="inclusive"
+				normal="1873/1874">1873-1874</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">39</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Schools: Apportionments of school funds. 
+				<unitdate type="inclusive" normal="">1890-1893,
+				  1897-1898</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">39</container> <container
+			 type="folder">6</container> 
+			 <unittitle>Schools: Superintendent of Schools report to Territorial
+				Board of Examiners. 
+				<unitdate type="inclusive" normal="">1887-1888, 1892-1894,
+				  1896-1898</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">39</container> <container
+			 type="folder">7</container> 
+			 <unittitle>Schools: Superintendent of Schools annual report to the
+				Governor. 
+				<unitdate type="inclusive"
+				normal="1873/1874">1873-1874</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">39</container> <container
+			 type="folder">8</container> 
+			 <unittitle>Schools: Superintendent of Schools quarterly report to the
+				Board of Supervisors of warrants drawn upon the School Fund. 
+				<unitdate type="inclusive"
+				normal="1887/1888">1887-1888</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">39</container> <container
+			 type="folder">9</container> 
+			 <unittitle>Schools: Teacher's annual report of the public school. 
+				<unitdate type="inclusive" normal="">1893-1894, 1896-1897,
+				  1898-1899, 1899-1900</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">39</container> <container
+			 type="folder">10</container> 
+			 <unittitle>Schools: Tucson School District notice of special election
+				regarding tax to be levied to build a public school house; also a poll list and
+				tally list. 
+				<unitdate type="inclusive" normal="1873">June 21,
+				  1873</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">39</container> <container
+			 type="folder">11</container> 
+			 <unittitle>Schools: Trustees' reports 
+				<unitdate type="inclusive" normal="NaN/1896">1874,
+				  1895-1896</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">39</container> <container
+			 type="folder">12</container> 
+			 <unittitle>Schools: Warrants for supplies. 
+				<unitdate type="inclusive"
+				normal="1892">1892</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">39</container> <container
+			 type="folder">13</container> 
+			 <unittitle>Schools: Warrants for salaries, services, etc. 
+				<unitdate type="inclusive" normal="">1873-1880, 1883, 1887, 1895,
+				  1897-1901, 1904-1905</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">40</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Abstract of census returns of children in Pima County. 
+				<unitdate type="inclusive"
+				normal="1873/1876">1873-1876</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">40</container> <container
+			 type="folder">2</container> 
+			 <unittitle>School Census Marshall: Report. 
+				<unitdate type="inclusive"
+				normal="1873/1904">1873-1904</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <list> 
+				<item>1873: District No. 2, Sanford</item> 
+				<item>1873: District No. 3, Florence</item> 
+				<item>1873: District No. 4, San Pedro</item> 
+				<item>1874: District No. 2, Sanford</item> 
+				<item>1874: District No. 3, Florence</item> 
+				<item>1874: District No. 4, San Pedro </item> 
+				<item>1886-1887: District No. 1, Tucson</item> 
+				<item>1895-1896: District No. 6, Kenilworth</item> 
+				<item>?: District No. 37, Oro</item> 
+				<item>1899-1900: District No. 29, Sahuarito</item> 
+				<item>1900-1901: District No. 1, Tucson</item> 
+				<item>1902-1903: District No. 1, Tucson</item> 
+				<item>1903-1904: District No. 1, Tucson</item> 
+			 </list> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">40</container> <container
+			 type="folder">3</container> 
+			 <unittitle>County Superintendent of Schools: Report to the
+				Superintendent of Public Instruction regarding the annual school census. 
+				<unitdate type="inclusive" normal="">1892-1893, 1893-1894,
+				  1895-1896, 1897-1898</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">41</container> 
+			 <unittitle>Superintendent of Schools: Day Book of School Funds and
+				Probate Court Docket. 
+				<unitdate type="inclusive" normal="">1886-1887,
+				  1883-1885</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Record of receipts and disbursements for each district. </p> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">42</container> 
+			 <unittitle>Superintendent of Schools: Minutes of meetings of the
+				Board of Examiners of Pima County. 
+				<unitdate type="inclusive"
+				normal="1889/1894">1889-1894</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">43</container> 
+			 <unittitle>Superintendent of Schools: Minutes of meetings of the
+				Board of Trustees of School District No. 15. 
+				<unitdate type="inclusive"
+				normal="1884/1886">1884-1886</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">44</container> 
+			 <unittitle>Superintendent of Schools: Record of Trustees in each
+				school district. 
+				<unitdate type="inclusive"
+				normal="1891/1896">1891-1896</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">45</container> 
+			 <unittitle>Superintendent of Schools: Quarterly financial report. 
+				<unitdate type="inclusive" normal="">July-September
+				  1897</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">46</container> 
+			 <unittitle>Schools: Teachers' monthly reports from various districts.
+				
+				<unitdate type="inclusive" normal="">1873-1875, 1891-1892,
+				  1894-1896</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series VII: Miscellaneous (part 2), 
+			 <unitdate type="inclusive"
+			  normal="1864/1884">1864-1884</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">47</container> 
+			 <unittitle>Ore Shipments from Tucson. 
+				<unitdate type="inclusive"
+				 normal="1876/1877">1876-1877</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">48</container> 
+			 <unittitle>Recorder: Abstracts of unsatisfied mortgages. 
+				<unitdate type="inclusive"
+				 normal="1864/1876">1864-1876</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">49</container> 
+			 <unittitle>Tucson Gulf of California Railroad: Miscellaneous
+				documents. 
+				<unitdate type="inclusive"
+				 normal="1882/1884">1882-1884</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series VIII: Tax Collector, 
+			 <unitdate type="inclusive"
+			  normal="1871/1875">1871-1875</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">50</container> <container
+			 type="folder">1-4</container> 
+			 <unittitle>Tax Collector: License tax stubs. 
+				<unitdate type="inclusive" normal="NaN/1875">1871,
+				  1873-1875</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">50</container> <container
+			 type="folder">5-6</container> 
+			 <unittitle>Tax Collector: Poll tax stubs. 
+				<unitdate type="inclusive"
+				 normal="1871/1872">1871-1872</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">50</container> <container
+			 type="folder">7</container> 
+			 <unittitle>Tax Collector: Property tax stubs. 
+				<unitdate type="inclusive"
+				 normal="1871">1871</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">50</container> <container
+			 type="folder">8</container> 
+			 <unittitle>Tax Collector: Road tax. 
+				<unitdate type="inclusive"
+				 normal="1871">1871</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series IX: Treasurer, 
+			 <unitdate type="inclusive"
+			  normal="1865/1896">1865-1896</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">51</container> 
+			 <unittitle>Treasurer: Receipts. 
+				<unitdate type="inclusive" normal="">1865, 1868-1881, 1887,
+				  1896</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Issued by the Treasurer for:</p> 
+			 <list> 
+				<item>License and poll taxes collected by the Sheriff</item> 
+				<item>Fines and delinquent taxes issued by the Distract Attorney
+				  and Justice of the Peace</item> 
+				<item>Rent collected by the Sheriff and Clerk of the Board of
+				  Supervisors</item> 
+				<item>Tax roll issued by the Recorder</item> 
+				<item>Monies for School and General Funds directed by the Board of
+				  Supervisors</item> 
+				<item>Various other receipts dealing with county funds</item> 
+			 </list> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">52</container> <container
+			 type="folder">1</container> 
+			 <unittitle>Treasurer: Annual Report. 
+				<unitdate type="inclusive" normal="1876">1873,
+				  1876</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">52</container> <container
+			 type="folder">2</container> 
+			 <unittitle>Treasurer: Monthly report of receipts and disbursements. 
+				<unitdate type="inclusive" normal="1896">1890,
+				  1896</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">52</container> <container
+			 type="folder">3</container> 
+			 <unittitle>Treasurer: Quarterly report of receipts and disbursements.
+				
+				<unitdate type="inclusive"
+				 normal="1867/1887">1867-1887</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Includes reports from:</p> 
+			 <list> 
+				<item>1867</item> 
+				<item>1869-1871</item> 
+				<item>January-March 1872</item> 
+				<item>1873-1876</item> 
+				<item>January-June 1877</item> 
+				<item>April-September 1878</item> 
+				<item>1879-1880</item> 
+				<item>July-September 1883</item> 
+				<item>Fragment for January-February 1887</item> 
+			 </list> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">52</container> <container
+			 type="folder">4</container> 
+			 <unittitle>Treasurer: Monthly statement of monies received. 
+				<unitdate type="inclusive"
+				 normal="1866/1872">1866-1872</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Includes statements from:</p> 
+			 <list> 
+				<item>January-April 1866</item> 
+				<item>January-November 1867</item> 
+				<item>January-December 1869</item> 
+				<item>January-December 1870</item> 
+				<item>January-February, April, June-July 1871</item> 
+				<item>April 1872</item> 
+			 </list> 
+		  </scopecontent> 
+		</c02> 
+		<c02 level="file"> 
+		  <did> <container type="box">52</container> <container
+			 type="folder">5</container> 
+			 <unittitle>Treasurer: Quarterly statement of receipts into the
+				treasury. 
+				<unitdate type="inclusive"
+				 normal="1871/1876">1871-1876</unitdate></unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Includes statements from:</p> 
+			 <list> 
+				<item>1871</item> 
+				<item>1873</item> 
+				<item>January-June 1874</item> 
+				<item>1875</item> 
+				<item>1876</item> 
+				<item>Also July-September, no year given</item> 
+			 </list> 
+		  </scopecontent> 
+		</c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		<did> 
+		  <unittitle>Series X: Election Returns, 
+			 <unitdate type="inclusive"
+			  normal="1864/1902">1864-1902</unitdate></unittitle> 
+		</did> 
+		<c02 level="file"> 
+		  <did> <container type="box">53</container> 
+			 <unittitle>Election returns including poll lists, tally lists,
+				certificates of registration and other related material. 
+				<unitdate type="inclusive" normal="1902">1864, 1870, 1874, 1876,
+				  1878, 1880, 1890, 1902</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01> 
+  </dsc> 
+</archdesc></ead>

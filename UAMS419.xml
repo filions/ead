@@ -1,0 +1,2726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="template1_test.xsl" ?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<?filetitle Jance, Judith A. Papers?>
+<ead relatedencoding="MARC21">
+<eadheader relatedencoding="marc" langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" audience="internal" id="a0">
+<eadid countrycode="US" mainagencycode="AzU" publicid="-//University of Arizona Library Special 
+ Collections//text(US::AzU::Judith A. Jance Papers)//en">PUBLIC "-//University of Arizona Library Special 
+ Collections//text(US::AzU::Judith A. Jance Papers)//en" "UAMS419.xml"</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Judith A. Jance Papers
+<date>1927-2006 (bulk 1991-2005) </date></titleproper>
+<author>Inventory prepared by Lisa Duncan.</author>
+</titlestmt>
+<publicationstmt>
+<publisher>University of Arizona Libraries, Special
+Collections</publisher>
+<address>
+<addressline>PO Box 210055</addressline>
+<addressline>Tucson, AZ 85721-0055</addressline>
+<addressline>Phone: 520-621-6423</addressline>
+<addressline>Fax: 520-621-9733</addressline>
+<addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+</address>
+<date>&#x00A9; 2008</date>
+<p>Arizona Board of Regents. All Rights Reserved.</p>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Inventory encoded by Lisa Duncan, Kelly Battese, and Natalia
+Fernandez.
+<date>November 2008</date>
+</creation>
+<langusage>Inventory is in<language> English.</language></langusage>
+</profiledesc>
+<revisiondesc>
+<change>
+<date>January 22, 2009</date>
+<item>EAD v1.0 finding aid converted to EAD 2002 using UC Berkeley's eadv1to2002.pl perl script.</item>
+</change>
+</revisiondesc>
+</eadheader>
+<frontmatter>
+<titlepage>
+<titleproper>Judith A. Jance papers,
+<date>1927-2006 (bulk 1991-2005)</date></titleproper>
+<num>Collection Number: MS 419</num>
+<publisher>University of Arizona Libraries, Special Collections</publisher>
+<list>
+<defitem>
+<label>Processed by:</label>
+<item>Lisa Duncan</item>
+</defitem>
+<defitem>
+<label>Date completed:</label>
+<item>
+<date>November 2008</date></item>
+</defitem>
+<defitem>
+<label>Encoded by:</label>
+<item>Lisa Duncan, Kelly Battese and Natalia Fernandez.</item>
+</defitem>
+</list>
+<p>
+<date>&#x00A9; 2008</date> Arizona Board of Regents. All rights reserved.</p>
+</titlepage>
+</frontmatter>
+<archdesc level="collection" type="inventory">
+<did id="a1">
+<head>Collection Summary</head>
+<unittitle encodinganalog="245" label="Collection Name:"> Judith A. Jance
+Papers
+<unitdate label="Dates:" type="inclusive">1927-2006</unitdate></unittitle>
+<unitid encodinganalog="099" label="Collection Number:MS 419" countrycode="us">MS 419</unitid>
+<origination label="Creator:">
+<persname>Judith A. Jance</persname>
+</origination>
+<abstract label="Abstract:">Papers, 1927-2006 (bulk 1991-2005). This
+collection is comprised of the papers of J.A. Jance. The bulk of the material
+relates to her prolific literary career. Items include correspondence;
+published and unpublished writings including manuscripts, articles, short
+stories, adaptations and speeches; printed materials including book covers,
+mystery magazines and newsletters and news clippings; correspondence;
+photographs; audiovisual material including audiotapes, videocassette tapes and
+computer files; and objects including plaques, a computer and promotional
+items.</abstract>
+<physdesc encodinganalog="300$a" label="Physical Description:">
+<extent>21.25 linear feet</extent>
+</physdesc>
+<repository label="Repository:">
+<corpname>University of Arizona Libraries, Special Collections</corpname>
+<address>
+<addressline>University of Arizona</addressline>
+<addressline>PO Box 210055</addressline>
+<addressline>Tucson, AZ 85721-0055</addressline>
+<addressline>Phone: 520-621-6423</addressline>
+<addressline>Fax: 520-621-9733</addressline>
+<addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+</address>
+</repository>
+<langmaterial label="Languages Represented">
+<language langcode="eng">English</language>
+</langmaterial>
+</did>
+<accessrestrict>
+<head>Restrictions</head>
+<p>None</p>
+</accessrestrict>
+<prefercite>
+<head>Credit Line</head>
+<p>Judith A. Jance papers (MS 419). Special Collections, University of Arizona Libraries.</p>
+</prefercite>
+<userestrict>
+<head>Copyright</head>
+<p>It is the responsibility of the user to obtain permission to publish
+from the owner of the copyright (the institution, the creator of the record,the
+author or his/her transferees, heirs, legates, or literary executors). The user
+agrees to indemnify and hold harmless the Arizona Board of Regents for
+theUniversity of Arizona, its officers, employees, and agents from and against
+allclaims made by any person asserting that he or she is an owner of
+copyright.</p>
+</userestrict>
+<bioghist encodinganalog="545" id="a2">
+<head>Biographical Note</head>
+<p>J.A. (Judith Ann) Jance was born in Watertown, South Dakota in 1944
+but grew up in Bisbee, Arizona. After graduating from Bisbee High School, Ms.
+Jance attended the University of Arizona and graduated in 1966 with a
+Bachelor's of Arts Degree in English and Secondary Education. In 1967 she
+married her first husband, a fellow graduate from the University of Arizona.
+She worked as an English teacher at Pueblo High School until 1968. She received
+a Master of Education in Library Science in 1970 and became a librarian in the
+Indian Oasis School District on the Tohono O'odham reservation. While living on
+the reservation where both she and her husband taught, Ms. Jance's husband
+received a ride home from a serial killer who eventually stalked the couple.
+Mr. Jance was able to help the police identify the suspect which led to his
+arrest.</p>
+<p>In 1980 Ms. Jance divorced her husband and moved to Seattle,
+Washington with her two children. There she sold life insurance before marrying
+her second husband in 1985. In 1982, Ms. Jance began writing her first true
+crime novel based on her experience with the serial murderer on the Tohono
+O'odham reservation which was never published. Ms. Jance then wrote her first
+mystery fiction novel which was published in 1985. After publishing her novel
+Ms. Jance turned to writing full time. J.A. Jance is a prolific author who has
+written mystery novels in several series including the J.P. Beaumont, Joanna
+Brady and Ali Reynolds series as well as several thrillers, a book of poetry
+based on her marriage to an alcoholic, and several books in a children's
+personal safety series.</p>
+</bioghist>
+<arrangement encodinganalog="351$a" id="a4">
+<head>Organization</head>
+<p>This collection is organized into 7 series. The Writings and
+Audiovisual series each contain three subseries.</p>
+<list>
+<item>Series 1: Biographical Files,
+<unitdate>1927-2006</unitdate></item>
+<item>Series 2: Correspondence,
+<unitdate>1973-2006</unitdate></item>
+<item>Series 3: Writings,
+<unitdate>1966-2005</unitdate></item>
+<item>Subseries 1: Manuscripts,
+<unitdate>1984-2005</unitdate></item>
+<item>Subseries 2: Articles and Short Stories,
+<unitdate>1984-2005</unitdate></item>
+<item>Subseries 3: Miscellaneous,
+<unitdate>1993-1996</unitdate></item>
+<item>Series 4: Printed Materials,
+<unitdate>1985-2005</unitdate></item>
+<item>Series 5: Photographs,
+<unitdate>1985-2005</unitdate></item>
+<item>Series 6: Audio Visual Materials,
+<unitdate>1986-2005</unitdate></item>
+<item>Subseries 1: Audiotapes,
+<unitdate>1987-2005</unitdate></item>
+<item>Subseries 2: Videotapes,
+<unitdate>1986-2005</unitdate></item>
+<item>Computer Files,
+<unitdate>1987-1997</unitdate></item>
+<item>Objects,
+<unitdate>1962-2001</unitdate></item>
+</list>
+</arrangement>
+<scopecontent encodinganalog="520" id="a3">
+<head>Scope and Content Note</head>
+<p>Papers, 1927-2006 (bulk 1991-2005). This collection consists of
+materials which document the literary career of mystery writer J.A. Jance. The
+bulk of the material is comprised of drafts of manuscripts, articles and short
+stories as well as printed materials including news clippings and various
+mystery newsletters and magazines. The collection also contains correspondence,
+photographs, audio visual materials and objects.</p>
+</scopecontent>
+<relatedmaterial>
+<relatedmaterial encodinganalog="544$1">
+<head>Related Material</head>
+<p></p>
+</relatedmaterial>
+</relatedmaterial>
+<controlaccess id="a12">
+<head>Access Terms</head>
+<list>
+<item>
+<persname encodinganalog="600">Jance, Judith A.-- Archives.</persname></item>
+</list>
+<list>
+<item>
+<subject encodinganalog="650">American fiction-- 20th century.</subject></item>
+</list>
+<list>
+<item>
+<subject encodinganalog="650">Authors, American-- 20th century--
+Archives.</subject></item>
+</list>
+<list>
+<item>
+<subject encodinganalog="650">American literature-- Southwestern States.</subject></item>
+</list>
+<list>
+<item>
+<subject encodinganalog="650">American literature--Northwestern States.</subject></item>
+</list>
+<list>
+<item>
+<geogname encodinganalog="651">Seattle (Wash.)-- Fiction.</geogname></item>
+</list>
+<list>
+<item>
+<geogname encodinganalog="651">Bisbee (Ariz.)--Fiction.</geogname></item>
+</list>
+</controlaccess>
+<dsc type="combined" id="a23">
+<head>Container List</head>
+<c01 level="series" id="ser1">
+<did>
+<unittitle>Biographical Files.
+<unitdate type="inclusive">1927-2006</unitdate></unittitle>
+</did>
+<scopecontent>
+<p> Arrangement: Alphabetical. This series contains biographical
+materials associated with J.A. Jance. It includes certificates, news clippings,
+receipt of an honorary degree and reports from high school assignments. </p>
+</scopecontent>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">1</container>
+<unittitle>Biographical Materiasl.
+<unitdate>nd, 1996-1999</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">2</container>
+<unittitle>Certificates.
+<unitdate>nd, 1969-2006</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">3</container>
+<unittitle>General.
+<unitdate>1927-2000</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">4</container>
+<unittitle>Honorary Degree.
+<unitdate>2000</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">5</container>
+<unittitle>Interview.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">6</container>
+<unittitle>Oregon Shakespeare Festival.
+<unitdate>2000-2005</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">7</container>
+<unittitle>School Assignments.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series" id="ser2">
+<did>
+<unittitle>Correspondence.
+<unitdate type="inclusive">1973-2006</unitdate></unittitle>
+</did>
+<scopecontent>
+<p> Arrangement: Alphabetical. This series contains letters from
+various editors, publishers and fans relating to J.A. Jance's literary works as
+well as letters arranging Ms. Jance's tours and events schedule. </p>
+</scopecontent>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">8</container>
+<unittitle>Editors and Publishers.
+<unitdate>1984-2005</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">9</container>
+<unittitle>Events and Appearances.
+<unitdate>1987-1990</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">10</container>
+<unittitle>Events and Appearances.
+<unitdate>1991</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">11</container>
+<unittitle>Events and Appearances.
+<unitdate>1992-1994</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">12-14</container>
+<unittitle>Events and Appearances.
+<unitdate>1995</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">15</container>
+<unittitle>Events and Appearances.
+<unitdate>1996</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">16</container>
+<unittitle>Events and Appearances.
+<unitdate>1997</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">17-18</container>
+<unittitle>Events and Appearances.
+<unitdate>1998</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">19</container>
+<unittitle>Events and Appearances.
+<unitdate>1999</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">1</container>
+<unittitle>Events and Appearances.
+<unitdate>2000</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">2</container>
+<unittitle>Events and Appearances.
+<unitdate>2001</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">3</container>
+<unittitle>Events and Appearances.
+<unitdate>2002</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">4</container>
+<unittitle>Events and Appearances.
+<unitdate>2003</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">5</container>
+<unittitle>Events and Appearances.
+<unitdate>2004</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">6</container>
+<unittitle>Events and Appearances.
+<unitdate>2005-2006</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">7</container>
+<unittitle>Fan Mail.
+<unitdate>nd, 1985-1991</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">8</container>
+<unittitle>Fan Mail.
+<unitdate>1992-1995</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">9</container>
+<unittitle>Fan Mail.
+<unitdate>1996-1997</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">10</container>
+<unittitle>Fan Mail.
+<unitdate>1998-1999</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">11</container>
+<unittitle>Fan Mail.
+<unitdate>2000-2001</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">12</container>
+<unittitle>Fan Mail.
+<unitdate>2002-2003</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">13</container>
+<unittitle>Fan Mail.
+<unitdate>2004-2006</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">14</container>
+<unittitle>General.
+<unitdate>nd, 1973-1996</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">15</container>
+<unittitle>General.
+<unitdate>1997-2001</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">16</container>
+<unittitle>General.
+<unitdate>2002-2005</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">17</container>
+<unittitle>Invitations.
+<unitdate>1986-1995</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">1</container>
+<unittitle>Invitations.
+<unitdate>1995-2000</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">2</container>
+<unittitle>Invitations.
+<unitdate>2001-2006</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">3</container>
+<unittitle>Thank You Letters.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">4</container>
+<unittitle>Thank You Letters.
+<unitdate>1988-1996</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">5</container>
+<unittitle>Thank You Letters.
+<unitdate>1997-1998</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">6</container>
+<unittitle>Thank You Letters.
+<unitdate>1999-2000</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">7</container>
+<unittitle>Thank You Letters.
+<unitdate>2001-2005</unitdate></unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series" id="ser3">
+<did>
+<unittitle>Writings
+<unitdate type="inclusive">1966-2005</unitdate></unittitle>
+</did>
+<scopecontent>
+<p> Arrangement: Alphabetical. This series contains the published and
+unpublished writings of J.A. Jance. The Writings series is divided into three
+subseries: </p>
+<p> Manuscripts (1984-2005) contains drafts of manuscripts. </p>
+<p> Articles and Short Stories (1966-2005) contains drafts of
+articles and short stories for magazines and anthologies as well as personal
+editorial responses to newspaper articles. </p>
+<p> Miscellaneous (1993-1996) contains film and radio adaptations of
+J.A. Jance's novels as well as a speech given by Jance. </p>
+</scopecontent>
+<c02 level="subseries">
+<did>
+<unittitle>Subseries: Manuscripts
+<unitdate type="inclusive">1984-2005</unitdate></unittitle>
+</did>
+<c03 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">8-9</container>
+<unittitle>
+<title actuate="onrequest">After the Fire</title>.
+<unitdate>2001</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">10-11</container>
+<unittitle>
+<title actuate="onrequest">Breach of Duty</title>.
+<unitdate>1999</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">12-15</container>
+<unittitle>
+<title actuate="onrequest">By Reason of Insanity</title>.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">3</container>
+<container type="folder">16-17</container>
+<unittitle>
+<title actuate="onrequest">By Reason of Insanity</title> - Synopsis Included.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">1</container>
+<unittitle>
+<title actuate="onrequest">By Reason of Insanity</title>- Synopsis Included.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">2-3</container>
+<unittitle>
+<title actuate="onrequest">Day of the Dead</title>.
+<unitdate>2004</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">4-6</container>
+<unittitle>
+<title actuate="onrequest">Dead to Rights</title>.
+<unitdate>1996</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">7-8</container>
+<unittitle>
+<title actuate="onrequest">Dead Wrong</title>.
+<unitdate>2005</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">9-10</container>
+<unittitle>
+<title actuate="onrequest">Desert Heat</title>.
+<unitdate>1993</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">4</container>
+<container type="folder">11-16</container>
+<unittitle>
+<title actuate="onrequest">Devil's Claw</title>.
+<unitdate>2000</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">1-3</container>
+<unittitle>
+<title actuate="onrequest">Edge of Evil</title>.
+<unitdate>2005</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">4-5</container>
+<unittitle>
+<title actuate="onrequest">Exit Wounds</title>.
+<unitdate>2003</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">6-7</container>
+<unittitle>
+<title actuate="onrequest">Failure to Appear</title>.
+<unitdate>1993</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">8-9</container>
+<unittitle>
+<title actuate="onrequest">Hour of the Hunter</title>.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">10-12</container>
+<unittitle>
+<title actuate="onrequest">Hour of the Hunter</title>.
+<unitdate>1991</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">5</container>
+<container type="folder">13-14</container>
+<unittitle>
+<title actuate="onrequest">Indecent Exposure</title>.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">1-3</container>
+<unittitle>
+<title actuate="onrequest">Indian Time</title>.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">4</container>
+<unittitle>
+<title actuate="onrequest">It's Not Your Fault</title>.
+<unitdate>1984</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">5</container>
+<unittitle>
+<title actuate="onrequest">Lest Ye Be Judged</title>.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">6-9</container>
+<unittitle>
+<title actuate="onrequest">Long Time Gone</title>.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">10-11</container>
+<unittitle>
+<title actuate="onrequest">Long Time Gone</title>.
+<unitdate>2005</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">12-13</container>
+<unittitle>
+<title actuate="onrequest">Lying in Wait</title>.
+<unitdate>1994</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">14-16</container>
+<unittitle>
+<title actuate="onrequest">Outlaw Mountain</title>.
+<unitdate>1999</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">6</container>
+<container type="folder">17-18</container>
+<unittitle>
+<title actuate="onrequest">Partner in Crime</title>.
+<unitdate>2001</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">7</container>
+<container type="folder">1-2</container>
+<unittitle>
+<title actuate="onrequest">Partner in Crime</title>.
+<unitdate>2002</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">7</container>
+<container type="folder">3-5</container>
+<unittitle>
+<title actuate="onrequest">Rattlesnake Crossing</title>.
+<unitdate>1998</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">7</container>
+<container type="folder">6-7</container>
+<unittitle>
+<title actuate="onrequest">Shoot/Don't Shoot</title>.
+<unitdate>1994</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">7</container>
+<container type="folder">8-9</container>
+<unittitle>
+<title actuate="onrequest">Skeleton Canyon</title>.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">7</container>
+<container type="folder">10-11</container>
+<unittitle>
+<title actuate="onrequest">Skeleton Canyon</title>.
+<unitdate>1997</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">7</container>
+<container type="folder">12-13</container>
+<unittitle>
+<title actuate="onrequest">Taking the Fifth</title>.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">7</container>
+<container type="folder">14-15</container>
+<unittitle>
+<title actuate="onrequest">Taking the Fifth</title>.
+<unitdate>1987</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">7</container>
+<container type="folder">16-17</container>
+<unittitle>
+<title actuate="onrequest">Tombstone Courage</title>.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">8</container>
+<container type="folder">1-7</container>
+<unittitle>
+<title actuate="onrequest">Tombstone Courage</title>.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">8</container>
+<container type="folder">8-10</container>
+<unittitle>
+<title actuate="onrequest">Tombstone Courage</title>.
+<unitdate>1994</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">8</container>
+<container type="folder">11-13</container>
+<unittitle>
+<title actuate="onrequest">Until Proven Guilty</title>.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">8</container>
+<container type="folder">14-16</container>
+<unittitle>
+<title actuate="onrequest">Walking Wounded</title>.
+<unitdate>2002</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">8</container>
+<container type="folder">17</container>
+<unittitle>
+<title actuate="onrequest">Welcome Home Stranger</title>.
+<unitdate>1985</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">1-2</container>
+<unittitle>
+<title actuate="onrequest">Without Due Process</title>.
+<unitdate>1993</unitdate></unittitle>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>Subseries: Articles and Short Stories
+<unitdate type="inclusive"> 1966-2005</unitdate></unittitle>
+</did>
+<c03 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">3</container>
+<unittitle>
+<title actuate="onrequest">The Case of the London Cabbie</title>.
+<unitdate>2005</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">4</container>
+<unittitle>
+<title actuate="onrequest">Crimes of the Heart</title>.
+<unitdate>1996</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">5</container>
+<unittitle>
+<title actuate="onrequest">The Duel</title>.
+<unitdate>1991</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">6</container>
+<unittitle>
+<title actuate="onrequest">Fathers and Daughters</title>.
+<unitdate>1999</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">7</container>
+<unittitle>
+<title actuate="onrequest">A Flash of Chrysanthemum</title>.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">8</container>
+<unittitle>
+<title actuate="onrequest">A Game of Cat and Mouse</title>.
+<unitdate>1972</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">9</container>
+<unittitle>
+<title actuate="onrequest">Gone, but Not Forgotten</title>.
+<unitdate>1995</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">10</container>
+<unittitle>
+<title actuate="onrequest">Greenway Librarian</title>- Editorial.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">11</container>
+<unittitle>
+<title actuate="onrequest">Highest, Best Use</title>.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">12</container>
+<unittitle>
+<title actuate="onrequest">How I Wrote Dead to Rights</title>.
+<unitdate>1996</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">13</container>
+<unittitle>
+<title actuate="onrequest">JA Jance: On Her Three Bisbees</title>.
+<unitdate>2000</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">14</container>
+<unittitle>
+<title actuate="onrequest">The Long Slide Home</title>.
+<unitdate>2004</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">15</container>
+<unittitle>
+<title actuate="onrequest">Mandy: "Free to a Good Home."</title>
+<unitdate>1992</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">16</container>
+<unittitle>
+<title actuate="onrequest">Naked Came the Phoenix</title>.
+<unitdate>2001</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">17</container>
+<unittitle>
+<title actuate="onrequest">On Writing Hour of the Hunter</title>.
+<unitdate>1992</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">18</container>
+<unittitle>
+<title actuate="onrequest">Periods of Partial Clearing</title>.
+<unitdate>1993</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">19</container>
+<unittitle>
+<title actuate="onrequest">Pima A Cooperative: The Dorm for Individuals</title>.
+<unitdate>1966</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">20</container>
+<unittitle>
+<title actuate="onrequest">Second Fiddle</title>.
+<unitdate>1995</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">21</container>
+<unittitle>
+<title actuate="onrequest">Skeleton Canyon Then and Now</title>.
+<unitdate>1997</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">22</container>
+<unittitle>Untitiled.
+<unitdate>1998</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">23</container>
+<unittitle>
+<title actuate="onrequest">The Who in Whodunits</title>.
+<unitdate>1998-1999</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">24</container>
+<unittitle>
+<title actuate="onrequest">Witness</title>.
+<unitdate>2004</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">25</container>
+<unittitle>
+<title actuate="onrequest">The Wrtiting Bug</title>.
+<unitdate>2004</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">26</container>
+<unittitle> <emph render="italic">You</emph>-Editorial.
+<unitdate>1987</unitdate></unittitle>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>Subseries: Miscellaneous
+<unitdate type="inclusive"> 1993-1996</unitdate></unittitle>
+</did>
+<c03 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">27</container>
+<unittitle>Adaptation-
+<title actuate="onrequest">Hour of the Hunter</title>.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">28</container>
+<unittitle>Adaptation-
+<title actuate="onrequest">Until Proven Guilty</title>.
+<unitdate>1996</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">9</container>
+<container type="folder">29</container>
+<unittitle>Speech- Storytelling: It's Not Just for Kids.
+<unitdate>1993</unitdate></unittitle>
+</did>
+</c03>
+</c02>
+</c01>
+<c01 level="series" id="ser4">
+<did>
+<unittitle>Printed Materials.
+<unitdate type="inclusive"> 1985-2005</unitdate></unittitle>
+</did>
+<scopecontent>
+<p> Arrangement: Alphabetical. This series contains printed materials
+including book covers for J.A. Jance's novels, programs for various mystery
+writers' events, mystery fiction magazines and newsletters and publicity
+materials including news clippings and event posters. </p>
+</scopecontent>
+<c02 level="file">
+<did>
+<container type="box"> 9 </container>
+<container type="folder"> 30 </container>
+<unittitle>Boucheron.
+<unitdate>1992-1994</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 9 </container>
+<container type="folder"> 31 </container>
+<unittitle>Book Cover Designs.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 9 </container>
+<container type="folder"> 32 </container>
+<unittitle>Book Covers-
+<title actuate="onrequest">Breach of Duty</title>.
+<unitdate>1999</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 9 </container>
+<container type="folder"> 33 </container>
+<unittitle>Book Covers-
+<title actuate="onrequest">Birds of Prey</title>.
+<unitdate>2002</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 9 </container>
+<container type="folder"> 34 </container>
+<unittitle>Book Covers-
+<title actuate="onrequest">Day of the Dead</title>.
+<unitdate>2005</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 9 </container>
+<container type="folder"> 35 </container>
+<unittitle>Book Covers-
+<title actuate="onrequest">Dead to Rights</title>.
+<unitdate>1997</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 9 </container>
+<container type="folder"> 36 </container>
+<unittitle>Book Covers-
+<title actuate="onrequest">Desert Heat</title>.
+<unitdate>1993-2002</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 9 </container>
+<container type="folder"> 37 </container>
+<unittitle>Book Covers-
+<title actuate="onrequest">Devil's Claw</title>.
+<unitdate>2001</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 9 </container>
+<container type="folder"> 38 </container>
+<unittitle>Book Covers-
+<title actuate="onrequest">Dismissed with Prejudice</title>.
+<unitdate>1989</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 9 </container>
+<container type="folder"> 39 </container>
+<unittitle>Book Covers-
+<title actuate="onrequest">Edge of Evil</title>.
+<unitdate>2006</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 9 </container>
+<container type="folder"> 40 </container>
+<unittitle>Book Covers-
+<title actuate="onrequest">Exit Wounds</title>.
+<unitdate>2004</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 9 </container>
+<container type="folder"> 41 </container>
+<unittitle>Book Covers-
+<title actuate="onrequest">Failure to Appear</title>.
+<unitdate>1989</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 9 </container>
+<container type="folder"> 42 </container>
+<unittitle>Book Covers-
+<title actuate="onrequest">Hour of the Hunter</title>.
+<unitdate>1990-2003</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 9 </container>
+<container type="folder"> 43 </container>
+<unittitle>Book Covers-
+<title actuate="onrequest">Improbable Cause</title>.
+<unitdate>1987-2003</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 9 </container>
+<container type="folder"> 44 </container>
+<unittitle>Book Covers-
+<title actuate="onrequest">Injustice for All</title>.
+<unitdate>1986</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 9 </container>
+<container type="folder"> 45 </container>
+<unittitle>Book Covers-
+<title actuate="onrequest">Kiss of the Bees</title>.
+<unitdate>2001</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 9 </container>
+<container type="folder"> 46 </container>
+<unittitle>Book Covers-
+<title actuate="onrequest">Long Time Gone</title>.
+<unitdate>2005</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 9 </container>
+<container type="folder"> 47 </container>
+<unittitle>Book Covers-
+<title actuate="onrequest">Lying in Wait</title>.
+<unitdate>2005</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 9 </container>
+<container type="folder"> 48 </container>
+<unittitle>Book Covers-
+<title actuate="onrequest">Minor in Possession</title>.
+<unitdate>1990</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 9 </container>
+<container type="folder"> 49 </container>
+<unittitle>Book Covers-
+<title actuate="onrequest">A More Perfect Union</title>.
+<unitdate>1988-2003</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 9 </container>
+<container type="folder"> 50 </container>
+<unittitle>Book Covers-
+<title actuate="onrequest">Mothers and Daughters</title>.
+<unitdate>1998</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 9 </container>
+<container type="folder"> 51 </container>
+<unittitle>Book Covers-
+<title actuate="onrequest">Name Withheld</title>.
+<unitdate>1997</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 9 </container>
+<container type="folder"> 52 </container>
+<unittitle>Book Covers-
+<title actuate="onrequest">Outlaw Mountain</title>.
+<unitdate>2000</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 9 </container>
+<container type="folder"> 53 </container>
+<unittitle>Book Covers-
+<title actuate="onrequest">Paradise Lost</title>.
+<unitdate>2002</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 9 </container>
+<container type="folder"> 54 </container>
+<unittitle>Book Covers-
+<title actuate="onrequest">Partners in Crime</title>.
+<unitdate>2002</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 9 </container>
+<container type="folder"> 55 </container>
+<unittitle>Book Covers-
+<title actuate="onrequest">Payment in Kind</title>.
+<unitdate>1991</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 9 </container>
+<container type="folder"> 56 </container>
+<unittitle>Book Covers-
+<title actuate="onrequest">Rattlesnake Crossing</title>.
+<unitdate>1999</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 9 </container>
+<container type="folder"> 57 </container>
+<unittitle>Book Covers-
+<title actuate="onrequest">Sentenced to Die</title>.
+<unitdate>2005</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 9 </container>
+<container type="folder"> 58 </container>
+<unittitle>Book Covers-
+<title actuate="onrequest">Skeleton Canyon</title>.
+<unitdate>1998</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 9 </container>
+<container type="folder"> 59 </container>
+<unittitle>Book Covers-
+<title actuate="onrequest">Taking the Fifth</title>.
+<unitdate>1987</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 9 </container>
+<container type="folder"> 60 </container>
+<unittitle>Book Covers-
+<title actuate="onrequest">Tombstone Courage</title>.
+<unitdate>1995-2003</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 9 </container>
+<container type="folder"> 61 </container>
+<unittitle>Book Covers-
+<title actuate="onrequest">Trial by Fury</title>.
+<unitdate>1986-2003</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 9 </container>
+<container type="folder"> 62 </container>
+<unittitle>Book Covers-
+<title actuate="onrequest">Shoot/Don't Shoot</title>.
+<unitdate>2003</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 9 </container>
+<container type="folder"> 63 </container>
+<unittitle>Book Covers-
+<title actuate="onrequest">Until Proven Guilty</title>.
+<unitdate>1985</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 9 </container>
+<container type="folder"> 64 </container>
+<unittitle>Book Covers-
+<title actuate="onrequest">Without Due Process</title>.
+<unitdate>1993</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 9 </container>
+<container type="folder"> 65 </container>
+<unittitle>Left Coast Crime.
+<unitdate>1991</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 9 </container>
+<container type="folder"> 66 </container>
+<unittitle>Magazines-
+<title actuate="onrequest">The Armchair Detective</title>.
+<unitdate>1993-1994</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 10 </container>
+<container type="folder"> 1 </container>
+<unittitle>Magazines-
+<title actuate="onrequest">The Armchair Detective</title>.
+<unitdate>1995</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 10 </container>
+<container type="folder"> 1 </container>
+<unittitle>Magazines-
+<title actuate="onrequest">The Armchair Detective</title>.
+<unitdate>1995</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 10 </container>
+<container type="folder"> 2 </container>
+<unittitle>Magazines-
+<title actuate="onrequest">The Armchair Detective</title>.
+<unitdate>1996</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 10 </container>
+<container type="folder"> 3 </container>
+<unittitle>Magazines-
+<title actuate="onrequest">Murderous Intent</title>.
+<unitdate>1995</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 10 </container>
+<container type="folder"> 4 </container>
+<unittitle>Magazines-
+<title actuate="onrequest">Mystery Readers Journal</title>.
+<unitdate>1994</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 10 </container>
+<container type="folder"> 5 </container>
+<unittitle>Magazines-
+<title actuate="onrequest">Mystery Scenes</title>.
+<unitdate>1992-1994</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 10 </container>
+<container type="folder"> 6 </container>
+<unittitle>Magazines-
+<title actuate="onrequest">Mystery Scene</title>.
+<unitdate>1996-1999</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 10 </container>
+<container type="folder"> 7 </container>
+<unittitle>Magazines-
+<title actuate="onrequest">New Mystery</title>.
+<unitdate>1994</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 10 </container>
+<container type="folder"> 8 </container>
+<unittitle>Magazines-
+<title actuate="onrequest">Over My Dead Body!</title>.
+<unitdate>1994</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 10 </container>
+<container type="folder"> 9 </container>
+<unittitle>Mystery Writers of America- Directory.
+<unitdate>1986-2005</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 10 </container>
+<container type="folder"> 10 </container>
+<unittitle>Newsletters-
+<title actuate="onrequest">Book Passage</title>.
+<unitdate>1999-2005</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 10 </container>
+<container type="folder"> 11 </container>
+<unittitle>Newsletters-
+<title actuate="onrequest">Book News from the Poisoned Pen</title>.
+<unitdate>1991-2001</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 10 </container>
+<container type="folder"> 12 </container>
+<unittitle>Newsletters-
+<title actuate="onrequest">Deadly Pleasures</title>.
+<unitdate>1994</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 10 </container>
+<container type="folder"> 13 </container>
+<unittitle>Newsletters-
+<title actuate="onrequest">The Dinsmore Patch</title>.
+<unitdate>1994</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 10 </container>
+<container type="folder"> 14 </container>
+<unittitle>Newsletters-
+<title actuate="onrequest">International Footprint Association Chapter 17
+News</title>.
+<unitdate>2001-2004</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 10 </container>
+<container type="folder"> 15 </container>
+<unittitle>Newsletters-
+<title actuate="onrequest">Mysterious Women</title>.
+<unitdate>1996-1999</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 10 </container>
+<container type="folder"> 16 </container>
+<unittitle>Newsletters-
+<title actuate="onrequest">Mystery Lovers Bookshop</title>.
+<unitdate>1994-2001</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 10 </container>
+<container type="folder"> 17 </container>
+<unittitle>Newsletters-
+<title actuate="onrequest">Mystery News</title>.
+<unitdate>1997</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 10 </container>
+<container type="folder"> 18 </container>
+<unittitle>Newsletters-
+<title actuate="onrequest">A Pocket Full of Crime</title>.
+<unitdate>1993</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 10 </container>
+<container type="folder"> 19 </container>
+<unittitle>Newsletters-
+<title actuate="onrequest">The Poison Pen</title>.
+<unitdate>1998-2005</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 10 </container>
+<container type="folder"> 20 </container>
+<unittitle>Newsletters-
+<title actuate="onrequest">Seattle Mystery Bookshop</title>.
+<unitdate>2001</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 10 </container>
+<container type="folder"> 21 </container>
+<unittitle>Newsletters-
+<title actuate="onrequest">Sisters in Crime</title>.
+<unitdate>1992-2005</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 10 </container>
+<container type="folder"> 22 </container>
+<unittitle>Newsletters-
+<title actuate="onrequest">The Third Degree</title>.
+<unitdate>1987-2005</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 10 </container>
+<container type="folder"> 23 </container>
+<unittitle>Posters.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 10 </container>
+<container type="folder"> 24 </container>
+<unittitle>Publicity- Avon Books.
+<unitdate>1996-1999</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 10 </container>
+<container type="folder"> 25 </container>
+<unittitle>Publicity- Avon Books.
+<unitdate>1999-2003</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 10 </container>
+<container type="folder"> 26 </container>
+<unittitle>Publicity- Newsclippings.
+<unitdate>nd, 1984-1993</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 10 </container>
+<container type="folder"> 27 </container>
+<unittitle>Publicity- Newsclippings.
+<unitdate>1994-1995</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 10 </container>
+<container type="folder"> 28 </container>
+<unittitle>Publicity- Newsclippings.
+<unitdate>1996</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 10 </container>
+<container type="folder"> 29 </container>
+<unittitle>Publicity- Newclippings.
+<unitdate>1997-1998</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 11 </container>
+<container type="folder"> 1 </container>
+<unittitle>Publicity- Newsclippings.
+<unitdate>1999-2000</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 11 </container>
+<container type="folder"> 2 </container>
+<unittitle>Publicity- Newsclippings.
+<unitdate>2001-2002</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 11 </container>
+<container type="folder"> 3 </container>
+<unittitle>Publicity- Newsclippings.
+<unitdate>2003-2005</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 11 </container>
+<container type="folder"> 4 </container>
+<unittitle>Publicity- Promotional Packets.
+<unitdate>1989-2004</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 11 </container>
+<container type="folder"> 5 </container>
+<unittitle>Publicity- Publisher's Weekly.
+<unitdate>1990</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 11 </container>
+<container type="folder"> 6 </container>
+<unittitle>Publicity- Severn House.
+<unitdate>1992</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 11 </container>
+<container type="folder"> 7 </container>
+<unittitle>Sisters in Crime- Books in Print.
+<unitdate>1995-1999</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 11 </container>
+<container type="folder"> 8 </container>
+<unittitle>Sisters in Crime- Books in Print.
+<unitdate>2001-2004</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box"> 11 </container>
+<container type="folder"> 9 </container>
+<unittitle>Sisters in Crime- Directory.
+<unitdate>1997-2005</unitdate></unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series" id="ser5">
+<did>
+<unittitle>Photographs
+<unitdate type="inclusive">1985-2004</unitdate></unittitle>
+</did>
+<scopecontent>
+<p> Arrangement: Alphabetical. This series contains photographs of
+J.A. Jance at various events. Also included are several personal photographs
+(mostly unidentified). </p>
+</scopecontent>
+<c02 level="file">
+<did>
+<container type="box">11</container>
+<container type="folder">10</container>
+<unittitle>General.
+<unitdate>nd, 1985</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">11</container>
+<container type="folder">11</container>
+<unittitle>Jance, Judith.
+<unitdate>nd, 1998-2004</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">11</container>
+<container type="folder">12</container>
+<unittitle>Jance, Judith - Book Signings.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c02>
+</c01>
+<c01 level="series" id="ser6">
+<did>
+<unittitle>Audiovisual Materials
+<unitdate type="inclusive">1986-2005</unitdate></unittitle>
+</did>
+<scopecontent>
+<p> Arrangement: Chronological. This series contains audiovisual
+materials pertaining to Ms. Jance's literary career. The Audiovisual Materials
+series is divided into three subseries:</p>
+<p>Audiotapes (1987-2005) contains audiocassette tapes and compact
+disks. Included are various interviews and speaking events. Some materials are
+in Dutch.</p>
+<p>Videotapes (1986-2005) contains VHS tapes of various interviews
+and speaking events.</p>
+<p>Computer Files (1987-1997) contains floppy disks (3 1/2 and 5 1/2
+inch disks) of computer programs mostly for Ms. Jance's 1983 Eagle computer as
+well as drafts of manuscripts. </p>
+</scopecontent>
+<c02 level="subseries">
+<did>
+<unittitle>Subseries: Audiotapes
+<unitdate type="inclusive"> 1987-2005</unitdate></unittitle>
+</did>
+<scopecontent>
+<p> Audiocassette Tapes </p>
+</scopecontent>
+<c03 level="file">
+<did>
+<container type="box"> 12 </container>
+<container type="folder"> 1 </container>
+<unittitle>Helen Pollack Ramp Dedication.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 12 </container>
+<container type="folder"> 2-8 </container>
+<unittitle>J.A. Jance Seminar Tapes (7).
+<unitdate>1987</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 12 </container>
+<container type="folder"> 9 </container>
+<unittitle>J.A. Jance Interview- Dick Curtis Show- KVI- 2/4/88.
+<unitdate>1988</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 12 </container>
+<container type="folder"> 10 </container>
+<unittitle>Third Thursday Reading Series 2-21-91.
+<unitdate>1991</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 12 </container>
+<container type="folder"> 11 </container>
+<unittitle>Radioprogramma Passages Passanyen, Uitgezoden 27 April
+1993, Deel 4 van de serie over Female Crime Writers, Vandaag: een interview van
+Ineke van den Bergen met de Amerikaanse schrijfster J.A. Jance.
+<unitdate>1993</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 12 </container>
+<container type="folder"> 12 </container>
+<unittitle>Avon Books,
+<title actuate="onrequest">Dead to Rights</title> R:30, Bennette Book Adv. 5/22/96.
+<unitdate>1996</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 12 </container>
+<container type="folder"> 13 </container>
+<unittitle>Writer or Promoter? J.A. Jance, Emerald City Writers'
+Conference, October 11-12, 1997.
+<unitdate>1997</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 12 </container>
+<container type="folder"> 14 </container>
+<unittitle>Connie Swanson.
+<unitdate>1997</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 12 </container>
+<container type="folder"> 15 </container>
+<unittitle>
+<title actuate="onrequest">Rattlesnake Crossing</title>, J.A. Jance.
+<unitdate>1998</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 12 </container>
+<container type="folder"> 16 </container>
+<unittitle>50 Years/ J.A. Jance 11/98.
+<unitdate>1998</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 12 </container>
+<container type="folder"> 17 </container>
+<unittitle>J.A. Jance King 98/FM Radio Spot, 11/98.
+<unitdate>1998</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 12 </container>
+<container type="folder"> 18 </container>
+<unittitle>J.A. Jance/YWCA Benefit 1/99.
+<unitdate>1999</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 12 </container>
+<container type="folder"> 19 </container>
+<unittitle>J.A. Jance KWCD 92.3 April 12, 1999.
+<unitdate>1999</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 12 </container>
+<container type="folder"> 20 </container>
+<unittitle>J.A. Jance, Mornings with Kelly, September 15, 1999.
+<unitdate>1999</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 12 </container>
+<container type="folder"> 21 </container>
+<unittitle>J.A. Jance April 12, 1999.
+<unitdate>1999</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 12 </container>
+<container type="folder"> 22 </container>
+<unittitle>J.A. Jance on JPR 9-12-00.
+<unitdate>2000</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 12 </container>
+<container type="folder"> 23 </container>
+<unittitle>Harper Collins Radio
+<title actuate="onrequest">Kiss of the Bees</title>: 30, 12/13/00.
+<unitdate>2000</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 12 </container>
+<container type="folder"> 24 </container>
+<unittitle>Break Out the Muscle: High Octane Thrillers, Los
+Angeles Time Festival of Books.
+<unitdate>2001</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 12 </container>
+<container type="folder"> 25 </container>
+<unittitle>Harper Collins Radio
+<title actuate="onrequest">Devil's Claw</title>: 30, 6/20/01.
+<unitdate>2001</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 12 </container>
+<container type="folder"> 26 </container>
+<unittitle>01...Keynote Speaker: J.A. Jance.
+<unitdate>2002</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 12 </container>
+<container type="folder"> 27 </container>
+<unittitle>OB...On Getting Over the Mountain to Yon- J.A. Jance
+(2).
+<unitdate>2002</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 12 </container>
+<container type="folder"> 28-29 </container>
+<unittitle>J.A. Jance, Mornings with Kelly, September 15, 1999.
+<unitdate>2004</unitdate></unittitle>
+</did>
+<scopecontent>
+<p> Compact Disks </p>
+</scopecontent>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 12 </container>
+<container type="folder"> 30 </container>
+<unittitle>KJZZ Growing Up in Bisbee, J.A. Jance Arizona Week
+Feb. 11, 2002, 5:30 AM and 7:30 AM.
+<unitdate>2002</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 12 </container>
+<container type="folder"> 31-32 </container>
+<unittitle>Jolt AM 1330 J.A. Jance Tucson Today (2).
+<unitdate>2004</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 12 </container>
+<container type="folder"> 33 </container>
+<unittitle>Book Talk WYPL Memphis Sept 04 J.A. Jance
+<title actuate="onrequest">Day of the Dead</title>.
+<unitdate>2004</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 12 </container>
+<container type="folder"> 34 </container>
+<unittitle>Let's Talk Books, Episode 1, 5/19/05.
+<unitdate>2005</unitdate></unittitle>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>Subseries: Videotapes
+<unitdate type="inclusive"> 1986-2005</unitdate></unittitle>
+</did>
+<c03 level="file">
+<did>
+<container type="box"> 13 </container>
+<container type="folder"> 1 </container>
+<unittitle>Good Company January 23.
+<unitdate>1986</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 13 </container>
+<container type="folder"> 2 </container>
+<unittitle>Interview at Doghouse, June 17, 1987.
+<unitdate>1987</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 13 </container>
+<container type="folder"> 3 </container>
+<unittitle>JA Jance AM Northwest KATU July 31, 1987.
+<unitdate>1987</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 13 </container>
+<container type="folder"> 4 </container>
+<unittitle>JA Jance (Author) at Juanita High School October 27,
+1988.
+<unitdate>1988</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 13 </container>
+<container type="folder"> 5 </container>
+<unittitle>12-91 JAJ NW AFT.
+<unitdate>1991</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 13 </container>
+<container type="folder"> 6-7 </container>
+<unittitle>The Mystery Writer: J.A. Jance (2).
+<unitdate>1993</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 13 </container>
+<container type="folder"> 8 </container>
+<unittitle>J.A. Jance Interview Ch. 7 April 14, 1994.
+<unitdate>1994</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 13 </container>
+<container type="folder"> 9-12 </container>
+<unittitle>Hour Northwest May 11, 1994 (4).
+<unitdate>1994</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 13 </container>
+<container type="folder"> 13 </container>
+<unittitle>J.A. Jance 'CBS This Morning' 4/3/95.
+<unitdate>1995</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 13 </container>
+<container type="folder"> 14 </container>
+<unittitle>Women in Communication, Inc. J.A. Jance.
+<unitdate>1996</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 13 </container>
+<container type="folder"> 15 </container>
+<unittitle>Book Talk August '97: Scottsdale Public Library Book
+Talk.
+<unitdate>1997</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 13 </container>
+<container type="folder"> 16 </container>
+<unittitle>The Criminal Calendar Carolyn Wheat/J.A. Jance:
+Poisoned Pen and Scottsdale Public Library Presentation of the Criminal
+Calendar.
+<unitdate>2000</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 13 </container>
+<container type="folder"> 17 </container>
+<unittitle>Northwest Week Mondays and Fridays @ 7 PM on KBTC/PBS
+Guests: J.A. Jance 04/2001.
+<unitdate>2001</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 13 </container>
+<container type="folder"> 18 </container>
+<unittitle>J.A. Jance Arizona Illustrated KUAT (Ch. 6) 6:30 PM
+Airdate: 08/29/01.
+<unitdate>2001</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 13 </container>
+<container type="folder"> 19 </container>
+<unittitle>JA Jance Tribute to Girl Scout Leaders LaVerne
+Williams and Rose Bennett.
+<unitdate>2002</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 13 </container>
+<container type="folder"> 20 </container>
+<unittitle>Partner in Crime Clips: AM Northwest, Northern
+Kentucky Magazine ICN6, WDTN 12 PM News, Ohio, August 14, 2002.
+<unitdate>2002</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 13 </container>
+<container type="folder"> 21-22 </container>
+<unittitle>J.A. Jance KOLO-TV October 25, 2002. (2)
+<unitdate>2002</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 13 </container>
+<container type="folder"> 23 </container>
+<unittitle>Authors visiting Des Moines: J.A. Jance.
+<unitdate>2003</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 13 </container>
+<container type="folder"> 24 </container>
+<unittitle>Connie Martinson Talks Books J.A. Jance Exit Wounds.
+<unitdate>2003</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 13 </container>
+<container type="folder"> 25 </container>
+<unittitle>Judy's Speech.
+<unitdate>2003</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 13 </container>
+<container type="folder"> 26 </container>
+<unittitle>Between the Lines- Channel 8 Paradise Lost J.A. Jance
+08/23/01.
+<unitdate>2001</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 13 </container>
+<container type="folder"> 27 </container>
+<unittitle>Northwest Afternoon KOMO-TV ABC 4 Bestselling Author
+J.A. Jance 9/10/2003.
+<unitdate>2003</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 13 </container>
+<container type="folder"> 28-31 </container>
+<unittitle>J.A. Jance Interview Northwest Afternoon, 9/10/03. (4)
+<unitdate>2003</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box"> 13 </container>
+<container type="folder"> 32 </container>
+<unittitle>Writers Out Loud Oklahoma State University- Tulsa.
+<unitdate>2005</unitdate></unittitle>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unittitle>Subseries: Computer Files,
+<unitdate type="inclusive">1987-1997</unitdate></unittitle>
+</did>
+<c03 level="file">
+<did>
+<container type="box">14</container>
+<container type="folder">1</container>
+<unittitle>Applications- Cover Com.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">14</container>
+<container type="folder">2</container>
+<unittitle>Applications- CPM.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">14</container>
+<container type="folder">3</container>
+<unittitle>Applications- Data Disk Backup.
+<unitdate>1997</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">14</container>
+<container type="folder">4</container>
+<unittitle>Applications- DOS.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">14</container>
+<container type="folder">5</container>
+<unittitle>Applications- Eaglecalc.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">14</container>
+<container type="folder">6</container>
+<unittitle>Applications- Spellbinder.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">14</container>
+<container type="folder">7</container>
+<unittitle>Applications- Spellbinder Manual.
+<unitdate>1985</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">14</container>
+<container type="folder">8</container>
+<unittitle>Applications- System Disk.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">14</container>
+<container type="folder">9</container>
+<unittitle>Applications- The Word (Word Count).
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">14</container>
+<container type="folder">10</container>
+<unittitle>Applications- Word Processing Backup.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">14</container>
+<container type="folder">11</container>
+<unittitle>Applications- Word Star.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">14</container>
+<container type="folder">12</container>
+<unittitle>Applications- Wordperfect 4.2.
+<unitdate>nd, 1987</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">14</container>
+<container type="folder">13</container>
+<unittitle>Applications- WP.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">14</container>
+<container type="folder">14</container>
+<unittitle>Miscellaneous- ASGTAMI.
+<unitdate>1997</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">14</container>
+<container type="folder">15</container>
+<unittitle>Miscellaneous- Childrens.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">14</container>
+<container type="folder">16</container>
+<unittitle>Miscellaneous- David P.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">14</container>
+<container type="folder">17</container>
+<unittitle>Miscellaneous- Unidentified.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">14</container>
+<container type="folder">18</container>
+<unittitle>Writings- ABOW.
+<unitdate>1997</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">14</container>
+<container type="folder">19</container>
+<unittitle>Writings- CA.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">14</container>
+<container type="folder">20</container>
+<unittitle>Writings- DDI.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">14</container>
+<container type="folder">21</container>
+<unittitle>Writings- HOTH (
+<title actuate="onrequest">Hour of the Hunter</title>).
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">14</container>
+<container type="folder">22</container>
+<unittitle>Writings- HOTH (
+<title actuate="onrequest">Hour of the Hunter</title>).
+<unitdate>nd, 1997</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">14</container>
+<container type="folder">23</container>
+<unittitle>Writings- IC (
+<title actuate="onrequest">Improbably Cause</title>).
+<unitdate>nd, 1997</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">14</container>
+<container type="folder">24</container>
+<unittitle>Writings- IFA (
+<title actuate="onrequest">Injustice for All</title>).
+<unitdate>nd, 1997</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">14</container>
+<container type="folder">25</container>
+<unittitle>Writings- PIK (
+<title actuate="onrequest">Payment in Kind</title>).
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">14</container>
+<container type="folder">26</container>
+<unittitle>Writings- Poems.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">14</container>
+<container type="folder">27</container>
+<unittitle>Writings- TBF (
+<title actuate="onrequest">Trial by Fury</title>).
+<unitdate>nd, 1997</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">14</container>
+<container type="folder">28</container>
+<unittitle>Writings- TTF (
+<title actuate="onrequest">Taking the Fifth</title>).
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">14</container>
+<container type="folder">29</container>
+<unittitle>Writings- UI.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box">14</container>
+<container type="folder">30</container>
+<unittitle>Writings- UPG (
+<title actuate="onrequest">Until Proven Guilty</title>).
+<unitdate>nd, 1997</unitdate></unittitle>
+</did>
+</c03>
+</c02>
+</c01>
+<c01 level="series" id="ser7">
+<did>
+<unittitle>Objects,
+<unitdate type="inclusive">1962-2001</unitdate></unittitle>
+</did>
+<scopecontent>
+<p>Arrangement: Alphabetical. This series contains plaques and other
+objects relating to the promotion of Ms. Jance's literary works. Also included
+is Ms. Jance's original computer used to write her first novels.</p>
+</scopecontent>
+<c02 level="file">
+<did>
+<container type="box">15</container>
+<container type="folder">1</container>
+<unittitle>Buttons; "Save the Doghouse."
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">15</container>
+<container type="folder">2</container>
+<unittitle>Buttons; Sheriff Joanna Brady.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">15</container>
+<container type="folder">3</container>
+<unittitle>Medals; American Legion.
+<unitdate>1962</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">15</container>
+<container type="folder">4</container>
+<unittitle>Miscellaneous; Cup-Starbucks coffee with Jance
+quotation.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">15</container>
+<container type="folder">5</container>
+<unittitle>Miscellaneous; Snow globe-
+<title actuate="onrequest">Birds of Prey</title>.
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">15</container>
+<container type="folder">6</container>
+<unittitle>Miscellaneous- Stencil-
+<title actuate="onrequest">Exit Wounds.</title>
+<unitdate>nd</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">15</container>
+<container type="folder">7</container>
+<unittitle>Plaques; American Mystery Award.
+<unitdate>1992</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">15</container>
+<container type="folder">8</container>
+<unittitle>Plaques; Friends of the Scottsdale Public Library, Inc.
+<unitdate>1999</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">15</container>
+<container type="folder">9</container>
+<unittitle>Plaques; University of Arizona.
+<unitdate>2000</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">15</container>
+<container type="folder">10</container>
+<unittitle>Plaques; Volkssporting Community.
+<unitdate>2001</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box">15</container>
+<container type="folder">11</container>
+<unittitle>Plaques; Women in Communication, Inc.
+<unitdate>1996</unitdate></unittitle>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="othertype"></container>
+<unittitle>Computer; Dual Floppy Eagle.
+<unitdate>1983</unitdate></unittitle>
+</did>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

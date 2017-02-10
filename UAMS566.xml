@@ -1,0 +1,4894 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
+<ead relatedencoding="MARC21"> 
+   <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0"> 
+      <eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special Collections//text
+		(US::AzU::UA Presents Records)//en""UAMS566.xml"
+      </eadid> 
+      <filedesc> 
+         <titlestmt> 
+            <titleproper encodinganalog="title">UA Presents Records
+	 	       <date normal="1991/2011" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">1991 - 2011</date>
+	 	       
+	 	    </titleproper>
+	 	    <titleproper type="filing" altrender="nodisplay"> UA Presents Records
+	 	    
+            </titleproper>
+	        <author>Processed by Randi Johnson.</author> 
+	     </titlestmt> 
+	     <publicationstmt> 
+	 	    <publisher>University of Arizona Libraries, Special Collections</publisher> 
+		    <address> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+		    </address> 
+		    <date normal= "2016" era= "ce" calendar = "gregorian">; 2016</date> 
+            <p>Arizona Board of Regents. All Rights Reserved.</p> 
+         </publicationstmt> 
+      </filedesc> 
+      <profiledesc> 
+         <creation>Inventory encoded in Oxygen XML editor by Randi Johnson. 
+            <date era="ce" encodinganalog="date" normal="20160316">March 16, 2016</date>
+  	     </creation>
+	     <langusage>Finding aid encoded in<language> English.</language></langusage>
+  	     <descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
+      </profiledesc> 
+   </eadheader> 
+
+   <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+      <did id="a1"> 
+         <head>Collection Summary</head> 
+  	     <unittitle encodinganalog="245" label="Collection Name:"> UA Presents Records
+            <unitdate type="inclusive" label="Dates:" normal="1991/2011">1991 - 2011</unitdate>
+  	     </unittitle>	 
+	     <unitid label="Collection Number:" encodinganalog="099" repositorycode="AzU" countrycode="us">MS 566</unitid>
+	     <origination label="Creator:"> 
+            <corpname source="lcnaf" encodinganalog="110">UA Presents</corpname> </origination> 
+      	<abstract label="Abstract:">The UA Presents Records contains materials related to the performing arts series seasons at the University of Arizona, spanning the years of 1991 to 2011.</abstract> 
+  	     <physdesc encodinganalog="300$a" label="Physical Description:"><extent>10 linear feet</extent></physdesc>	 
+	     <repository label="Repository:"> 
+            <corpname>University of Arizona Libraries, Special Collections</corpname> 
+            <address> 
+               <addressline>University of Arizona</addressline> 
+		       <addressline>PO Box 210055</addressline> 
+		       <addressline>Tucson, AZ 85721-0055</addressline> 
+		       <addressline>Phone: 520-621-6423</addressline> 
+		       <addressline>Fax: 520-621-9733</addressline> 
+		       <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+		       <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+            </address>
+         </repository>
+         <langmaterial>Materials are in <language encodinganalog="546" langcode="eng" scriptcode="Latin">English.</language></langmaterial>
+   	       
+      </did> 
+      <accessrestrict> 
+         <head>Restrictions</head> 
+      	<p>There are no restrictions on this collection.</p> 
+      </accessrestrict> 
+      <userestrict> 
+         <head>Copyright</head> 
+	     <p>It is the responsibility of the user to obtain permission to publish
+	        from the owner of the copyright (the institution, the creator of the record,
+		    the author or his/her transferees, heirs, legates, or literary executors). The
+		    user agrees to indemnify and hold harmless the Arizona Board of Regents for the
+		    University of Arizona, its officers, employees, and agents from and against all
+		    claims made by any person asserting that he or she is an owner of
+		    copyright.
+	     </p> 
+      </userestrict> 
+      <prefercite> 
+         <head>Credit Line</head> 
+  	     <p>UA Presents Records (MS 566). Special Collections, University of Arizona Libraries.</p>
+      </prefercite> 
+      <processinfo>
+         <head>Processing History</head>
+         <p>Processed by Randi Johnson.</p>
+      </processinfo>
+      <bioghist id="a2" encodinganalog="545"> 
+         <head>Biographical Note</head> 
+      	<p>Originally known as the Office of Cultural Affairs until 1995, UA Presents is the official performing arts presenter of the University of Arizona, that brings art and cultural events to Centennial Hall on campus. Throughout its existence, the series put on has included performances in theatre, dance, spoken word, classical, jazz and world music.</p> 
+      </bioghist> 
+      <arrangement id="a4" encodinganalog="351$a"> 
+         <head>Arrangement</head> 
+  	     <p>This collection is organized into 3 series</p>	 
+         <list>
+         	<item>Series I: UA Presents Series Seasons Materials,
+         		<unitdate>1995 - 2011</unitdate></item>
+         	<item>Series II:UA Presents Organization Materials,
+         		<unitdate>1991 - 2009</unitdate></item>
+         	<item>Series III: Miscellaneous Artist and Theater Materials,
+         		<unitdate>2000 - 2002</unitdate></item>
+         </list>
+      </arrangement> 
+      <scopecontent id="a3" encodinganalog="520"> 
+         <head>Scope and Content Note</head> 
+      	<p>The collection contains materials including programs, marketing information, flyers, and published articles on the organization itself, on its former director Ken Foster, on the series of events UA Presents has put on, as well as various artist and theater marketing materials.</p> 
+      </scopecontent> 
+      <controlaccess>
+         <head>Access Terms</head>
+         <list type="simple"> 
+            <item>
+               <persname encodinganalog="700" source= "lcnaf">Foster, Ken.</persname>
+  		    </item>
+  		    <item>
+  			   <corpname encodinganalog="610" source= "lcnaf">University of Arizona.</corpname>
+  		    </item>
+  		    <item>
+  			   <subject encodinganalog="650" source= "lcsh">Performing Arts.</subject>
+  		    </item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Theater.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Musicals.</subject>
+         	</item>
+         	<item>
+         		<subject encodinganalog="650" source= "lcsh">Plays.</subject>
+         	</item>
+  		    <item>
+  		    	<geogname encodinganalog="651" source="lcsh">Tucson – Arizona.</geogname>
+  		    </item>
+         </list>
+      </controlaccess>
+  
+      <dsc type="combined" id="a23"> 
+         <head>Container List</head> 
+         <c01 level="series" id="ser1"> 
+            <did> 
+            	<unitid>Series I</unitid>
+            	<unittitle>UA Presents Series Seasons Materials,</unittitle> 
+            	<unitdate type="inclusive">1995 - 2011</unitdate>
+		    </did>
+         	<scopecontent><p>Arranged chronologically, this series contains the programs, marketing materials, flyers, and published articles on UA Present's shows of past seasons from 1995 – 2011.</p></scopecontent>
+		    <c02 level="file"> 
+               <did> 
+			      <container type="box">1</container> 
+			      <container type="folder">1</container> 
+               	<unittitle>Angels in America,</unittitle>
+               	<unitdate>September 2, 1995 – September 24, 1995</unitdate>
+		       </did> 
+		    </c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">2</container> 
+         			<unittitle>Ballet Folkorico Nacional de Chile,</unittitle>
+         			<unitdate>October 10, 1995</unitdate>
+         		</did> 
+         	</c02>  
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">3</container> 
+         			<unittitle>Wynton Marsalis and the Lincoln Center Jazz Orchestra,</unittitle>
+         			<unitdate>September 30, 1995</unitdate>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">4</container> 
+         			<unittitle>Paco de Lucia,</unittitle>
+         			<unitdate>October 19, 1995</unitdate>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">5</container> 
+         			<unittitle>Cats,</unittitle>
+         			<unitdate>October 20, 1995 – October 22, 1995</unitdate>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">6</container> 
+         			<unittitle>Penn and Teller,</unittitle>
+         			<unitdate>October 24, 1995</unitdate>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">7</container> 
+         			<unittitle>Chamber Orchestra Kremlin,</unittitle>
+         			<unitdate>October 25, 1995</unitdate>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">8</container> 
+         			<unittitle>BB King,</unittitle>
+         			<unitdate> October 31, 1995</unitdate>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">9</container> 
+         			<unittitle> Andreas Vollenweider and Friends,</unittitle>
+         			<unitdate>  November 1, 1995</unitdate>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">10</container> 
+         			<unittitle> Dance Theatre of Harlem,</unittitle>
+         			<unitdate>November 4, 1995</unitdate>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">11</container> 
+         			<unittitle>  Kroumata,</unittitle>
+         			<unitdate>November 8, 1995</unitdate>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">12</container> 
+         			<unittitle>  The Manhattan Transfer,</unittitle>
+         			<unitdate>November 13, 1995 </unitdate>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">13</container> 
+         			<unittitle>Mozarteum Orchestra of Salzbury,</unittitle>
+         			<unitdate> November 14, 1995  </unitdate>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">14</container> 
+         			<unittitle>Paul Winter's Solstice Journey,</unittitle>
+         			<unitdate>November 26, 1995 </unitdate>
+         		</did> 
+         	</c02> 
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">15</container> 
+         			<unittitle>Klezmar Conservatory Band,</unittitle>
+         			<unitdate> January 18, 1996</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">16</container> 
+         			<unittitle>Eiko and Koma in Wind,</unittitle>
+         			<unitdate>January 26, 1996 – January 27, 1996</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">17</container> 
+         			<unittitle>Lines Contemporary Ballet,</unittitle>
+         			<unitdate>January 31, 1996</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">18</container> 
+         			<unittitle>Broadway Swings,</unittitle>
+         			<unitdate> February 9, 1996 – February 11, 1996</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">19</container> 
+         			<unittitle>STOMP,</unittitle>
+         			<unitdate> February 13, 1996 – February 14, 1996</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">20</container> 
+         			<unittitle>Compaynie Marie Chouinard,</unittitle>
+         			<unitdate>February 23, 1996</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">21</container> 
+         			<unittitle> Slide Hampton and the Jazz Masters,</unittitle>
+         			<unitdate>February 25, 1996</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">22</container> 
+         			<unittitle> Urban Bush Women,</unittitle>
+         			<unitdate> March, 2, 1996</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">23</container> 
+         			<unittitle> Dancers and Musicians of Bali,</unittitle>
+         			<unitdate>March 7, 1996</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">24</container> 
+         			<unittitle> Marion McPartland's Piano Jazz,</unittitle>
+         			<unitdate>March 9, 1996</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">25</container> 
+         			<unittitle>Los Folkoristas,</unittitle>
+         			<unitdate>March 22, 1996</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">26</container> 
+         			<unittitle>St. Louis Symphony Orchestra,</unittitle>
+         			<unitdate>March 25, 1996</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">27</container> 
+         			<unittitle> New York City Opera National Company "La Traviata",</unittitle>
+         			<unitdate>April 13, 1996</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">28</container> 
+         			<unittitle>Contraband,</unittitle>
+         			<unitdate>April 27, 1996</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">29</container> 
+         			<unittitle> Dance Brazil,</unittitle>
+         			<unitdate>May 4, 1996 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">30</container> 
+         			<unittitle> Ain't Misbehaving,</unittitle>
+         			<unitdate>May 10, 1996 – May 12, 1996</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">31</container> 
+         			<unittitle> Harry Belafonte,</unittitle>
+         			<unitdate> September 16, 1996</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">32</container> 
+         			<unittitle> Twyla Tharp/Tharp Dance,</unittitle>
+         			<unitdate>October 2, 1996</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">33</container> 
+         			<unittitle> Olodum,</unittitle>
+         			<unitdate>October 2, 1996</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">34</container> 
+         			<unittitle> Voices of Light,</unittitle>
+         			<unitdate> October 7, 1996</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">35</container> 
+         			<unittitle> Ballet Folkorico Quetzalli de Veracruz,</unittitle>
+         			<unitdate>October 26, 1996 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">36</container> 
+         			<unittitle> St. Paul Chamber Orchestra,</unittitle>
+         			<unitdate>October 30, 1996 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">37</container> 
+         			<unittitle> The Who's Tommy,</unittitle>
+         			<unitdate> November 1, 1996 – November 13, 1996</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">38</container> 
+         			<unittitle> The Guitar Power Trio,</unittitle>
+         			<unitdate>November 7, 1996</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">39</container> 
+         			<unittitle> Tibetan Song and Dance Ensemble,</unittitle>
+         			<unitdate>November 9, 1996</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">40</container> 
+         			<unittitle> David Rousseve/Reality,</unittitle>
+         			<unitdate> November 21, 1996</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">41</container> 
+         			<unittitle> Steve Reich and Musicians,</unittitle>
+         			<unitdate>November 22, 1996</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">42</container> 
+         			<unittitle> Canadian Brass Holiday Celebration,</unittitle>
+         			<unitdate>November 30, 1996 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">43</container> 
+         			<unittitle> Sweet Honey in the Rock,</unittitle>
+         			<unitdate>December 11, 1996 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">44</container> 
+         			<unittitle> Fiesta Navidad,</unittitle>
+         			<unitdate>December 14, 1996</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">45</container> 
+         			<unittitle> Lorie Line and Her Pop Chamber Orchestra,</unittitle>
+         			<unitdate>December 20, 1996</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">46</container> 
+         			<unittitle>Verve Jazz Fest,</unittitle>
+         			<unitdate>January 11, 1997  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">47</container> 
+         			<unittitle>Warsaw Philharmonic Orchestra,</unittitle>
+         			<unitdate>January 21, 1997  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">48</container> 
+         			<unittitle>Sacred Music, Sacred Dance,</unittitle>
+         			<unitdate>January 24, 1997  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">49</container> 
+         			<unittitle>Sukay,</unittitle>
+         			<unitdate>January 25, 1997 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">50</container> 
+         			<unittitle>STOMP,</unittitle>
+         			<unitdate>January 28, 1997 – January 29, 1997</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">51</container> 
+         			<unittitle>Liz Lerman Dance Exchange,</unittitle>
+         			<unitdate>February, 1, 1997  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">52</container> 
+         			<unittitle>Samulnori,</unittitle>
+         			<unitdate>February 7, 1997 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">53</container> 
+         			<unittitle>The Gospel at Columbus,</unittitle>
+         			<unitdate>February 14, 1997 – February 16, 1997 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">54</container> 
+         			<unittitle>Drums Across Cultures,</unittitle>
+         			<unitdate>February 20, 1997  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">55</container> 
+         			<unittitle>Kronos Quartet,</unittitle>
+         			<unitdate>February 22, 1997 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">56</container> 
+         			<unittitle>The Joshua Redman Band,</unittitle>
+         			<unitdate>February 28, 1997 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">57</container> 
+         			<unittitle>Peking Acrobats,</unittitle>
+         			<unitdate>March, 12, 1997 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">58</container> 
+         			<unittitle>Alvin Ailey American Dance Theatre,</unittitle>
+         			<unitdate>March 6, 1997 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">59</container> 
+         			<unittitle>Yo-Yo Ma,</unittitle>
+         			<unitdate>March, 13, 1997 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">60</container> 
+         			<unittitle> Elizabeth Streb,</unittitle>
+         			<unitdate>March 26, 1997 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">61</container> 
+         			<unittitle> David Dorfman Dance,</unittitle>
+         			<unitdate>April 5, 1997</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">62</container> 
+         			<unittitle> String Trio of New York and the Bang on a Can All Star,</unittitle>
+         			<unitdate>April 9, 1997</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">63</container> 
+         			<unittitle> Kiss of the Spider Woman,</unittitle>
+         			<unitdate>April 11, 1997 – April 13, 1997</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">64</container> 
+         			<unittitle> New York City Opera National Company - La Boheme,</unittitle>
+         			<unitdate>April 18, 1997 – April 19, 1997 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">65</container> 
+         			<unittitle> Ballet Hispanico of New York,</unittitle>
+         			<unitdate>April 26, 1997 – April 27, 1997  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">66</container> 
+         			<unittitle> National Symphony Orchestra,</unittitle>
+         			<unitdate>May, 9, 1997 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">67</container> 
+         			<unittitle> Herbie Hancock and Wayne Shorter,</unittitle>
+         			<unitdate>September 26, 1997</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">68</container> 
+         			<unittitle> Ondekoza,</unittitle>
+         			<unitdate> September 30, 1997</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">69</container> 
+         			<unittitle> Tallin Chamber Orchestra,</unittitle>
+         			<unitdate> October 3, 1997  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">70</container> 
+         			<unittitle> Tango x2,</unittitle>
+         			<unitdate> October 11, 1997 – October 12, 1997</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">71</container> 
+         			<unittitle> Inti-Illimani,</unittitle>
+         			<unitdate> October 17, 1997 – October 18, 1997</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">72</container> 
+         			<unittitle> Philip Glass,</unittitle>
+         			<unitdate>October 21, 1997</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">73</container> 
+         			<unittitle> House of Blues,</unittitle>
+         			<unitdate>October 22, 1997</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">74</container> 
+         			<unittitle> Deutsches Symphony,</unittitle>
+         			<unitdate>November 7, 1997 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">75</container> 
+         			<unittitle>  John McLaughlin,</unittitle>
+         			<unitdate>November 8, 1997</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">76</container> 
+         			<unittitle>  Ani DiFranco,</unittitle>
+         			<unitdate>November 11, 1997</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">77</container> 
+         			<unittitle>  Ballet Arizona,</unittitle>
+         			<unitdate>November 14, 1997 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">78</container> 
+         			<unittitle>  STOMP,</unittitle>
+         			<unitdate>December 2, 1997 – December 3, 1997  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">79</container> 
+         			<unittitle>  Christmas Carol,</unittitle>
+         			<unitdate>December 7, 1997  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">80</container> 
+         			<unittitle>  Fiesta Navidad,</unittitle>
+         			<unitdate>December 14, 1997 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">81</container> 
+         			<unittitle> NYC Opera,</unittitle>
+         			<unitdate>January 21, 1998 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">82</container> 
+         			<unittitle> Tim Miller,</unittitle>
+         			<unitdate>January 24, 1998 – January 31, 1998</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">83</container> 
+         			<unittitle> Pilobolus,</unittitle>
+         			<unitdate>February 6, 1998 – February 7, 1998</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">84</container> 
+         			<unittitle> Coyote Consort,</unittitle>
+         			<unitdate>February 7, 1998</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">85</container> 
+         			<unittitle> Viva Arizona,</unittitle>
+         			<unitdate>February 18, 1998 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">86</container> 
+         			<unittitle> Andre Watts,</unittitle>
+         			<unitdate>February 20, 1998 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">87</container> 
+         			<unittitle> Peking Opera,</unittitle>
+         			<unitdate>February 27, 1998  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">88</container> 
+         			<unittitle> Stuart Pimsler Dance and Theatre,</unittitle>
+         			<unitdate>March 7, 1998 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">89</container> 
+         			<unittitle> Global Divas,</unittitle>
+         			<unitdate>March 12, 1998</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">90</container> 
+         			<unittitle> Cleo Laine,</unittitle>
+         			<unitdate>March, 13, 1998 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">91</container> 
+         			<unittitle> Peter, Paul, and Mary,</unittitle>
+         			<unitdate>March 21, 1998 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">92</container> 
+         			<unittitle> Mingus,</unittitle>
+         			<unitdate>March 27, 1998 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">93</container> 
+         			<unittitle> Amy Grant,</unittitle>
+         			<unitdate>March 29, 1998 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">94</container> 
+         			<unittitle> Spalding Gray,</unittitle>
+         			<unitdate>April 2, 1998 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">95</container> 
+         			<unittitle> Los Munequitos de Matanzas,</unittitle>
+         			<unitdate>April 5, 1998 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">96</container> 
+         			<unittitle> Bill T Jones,</unittitle>
+         			<unitdate>April 18, 1998  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">97</container> 
+         			<unittitle> Israel Camerata,</unittitle>
+         			<unitdate>April 19, 1998</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">98</container> 
+         			<unittitle> Bonnie Raitt,</unittitle>
+         			<unitdate>April 21, 1998 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">99</container> 
+         			<unittitle>  Paco Pena,</unittitle>
+         			<unitdate>April 23, 1998 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">100</container> 
+         			<unittitle>  Queen Ida and the Con Temps Zydeco Band,</unittitle>
+         			<unitdate>April 25, 1998 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">101</container> 
+         			<unittitle> Marsalis/Stravinsky,</unittitle>
+         			<unitdate>May 1, 1998 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">102</container> 
+         			<unittitle> Houston Ballet,</unittitle>
+         			<unitdate>May 7, 1998 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">103</container> 
+         			<unittitle> Suzy Bogguss,</unittitle>
+         			<unitdate>May 9, 1998 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">104</container> 
+         			<unittitle> State Fair,</unittitle>
+         			<unitdate>May 13, 1998 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">105</container> 
+         			<unittitle> Mark O'Connor,</unittitle>
+         			<unitdate>May 19, 1998</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">106</container> 
+         			<unittitle>  Le Ballet National du Senegal,</unittitle>
+         			<unitdate>October 1, 1998</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">107</container> 
+         			<unittitle> The Repugnant Story of Clotario Demoniax,</unittitle>
+         			<unitdate>October 2, 1998 – October 3, 1998 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">108</container> 
+         			<unittitle> Short Stories,</unittitle>
+         			<unitdate> October 3, 1998 – October 4, 1998 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">109</container> 
+         			<unittitle> Mark Morris Dance Group,</unittitle>
+         			<unitdate> October 6, 1998 – October 7, 1998 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">110</container> 
+         			<unittitle> James Galway,</unittitle>
+         			<unitdate> October 9, 1998    </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">111</container> 
+         			<unittitle> Anonymous 4,</unittitle>
+         			<unitdate>October 18, 1998 – October 19, 1998 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">112</container> 
+         			<unittitle> The Whirling Dervishes,</unittitle>
+         			<unitdate>October 21, 1998  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">113</container> 
+         			<unittitle>The King and I,</unittitle>
+         			<unitdate>October 23, 1998 – October 24, 1998  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">114</container> 
+         			<unittitle>Trio Voronezh,</unittitle>
+         			<unitdate>October 29, 1998 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">115</container> 
+         			<unittitle>Penn and Teller,</unittitle>
+         			<unitdate>November 4, 1998  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">116</container> 
+         			<unittitle>Marisa Monte,</unittitle>
+         			<unitdate>November 13, 1998  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">117</container> 
+         			<unittitle>Ballet Arizona,</unittitle>
+         			<unitdate>November 7, 1998 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">118</container> 
+         			<unittitle>Rent,</unittitle>
+         			<unitdate>November 17, 1998 - November 22, 1998 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">119</container> 
+         			<unittitle>Damn Yankees,</unittitle>
+         			<unitdate>November 21, 1998  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">120</container> 
+         			<unittitle>Fiesta Navidad,</unittitle>
+         			<unitdate>December 12, 1998  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">121</container> 
+         			<unittitle>San Jose Taiko,</unittitle>
+         			<unitdate>January 22, 1999  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">122</container> 
+         			<unittitle>Asian American Jazz Orchestra with San Jose Taiko,</unittitle>
+         			<unitdate>January 23, 1999  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">1</container> 
+         			<container type="folder">123</container> 
+         			<unittitle>Denyce Graves,</unittitle>
+         			<unitdate>January 27, 1999  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">1</container> 
+         			<unittitle>Kronos Quartet,</unittitle>
+         			<unitdate>January 28, 1999 – January 30, 1999 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">2</container> 
+         			<unittitle>Ballet Nacional de Cuba,</unittitle>
+         			<unitdate>February 3, 1999 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">3</container> 
+         			<unittitle>Meryl Tankard Australian Dance Theatre,</unittitle>
+         			<unitdate>February 9, 1999  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">4</container> 
+         			<unittitle>Orpheus Chamber Orchestra,</unittitle>
+         			<unitdate>February 12, 1999 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">5</container> 
+         			<unittitle>Fiddler on the Roof,</unittitle>
+         			<unitdate>February 13, 1999 – February 14, 1999 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">6</container> 
+         			<unittitle>Coyote Consort,</unittitle>
+         			<unitdate>February 23, 1999 – February 25, 1999 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">7</container> 
+         			<unittitle>The Rachel Rosenthal Company,</unittitle>
+         			<unitdate>February 24, 1999 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">8</container> 
+         			<unittitle>Philadanco,</unittitle>
+         			<unitdate>February 27, 1999 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">9</container> 
+         			<unittitle>Faddis, Hampton, and Heath,</unittitle>
+         			<unitdate>March 5, 1999</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">10</container> 
+         			<unittitle>Les Miserables,</unittitle>
+         			<unitdate>March 9, 1999 – March 14, 1999</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">11</container> 
+         			<unittitle>Lincoln Center Jazz Orchestra,</unittitle>
+         			<unitdate>March 23, 1999</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">12</container> 
+         			<unittitle>Monsters of Grace,</unittitle>
+         			<unitdate>March 25, 1999 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">13</container> 
+         			<unittitle>The Flying Karamazov Brothers,</unittitle>
+         			<unitdate>April 2, 1999 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">14</container> 
+         			<unittitle>The Margaret Jenkins Dance Company,</unittitle>
+         			<unitdate>April 10, 1999</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">15</container> 
+         			<unittitle>Mandy Patinkin,</unittitle>
+         			<unitdate>April 6, 1999 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">16</container> 
+         			<unittitle>Orquesta Sinfonica Nacional de Mexico,</unittitle>
+         			<unitdate> April 15, 1999 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">17</container> 
+         			<unittitle>Cirque Ingenieux,</unittitle>
+         			<unitdate> April 17, 1999 – April 18, 1999 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">18</container> 
+         			<unittitle>The Chieftains,</unittitle>
+         			<unitdate> April 28, 1999 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">19</container> 
+         			<unittitle>The Parsons Dance Company,</unittitle>
+         			<unitdate> April 30, 1999 – May 1, 1999</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">20</container> 
+         			<unittitle>Noise/Funk,</unittitle>
+         			<unitdate> May 4, 1999 – May 9, 1999 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">21</container> 
+         			<unittitle>Bobby McFerrin,</unittitle>
+         			<unitdate> September 17, 1999  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">22</container> 
+         			<unittitle>BIG,</unittitle>
+         			<unitdate> September 26, 1999 – September 27, 1999 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">23</container> 
+         			<unittitle>Itzhak Perlman,</unittitle>
+         			<unitdate> September 29, 1999 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">24</container> 
+         			<unittitle>Sankai Juku,</unittitle>
+         			<unitdate> October 9, 1999  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">25</container> 
+         			<unittitle>Chicago,</unittitle>
+         			<unitdate> October 13, 1999 – October 17, 1999 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">26</container> 
+         			<unittitle>Tap Dogs,</unittitle>
+         			<unitdate> October 22, 1999 – October 23, 1999  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">27</container> 
+         			<unittitle>Virginia Rodrigues,</unittitle>
+         			<unitdate> October 26, 1999  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">28</container> 
+         			<unittitle>Mary Black,</unittitle>
+         			<unitdate> October 30, 1999  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">29</container> 
+         			<unittitle>Buena Vista Social Club,</unittitle>
+         			<unitdate> November 21, 1999 – November 22, 1999  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">30</container> 
+         			<unittitle>Paco De Lucia and Septet,</unittitle>
+         			<unitdate> November 4, 1999  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">31</container> 
+         			<unittitle>Emerson String Quartet,</unittitle>
+         			<unitdate> November 6, 1999 – November 7, 1999  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">32</container> 
+         			<unittitle>Eliot Risk and Burhan Ocal,</unittitle>
+         			<unitdate> November 9, 1999 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">33</container> 
+         			<unittitle>The Carnegie Hall Jazz Band,</unittitle>
+         			<unitdate> November 12, 1999 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">34</container> 
+         			<unittitle>David Rousseve/Reality,</unittitle>
+         			<unitdate> November 19, 1999 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">35</container> 
+         			<unittitle>MTV's Campus Invasion Tour,</unittitle>
+         			<unitdate> November 20, 1999 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">36</container> 
+         			<unittitle>Riverdance,</unittitle>
+         			<unitdate> November 30, 1999 – December 5, 1999 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">37</container> 
+         			<unittitle>Lily Tomlin,</unittitle>
+         			<unitdate> December 11, 1999 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">38</container> 
+         			<unittitle>Royal Philharmonic Orchestra,</unittitle>
+         			<unitdate> January 18, 2000  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">39</container> 
+         			<unittitle>Ballet Hispanico,</unittitle>
+         			<unitdate> January 21, 2000 – January 23, 2000  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">40</container> 
+         			<unittitle>Coyote Consort - Young Beethoven,</unittitle>
+         			<unitdate>January 28, 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">41</container> 
+         			<unittitle>Chanticleer,</unittitle>
+         			<unitdate>February 4, 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">42</container> 
+         			<unittitle>The Hallelujah Project,</unittitle>
+         			<unitdate>February 9, 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">43</container> 
+         			<unittitle>Miss Saigon,</unittitle>
+         			<unitdate>February 10, 2000 – February 20, 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">44</container> 
+         			<unittitle>The Petersen Quartet,</unittitle>
+         			<unitdate>February 11, 2000 – February 12, 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">45</container> 
+         			<unittitle>Magic Frequencies,</unittitle>
+         			<unitdate>February 23, 2000 – February 27, 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">46</container> 
+         			<unittitle>Hallelujah!,</unittitle>
+         			<unitdate>March 4, 2000 – March 5, 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">47</container> 
+         			<unittitle>The Liz Lerman Dance Exchange,</unittitle>
+         			<unitdate>March 4, 2000 – March 5, 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">48</container> 
+         			<unittitle>Joyful Noise,</unittitle>
+         			<unitdate>March 16, 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">49</container> 
+         			<unittitle>The English Concert,</unittitle>
+         			<unitdate>March 18, 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">50</container> 
+         			<unittitle>Voices from the Margin,</unittitle>
+         			<unitdate>March 23, 2000 – March 26, 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">51</container> 
+         			<unittitle>Newport Jazz,</unittitle>
+         			<unitdate>March 30, 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">52</container> 
+         			<unittitle>Children of Uganda,</unittitle>
+         			<unitdate>April 4, 2000</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">53</container> 
+         			<unittitle>Alvin Ailey,</unittitle>
+         			<unitdate>April 8, 2000 – April 9, 2000</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">54</container> 
+         			<unittitle>The Mandinka Epic,</unittitle>
+         			<unitdate>April 14, 2000</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">55</container> 
+         			<unittitle>Colorado String Quartet,</unittitle>
+         			<unitdate>April 15, 2000 – April 16, 2000</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">56</container> 
+         			<unittitle>Show Boat,</unittitle>
+         			<unitdate>April 18, 2000 – April 23, 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">2</container> 
+         			<container type="folder">57</container> 
+         			<unittitle> Eric Idle,</unittitle>
+         			<unitdate>April 30, 2000  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">1</container> 
+         			<unittitle> The Kirov Orchestra,</unittitle>
+         			<unitdate>September 12, 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">2</container> 
+         			<unittitle> Cabaret,</unittitle>
+         			<unitdate>September 19, 2000 – September 24, 2000</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">3</container> 
+         			<unittitle> Buena Vista Social Club,</unittitle>
+         			<unitdate>September 25, 2000 – September 26, 2000</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">4</container> 
+         			<unittitle> Martha Graham Dance Company,</unittitle>
+         			<unitdate>September 30, 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">5</container> 
+         			<unittitle> Nicholas Payton,</unittitle>
+         			<unitdate>October 7, 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">6</container> 
+         			<unittitle> Yo-Yo Ma,</unittitle>
+         			<unitdate>October 12, 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">7</container> 
+         			<unittitle> Brazil Night,</unittitle>
+         			<unitdate>October 14, 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">8</container> 
+         			<unittitle> Ratan Thiyam,</unittitle>
+         			<unitdate>October 17, 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">9</container> 
+         			<unittitle> Dracula/Philip Glass,</unittitle>
+         			<unitdate> October 20, 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">10</container> 
+         			<unittitle> BB King,</unittitle>
+         			<unitdate> October 23, 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">11</container> 
+         			<unittitle> STOMP,</unittitle>
+         			<unitdate> October 27, 2000 – October 29, 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">12</container> 
+         			<unittitle> Nadja Salerno Sonnenberg,</unittitle>
+         			<unitdate> November 2, 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">13</container> 
+         			<unittitle> Kate Clinton,</unittitle>
+         			<unitdate> November 3, 2000</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">14</container> 
+         			<unittitle> Ravi Shankar and Anoushka Shankar,</unittitle>
+         			<unitdate> November 4, 2000</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">15</container> 
+         			<unittitle> Academy of Ancient Music,</unittitle>
+         			<unitdate> November 9, 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">16</container> 
+         			<unittitle> Voices of Mali,</unittitle>
+         			<unitdate> November 11, 2000  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">17</container> 
+         			<unittitle> Remember Shakti,</unittitle>
+         			<unitdate> November 15, 2000  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">18</container> 
+         			<unittitle> Bale Folklorico da Bahia,</unittitle>
+         			<unitdate> November 16, 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">19</container> 
+         			<unittitle> Marcus Roberts Trio,</unittitle>
+         			<unitdate> November 18, 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">20</container> 
+         			<unittitle> The Immigrant Experience,</unittitle>
+         			<unitdate> November 27, 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">21</container> 
+         			<unittitle> Ragtime,</unittitle>
+         			<unitdate> November 28, 2000 – December 3, 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">22</container> 
+         			<unittitle> The Boys Choir of Harlem,</unittitle>
+         			<unitdate> December 9, 2000 – December 10, 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">23</container> 
+         			<unittitle> AIDA,</unittitle>
+         			<unitdate> January 8, 2001 – January 13, 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">24</container> 
+         			<unittitle> Coyote Consort,</unittitle>
+         			<unitdate> January 13, 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">25</container> 
+         			<unittitle> Tucson Arts Odyssey,</unittitle>
+         			<unitdate> January 14, 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">26</container> 
+         			<unittitle> Rent,</unittitle>
+         			<unitdate> January 16, 2001 – January 21, 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">27</container> 
+         			<unittitle> Pilobolus,</unittitle>
+         			<unitdate> January 26, 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">28</container> 
+         			<unittitle> The Boston Camerata,</unittitle>
+         			<unitdate> January 26, 2001 – January 27, 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">29</container> 
+         			<unittitle> Aeros,</unittitle>
+         			<unitdate> February 2, 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">30</container> 
+         			<unittitle> Spirituals to Swing,</unittitle>
+         			<unitdate> February 3, 2001</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">31</container> 
+         			<unittitle> Jubilant Sykes,</unittitle>
+         			<unitdate> February 6, 2001 – February 9, 2001  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">32</container> 
+         			<unittitle> Riverdance,</unittitle>
+         			<unitdate> February 6, 2001 – February 11, 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">33</container> 
+         			<unittitle> Cultures in Context – Hawai'i,</unittitle>
+         			<unitdate> February 11, 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">34</container> 
+         			<unittitle> Halau Hula Ka No’eau,</unittitle>
+         			<unitdate> February 13, 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">35</container> 
+         			<unittitle> Moscow Festival Ballet,</unittitle>
+         			<unitdate> February 15, 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">36</container> 
+         			<unittitle> Spalding Gray,</unittitle>
+         			<unitdate> February 16, 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">37</container> 
+         			<unittitle> David Dorfman Dance,</unittitle>
+         			<unitdate> February 24, 2001</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">38</container> 
+         			<unittitle> Carnaval Veracruzano,</unittitle>
+         			<unitdate>February 27, 2001</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">39</container> 
+         			<unittitle>  Anonymous 4,</unittitle>
+         			<unitdate>March 1, 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">40</container> 
+         			<unittitle>  Cultures in Context – Russia,</unittitle>
+         			<unitdate>March 4, 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">41</container> 
+         			<unittitle> Bang on a Can All-Stars,</unittitle>
+         			<unitdate>March 6, 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">42</container> 
+         			<unittitle> Chorovaya Akademia,</unittitle>
+         			<unitdate>March 10, 2001 – March 11, 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">43</container> 
+         			<unittitle> The Academy of St. Martin in the Fields,</unittitle>
+         			<unitdate>March 17, 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">44</container> 
+         			<unittitle> Unlocking the Creative Process,</unittitle>
+         			<unitdate> March 22, 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">45</container> 
+         			<unittitle>  Lisa Kron – “2.5 Minute Ride”,</unittitle>
+         			<unitdate> March 23, 2001 – March 24, 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">46</container> 
+         			<unittitle> Fosse,</unittitle>
+         			<unitdate> March 27, 2001 – April 1, 2001</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">47</container> 
+         			<unittitle> The King’s Stag,</unittitle>
+         			<unitdate> April 6, 2001</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">48</container> 
+         			<unittitle> Regina Carter Quintet,</unittitle>
+         			<unitdate> April 7, 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">49</container> 
+         			<unittitle> Paul Taylor Dance Company,</unittitle>
+         			<unitdate> April 14, 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">50</container> 
+         			<unittitle> Eric Bogosian,</unittitle>
+         			<unitdate> April 20, 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">3</container> 
+         			<container type="folder">51</container> 
+         			<unittitle> Urban Bush Women,</unittitle>
+         			<unitdate> April 28, 2001  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">1</container> 
+         			<unittitle> Los Lobos,</unittitle>
+         			<unitdate> August 26, 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">2</container> 
+         			<unittitle> Dance, The Spirit of Cambodia,</unittitle>
+         			<unitdate> September 15, 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">3</container> 
+         			<unittitle> Ali Akbar Khan,</unittitle>
+         			<unitdate> September 21, 2001</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">4</container> 
+         			<unittitle> A Vision of Women,</unittitle>
+         			<unitdate> September 30, 2001</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">5</container> 
+         			<unittitle> Lincoln Center Jazz Orchestra,</unittitle>
+         			<unitdate> September 30, 2001</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">6</container> 
+         			<unittitle> Houston Ballet,</unittitle>
+         			<unitdate> October 3, 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">7</container> 
+         			<unittitle> Bayanihan,</unittitle>
+         			<unitdate> October 5, 2001  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">8</container> 
+         			<unittitle> Cesaria Evora,</unittitle>
+         			<unitdate> October 9, 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">9</container> 
+         			<unittitle> Hancock, Brecker, and Hargrove,</unittitle>
+         			<unitdate> October 13, 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">10</container> 
+         			<unittitle> Yamato,</unittitle>
+         			<unitdate> October 18, 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">11</container> 
+         			<unittitle> Gewandhaus Orchestra of Leidzig,</unittitle>
+         			<unitdate> October 19, 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">12</container> 
+         			<unittitle> Youssou N'Dour,</unittitle>
+         			<unitdate> October 20, 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">13</container> 
+         			<unittitle> Ballet Nacional de Cuba,</unittitle>
+         			<unitdate> October 23, 2001</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">14</container> 
+         			<unittitle> Cookin',</unittitle>
+         			<unitdate> October 26, 2001 – October 28, 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">15</container> 
+         			<unittitle> Stimmen World Voices Festival,</unittitle>
+         			<unitdate>November 2, 2001</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">16</container> 
+         			<unittitle> Noa,</unittitle>
+         			<unitdate>November 4, 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">17</container> 
+         			<unittitle> Virginia Rodrigues,</unittitle>
+         			<unitdate>November 6, 2001  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">18</container> 
+         			<unittitle> Bangarra Dance Theatre,</unittitle>
+         			<unitdate>November 8, 2001</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">19</container> 
+         			<unittitle> Emanuel Ax and Yefim Bronfman,</unittitle>
+         			<unitdate>November 9, 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">20</container> 
+         			<unittitle> David Russell,</unittitle>
+         			<unitdate>November 14, 2001 – November 16, 2001  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">21</container> 
+         			<unittitle> Swing!,</unittitle>
+         			<unitdate>November 20, 2001 – November 25, 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">22</container> 
+         			<unittitle> Los Fakires,</unittitle>
+         			<unitdate>November 30, 2001  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">23</container> 
+         			<unittitle> The Vagina Monologues,</unittitle>
+         			<unitdate>December 2, 2001 – December 14, 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">24</container> 
+         			<unittitle> Cirque,</unittitle>
+         			<unitdate>December 4, 2001 – December 9, 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">25</container> 
+         			<unittitle> Streb,</unittitle>
+         			<unitdate>January 19, 2002 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">26</container> 
+         			<unittitle> Juilliard String Quartet,</unittitle>
+         			<unitdate>January 19, 2002 – January 20, 2002</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">27</container> 
+         			<unittitle> Contact,</unittitle>
+         			<unitdate>January 22, 2002 – January 26, 2002 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">28</container> 
+         			<unittitle> Buena Vista Social Club,</unittitle>
+         			<unitdate>January 23, 2002</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">29</container> 
+         			<unittitle> Rennie Harris Puremovement,</unittitle>
+         			<unitdate>January 26, 2002 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">30</container> 
+         			<unittitle> National Acrobats of Taiwan,</unittitle>
+         			<unitdate>January 30, 2002   </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">31</container> 
+         			<unittitle> Unlocking the Creative Process,</unittitle>
+         			<unitdate>January 2002 - February 2002 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">32</container> 
+         			<unittitle> David Daniels,</unittitle>
+         			<unitdate>February 6, 2002 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">33</container> 
+         			<unittitle> Tim Miller – Glory Box,</unittitle>
+         			<unitdate>February 7, 2002 – February 8, 2002</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">34</container> 
+         			<unittitle> Ronald K. Brown/Evidence,</unittitle>
+         			<unitdate> February 9, 2002 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">35</container> 
+         			<unittitle> Banned in the USA,</unittitle>
+         			<unitdate> February 10, 2002 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">36</container> 
+         			<unittitle> Grigorovich Ballet,</unittitle>
+         			<unitdate> February 14, 2002 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">37</container> 
+         			<unittitle> Jerry Seinfeld Live,</unittitle>
+         			<unitdate> February 14, 2002 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">38</container> 
+         			<unittitle> Tim Miller - Glory Box,</unittitle>
+         			<unitdate> February 15, 2002 – February 16, 2002</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">39</container> 
+         			<unittitle> Turtle Island String Quartet,</unittitle>
+         			<unitdate> February 19, 2002 – February 20, 2002 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">40</container> 
+         			<unittitle> Estonian Philharmonic Chamber Choir,</unittitle>
+         			<unitdate> February 21, 2002 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">41</container> 
+         			<unittitle> Albita,</unittitle>
+         			<unitdate> February 23, 2002 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">42</container> 
+         			<unittitle> Alvin Ailey Dance Theater,</unittitle>
+         			<unitdate> March 1, 2002 – March 3, 2002 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">43</container> 
+         			<unittitle> Newport Jazz 2002,</unittitle>
+         			<unitdate> March 6, 2002 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">44</container> 
+         			<unittitle> Antonio Marquez,</unittitle>
+         			<unitdate> March 8, 2002 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">45</container> 
+         			<unittitle> Renee Fleming,</unittitle>
+         			<unitdate> March 14, 2002</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">46</container> 
+         			<unittitle> Ballet Hispanico,</unittitle>
+         			<unitdate> March 23, 2002</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">47</container> 
+         			<unittitle> Nrityagram,</unittitle>
+         			<unitdate>March 30, 2002</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">48</container> 
+         			<unittitle> Charlie Victor Romeo,</unittitle>
+         			<unitdate>April 9, 2002 – April 21, 2002</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">49</container> 
+         			<unittitle> The Phantom of the Opera (1 of 2),</unittitle>
+         			<unitdate>April 10, 2002 – May 4, 2002</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">50</container> 
+         			<unittitle> The Phantom of the Opera (2 of 2),</unittitle>
+         			<unitdate>April 10, 2002 – May 4, 2002</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">51</container> 
+         			<unittitle> Santiago Jimenez, Jr.,</unittitle>
+         			<unitdate>August 25, 2002</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">52</container> 
+         			<unittitle> 7th Congressional District Candidates,</unittitle>
+         			<unitdate>September 4, 2002</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">53</container> 
+         			<unittitle> Lila Downs,</unittitle>
+         			<unitdate>September 5, 2002</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">54</container> 
+         			<unittitle> Jaime Camil,</unittitle>
+         			<unitdate>September 21, 2002</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">55</container> 
+         			<unittitle> Ballet Folklorico de Mexico,</unittitle>
+         			<unitdate> September 26, 2002 – September 27, 2002</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">56</container> 
+         			<unittitle> Emerson String Quartet,</unittitle>
+         			<unitdate> October 1, 2002 – October 2, 2002</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">4</container> 
+         			<container type="folder">57</container> 
+         			<unittitle> Mickey Hart and Bembe Orisha,</unittitle>
+         			<unitdate> October 2, 2002 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">1</container> 
+         			<unittitle> Mandy Patinkin,</unittitle>
+         			<unitdate> October 8, 2002  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">2</container> 
+         			<unittitle> Bill T. Jones,</unittitle>
+         			<unitdate> October 10, 2002</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">3</container> 
+         			<unittitle> Le Ballet National du Senegal,</unittitle>
+         			<unitdate> October 15, 2002 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">4</container> 
+         			<unittitle> John Williams and Friends,</unittitle>
+         			<unitdate> October 16, 2002 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">5</container> 
+         			<unittitle> Sankai Juku,</unittitle>
+         			<unitdate> October 19, 2002</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">6</container> 
+         			<unittitle> Arizona Opera Company "La Traviata",</unittitle>
+         			<unitdate> October 19, 2002 – October 20, 2002</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">7</container> 
+         			<unittitle>  La Pasion Segun San Marcos,</unittitle>
+         			<unitdate>October 22, 2002</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">8</container> 
+         			<unittitle> Dianne Reeves,</unittitle>
+         			<unitdate>October 24, 2002</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">9</container> 
+         			<unittitle> Orquesta Sinfonico Nactional de Mexico,</unittitle>
+         			<unitdate>October 26, 2002</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">10</container> 
+         			<unittitle> Brazil,</unittitle>
+         			<unitdate>October 27, 2002</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">11</container> 
+         			<unittitle> Boston Camerata,</unittitle>
+         			<unitdate>November 1, 2002</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">12</container> 
+         			<unittitle> Caetano Veloso,</unittitle>
+         			<unitdate>November 2, 2002</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">13</container> 
+         			<unittitle> Kronos Quartet,</unittitle>
+         			<unitdate>November 7, 2002</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">14</container> 
+         			<unittitle> The Shanghai Ballet,</unittitle>
+         			<unitdate>November 9, 2002 – November 10, 2002 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">15</container> 
+         			<unittitle> Blast,</unittitle>
+         			<unitdate>November 12, 2002 – November 17, 2002 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">16</container> 
+         			<unittitle> Ballet Preljocaj,</unittitle>
+         			<unitdate>November 14, 2002</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">17</container> 
+         			<unittitle> Yin Mei Dance,</unittitle>
+         			<unitdate>November 15, 2002 – November 16, 2002</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">18</container> 
+         			<unittitle> Masterpieces of the Russian Underground,</unittitle>
+         			<unitdate>November 6, 2002 – November 18, 2002</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">19</container> 
+         			<unittitle> Mark Morris Dance Group,</unittitle>
+         			<unitdate>November 23, 2002 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">20</container> 
+         			<unittitle> Neil Goldberg's Cirque,</unittitle>
+         			<unitdate>December 3, 2002 – December 8, 2002 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">21</container> 
+         			<unittitle> TcheTche,</unittitle>
+         			<unitdate>December 12, 2002 – December 13, 2002  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">22</container> 
+         			<unittitle> The Full Monty,</unittitle>
+         			<unitdate> December 17, 2002 – December 22, 2002</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">23</container> 
+         			<unittitle> The Chieftains,</unittitle>
+         			<unitdate>January 14, 2003 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">24</container> 
+         			<unittitle> Poncho Sanchez,</unittitle>
+         			<unitdate>January 30, 2003 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">25</container> 
+         			<unittitle> Eiko and Koma,</unittitle>
+         			<unitdate>January 31, 2003 – February 1, 2003 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">26</container> 
+         			<unittitle> Prokofiev,</unittitle>
+         			<unitdate> February 5, 2003 – February 9, 2003</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">27</container> 
+         			<unittitle> Royal Winnipeg Ballet,</unittitle>
+         			<unitdate> February 8, 2003 – February 9, 2003</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">28</container> 
+         			<unittitle> Kodo,</unittitle>
+         			<unitdate> February 15, 2003</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">29</container> 
+         			<unittitle> Cleo Parker Robinson Dance,</unittitle>
+         			<unitdate> February 22, 2003</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">30</container> 
+         			<unittitle> Les Miserables,</unittitle>
+         			<unitdate>  February 26, 2003 – March 2, 2003</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">31</container> 
+         			<unittitle> Limon Dance Company,</unittitle>
+         			<unitdate> March 2, 2003</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">32</container> 
+         			<unittitle> Tabla Beat Science,</unittitle>
+         			<unitdate> March 7, 2003</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">33</container> 
+         			<unittitle> Kathy Mattea,</unittitle>
+         			<unitdate> March 8, 2003</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">34</container> 
+         			<unittitle> Barrage,</unittitle>
+         			<unitdate> March 14, 2003 – March 16, 2003</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">35</container> 
+         			<unittitle> Peking Opera of Jilin,</unittitle>
+         			<unitdate> March 19, 2003 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">36</container> 
+         			<unittitle> Kenny Barron's Canta Brasil,</unittitle>
+         			<unitdate> March 22, 2003 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">37</container> 
+         			<unittitle> Urban Bush Women,</unittitle>
+         			<unitdate> March 27, 2003  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">38</container> 
+         			<unittitle> Nexus,</unittitle>
+         			<unitdate> March 29, 2003  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">39</container> 
+         			<unittitle> The Stuttgart Ballet,</unittitle>
+         			<unitdate>April 1, 2003 – April 2, 2003  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">40</container> 
+         			<unittitle> Buena Vista Social Club,</unittitle>
+         			<unitdate>April 6, 2003 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">41</container> 
+         			<unittitle> The Academy of Ancient Music,</unittitle>
+         			<unitdate>April 10, 2003 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">42</container> 
+         			<unittitle> Dayton Contemporary Dance,</unittitle>
+         			<unitdate>April 12, 2003 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">5</container> 
+         			<container type="folder">43</container> 
+         			<unittitle> Spalding Gray,</unittitle>
+         			<unitdate>April 23, 2003  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">1</container> 
+         			<unittitle> Mamma Mia,</unittitle>
+         			<unitdate>April 30, 2003 – May 11, 2003 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">2</container> 
+         			<unittitle> Eugenia Leon,</unittitle>
+         			<unitdate>September 13, 2003  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">3</container> 
+         			<unittitle> Branford Marsalis,</unittitle>
+         			<unitdate>September 19, 2003 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">4</container> 
+         			<unittitle> African Arts Festival,</unittitle>
+         			<unitdate>September 20, 2003 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">5</container> 
+         			<unittitle> U Theatre of Taiwan,</unittitle>
+         			<unitdate>September 30, 2003 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">6</container> 
+         			<unittitle>Akram Khan,</unittitle>
+         			<unitdate>October 4, 2003</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">7</container> 
+         			<unittitle>Rennie Harris Puremovement,</unittitle>
+         			<unitdate>October 4, 2003</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">8</container> 
+         			<unittitle>St. Lawrence String Quartet,</unittitle>
+         			<unitdate>October 15, 2003 – October 16, 2003</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">9</container> 
+         			<unittitle>Estonian Philharmonic Chamber Choir,</unittitle>
+         			<unitdate>October 24, 2003</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">10</container> 
+         			<unittitle>Yamato,</unittitle>
+         			<unitdate>October 25, 2003 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">11</container> 
+         			<unittitle>42nd Street,</unittitle>
+         			<unitdate>October 29, 2003 - November 12, 2003 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">12</container> 
+         			<unittitle>Astrid Hadad,</unittitle>
+         			<unitdate>November 1, 2003</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">13</container> 
+         			<unittitle>The Suzanna Farrell Ballet,</unittitle>
+         			<unitdate>November 4, 2003</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">14</container> 
+         			<unittitle>Wynton Marsalis,</unittitle>
+         			<unitdate>November 6, 2003 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">15</container> 
+         			<unittitle>Andre Watts,</unittitle>
+         			<unitdate>November 12, 2003 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">16</container> 
+         			<unittitle>Habib Koite and Bamada,</unittitle>
+         			<unitdate>November 18, 2003  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">17</container> 
+         			<unittitle>Ensemble Kaboul,</unittitle>
+         			<unitdate>November 18, 2003 – November 19, 2003 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">18</container> 
+         			<unittitle> Black Burlesque (revisted,</unittitle>
+         			<unitdate>November 22, 2003 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">19</container> 
+         			<unittitle> Shen Wei Dance Arts,</unittitle>
+         			<unitdate>December 6, 2003 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">20</container> 
+         			<unittitle> Ballet Folklorico de Mexico,</unittitle>
+         			<unitdate>December 16, 2003 – December 17, 2003</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">21</container> 
+         			<unittitle> Starlight Express,</unittitle>
+         			<unitdate> January 13, 2004 – January 18, 2004</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">22</container> 
+         			<unittitle> Movement (R)evolution: New African Dance,</unittitle>
+         			<unitdate>January 30, 2004 – January 31, 2004 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">23</container> 
+         			<unittitle> The Chieftains,</unittitle>
+         			<unitdate>February 2, 2004 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">24</container> 
+         			<unittitle> Paco de Lucia,</unittitle>
+         			<unitdate>February 3, 2004 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">25</container> 
+         			<unittitle> Royal Philharmonic Orchestra,</unittitle>
+         			<unitdate>February 5, 2004 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">26</container> 
+         			<unittitle> Ilkhom Theatre of Uzbekistan,</unittitle>
+         			<unitdate>February 6, 2004 – February 7, 2004</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">27</container> 
+         			<unittitle> Preservation Hall Jazz Band,</unittitle>
+         			<unitdate>February 10, 2004</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">28</container> 
+         			<unittitle> Drepung Gomang Monks,</unittitle>
+         			<unitdate>February 10, 2004 – February 15, 2004 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">29</container> 
+         			<unittitle> Urinetown,</unittitle>
+         			<unitdate>February 13, 2004 – February 18, 2004 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">30</container> 
+         			<unittitle>Merce Cunningham Dance Company,</unittitle>
+         			<unitdate>February 14, 2004 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">31</container> 
+         			<unittitle>Hall and Oates,</unittitle>
+         			<unitdate>February 15, 2004 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">32</container> 
+         			<unittitle>R Carlos Nakai,</unittitle>
+         			<unitdate>February 17, 2004 – February 19, 2004 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">33</container> 
+         			<unittitle>Ronald K. Brown/Evidence,</unittitle>
+         			<unitdate>February 21, 2004 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">34</container> 
+         			<unittitle>Jesus Christ Superstar,</unittitle>
+         			<unitdate>February 24, 2004 – February 29, 2004</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">35</container> 
+         			<unittitle>Riverdance,</unittitle>
+         			<unitdate>March 2, 2004 – March 7, 2004 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">36</container> 
+         			<unittitle>Newport Jazz Festival,</unittitle>
+         			<unitdate>March 9, 2004 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">37</container> 
+         			<unittitle>The Spirit of Fes,</unittitle>
+         			<unitdate>March 11, 2004</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">38</container> 
+         			<unittitle>Alvin Ailey American Dance Theatre,</unittitle>
+         			<unitdate>March 16, 2004 – March 17, 2004 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">39</container> 
+         			<unittitle> Batsheva Dance Company of Israel,</unittitle>
+         			<unitdate>March 24, 2004 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">40</container> 
+         			<unittitle> Kronos Quartet,</unittitle>
+         			<unitdate>March 26, 2004 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">41</container> 
+         			<unittitle> Mandy Patinkin,</unittitle>
+         			<unitdate>April 10, 2004 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">42</container> 
+         			<unittitle> The Producers,</unittitle>
+         			<unitdate>May 24, 2004 – June 6, 2004</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">43</container> 
+         			<unittitle>Bobby McFerrin,</unittitle>
+         			<unitdate>September 10, 2004 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">44</container> 
+         			<unittitle>Lila Downs,</unittitle>
+         			<unitdate>October 1, 2004 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">45</container> 
+         			<unittitle>Miami City Ballet,</unittitle>
+         			<unitdate>October 8, 2004 – October 9, 2004 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">46</container> 
+         			<unittitle>Oliver!,</unittitle>
+         			<unitdate>October 12, 2004 – October 17, 2004 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">47</container> 
+         			<unittitle> Les Percussions de Guinee and Amazones,</unittitle>
+         			<unitdate>October 14, 2004</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">48</container> 
+         			<unittitle> Hairspray,</unittitle>
+         			<unitdate>October 26, 2004 – November 6, 2004</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">49</container> 
+         			<unittitle> A Year with Frog and Toad,</unittitle>
+         			<unitdate>October 30, 2004 – October 31, 2004 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">50</container> 
+         			<unittitle> Bang on a Can All-Stars with Philip Glass,</unittitle>
+         			<unitdate>November 9, 2004 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">51</container> 
+         			<unittitle> The English Concert,</unittitle>
+         			<unitdate>November 11, 2004 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">52</container> 
+         			<unittitle> Delfos Danza/Yjastras,</unittitle>
+         			<unitdate>November 19, 2004 – November 20, 2004 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">53</container> 
+         			<unittitle> Jose Feliciano,</unittitle>
+         			<unitdate>October 6, 2006</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">54</container> 
+         			<unittitle> Acoustic Africa,</unittitle>
+         			<unitdate>October 25, 2006 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">55</container> 
+         			<unittitle> The English Concert,</unittitle>
+         			<unitdate>October 27, 2006 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">56</container> 
+         			<unittitle> Fred Garbo Inflatable Theater Co.,</unittitle>
+         			<unitdate>October 29, 2006 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">57</container> 
+         			<unittitle> Maya Angelou,</unittitle>
+         			<unitdate>November 5, 2006</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">58</container> 
+         			<unittitle> Mombasa Party/Sonny Rollins,</unittitle>
+         			<unitdate>November 15, 2006 – November 17, 2006 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">59</container> 
+         			<unittitle> Dianne Reeves,</unittitle>
+         			<unitdate>December 2, 2006 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">60</container> 
+         			<unittitle> The Chieftains,</unittitle>
+         			<unitdate>January 24, 2007  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">61</container> 
+         			<unittitle> Nai-Ni Chen Dance Company,</unittitle>
+         			<unitdate>March 11, 2007 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">62</container> 
+         			<unittitle> Cirque Dreams - Jungle Fantasy,</unittitle>
+         			<unitdate>April 21, 2007 – April 22, 2007</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">63</container> 
+         			<unittitle> Global Drum Project,</unittitle>
+         			<unitdate>September 20, 2007 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">64</container> 
+         			<unittitle> Dionne Warwick,</unittitle>
+         			<unitdate>October 5, 2007 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">65</container> 
+         			<unittitle> The Brand New Kid,</unittitle>
+         			<unitdate>October 7, 2007 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">66</container> 
+         			<unittitle>Martha Graham Dance Company,</unittitle>
+         			<unitdate>October 16, 2007 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">67</container> 
+         			<unittitle>Ben Vereen,</unittitle>
+         			<unitdate>October 27, 2007 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">68</container> 
+         			<unittitle>Diavolo,</unittitle>
+         			<unitdate>November 2, 2007 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">69</container> 
+         			<unittitle>Perla Batalla and Charanga Cakewalk,</unittitle>
+         			<unitdate>November 4, 2007 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">70</container> 
+         			<unittitle>Herbie Hancock,</unittitle>
+         			<unitdate>November 14, 2007 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">71</container> 
+         			<unittitle>A Christmas Carol,</unittitle>
+         			<unitdate>December 20, 2007 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">72</container> 
+         			<unittitle>Bravo Broadway,</unittitle>
+         			<unitdate> January 24, 2008 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">73</container> 
+         			<unittitle>Monterey Jazz Festival,</unittitle>
+         			<unitdate> January 26, 2008 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">74</container> 
+         			<unittitle>Les Ballets Trockadero de Monte Carlo,</unittitle>
+         			<unitdate> January 31, 2008 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">75</container> 
+         			<unittitle>Wynton Marsalis,</unittitle>
+         			<unitdate> February 1, 2008 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">76</container> 
+         			<unittitle>St. Petersburg Ballet Theatre,</unittitle>
+         			<unitdate> February 9, 2008 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">77</container> 
+         			<unittitle>Leahy,</unittitle>
+         			<unitdate> February 10, 2008</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">78</container> 
+         			<unittitle>In Perfect Harmony,</unittitle>
+         			<unitdate>February 16, 2008 – February 17, 2008</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">79</container> 
+         			<unittitle>Forever Tango,</unittitle>
+         			<unitdate>February 19, 2008 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">80</container> 
+         			<unittitle> Russian American Kids Circus,</unittitle>
+         			<unitdate>February 24, 2008 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">81</container> 
+         			<unittitle> Hubbard Street Dance Chicago,</unittitle>
+         			<unitdate>February 26, 2008 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">82</container> 
+         			<unittitle> Angelique Kidjo,</unittitle>
+         			<unitdate>March 8, 2008</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">83</container> 
+         			<unittitle> Czech Philharmonic Orchestra,</unittitle>
+         			<unitdate>March 8, 2008</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">84</container> 
+         			<unittitle> Ronald K. Brown/Evidence,</unittitle>
+         			<unitdate>March 11, 2008 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">85</container> 
+         			<unittitle> Mark Morris Dance Group,</unittitle>
+         			<unitdate>March 12, 2008 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">86</container> 
+         			<unittitle> I Musici de Montreal,</unittitle>
+         			<unitdate>March 15, 2008 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">87</container> 
+         			<unittitle> Anoushka Shankar,</unittitle>
+         			<unitdate>March 28, 2008 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">88</container> 
+         			<unittitle> Eddie Palmier,</unittitle>
+         			<unitdate>April 2, 2008 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">89</container> 
+         			<unittitle> Parsons Dance,</unittitle>
+         			<unitdate>April 3, 2008 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">90</container> 
+         			<unittitle> Booker T and the MGs,</unittitle>
+         			<unitdate>April 15, 2008 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">91</container> 
+         			<unittitle> B-52s,</unittitle>
+         			<unitdate>June 24, 2008 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">92</container> 
+         			<unittitle> Lily Tomlin,</unittitle>
+         			<unitdate>March 6, 2009 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">93</container> 
+         			<unittitle> Randy Travis,</unittitle>
+         			<unitdate>August 22, 2009 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">94</container> 
+         			<unittitle> Tap Dogs,</unittitle>
+         			<unitdate>August 26, 2009 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">95</container> 
+         			<unittitle> The Ultimate Doo-Wop Show,</unittitle>
+         			<unitdate>October 3, 2009 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">96</container> 
+         			<unittitle> Laramie,</unittitle>
+         			<unitdate>October 12, 2009</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">97</container> 
+         			<unittitle> Kathy Mattea,</unittitle>
+         			<unitdate>November 7, 2009 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">98</container> 
+         			<unittitle> Ballroom With a Twist,</unittitle>
+         			<unitdate>November 14, 2009 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">99</container> 
+         			<unittitle> The Fray,</unittitle>
+         			<unitdate>November 18, 2009 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">100</container> 
+         			<unittitle> Mannheim Steamroller,</unittitle>
+         			<unitdate>December 6, 2009 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">101</container> 
+         			<unittitle> MOMIX,</unittitle>
+         			<unitdate>January 23, 2010 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">102</container> 
+         			<unittitle> A Year With Frog and Toad,</unittitle>
+         			<unitdate>January 24, 2010</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">103</container> 
+         			<unittitle> Michael Feinstein,</unittitle>
+         			<unitdate> January 30, 2010 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">104</container> 
+         			<unittitle> Royal Winnipeg Ballet,</unittitle>
+         			<unitdate> February 6, 2010</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">105</container> 
+         			<unittitle> Universe of Dreams,</unittitle>
+         			<unitdate> February 12, 2010</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">106</container> 
+         			<unittitle> Olga Kerr,</unittitle>
+         			<unitdate>  February 13, 2010</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">107</container> 
+         			<unittitle> TAO: Martial Art of Drumming,</unittitle>
+         			<unitdate> February 20, 2010</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">108</container> 
+         			<unittitle> The Music of Broadway,</unittitle>
+         			<unitdate>February 27, 2010</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">109</container> 
+         			<unittitle> Glenn Miller Orchestra,</unittitle>
+         			<unitdate>February 28, 2010 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">110</container> 
+         			<unittitle>Moscow State Radio Symphony Orchestra,</unittitle>
+         			<unitdate>March 8, 2010 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">111</container> 
+         			<unittitle>Ladysmith,</unittitle>
+         			<unitdate>March 14, 2010 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">112</container> 
+         			<unittitle>The Vienna Boys Choir,</unittitle>
+         			<unitdate>March 20, 2010 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">113</container> 
+         			<unittitle>Ramsey Lewis and Patti Austin,</unittitle>
+         			<unitdate>March 26, 2010 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">114</container> 
+         			<unittitle>Guthries,</unittitle>
+         			<unitdate>April 9, 2010 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">115</container> 
+         			<unittitle>Aspen Sante Fe Ballet,</unittitle>
+         			<unitdate>April 16, 2010</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">116</container> 
+         			<unittitle>Monterey Jazz Festival,</unittitle>
+         			<unitdate>April 27, 2010</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">6</container> 
+         			<container type="folder">117</container> 
+         			<unittitle>Wicked,</unittitle>
+         			<unitdate> January 5, 2011 – January 23, 2011</unitdate>
+         		</did> 
+         	</c02>
+	     </c01> 
+         <c01 level="series" id="ser2"> 
+            <did> 
+            	<unitid>Series II</unitid>
+            	<unittitle>UA Presents Organization Materials,</unittitle> 
+            	<unitdate type="inclusive">1991 - 2009</unitdate>
+		    </did>
+         	<scopecontent><p>Arranged alphabetically, this series contains articles pertaining to the organization of UA Presents such as its ticket sales and finances, articles on its former director, Ken Foster (1994 – 2003), as well as marketing materials showcasing the season as a whole.</p></scopecontent>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">1</container> 
+         			<unittitle>Addy Awards Competition,</unittitle>
+         			<unitdate>February 24, 2002</unitdate>
+         		</did> 
+		    </c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">2</container> 
+         			<unittitle><title render="italic">Arizona Daily Star</title> articles and ads,</unittitle>
+         			<unitdate>1991 – 1999</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">3</container> 
+         			<unittitle><title render="italic">Arizona Daily Star</title> articles and ads,</unittitle>
+         			<unitdate>2000 – 2003</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">4</container> 
+         			<unittitle><title render="italic">Arizona Daily Star</title> articles and ads,</unittitle>
+         			<unitdate>2005 – 2006</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">5</container> 
+         			<unittitle><title render="italic">Arizona Daily Star</title> articles and ads,</unittitle>
+         			<unitdate>2007 – 2008</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">6</container> 
+         			<unittitle><title render="italic">Arizona Daily Wildcat </title> articles and ads,</unittitle>
+         			<unitdate>1998 – 1999</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">7</container> 
+         			<unittitle><title render="italic">Arizona Daily Wildcat </title> articles and ads,</unittitle>
+         			<unitdate>2003</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">8</container> 
+         			<unittitle><title render="italic">Arizona Daily Wildcat</title> articles and ads,</unittitle>
+         			<unitdate>2005</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">9</container> 
+         			<unittitle><title render="italic">Arizona Daily Wildcat</title> articles and ads,</unittitle>
+         			<unitdate>2006 – 2007 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">10</container> 
+         			<unittitle><title render="italic">Arizona Foothills Magazine</title> articles and ads,</unittitle>
+         			<unitdate>November 2006 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">11</container> 
+         			<unittitle><title render="italic">Arizona Jewish Post</title> articles and ads,</unittitle>
+         			<unitdate>October 13, 2006</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">12</container> 
+         			<unittitle>Artist Series at Centennial Hall,</unittitle>
+         			<unitdate>1994 – 1995</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">13</container> 
+         			<unittitle>Arts in Education,</unittitle>
+         			<unitdate>1999 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">14</container> 
+         			<unittitle><title render="italic">Bare Essential News for Kids</title> articles and ads,</unittitle>
+         			<unitdate>2006 – 2007 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">15</container> 
+         			<unittitle>The Beethoven Quartet Cycle,</unittitle>
+         			<unitdate>1999 – 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">16</container> 
+         			<unittitle><title render="italic">Caliente</title> articles and ads,</unittitle>
+         			<unitdate> 1998 – 1999</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">17</container> 
+         			<unittitle><title render="italic">Caliente</title> articles and ads,</unittitle>
+         			<unitdate>2005 – 2008</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">18</container> 
+         			<unittitle>Casino Del Sol,</unittitle>
+         			<unitdate>2003</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">19</container> 
+         			<unittitle>Centennial Ghosts,</unittitle>
+         			<unitdate>1998 – 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">20</container> 
+         			<unittitle>Centennial Hall,</unittitle>
+         			<unitdate>2009 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">21</container> 
+         			<unittitle>Centennial Hall Photos,</unittitle>
+         			<unitdate>undated </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">22</container> 
+         			<unittitle>Community Engagement,</unittitle>
+         			<unitdate>2001 – 2002 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">23</container> 
+         			<unittitle><title render="italic">The DesertLeaf</title> articles and ads,</unittitle>
+         			<unitdate>2006 – 2008</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">24</container> 
+         			<unittitle><title render="italic">The Explorer</title> articles and ads,</unittitle>
+         			<unitdate>1998 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">25</container> 
+         			<unittitle><title render="italic">The Explorer</title> articles and ads,</unittitle>
+         			<unitdate>2007 – 2008</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">26</container> 
+         			<unittitle>Fall Season Announcement,</unittitle>
+         			<unitdate>1998 – 1999</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">27</container> 
+         			<unittitle>Fine Arts Institute,</unittitle>
+         			<unitdate>1998 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">28</container> 
+         			<unittitle>General Season Interest,</unittitle>
+         			<unitdate>2001 – 2002 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">29</container> 
+         			<unittitle>General UA Presents Photos,</unittitle>
+         			<unitdate>undated </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">30</container> 
+         			<unittitle>Gold Star Gala,</unittitle>
+         			<unitdate>May 1, 1999</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">31</container> 
+         			<unittitle>Gold Star Gala,</unittitle>
+         			<unitdate>2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">32</container> 
+         			<unittitle>Gold Star Gala,</unittitle>
+         			<unitdate>April 10, 2004  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">33</container> 
+         			<unittitle>Gold Star Gala,</unittitle>
+         			<unitdate>December 5, 2004 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">34</container> 
+         			<unittitle>Governor’s Arts Award,</unittitle>
+         			<unitdate>1999 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">35</container> 
+         			<unittitle> <title render="italic">Green Valley News</title> articles and ads,</unittitle>
+         			<unitdate>2006 – 2007 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">36</container> 
+         			<unittitle>Hear’s Music 8th Anniversary Sale Catalog,</unittitle>
+         			<unitdate>November 1999</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">37</container> 
+         			<unittitle>Hear’s Music 8th Anniversary Sale Catalog,</unittitle>
+         			<unitdate>November 2000</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">38</container> 
+         			<unittitle> Infinite Possibilities,</unittitle>
+         			<unitdate>2000 - 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">39</container> 
+         			<unittitle> Jazz Under the Stars,</unittitle>
+         			<unitdate>March 25, 2006 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">40</container> 
+         			<unittitle> Ken Foster,</unittitle>
+         			<unitdate>1999 – 2001</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">41</container> 
+         			<unittitle>Ken Foster resignation,</unittitle>
+         			<unitdate>2003 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">42</container> 
+         			<unittitle><title render="italic">La Estrella de Tucson</title> articles and ads,</unittitle>
+         			<unitdate>2006 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">43</container> 
+         			<unittitle>Miscellaneous articles and ads,</unittitle>
+         			<unitdate>2008 – 2009 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">44</container> 
+         			<unittitle>Opening Season Publicity,</unittitle>
+         			<unitdate>1995 – 1996</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">45</container> 
+         			<unittitle>Phantom of the Opera UA Presents News,</unittitle>
+         			<unitdate>2001 – 2002</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">46</container> 
+         			<unittitle>Rio Nuevo,</unittitle>
+         			<unitdate>2006 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">47</container> 
+         			<unittitle>School Time Matinees,</unittitle>
+         			<unitdate>1994 – 1998 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">48</container> 
+         			<unittitle>School Time Matinees,</unittitle>
+         			<unitdate>1998 – 2002 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">49</container> 
+         			<unittitle>Season Calendar,</unittitle>
+         			<unitdate>2001 – 2002</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">50</container> 
+         			<unittitle>Season Clips,</unittitle>
+         			<unitdate>1996 – 1997</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">51</container> 
+         			<unittitle>South Tucson Norteno Festival and Street Fair,</unittitle>
+         			<unitdate>August 23, 2002 – August 24, 2002</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">52</container> 
+         			<unittitle>Spring Arts Preview,</unittitle>
+         			<unitdate>2002</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">53</container> 
+         			<unittitle>Spring Preview,</unittitle>
+         			<unitdate>1997 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">54</container> 
+         			<unittitle>Theater Season Programs,</unittitle>
+         			<unitdate>1991 – 1995 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">55</container> 
+         			<unittitle>Tibet Week,</unittitle>
+         			<unitdate>1997 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">56</container> 
+         			<unittitle>Tucson Arts Connection,</unittitle>
+         			<unitdate>undated </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">57</container> 
+         			<unittitle><title render="italic">Tucson Citizen</title> articles and ads,</unittitle>
+         			<unitdate>2000 - 2004 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">7</container> 
+         			<container type="folder">58</container> 
+         			<unittitle><title render="italic">Tucson Citizen</title> articles and ads,</unittitle>
+         			<unitdate>2006 – 2007 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">8</container> 
+         			<container type="folder">1</container> 
+         			<unittitle><title render="italic">Tucson Citizen</title> articles and ads,</unittitle>
+         			<unitdate>2006 – 2008  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">8</container> 
+         			<container type="folder">2</container> 
+         			<unittitle><title render="italic">Tucson Citizen</title> articles and ads,</unittitle>
+         			<unitdate>2008 - 2009 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">8</container> 
+         			<container type="folder">3</container> 
+         			<unittitle>Tucson – City of the Arts,</unittitle>
+         			<unitdate>undated </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">8</container> 
+         			<container type="folder">4</container> 
+         			<unittitle><title render="italic">Tucson Lifestyle</title> articles and ads,</unittitle>
+         			<unitdate>2006 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">8</container> 
+         			<container type="folder">5</container> 
+         			<unittitle><title render="italic">Tucson Lifestyle</title> articles and ads,</unittitle>
+         			<unitdate>2008 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">8</container> 
+         			<container type="folder">6</container> 
+         			<unittitle>Tucson Symphony Orchestra,</unittitle>
+         			<unitdate>2002 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">8</container> 
+         			<container type="folder">7</container> 
+         			<unittitle><title render="italic">Tucson Weekly</title> articles and ads,</unittitle>
+         			<unitdate>1998 – 1999 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">8</container> 
+         			<container type="folder">8</container> 
+         			<unittitle><title render="italic">Tucson Weekly</title> articles and ads,</unittitle>
+         			<unitdate>2005 – 2007 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">8</container> 
+         			<container type="folder">9</container> 
+         			<unittitle>UA Artist Series – World of Arts,</unittitle>
+         			<unitdate>1991 – 1994 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">8</container> 
+         			<container type="folder">10</container> 
+         			<unittitle>UA Presents (1 of 2),</unittitle>
+         			<unitdate>1998 – 1999</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">8</container> 
+         			<container type="folder">11</container> 
+         			<unittitle>UA Presents (2 of 2),</unittitle>
+         			<unitdate>1998 – 1999</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">8</container> 
+         			<container type="folder">12</container> 
+         			<unittitle>UA Presents,</unittitle>
+         			<unitdate>2007 – 2008</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">8</container> 
+         			<container type="folder">13</container> 
+         			<unittitle>UA Presents,</unittitle>
+         			<unitdate>2008 – 2009</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">8</container> 
+         			<container type="folder">14</container> 
+         			<unittitle>UA Presents,</unittitle>
+         			<unitdate>2009 – 2010 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">8</container> 
+         			<container type="folder">15</container> 
+         			<unittitle>UA Presents,</unittitle>
+         			<unitdate>2010 – 2011 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">8</container> 
+         			<container type="folder">16</container> 
+         			<unittitle>UA Presents Broadway Series,</unittitle>
+         			<unitdate>1999 – 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">8</container> 
+         			<container type="folder">17</container> 
+         			<unittitle>UA Presents Centennial Hall,</unittitle>
+         			<unitdate>1996 – 1997 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">8</container> 
+         			<container type="folder">18</container> 
+         			<unittitle>UA Presents Centennial Hall Ticket Outlet,</unittitle>
+         			<unitdate>2004 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">8</container> 
+         			<container type="folder">19</container> 
+         			<unittitle>UA Presents Donation Form,</unittitle>
+         			<unitdate>undated </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">8</container> 
+         			<container type="folder">20</container> 
+         			<unittitle>UA Presents Donation History,</unittitle>
+         			<unitdate>1993 – 1999 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">8</container> 
+         			<container type="folder">21</container> 
+         			<unittitle>UA Presents/Ken Foster,</unittitle>
+         			<unitdate>2000 – 2005 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">8</container> 
+         			<container type="folder">22</container> 
+         			<unittitle>UA Presents Media Alert,</unittitle>
+         			<unitdate>1999 – 2000  </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">8</container> 
+         			<container type="folder">23</container> 
+         			<unittitle>UA Presents Media Highlights,</unittitle>
+         			<unitdate>1996 – 1997 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">8</container> 
+         			<container type="folder">24</container> 
+         			<unittitle>UA Presents Memo,</unittitle>
+         			<unitdate>May 22, 1997</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">8</container> 
+         			<container type="folder">25</container> 
+         			<unittitle>UA Presents News,</unittitle>
+         			<unitdate>1997 - 2002</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">8</container> 
+         			<container type="folder">26</container> 
+         			<unittitle>UA Presents News,</unittitle>
+         			<unitdate>1999 - 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">8</container> 
+         			<container type="folder">27</container> 
+         			<unittitle>UA Presents News,</unittitle>
+         			<unitdate>2000 – 2001</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">8</container> 
+         			<container type="folder">28</container> 
+         			<unittitle>UA Presents News,</unittitle>
+         			<unitdate>2002 – 2003</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">8</container> 
+         			<container type="folder">29</container> 
+         			<unittitle>UA Presents Press Coverage,</unittitle>
+         			<unitdate>1996 – 1997</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">8</container> 
+         			<container type="folder">30</container> 
+         			<unittitle>UA Presents Preview,</unittitle>
+         			<unitdate>1996 – 1997 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">8</container> 
+         			<container type="folder">31</container> 
+         			<unittitle>UA Presents Programs (1 of 3),</unittitle>
+         			<unitdate>1999 – 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">8</container> 
+         			<container type="folder">32</container> 
+         			<unittitle>UA Presents Programs (2 of 3),</unittitle>
+         			<unitdate>1999 – 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">8</container> 
+         			<container type="folder">33</container> 
+         			<unittitle>UA Presents Programs (3 of 3),</unittitle>
+         			<unitdate>1999 – 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">8</container> 
+         			<container type="folder">34</container> 
+         			<unittitle>UA Presents related articles,</unittitle>
+         			<unitdate>2000 – 2001</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">8</container> 
+         			<container type="folder">35</container> 
+         			<unittitle>UA Presents Season,</unittitle>
+         			<unitdate>1995 – 1996 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">8</container> 
+         			<container type="folder">36</container> 
+         			<unittitle>UA Presents Season,</unittitle>
+         			<unitdate>1996 – 1997 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">9</container> 
+         			<container type="folder">1</container> 
+         			<unittitle>UA Presents Season,</unittitle>
+         			<unitdate>1997 – 1998 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">9</container> 
+         			<container type="folder">2</container> 
+         			<unittitle>UA Presents Season,</unittitle>
+         			<unitdate>1999 – 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">9</container> 
+         			<container type="folder">3</container> 
+         			<unittitle>UA Presents Season (1 of 2),</unittitle>
+         			<unitdate>1999 – 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">9</container> 
+         			<container type="folder">4</container> 
+         			<unittitle>UA Presents Season (2 of 2),</unittitle>
+         			<unitdate>1999 – 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">9</container> 
+         			<container type="folder">5</container> 
+         			<unittitle>UA Presents Season,</unittitle>
+         			<unitdate>2002 - 2003</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">9</container> 
+         			<container type="folder">6</container> 
+         			<unittitle>UA Presents Season,</unittitle>
+         			<unitdate>2003 – 2004</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">9</container> 
+         			<container type="folder">7</container> 
+         			<unittitle>UA Presents Season,</unittitle>
+         			<unitdate>2004 – 2005</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">9</container> 
+         			<container type="folder">8</container> 
+         			<unittitle>UA Presents Season Marketing,</unittitle>
+         			<unitdate>2007 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">9</container> 
+         			<container type="folder">9</container> 
+         			<unittitle>UA Presents Spring Shows,</unittitle>
+         			<unitdate>2007 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">9</container> 
+         			<container type="folder">10</container> 
+         			<unittitle>UA Presents Ticket Sales,</unittitle>
+         			<unitdate>2002 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">9</container> 
+         			<container type="folder">11</container> 
+         			<unittitle>UA Presents TTY,</unittitle>
+         			<unitdate>2002 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">9</container> 
+         			<container type="folder">12</container> 
+         			<unittitle>UA Presents various articles and ads,</unittitle>
+         			<unitdate>1999 – 2000 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">9</container> 
+         			<container type="folder">13</container> 
+         			<unittitle>University of Arizona Foundation – Action Plans,</unittitle>
+         			<unitdate>1999 – 2005</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">9</container> 
+         			<container type="folder">14</container> 
+         			<unittitle>University of Arizona Foundation – Evaluations,</unittitle>
+         			<unitdate>1999 – 2005</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">9</container> 
+         			<container type="folder">15</container> 
+         			<unittitle>University of Arizona Foundation – General Policies,</unittitle>
+         			<unitdate>undated</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">9</container> 
+         			<container type="folder">16</container> 
+         			<unittitle>University of Arizona Foundation – Meetings,</unittitle>
+         			<unitdate>2000</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">9</container> 
+         			<container type="folder">17</container> 
+         			<unittitle>University of Arizona Foundation – Miscellaneous,</unittitle>
+         			<unitdate>2000</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">9</container> 
+         			<container type="folder">18</container> 
+         			<unittitle>University of Arizona Foundation – Monthly Prospect Notes,</unittitle>
+         			<unitdate>2002 – 2005</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">9</container> 
+         			<container type="folder">19</container> 
+         			<unittitle>University of Arizona Foundation – Proposals,</unittitle>
+         			<unitdate>1993 – 2002 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">9</container> 
+         			<container type="folder">20</container> 
+         			<unittitle>US – Mexico Performing Arts Project Binational Database,</unittitle>
+         			<unitdate>May 30, 2001 </unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">9</container> 
+         			<container type="folder">21</container> 
+         			<unittitle>Various Publicity/Opening publications,</unittitle>
+         			<unitdate>1996 – 1997</unitdate>
+         		</did> 
+         	</c02>
+         	<c02 level="file"> 
+         		<did> 
+         			<container type="box">10</container> 
+         			<container type="folder">1</container> 
+         			<unittitle>Winter Preview,</unittitle>
+         			<unitdate>1997</unitdate>
+         		</did> 
+         	</c02>
+	     </c01> 
+      	<c01 level="series" id="ser3">
+      		<did> 
+      			<unitid>Series III</unitid>
+      			<unittitle>Miscellaneous Artist and Theater Materials,</unittitle> 
+      			<unitdate type="inclusive">2000 - 2002</unitdate>
+      		</did>
+      		<scopecontent><p>The collection contains materials including programs, marketing information, flyers, and published articles on the organization itself, on its former director Ken Foster, on the series of events UA Presents has put on, as well as various artist and theater marketing materials. </p></scopecontent>
+      		<c02 level="file"> 
+      			<did> 
+      				<container type="box">10</container> 
+      				<container type="folder">2</container> 
+      				<unittitle>Various Theater Season Programs,</unittitle>
+      				<unitdate>1995 – 1997 </unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container type="box">10</container> 
+      				<container type="folder">3</container> 
+      				<unittitle>Various Theater Season Programs,</unittitle>
+      				<unitdate>1997 – 1999  </unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container type="box">10</container> 
+      				<container type="folder">4</container> 
+      				<unittitle>Various Theater Season Programs,</unittitle>
+      				<unitdate>1999 – 2000  </unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container type="box">10</container> 
+      				<container type="folder">5</container> 
+      				<unittitle>Various Theater Season Programs (1 of 2),</unittitle>
+      				<unitdate>2000 – 2001 </unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container type="box">10</container> 
+      				<container type="folder">6</container> 
+      				<unittitle>Various Theater Season Programs (2 of 2),</unittitle>
+      				<unitdate>2000 – 2001 </unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container type="box">10</container> 
+      				<container type="folder">7</container> 
+      				<unittitle>Various Theater Season Programs,</unittitle>
+      				<unitdate>2001 – 2002 </unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container type="box">10</container> 
+      				<container type="folder">8</container> 
+      				<unittitle>Ann Brown,</unittitle>
+      				<unitdate>undated </unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container type="box">10</container> 
+      				<container type="folder">9</container> 
+      				<unittitle>Artist Marketing Materials,</unittitle>
+      				<unitdate>undated </unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container type="box">10</container> 
+      				<container type="folder">10</container> 
+      				<unittitle>Artsventure,</unittitle>
+      				<unitdate>undated </unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container type="box">10</container> 
+      				<container type="folder">11</container> 
+      				<unittitle>Baaba Maal,</unittitle>
+      				<unitdate>undated </unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container type="box">10</container> 
+      				<container type="folder">12</container> 
+      				<unittitle>Cedar Walton,</unittitle>
+      				<unitdate>undated </unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container type="box">10</container> 
+      				<container type="folder">13</container> 
+      				<unittitle>Columbia Artists Management,</unittitle>
+      				<unitdate>undated </unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container type="box">10</container> 
+      				<container type="folder">14</container> 
+      				<unittitle>Daniel Snyder Photographer Negatives,</unittitle>
+      				<unitdate>undated </unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container type="box">10</container> 
+      				<container type="folder">15</container> 
+      				<unittitle>The Dirty Dozen Brass Band,</unittitle>
+      				<unitdate>undated </unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container type="box">10</container> 
+      				<container type="folder">16</container> 
+      				<unittitle>Disney’s Beauty and the Beast,</unittitle>
+      				<unitdate>undated </unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container type="box">10</container> 
+      				<container type="folder">17</container> 
+      				<unittitle>Ivan Lins,</unittitle>
+      				<unitdate>undated </unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container type="box">10</container> 
+      				<container type="folder">18</container> 
+      				<unittitle>Michael Stevens,</unittitle>
+      				<unitdate>undated </unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container type="box">10</container> 
+      				<container type="folder">19</container> 
+      				<unittitle>Miscellaneous Negatives,</unittitle>
+      				<unitdate>undated </unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container type="box">10</container> 
+      				<container type="folder">20</container> 
+      				<unittitle>Nederlands Dans Theatre II “Skew Whiff”,</unittitle>
+      				<unitdate>undated </unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container type="box">10</container> 
+      				<container type="folder">21</container> 
+      				<unittitle>Omara,</unittitle>
+      				<unitdate>undated </unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container type="box">10</container> 
+      				<container type="folder">22</container> 
+      				<unittitle>Oumou,</unittitle>
+      				<unitdate>undated </unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container type="box">10</container> 
+      				<container type="folder">23</container> 
+      				<unittitle>Rinde Eckert,</unittitle>
+      				<unitdate>undated </unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container type="box">10</container> 
+      				<container type="folder">24</container> 
+      				<unittitle>Riverdance,</unittitle>
+      				<unitdate>undated </unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container type="box">10</container> 
+      				<container type="folder">25</container> 
+      				<unittitle>Tango Buenos Aires,</unittitle>
+      				<unitdate>undated </unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container type="box">10</container> 
+      				<container type="folder">26</container> 
+      				<unittitle>Tannis Gibson,</unittitle>
+      				<unitdate>undated </unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container type="box">10</container> 
+      				<container type="folder">27</container> 
+      				<unittitle>Terence Blanchard,</unittitle>
+      				<unitdate>undated </unitdate>
+      			</did> 
+      		</c02>
+      		<c02 level="file"> 
+      			<did> 
+      				<container type="box">10</container> 
+      				<container type="folder">28</container> 
+      				<unittitle>Vladimir Feltsman,</unittitle>
+      				<unitdate>undated </unitdate>
+      			</did> 
+      		</c02>
+      	</c01> 
+      </dsc> 
+   </archdesc>
+</ead>
