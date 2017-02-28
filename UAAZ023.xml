@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
 <?filetitle Yavapai Cattle Growers Papers?>
-<ead relatedencoding="MARC21"> 
+<ead xmlns="urn:isbn:1-931666-22-9"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"
+ relatedencoding="MARC21"> 
 <eadheader audience="internal" findaidstatus="edited-full-draft"
  langencoding="iso639-2b"> 
-  <eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
-	 Special Collections//text(US::AzU::Yavapai Cattle Growers Papers)//en"
-	 "UAAZ023.xml"</eadid> 
+  <eadid>UAAZ023</eadid> 
   <filedesc> 
 	 <titlestmt> 
-		<titleproper encodinganalog="245$a">Yavapai Cattle Growers papers,
-		  
-		  <date>1933-1965</date></titleproper> 
+		<titleproper encodinganalog="245$a">Yavapai Cattle Growers papers<date>1933-1965</date></titleproper> 
 		<author encodinganalog="245$c">Inventory prepared by Staff</author> 
 	 </titlestmt> 
 	 <publicationstmt> 
@@ -24,16 +22,22 @@
 		  <addressline>Fax: 520-621-9733</addressline> 
 		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline> 
 		</address> 
-		<date>&#x00A9; 2001</date> 
+		<date normal="2001">2001</date> 
 		<p>Arizona Board of Regents. All Rights Reserved.</p> 
 	 </publicationstmt> 
   </filedesc> 
   <profiledesc> 
 	 <creation encodinganalog="500">Inventory encoded by Jan Marie Payne 
-		<date>June 21, 2002</date></creation> 
-	 <langusage>Inventory is in<language langcode="en"
-		encodinganalog="546">English.</language></langusage> 
+		<date normal="20020621">2002-06-21</date></creation> 
+	 <langusage>Inventory is in<language langcode="eng"
+		encodinganalog="546">English</language></langusage> 
   </profiledesc> 
+    <revisiondesc>
+        <change>
+            <date normal="20170227">2017-02-27</date>
+            <item>This finding aid was manually revised and updated to EAD 2.0 specifications by Erik Radio</item>
+        </change>
+    </revisiondesc>
 </eadheader> 
 <frontmatter> 
   <titlepage> 
@@ -44,31 +48,31 @@
 		Collections</publisher> 
 	 <list> 
 		<defitem> 
-		  <label>Processed by:</label> 
+		  <label>Processed by</label> 
 		  <item>Staff</item> 
 		</defitem> 
 		<defitem> 
-		  <label>Date completed:</label> 
+		  <label>Date completed</label> 
 		  <item> 
 			 <date>1968</date></item> 
 		</defitem> 
 		<defitem> 
-		  <label>Encoded by:</label> 
+		  <label>Encoded by</label> 
 		  <item>Jan Marie Payne</item> 
 		</defitem> 
 	 </list> 
 	 <p>&#x00A9; 2001. Arizona Board of Regents. All rights reserved.</p> 
   </titlepage> 
 </frontmatter> 
-<archdesc level="collection"> 
+<archdesc level="collection" encodinganalog="351$c"> 
   <did id="a1"> 
 	 <head>Collection Summary</head> 
 	 <unittitle encodinganalog="245" label="Collection Name:">Yavapai Cattle Growers papers, 
 		<unitdate type="inclusive"
 		 normal="1933/1965">1933-1965</unitdate></unittitle> 
-	 <unitid label="Collection Number:" encodinganalog="099"
-	  repositorycode="AzU" countrycode="us">AZ 023 </unitid> 
-	 <origination label="Creator:"> 
+	 <unitid label="Collection Number" encodinganalog="099"
+	  repositorycode="US-azu" countrycode="US">AZ 023</unitid> 
+	 <origination label="Creator"> 
 		<corpname encodinganalog="110">Yavapai Cattle Growers
 		  (Association)</corpname></origination> 
 	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
@@ -78,7 +82,7 @@
 		to its history and activities, and its association with similar state and
 		national groups. Includes similar records of the Junior Yavapai Cattle Growers
 		Association.</abstract> 
-	 <repository label="Repository:"> 
+	 <repository label="Repository"> 
 		<corpname encodinganalog="110">Univerity of Arizona Libraries, Special
 		  Collections</corpname> 
 		<address> 
@@ -199,7 +203,7 @@
 		  <did> <container type="box">1</container> <container
 			 type="folder">1-5</container> 
 			 <unittitle>Correspondence. 
-				<unitdate type="inclusive" normal="AzU">1933-1961,
+				<unitdate type="inclusive" normal="1933/1965">1933-1961,
 				  1965</unitdate></unittitle> 
 		  </did> 
 		</c02> 
@@ -295,8 +299,8 @@
 		  <did> <container type="box">3</container> <container
 			 type="folder">9</container> 
 			 <unittitle>Insurance and tax papers. 
-				<unitdate type="inclusive" normal="AzU">1958-1960,
-				  1941</unitdate></unittitle> 
+				<unitdate type="inclusive" normal="1941/1960">1941,1958-1960,
+				  </unitdate></unittitle> 
 		  </did> 
 		</c02> 
 		<c02 level="file"> 
@@ -312,7 +316,7 @@
 			 type="folder">12-13</container> 
 			 <unittitle>Bank of Arizona: check stubbs, checks (petty cash
 				account). 
-				<unitdate type="inclusive" normal="AzU">1953-1960,
+				<unitdate type="inclusive" normal="1947/1960">1953-1960,
 				  1947-1953</unitdate></unittitle> 
 		  </did> 
 		</c02> 
