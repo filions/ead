@@ -1,134 +1,148 @@
 <?xml version="1.0"?>
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
-<ead relatedencoding="MARC21"> 
-<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
- audience="internal" id="a0"> 
-	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special
-		Collections//text(US::AzU::The Mark of a Man)//en""UAAZ030.xml"</eadid> 
-  <filedesc> 
-	 <titlestmt> 
-	 	<titleproper encodinganalog="title"> The Mark of a Man,
-	 		<date normal="1964" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">1964</date>
-	 	</titleproper>
-	 	<titleproper type="filing" altrender="nodisplay"> The Mark of a Man,
-	 		</titleproper>
-	 	<author>Processed by Staff.</author> 
-	 </titlestmt> 
-	 <publicationstmt> 
-	 	<publisher>University of Arizona Libraries, Special Collections</publisher> 
-		<address> 
-		  <addressline>PO Box 210055</addressline> 
-		  <addressline>Tucson, AZ 85721-0055</addressline> 
-		  <addressline>Phone: 520-621-6423</addressline> 
-		  <addressline>Fax: 520-621-9733</addressline> 
-		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
-		  <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
-		</address> 
-		<date normal= "2015" era= "ce" calendar = "gregorian">; 2015</date> 
-		<p>Arizona Board of Regents. All Rights Reserved.</p> 
-	 </publicationstmt> 
-  </filedesc> 
-  <profiledesc> 
-  	<creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
-  		<date era="ce" encodinganalog="date" normal="20151105">November 05, 2015</date></creation>
-	 <langusage>Finding aid is in<language> English.</language></langusage>
-  	<descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
-  </profiledesc>
-</eadheader>
-	<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
-  <did id="a1"> 
-	 <head>Collection Summary</head> 
-  	<unittitle encodinganalog="245" label="Collection Name:"> The Mark of a Man,
-  		<unitdate type="inclusive" label="Dates:" normal="1964">1964</unitdate>
-  	</unittitle>	 
-	 <unitid label="Collection Number:" encodinganalog="099"
-	 	repositorycode="AzU" countrycode="us">AZ 030</unitid>
-	 <origination label="Creator:"> 
-	 	<persname source="lcnaf" encodinganalog="100">Whiting, Francis Marion, 1911-</persname> </origination> 
-  	<abstract label="Abstract:">Francis Marion Whiting, born in 1911, was a scientist and a teacher. 
-  								This story is based on a tape recording of Frank Whiting, Sr.'s recollections in 1964.</abstract> 
-  	<physdesc encodinganalog="300$a" label="Physical Description:"><extent>.1 linear feet</extent></physdesc>	 
-	 <repository label="Repository:"> 
-	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
-		<address> 
-		  <addressline>University of Arizona</addressline> 
-		  <addressline>PO Box 210055</addressline> 
-		  <addressline>Tucson, AZ 85721-0055</addressline> 
-		  <addressline>Phone: 520-621-6423</addressline> 
-		  <addressline>Fax: 520-621-9733</addressline> 
-		  <addressline>URL: http://speccoll.library.arizona.edu/</addressline>
-		  <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
-		</address></repository>
-  	<langmaterial>Materials are in <language encodinganalog="546" langcode="eng"
-  		scriptcode="Latin">English.</language></langmaterial>
-  </did> 
-  <accessrestrict> 
-	 <head>Restrictions</head> 
-  	<p>There are no restrictions on this collection.</p> 
-  </accessrestrict> 
-  <userestrict> 
-	 <head>Copyright</head> 
-	 <p>It is the responsibility of the user to obtain permission to publish
-		from the owner of the copyright (the institution, the creator of the record,
-		the author or his/her transferees, heirs, legates, or literary executors). The
-		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
-		University of Arizona, its officers, employees, and agents from and against all
-		claims made by any person asserting that he or she is an owner of
-		copyright.</p> 
-  </userestrict> 
-  <prefercite> 
-	 <head>Credit Line</head> 
-  	<p>The Mark of a Man (AZ 030). Special
-  		Collections, University of Arizona Libraries.</p>
-  </prefercite> 
-  	<acqinfo>
-  		<head>Acquisition Information</head>
-  		<p>Acquired as gift, 1965.</p>
-  	</acqinfo>
-  <processinfo>
-  	<head>Processing History</head>
-  	<p>Processed by Staff.</p>
-  </processinfo>
-						<altformavail> 
-							<head>Alternate Form of Material</head>
-							<p>Photocopy of original typescript in possession of the author.</p>
-						</altformavail>
-  <bioghist id="a2" encodinganalog="545"> 
-	 <head>Biographical Note</head> 
-  	<p>Francis Marion Whiting, born in 1911, was a scientist and a teacher.</p> 
-  </bioghist> 
-  <arrangement id="a4" encodinganalog="351$a"> 
-	 <head>Arrangement</head> 
-  	<p>This collection is arranged in narrative sequence.</p>
-  </arrangement> 
-  <scopecontent id="a3" encodinganalog="520"> 
-	 <head>Scope and Content Note</head> 
-  	<p>This story is based on a tape recording of Frank Whiting, Sr.'s recollections in 1964. Bound typescript relates story 
-  		of the Charles Whiting family and its descendants; chiefly concerning their experiences as Mormon pioneers helping to 
-  		establish colonies in Chihuahua, Mexico, between 1885 and 1908. The family history information extends from 1876 to 1955, 
-  		but later years are covered very briefly.</p> 
-  </scopecontent>
-  	<controlaccess>
-  		<head>Access Terms</head>
-  		<list type="simple"> 
-  			<item>
-  				<persname encodinganalog="600" source= "lcnaf">Whiting, Francis Marion, 1885-</persname>
-  			</item>
-  			<item>
-  				<persname encodinganalog="600" source= "lcnaf">Whiting family -- Genealogy.</persname>
-  			</item>
-  			<item>
-  				<subject encodinganalog="650" source= "lcsh">Mormons -- Arizona.</subject>
-  			</item>
-  			<item>
-  				<subject encodinganalog="650" source= "lcsh">Mormons -- Mexico -- Chihuahua (State)</subject>
-  			</item>
-  			<item>
-  				<subject encodinganalog="650" source= "lcsh">Frontier and pioneer life -- Arizona.</subject>
-  			</item>
-  			<item>
-  				<subject encodinganalog="650" source= "lcsh">Frontier and pioneer life -- Mexico -- Chihuahua (State)</subject>
-  			</item>
-  		</list>
-  	</controlaccess>
-</archdesc></ead>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"
+	relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal">
+		<eadid>UAAZ030</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper encodinganalog="title">The Mark of a Man <date normal="1964" era="ce"
+						calendar="gregorian" certainty="approximate" type="inclusive">1964</date>
+				</titleproper>
+				<titleproper type="filing" altrender="nodisplay">The Mark of a Man </titleproper>
+				<author>Processed by Staff.</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>University of Arizona Libraries, Special Collections</publisher>
+				<address>
+					<addressline>PO Box 210055</addressline>
+					<addressline>Tucson, AZ 85721-0055</addressline>
+					<addressline>Phone: 520-621-6423</addressline>
+					<addressline>Fax: 520-621-9733</addressline>
+					<addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+					<addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+				</address>
+				<date normal="2015" era="ce" calendar="gregorian">2015</date>
+				<p>Arizona Board of Regents. All Rights Reserved.</p>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Inventory encoded in Oxygen XML editor by Steven Burg. <date era="ce"
+					encodinganalog="date" normal="20151105">2015-11-05</date></creation>
+			<langusage>Finding aid is in<language> English.</language></langusage>
+			<descrules>Finding aid based on DACS (Describing Archives: A Content
+				Standard).</descrules>
+		</profiledesc>
+		<revisiondesc>
+			<change>
+				<date normal="20170227">2017-03-01</date>
+				<item>This finding aid was manually revised and updated to EAD 2.0 specifications by
+					Erik Radio</item>
+			</change>
+		</revisiondesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory" relatedencoding="351$c">
+		<did id="a1">
+			<head>Collection Summary</head>
+			<unittitle encodinganalog="245" label="Collection Name"> The Mark of a Man, <unitdate
+					type="inclusive" label="Dates" normal="1964">1964</unitdate>
+			</unittitle>
+			<unitid label="Collection Number" encodinganalog="099" repositorycode="US-AzU"
+				countrycode="US">AZ 030</unitid>
+			<origination label="Creator">
+				<persname source="lcnaf" encodinganalog="100">Whiting, Francis Marion,
+					1911-</persname>
+			</origination>
+			<abstract label="Abstract">Francis Marion Whiting, born in 1911, was a scientist and a
+				teacher. This story is based on a tape recording of Frank Whiting, Sr.'s
+				recollections in 1964.</abstract>
+			<physdesc encodinganalog="300$a" label="Physical Description"><extent>.1 linear
+					feet</extent></physdesc>
+			<repository label="Repository">
+				<corpname>University of Arizona Libraries, Special Collections</corpname>
+				<address>
+					<addressline>University of Arizona</addressline>
+					<addressline>PO Box 210055</addressline>
+					<addressline>Tucson, AZ 85721-0055</addressline>
+					<addressline>Phone: 520-621-6423</addressline>
+					<addressline>Fax: 520-621-9733</addressline>
+					<addressline>URL: http://speccoll.library.arizona.edu/</addressline>
+					<addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
+				</address></repository>
+			<langmaterial>Materials are in <language encodinganalog="546" langcode="eng"
+					scriptcode="Latn">English</language></langmaterial>
+		</did>
+		<accessrestrict>
+			<head>Restrictions</head>
+			<p>There are no restrictions on this collection.</p>
+		</accessrestrict>
+		<userestrict>
+			<head>Copyright</head>
+			<p>It is the responsibility of the user to obtain permission to publish from the owner
+				of the copyright (the institution, the creator of the record, the author or his/her
+				transferees, heirs, legates, or literary executors). The user agrees to indemnify
+				and hold harmless the Arizona Board of Regents for the University of Arizona, its
+				officers, employees, and agents from and against all claims made by any person
+				asserting that he or she is an owner of copyright.</p>
+		</userestrict>
+		<prefercite>
+			<head>Credit Line</head>
+			<p>The Mark of a Man (AZ 030). Special Collections, University of Arizona Libraries.</p>
+		</prefercite>
+		<acqinfo>
+			<head>Acquisition Information</head>
+			<p>Acquired as gift, 1965.</p>
+		</acqinfo>
+		<processinfo>
+			<head>Processing History</head>
+			<p>Processed by Staff.</p>
+		</processinfo>
+		<altformavail>
+			<head>Alternate Form of Material</head>
+			<p>Photocopy of original typescript in possession of the author.</p>
+		</altformavail>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Francis Marion Whiting, born in 1911, was a scientist and a teacher.</p>
+		</bioghist>
+		<arrangement encodinganalog="351$a">
+			<head>Arrangement</head>
+			<p>This collection is arranged in narrative sequence.</p>
+		</arrangement>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>This story is based on a tape recording of Frank Whiting, Sr.'s recollections in
+				1964. Bound typescript relates story of the Charles Whiting family and its
+				descendants; chiefly concerning their experiences as Mormon pioneers helping to
+				establish colonies in Chihuahua, Mexico, between 1885 and 1908. The family history
+				information extends from 1876 to 1955, but later years are covered very briefly.</p>
+		</scopecontent>
+		<controlaccess>
+			<head>Access Terms</head>
+			<list type="simple">
+				<item>
+					<persname encodinganalog="600" source="lcnaf">Whiting, Francis Marion,
+						1885-</persname>
+				</item>
+				<item>
+					<persname encodinganalog="600" source="lcnaf">Whiting family</persname>
+				</item>
+				<item>
+					<subject encodinganalog="650" source="lcsh">Mormons -- Arizona.</subject>
+				</item>
+				<item>
+					<subject encodinganalog="650" source="lcsh">Mormons -- Mexico -- Chihuahua
+						(State)</subject>
+				</item>
+				<item>
+					<subject encodinganalog="650" source="lcsh">Frontier and pioneer life --
+						Arizona.</subject>
+				</item>
+				<item>
+					<subject encodinganalog="650" source="lcsh">Frontier and pioneer life -- Mexico
+						-- Chihuahua (State)</subject>
+				</item>
+			</list>
+		</controlaccess>
+	</archdesc>
+</ead>

@@ -1,13 +1,14 @@
 <?xml version="1.0"?>
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description(EAD)Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
-<ead relatedencoding="MARC21"> 
+<ead xmlns="urn:isbn:1-931666-22-9"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"
+ relatedencoding="MARC21"> 
 <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
- audience="internal" id="a0"> 
-	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library Special
-		Collections//text(US::AzU::Correspondence of George Walter Shute)//en""UAAZ026.xml"</eadid> 
+ audience="internal"> 
+	<eadid>UAAZ026</eadid> 
   <filedesc> 
 	 <titlestmt> 
-	 	<titleproper encodinganalog="title"> Correspondence of George Walter Shute,
+	 	<titleproper encodinganalog="title"> Correspondence of George Walter Shute
 	 		<date normal="1908/1912" era="ce" calendar="gregorian" certainty="approximate" type="inclusive">1908-1912</date>
 	 	</titleproper>
 	 	<titleproper type="filing" altrender="nodisplay">Shute, (George Walter) Correspondence of, 
@@ -24,32 +25,38 @@
 		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
 		  <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
 		</address> 
-		<date normal= "2015" era= "ce" calendar = "gregorian">; 2015</date> 
+		<date normal= "2015" era= "ce" calendar = "gregorian">2015</date> 
 		<p>Arizona Board of Regents. All Rights Reserved.</p> 
 	 </publicationstmt> 
   </filedesc> 
   <profiledesc> 
   	<creation>Inventory encoded in Oxygen XML editor by Steven Burg. 
-  		<date era="ce" encodinganalog="date" normal="20151105">November 05, 2015</date></creation>
+  		<date era="ce" encodinganalog="date" normal="20151105">2015-11-05</date></creation>
 	 <langusage>Finding aid is in<language> English.</language></langusage>
   	<descrules>Finding aid based on DACS (Describing Archives: A Content Standard).</descrules>
   </profiledesc>
+	<revisiondesc>
+		<change>
+			<date normal="20170227">2017-02-27</date>
+			<item>This finding aid was manually revised and updated to EAD 2.0 specifications by Erik Radio</item>
+		</change>
+	</revisiondesc>
 </eadheader>
-	<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	<archdesc level="collection" type="inventory" relatedencoding="351$c"> 
   <did id="a1"> 
 	 <head>Collection Summary</head> 
-  	<unittitle encodinganalog="245" label="Collection Name:"> Correspondence of George Walter Shute,
-  		<unitdate type="inclusive" label="Dates:" normal="1908/1912">1908-1912</unitdate>
+  	<unittitle encodinganalog="245" label="Collection Name"> Correspondence of George Walter Shute,
+  		<unitdate type="inclusive" label="Dates" normal="1908/1912">1908-1912</unitdate>
   	</unittitle> 
-	 <unitid label="Collection Number:" encodinganalog="099"
-	 	repositorycode="AzU" countrycode="us">AZ 026</unitid>
-	 <origination label="Creator:"> 
+	 <unitid label="Collection Number" encodinganalog="099"
+	 	repositorycode="US-AzU" countrycode="US">AZ 026</unitid>
+	 <origination label="Creator"> 
 	 	<persname source="lcnaf" encodinganalog="100">Shute, G.W. (George Walter), 1876-</persname> 
 	 </origination> 
-  	<abstract label="Abstract:">George Walter Shute, born 1876, served as District Attorney of Gila County, Arizona from 1908-1912. 
+  	<abstract label="Abstract">George Walter Shute, born 1876, served as District Attorney of Gila County, Arizona from 1908-1912. 
   								The collection includes letters, chiefly relating to his activities as District Attorney.</abstract> 
-  	<physdesc encodinganalog="300$a" label="Physical Description:"><extent>.8 linear feet</extent></physdesc>	 
-	 <repository label="Repository:"> 
+  	<physdesc encodinganalog="300$a" label="Physical Description"><extent>.8 linear feet</extent></physdesc>	 
+	 <repository label="Repository"> 
 	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
 		<address> 
 		  <addressline>University of Arizona</addressline> 
@@ -61,7 +68,7 @@
 		  <addressline>E-Mail: LBRY-askspcoll@email.arizona.edu</addressline>
 		</address></repository>
   	<langmaterial>Materials are in <language encodinganalog="546" langcode="eng"
-  		scriptcode="Latin">English.</language></langmaterial>
+  		scriptcode="Latn">English</language></langmaterial>
   </did> 
   <accessrestrict> 
 	 <head>Restrictions</head> 
@@ -90,15 +97,15 @@
   	<head>Processing History</head>
   	<p>Processed by Staff.</p>
   </processinfo>
-  <bioghist id="a2" encodinganalog="545"> 
+  <bioghist encodinganalog="545"> 
 	 <head>Biographical Note</head> 
   	<p>George Walter Shute, born 1876, served as District Attorney of Gila County, Arizona from 1908-1912.</p> 
   </bioghist> 
-  <arrangement id="a4" encodinganalog="351$a"> 
+  <arrangement encodinganalog="351$a"> 
 	 <head>Arrangement</head> 
   	<p>This collection is arranged chronologically.</p>
   </arrangement> 
-  <scopecontent id="a3" encodinganalog="520"> 
+  <scopecontent encodinganalog="520"> 
 	 <head>Scope and Content Note</head> 
   		<p>The collection includes letters, chiefly relating to his activities as District Attorney. 
   		Includes material concerning civic activities in Globe and land litigation in the area of Roosevelt Dam.</p> 
@@ -107,16 +114,16 @@
   		<head>Access Terms</head>
   		<list type="simple">
   			<item>
-  				<geogname encodinganalog="651" source="lcsh">Arizona -- History -- Sources.</geogname>
+  				<geogname encodinganalog="651" source="lcsh">Arizona</geogname>
   			</item>
   			<item>
-  				<geogname encodinganalog="651" source= "lcsh">Gila County (Ariz.) -- Politics and government.</geogname>
+  				<geogname encodinganalog="651" source= "lcsh">Gila County (Ariz.)</geogname>
   			</item>
   			<item>
-  				<geogname encodinganalog="651" source= "lcsh">Globe (Ariz.) -- History.</geogname>
+  				<geogname encodinganalog="651" source= "lcsh">Globe (Ariz.)</geogname>
   			</item>
   			<item>
-  				<geogname encodinganalog="651" source= "lcsh">Theodore Roosevelt Dam (Ariz.) -- History.</geogname>
+  				<geogname encodinganalog="651" source= "lcsh">Theodore Roosevelt Dam (Ariz.)</geogname>
   			</item>
   		</list>
   	</controlaccess>

@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
-<ead relatedencoding="MARC21"> 
+<ead xmlns="urn:isbn:1-931666-22-9"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"
+ relatedencoding="MARC21"> 
 <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
- audience="internal" id="a0"> 
-	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library SpecialCollections//text(US::AzU::The University of Arizona and World War II)//en""UAAZ025.xml"</eadid> 
+ audience="internal"> 
+	<eadid>UAAZ025</eadid> 
   <filedesc> 
 	 <titlestmt> 
-	 	<titleproper>The University of Arizona and World War II,
+	 	<titleproper>The University of Arizona and World War II
 	 		<date normal="1942/1951" era="ce" calendar="gregorian" type="inclusive">1942-1951</date></titleproper>
 	 	<titleproper type="filing" altrender="nodisplay">The University of Arizona and World War II</titleproper>
 	 	<author>Processed by Staff.</author> 
@@ -20,15 +22,21 @@
 		  <addressline>Fax: 520-621-9733</addressline> 
 		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
 		</address> 
-		<date normal= "2013" era= "ce" calendar = "gregorian">; 2013</date> 
+		<date normal= "2013" era= "ce" calendar = "gregorian">2013</date> 
 		<p>Arizona Board of Regents. All Rights Reserved.</p> 
 	 </publicationstmt> 
   </filedesc> 
   <profiledesc> 
   	<creation>Inventory encoded in Oxygen XML editor by Deborah Weller. 
-		<date era="ce" encodinganalog="date" normal="20130416">April 16, 2013</date></creation> 
-	 <langusage>Finding aid is in<language> English.</language></langusage> 
+		<date era="ce" encodinganalog="date" normal="20130416">2013-04-16</date></creation> 
+	 <langusage>Finding aid is in<language>English</language></langusage> 
   </profiledesc> 
+	<revisiondesc>
+		<change>
+			<date normal="20170227">2017-02-27</date>
+			<item>This finding aid was manually revised and updated to EAD 2.0 specifications by Erik Radio</item>
+		</change>
+	</revisiondesc>
 </eadheader> 
 <frontmatter> 
   <titlepage> 
@@ -37,34 +45,34 @@
   	<publisher>University of Arizona Libraries, Special Collections</publisher> 
 	 <list> 
 		<defitem> 
-		  <label>Processed by:</label> 
-		  <item>Staff.</item> 
+		  <label>Processed by</label> 
+		  <item>Staff</item> 
 		</defitem> 
 		<defitem> 
-		  <label>Date completed:</label> 
+		  <label>Date completed</label> 
 		  <item> 
-			 <date>September 21, 1994</date></item> 
+			 <date normal="19940921">September 21, 1994</date></item> 
 		</defitem> 
 		<defitem> 
-		  <label>Encoded by:</label> 
+		  <label>Encoded by</label> 
 		  <item>Deborah Weller</item> 
 		</defitem> 
 	 </list> 
 	 <p>&#x00A9; 20013. Arizona Board of Regents. All rights reserved.</p> 
   </titlepage> 
 </frontmatter> 
-<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
-  <did id="a1"> 
+	<archdesc level="collection" type="inventory" relatedencoding="351$c"> 
+  <did> 
 	 <head>Collection Summary</head> 
-  	<unittitle encodinganalog="245" label="Collection Name:">The University of Arizona and World War II,
-  		<unitdate type="inclusive" label="Dates:">1942-1951,</unitdate></unittitle>	 
-	 <unitid label="Collection Number:" encodinganalog="099"
-	 repositorycode="AzU" countrycode="us">AZ 025</unitid> 
-	 <origination label="Creator:"> 
+  	<unittitle encodinganalog="245" label="Collection Name">The University of Arizona and World War II,
+  		<unitdate type="inclusive" label="Dates">1942-1951</unitdate></unittitle>	 
+	 <unitid label="Collection Number" encodinganalog="099"
+	 repositorycode="US-AzU" countrycode="US">AZ 025</unitid> 
+	 <origination label="Creator"> 
 	 	<persname encodinganalog="100">Cosulich, Bernice,1896-1956.</persname></origination> 
-  	<abstract label="Abstract:">Reports,faculty and staff questionaires, and other material gathered by the University for use in the creation of this manuscript which documented the UA's involvement in World War II.</abstract> 
-	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent>O.4 Linear feet</extent></physdesc>	 
-	 <repository label="Repository:"> 
+  	<abstract label="Abstract">Reports,faculty and staff questionaires, and other material gathered by the University for use in the creation of this manuscript which documented the UA's involvement in World War II.</abstract> 
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent>O.4 Linear feet</extent></physdesc>	 
+	 <repository label="Repository"> 
 	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
 		<address> 
 		  <addressline>University of Arizona</addressline> 
@@ -94,7 +102,7 @@
   	<p>The University of Arizona and World War II,(AZ 025). Special
   		Collections, University of Arizona Libraries.</p> 
   </prefercite> 
-	<bioghist id="a2" encodinganalog="545"> 
+	<bioghist encodinganalog="545"> 
 	<head>Biographical Note</head> 
 	 <p>Bernice Cosulich was born in Iowa in 1896. She married Gilbert Cosulich in 1916 and they
 		had one daughter, Donna. Together they lived on the southern border of the United States
@@ -105,15 +113,15 @@
 		legislature from 1941-1946. Cosulich retired in 1948 due to health reasons, but continued to
 		research and published a book in 1953 called <title render="italic">Tucson</title>.</p> 
   </bioghist> 
-  <arrangement id="a4" encodinganalog="351$a"> 
+  <arrangement encodinganalog="351$a"> 
 	 <head>Arrangement</head> 
 	 <p>This publication is arranged by the type of material</p>	 
   </arrangement> 
-  <scopecontent id="a3" encodinganalog="520"> 
+  <scopecontent encodinganalog="520"> 
 	 <head>Scope and Content Note</head> 
   	<p>Original typescript, with reports, faculty and staff questionaires, and other material gathered by the University during 1942-1945 and used in preparation of this manuscript.  Includes a lists of students and faculty who served in the war along with their rank, branch of service, school, and year of graduation; list of those who died in the war; and a separate list of women who served.</p> 
   </scopecontent> 
-  <controlaccess id="a12"> 
+  <controlaccess> 
 	 <head>Access Terms</head> 
 	 <list> 
 		<item> 
@@ -128,7 +136,7 @@
   			<corpname source="lcsh" role="subject " encodinganalog="610">University of Arizona--History.</corpname></item>
   	</list> 
   </controlaccess> 
-  <dsc type="combined" id="a23"> 
+  <dsc type="combined"> 
 	 <head>Container List</head> 
 	 <c01 level="file"> 
 		  <did> <container type="box" label="">1</container> 

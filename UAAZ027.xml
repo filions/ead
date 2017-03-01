@@ -1,1388 +1,1417 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
 <?filetitle Henderson, Alexander S. Papers?>
-<ead relatedencoding="MARC21"> 
-<eadheader audience="internal" findaidstatus="edited-full-draft"
- langencoding="iso639-2b"> 
-  <eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
-	 Special Collections//text(US::AzU::Alexander S. Henderson Papers)//en"
-	 "UAAZ027.xml"</eadid> 
-  <filedesc> 
-	 <titlestmt> 
-		<titleproper encodinganalog="245$a">Alexander S. Henderson papers, 
-		  <date>1888-1963 (bulk 1900-1954)</date></titleproper> 
-		<author encodinganalog="245$c">Inventory prepared by Phyllis
-		  Ball</author> 
-	 </titlestmt> 
-	 <publicationstmt> 
-		<publisher encodinganalog="260$b">University of Arizona Libraries, Special
-		  Collections</publisher> 
-		<address> 
-		  <addressline>PO Box 210055</addressline> 
-		  <addressline>Tucson, AZ 85721-0055</addressline> 
-		  <addressline>Phone: 520-621-6423</addressline> 
-		  <addressline>Fax: 520-621-9733</addressline> 
-		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
-		</address> 
-		<date>&#x00A9; 2001</date> 
-		<p>Arizona Board of Regents. All Rights Reserved.</p> 
-	 </publicationstmt> 
-  </filedesc> 
-  <profiledesc> 
-	 <creation encodinganalog="500">Inventory encoded by Jan Marie Payne 
-		<date>June 24, 2002</date></creation> 
-	 <langusage>Inventory is in<language langcode="en"
-		encodinganalog="546">English.</language></langusage> 
-  </profiledesc> 
-</eadheader> 
-<frontmatter> 
-  <titlepage> 
-	 <titleproper encodinganalog="245$a">Alexander S. Henderson papers, 
-		<date>1888-1963 (bulk 1900-1954)</date></titleproper> 
-	 <num>Collection Number: AZ 027</num> 
-	 <publisher encodinganalog="260$b">University of Arizona Libraries, Special
-		Collections</publisher> 
-	 <list> 
-		<defitem> 
-		  <label>Processed by:</label> 
-		  <item>Phyllis Ball</item> 
-		</defitem> 
-		<defitem> 
-		  <label>Date completed:</label> 
-		  <item> 
-			 <date>1968</date></item> 
-		</defitem> 
-		<defitem> 
-		  <label>Encoded by:</label> 
-		  <item>Jan Marie Payne</item> 
-		</defitem> 
-	 </list> 
-	 <p>&#x00A9; 2001. Arizona Board of Regents. All rights reserved.</p> 
-  </titlepage> 
-</frontmatter> 
-<archdesc level="collection"> 
-  <did id="a1"> 
-	 <head>Collection Summary</head> 
-	 <unittitle encodinganalog="245" label="Collection Name:">Alexander S. Henderson papers, 
-		<unitdate type="inclusive" normal="">1888-1963 (bulk
-		  1900-1954)</unitdate></unittitle> 
-	 <unitid label="Collection Number:" encodinganalog="099"
-	  repositorycode="AzU" countrycode="us"> AZ 027</unitid> 
-	 <origination label="Creator:"> 
-		<persname encodinganalog="100">Henderson, Alexander S.,
-		  1859-1944</persname></origination> 
-	 <abstract label="Abstract:">Chiefly records of the A.S.Henderson general
-		merchandise store in Patagonia, Arizona, from 1900 to 1940 including
-		inventories, correspondence, merchandise ads, ledgers, monthly account books,
-		and bills. </abstract> 
-	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
-		encodinganalog="300">11 linear feet</extent></physdesc> 
-	 <repository label="Repository:"> 
-		<corpname encodinganalog="110">University of Arizona Libraries, Special
-		  Collections</corpname> 
-		<address> 
-		  <addressline>University of Arizona</addressline> 
-		  <addressline>PO Box 210055</addressline> 
-		  <addressline>Tucson, AZ 85721-0055</addressline> 
-		  <addressline>Phone: 520-621-6423</addressline> 
-		  <addressline>Fax: 520-621-9733</addressline> 
-		 <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
-		</address></repository> 
-  </did> 
-  <accessrestrict encodinganalog="506"> 
-	 <head>Restrictions</head> 
-	 <p>None.</p> 
-  </accessrestrict> 
-  <userestrict encodinganalog="540"> 
-	 <head>Copyright</head> 
-	 <p>It is the responsibility of the user to obtain permission to publish
-		from the owner of the copyright (the institution, the creator of the record,
-		the author or his/her transferees, heirs, legates, or literary executors). The
-		user agrees to indemnify and hold harmless the Arizona Board of Regents for the
-		University of Arizona, its officers, employees, and agents from and against all
-		claims made by any person asserting that he or she is an owner of
-		copyright.</p> 
-  </userestrict> 
-  <prefercite encodinganalog="524"> 
-	 <head>Credit Line</head> 
-	 <p>Alexander S. Henderson papers (AZ 027). Special
-	 	Collections, University of Arizona Libraries.</p> 
-  </prefercite> 
-  <bioghist id="a2" encodinganalog="545"> 
-	 <head>Biographical Note</head> 
-	 <p>Henderson was a merchant in Patagonia, Arizona. </p> 
-  </bioghist> 
-  <arrangement> 
-	 <head>Organization</head> 
-	 <p>This collection is organized into six series: </p> 
-	 <list> 
-		<item>Series I: A.S.Henderson Store Records, 
-		  <date>1907-1940</date></item> 
-		<item>Series II: Mining Records and Correspondence, 
-		  <date>1911-1954</date></item> 
-		<item>Series III: Property Records and Investments, 
-		  <date>1900-1963</date></item> 
-		<item>Series IV: Alexander S. Henderson, Personal Materials, 
-		  <date>1899-1958</date></item> 
-		<item>Series V: Eva Henderson, Personal Materials, 
-		  <date>1888-1961</date></item> 
-		<item>Series VI: Chinese Materials, 
-		  <date>1900-1954</date></item> 
-	 </list> 
-  </arrangement> 
-  <scopecontent id="a3" encodinganalog="520"> 
-	 <head>Scope and Content Note</head> 
-	 <p>Chiefly records of the A.S.Henderson general merchandise store in
-		Patagonia, Arizona, from 1900 to 1940 including inventories, correspondence,
-		merchandise ads, ledgers, monthly account books, and bills. His mining
-		interests are represented by correspondence with Josiah Bond and John F.
-		Campbell; legal papers; assay and ore reports; and notices of numerous mines in
-		Santa Cruz County. A photograph album depicts the mine buildings and personnel
-		of the Black Bonanza Mine. Real estate ventures were mainly in the Patagonia
-		area and California. His investments include mainly oil and gas leases in
-		Texas. Personal items for him include correspondence, portraits, bank
-		statements, health books, automobile information, and documents relating to his
-		position on the Santa Cruz County Board of Supervisors. </p> 
-	 <p>Eva Henderson materials include personal correspondence with pioneer
-		relatives in Oklahoma; also books, certificates, photos, and other items
-		related to her educational and professional osteopath activities in Oklahoma
-		and Arizona. Minnie Stevens materials include a musical composition, a diary,
-		photos, and typescripts on Oklahoma land claim shanties. </p> 
-	 <p>Personal and business activities of Chinese merchants in Patagonia are
-		documented by files of Woo Ben, Louis Kang, Sam Thomas, and Tom Wegin and
-		include holograph notebooks and letters in Chinese characters, and printed
-		items concerned with fortune-telling, literature, philosophy, and medicine.
-		These materials were found in the leased section of the Henderson store. </p> 
-	 <p>Most material is in English, some in Chinese. </p> 
-  </scopecontent> 
-  <controlaccess id="a12"> 
-	 <head>Access Terms</head> 
-	 <list> 
-		<item> 
-		  <persname encodinganalog="100">Henderson, Alexander S., 1859-1944 --
-			 Archives</persname></item> 
-	 </list> 
-	 <list> 
-		<item> 
-		  <persname encodinganalog="100">Henderson, Eva, 1871-1965 --
-			 Archives</persname></item> 
-	 </list> 
-	 <list> 
-		<item> 
-		  <persname encodinganalog="100">Stevens, Minnie
-			 Rosilla</persname></item> 
-	 </list> 
-	 <list> 
-		<item> 
-		  <persname encodinganalog="100">Bond, Josiah</persname></item> 
-	 </list> 
-	 <list> 
-		<item> 
-		  <persname encodinganalog="100">Campbell, John F.</persname></item> 
-	 </list> 
-	 <list> 
-		<item> 
-		  <persname encodinganalog="100">Kang, Louis</persname></item> 
-	 </list> 
-	 <list> 
-		<item> 
-		  <persname encodinganalog="100">Thomas, Sam</persname></item> 
-	 </list> 
-	 <list> 
-		<item> 
-		  <persname encodinganalog="100">Ben, Woo</persname></item> 
-	 </list> 
-	 <list> 
-		<item> 
-		  <persname encodinganalog="100">Wegin, Tom</persname></item> 
-	 </list> 
-	 <list> 
-		<item> 
-		  <subject>Frontier and pioneer life -- Arizona -- Santa Cruz
-			 County</subject></item> 
-	 </list> 
-	 <list> 
-		<item> 
-		  <subject>Frontier and pioneer life -- Oklahoma</subject></item> 
-	 </list> 
-	 <list> 
-		<item> 
-		  <subject>Women pioneers</subject></item> 
-	 </list> 
-	 <list> 
-		<item> 
-		  <subject>Chinese -- Arizona -- Patagonia -- History</subject></item> 
-	 </list> 
-	 <list> 
-		<item> 
-		  <subject>Chinese Americans -- Photographs</subject></item> 
-	 </list> 
-	 <list> 
-		<item> 
-		  <subject>Merchants -- Arizona -- Patagonia -- History</subject></item> 
-	 </list> 
-	 <list> 
-		<item> 
-		  <subject>Mines and mineral resources -- Arizona --
-			 History</subject></item> 
-	 </list> 
-	 <list> 
-		<item> 
-		  <subject>Mine buildings -- Arizona -- Santa Cruz County --
-			 Photographs</subject></item> 
-	 </list> 
-	 <list> 
-		<item> 
-		  <subject>Fortune-telling</subject></item> 
-	 </list> 
-	 <list> 
-		<item> 
-		  <subject>Osteopathic medicine -- History</subject></item> 
-	 </list> 
-	 <list> 
-		<item> 
-		  <subject>Retail trade -- Arizona -- History</subject></item> 
-	 </list> 
-	 <list> 
-		<item> 
-		  <geogname>Santa Cruz County (Ariz.) -- Politics and
-			 government</geogname></item> 
-	 </list> 
-	 <list> 
-		<item> 
-		  <geogname>Patagonia (Ariz.) -- History</geogname></item> 
-	 </list> 
-	 <list> 
-		<item> 
-		  <geogname>Black Bonanza Mine (Ariz.) </geogname></item> 
-	 </list> 
-	 <list> 
-		<item> 
-		  <genreform>Account books</genreform></item> 
-	 </list> 
-	 <list> 
-		<item> 
-		  <genreform>Correspondence</genreform></item> 
-	 </list> 
-	 <list> 
-		<item> 
-		  <genreform>Photographs</genreform></item> 
-	 </list> 
-  </controlaccess> 
-  <dsc type="combined" id="a23"> 
-	 <head>Container List</head> 
-	 <c01 level="series"> 
-		<did> 
-		  <unittitle>Series I: A.S. Henderson Store Records, 
-			 <unitdate type="inclusive"
-			  normal="1907/1940">1907-1940</unitdate></unittitle> 
-		</did> 
-		<c02 level="file"> 
-		  <did> <container type="volume">1</container> 
-			 <unittitle>Cash Book. 
-				<unitdate type="inclusive" normal="">January 1909-October
-				  1914</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="volume">2</container> 
-			 <unittitle>Ledger. 
-				<unitdate type="inclusive"
-				 normal="1909">1909</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="volume">3</container> 
-			 <unittitle>Journal. 
-				<unitdate type="inclusive" normal="NaN/1916">October
-				  1911-1916</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="volume">4</container> 
-			 <unittitle>Journal. 
-				<unitdate type="inclusive"
-				 normal="1916/1923">1916-1923</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">5</container> 
-			 <unittitle>Store financial records: 3 ledgers. 
-				<unitdate type="inclusive"
-				 normal="1911/1912">1911-1912</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">5</container> 
-			 <unittitle>Store financial records: Wholesale accounts. </unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">5</container> 
-			 <unittitle>Store financial records: Cost sale price-book. 
-				<unitdate type="inclusive"
-				 normal="1911/1913">1911-1913</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">5</container> 
-			 <unittitle>Store financial records: Monthly accounts. 
-				<unitdate type="inclusive" normal="NaN/1914">1909,
-				  1911-1914</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">6</container> 
-			 <unittitle>Monthly accounts (four books). 
-				<unitdate type="inclusive"
-				 normal="1916/1917">1916-1917</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">7</container> 
-			 <unittitle>Monthly accounts (13 books &amp; envelopes). 
-				<unitdate type="inclusive"
-				 normal="1918/1940">1918-1940</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">8</container> 
-			 <unittitle>Store financial records: invoice register. 
-				<unitdate type="inclusive"
-				 normal="1908/1909">1908-1909</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">8</container> 
-			 <unittitle>Store financial records: cost price book. </unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">8</container> 
-			 <unittitle>Store financial records: notarial record book. 
-				<unitdate type="inclusive"
-				 normal="1907/1909">1907-1909</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">8</container> 
-			 <unittitle>Store financial records: inventories. </unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">8</container> 
-			 <unittitle>Store financial records: 2 folders of miscellaneous
-				accounts. </unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">9</container> 
-			 <unittitle>Store correspondence. 
-				<unitdate type="inclusive"
-				 normal="1909/1930">1909-1930</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">10</container> <container
-			 type="folder">1-5</container> 
-			 <unittitle>Store bills: various. 
-				<unitdate type="inclusive"
-				 normal="1909/1934">1909-1934</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">10</container> <container
-			 type="folder">6</container> 
-			 <unittitle>Store bills: J.A. Dick, El Paso. 
-				<unitdate type="inclusive"
-				 normal="1911/1925">1911-1925</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">10</container> <container
-			 type="folder">7</container> 
-			 <unittitle>Store bills: Escalad Brothers, Nogales. 
-				<unitdate type="inclusive"
-				 normal="1914/1934">1914-1934</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">10</container> <container
-			 type="folder">8</container> 
-			 <unittitle>Store bills: B. Maier &amp; Co., Benson. 
-				<unitdate type="inclusive"
-				 normal="1915/1928">1915-1928</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">10</container> <container
-			 type="folder">9</container> 
-			 <unittitle>Store bills: Murray &amp; Layne Co., Deming, NM. 
-				<unitdate type="inclusive"
-				 normal="1920/1925">1920-1925</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">10</container> <container
-			 type="folder">10</container> 
-			 <unittitle>Store bills: Albert Steinfeld &amp; Co., Tucson. 
-				<unitdate type="inclusive"
-				 normal="1912/1925">1912-1925</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">11</container> <container
-			 type="folder">1</container> 
-			 <unittitle>Store miscellany: merchandise orders on Henderson store.
-				</unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">11</container> <container
-			 type="folder">2</container> 
-			 <unittitle>Store miscellany: advertisements (calendars, blotters,
-				notebooks, almanacs, etc.). </unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">11</container> <container
-			 type="folder">3</container> 
-			 <unittitle>Store miscellany: ads, trade journals, revenue stamps,
-				letterhead paper, etc. </unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">12</container> <container
-			 type="folder">1</container> 
-			 <unittitle>Store Mercandise Ads (A-K): canvas goods. </unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">12</container> <container
-			 type="folder">2</container> 
-			 <unittitle>Store Mercandise Ads (A-K): clothing. </unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">12</container> <container
-			 type="folder">3</container> 
-			 <unittitle>Store Mercandise Ads (A-K): construction materials
-				(fences, roofing, paint, floor-covering). </unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">12</container> <container
-			 type="folder">4</container> 
-			 <unittitle>Store Mercandise Ads (A-K): food. </unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">12</container> <container
-			 type="folder">5</container> 
-			 <unittitle>Store Mercandise Ads (A-K): furnaces and heating
-				equipment. </unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">12</container> <container
-			 type="folder">6</container> 
-			 <unittitle>Store Mercandise Ads (A-K): hardware and machinery.
-				</unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">12</container> <container
-			 type="folder">7</container> 
-			 <unittitle>Store Mercandise Ads (A-K): hats. </unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">12</container> <container
-			 type="folder">8</container> 
-			 <unittitle>Store Mercandise Ads (A-K): household supplies and
-				equipment. </unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">13</container> <container
-			 type="folder">1</container> 
-			 <unittitle>Store Mercandise Ads (L-Z): lamps and lighting.
-				</unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">13</container> <container
-			 type="folder">2</container> 
-			 <unittitle>Store Mercandise Ads (L-Z): saddlery, harnesses, wagons.
-				</unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">13</container> <container
-			 type="folder">3</container> 
-			 <unittitle>Store Mercandise Ads (L-Z): shoes. </unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">13</container> <container
-			 type="folder">4</container> 
-			 <unittitle>Store Mercandise Ads (L-Z): seed catalog. </unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">13</container> <container
-			 type="folder">5</container> 
-			 <unittitle>Store Mercandise Ads (L-Z): miscellaneous. </unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">13</container> 
-			 <unittitle>Store Mercandise Ads (L-Z): Marconi Velvet Tone Disc
-				Records ("For sale by Henderson &amp; Johnson, Patagonia, Arizona").
-				</unittitle> 
-		  </did> 
-		</c02> 
-	 </c01> 
-	 <c01 level="series"> 
-		<did> 
-		  <unittitle>Series II: Mining Records and Correspondence, 
-			 <unitdate type="inclusive"
-			  normal="1911/1954">1911-1954</unitdate></unittitle> 
-		</did> 
-		<c02 level="file"> 
-		  <did> <container type="box">14</container> <container
-			 type="folder">1-3</container> 
-			 <unittitle>General. 
-				<unitdate type="inclusive"
-				 normal="1912/1913">1912-1913</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">14</container> <container
-			 type="folder">4</container> 
-			 <unittitle>Josiah Bond. 
-				<unitdate type="inclusive"
-				 normal="1914/1933">1914-1933</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">14</container> <container
-			 type="folder">5</container> 
-			 <unittitle>Phelps Dodge Corporation. 
-				<unitdate type="inclusive" normal="NaN/1935">1913,
-				  1926-1935</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">14</container> <container
-			 type="folder">6</container> 
-			 <unittitle>John F. Campbell and wife. 
-				<unitdate type="inclusive"
-				 normal="1912/1954">1912-1954</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">14</container> <container
-			 type="folder">7</container> 
-			 <unittitle> 
-				<title render="italic">Arizona Lyrics</title> (magazine of verse
-				written and published by Josiah Bond at Alto, Arizona). 
-				<unitdate type="inclusive"
-				 normal="1921/1924">1921-1924</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">15</container> <container
-			 type="folder">1-2</container> 
-			 <unittitle>Notice of mining location. </unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">15</container> <container
-			 type="folder">3</container> 
-			 <unittitle>Harshaw mining district. </unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">15</container> <container
-			 type="folder">4</container> 
-			 <unittitle>Patagonia mining district (Golden State mine).
-				</unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">15</container> <container
-			 type="folder">5</container> 
-			 <unittitle>Patagonia mining district. </unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">15</container> <container
-			 type="folder">6</container> 
-			 <unittitle>Tyndall mining district (Alto mines group). </unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">15</container> <container
-			 type="folder">7</container> 
-			 <unittitle>Tyndall mining district (Jefferson mine, Baca float.
-				</unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">15</container> <container
-			 type="folder">8</container> 
-			 <unittitle>Tyndall mining district. </unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">15</container> <container
-			 type="folder">9</container> 
-			 <unittitle>Wrightstown mining district. </unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">15</container> <container
-			 type="folder">10</container> 
-			 <unittitle>Miscellaneous mining papers. </unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">16</container> <container
-			 type="folder">1</container> 
-			 <unittitle>Ore settlements (Consolidated Kansas City Smelting &amp;
-				Refining Co.). 
-				<unitdate type="inclusive"
-				 normal="1911/1925">1911-1925</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">16</container> <container
-			 type="folder">2</container> 
-			 <unittitle>Ore settlements (American Smelting &amp; Refining Co.). 
-				<unitdate type="inclusive"
-				 normal="1925/1939">1925-1939</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">16</container> <container
-			 type="folder">3</container> 
-			 <unittitle>Ore settlements (Phelps Dodge Corporation). 
-				<unitdate type="inclusive"
-				 normal="1926/1930">1926-1930</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">16</container> <container
-			 type="folder">4</container> 
-			 <unittitle>Assay Reports (American Smelting &amp; Refining Co.). 
-				<unitdate type="inclusive"
-				 normal="1926/1941">1926-1941</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">16</container> <container
-			 type="folder">5</container> 
-			 <unittitle>Assay Reports (Hugo Miller, Nogales). 
-				<unitdate type="inclusive"
-				 normal="1914/1940">1914-1940</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">16</container> <container
-			 type="folder">6</container> 
-			 <unittitle>Assay Reports (various). 
-				<unitdate type="inclusive"
-				 normal="1913/1947">1913-1947</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">16</container> <container
-			 type="folder">7</container> 
-			 <unittitle>Ore shipments. 
-				<unitdate type="inclusive"
-				 normal="1925/1934">1925-1934</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">16</container> <container
-			 type="folder">8</container> 
-			 <unittitle>Bills. 
-				<unitdate type="inclusive"
-				 normal="1918/1942">1918-1942</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">16</container> <container
-			 type="folder">9</container> 
-			 <unittitle>Photographs of Black Bonanza mine. </unittitle> 
-		  </did> 
-		</c02> 
-	 </c01> 
-	 <c01 level="series"> 
-		<did> 
-		  <unittitle>Series III: Property Records and Investments, 
-			 <unitdate type="inclusive"
-			  normal="1900/1963">1900-1963</unitdate></unittitle> 
-		</did> 
-		<c02 level="file"> 
-		  <did> <container type="box">17</container> <container
-			 type="folder">1</container> 
-			 <unittitle>Arizona Property: Patagonia property (including Henderson
-				store). </unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">17</container> <container
-			 type="folder">2</container> 
-			 <unittitle>Arizona Property: Henderson Ranch. 
-				<unitdate type="inclusive"
-				 normal="1900/1959">1900-1959</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">17</container> <container
-			 type="folder">3</container> 
-			 <unittitle>Arizona Property: Private road crossing at Crittenden. 
-				<unitdate type="inclusive" normal="">1924-1928,
-				  1948</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">17</container> <container
-			 type="folder">4</container> 
-			 <unittitle>Arizona Property: Rent Receipts. 
-				<unitdate type="inclusive"
-				 normal="1915/1961">1915-1961</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">17</container> <container
-			 type="folder">5-7</container> 
-			 <unittitle>Arizona Property: Santa Cruz County Taxes. 
-				<unitdate type="inclusive"
-				 normal="1913/1959">1913-1959</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">17</container> <container
-			 type="folder">8</container> 
-			 <unittitle>Arizona Property: Grazing permits. 
-				<unitdate type="inclusive"
-				 normal="1913/1931">1913-1931</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">17</container> <container
-			 type="folder">9</container> 
-			 <unittitle>Arizona Property: Insurance (Patagonia property). 
-				<unitdate type="inclusive"
-				 normal="1933/1958">1933-1958</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">18</container> <container
-			 type="folder">1</container> 
-			 <unittitle>Out of State Property: California property, Atascadero
-				(legal papers, correspondence). 
-				<unitdate type="inclusive"
-				 normal="1913/1956">1913-1956</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">18</container> <container
-			 type="folder">2</container> 
-			 <unittitle>Out of State Property: California property, Atascadero
-				(taxes). 
-				<unitdate type="inclusive"
-				 normal="1917/1957">1917-1957</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">18</container> <container
-			 type="folder">3</container> 
-			 <unittitle>Out of State Property: California property, Palos Verdes
-				Estates. 
-				<unitdate type="inclusive"
-				 normal="1925/1950">1925-1950</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">18</container> <container
-			 type="folder">4</container> 
-			 <unittitle>Out of State Property: California Property, Lost Angeles
-				County (taxes). 
-				<unitdate type="inclusive"
-				 normal="1925/1954">1925-1954</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">18</container> <container
-			 type="folder">5</container> 
-			 <unittitle>Out of State Property: California Property, Washington
-				Home Park. 
-				<unitdate type="inclusive"
-				 normal="1917/1955">1917-1955</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">18</container> <container
-			 type="folder">6</container> 
-			 <unittitle>Out of State Property: Oklahoma property (legal papers,
-				taexes, etc.). 
-				<unitdate type="inclusive"
-				 normal="1912/1941">1912-1941</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">18</container> <container
-			 type="folder">7</container> 
-			 <unittitle>Out of State Property: Texas property (legal papers,
-				taxes.). 
-				<unitdate type="inclusive"
-				 normal="1914/1942">1914-1942</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">18</container> <container
-			 type="folder">8</container> 
-			 <unittitle>Out of State Property: Miscellaneous legal papers.
-				</unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">19</container> <container
-			 type="folder">1</container> 
-			 <unittitle>Investments: Burnham Chemical Company. 
-				<unitdate type="inclusive"
-				 normal="1924/1957">1924-1957</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">19</container> <container
-			 type="folder">2</container> 
-			 <unittitle>Investments: Oil and Gas Leases (New Mexico). 
-				<unitdate type="inclusive"
-				 normal="1943/1963">1943-1963</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">19</container> <container
-			 type="folder">3-6</container> 
-			 <unittitle>Investments: Oil and Gas Leases (Texas, Louisiana,
-				Mississippi). </unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">19</container> <container
-			 type="folder">7</container> 
-			 <unittitle>Investments: miscellaneous investments (mining, aircraft,
-				tire &amp; rubber, real estate, bonds, etc.). </unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">20</container> <container
-			 type="folder">1</container> 
-			 <unittitle>Banks: Consolidated National Bank, Tucson (various
-				papers). 
-				<unitdate type="inclusive"
-				 normal="1912/1916">1912-1916</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">20</container> <container
-			 type="folder">2</container> 
-			 <unittitle>Banks: First National Bank, Nogales (statements). 
-				<unitdate type="inclusive"
-				 normal="1908/1945">1908-1945</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">20</container> <container
-			 type="folder">3</container> 
-			 <unittitle>Banks: First State Bank, Patagonia (statements). 
-				<unitdate type="inclusive"
-				 normal="1918/1923">1918-1923</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">20</container> <container
-			 type="folder">4</container> 
-			 <unittitle>Banks: Nogales National Bank, Nogales (statements). 
-				<unitdate type="inclusive"
-				 normal="1923/1927">1923-1927</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">20</container> <container
-			 type="folder">5</container> 
-			 <unittitle>Banks: Sonora Bank and Trust Co., Nogales (various
-				papers). 
-				<unitdate type="inclusive"
-				 normal="1923/1928">1923-1928</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">20</container> <container
-			 type="folder">6</container> 
-			 <unittitle>Banks: Valley National Bank, Nogales (statements). 
-				<unitdate type="inclusive"
-				 normal="1945/1947">1945-1947</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">20</container> <container
-			 type="folder">7</container> 
-			 <unittitle>Banks: Correspondence and miscellaneous material (various
-				banks). </unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">20</container> <container
-			 type="folder">8</container> 
-			 <unittitle>Banks: miscellaneous financial records. </unittitle> 
-		  </did> 
-		</c02> 
-	 </c01> 
-	 <c01 level="series"> 
-		<did> 
-		  <unittitle>Series IV: Alexander S. Henderson, Personal Materials, 
-			 <unitdate type="inclusive"
-			  normal="1899/1958">1899-1958</unitdate></unittitle> 
-		</did> 
-		<c02 level="file"> 
-		  <did> <container type="box">21</container> <container
-			 type="folder">1-2</container> 
-			 <unittitle> Correspondence: ASH and Eva. 
-				<unitdate type="inclusive"
-				 normal="1914/1943">1914-1943</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">21</container> <container
-			 type="folder">3</container> 
-			 <unittitle> Correspondence: various relatives. 
-				<unitdate type="inclusive"
-				 normal="1905/1944">1905-1944</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">21</container> <container
-			 type="folder">4</container> 
-			 <unittitle> Correspondence: miscellaneous. 
-				<unitdate type="inclusive"
-				 normal="1899/1944">1899-1944</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">21</container> <container
-			 type="folder">5</container> 
-			 <unittitle> Correspondence: pension. 
-				<unitdate type="inclusive"
-				 normal="1921/1945">1921-1945</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">21</container> <container
-			 type="folder">6</container> 
-			 <unittitle> Photographs of ASH. </unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">21</container> <container
-			 type="folder">7</container> 
-			 <unittitle>Personal miscellany. </unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">21</container> <container
-			 type="folder">8</container> 
-			 <unittitle>Estate of A.S. Henderson. 
-				<unitdate type="inclusive"
-				 normal="1944/1952">1944-1952</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">22</container> <container
-			 type="folder">1</container> 
-			 <unittitle>Santa Cruz County. Board of Supervisors. </unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">22</container> <container
-			 type="folder">2</container> 
-			 <unittitle>Patagonia Chamber of Commerce. 
-				<unitdate type="inclusive"
-				 normal="1919/1920">1919-1920</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">22</container> <container
-			 type="folder">3</container> 
-			 <unittitle>Automobile material. 
-				<unitdate type="inclusive"
-				 normal="1914/1958">1914-1958</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">22</container> <container
-			 type="folder">4</container> 
-			 <unittitle>Automobile material (ads). 
-				<unitdate type="inclusive"
-				 normal="1915/1937">1915-1937</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">22</container> 
-			 <unittitle> 
-				<title>Ralston Gardens of Life: A study of health and the best way
-				  of living...Ralston Health Club</title>, by Edmund Shaftesbury, Washinton, D.C.
-				
-				<unitdate type="inclusive"
-				 normal="1900">1900</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">22</container> 
-			 <unittitle> 
-				<title>Book of General Membership of the Ralston Health
-				  Club</title>. 
-				<unitdate type="inclusive"
-				 normal="1900">1900</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-	 </c01> 
-	 <c01 level="series"> 
-		<did> 
-		  <unittitle>Series V: Eva Henderson, Personal Materials, 
-			 <unitdate type="inclusive"
-			  normal="1888/1961">1888-1961</unitdate></unittitle> 
-		</did> 
-		<c02 level="file"> 
-		  <did> <container type="box">23</container> <container
-			 type="folder">1-2</container> 
-			 <unittitle>Letters from Minnie Stevens (sister). 
-				<unitdate type="inclusive"
-				 normal="1907/1940">1907-1940</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">23</container> <container
-			 type="folder">3</container> 
-			 <unittitle>Letters from Mother. 
-				<unitdate type="inclusive"
-				 normal="1908/1939">1908-1939</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">23</container> <container
-			 type="folder">4</container> 
-			 <unittitle>Letters from Father. 
-				<unitdate type="inclusive"
-				 normal="1908/1917">1908-1917</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">23</container> <container
-			 type="folder">5</container> 
-			 <unittitle>Letters from Cal Stevens (brother) and his wife. 
-				<unitdate type="inclusive"
-				 normal="1907/1955">1907-1955</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">23</container> <container
-			 type="folder">6</container> 
-			 <unittitle>Letters from other relatives. 
-				<unitdate type="inclusive"
-				 normal="1922/1954">1922-1954</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">23</container> <container
-			 type="folder">7</container> 
-			 <unittitle>Miscellaneous bills and receipts. 
-				<unitdate type="inclusive"
-				 normal="1937/1960">1937-1960</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">23</container> <container
-			 type="folder">8</container> 
-			 <unittitle>Regarding the estate of Lorance E. Stevens (mother).
-				</unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">23</container> <container
-			 type="folder">9</container> 
-			 <unittitle>Minnie Stevens (sister). 
-				<unitdate type="inclusive"
-				 normal="1905">1905</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">23</container> <container
-			 type="folder">10</container> 
-			 <unittitle>Minnie Stevens (sister): musical composition. </unittitle>
-			 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">24</container> <container
-			 type="folder">1</container> 
-			 <unittitle>Personal Miscellany. </unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">24</container> <container
-			 type="folder">2-3</container> 
-			 <unittitle>Miscellaneous correspondence. 
-				<unitdate type="inclusive"
-				 normal="1908/1961">1908-1961</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">24</container> <container
-			 type="folder">4</container> 
-			 <unittitle>Patagonia Ice and Light Company (utility rate uproar). 
-				<unitdate type="inclusive"
-				 normal="1948/1949">1948-1949</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">24</container> <container
-			 type="folder">5</container> 
-			 <unittitle>Photographs. </unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">24</container> 
-			 <unittitle> 
-				<title>Bible Readings for the Home Circle</title> (Seventh-Day
-				Adventist). 
-				<unitdate type="inclusive"
-				 normal="1888">1888</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">24</container> 
-			 <unittitle>Notebook, containing financial records. 
-				<unitdate type="inclusive"
-				 normal="1946/1954">1946-1954</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">25</container> <container
-			 type="folder">1</container> 
-			 <unittitle>Osteopathy Material: American School of Osteopathy. 
-				<unitdate type="inclusive"
-				 normal="1900/1902">1900-1902</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">25</container> <container
-			 type="folder">2</container> 
-			 <unittitle>Osteopathy Material: Ariozna State Osteopathic Board,
-				State Dept. of Health, registration papers. 
-				<unitdate type="inclusive"
-				 normal="1924/1959">1924-1959</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">25</container> <container
-			 type="folder">3</container> 
-			 <unittitle>Osteopathy Material: Arizona Society of Osteopathic
-				Physicians and Surgeons. 
-				<unitdate type="inclusive"
-				 normal="1949/1956">1949-1956</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">25</container> <container
-			 type="folder">4</container> 
-			 <unittitle>Osteopathy Material: miscellaneous material on Osteopathy
-				and Health. </unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">25</container> 
-			 <unittitle> 
-				<title>Osteopathy Material: Journal of Osteopathy</title> ,
-				(Kirksville, MO). 
-				<unitdate type="inclusive"
-				 normal="1901">1901</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">25</container> 
-			 <unittitle> 
-				<title>Osteopathy Material: Philosophy of Osteopathy</title>, by
-				Andrew T. Still, Kirksville, MO. 
-				<unitdate type="inclusive"
-				 normal="1899">1899</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-	 </c01> 
-	 <c01 level="series"> 
-		<did> 
-		  <unittitle>Series VI: Chinese Materials, 
-			 <unitdate type="inclusive"
-			  normal="1900/1954">1900-1954</unitdate></unittitle> 
-		</did> 
-		<c02 level="file"> 
-		  <did> <container type="box">26</container> <container
-			 type="folder">1</container> 
-			 <unittitle>Patagonia property, lot 16, block A (legal papers). 
-				<unitdate type="inclusive" normal="">1901-1902, 1929-1930,
-				  1942</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">26</container> <container
-			 type="folder">2</container> 
-			 <unittitle>Woo Ben: correspondence. 
-				<unitdate type="inclusive"
-				 normal="1935/1937">1935-1937</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">26</container> <container
-			 type="folder">3</container> 
-			 <unittitle>Woo Ben: correspondence (family). 
-				<unitdate type="inclusive"
-				 normal="1902/1934">1902-1934</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">26</container> <container
-			 type="folder">4</container> 
-			 <unittitle>Woo Ben: correspondence (mining). 
-				<unitdate type="inclusive"
-				 normal="1900/1909">1900-1909</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">26</container> <container
-			 type="folder">5</container> 
-			 <unittitle>Woo Ben: Bonnie Carie &amp; Gray Eagle Mines (legal
-				papers). 
-				<unitdate type="inclusive"
-				 normal="1900/1914">1900-1914</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">26</container> <container
-			 type="folder">6</container> 
-			 <unittitle>Woo Ben: notebooks. </unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">26</container> <container
-			 type="folder">7</container> 
-			 <unittitle>Louis Kang: correspondence. </unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">26</container> <container
-			 type="folder">8</container> 
-			 <unittitle>Louis Kang: Santa Cruz County, Texas. 
-				<unitdate type="inclusive"
-				 normal="1903/1938">1903-1938</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">26</container> <container
-			 type="folder">9</container> 
-			 <unittitle>Sam Thomas: correspondence. </unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">26</container> <container
-			 type="folder">10</container> 
-			 <unittitle>Sam Thomas: financial papers. 
-				<unitdate type="inclusive"
-				 normal="1939/1948">1939-1948</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">26</container> <container
-			 type="folder">11</container> 
-			 <unittitle>Tom Wegin: miscellaneous material (correspondence, bills,
-				etc.). </unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">26</container> <container
-			 type="folder">12</container> 
-			 <unittitle>Tom Wegin: store records. 
-				<unitdate type="inclusive"
-				 normal="1944/1954">1944-1954</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">26</container> <container
-			 type="folder">13</container> 
-			 <unittitle>Tom Wegin: bank records. 
-				<unitdate type="inclusive"
-				 normal="1945/1949">1945-1949</unitdate></unittitle> 
-		  </did> 
-		</c02> 
-		<c02 level="file"> 
-		  <did> <container type="box">27</container> 
-			 <unittitle>Various printed and holograph items. </unittitle> 
-		  </did> 
-		  <scopecontent> 
-			 <p>Includes the following: </p> 
-			 <p> 
-				<list> 
-				  <item> 
-					 <title>Fortune Telling with Numbers</title>. New Continent
-					 Library (Chinese), 1926</item> 
-				  <item>Types of Hand Machines (Chinese). </item> 
-				  <item>Notebook: clippings and notes of a political nature.
-					 </item> 
-				  <item>Two Fortune-telling notebooks (Chinese). </item> 
-				  <item>Fortune-telling handbook (Chinese). </item> 
-				  <item>Monthly literary magazine, published in Hong Kong and
-					 Canton (Chinese). </item> 
-				  <item> 
-					 <title>Mail Boat Rates in China </title>(Chinese), 1919</item> 
-				  <item> 
-					 <title>Metals</title>, published in Hong Kong (Chinese),
-					 1917</item> 
-				  <item> 
-					 <title>The Youth's Magazine</title>, vol.VI, not.9, published
-					 by the Commercial Press, Shanghai (Chinese), September 20, 1917</item> 
-				  <item>Poetry notebook (Chinese). </item> 
-				  <item> 
-					 <title>A Collection of Medicine Distributors and Providers of
-						Urgently needed Prescriptions</title>, published by C.T.Sun, Los Angeles
-					 (Chinese). </item> 
-				  <item> 
-					 <title>A Look at my Life</title>, philosophical text (Chinese).
-					 </item> 
-				  <item>Newspapers. </item> 
-				</list></p> 
-		  </scopecontent> 
-		</c02> 
-		<c02> 
-		  <did> <container type="box">28</container> 
-			 <unittitle>Oversize Material. </unittitle> 
-		  </did> 
-		  <scopecontent> 
-			 <p>Includes the following: </p> 
-			 <p> 
-				<list> 
-				  <item>Marriage Certificate, A.S. Henderson and Eva Stevens,
-					 Patagonia, AZ, December 31, 1907</item> 
-				  <item>Degree of Doctor of Osteopathy, American School of
-					 Osteopathy, Kirksville, MO, to Eva Stevens, June 26, 1902</item> 
-				  <item>Two Osteopath's certificates, Oklahoma, for Eva Stevens,
-					 July 7, 1903 and January 4, 1908</item> 
-				</list></p> 
-		  </scopecontent> 
-		</c02> 
-	 </c01> 
-  </dsc> 
-</archdesc></ead>
+<ead xmlns="urn:isbn:1-931666-22-9"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"
+ relatedencoding="MARC21">
+	<eadheader audience="internal" findaidstatus="edited-full-draft" langencoding="iso639-2b">
+		<eadid>UAAZ027</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper encodinganalog="245$a">Alexander S. Henderson papers<date>1888-1963
+						(bulk 1900-1954)</date></titleproper>
+				<author encodinganalog="245$c">Inventory prepared by Phyllis Ball</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher encodinganalog="260$b">University of Arizona Libraries, Special
+					Collections</publisher>
+				<address>
+					<addressline>PO Box 210055</addressline>
+					<addressline>Tucson, AZ 85721-0055</addressline>
+					<addressline>Phone: 520-621-6423</addressline>
+					<addressline>Fax: 520-621-9733</addressline>
+					<addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+				</address>
+				<date>2001</date>
+				<p>Arizona Board of Regents. All Rights Reserved.</p>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation encodinganalog="500">Inventory encoded by Jan Marie Payne <date normal="20020624">2002-06-24</date></creation>
+			<langusage>Inventory is in<language langcode="eng" encodinganalog="546">English</language></langusage>
+		</profiledesc>
+		<revisiondesc>
+			<change>
+				<date normal="20170227">2017-02-27</date>
+				<item>This finding aid was manually revised and updated to EAD 2.0 specifications by Erik Radio</item>
+			</change>
+		</revisiondesc>
+	</eadheader>
+	<frontmatter>
+		<titlepage>
+			<titleproper encodinganalog="245$a">Alexander S. Henderson papers<date>1888-1963 (bulk
+					1900-1954)</date></titleproper>
+			<num>Collection Number: AZ 027</num>
+			<publisher encodinganalog="260$b">University of Arizona Libraries, Special
+				Collections</publisher>
+			<list>
+				<defitem>
+					<label>Processed by</label>
+					<item>Phyllis Ball</item>
+				</defitem>
+				<defitem>
+					<label>Date completed:</label>
+					<item>
+						<date>1968</date></item>
+				</defitem>
+				<defitem>
+					<label>Encoded by</label>
+					<item>Jan Marie Payne</item>
+				</defitem>
+			</list>
+			<p>&#x00A9; 2001. Arizona Board of Regents. All rights reserved.</p>
+		</titlepage>
+	</frontmatter>
+	<archdesc level="collection" encodinganalog="351$c">
+		<did>
+			<head>Collection Summary</head>
+			<unittitle encodinganalog="245" label="Collection Name">Alexander S. Henderson papers,
+					<unitdate type="inclusive" normal="1888/1963">1888-1963 (bulk
+				1900-1954)</unitdate></unittitle>
+			<unitid label="Collection Number" encodinganalog="099" repositorycode="US-AzU"
+				countrycode="US">AZ 027</unitid>
+			<origination label="Creator">
+				<persname encodinganalog="100">Henderson, Alexander S.,
+				1859-1944</persname></origination>
+			<abstract label="Abstract">Chiefly records of the A.S.Henderson general merchandise
+				store in Patagonia, Arizona, from 1900 to 1940 including inventories,
+				correspondence, merchandise ads, ledgers, monthly account books, and bills. </abstract>
+			<physdesc encodinganalog="300$a" label="Physical Description"><extent
+					encodinganalog="300">11 linear feet</extent></physdesc>
+			<repository label="Repository">
+				<corpname encodinganalog="110">University of Arizona Libraries, Special
+					Collections</corpname>
+				<address>
+					<addressline>University of Arizona</addressline>
+					<addressline>PO Box 210055</addressline>
+					<addressline>Tucson, AZ 85721-0055</addressline>
+					<addressline>Phone: 520-621-6423</addressline>
+					<addressline>Fax: 520-621-9733</addressline>
+					<addressline>URL:http://speccoll.library.arizona.edu/</addressline>
+				</address></repository>
+		</did>
+		<accessrestrict encodinganalog="506">
+			<head>Restrictions</head>
+			<p>None.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Copyright</head>
+			<p>It is the responsibility of the user to obtain permission to publish from the owner
+				of the copyright (the institution, the creator of the record, the author or his/her
+				transferees, heirs, legates, or literary executors). The user agrees to indemnify
+				and hold harmless the Arizona Board of Regents for the University of Arizona, its
+				officers, employees, and agents from and against all claims made by any person
+				asserting that he or she is an owner of copyright.</p>
+		</userestrict>
+		<prefercite encodinganalog="524">
+			<head>Credit Line</head>
+			<p>Alexander S. Henderson papers (AZ 027). Special Collections, University of Arizona
+				Libraries.</p>
+		</prefercite>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Henderson was a merchant in Patagonia, Arizona. </p>
+		</bioghist>
+		<arrangement>
+			<head>Organization</head>
+			<p>This collection is organized into six series: </p>
+			<list>
+				<item>Series I: A.S.Henderson Store Records, <date>1907-1940</date></item>
+				<item>Series II: Mining Records and Correspondence, <date>1911-1954</date></item>
+				<item>Series III: Property Records and Investments, <date>1900-1963</date></item>
+				<item>Series IV: Alexander S. Henderson, Personal Materials,
+					<date>1899-1958</date></item>
+				<item>Series V: Eva Henderson, Personal Materials, <date>1888-1961</date></item>
+				<item>Series VI: Chinese Materials, <date>1900-1954</date></item>
+			</list>
+		</arrangement>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Content Note</head>
+			<p>Chiefly records of the A.S.Henderson general merchandise store in Patagonia, Arizona,
+				from 1900 to 1940 including inventories, correspondence, merchandise ads, ledgers,
+				monthly account books, and bills. His mining interests are represented by
+				correspondence with Josiah Bond and John F. Campbell; legal papers; assay and ore
+				reports; and notices of numerous mines in Santa Cruz County. A photograph album
+				depicts the mine buildings and personnel of the Black Bonanza Mine. Real estate
+				ventures were mainly in the Patagonia area and California. His investments include
+				mainly oil and gas leases in Texas. Personal items for him include correspondence,
+				portraits, bank statements, health books, automobile information, and documents
+				relating to his position on the Santa Cruz County Board of Supervisors. </p>
+			<p>Eva Henderson materials include personal correspondence with pioneer relatives in
+				Oklahoma; also books, certificates, photos, and other items related to her
+				educational and professional osteopath activities in Oklahoma and Arizona. Minnie
+				Stevens materials include a musical composition, a diary, photos, and typescripts on
+				Oklahoma land claim shanties. </p>
+			<p>Personal and business activities of Chinese merchants in Patagonia are documented by
+				files of Woo Ben, Louis Kang, Sam Thomas, and Tom Wegin and include holograph
+				notebooks and letters in Chinese characters, and printed items concerned with
+				fortune-telling, literature, philosophy, and medicine. These materials were found in
+				the leased section of the Henderson store. </p>
+			<p>Most material is in English, some in Chinese. </p>
+		</scopecontent>
+		<controlaccess>
+			<head>Access Terms</head>
+			<list>
+				<item>
+					<persname encodinganalog="100">Henderson, Alexander S., 1859-1944</persname></item>
+			</list>
+			<list>
+				<item>
+					<persname encodinganalog="100">Henderson, Eva, 1871-1965</persname></item>
+			</list>
+			<list>
+				<item>
+					<persname encodinganalog="100">Stevens, Minnie Rosilla</persname></item>
+			</list>
+			<list>
+				<item>
+					<persname encodinganalog="100">Bond, Josiah</persname></item>
+			</list>
+			<list>
+				<item>
+					<persname encodinganalog="100">Campbell, John F.</persname></item>
+			</list>
+			<list>
+				<item>
+					<persname encodinganalog="100">Kang, Louis</persname></item>
+			</list>
+			<list>
+				<item>
+					<persname encodinganalog="100">Thomas, Sam</persname></item>
+			</list>
+			<list>
+				<item>
+					<persname encodinganalog="100">Ben, Woo</persname></item>
+			</list>
+			<list>
+				<item>
+					<persname encodinganalog="100">Wegin, Tom</persname></item>
+			</list>
+			<list>
+				<item>
+					<subject>Frontier and pioneer life -- Arizona -- Santa Cruz
+					County</subject></item>
+			</list>
+			<list>
+				<item>
+					<subject>Frontier and pioneer life -- Oklahoma</subject></item>
+			</list>
+			<list>
+				<item>
+					<subject>Women pioneers</subject></item>
+			</list>
+			<list>
+				<item>
+					<subject>Chinese -- Arizona -- Patagonia -- History</subject></item>
+			</list>
+			<list>
+				<item>
+					<subject>Chinese Americans -- Photographs</subject></item>
+			</list>
+			<list>
+				<item>
+					<subject>Merchants -- Arizona -- Patagonia -- History</subject></item>
+			</list>
+			<list>
+				<item>
+					<subject>Mines and mineral resources -- Arizona -- History</subject></item>
+			</list>
+			<list>
+				<item>
+					<subject>Mine buildings -- Arizona -- Santa Cruz County --
+					Photographs</subject></item>
+			</list>
+			<list>
+				<item>
+					<subject>Fortune-telling</subject></item>
+			</list>
+			<list>
+				<item>
+					<subject>Osteopathic medicine -- History</subject></item>
+			</list>
+			<list>
+				<item>
+					<subject>Retail trade -- Arizona -- History</subject></item>
+			</list>
+			<list>
+				<item>
+					<geogname>Santa Cruz County (Ariz.) -- Politics and government</geogname></item>
+			</list>
+			<list>
+				<item>
+					<geogname>Patagonia (Ariz.) -- History</geogname></item>
+			</list>
+			<list>
+				<item>
+					<geogname>Black Bonanza Mine (Ariz.) </geogname></item>
+			</list>
+			<list>
+				<item>
+					<genreform>Account books</genreform></item>
+			</list>
+			<list>
+				<item>
+					<genreform>Correspondence</genreform></item>
+			</list>
+			<list>
+				<item>
+					<genreform>Photographs</genreform></item>
+			</list>
+		</controlaccess>
+		<dsc type="combined">
+			<head>Container List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>Series I: A.S. Henderson Store Records, <unitdate type="inclusive"
+							normal="1907/1940">1907-1940</unitdate></unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container type="volume">1</container>
+						<unittitle>Cash Book<unitdate type="inclusive" normal="1909/1914">January
+								1909-October 1914</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="volume">2</container>
+						<unittitle>Ledger<unitdate type="inclusive" normal="1909"
+							>1909</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="volume">3</container>
+						<unittitle>Journal<unitdate type="inclusive" normal="1911/1916">October
+								1911-1916</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="volume">4</container>
+						<unittitle>Journal<unitdate type="inclusive" normal="1916/1923"
+								>1916-1923</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">5</container>
+						<unittitle>Store financial records: 3 ledgers. <unitdate type="inclusive"
+								normal="1911/1912">1911-1912</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">5</container>
+						<unittitle>Store financial records: Wholesale accounts. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">5</container>
+						<unittitle>Store financial records: Cost sale price-book. <unitdate
+								type="inclusive" normal="1911/1913">1911-1913</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">5</container>
+						<unittitle>Store financial records: Monthly accounts. <unitdate
+								type="inclusive" normal="1909/1914">1909,
+							1911-1914</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">6</container>
+						<unittitle>Monthly accounts (four books). <unitdate type="inclusive"
+								normal="1916/1917">1916-1917</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">7</container>
+						<unittitle>Monthly accounts (13 books &amp; envelopes). <unitdate
+								type="inclusive" normal="1918/1940">1918-1940</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">8</container>
+						<unittitle>Store financial records: invoice register. <unitdate
+								type="inclusive" normal="1908/1909">1908-1909</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">8</container>
+						<unittitle>Store financial records: cost price book. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">8</container>
+						<unittitle>Store financial records: notarial record book. <unitdate
+								type="inclusive" normal="1907/1909">1907-1909</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">8</container>
+						<unittitle>Store financial records: inventories. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">8</container>
+						<unittitle>Store financial records: 2 folders of miscellaneous accounts.
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">9</container>
+						<unittitle>Store correspondence. <unitdate type="inclusive"
+								normal="1909/1930">1909-1930</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">10</container>
+						<container type="folder">1-5</container>
+						<unittitle>Store bills: various. <unitdate type="inclusive"
+								normal="1909/1934">1909-1934</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">10</container>
+						<container type="folder">6</container>
+						<unittitle>Store bills: J.A. Dick, El Paso. <unitdate type="inclusive"
+								normal="1911/1925">1911-1925</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">10</container>
+						<container type="folder">7</container>
+						<unittitle>Store bills: Escalad Brothers, Nogales. <unitdate
+								type="inclusive" normal="1914/1934">1914-1934</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">10</container>
+						<container type="folder">8</container>
+						<unittitle>Store bills: B. Maier &amp; Co., Benson. <unitdate
+								type="inclusive" normal="1915/1928">1915-1928</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">10</container>
+						<container type="folder">9</container>
+						<unittitle>Store bills: Murray &amp; Layne Co., Deming, NM. <unitdate
+								type="inclusive" normal="1920/1925">1920-1925</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">10</container>
+						<container type="folder">10</container>
+						<unittitle>Store bills: Albert Steinfeld &amp; Co., Tucson. <unitdate
+								type="inclusive" normal="1912/1925">1912-1925</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">11</container>
+						<container type="folder">1</container>
+						<unittitle>Store miscellany: merchandise orders on Henderson store.
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">11</container>
+						<container type="folder">2</container>
+						<unittitle>Store miscellany: advertisements (calendars, blotters, notebooks,
+							almanacs, etc.). </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">11</container>
+						<container type="folder">3</container>
+						<unittitle>Store miscellany: ads, trade journals, revenue stamps, letterhead
+							paper, etc. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">12</container>
+						<container type="folder">1</container>
+						<unittitle>Store Merchandise Ads (A-K): canvas goods. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">12</container>
+						<container type="folder">2</container>
+						<unittitle>Store Merchandise Ads (A-K): clothing. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">12</container>
+						<container type="folder">3</container>
+						<unittitle>Store Merchandise Ads (A-K): construction materials (fences,
+							roofing, paint, floor-covering). </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">12</container>
+						<container type="folder">4</container>
+						<unittitle>Store Merchandise Ads (A-K): food. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">12</container>
+						<container type="folder">5</container>
+						<unittitle>Store Merchandise Ads (A-K): furnaces and heating equipment.
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">12</container>
+						<container type="folder">6</container>
+						<unittitle>Store Merchandise Ads (A-K): hardware and machinery. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">12</container>
+						<container type="folder">7</container>
+						<unittitle>Store Merchandise Ads (A-K): hats. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">12</container>
+						<container type="folder">8</container>
+						<unittitle>Store Merchandise Ads (A-K): household supplies and equipment.
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">13</container>
+						<container type="folder">1</container>
+						<unittitle>Store Merchandise Ads (L-Z): lamps and lighting. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">13</container>
+						<container type="folder">2</container>
+						<unittitle>Store Merchandise Ads (L-Z): saddlery, harnesses, wagons.
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">13</container>
+						<container type="folder">3</container>
+						<unittitle>Store Merchandise Ads (L-Z): shoes. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">13</container>
+						<container type="folder">4</container>
+						<unittitle>Store Merchandise Ads (L-Z): seed catalog. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">13</container>
+						<container type="folder">5</container>
+						<unittitle>Store Merchandise Ads (L-Z): miscellaneous. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">13</container>
+						<unittitle>Store Merchandise Ads (L-Z): Marconi Velvet Tone Disc Records
+							("For sale by Henderson &amp; Johnson, Patagonia, Arizona").
+						</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series II: Mining Records and Correspondence, <unitdate
+							type="inclusive" normal="1911/1954">1911-1954</unitdate></unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container type="box">14</container>
+						<container type="folder">1-3</container>
+						<unittitle>General. <unitdate type="inclusive" normal="1912/1913"
+								>1912-1913</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">14</container>
+						<container type="folder">4</container>
+						<unittitle>Josiah Bond. <unitdate type="inclusive" normal="1914/1933"
+								>1914-1933</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">14</container>
+						<container type="folder">5</container>
+						<unittitle>Phelps Dodge Corporation. <unitdate type="inclusive"
+								normal="1913/1935">1913, 1926-1935</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">14</container>
+						<container type="folder">6</container>
+						<unittitle>John F. Campbell and wife. <unitdate type="inclusive"
+								normal="1912/1954">1912-1954</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">14</container>
+						<container type="folder">7</container>
+						<unittitle>
+							<title render="italic">Arizona Lyrics</title> (magazine of verse written
+							and published by Josiah Bond at Alto, Arizona). <unitdate
+								type="inclusive" normal="1921/1924">1921-1924</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">15</container>
+						<container type="folder">1-2</container>
+						<unittitle>Notice of mining location. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">15</container>
+						<container type="folder">3</container>
+						<unittitle>Harshaw mining district. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">15</container>
+						<container type="folder">4</container>
+						<unittitle>Patagonia mining district (Golden State mine). </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">15</container>
+						<container type="folder">5</container>
+						<unittitle>Patagonia mining district. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">15</container>
+						<container type="folder">6</container>
+						<unittitle>Tyndall mining district (Alto mines group). </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">15</container>
+						<container type="folder">7</container>
+						<unittitle>Tyndall mining district (Jefferson mine, Baca float. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">15</container>
+						<container type="folder">8</container>
+						<unittitle>Tyndall mining district. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">15</container>
+						<container type="folder">9</container>
+						<unittitle>Wrightstown mining district. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">15</container>
+						<container type="folder">10</container>
+						<unittitle>Miscellaneous mining papers. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">16</container>
+						<container type="folder">1</container>
+						<unittitle>Ore settlements (Consolidated Kansas City Smelting &amp; Refining
+							Co.). <unitdate type="inclusive" normal="1911/1925"
+							>1911-1925</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">16</container>
+						<container type="folder">2</container>
+						<unittitle>Ore settlements (American Smelting &amp; Refining Co.). <unitdate
+								type="inclusive" normal="1925/1939">1925-1939</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">16</container>
+						<container type="folder">3</container>
+						<unittitle>Ore settlements (Phelps Dodge Corporation). <unitdate
+								type="inclusive" normal="1926/1930">1926-1930</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">16</container>
+						<container type="folder">4</container>
+						<unittitle>Assay Reports (American Smelting &amp; Refining Co.). <unitdate
+								type="inclusive" normal="1926/1941">1926-1941</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">16</container>
+						<container type="folder">5</container>
+						<unittitle>Assay Reports (Hugo Miller, Nogales). <unitdate type="inclusive"
+								normal="1914/1940">1914-1940</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">16</container>
+						<container type="folder">6</container>
+						<unittitle>Assay Reports (various). <unitdate type="inclusive"
+								normal="1913/1947">1913-1947</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">16</container>
+						<container type="folder">7</container>
+						<unittitle>Ore shipments. <unitdate type="inclusive" normal="1925/1934"
+								>1925-1934</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">16</container>
+						<container type="folder">8</container>
+						<unittitle>Bills. <unitdate type="inclusive" normal="1918/1942"
+								>1918-1942</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">16</container>
+						<container type="folder">9</container>
+						<unittitle>Photographs of Black Bonanza mine. </unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series III: Property Records and Investments, <unitdate
+							type="inclusive" normal="1900/1963">1900-1963</unitdate></unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container type="box">17</container>
+						<container type="folder">1</container>
+						<unittitle>Arizona Property: Patagonia property (including Henderson store).
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">17</container>
+						<container type="folder">2</container>
+						<unittitle>Arizona Property: Henderson Ranch. <unitdate type="inclusive"
+								normal="1900/1959">1900-1959</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">17</container>
+						<container type="folder">3</container>
+						<unittitle>Arizona Property: Private road crossing at Crittenden. <unitdate
+								type="inclusive" normal="1924/1948">1924-1928, 1948</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">17</container>
+						<container type="folder">4</container>
+						<unittitle>Arizona Property: Rent Receipts. <unitdate type="inclusive"
+								normal="1915/1961">1915-1961</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">17</container>
+						<container type="folder">5-7</container>
+						<unittitle>Arizona Property: Santa Cruz County Taxes. <unitdate
+								type="inclusive" normal="1913/1959">1913-1959</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">17</container>
+						<container type="folder">8</container>
+						<unittitle>Arizona Property: Grazing permits. <unitdate type="inclusive"
+								normal="1913/1931">1913-1931</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">17</container>
+						<container type="folder">9</container>
+						<unittitle>Arizona Property: Insurance (Patagonia property). <unitdate
+								type="inclusive" normal="1933/1958">1933-1958</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">18</container>
+						<container type="folder">1</container>
+						<unittitle>Out of State Property: California property, Atascadero (legal
+							papers, correspondence). <unitdate type="inclusive" normal="1913/1956"
+								>1913-1956</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">18</container>
+						<container type="folder">2</container>
+						<unittitle>Out of State Property: California property, Atascadero (taxes).
+								<unitdate type="inclusive" normal="1917/1957"
+							>1917-1957</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">18</container>
+						<container type="folder">3</container>
+						<unittitle>Out of State Property: California property, Palos Verdes Estates.
+								<unitdate type="inclusive" normal="1925/1950"
+							>1925-1950</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">18</container>
+						<container type="folder">4</container>
+						<unittitle>Out of State Property: California Property, Lost Angeles County
+							(taxes). <unitdate type="inclusive" normal="1925/1954"
+								>1925-1954</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">18</container>
+						<container type="folder">5</container>
+						<unittitle>Out of State Property: California Property, Washington Home Park.
+								<unitdate type="inclusive" normal="1917/1955"
+							>1917-1955</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">18</container>
+						<container type="folder">6</container>
+						<unittitle>Out of State Property: Oklahoma property (legal papers, taxes,
+							etc.). <unitdate type="inclusive" normal="1912/1941"
+								>1912-1941</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">18</container>
+						<container type="folder">7</container>
+						<unittitle>Out of State Property: Texas property (legal papers, taxes.).
+								<unitdate type="inclusive" normal="1914/1942"
+							>1914-1942</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">18</container>
+						<container type="folder">8</container>
+						<unittitle>Out of State Property: Miscellaneous legal papers. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">19</container>
+						<container type="folder">1</container>
+						<unittitle>Investments: Burnham Chemical Company. <unitdate type="inclusive"
+								normal="1924/1957">1924-1957</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">19</container>
+						<container type="folder">2</container>
+						<unittitle>Investments: Oil and Gas Leases (New Mexico). <unitdate
+								type="inclusive" normal="1943/1963">1943-1963</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">19</container>
+						<container type="folder">3-6</container>
+						<unittitle>Investments: Oil and Gas Leases (Texas, Louisiana, Mississippi).
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">19</container>
+						<container type="folder">7</container>
+						<unittitle>Investments: miscellaneous investments (mining, aircraft, tire
+							&amp; rubber, real estate, bonds, etc.). </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">20</container>
+						<container type="folder">1</container>
+						<unittitle>Banks: Consolidated National Bank, Tucson (various papers).
+								<unitdate type="inclusive" normal="1912/1916"
+							>1912-1916</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">20</container>
+						<container type="folder">2</container>
+						<unittitle>Banks: First National Bank, Nogales (statements). <unitdate
+								type="inclusive" normal="1908/1945">1908-1945</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">20</container>
+						<container type="folder">3</container>
+						<unittitle>Banks: First State Bank, Patagonia (statements). <unitdate
+								type="inclusive" normal="1918/1923">1918-1923</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">20</container>
+						<container type="folder">4</container>
+						<unittitle>Banks: Nogales National Bank, Nogales (statements). <unitdate
+								type="inclusive" normal="1923/1927">1923-1927</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">20</container>
+						<container type="folder">5</container>
+						<unittitle>Banks: Sonora Bank and Trust Co., Nogales (various papers).
+								<unitdate type="inclusive" normal="1923/1928"
+							>1923-1928</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">20</container>
+						<container type="folder">6</container>
+						<unittitle>Banks: Valley National Bank, Nogales (statements). <unitdate
+								type="inclusive" normal="1945/1947">1945-1947</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">20</container>
+						<container type="folder">7</container>
+						<unittitle>Banks: Correspondence and miscellaneous material (various banks).
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">20</container>
+						<container type="folder">8</container>
+						<unittitle>Banks: miscellaneous financial records. </unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series IV: Alexander S. Henderson, Personal Materials, <unitdate
+							type="inclusive" normal="1899/1958">1899-1958</unitdate></unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container type="box">21</container>
+						<container type="folder">1-2</container>
+						<unittitle> Correspondence: ASH and Eva. <unitdate type="inclusive"
+								normal="1914/1943">1914-1943</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">21</container>
+						<container type="folder">3</container>
+						<unittitle> Correspondence: various relatives. <unitdate type="inclusive"
+								normal="1905/1944">1905-1944</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">21</container>
+						<container type="folder">4</container>
+						<unittitle> Correspondence: miscellaneous. <unitdate type="inclusive"
+								normal="1899/1944">1899-1944</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">21</container>
+						<container type="folder">5</container>
+						<unittitle> Correspondence: pension. <unitdate type="inclusive"
+								normal="1921/1945">1921-1945</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">21</container>
+						<container type="folder">6</container>
+						<unittitle> Photographs of ASH. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">21</container>
+						<container type="folder">7</container>
+						<unittitle>Personal miscellany. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">21</container>
+						<container type="folder">8</container>
+						<unittitle>Estate of A.S. Henderson. <unitdate type="inclusive"
+								normal="1944/1952">1944-1952</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">22</container>
+						<container type="folder">1</container>
+						<unittitle>Santa Cruz County. Board of Supervisors. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">22</container>
+						<container type="folder">2</container>
+						<unittitle>Patagonia Chamber of Commerce. <unitdate type="inclusive"
+								normal="1919/1920">1919-1920</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">22</container>
+						<container type="folder">3</container>
+						<unittitle>Automobile material. <unitdate type="inclusive"
+								normal="1914/1958">1914-1958</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">22</container>
+						<container type="folder">4</container>
+						<unittitle>Automobile material (ads). <unitdate type="inclusive"
+								normal="1915/1937">1915-1937</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">22</container>
+						<unittitle>
+							<title>Ralston Gardens of Life: A study of health and the best way of
+								living...Ralston Health Club</title>, by Edmund Shaftesbury,
+							Washington, D.C. <unitdate type="inclusive" normal="1900"
+							>1900</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">22</container>
+						<unittitle>
+							<title>Book of General Membership of the Ralston Health Club</title>.
+								<unitdate type="inclusive" normal="1900">1900</unitdate></unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series V: Eva Henderson, Personal Materials, <unitdate
+							type="inclusive" normal="1888/1961">1888-1961</unitdate></unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container type="box">23</container>
+						<container type="folder">1-2</container>
+						<unittitle>Letters from Minnie Stevens (sister). <unitdate type="inclusive"
+								normal="1907/1940">1907-1940</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">23</container>
+						<container type="folder">3</container>
+						<unittitle>Letters from Mother. <unitdate type="inclusive"
+								normal="1908/1939">1908-1939</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">23</container>
+						<container type="folder">4</container>
+						<unittitle>Letters from Father. <unitdate type="inclusive"
+								normal="1908/1917">1908-1917</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">23</container>
+						<container type="folder">5</container>
+						<unittitle>Letters from Cal Stevens (brother) and his wife. <unitdate
+								type="inclusive" normal="1907/1955">1907-1955</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">23</container>
+						<container type="folder">6</container>
+						<unittitle>Letters from other relatives. <unitdate type="inclusive"
+								normal="1922/1954">1922-1954</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">23</container>
+						<container type="folder">7</container>
+						<unittitle>Miscellaneous bills and receipts. <unitdate type="inclusive"
+								normal="1937/1960">1937-1960</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">23</container>
+						<container type="folder">8</container>
+						<unittitle>Regarding the estate of Lorance E. Stevens (mother). </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">23</container>
+						<container type="folder">9</container>
+						<unittitle>Minnie Stevens (sister). <unitdate type="inclusive" normal="1905"
+								>1905</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">23</container>
+						<container type="folder">10</container>
+						<unittitle>Minnie Stevens (sister): musical composition. </unittitle>
+
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">24</container>
+						<container type="folder">1</container>
+						<unittitle>Personal Miscellany. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">24</container>
+						<container type="folder">2-3</container>
+						<unittitle>Miscellaneous correspondence. <unitdate type="inclusive"
+								normal="1908/1961">1908-1961</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">24</container>
+						<container type="folder">4</container>
+						<unittitle>Patagonia Ice and Light Company (utility rate uproar). <unitdate
+								type="inclusive" normal="1948/1949">1948-1949</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">24</container>
+						<container type="folder">5</container>
+						<unittitle>Photographs. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">24</container>
+						<unittitle>
+							<title>Bible Readings for the Home Circle</title> (Seventh-Day
+							Adventist). <unitdate type="inclusive" normal="1888"
+							>1888</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">24</container>
+						<unittitle>Notebook, containing financial records. <unitdate
+								type="inclusive" normal="1946/1954">1946-1954</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">25</container>
+						<container type="folder">1</container>
+						<unittitle>Osteopathy Material: American School of Osteopathy. <unitdate
+								type="inclusive" normal="1900/1902">1900-1902</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">25</container>
+						<container type="folder">2</container>
+						<unittitle>Osteopathy Material: Arizona State Osteopathic Board, State Dept.
+							of Health, registration papers. <unitdate type="inclusive"
+								normal="1924/1959">1924-1959</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">25</container>
+						<container type="folder">3</container>
+						<unittitle>Osteopathy Material: Arizona Society of Osteopathic Physicians
+							and Surgeons. <unitdate type="inclusive" normal="1949/1956"
+								>1949-1956</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">25</container>
+						<container type="folder">4</container>
+						<unittitle>Osteopathy Material: miscellaneous material on Osteopathy and
+							Health. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">25</container>
+						<unittitle>
+							<title>Osteopathy Material: Journal of Osteopathy</title> , (Kirksville,
+							MO). <unitdate type="inclusive" normal="1901"
+							>1901</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">25</container>
+						<unittitle>
+							<title>Osteopathy Material: Philosophy of Osteopathy</title>, by Andrew
+							T. Still, Kirksville, MO. <unitdate type="inclusive" normal="1899"
+								>1899</unitdate></unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series VI: Chinese Materials, <unitdate type="inclusive"
+							normal="1900/1954">1900-1954</unitdate></unittitle>
+				</did>
+				<c02 level="file">
+					<did>
+						<container type="box">26</container>
+						<container type="folder">1</container>
+						<unittitle>Patagonia property, lot 16, block A (legal papers). <unitdate
+								type="inclusive" normal="1901/1930">1901-1902, 1929-1930,
+							1942</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">26</container>
+						<container type="folder">2</container>
+						<unittitle>Woo Ben: correspondence. <unitdate type="inclusive"
+								normal="1935/1937">1935-1937</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">26</container>
+						<container type="folder">3</container>
+						<unittitle>Woo Ben: correspondence (family). <unitdate type="inclusive"
+								normal="1902/1934">1902-1934</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">26</container>
+						<container type="folder">4</container>
+						<unittitle>Woo Ben: correspondence (mining). <unitdate type="inclusive"
+								normal="1900/1909">1900-1909</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">26</container>
+						<container type="folder">5</container>
+						<unittitle>Woo Ben: Bonnie Carie &amp; Gray Eagle Mines (legal papers).
+								<unitdate type="inclusive" normal="1900/1914"
+							>1900-1914</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">26</container>
+						<container type="folder">6</container>
+						<unittitle>Woo Ben: notebooks. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">26</container>
+						<container type="folder">7</container>
+						<unittitle>Louis Kang: correspondence. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">26</container>
+						<container type="folder">8</container>
+						<unittitle>Louis Kang: Santa Cruz County, Texas. <unitdate type="inclusive"
+								normal="1903/1938">1903-1938</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">26</container>
+						<container type="folder">9</container>
+						<unittitle>Sam Thomas: correspondence. </unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">26</container>
+						<container type="folder">10</container>
+						<unittitle>Sam Thomas: financial papers. <unitdate type="inclusive"
+								normal="1939/1948">1939-1948</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">26</container>
+						<container type="folder">11</container>
+						<unittitle>Tom Wegin: miscellaneous material (correspondence, bills, etc.).
+						</unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">26</container>
+						<container type="folder">12</container>
+						<unittitle>Tom Wegin: store records. <unitdate type="inclusive"
+								normal="1944/1954">1944-1954</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">26</container>
+						<container type="folder">13</container>
+						<unittitle>Tom Wegin: bank records. <unitdate type="inclusive"
+								normal="1945/1949">1945-1949</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02 level="file">
+					<did>
+						<container type="box">27</container>
+						<unittitle>Various printed and holograph items. </unittitle>
+					</did>
+					<scopecontent>
+						<p>Includes the following</p>
+						<p>
+							<list>
+								<item>
+									<title>Fortune Telling with Numbers</title>. New Continent
+									Library (Chinese), 1926</item>
+								<item>Types of Hand Machines (Chinese). </item>
+								<item>Notebook: clippings and notes of a political nature. </item>
+								<item>Two Fortune-telling notebooks (Chinese). </item>
+								<item>Fortune-telling handbook (Chinese). </item>
+								<item>Monthly literary magazine, published in Hong Kong and Canton
+									(Chinese). </item>
+								<item>
+									<title>Mail Boat Rates in China </title>(Chinese), 1919</item>
+								<item>
+									<title>Metals</title>, published in Hong Kong (Chinese),
+									1917</item>
+								<item>
+									<title>The Youth's Magazine</title>, vol. VI, not.9, published by
+									the Commercial Press, Shanghai (Chinese), September 20,
+									1917</item>
+								<item>Poetry notebook (Chinese). </item>
+								<item>
+									<title>A Collection of Medicine Distributors and Providers of
+										Urgently needed Prescriptions</title>, published by C.T.Sun,
+									Los Angeles (Chinese). </item>
+								<item>
+									<title>A Look at my Life</title>, philosophical text (Chinese). </item>
+								<item>Newspapers. </item>
+							</list></p>
+					</scopecontent>
+				</c02>
+				<c02>
+					<did>
+						<container type="box">28</container>
+						<unittitle>Oversize Material. </unittitle>
+					</did>
+					<scopecontent>
+						<p>Includes the following</p>
+						<p>
+							<list>
+								<item>Marriage Certificate, A.S. Henderson and Eva Stevens,
+									Patagonia, AZ, December 31, 1907</item>
+								<item>Degree of Doctor of Osteopathy, American School of Osteopathy,
+									Kirksville, MO, to Eva Stevens, June 26, 1902</item>
+								<item>Two Osteopath's certificates, Oklahoma, for Eva Stevens, July
+									7, 1903 and January 4, 1908</item>
+							</list></p>
+					</scopecontent>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

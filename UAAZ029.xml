@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
-<ead relatedencoding="MARC21"> 
+<ead xmlns="urn:isbn:1-931666-22-9"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"
+ relatedencoding="MARC21"> 
 <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft"
- audience="internal" id="a0"> 
-	<eadid encodinganalog="852"> PUBLIC "-//University of Arizona Library SpecialCollections//text(US::AzU::The Land of mañana)//en""UAAZ029.xml"</eadid> 
+ audience="internal"> 
+	<eadid>UAAZ029</eadid> 
   <filedesc> 
 	 <titlestmt> 
-	 	<titleproper>The Land of Mañana,
+	 	<titleproper>The Land of Mañana
 	 		<date era="ce" calendar="gregorian">1883</date></titleproper>
 	 	<titleproper type="filing" altrender="nodisplay">The Land of Mañana</titleproper>
 	 	<author>Processed by Staff.</author> 
@@ -20,15 +22,21 @@
 		  <addressline>Fax: 520-621-9733</addressline> 
 		  <addressline>URL:http://speccoll.library.arizona.edu/</addressline>
 		</address> 
-		<date normal= "2013" era= "ce" calendar = "gregorian">; 2013</date> 
+		<date normal= "2013" era= "ce" calendar = "gregorian">2013</date> 
 		<p>Arizona Board of Regents. All Rights Reserved.</p> 
 	 </publicationstmt> 
   </filedesc> 
   <profiledesc> 
   	<creation>Inventory encoded in Oxygen XML editor by Deborah Weller. 
-		<date era="ce" encodinganalog="date" normal="20120917">September 17, 2013</date></creation> 
+		<date era="ce" encodinganalog="date" normal="20120917">2012-09-17</date></creation> 
 	 <langusage>Finding aid is in<language> English.</language></langusage> 
   </profiledesc> 
+	<revisiondesc>
+		<change>
+			<date normal="20170227">2017-03-01</date>
+			<item>This finding aid was manually revised and updated to EAD 2.0 specifications by Erik Radio</item>
+		</change>
+	</revisiondesc>
 </eadheader> 
 <frontmatter> 
   <titlepage> 
@@ -37,34 +45,34 @@
   	<publisher>University of Arizona Libraries, Special Collections</publisher> 
 	 <list> 
 		<defitem> 
-		  <label>Processed by:</label> 
-		  <item>Staff.</item> 
+		  <label>Processed by</label> 
+		  <item>Staff</item> 
 		</defitem> 
 		<defitem> 
-		  <label>Date completed:</label> 
+		  <label>Date completed</label> 
 		  <item> 
 			 <date>1994</date></item> 
 		</defitem> 
 		<defitem> 
-		  <label>Encoded by:</label> 
+		  <label>Encoded by</label> 
 		  <item>Deborah Welller</item> 
 		</defitem> 
 	 </list> 
-	 <p>&#x00A9; 20013. Arizona Board of Regents. All rights reserved.</p> 
+	 <p>&#x00A9; 2013. Arizona Board of Regents. All rights reserved.</p> 
   </titlepage> 
 </frontmatter> 
-<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
-  <did id="a1"> 
+<archdesc level="collection" type="inventory" relatedencoding="351$c"> 
+  <did> 
 	 <head>Collection Summary</head> 
-  	<unittitle encodinganalog="245" label="Collection Name:">The Land of Mañana,
+  	<unittitle encodinganalog="245" label="Collection Name">The Land of Mañana
 		<unitdate>1883</unitdate></unittitle>	 
-	 <unitid label="Collection Number:" encodinganalog="099"
-	 	repositorycode="AzU" countrycode="us">AZ 029</unitid> 
-	 <origination label="Creator:"> 
+	 <unitid label="Collection Number" encodinganalog="099"
+	 	repositorycode="US-AzU" countrycode="US">AZ 029</unitid> 
+	 <origination label="Creator"> 
 	 	<persname encodinganalog="100">Blake, William Edgar,</persname> </origination> 
-	 <abstract label="Abstract:">Holograph of a journal depicting a train trip through the southwest and Mexico in 1883.</abstract> 
-  	<physdesc encodinganalog="300$a" label="Physical Description:"><extent>1 item (191 leaves); 30 cm.</extent></physdesc>	 
-	 <repository label="Repository:"> 
+	 <abstract label="Abstract">Holograph of a journal depicting a train trip through the southwest and Mexico in 1883.</abstract> 
+  	<physdesc encodinganalog="300$a" label="Physical Description"><extent>1 item (191 leaves); 30 cm.</extent></physdesc>	 
+	 <repository label="Repository"> 
 	 	<corpname>University of Arizona Libraries, Special Collections</corpname> 
 		<address> 
 		  <addressline>University of Arizona</addressline> 
@@ -94,29 +102,29 @@
   	<p>The Land of Mañana (AZ 029). Special
   		Collections, University of Arizona Libraries.</p> 
   </prefercite> 
-  <bioghist id="a2" encodinganalog="545"> 
+  <bioghist encodinganalog="545"> 
 	 <head>Biographical Note</head> 
-  	<p> William Edgar Blake was born in Morning Sun, Ohio on June 27, 1844.  Blake and his family moved to Iowa in 1845. He attended Monmouth College in Illinois, and went on to study law at Iowa State University earning his law degree in 1869. Blake was also a Civil War vetran serving with the Company C, First Iowa calvary.</p>
+  	<p> William Edgar Blake was born in Morning Sun, Ohio on June 27, 1844.  Blake and his family moved to Iowa in 1845. He attended Monmouth College in Illinois, and went on to study law at Iowa State University earning his law degree in 1869. Blake was also a Civil War veteran serving with the Company C, First Iowa calvary.</p>
   	<p>In 1869 Blake and his wife Sarah Lucretia Hurd, moved to Burlington, Iowa where he practiced law until his death in 1915.</p>
   </bioghist> 
-  <arrangement id="a4" encodinganalog="351$a"> 
+  <arrangement encodinganalog="351$a"> 
 	 <head>Arrangement</head> 
   	<p>This collection is organized Chronologically</p>	 
   </arrangement> 
-  <scopecontent id="a3" encodinganalog="520"> 
+  <scopecontent encodinganalog="520"> 
 	 <head>Scope and Content Note</head> 
   	<p>Holograph manuscript consists of a journal of a railway trip through New Mexico, Arizona, and, chiefly, northern Mexico in 1883.</p> 
   </scopecontent> 
-  <controlaccess id="a12"> 
+  <controlaccess> 
 	 <head>Access Terms</head> 
 	 <list> 
-	 	<item><geogname encodinganalog="651" role="subject" >Arizona--Description and travel.</geogname> </item>
+	 	<item><geogname encodinganalog="651" role="subject" >Arizona</geogname> </item>
 	 </list> 
   	<list> 
-  		<item> <geogname encodinganalog="651" role="subject" >New Mexico--Description and travel.</geogname> </item>
+  		<item> <geogname encodinganalog="651" role="subject" >New Mexico</geogname> </item>
   	</list>
   	<list> 
-  		<item><geogname encodinganalog="651" role="subject" >Mexico--Description and travel.</geogname> </item>
+  		<item><geogname encodinganalog="651" role="subject" >Mexico</geogname> </item>
   	</list>
   </controlaccess></archdesc></ead>
   
