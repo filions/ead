@@ -2,8 +2,7 @@
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"
     relatedencoding="MARC21">
-    <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal"
-        id="a0">
+    <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal">
         <eadid>UAAZ022</eadid>
         <filedesc>
             <titlestmt>
@@ -44,7 +43,7 @@
         </revisiondesc>
     </eadheader>
     <archdesc level="collection" type="inventory" relatedencoding="351$c">
-        <did id="a1">
+        <did>
             <head>Collection Summary</head>
             <unittitle encodinganalog="245" label="Collection Name"> The Last of the Plainsmen
                     <unitdate type="inclusive" label="Dates" normal="1908">circa 1908</unitdate>
@@ -90,7 +89,7 @@
             <p>Processed by Staff.</p>
         </processinfo>
 
-        <arrangement id="a4" encodinganalog="351$a">
+        <arrangement encodinganalog="351$a">
             <head>Arrangement</head>
             <p>This collection is arranged in narrative sequence.</p>
         </arrangement>
@@ -100,7 +99,7 @@
                 Other holograph corrections throughout by a different hand. Correspondence attesting
                 to authenticity of handwriting is laid in.</p>
         </scopecontent>
-        <relatedmaterial id="a6" encodinganalog="544">
+        <relatedmaterial encodinganalog="544">
             <p>Additional Grey manuscripts: AZ 342, AZ 343, AZ 389, MS 167.</p>
         </relatedmaterial>
         <controlaccess>
