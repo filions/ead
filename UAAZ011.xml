@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.asu.edu/asuns/dtd/ead.dtd">
 <?filetitle Behan Family Papers?>
-<ead relatedencoding="MARC21">
+<ead xmlns="urn:isbn:1-931666-22-9"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="urn:isbn:1-931666-22-9 https://www.loc.gov/ead/ead.xsd"
+ relatedencoding="MARC21">
 <eadheader audience="internal" findaidstatus="edited-full-draft"
  langencoding="iso639-2b"> 
-  <eadid encodinganalog="856$u">PUBLIC "-//University of Arizona Library
-	 Special Collections//text(US::AzU::Behan Family Papers)//en"
-	 "UAAZ011.xml"</eadid> 
+  <eadid>UAAZ011</eadid> 
   <filedesc> 
 	 <titlestmt> 
-		<titleproper encodinganalog="245$a">Behan Family papers, 
+		<titleproper encodinganalog="245$a">Behan Family papers 
 		  <date>1883-1944 (bulk 1907-1944)</date></titleproper> 
 		<author encodinganalog="245$c">Inventory prepared by Staff</author> 
 	 </titlestmt> 
@@ -30,13 +30,19 @@
   <profiledesc> 
 	 <creation encodinganalog="500">Inventory encoded by Jan Marie Payne 
 		<date>June 20, 2002</date></creation> 
-	 <langusage>Inventory is in<language langcode="en"
+	 <langusage>Inventory is in<language langcode="eng"
 		encodinganalog="546">English.</language></langusage> 
   </profiledesc> 
+	<revisiondesc>
+		<change>
+			<date normal="20170228">2017-02-28</date>
+			<item>This finding aid was manually revised and updated to EAD 2.0 specifications by Sara Filion</item>
+		</change>
+	</revisiondesc>
 </eadheader> 
 <frontmatter> 
   <titlepage> 
-	 <titleproper encodinganalog="245$a">Behan Family papers, 
+	 <titleproper encodinganalog="245$a">Behan Family papers 
 		<date>1883-1944 (bulk 1907-1944)</date></titleproper> 
 	 <num>Collection Number: AZ 011</num> 
 	 <publisher encodinganalog="260$b">University of Arizona Libraries, Special
@@ -60,21 +66,21 @@
   </titlepage>
 </frontmatter>
 <archdesc level="collection"> 
-  <did id="a1"> 
+  <did> 
 	 <head>Collection Summary</head> 
-	 <unittitle encodinganalog="245" label="Collection Name:">Behan Family papers, 
-		<unitdate type="inclusive" normal="AzU">1883-1944 (bulk
+	 <unittitle encodinganalog="245" label="Collection Name">Behan Family papers, 
+		<unitdate type="inclusive" normal="1833/1944">1883-1944 (bulk
 		  1907-1944)</unitdate></unittitle> 
 	 <unitid label="Collection Number:" encodinganalog="099"
-	  repositorycode="AzU" countrycode="us"> AZ 011</unitid> 
-	 <origination label="Creator:"> 
+	  repositorycode="US-azu" countrycode="US"> AZ 011</unitid> 
+	 <origination label="Creator"> 
 		<persname encodinganalog="100">Behan family</persname></origination> 
-	 <abstract label="Abstract:">Personal and official correspondence, financial
+	 <abstract label="Abstract">Personal and official correspondence, financial
 		records, notes, a photograph album, and photographs relating chiefly to
 		personal and family life.</abstract> 
-	 <physdesc encodinganalog="300$a" label="Physical Description:"><extent
-		encodinganalog="300">.8 linear feet</extent></physdesc> 
-	 <repository label="Respository:"> 
+	 <physdesc encodinganalog="300$a" label="Physical Description"><extent
+		encodinganalog="300">0.8 linear feet</extent></physdesc> 
+	 <repository label="Respository"> 
 		<corpname encodinganalog="110">University of Arizona Libraries, Special
 		  Collections</corpname> 
 		<address> 
@@ -104,7 +110,7 @@
 	 <head>Credit Line</head> 
 	 <p>Behan Family papers (AZ 011). Special Collections, University of Arizona Libraries.</p> 
   </prefercite> 
-  <bioghist id="a2" encodinganalog="545"> 
+  <bioghist encodinganalog="545"> 
 	 <head>Biographical Note</head> 
 	 <p>Pioneer Arizona family, prominent in public service and law enforcement.
 		John Behan, 1845-1912, was county deputy sheriff at Tombstone, Ariz.,
@@ -126,7 +132,7 @@
 		  <date>ca. 1890-1940</date></item> 
 	 </list> 
   </arrangement> 
-  <scopecontent id="a3" encodinganalog="520"> 
+  <scopecontent encodinganalog="520"> 
 	 <head>Scope and Content Note</head> 
 	 <p>Personal and official correspondence, financial records, notes, a
 		photograph album, and photographs relating chiefly to personal and family life.
@@ -137,7 +143,7 @@
 		1896-1897; and account books and journals from Albert Behan's customs work.</p>
 	 
   </scopecontent> 
-  <controlaccess id="a12"> 
+  <controlaccess> 
 	 <head>Access Terms</head> 
 	 <list> 
 		<item> 
@@ -186,7 +192,7 @@
 		  <genreform>Journals</genreform></item> 
 	 </list> 
   </controlaccess> 
-  <dsc type="combined" id="a23"> 
+  <dsc type="combined"> 
 	 <head>Container List</head> 
 	 <c01 level="series"> 
 		<did> 
@@ -197,7 +203,7 @@
 		<c02 level="file"> 
 		  <did><container type="box">1</container><container
 			 type="folder">1</container> 
-			 <unittitle>John H. Behan: letters and miscelaneous material. 
+			 <unittitle>John H. Behan: letters and miscellaneous material. 
 				<unitdate type="inclusive"
 				 normal="1883/1910">1883-1910</unitdate></unittitle> 
 		  </did> 
@@ -243,7 +249,7 @@
 		  <scopecontent> 
 			 <p>Contains several small account books and journals from Albert P.
 				Behan's work with the U.S. Customs Service along the Mexican border, plus a
-				Treasury Department manual for the Gudiance of the Outdoor Force of the Customs
+				Treasury Department manual for the Guidance of the Outdoor Force of the Customs
 				Service. Also contains several letters on Treasury Department letterhead. </p> 
 		  </scopecontent> 
 		</c02> 
@@ -277,7 +283,7 @@
 	 <c01 level="series"> 
 		<did> 
 		  <unittitle>Series II: Photographs, 
-			 <unitdate type="inclusive" normal="NaN/1940">ca.
+			 <unitdate type="inclusive" normal="1890/1940">ca.
 				1890-1940</unitdate></unittitle> 
 		</did> 
 		<c02> 
